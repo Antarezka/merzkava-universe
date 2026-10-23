@@ -7,6 +7,8 @@ This module uses `core/HP_SYSTEM.md` for maximum HP and `core/SPIRIT_RING_RULES.
 
 ## 1. Core Principles
 
+In formulas, `clamp(min, max, x)` means: use `min` if `x` is below the minimum, use `max` if `x` is above the maximum, otherwise use `x` unchanged.
+
 - Combat is turn-based. Resolve one meaningful combat action per turn, then update the scene and state before the next action.
 - PowerScale is the baseline comparison for characters whose PowerScale can be calculated. It is not damage, a hit guarantee, or an automatic victory.
 - Readiness, technique, usable energy, position, awareness, and relevant equipment affect combat outcomes.

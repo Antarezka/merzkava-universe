@@ -76,13 +76,17 @@ Setiap breakthrough juga memerlukan ring berikutnya yang benar-benar tersedia, i
 
 Jika persyaratan item khusus Beast belum ditetapkan, jangan mengarangnya atau menganggapnya tidak diperlukan. Periksa `bestiary/SPIRIT_BEAST_RULES.md`.
 
-Deviasi: makin besar jarak Sync progress dari cap ketika breakthrough dipaksakan, makin tinggi tingkat deviasi. Memaksakan Penyerapan Spirit Ring sebelum jeda minimum juga menyebabkan deviasi yang dapat berkisar dari ringan hingga berat. Setiap deviasi wajib mencatat:
-1. Tingkat deviasi (ringan, sedang, atau berat).
-2. Pengurangan cap kompatibilitas maksimum ring berikutnya dan cap baru yang berlaku.
-3. Damage HP berdasarkan aturan damage/HP resmi yang tersedia.
-4. Cedera dan perubahan kondisi tubuh yang konkret.
+Deviasi: makin besar jarak Sync progress dari cap ketika breakthrough dipaksakan, makin tinggi tingkat deviasi. Memaksakan Penyerapan Spirit Ring sebelum jeda minimum juga menyebabkan deviasi. Persentase paparan deviasi ditentukan oleh nomor ring: Ring 1 memiliki paparan 100% (tertinggi), dan persentasenya harus lebih rendah untuk setiap nomor ring berikutnya. Nilai persis untuk Ring 2–9 belum ditetapkan; jangan mengarang tabel persentase.
 
-Jika rumus numerik untuk tingkat deviasi, pengurangan cap, damage, atau pemulihan belum ditetapkan, jangan mengarang angka seolah-olah canon. Nyatakan nilai numerik belum ditentukan, tetapi tetap catat tingkat dan konsekuensi kualitatif yang didukung sumber.
+**Tingkat risiko ditentukan oleh jumlah poin status yang benar-benar hilang**, bukan oleh persentase paparan deviasi. Dengan demikian, persentase paparan dan tingkat risiko adalah dua hal berbeda. Patokan yang telah dikonfirmasi: kehilangan 15–19 poin status termasuk kategori **Menengah Rendah**. Rentang numerik untuk kategori risiko lain belum ditetapkan.
+
+Setiap deviasi wajib mencatat:
+1. Persentase paparan deviasi sesuai nomor ring, jika nilai resminya tersedia.
+2. Jumlah poin status yang hilang dan kategori risiko berdasarkan jumlah kehilangan tersebut.
+3. Pengurangan cap kompatibilitas maksimum ring berikutnya dan cap baru yang berlaku.
+4. Damage HP serta cedera/kondisi tubuh yang benar-benar terjadi.
+
+Jika rumus numerik untuk persentase Ring 2–9, rentang kategori risiko lain, pengurangan cap, damage, atau pemulihan belum ditetapkan, jangan mengarang angka seolah-olah canon. Tandai nilai tersebut sebagai belum ditentukan dan catat konsekuensi yang memang didukung sumber.
 
 Penyerapan paksa membuat sinkronisasi 100% nyaris mustahil. Penyerahan sukarela oleh Spirit Beast membuat sinkronisasi 100% lebih mungkin, tetapi tidak menjamin keberhasilan.
 ## 6. Rumus Kompatibilitas, Power Scale, dan Qi

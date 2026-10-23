@@ -80,19 +80,19 @@ Deviasi: makin besar jarak Sync progress dari cap ketika breakthrough dipaksakan
 
 ### 5.1. Persentase paparan menurut nomor ring
 
-Paparan adalah faktor skala untuk menghitung kehilangan HP dasar. Ring 1 memiliki paparan 100% (patokan tertinggi); setiap nomor ring berikutnya turun 10 poin persentase, hingga Ring 9 sebesar 20%.
+Paparan adalah faktor skala untuk menghitung kehilangan HP dasar. Ring 1 memiliki paparan 20% (terendah); setiap nomor ring berikutnya naik 10 poin persentase, hingga Ring 9 sebesar 100% (tertinggi). Semakin tinggi nomor ring yang sedang diserap, semakin tinggi paparan deviasi.
 
 | Nomor Spirit Ring yang sedang diserap | Paparan deviasi |
 |---:|---:|
-| Ring 1 | 100% |
-| Ring 2 | 90% |
-| Ring 3 | 80% |
-| Ring 4 | 70% |
+| Ring 1 | 20% |
+| Ring 2 | 30% |
+| Ring 3 | 40% |
+| Ring 4 | 50% |
 | Ring 5 | 60% |
-| Ring 6 | 50% |
-| Ring 7 | 40% |
-| Ring 8 | 30% |
-| Ring 9 | 20% |
+| Ring 6 | 70% |
+| Ring 7 | 80% |
+| Ring 8 | 90% |
+| Ring 9 | 100% |
 
 Persentase ini adalah faktor paparan, bukan persentase peluang gagal dan bukan kategori risiko. Nomor ring berarti nomor ring yang sedang dicoba diserap, bukan jumlah ring yang sudah dimiliki sebelum proses tersebut.
 
@@ -107,15 +107,15 @@ Patokan kehilangan HP untuk paparan 100% adalah **15–19 poin HP**. Untuk ring 
 
 | Ring | Paparan | Rentang kehilangan HP dasar | Kategori yang mungkin |
 |---:|---:|---:|---|
-| 1 | 100% | 15–19 HP | Menengah Rendah |
-| 2 | 90% | 14–17 HP | Menengah Rendah |
-| 3 | 80% | 12–15 HP | Menengah Rendah |
-| 4 | 70% | 11–13 HP | Menengah Rendah |
+| 1 | 20% | 3–4 HP | Sangat Rendah |
+| 2 | 30% | 5–6 HP | Rendah |
+| 3 | 40% | 6–8 HP | Rendah |
+| 4 | 50% | 8–10 HP | Rendah–Menengah Rendah |
 | 5 | 60% | 9–11 HP | Rendah–Menengah Rendah |
-| 6 | 50% | 8–10 HP | Rendah–Menengah Rendah |
-| 7 | 40% | 6–8 HP | Rendah |
-| 8 | 30% | 5–6 HP | Rendah |
-| 9 | 20% | 3–4 HP | Sangat Rendah |
+| 6 | 70% | 11–13 HP | Menengah Rendah |
+| 7 | 80% | 12–15 HP | Menengah Rendah |
+| 8 | 90% | 14–17 HP | Menengah Rendah |
+| 9 | 100% | 15–19 HP | Menengah Rendah |
 
 Angka ini adalah **kehilangan HP dalam poin**, bukan persentase dari HP maksimum. Karena itu, Ring 1 pada karakter dengan HP 100 memiliki kehilangan dasar 15–19 HP, sesuai patokan awal. Jangan mengubahnya menjadi persentase HP maksimum.
 
@@ -148,7 +148,7 @@ Rentang pada §5.2 adalah dampak dasar ketika tidak ada pelanggaran tambahan. Ji
 
 `Gap = cap kompatibilitas − Sync progress saat ini`. Pengali gap dan pengali pelanggaran jeda **tidak ditumpuk**: gunakan pengali terbesar yang berlaku. Ini mencegah hukuman berlipat ganda dari satu kejadian yang sama. Jika Gap ≥10, proses tetap tidak sah menurut syarat bottleneck; pengali ×2,00 hanya dipakai bila narasi/kejadian secara eksplisit menyatakan karakter tetap memaksakan proses dan GM menyelesaikan konsekuensinya.
 
-Setelah pengali diterapkan, bulatkan hasil ke bilangan bulat terdekat (x,5 ke atas), batasi kehilangan aktual agar tidak melebihi HP saat ini, lalu tentukan kategori risiko dari kehilangan aktual. Contoh: Ring 1 menghasilkan 17 HP dasar; jika pengali ×1,50 berlaku, hasilnya 26 HP sebelum batas HP saat ini, dan kategorinya Menengah Tinggi jika seluruh 26 HP benar-benar hilang.
+Setelah pengali diterapkan, bulatkan hasil ke bilangan bulat terdekat (x,5 ke atas), batasi kehilangan aktual agar tidak melebihi HP saat ini, lalu tentukan kategori risiko dari kehilangan aktual. Contoh: Ring 9 menghasilkan 17 HP dasar; jika pengali ×1,50 berlaku, hasilnya 26 HP sebelum batas HP saat ini, dan kategorinya Menengah Tinggi jika seluruh 26 HP benar-benar hilang.
 
 ### 5.5. Alur wajib GM
 

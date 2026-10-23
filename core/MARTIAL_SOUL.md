@@ -16,12 +16,12 @@ Spirit Ring yang diperoleh secara sah dapat memberikan kemampuan khusus sesuai a
 ## 2. Awakening
 
 - Awakening membuka atau mengungkap Martial Soul karakter.
-- Usia awakening belum ditetapkan dalam sumber canon yang tersedia.
+- Awakening berlangsung pada usia empat tahun atau lebih.
 - Awakening tidak otomatis memberikan Spirit Ring.
 - Awakening tidak otomatis membuktikan bahwa karakter memiliki bakat luar biasa, kualitas Martial Soul tertentu, kekuatan tersembunyi, atau garis keturunan khusus.
 - Hasil awakening harus dicatat berdasarkan peristiwa yang benar-benar terjadi di permainan.
 
-Usia awakening, upacara, pemeriksaan, dan prosedur rinci belum ditetapkan. Jangan menciptakan rincian tersebut sebagai canon.
+Batas usia awakening adalah empat tahun atau lebih. Upacara, pemeriksaan, dan prosedur rinci lain hanya boleh ditambahkan bila telah disepakati.
 
 ## 3. Karakteristik dan Klasifikasi
 
@@ -48,7 +48,7 @@ Jika sistem mekanik yang diperlukan belum tersedia, GM boleh mencatat tindakan d
 ## 5. Martial Soul dan Spirit Ring
 
 1. Spirit Ring diperoleh melalui mekanik Spirit Beast dan Spirit Ring yang sah.
-2. Ring yang telah diserap harus dicatat beserta sumber, usia, warna, kemampuan, dan hasil prosesnya jika informasi itu diketahui.
+2. Kemampuan ring yang telah diserap dicatat pada bagian Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada. Jangan menambahkan field profil Spirit Ring tersendiri.
 3. Jangan memberikan kemampuan ring sebelum ring benar-benar diperoleh dan diserap.
 4. Jangan mengasumsikan setiap Martial Soul dapat menyerap ring apa pun tanpa risiko.
 5. Kecocokan antara Martial Soul, Spirit Ring, dan tubuh karakter mengikuti aturan resmi terkait. Bila rumus atau ambang kecocokan belum ditetapkan, jangan menciptakannya.
@@ -69,7 +69,7 @@ Jika informasinya tersedia, profil karakter harus mencatat:
 - bentuk atau kategori yang telah dikonfirmasi;
 - atribut atau karakteristik yang telah dikonfirmasi;
 - kemampuan bawaan yang telah dikonfirmasi;
-- Spirit Ring yang benar-benar telah diperoleh, termasuk usia, warna, dan kemampuan;
+- Kemampuan dari Spirit Ring yang benar-benar telah diperoleh, dicatat dalam Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada; jangan menambahkan field profil Spirit Ring tersendiri;
 - kelemahan, batasan, atau efek samping yang sudah ditetapkan;
 - asal informasi atau peristiwa yang membuktikan perubahan.
 

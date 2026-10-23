@@ -44,7 +44,7 @@ Gunakan urutan Stage berikut di dalam setiap Realm:
 3. Late (Akhir)
 4. Peak (Puncak)
 
-Progres persentase kekuatan kultivasi dan kompatibilitas dicatat serta dijelaskan di dalam log meditasi yang sama, bukan sebagai sistem terpisah tanpa konteks. Meditasi harus dilakukan di tempat aman dan stasioner. Jangan mengarang laju kenaikan persentase atau bonus latihan.
+Progres persentase kekuatan kultivasi dan kompatibilitas dicatat serta dijelaskan di dalam log meditasi yang sama, bukan sebagai sistem terpisah tanpa konteks. Meditasi harus dilakukan di tempat aman dan stasioner. Terapkan formula kompatibilitas, PowerScale, dan Qi dalam `core/SPIRIT_RING_RULES.md`; jangan mengarang input yang belum diketahui.
 
 Progres kultivasi 100% berarti karakter telah mencapai bottleneck untuk kemajuan berikutnya. **Progres 100% bukan breakthrough otomatis.**
 
@@ -99,7 +99,7 @@ Penaklukan Spirit Beast dan proses penyerapan Spirit Ring adalah bagian yang ber
 - Saat progres mencapai 100% dan karakter berada di bottleneck, Spirit Ring berikutnya menjadi bagian dari proses penyerapan dan breakthrough.
 - Sinkronisasi 100% nyaris mustahil melalui penyerapan paksa. Jika Spirit Beast secara sukarela menyerahkan ringnya, sinkronisasi 100% lebih mungkin dicapai, tetapi tidak dijamin.
 - Usia Spirit Ring tidak memiliki batas mutlak hanya berdasarkan angka; toleransi tubuh dan kompatibilitas tetap menentukan. Rentang warna ring tetap mengikuti tabel di atas, sementara warna untuk usia 500.000 tahun ke atas belum ditetapkan.
-- Jangan mengarang rumus kompatibilitas, peluang numerik, durasi, biaya sumber daya, atau risiko spesifik yang belum disepakati.
+- Gunakan formula kompatibilitas, PowerScale, dan Qi yang tercantum di `core/SPIRIT_RING_RULES.md`. Jangan mengganti rumus atau mengarang nilai input yang belum diketahui.
 
 ## 7. Konsistensi dengan WORLD.md
 

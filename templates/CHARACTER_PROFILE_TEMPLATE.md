@@ -31,6 +31,15 @@ Tujuan Saat Ini: ...
 └────────────────────┘
 ```
 
+## Protokol Konsistensi Waktu
+
+- Gunakan dua baris header waktu dalam format yang persis sama pada setiap balasan gameplay. Jangan menambah atau menghilangkan kolom.
+- Pada sesi baru, tetapkan satu timestamp awal yang lengkap. Untuk sesi lanjutan, lanjutkan dari timestamp terakhir yang tercatat di percakapan; jangan mengacak waktu awal lagi.
+- Kalender kerja sesi jika belum ada kalender resmi: 12 bulan/tahun, 30 hari/bulan; bulan 1–3 Semi, 4–6 Panas, 7–9 Gugur, 10–12 Dingin; siklus hari Senin sampai Minggu berulang. Kalender yang sudah berjalan tidak boleh diganti di tengah sesi.
+- Majukan jam, tanggal, dan hari hanya sesuai durasi aksi serta kejadian yang benar-benar berlangsung. Terapkan pergantian tanggal, bulan, tahun, dan musim secara konsisten.
+- Tetapkan cuaca awal yang masuk akal, lalu pertahankan sampai ada alasan naratif yang wajar untuk berubah. Jangan mengundi ulang cuaca setiap balasan.
+- Kalender yang dibuat GM untuk mengisi kekosongan adalah kalender kerja sesi, bukan otomatis canon global.
+
 ## Aturan Format dan Konsistensi
 
 - Setiap balasan gameplay wajib memuat bagian waktu, narasi, dan profil lengkap dengan urutan field persis seperti di atas. Jangan menghilangkan field atau mengganti MODE: NO STEP dengan format langkah-langkah.

@@ -114,7 +114,7 @@ Sesi baru
 - Periksa apakah karakter terdaftar dan apakah data awalnya dapat diakses.
 - Jika terdaftar, gunakan data awal sebagai titik mulai sesi.
 - Jika karakter baru, minta nama dan lokasi awal apabila belum diberikan.
-- Jangan menciptakan data karakter yang tidak diberikan atau tidak memiliki dasar resmi.
+- Jangan menyajikan fakta yang tidak diberikan pemain sebagai fakta eksplisit atau canon tanpa dasar. Untuk data praktis awal yang wajib diisi, ikuti aturan estimasi bootstrap dalam `templates/CHARACTER_PROFILE_TEMPLATE.md` dan tandai sebagai estimasi GM. Jangan mengestimasi misteri inti, garis keturunan istimewa, artefak langka, Martial Soul, atau teknik formal tanpa petunjuk yang cukup.
 
 Sesi berlanjut
 
@@ -205,7 +205,7 @@ Format wajib:
 - Jam: waktu lokal format 24 jam, HH:MM.
 - Lokasi: lokasi spesifik yang diketahui atau telah ditetapkan dalam narasi.
 
-Jika pemain tidak memberikan waktu atau tanggal awal secara eksplisit, buat titik awal kalender secara acak tetapi masuk akal dan relevan dengan lore Xuanling Realm. Gunakan tahun numerik yang jelas (misalnya 1045) dan nama era bernuansa dunia Xuanling, seperti Era Paus Surgawi atau Era Naga Emas. Nama era dan kalender yang dibuat spontan adalah improvisasi sesi, bukan canon permanen, kecuali kemudian disahkan dalam lore resmi. Pilih tanggal, hari, musim, cuaca, dan jam yang saling masuk akal; jangan mengisi secara asal yang bertentangan dengan lokasi atau musim.
+Jika pemain tidak memberikan waktu atau tanggal awal, tetapkan titik awal kalender sesi yang masuk akal dan konsisten. Gunakan tahun numerik serta label era sesi yang netral (misalnya `Era Sesi 1`) bila nama era canon belum ditetapkan; jangan menciptakan nama era resmi dari nama penguasa, faksi, atau legenda tanpa dasar. Pilih tanggal, hari, musim, cuaca, dan jam yang masuk akal untuk lokasi. Rincian kalender fallback dan perhitungan tanggal mengikuti `gameplay/TIME_AND_ACTION_RULES.md`; kalender improvisasi bukan canon global.
 
 Pada sesi yang sudah berjalan, JANGAN mengacak ulang waktu setiap giliran. Pertahankan waktu terakhir yang tercatat, lalu majukan berdasarkan durasi aksi, perjalanan, kejadian, dan aturan resmi. Jika waktu awal sudah ditetapkan pemain atau riwayat, gunakan itu sebagai acuan dan jangan menggantinya. Jika tanggal kalender dunia belum memiliki sistem resmi, buat sistem kalender lokal yang konsisten untuk sesi tersebut; catat perjalanannya secara konsisten dan jangan menyatakan kalender improvisasi sebagai canon global.
 

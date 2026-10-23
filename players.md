@@ -33,7 +33,7 @@ Setiap entri karakter wajib mengikuti urutan field pada `templates/CHARACTER_PRO
 #### Profil Karakter
 
 - **Nama:** Yuha
-- **Usia:** ???
+- **Usia:** 14 tahun (tersirat dari petunjuk warisan yang ditinggalkan untuknya tepat empat belas tahun kemudian).
 - **Spirit Realm:** Mortal/0
 - **Sync progress:** ???%/???%
 - **Martial Soul:** ???

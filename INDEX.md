@@ -172,7 +172,7 @@ Field yang sudah disepakati mencakup:
 - Teknik / Kemampuan
 - Tujuan Saat Ini
 
-Informasi Law dan seluruh Spirit Ring yang telah diperoleh wajib tetap tercatat di profil atau bagian Teknik/Kemampuan yang sesuai. Jangan menghilangkan data ring hanya karena template belum menyediakan field khusus. Jangan membuat field baru dan menganggapnya resmi sebelum template disepakati.
+Jangan menambahkan field terpisah untuk Law atau Spirit Ring. Kemampuan ring yang telah diperoleh dicatat dalam Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada. Jangan menghilangkan kemampuan yang telah diperoleh, tetapi jangan membuat field profil baru tanpa persetujuan pemilik.
 
 Tidak ada sinkronisasi progres otomatis ke repository. Progres gameplay tetap berada dalam percakapan sampai pemilik repository secara manual memutuskan untuk memperbarui data awal.
 
@@ -189,9 +189,9 @@ Tidak ada sinkronisasi progres otomatis ke repository. Progres gameplay tetap be
 - Dalam situasi kritis, pemain memilih satu aksi utama ketika beberapa aksi independen tidak dapat dilakukan sekaligus.
 - Kultivasi 100% berarti mencapai bottleneck, bukan otomatis breakthrough.
 - Aksi biasa maksimal 3 jam per giliran.
-- Meditasi kultivasi murni dapat berlangsung maksimal 1 bulan hanya jika seluruh syarat terpenuhi: meditasi saja, lokasi aman dan stasioner, persediaan cukup dan tercatat, serta checkpoint perkembangan.
+- Meditasi kultivasi murni untuk menaikkan kekuatan dan kompatibilitas dapat berlangsung maksimal 1 bulan hanya jika seluruh syarat terpenuhi: meditasi saja, lokasi aman dan stasioner, persediaan cukup dan tercatat, serta checkpoint perkembangan.
 - Jika syarat meditasi panjang tidak terpenuhi, gunakan batas aksi biasa.
-- Penyerapan Spirit Ring dapat berlangsung di lokasi Spirit Beast dikalahkan sesuai mekanik yang sudah ditetapkan; jangan mewajibkan lokasi meditasi aman tanpa dasar.
+- Perburuan Spirit Beast boleh terjadi di lokasi berbahaya. Setelah Beast dikalahkan, Spirit Ring muncul mengambang di atas tubuhnya. Penyerapan ring adalah bagian dari kultivasi/breakthrough; jangan menyamakan lokasi perburuan dengan syarat meditasi untuk menaikkan kekuatan dan kompatibilitas.
 - WORLD.md adalah acuan utama untuk lore dunia. Modul mekanik mengatur mekanik yang secara eksplisit ditetapkan. INDEX adalah navigasi, bukan pengganti dokumen sumber.
 - Semua kemampuan dan mekanik harus mengikuti sumber resmi yang tersedia.
 - Jika aturan belum ditetapkan atau sumber bertentangan, nyatakan masalah dan minta klarifikasi jika diperlukan.
@@ -218,7 +218,7 @@ Xuanling Realm — Eastern Fantasy · Martial Soul · Spirit Beast · Spirit Rin
 
 Dunia ini memiliki tiga kekuatan utama yang sudah ditetapkan: Golden Dragon Empire di timur, Tianhai Yunzhou di wilayah maritim, dan Beiming Gu di utara. Kekaisaran Naga Emas memiliki tujuh wilayah utama. Dunia juga mencakup hutan, reruntuhan kuno, sekte, akademi, jalur perdagangan, dan kawasan Spirit Beast.
 
-Sistem kultivasi terdiri dari 9 Realm, masing-masing dengan tahap Early, Middle, Late, dan Peak. Dalam aturan proyek saat ini, satu Realm membuka satu slot Spirit Ring tambahan. Nama Realm 1–8 belum ditetapkan; Realm 9 bernama Spirit Primordial. Martial Soul merupakan sistem kekuatan utama, sementara Spirit Ring diperoleh dari Spirit Beast dan berhubungan dengan kultivasi serta breakthrough. Rincian yang belum ditetapkan tidak boleh diasumsikan sebagai canon.
+Sistem kultivasi terdiri dari 9 Realm, masing-masing dengan tahap Early, Middle, Late, dan Peak. Satu Realm membuka satu slot Spirit Ring tambahan. Urutan Realm: Spirit Initiate, Spirit Adept, Spirit Expert, Spirit Elder, Spirit Ancestor, Spirit King, Spirit Emperor, Spirit Saint, dan Spirit Monarch. Martial Soul merupakan sistem kekuatan utama, sementara Spirit Ring diperoleh dari Spirit Beast dan digunakan dalam kultivasi serta breakthrough. Progres 100% berarti bottleneck, bukan breakthrough otomatis.
 
 Prinsip utama: tidak ada plot armor, profil harus konsisten, aturan bersumber dari modul resmi, dan informasi yang belum ditetapkan tidak boleh dikarang.
 

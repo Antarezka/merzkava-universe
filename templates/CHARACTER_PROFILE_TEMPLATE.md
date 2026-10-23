@@ -1,39 +1,43 @@
 # Xuanling Realm — Character Profile Template
 
-Gunakan template ini untuk profil karakter gameplay. Pertahankan nama field dan urutannya. Jangan menambah field baru tanpa persetujuan pemilik repository.
+Gunakan format ini untuk profil karakter yang ditampilkan selama percakapan/gameplay. Pertahankan nama field dan urutannya. Jangan menambah atau menghilangkan field tanpa persetujuan pemilik repository.
 
-## Profil Karakter
-
-- **Nama:** ???
-- **Usia:** ???
-- **Spirit Realm:** ???/???
-- **Sync progress:** ???%/???%
-- **Martial Soul:** ???
-- **Thinker Grade:** ???
-- **HP:** ???/???
-- **Qi:** ...
-- **Kondisi Tubuh:** ???
-- **Equipment:** ???
-- **Inventory:** ???
-- **Assets:** ???
-- **Currency (xuan/zun):** ...xc | ...xs | ...xg | ...zj | ...az
-- **Teknik / Kemampuan:** ???
-- **Tujuan Saat Ini:** ???
+```text
+┌── Profil Karakter ──┐
+Nama: ...
+Usia: ...
+Spirit Realm: .../...
+Sync progress: ...%/...%
+Breakthrough: ... | Day left
+Martial Soul: ...
+Thinker Grade: ...
+HP: .../...
+Qi: ...
+Kondisi Tubuh: ...
+Equipment: ...
+Inventory: ...
+Assets: ...
+Currency (xuan/zun): ...xc | ...xs | ...xg | ...zj | ...az
+Teknik / Kemampuan: ...
+Tujuan Saat Ini: ...
+└────────────────────┘
+```
 
 ## Format Field Wajib
 
-1. **Spirit Realm:** gunakan `Nama Realm/angka Stage`, dengan Stage numerik: `1` = Early, `2` = Middle, `3` = Late, `4` = Peak. Contoh: `Spirit Ancestor/2`. Mortal tidak memiliki Stage kultivasi dan ditulis `Mortal/0`. Jika Realm atau Stage belum diketahui, gunakan `???/???`.
-2. **HP:** gunakan `HP saat ini/HP maksimum`. Contoh Mortal penuh: `100/100`; Spirit Primordial/4 penuh: `8950/8950`. Gunakan `???/maksimum` jika HP saat ini tidak diketahui tetapi Realm/Stage diketahui. Gunakan `???/???` jika Realm/Stage juga tidak diketahui. HP maksimum wajib mengikuti `core/HP_SYSTEM.md`; jangan otomatis mengisi HP saat ini dengan nilai maksimum.
-3. **Qi:** jika karakter belum menyerap Spirit Ring pertama, tulis tepat `...`. Setelah ring pertama berhasil diserap, gunakan `Qi saat ini/Qi maksimum`; Qi maksimum dasar mengikuti jumlah ring pada `core/SPIRIT_RING_RULES.md`. Jika jumlah ring diketahui tetapi Qi saat ini tidak diketahui, gunakan `???/Qi maksimum`. Jangan mengarang nilai saat ini.
-4. **Sync progress:** gunakan format `progres saat ini%/batas kompatibilitas maksimum%`, misalnya `Sync progress: 0%/78%` hanya jika 78% adalah batas resmi ring karakter tersebut. Batas tiap ring dapat berbeda dan tidak otomatis 100%. Jika nilai belum diketahui, gunakan `???%/???%` tanpa mengarang.
-6. **Thinker Grade:** gunakan angka Grade 1–10 sesuai modul Thinker; jika belum diketahui, `???`.
+1. **Nama dan Usia:** gunakan data yang sudah tercatat. Jika belum diketahui, gunakan `???`.
+2. **Spirit Realm:** gunakan `Nama Realm/angka Stage`, dengan Stage numerik: `1` = Early, `2` = Middle, `3` = Late, `4` = Peak. Contoh: `Spirit Ancestor/2`. Mortal tidak memiliki Stage kultivasi dan ditulis `Mortal/0`. Jika Realm atau Stage belum diketahui, gunakan `???/???`.
+3. **Sync progress:** gunakan format `progres saat ini%/batas kompatibilitas maksimum%`. Batas tiap ring dapat berbeda dan tidak otomatis 100%. Jika belum diketahui, gunakan `???%/???%`.
+4. **Breakthrough:** tampilkan status breakthrough dan hitung mundur jeda minimum yang masih tersisa dalam format `status | jumlah Day left`. Gunakan aturan resmi Cultivation System dan Spirit Beast Rules. Jika data yang diperlukan tidak diketahui atau tidak bisa diverifikasi, tulis `??? | ??? Day left`; jangan menebak.
+5. **HP:** gunakan `HP saat ini/HP maksimum`. HP maksimum wajib mengikuti `core/HP_SYSTEM.md`; jangan otomatis mengisi HP saat ini dengan nilai maksimum. Jika HP saat ini tidak diketahui tetapi maksimum diketahui, gunakan `???/maksimum`.
+6. **Qi:** jika karakter belum menyerap Spirit Ring pertama, tulis tepat `...`. Setelah ring pertama berhasil diserap, gunakan `Qi saat ini/Qi maksimum` sesuai `core/SPIRIT_RING_RULES.md`. Jangan mengarang nilai saat ini.
+7. **Thinker Grade:** gunakan angka Grade 1–10 sesuai modul Thinker; jika belum diketahui, `???`.
+8. **Currency:** gunakan format persis `...xc | ...xs | ...xg | ...zj | ...az`. Jangan menciptakan saldo atau mengarang nilai tukar.
 
 ## Aturan Pengisian
 
-1. Jangan membiarkan field kosong. Gunakan penanda `???`, `???/???`, atau `...` sesuai aturan format di atas.
-2. Gunakan `???` untuk informasi yang belum diketahui atau belum tercatat. Untuk Qi sebelum Spirit Ring pertama, gunakan `...` sesuai format khusus Qi.
-3. Jangan menganggap Martial Soul belum awakening hanya karena karakter berstatus Mortal, kecuali hal itu dinyatakan pemain atau ditetapkan riwayat.
-4. Jangan menambahkan field terpisah bernama Law atau Spirit Rings. Catat rincian ring dalam **Teknik / Kemampuan** atau deskripsi **Martial Soul**.
-5. Jangan menciptakan nilai HP, Qi saat ini, uang, item, statistik, atau sumber daya. Terapkan hanya rumus dan sumber resmi yang tersedia. Saldo uang wajib dicatat pada field **Currency (xuan/zun)** dalam format persis seperti pada template. Kepanjangan singkatan mata uang hanya didefinisikan di `core/10_ECONOMY_SYSTEM.md`, bukan di template.
-6. HP maksimum wajib dihitung dari `core/HP_SYSTEM.md`; perubahan Realm/Stage tidak memulihkan HP saat ini secara otomatis.
-7. Pertahankan semua perubahan profil yang didukung kejadian dalam gameplay. Jangan menghapus luka, pengeluaran, barang, atau konsekuensi tanpa alasan sah.
+- Jangan membiarkan field kosong. Gunakan `???`, `???/???`, atau `...` sesuai aturan format di atas.
+- Jangan menganggap Martial Soul belum awakening hanya karena karakter berstatus Mortal, kecuali hal itu dinyatakan pemain atau ditetapkan riwayat.
+- Jangan menambahkan field terpisah bernama Law atau Spirit Rings. Catat rincian ring dalam **Teknik / Kemampuan** atau deskripsi **Martial Soul**.
+- Terapkan hanya rumus dan sumber resmi yang tersedia. Perubahan Realm/Stage tidak memulihkan HP saat ini secara otomatis.
+- Pertahankan semua perubahan profil yang didukung kejadian dalam gameplay. Jangan menghapus luka, pengeluaran, barang, atau konsekuensi tanpa alasan sah.

@@ -30,11 +30,11 @@ When both characters have a valid PowerScale:
 
 **Combat Rating = PowerScale × Readiness Factor × Relevant Artifact Factor**
 
-- **Readiness Factor:** choose one overall factor based on the character's current usable energy, applicable technique, equipment, and tactical position.
-- Use **0.80** for a clear severe disadvantage, **0.90** for a disadvantage, **1.00** for neutral/unknown, **1.10** for a clear advantage, and **1.20** for a decisive advantage.
-- Select one factor that best represents the combined situation. Do not add another multiplier or accuracy bonus for the same facts.
-- **Relevant Artifact Factor:** use **1.00** unless an owned, available artifact has a documented effect that matters to this specific action. Do not treat a higher tier as a universal combat bonus.
-- If key information is unknown, do not pretend the rating is exact. Resolve only what the evidence supports, or state which missing fact prevents a precise calculation.
+- **Readiness Factor:** choose one overall factor based on current usable energy, applicable technique, equipment, and tactical position.
+- Use **0.80** for a clear severe disadvantage, **0.90** for a disadvantage, **1.00** when neither side has a clear evidenced advantage, **1.10** for an advantage, and **1.20** for a decisive advantage.
+- This is one combined assessment, not a separate bonus for each category. Do not add another multiplier or accuracy bonus for the same facts.
+- **Relevant Artifact Factor:** use **1.00** unless an owned, available artifact has a documented effect relevant to this specific action. A higher tier alone is not a universal combat bonus.
+- Missing information is not proof of an advantage or disadvantage. If a missing key value prevents a fair comparison, do not claim an exact numeric result; resolve only what the evidence supports.
 
 Calculate the ratio:
 
@@ -73,8 +73,8 @@ Round final damage up to a whole HP; a successful damaging hit deals at least 1 
 
 ## 5. Multiple Hits, Combos, and Special Effects
 
-- One declared action can represent a documented sequence of attacks, including a multi-hit technique. Resolve the sequence according to the established move and situation; do not force every strike into a separate turn merely because there are multiple hits.
-- **Combo bonuses are not defined yet.** Do not grant extra hits, damage, accuracy, or other bonuses just because the narration calls something a combo. Add those only when an official combo rule is established.
+- One declared action can contain multiple hits when the established move or situation supports them. Do not force every strike into a separate turn merely because there are multiple hits.
+- **Combo bonuses are not defined yet.** A future combo rule can grant additional attacks/bonuses once its conditions and effects are decided. Until then, do not award extra hits, damage, accuracy, or other bonuses merely because the narration calls something a combo.
 - For a documented multi-hit move, apply only the number of hits and effects supported by its description. If the move does not define how its hits resolve, state the uncertainty and avoid inventing precision.
 - Control, piercing, area attacks, damage over time, healing, counters, and other special effects use their documented effects. Do not force them into a damage formula when their main effect is not HP damage.
 - Do not apply a full single-target damage value to every target of an area attack unless its documented rules support that result.

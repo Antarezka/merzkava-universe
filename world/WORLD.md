@@ -669,6 +669,24 @@ Catatan yang tidak lengkap harus tetap dianggap tidak lengkap. Dugaan, legenda, 
 
 ---
 
+
+
+XII-A. THINKER, KNOWLEDGE EXCHANGE, AND ARTIFICIAL ARTIFACTS
+
+Thinker adalah jalur kemajuan independen yang berfokus pada pengetahuan, material, pola, formulasi, dan pembuatan Artificial Artifact. Thinker memiliki sepuluh tingkatan dan tidak identik dengan Realm kultivasi. Tingkat kultivasi tinggi tidak otomatis menjadikan seseorang Thinker hebat; tingkat Thinker tinggi juga tidak otomatis menjadikan seseorang kultivator kuat. Tingkat Thinker menentukan kemampuan dasar dan batas formulasi normal, tetapi tidak menjamin keberhasilan setiap pengerjaan.
+
+Thinker pertama berasal dari Tianhai Yunzhou. Tianhai menjadi pusat keunggulan pengetahuan Thinker; pengaruhnya mencakup ilmu, budaya, diplomasi, dan persaingan antarkekuatan, bukan hanya kekuatan tempur. Maharaja Tianhai dapat bersaing melalui pengetahuan luar biasa, bukan semata-mata kekuatan pribadi.
+
+Golden Dragon Empire relatif terbuka terhadap pertukaran pengetahuan dan interaksi dengan pihak luar. Pertukaran Tianhai–Kekaisaran dapat menyebarkan ilmu dan memengaruhi hubungan budaya maupun politik. Namun, penyebaran pengetahuan tidak otomatis menyamakan kemampuan produksi: tingkat Thinker, ketersediaan material, dan penguasaan formulasi tetap membatasi hasil.
+
+Beiming Gu dan wilayah utara relatif terisolasi. Iklim dingin membantu mempertahankan material kuno. Eksplorasi utara berpotensi menemukan sumber daya yang sangat lengkap, terutama material untuk pengukiran formasi Artificial Artifact. Material ini strategis bagi perkembangan teknologi, tetapi ketersediaannya tidak menjamin keberhasilan tanpa pengetahuan, formulasi yang sesuai, dan kemampuan pengolahan.
+
+Tiga kategori artefak dibedakan berdasarkan asal-usulnya: Relic adalah peninggalan dewa; Ancient Artifact berasal dari masa keemasan peradaban; Artificial Artifact dibuat Thinker melalui material, pola, dan formulasi. Ketiganya tidak boleh disamakan secara otomatis. Contoh skala teknologi yang telah ditetapkan adalah sebuah pulau raksasa yang ditenagai Artificial Artifact Tier 9. Pencipta, bahan rinci, sumber energi, mekanisme, perawatan, dan kelemahannya belum ditetapkan kecuali ditambahkan secara resmi.
+
+Pembuatan Artificial Artifact membutuhkan formulasi yang dipahami Thinker, fokus dan konsentrasi, kemampuan mental untuk menyusun serta mempertahankan pola, tenaga yang memadai, material yang sesuai, pola yang dapat diterapkan, dan tingkat Thinker yang mampu menangani target. Biaya tenaga, durasi, ambang batas, dan konsekuensi produksi hanya boleh digunakan jika ditetapkan oleh mekanik resmi.
+
+Aturan operasional Thinker Tier 1–10, matriks peluang dasar, faktor pengerjaan, dan prosedur resolusi berada di `core/THINKER_AND_FORMULATION.md`. Matriks tersebut menetapkan peluang dasar, bukan jaminan mutlak. Modifikasi numerik situasional, efek bakat, dan metode resolusi yang belum disahkan tidak boleh dikarang GM.
+
 XIII. ATURAN KONSISTENSI KANON
 
 Aturan berikut digunakan untuk menjaga agar pengembangan dunia tetap konsisten.

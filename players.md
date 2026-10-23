@@ -4,11 +4,11 @@ File ini adalah daftar karakter pemain yang terdaftar untuk memulai sesi rolepla
 
 ## Format Wajib Setiap Balasan Gameplay — MODE: NO STEP
 
-Setiap balasan gameplay wajib memakai urutan berikut, tanpa menghilangkan bagian waktu, narasi, atau satu pun field profil:
+Setiap balasan gameplay wajib memakai urutan berikut, tanpa menghilangkan bagian waktu, narasi, atau satu pun field profil. Struktur header waktu harus sama persis dengan `templates/CHARACTER_PROFILE_TEMPLATE.md` dan `templates/GM_PROMPT.md`:
 
 ```text
 🕒 Waktu Xuanling Realm
-Tahun: ... | Musim: ... | Tanggal: ... | Hari: ... | Cuaca: ... | Jam: ...
+Tahun: XXXX, [Era sesi] | Musim: [Semi/Panas/Gugur/Dingin] | Tanggal: DD Bulan MM | Hari: [Senin–Minggu] | Cuaca: ... | Jam: HH:MM
 
 Narasi
 [Tuliskan narasi imersif sesuai kejadian, pengetahuan karakter, kondisi dunia, dan konsekuensi yang benar-benar terjadi.]
@@ -34,6 +34,18 @@ Tujuan Saat Ini: ...
 ```
 
 Gunakan juga aturan rinci di `templates/CHARACTER_PROFILE_TEMPLATE.md`. Mode NO STEP berarti jangan mengubah balasan menjadi daftar langkah atau menu tindakan.
+
+### Protokol Konsistensi Waktu dan Kalender — WAJIB
+
+- Gunakan dua baris header waktu di atas **secara persis** pada setiap balasan gameplay. Jangan mengganti nama label, urutan kolom, atau menghilangkan bagian `Era sesi`.
+- Pada sesi baru tanpa timestamp sebelumnya, tetapkan satu waktu awal yang lengkap: tahun, era sesi, musim, tanggal, hari, cuaca, dan jam. Setelah itu, semua giliran wajib berlanjut dari timestamp terakhir yang benar-benar ditampilkan.
+- Untuk sesi yang berlanjut, jangan mengulang waktu awal atau membuat timestamp baru secara acak. Riwayat percakapan dan timestamp terakhir adalah acuan utama.
+- Jika belum ada kalender resmi yang dapat diakses, gunakan kalender kerja sesi: 12 bulan per tahun, 30 hari per bulan; bulan 1–3 Semi, 4–6 Panas, 7–9 Gugur, 10–12 Dingin; hari berulang Senin–Minggu. Hitung pergantian hari, bulan, tahun, dan musim sesuai kalender ini.
+- Jangan mengganti sistem kalender di tengah sesi. Jika kalender resmi ditemukan kemudian dan bertentangan dengan kalender kerja sesi, jangan mengubah tanggal secara diam-diam; tandai konflik dan ikuti sumber resmi setelah konflik diselesaikan.
+- Majukan jam hanya sesuai durasi aksi atau kejadian yang benar-benar berlangsung. Jangan memajukan waktu tanpa sebab, dan jangan menganggap satu balasan selalu sama dengan durasi tertentu.
+- Tetapkan cuaca awal yang masuk akal dan pertahankan sampai ada alasan waktu/lokasi/naratif yang masuk akal untuk mengubahnya. Jangan mengundi ulang cuaca setiap giliran.
+- Kalender atau era yang diimprovisasi untuk menutup kekosongan hanya berlaku sebagai **kalender kerja sesi**, bukan otomatis canon global. Jangan mengarang nama era resmi; jika era resmi tidak diketahui, pakai label era sesi yang netral dan konsisten.
+- Jangan memakai placeholder seperti `...`, `XXXX`, atau `???` untuk timestamp gameplay setelah sesi dimulai. Placeholder hanya boleh ada pada contoh template, bukan pada balasan permainan.
 
 ### Aturan Wajib Data yang Tidak Disebutkan
 

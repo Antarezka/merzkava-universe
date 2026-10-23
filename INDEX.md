@@ -43,7 +43,7 @@ Repository: https://github.com/Antarezka/xuanling-realm
 
 1. Direktori Lengkap Seluruh Modul
 
-Status repository harus diverifikasi dari branch yang sedang digunakan. Pada saat dokumen ini diperiksa, "INDEX.md", "README.md", "templates/GM_PROMPT.md", "templates/CHARACTER_PROFILE_TEMPLATE.md", "core/HP_SYSTEM.md", "core/CULTIVATION_SYSTEM.md", "core/MARTIAL_SOUL.md", "core/SPIRIT_RING_RULES.md", "core/THINKER_AND_FORMULATION.md", dan "world/WORLD.md" tersedia. Jalur modul lain di bawah adalah rencana hingga file benar-benar dibuat dan dapat dibaca.
+Status repository harus diverifikasi dari branch yang sedang digunakan. Pada saat dokumen ini diperiksa, "INDEX.md", "README.md", "templates/GM_PROMPT.md", "templates/CHARACTER_PROFILE_TEMPLATE.md", "core/HP_SYSTEM.md", "core/CULTIVATION_SYSTEM.md", "core/MARTIAL_SOUL.md", "core/SPIRIT_RING_RULES.md", "core/THINKER_AND_FORMULATION.md", "bestiary/SPIRIT_BEAST_RULES.md", dan "world/WORLD.md" tersedia. Jalur modul lain di bawah adalah rencana hingga file benar-benar dibuat dan dapat dibaca.
 
 A. Aturan Inti dan Sistem Kekuatan
 
@@ -65,7 +65,7 @@ G02| "gameplay/TIME_AND_ACTION_RULES.md"| "Time and Action Rules" (https://raw.g
 C. Bestiary
 
 Kode| File| Link Raw| Isi
-B01| "bestiary/SPIRIT_BEAST_RULES.md"| "Spirit Beast Rules" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/bestiary/SPIRIT_BEAST_RULES.md)| Kategori Beast, Spirit Beast, Demonic Beast, Heavenly Beast, perilaku dan aturan terkait
+B01| "bestiary/SPIRIT_BEAST_RULES.md"| "Spirit Beast Rules" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/bestiary/SPIRIT_BEAST_RULES.md)| Kategori Beast, persyaratan item penyerapan per Beast, jeda minimum antar-ring, dan deviasi
 
 D. Dunia dan Lore
 
@@ -124,14 +124,14 @@ Karakter terdaftar dan memulai sesi baru| "players.md"| Hanya jika katalog telah
 Membuka file karakter tertentu| Data karakter yang relevan| Jangan mengarang file karakter yang belum dibuat
 Melanjutkan karakter di chat yang sama| Profil terakhir dan riwayat percakapan| Pertahankan status terkini
 Karakter baru| "templates/CHARACTER_PROFILE_TEMPLATE.md"| Gunakan template wajib; minta nama dan lokasi awal jika belum diberikan
-Realm, Stage, progres, atau bottleneck| "core/CULTIVATION_SYSTEM.md"| Periksa mekanik breakthrough
+Realm, Stage, Sync progress, bottleneck, atau breakthrough| "core/CULTIVATION_SYSTEM.md" dan "core/SPIRIT_RING_RULES.md"| Sync progress dibanding cap ring; cek semua syarat menerobos dan countdown jeda
 Pembuatan atau pembaruan profil HP| "core/HP_SYSTEM.md" dan "core/CULTIVATION_SYSTEM.md"| Cocokkan HP maksimum dengan Realm/Stage; gunakan format HP saat ini/maksimum
 Martial Soul atau karakteristik kekuatan| "core/MARTIAL_SOUL.md"| Jangan menyimpulkan kemampuan tanpa dasar
 Memburu atau menghadapi Spirit Beast| "bestiary/SPIRIT_BEAST_RULES.md"| Gunakan bersama aturan pertarungan jika diperlukan
 Mengalahkan Spirit Beast dan memperoleh Spirit Ring| "bestiary/SPIRIT_BEAST_RULES.md" dan "core/SPIRIT_RING_RULES.md"| Terapkan aturan perolehan yang resmi
-Menyerap Spirit Ring atau melakukan breakthrough| "core/SPIRIT_RING_RULES.md" dan "core/CULTIVATION_SYSTEM.md"| Penyerapan merupakan bagian dari proses kultivasi
+Penyerapan Spirit Ring atau menerobos| "core/SPIRIT_RING_RULES.md", "core/CULTIVATION_SYSTEM.md", dan "bestiary/SPIRIT_BEAST_RULES.md"| Periksa cap sinkronisasi, ring tersedia, item wajib Beast, jeda minimum, dan deviasi
 Pertarungan resmi dimulai| "gameplay/COMBAT_SYSTEM.md"| Periksa aksi, posisi, damage, dan konsekuensi
-Meditasi, time skip, atau durasi aksi| "gameplay/TIME_AND_ACTION_RULES.md"| Terapkan batas waktu dan syarat checkpoint
+Kultivasi, time skip, atau durasi aksi| "gameplay/TIME_AND_ACTION_RULES.md" jika tersedia dan modul mekanik terkait| Meditasi bukan sinonim Kultivasi atau Penyerapan Spirit Ring
 Kelaparan, kebutuhan makan, atau pemulihan| "core/HUNGER_AND_METABOLISM.md"| Perhitungkan kondisi dan aktivitas
 Perjalanan atau penentuan lokasi| "world/WORLD.md" dan "world/MAP_AND_REGIONS.md"| Jangan mengarang jarak atau rute
 Bertemu kekaisaran, sekte, atau organisasi| "world/FACTIONS.md"| Gunakan detail yang benar-benar tersedia
@@ -192,11 +192,14 @@ Jangan menambahkan field terpisah untuk Law atau Spirit Ring. Informasi ring yan
 - Luka, efek, kerusakan equipment, dan penggunaan sumber daya tidak boleh dihapus begitu saja.
 - Meta-gaming harus ditangani sesuai aturan resmi.
 - Dalam situasi kritis, pemain memilih satu aksi utama ketika beberapa aksi independen tidak dapat dilakukan sekaligus.
-- Kultivasi 100% berarti mencapai bottleneck, bukan otomatis breakthrough.
+- Sync progress harus ditulis sebagai progres saat ini/cap kompatibilitas maksimum; cap berbeda pada tiap ring dan bukan otomatis 100%.
+- Menerobos memerlukan Sync progress kurang dari 10 poin persentase di bawah cap, ring berikutnya tersedia, item wajib Beast target tersedia, dan jeda minimum antar-ring terpenuhi.
+- Jeda minimum: ring 1→2 = 2 minggu; 2→3 = 1 bulan; 3→4 = 3 bulan; 4→5 = 6 bulan; 5→6 = 1 tahun; 6→7 = 2 tahun; 7→8 = 3 tahun; 8→9 = 4 tahun.
+- Deviasi wajib mencatat pengurangan cap ring berikutnya, damage HP, dan cedera/kondisi tubuh. Jangan mengarang angka numerik tanpa formula resmi.
 - Aksi biasa maksimal 3 jam per giliran.
-- Meditasi kultivasi murni untuk menaikkan kekuatan dan kompatibilitas dapat berlangsung maksimal 1 bulan hanya jika seluruh syarat terpenuhi: meditasi saja, lokasi aman dan stasioner, persediaan cukup dan tercatat, serta checkpoint perkembangan.
+- Kultivasi murni dapat berlangsung maksimal 1 bulan hanya jika seluruh syarat waktu resmi terpenuhi. Meditasi bukan Kultivasi dan tidak otomatis mengubah Sync progress.
 - Jika syarat meditasi panjang tidak terpenuhi, gunakan batas aksi biasa.
-- Perburuan Spirit Beast boleh terjadi di lokasi berbahaya. Setelah Beast dikalahkan, Spirit Ring muncul mengambang di atas tubuhnya. Penyerapan ring adalah bagian dari kultivasi/breakthrough; jangan menyamakan lokasi perburuan dengan syarat meditasi untuk menaikkan kekuatan dan kompatibilitas.
+- Perburuan Spirit Beast boleh terjadi di lokasi berbahaya. Setelah Beast dikalahkan, ring muncul mengambang di atas tubuhnya, tetapi tidak otomatis terserap. Penyerapan Spirit Ring, Kultivasi, dan menerobos adalah proses berbeda.
 - WORLD.md adalah acuan utama untuk lore dunia. Modul mekanik mengatur mekanik yang secara eksplisit ditetapkan. INDEX adalah navigasi, bukan pengganti dokumen sumber.
 - Semua kemampuan dan mekanik harus mengikuti sumber resmi yang tersedia.
 - Jika aturan belum ditetapkan atau sumber bertentangan, nyatakan masalah dan minta klarifikasi jika diperlukan.
@@ -223,7 +226,7 @@ Xuanling Realm — Eastern Fantasy · Martial Soul · Spirit Beast · Spirit Rin
 
 Dunia ini memiliki tiga kekuatan utama yang sudah ditetapkan: Golden Dragon Empire di timur, Tianhai Yunzhou di wilayah maritim, dan Beiming Gu di utara. Kekaisaran Naga Emas memiliki tujuh wilayah utama. Dunia juga mencakup hutan, reruntuhan kuno, sekte, akademi, jalur perdagangan, dan kawasan Spirit Beast.
 
-Sistem kultivasi terdiri dari 9 Realm, masing-masing dengan tahap Early, Middle, Late, dan Peak. Satu Realm membuka satu slot Spirit Ring tambahan. Urutan Realm: Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, dan Spirit Primordial. Martial Soul mengalami awakening pada usia empat tahun atau lebih, tetapi awakening tidak otomatis memberikan ring pertama. Setelah Spirit Beast dikalahkan, ring muncul mengambang di atas tubuhnya. Progres kekuatan kultivasi 100% berarti bottleneck, bukan breakthrough otomatis; progres kekuatan dan kompatibilitas dicatat dalam log meditasi aman dan stasioner. Setelah setiap penyerapan berhasil, sebutkan nomor ring dan jumlah total ring yang dimiliki, usia, warna, tier/sumber Beast, kemampuan, kompatibilitas ring terbaru, kompatibilitas keseluruhan, AgeTotal, PowerScale, dan Qi. Terapkan formula dan tabel Qi dalam `core/SPIRIT_RING_RULES.md`: usia total ring menjadi faktor dominan PowerScale, tier Beast terutama memengaruhi kompatibilitas, dan Qi dasar sembilan ring adalah 45.234.100. Mortal sebelum awakening memiliki Qi 0; setelah awakening tetapi sebelum ring pertama, Qi belum terbentuk.
+Sistem kultivasi terdiri dari 9 Realm, masing-masing dengan tahap Early, Middle, Late, dan Peak. Satu Realm membuka satu slot Spirit Ring tambahan. Urutan Realm: Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, dan Spirit Primordial. Martial Soul mengalami awakening pada usia empat tahun atau lebih, tetapi awakening tidak otomatis memberikan ring pertama. Setelah Spirit Beast dikalahkan, ring muncul mengambang di atas tubuhnya. Sync progress dicatat sebagai progres saat ini/cap kompatibilitas maksimum ring aktif. Mencapai bottleneck bukan breakthrough otomatis; Kultivasi, Penyerapan Spirit Ring, dan menerobos adalah proses berbeda. Setelah setiap penyerapan berhasil, sebutkan nomor ring dan jumlah total ring yang dimiliki, usia, warna, tier/sumber Beast, kemampuan, kompatibilitas ring terbaru, kompatibilitas keseluruhan, AgeTotal, PowerScale, dan Qi. Terapkan formula dan tabel Qi dalam `core/SPIRIT_RING_RULES.md`: usia total ring menjadi faktor dominan PowerScale, tier Beast terutama memengaruhi kompatibilitas, dan Qi dasar sembilan ring adalah 45.234.100. Mortal sebelum awakening memiliki Qi 0; setelah awakening tetapi sebelum ring pertama, Qi belum terbentuk.
 
 Prinsip utama: tidak ada plot armor, profil harus konsisten, aturan bersumber dari modul resmi, dan informasi yang belum ditetapkan tidak boleh dikarang.
 

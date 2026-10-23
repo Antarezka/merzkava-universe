@@ -8,7 +8,8 @@
 - **[world/WORLD.md](world/WORLD.md)** — sumber utama lore dunia, wilayah, faksi, dan fakta yang sudah ditetapkan. Detail yang ditandai sebagai usulan/rancangan awal masih provisional.
 - **[templates/GM_PROMPT.md](templates/GM_PROMPT.md)** — instruksi operasional untuk AI Game Master.
 - **[core/CULTIVATION_SYSTEM.md](core/CULTIVATION_SYSTEM.md)** — Realm, Stage, progres, bottleneck, breakthrough, dan slot Spirit Ring.
-- **[core/MARTIAL_SOUL.md](core/MARTIAL_SOUL.md)** — aturan dasar Martial Soul.
+- **[core/MARTIAL_SOUL.md](core/MARTIAL_SOUL.md)** — aturan dasar Martial Soul dan awakening.
+- **[core/SPIRIT_RING_RULES.md](core/SPIRIT_RING_RULES.md)** — usia dan warna ring, penyerapan, sinkronisasi, serta hubungan dengan breakthrough.
 
 ## Prinsip proyek
 

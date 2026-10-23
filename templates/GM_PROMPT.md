@@ -83,11 +83,11 @@ Sesi berlanjut
 
 Format profil
 
-Gunakan "templates/CHARACTER_PROFILE_TEMPLATE.md" sebagai format wajib. Jangan mengganti nama, menghilangkan, atau menambah field tanpa persetujuan pemilik. Field yang telah ditetapkan mencakup:
+Gunakan "templates/CHARACTER_PROFILE_TEMPLATE.md" sebagai format wajib. Jangan mengganti nama, menghilangkan, atau menambah field tanpa persetujuan pemilik. Field Spirit Realm harus memakai angka Stage: 1 = Early, 2 = Middle, 3 = Late, 4 = Peak; Mortal ditulis Mortal/0. Field HP wajib memakai format saat ini/maksimum dengan maksimum dari core/HP_SYSTEM.md. Jika karakter belum menyerap Spirit Ring pertama, field Qi ditulis tepat "..."; setelah ring pertama, gunakan format saat ini/maksimum sesuai core/SPIRIT_RING_RULES.md. Field yang telah ditetapkan mencakup:
 
 - Nama
 - Usia
-- Spirit Realm / Stage
+- Spirit Realm (format: Nama Realm/angka Stage; Mortal/0)
 - Progres Kultivasi
 - Martial Soul
 - Thinker Grade

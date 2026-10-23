@@ -517,7 +517,7 @@ Organisasi yang mengandalkan penyergapan, pembunuhan, dan teknik yang menekan su
 
 ---
 
-6. Hubungan di Lawless Territories
+VIII. HUBUNGAN DI LAWLESS TERRITORIES
 
 Ketiga kawasan tanpa hukum tersebut tidak berada di bawah satu pemerintahan atau aliansi tunggal.
 
@@ -530,7 +530,7 @@ Nama-nama desa, sekte, dan organisasi dalam bagian ini merupakan usulan kanon aw
 
 ---
 
-5. MEDICINE HALL SOCIETY
+IX. MEDICINE HALL SOCIETY
 
 5.1 Identitas dan fungsi
 
@@ -572,7 +572,7 @@ Kehadiran Medicine Hall Society tidak menghapus risiko kematian dan tidak menjam
 
 ---
 
-6. ORGANISASI LINTAS KEKUATAN
+X. ORGANISASI LINTAS KEKUATAN
 
 Tiga organisasi berikut memiliki jaringan atau aktivitas di berbagai kekuatan besar. Keberadaan mereka tidak berarti seluruh cabang memiliki kekuatan, sumber daya, atau loyalitas yang sama.
 
@@ -612,7 +612,7 @@ Ketiga organisasi tersebut tidak otomatis memiliki kendali penuh atas setiap wil
 
 ---
 
-7. KERANGKA EKONOMI DUNIA
+XI. KERANGKA EKONOMI DUNIA
 
 Ekonomi Xuanling Realm berkembang melalui pertanian, kerajinan, pertambangan, perdagangan, pengolahan bahan Spirit Beast, pembuatan artefak, dan layanan kultivasi.
 
@@ -639,7 +639,7 @@ Sebelum rincian tersebut ditetapkan, GM tidak boleh memperlakukan angka harga ya
 
 ---
 
-8. SEJARAH, RELIK, DAN ARTEFAK
+XII. SEJARAH, RELIK, DAN ARTEFAK
 
 Xuanling Realm memiliki sejarah panjang yang belum seluruhnya diketahui oleh penduduk masa kini. Reruntuhan, benda peninggalan, catatan kuno, dan teknik yang terlupakan dapat ditemukan di berbagai wilayah.
 
@@ -667,7 +667,7 @@ Catatan yang tidak lengkap harus tetap dianggap tidak lengkap. Dugaan, legenda, 
 
 ---
 
-9. ATURAN KONSISTENSI KANON
+XIII. ATURAN KONSISTENSI KANON
 
 Aturan berikut digunakan untuk menjaga agar pengembangan dunia tetap konsisten.
 
@@ -684,7 +684,7 @@ Aturan berikut digunakan untuk menjaga agar pengembangan dunia tetap konsisten.
 
 ---
 
-10. MODUL YANG AKAN DIKEMBANGKAN
+XIV. MODUL YANG AKAN DIKEMBANGKAN
 
 Dokumen ini menjadi dasar atlas dunia dan politik Xuanling Realm. Rincian yang terlalu luas akan dikembangkan dalam berkas khusus agar mudah dirawat.
 

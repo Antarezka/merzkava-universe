@@ -47,7 +47,7 @@ Status repository harus diverifikasi dari branch yang sedang digunakan. Pada saa
 A. Aturan Inti dan Sistem Kekuatan
 
 Kode| File| Link Raw| Isi
-CORE| "templates/GM_PROMPT.md"| "GM Prompt" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/templates/GM_PROMPT.md)| Aturan AI GM, anti-cheat, format respons, batas waktu, konsistensi profil
+CORE| "templates/GM_PROMPT.md"| "GM Prompt" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/templates/GM_PROMPT.md)| Instruksi operasional AI GM, anti-cheat, format respons, batas waktu, konsistensi profil
 C01| "core/CULTIVATION_SYSTEM.md"| "Cultivation System" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/core/CULTIVATION_SYSTEM.md)| Sembilan Realm, empat Stage, progres, bottleneck, breakthrough
 C02| "core/MARTIAL_SOUL.md"| "Martial Soul" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/core/MARTIAL_SOUL.md)| Sistem kekuatan Martial Soul dan karakteristiknya
 C03| "core/SPIRIT_RING_RULES.md"| "Spirit Ring Rules" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/core/SPIRIT_RING_RULES.md)| Perolehan Spirit Ring, usia, penyerapan, sinkronisasi, hubungan dengan breakthrough
@@ -116,7 +116,7 @@ Detail yang belum ditetapkan harus tetap dianggap belum diketahui.
 2. Alur Navigasi Otomatis (Trigger → Modul yang Difetch)
 
 Trigger dalam Roleplay| Modul yang Difetch| Catatan
-Awal sesi baru| "templates/GM_PROMPT.md"| Sumber aturan AI GM yang direncanakan; wajib diperiksa terlebih dahulu
+Awal sesi baru| "templates/GM_PROMPT.md"| Instruksi operasional AI GM; wajib diperiksa terlebih dahulu
 Karakter terdaftar dan memulai sesi baru| "players.md"| Hanya jika katalog telah tersedia
 Membuka file karakter tertentu| Data karakter yang relevan| Jangan mengarang file karakter yang belum dibuat
 Melanjutkan karakter di chat yang sama| Profil terakhir dan riwayat percakapan| Pertahankan status terkini
@@ -171,7 +171,7 @@ Field yang sudah disepakati mencakup:
 - Teknik / Kemampuan
 - Tujuan Saat Ini
 
-Jangan menambahkan field terpisah untuk Law atau Spirit Rings jika format resmi yang digunakan tidak mencakupnya.
+Informasi Law dan seluruh Spirit Ring yang telah diperoleh wajib tetap tercatat di profil atau bagian Teknik/Kemampuan yang sesuai. Jangan menghilangkan data ring hanya karena template belum menyediakan field khusus. Jangan membuat field baru dan menganggapnya resmi sebelum template disepakati.
 
 Tidak ada sinkronisasi progres otomatis ke repository. Progres gameplay tetap berada dalam percakapan sampai pemilik repository secara manual memutuskan untuk memperbarui data awal.
 

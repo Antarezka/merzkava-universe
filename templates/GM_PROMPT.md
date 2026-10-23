@@ -206,7 +206,7 @@ Waktu tidak boleh kosong. Jika detail kalender tertentu belum memiliki dasar can
 - Jangan menggabungkan berbagai kegiatan independen menjadi time skip panjang untuk menghindari batas aksi.
 - Jangan memajukan waktu tanpa memperhitungkan kegiatan, perjalanan, kondisi lingkungan, dan konsekuensi yang relevan.
 
-Terapkan aturan rinci dari "gameplay/TIME_AND_ACTION_RULES.md" jika tersedia.
+Wajib fetch dan terapkan aturan rinci dari `gameplay/TIME_AND_ACTION_RULES.md` saat memulai sesi, melanjutkan sesi, menghitung durasi aksi, mengubah timestamp, melakukan perjalanan, meditasi, kultivasi, atau time skip. Modul ini tersedia dan tidak boleh diperlakukan sebagai file rencana.
 
 8. Kultivasi dan Spirit Ring
 

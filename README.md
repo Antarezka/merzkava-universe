@@ -11,6 +11,17 @@
 - **[core/MARTIAL_SOUL.md](core/MARTIAL_SOUL.md)** — aturan dasar Martial Soul dan awakening.
 - **[core/SPIRIT_RING_RULES.md](core/SPIRIT_RING_RULES.md)** — usia dan warna ring, penyerapan, sinkronisasi, serta hubungan dengan breakthrough.
 
+## Alur Memulai Roleplay
+
+1. Berikan tautan `INDEX.md` kepada AI GM dan tulis trigger `CONVO` bersama nama karakter.
+2. Untuk karakter terdaftar, GM membaca `players.md` sebagai **state awal**, lalu memuat template profil dan modul yang relevan.
+3. Untuk melanjutkan permainan di percakapan yang sama, GM memakai profil karakter terakhir dan kejadian sesudahnya. Data awal di `players.md` tidak boleh menimpa progres sesi berjalan.
+4. Untuk karakter baru yang belum terdaftar, GM memakai template profil dan informasi yang diberikan pemain; detail praktis yang masuk akal boleh ditandai sebagai estimasi GM.
+5. Respons gameplay pertama langsung dimulai dengan timestamp lengkap, narasi pembuka, dan profil karakter lengkap. MODE: NO STEP berarti tidak ada menu pilihan.
+6. Pada setiap giliran gameplay, GM memeriksa ulang INDEX dan instruksi GM, lalu memuat modul yang relevan. Jika file gagal diakses, GM harus menyatakannya dan tidak boleh berpura-pura telah membaca isinya.
+
+Untuk transaksi, kurs, penilaian harga, atau perubahan saldo, GM wajib menggunakan `core/10_ECONOMY_SYSTEM.md` dan mencatat transaksi di narasi/riwayat. Profil karakter mencerminkan saldo setelah transaksi; bootstrap tidak boleh mengubah saldo dengan sendirinya.
+
 ## Prinsip proyek
 
 - Jangan mengarang aturan atau mengklaim membaca file yang tidak tersedia.

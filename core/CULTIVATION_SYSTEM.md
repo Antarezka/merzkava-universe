@@ -1,7 +1,7 @@
 # Xuanling Realm — Cultivation System
 
 Status: Modul mekanik resmi.
-Cakupan: Realm, Stage, progres kultivasi, bottleneck, breakthrough, dan slot Spirit Ring.
+Cakupan: Realm, Stage, Sync progress, bottleneck, breakthrough, dan slot Spirit Ring.
 
 Modul ini hanya menetapkan aturan yang telah disepakati. Angka pertumbuhan kekuatan, biaya Qi, durasi latihan, dan rumus kompatibilitas yang belum ditetapkan tidak boleh dibuat seolah-olah merupakan aturan resmi.
 
@@ -44,28 +44,32 @@ Gunakan urutan Stage berikut di dalam setiap Realm:
 3. Late (Akhir)
 4. Peak (Puncak)
 
-Progres persentase kekuatan kultivasi dan kompatibilitas dicatat serta dijelaskan di dalam log meditasi yang sama, bukan sebagai sistem terpisah tanpa konteks. Meditasi harus dilakukan di tempat aman dan stasioner. Terapkan formula kompatibilitas, PowerScale, dan Qi dalam `core/SPIRIT_RING_RULES.md`; jangan mengarang input yang belum diketahui.
+Istilah proses mekanik yang digunakan hanya:
+- **Penyerapan Spirit Ring:** proses memperoleh dan menambahkan satu Spirit Ring ke jumlah ring yang dimiliki.
+- **Kultivasi:** proses meningkatkan Sync progress menuju cap kompatibilitas maksimum ring yang sedang diproses.
+- **Menerobos:** proses terpisah yang mensyaratkan seluruh ketentuan resmi.
 
-Progres kultivasi 100% berarti karakter telah mencapai bottleneck untuk kemajuan berikutnya. **Progres 100% bukan breakthrough otomatis.**
+Sync progress wajib ditulis sebagai `Sync progress: [progres saat ini]%/[cap kompatibilitas maksimum]%`. Cap berbeda menurut ring dan dihitung sesuai `core/SPIRIT_RING_RULES.md`; jangan menganggap cap selalu 100%.
 
-Jangan menyamakan tercapainya Peak, tercapainya 100%, keberhasilan breakthrough, dan perolehan Spirit Ring sebagai satu kejadian yang sama.
+Kegiatan seperti meditasi bukan Penyerapan Spirit Ring maupun Kultivasi dan tidak otomatis menambah ring, meningkatkan Sync progress, atau menyebabkan breakthrough.
 
+Mencapai cap berarti mencapai bottleneck, bukan breakthrough otomatis. Untuk percobaan menerobos, jarak antara Sync progress dan cap harus **kurang dari 10 poin persentase**. Jika jaraknya 10 poin atau lebih, syarat bottleneck belum terpenuhi.
+
+Makin besar jarak Sync progress dari cap dalam rentang yang diizinkan, makin tinggi deviasi yang harus dipertimbangkan. Deviasi wajib dicatat sebagai pengurangan cap kompatibilitas maksimum ring berikutnya, damage HP, dan cedera/kondisi tubuh. Terapkan aturan Bestiary dan Spirit Ring; jangan mengarang angka numerik jika rumus resminya belum tersedia.
 ## 4. Bottleneck dan Breakthrough
 
-Perpindahan ke Realm berikutnya membutuhkan Spirit Ring berikutnya yang sah. Karena itu, karakter tidak dapat melewati kebutuhan ring dengan hanya bermeditasi sampai progres 100%.
+Menerobos hanya dapat dilakukan jika semua syarat berikut terpenuhi:
 
-Urutan umum yang harus dipertahankan:
+1. **Bottleneck:** Sync progress berada kurang dari 10 poin persentase di bawah cap kompatibilitas ring aktif.
+2. **Spirit Ring tersedia:** ring berikutnya benar-benar tersedia untuk diserap melalui proses yang sah.
+3. **Item wajib tersedia:** karakter memenuhi persyaratan item yang berlaku untuk Spirit Beast target sesuai `bestiary/SPIRIT_BEAST_RULES.md`. Jika persyaratan item Beast belum ditetapkan, jangan mengarangnya atau menganggapnya tidak ada.
+4. **Jeda minimum terpenuhi:** waktu sejak Penyerapan Spirit Ring sebelumnya yang berhasil telah mencapai jeda minimum sesuai `bestiary/SPIRIT_BEAST_RULES.md`.
 
-1. Karakter mengembangkan progres kultivasi melalui tindakan yang sah.
-2. Saat progres mencapai 100%, karakter mencapai bottleneck; Realm belum otomatis naik.
-3. Karakter harus memperoleh Spirit Ring berikutnya melalui proses yang sah sesuai aturan Spirit Beast dan Spirit Ring.
-4. Proses penyerapan dan breakthrough diselesaikan sesuai mekanik resmi yang berlaku.
-5. Realm dan slot yang tersedia hanya diperbarui setelah hasilnya benar-benar berhasil.
+Jeda minimum antar-ring: Ring 1→2 = 2 minggu; Ring 2→3 = 1 bulan; Ring 3→4 = 3 bulan; Ring 4→5 = 6 bulan; Ring 5→6 = 1 tahun; Ring 6→7 = 2 tahun; Ring 7→8 = 3 tahun; Ring 8→9 = 4 tahun.
 
-Jangan menganggap perburuan atau kekalahan Spirit Beast sebagai jaminan bahwa ring berhasil diserap. Jangan pula menganggap penyerapan berhasil hanya karena pemain menyatakannya.
+Jika percobaan dilakukan terlalu jauh dari cap atau sebelum jeda minimum, terapkan deviasi sesuai modul resmi: cap kompatibilitas ring berikutnya berkurang, HP menerima damage, dan kondisi tubuh mengalami cedera. Tingkat deviasi meningkat seiring jarak dari cap atau besarnya pelanggaran jeda. Jika rumus numerik belum tersedia, nyatakan dampak dan tingkat deviasi tanpa mengarang angka damage atau persentase pengurangan cap.
 
-Rincian tentang syarat breakthrough, risiko kegagalan, durasi, biaya sumber daya, dan hasil parsial harus mengikuti modul Spirit Ring dan modul gameplay terkait. Jika rincian itu belum ditetapkan, nyatakan bahwa aturan rinci belum tersedia; jangan menciptakan angka atau peluang secara diam-diam.
-
+Penyerapan Spirit Ring, Kultivasi, dan menerobos adalah proses berbeda. Realm dan slot baru hanya diperbarui setelah seluruh syarat dan proses resmi benar-benar berhasil. Jika aturan tambahan seperti durasi, biaya, atau hasil parsial belum ditetapkan, jangan mengarangnya.
 ## 5. Spirit Ring dan Slot
 
 - Jumlah slot mengikuti Realm: Realm 1 menyediakan satu slot, Realm 2 dua slot, dan seterusnya hingga sembilan slot pada Realm 9.

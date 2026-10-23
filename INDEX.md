@@ -79,7 +79,7 @@ E. Karakter dan Template
 
 Kode| File| Link Raw| Isi
 P01| "players.md"| "Players" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/players.md)| Katalog karakter awal jika dibuat
-T01| "templates/CHARACTER_PROFILE_TEMPLATE.md"| "Character Profile Template" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/templates/CHARACTER_PROFILE_TEMPLATE.md)| Format standar profil karakter
+T01| "templates/CHARACTER_PROFILE_TEMPLATE.md"| "Character Profile Template" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/templates/CHARACTER_PROFILE_TEMPLATE.md)| Format wajib profil karakter
 T02| "templates/GM_PROMPT.md"| "GM Prompt" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/templates/GM_PROMPT.md)| Template instruksi AI GM untuk gameplay
 
 F. Dokumentasi Proyek
@@ -121,7 +121,7 @@ Awal sesi baru| "templates/GM_PROMPT.md"| Instruksi operasional AI GM; wajib dip
 Karakter terdaftar dan memulai sesi baru| "players.md"| Hanya jika katalog telah tersedia
 Membuka file karakter tertentu| Data karakter yang relevan| Jangan mengarang file karakter yang belum dibuat
 Melanjutkan karakter di chat yang sama| Profil terakhir dan riwayat percakapan| Pertahankan status terkini
-Karakter baru| "templates/CHARACTER_PROFILE_TEMPLATE.md"| Jika tersedia; minta nama dan lokasi awal
+Karakter baru| "templates/CHARACTER_PROFILE_TEMPLATE.md"| Gunakan template wajib; minta nama dan lokasi awal jika belum diberikan
 Realm, Stage, progres, atau bottleneck| "core/CULTIVATION_SYSTEM.md"| Periksa mekanik breakthrough
 Martial Soul atau karakteristik kekuatan| "core/MARTIAL_SOUL.md"| Jangan menyimpulkan kemampuan tanpa dasar
 Memburu atau menghadapi Spirit Beast| "bestiary/SPIRIT_BEAST_RULES.md"| Gunakan bersama aturan pertarungan jika diperlukan

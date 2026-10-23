@@ -33,10 +33,8 @@ Tujuan Saat Ini: ...
 
 - Pertahankan nama dan urutan field di atas. Jangan menambah field terpisah untuk **Spirit Rings** atau **Law**; jumlah ring mengikuti Realm, sedangkan rincian ring yang diperoleh masuk ke **Teknik / Kemampuan** atau deskripsi Martial Soul.
 - **Waktu:** gunakan `gameplay/TIME_AND_ACTION_RULES.md`. Jangan membuat timestamp baru secara acak.
-- **Realm, Sync progress, Breakthrough, Martial Soul, Thinker Grade, dan Qi:** gunakan modul mekanik yang sesuai. Jangan menaikkan Realm atau ring tanpa proses yang sah.
-- **HP:** gunakan `core/HP_SYSTEM.md`. Maksimum mengikuti Realm/Stage; HP saat ini berasal dari profil terakhir atau kejadian tercatat. Jangan menganggap HP penuh atau mengestimasi HP saat ini. Jika tidak diketahui, tulis `???`.
-- **Qi:** gunakan `core/SPIRIT_RING_RULES.md`: Mortal sebelum awakening memiliki Qi 0; setelah awakening sebelum ring pertama, tulis `belum terbentuk (belum ada cincin)`; setelah ring pertama, gunakan nilai saat ini/maksimum yang sah.
-- **Currency:** gunakan `core/10_ECONOMY_SYSTEM.md` untuk kurs, harga, dan transaksi. Profil hanya mencatat saldo berjalan; perubahan saldo harus didukung transaksi yang benar-benar terjadi. Jika saldo awal praktis perlu diperkirakan, tandai sebagai estimasi GM dan jangan menyebutnya canon.
-- **Kondisi Tubuh, Equipment, Inventory, Assets, Teknik / Kemampuan, dan Tujuan Saat Ini:** pertahankan perubahan yang didukung latar dan kejadian. Estimasi praktis awal boleh digunakan bila wajar dan diberi label estimasi GM; jangan mengarang rahasia besar, garis keturunan, artefak langka, atau teknik formal.
-- Gunakan `???` untuk fakta yang benar-benar belum diketahui atau tidak dapat ditetapkan secara bertanggung jawab. Bedakan informasi yang belum diketahui karakter dari informasi khusus GM.
-- Profil adalah snapshot setelah giliran tersebut, bukan pengganti narasi kejadian atau riwayat transaksi. Jangan menghapus luka, pengeluaran, barang, atau konsekuensi tanpa alasan sah.
+- **Field mekanik:** gunakan sumber utama yang terdaftar di `INDEX.md` untuk Realm, Sync progress, Breakthrough, Martial Soul, Thinker Grade, HP, Qi, waktu, dan Currency. Template ini tidak mendefinisikan ulang rumus mekanik.
+- **State berjalan:** gunakan profil gameplay terakhir ditambah kejadian yang benar-benar terjadi. Jangan menganggap HP penuh, mengisi ulang sumber daya, mengubah saldo, atau menghapus konsekuensi tanpa sebab yang sah.
+- **Data awal:** estimasi praktis hanya boleh digunakan jika wajar dan harus diberi label estimasi GM. Jangan mengarang rahasia besar, garis keturunan, artefak langka, atau teknik formal.
+- Gunakan `???` untuk fakta yang belum diketahui atau tidak dapat ditetapkan secara bertanggung jawab. Bedakan pengetahuan karakter dari informasi khusus GM.
+- Profil adalah snapshot setelah giliran tersebut, bukan pengganti narasi kejadian atau riwayat transaksi.

@@ -50,7 +50,7 @@ Gunakan juga aturan rinci di `templates/CHARACTER_PROFILE_TEMPLATE.md`. Mode NO 
 ### Aturan Wajib Data yang Tidak Disebutkan
 
 - Jika latar belakang tidak menyebut jumlah uang, aset, inventaris, perlengkapan, teknik bawaan, kondisi tubuh tersembunyi, kebiasaan biologis, atau detail praktis lain, GM **wajib membuat perkiraan kasar yang masuk akal** berdasarkan latar karakter. Jangan otomatis memakai `???` untuk hal yang bisa diperkirakan.
-- Tetapkan saldo awal dan isi inventaris secara konkret. Isi semua pecahan Currency; angka tersebut adalah estimasi awal GM, bukan fakta eksplisit dari pemain. Jangan mengarang nilai tukar resmi atau harta luar biasa tanpa dasar.
+- Tetapkan saldo awal dan isi inventaris secara konkret. Isi semua pecahan Currency; angka tersebut adalah estimasi awal GM, bukan fakta eksplisit dari pemain. Untuk transaksi dan konversi, gunakan hanya kurs resmi dari `core/10_ECONOMY_SYSTEM.md`; jangan menciptakan kurs baru atau harta luar biasa tanpa dasar.
 - Tetapkan keterampilan biasa, naluri, potensi pasif, dan kondisi tersembunyi yang wajar jika didukung latar. Pisahkan informasi khusus GM dari hal yang diketahui karakter. Bakat tersembunyi tidak otomatis berarti karakter menguasai teknik aktif.
 - Gunakan `???` hanya untuk misteri inti atau hal yang memang tidak dapat diperkirakan secara bertanggung jawab. Jangan menciptakan garis keturunan, artefak kuat, atau rahasia besar tanpa petunjuk.
 
@@ -84,6 +84,24 @@ Gunakan juga aturan rinci di `templates/CHARACTER_PROFILE_TEMPLATE.md`. Mode NO 
 
 ---
 
+### Gerbang Bootstrap — Jangan Campur State Awal dan State Berjalan
+
+Sebelum memulai atau melanjutkan gameplay, GM wajib menentukan mode:
+
+- **Sesi baru sebagai karakter terdaftar:** cari nama karakter di registry ini dan gunakan entri tersebut sebagai snapshot awal sesi. Baca template profil dan modul relevan. Tetapkan timestamp awal sekali, lalu mulai dari lokasi awal yang tercatat. Jangan menciptakan riwayat transaksi, klien, luka, atau kejadian sebelum sesi.
+- **Sesi berlanjut dalam percakapan yang sama:** profil gameplay terakhir dan kejadian sesudahnya adalah state aktif. Registry ini bukan save otomatis; jangan menimpa progres, waktu, inventaris, atau saldo dengan data awal.
+- **Karakter baru yang belum terdaftar:** jangan mengarang entri registry. Gunakan latar/input pemain dan template untuk membuat profil awal di percakapan; tanyakan hanya informasi yang benar-benar diperlukan.
+- **Sumber penting gagal diakses:** nyatakan file yang gagal, jangan mengklaim telah membacanya, dan jangan mengarang isi yang hilang.
+
+Setelah memilih mode, urutan respons pertama adalah: timestamp lengkap → narasi pembuka dari state yang sah → profil lengkap. Jangan tampilkan laporan teknis bootstrap sebagai pengganti gameplay.
+
+### Gerbang Pencatatan Uang
+
+- Saldo awal dalam registry adalah state awal, bukan bukti bahwa transaksi baru saja terjadi.
+- Setiap transaksi harus menyebut perubahan saldo yang dapat dihitung dan memakai `core/10_ECONOMY_SYSTEM.md` untuk kurs, harga, tier kualitas, kelangkaan, dan penyesuaian pasar.
+- Catat transaksi secara ringkas di narasi/riwayat gameplay; bingkai profil tetap memakai field Currency yang ada.
+- Jika tidak ada transaksi atau peristiwa ekonomi yang sah, saldo wajib tetap sama. Jangan mengubah saldo saat bootstrap atau hanya untuk menormalkan pecahan.
+
 ## Daftar Karakter
 
 ### Yuha
@@ -103,7 +121,7 @@ Gunakan juga aturan rinci di `templates/CHARACTER_PROFILE_TEMPLATE.md`. Mode NO 
 - **Equipment:** Hanfu hitam polos berlengan panjang; kacamata tipis; tongkat jalan.
 - **Inventory:** Sepuluh giok kecil peninggalan; hanfu hitam polos cadangan sederhana; kantong uang; sisir kayu; kain lap/kain saputangan; botol air kecil; bekal ringan; perlengkapan kebersihan dasar. Semua barang selain sepuluh giok adalah **estimasi awal GM** berdasarkan keseharian dan pekerjaan Yuha. Fungsi khusus dan nilai giok tetap belum diketahui.
 - **Assets:** Memperoleh bayaran yang cukup besar dari pekerjaan sebagai escort/teman bicara bagi para putri bangsawan. **Estimasi awal GM:** tabungan dan uang tunai yang masih tersisa tergolong cukup untuk kebutuhan pribadi sederhana, tetapi bukan kekayaan besar; penghasilan masa lalu tidak dianggap seluruhnya masih tersimpan. Utang besar tidak ditetapkan tanpa bukti.
-- **Currency (xuan/zun):** 18xc | 6xs | 2xg | 0zj | 0az (**estimasi kasar GM**; tidak menyatakan rasio konversi resmi antarpecahan).
+- **Currency (xuan/zun):** 18xc | 6xs | 2xg | 0zj | 0az (**estimasi saldo awal GM**; bukan transaksi atau penghasilan baru yang terjadi di awal sesi. Saat ada transaksi, gunakan kurs resmi `core/10_ECONOMY_SYSTEM.md` dan catat perubahan secara eksplisit).
 - **Teknik / Kemampuan:** Kemampuan percakapan, mendengarkan, menjaga rahasia percakapan, dan membaca suasana sosial—keterampilan praktis yang masuk akal dari pekerjaannya sebagai pendamping. Stamina ekstrem dan indra gerak luar biasa dicatat sebagai potensi/kondisi bawaan pasif, bukan teknik kultivasi atau jurus tempur yang telah dikuasai.
 - **Tujuan Saat Ini:** Menjalani pekerjaan yang paling disukainya sebagai pendamping dan teman bicara berbayar; asal-usul serta potensi sejatinya masih belum diketahui olehnya.
 

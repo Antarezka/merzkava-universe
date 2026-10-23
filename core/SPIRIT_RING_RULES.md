@@ -45,20 +45,46 @@ Warna untuk ring berusia 500.000 tahun atau lebih masih **Undefined**. Jangan me
 - Awakening tidak otomatis memberikan Spirit Ring pertama; ring pertama harus diperoleh melalui proses tersendiri.
 - Sistem memiliki sembilan Realm dan satu slot Spirit Ring untuk setiap Realm, sehingga Realm 1 membuka satu slot dan Realm 9 membuka sembilan slot.
 - Urutan Realm: Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, Spirit Primordial.
-- Setiap perpindahan ke Realm berikutnya membutuhkan Spirit Ring berikutnya yang sah.
-- Progres 100% berarti mencapai bottleneck, bukan breakthrough otomatis.
-- Penyerapan ring berikutnya menjadi bagian dari proses kultivasi dan breakthrough. Realm baru hanya dicatat setelah proses benar-benar berhasil.
-- Qi mortal sebelum awakening bernilai 0; mereka menggunakan stamina biasa. Setelah awakening tetapi sebelum ring pertama diserap, Qi belum terbentuk dan dicatat sebagai belum ada cincin, bukan sebagai Qi positif.
+- Progres 100% tidak otomatis berarti Sync progress sudah mencapai cap ring; gunakan format progres saat ini/cap ring.
+- Menerobos memerlukan seluruh syarat di `core/CULTIVATION_SYSTEM.md`: bottleneck dalam jarak kurang dari 10 poin persentase dari cap, ring berikutnya tersedia, item wajib untuk Beast target tersedia, dan jeda minimum antar-penyerapan telah terpenuhi.
+- Penyerapan ring berikutnya menambah jumlah ring hanya jika benar-benar berhasil. Realm baru hanya dicatat setelah seluruh proses breakthrough berhasil.
+- Qi mortal sebelum awakening bernilai 0; setelah awakening tetapi sebelum ring pertama diserap, Qi belum terbentuk.
+## 5. Penyerapan Spirit Ring, Kultivasi, Sync progress, dan Bottleneck
 
-## 5. Penyerapan, Meditasi, dan Sinkronisasi
+Istilah proses mekanik yang digunakan hanya:
+- **Penyerapan Spirit Ring:** proses memperoleh dan menambahkan satu Spirit Ring ke jumlah ring yang dimiliki.
+- **Kultivasi:** proses meningkatkan Sync progress menuju cap kompatibilitas maksimum ring yang sedang diproses.
+- **Menerobos:** proses terpisah yang hanya berhasil apabila seluruh syarat resmi terpenuhi.
 
-- Penyerapan Spirit Ring merupakan bagian dari proses kultivasi dan breakthrough.
-- Meditasi kultivasi untuk meningkatkan kekuatan dan kompatibilitas harus dilakukan di tempat yang aman dan stasioner. Catat progres persentase kekuatan kultivasi dan kompatibilitas di dalam penjelasan/log meditasi yang sama agar perubahan status punya konteks.
-- Ketentuan meditasi aman tidak berarti perburuan Beast harus dilakukan di tempat aman atau Beast harus dibawa ke lokasi meditasi sebelum dikalahkan.
-- Penyerapan paksa membuat sinkronisasi 100% nyaris mustahil.
-- Jika Spirit Beast secara sukarela menyerahkan ringnya, sinkronisasi 100% menjadi lebih mungkin. Ini bukan jaminan bahwa penyerapan pasti berhasil.
-- Jangan menyamakan sinkronisasi yang tinggi dengan keberhasilan otomatis, dan jangan menganggap kegagalan atau keberhasilan tanpa menyelesaikan proses yang relevan.
+Meditasi atau kegiatan lain bukan Penyerapan Spirit Ring maupun Kultivasi. Kegiatan tersebut tidak otomatis menambah ring, menaikkan Sync progress, atau memenuhi syarat breakthrough.
 
+Untuk setiap ring baru, hitung kompatibilitas ring tersebut (`Cᵢ`) menggunakan rumus §6.1. Nilai `Cᵢ` menjadi cap kompatibilitas maksimum bagi Sync progress ring itu. Format wajib: `Sync progress: [progres saat ini]%/[Cᵢ]%`. Contoh `Sync progress: 0%/78%` hanya berlaku jika rumus resmi menghasilkan cap 78%.
+
+Cap dapat berbeda pada setiap ring dan tidak otomatis 100%. Kultivasi dapat menaikkan Sync progress hingga cap, tetapi tidak melewatinya. Jarak dari cap dihitung sebagai cap dikurangi Sync progress saat ini.
+
+Syarat bottleneck untuk menerobos: jarak Sync progress ke cap harus kurang dari 10 poin persentase. Jika jaraknya 10 poin atau lebih, karakter belum memenuhi syarat bottleneck untuk menerobos.
+
+Setiap breakthrough juga memerlukan ring berikutnya yang benar-benar tersedia, item wajib yang sesuai dengan Spirit Beast target, dan jeda minimum sejak penyerapan ring sebelumnya yang berhasil:
+- Ring 1 → Ring 2: 2 minggu.
+- Ring 2 → Ring 3: 1 bulan.
+- Ring 3 → Ring 4: 3 bulan.
+- Ring 4 → Ring 5: 6 bulan.
+- Ring 5 → Ring 6: 1 tahun.
+- Ring 6 → Ring 7: 2 tahun.
+- Ring 7 → Ring 8: 3 tahun.
+- Ring 8 → Ring 9: 4 tahun.
+
+Jika persyaratan item khusus Beast belum ditetapkan, jangan mengarangnya atau menganggapnya tidak diperlukan. Periksa `bestiary/SPIRIT_BEAST_RULES.md`.
+
+Deviasi: makin besar jarak Sync progress dari cap ketika breakthrough dipaksakan, makin tinggi tingkat deviasi. Memaksakan Penyerapan Spirit Ring sebelum jeda minimum juga menyebabkan deviasi yang dapat berkisar dari ringan hingga berat. Setiap deviasi wajib mencatat:
+1. Tingkat deviasi (ringan, sedang, atau berat).
+2. Pengurangan cap kompatibilitas maksimum ring berikutnya dan cap baru yang berlaku.
+3. Damage HP berdasarkan aturan damage/HP resmi yang tersedia.
+4. Cedera dan perubahan kondisi tubuh yang konkret.
+
+Jika rumus numerik untuk tingkat deviasi, pengurangan cap, damage, atau pemulihan belum ditetapkan, jangan mengarang angka seolah-olah canon. Nyatakan nilai numerik belum ditentukan, tetapi tetap catat tingkat dan konsekuensi kualitatif yang didukung sumber.
+
+Penyerapan paksa membuat sinkronisasi 100% nyaris mustahil. Penyerahan sukarela oleh Spirit Beast membuat sinkronisasi 100% lebih mungkin, tetapi tidak menjamin keberhasilan.
 ## 6. Rumus Kompatibilitas, Power Scale, dan Qi
 
 ### 6.1. Kompatibilitas setiap ring
@@ -123,7 +149,7 @@ Dengan demikian, pemilik sembilan ring memiliki Qi dasar tepat **45.234.100**. Q
 
 ### 6.5. Wajib dicatat setelah setiap penyerapan
 
-Setiap kali ring berhasil diserap, GM harus menyatakan nomor ring terbaru dan jumlah total ring yang kini dimiliki, lalu mencatat usia, warna (jika diketahui), sumber/tier Beast, kemampuan yang diperoleh, Cᵢ dalam persen, C_total yang diperbarui, AgeTotal, PowerScale, dan Qi sesuai jumlah ring. Jika input formula belum diketahui, tandai input itu sebagai belum diketahui dan jangan berpura-pura hasilnya presisi.
+Setiap kali ring berhasil diserap, GM harus menyatakan nomor ring terbaru dan jumlah total ring yang kini dimiliki, lalu mencatat usia, warna (jika diketahui), sumber/tier Beast, kemampuan yang diperoleh, cap kompatibilitas Cᵢ, C_total yang diperbarui, AgeTotal, PowerScale, Qi, dan waktu penyerapan. Catat pula item wajib yang digunakan dan seluruh deviasi, damage HP, serta cedera jika terjadi. Jika input formula belum diketahui, tandai input itu sebagai belum diketahui dan jangan berpura-pura hasilnya presisi.
 
 ## 7. Pencatatan Profil
 

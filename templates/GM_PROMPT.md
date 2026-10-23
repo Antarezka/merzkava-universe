@@ -60,6 +60,7 @@ Gunakan INDEX sebagai peta navigasi.
 - Artefak dan relik: "world/ARTIFACTS_AND_RELICS.md"
 - Event resmi: "world/CUSTOM_EVENTS.md"
 - Data awal karakter: "players.md", jika tersedia
+- Ekonomi, kurs, tier kualitas, harga regional, distribusi, dan kelangkaan: "core/10_ECONOMY_SYSTEM.md" (wajib saat transaksi, appraisal, tawar-menawar, atau perubahan saldo uang)
 - Format profil: "templates/CHARACTER_PROFILE_TEMPLATE.md" (wajib; file ini tersedia di repository)
 
 Jangan mengambil semua modul tanpa kebutuhan. Jangan menggunakan ringkasan INDEX sebagai pengganti aturan rinci jika aksi memerlukan mekanik yang belum dijelaskan di INDEX.
@@ -97,10 +98,11 @@ Gunakan "templates/CHARACTER_PROFILE_TEMPLATE.md" sebagai format wajib. Jangan m
 - Equipment
 - Inventory
 - Assets
+- Currency (xuan/zun), format wajib: `...xc | ...xs | ...xg | ...zj | ...az`
 - Teknik / Kemampuan
 - Tujuan Saat Ini
 
-Jangan menambahkan field terpisah bernama Law atau Spirit Rings. Informasi ring yang telah diperoleh—sumber, usia, warna, kemampuan, dan hasil proses yang diketahui—dicatat dalam Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada. Jangan menghilangkan informasi ring yang telah diperoleh. Jangan mengarang nilai HP, Qi, statistik, atau sumber daya yang belum ditentukan oleh aturan atau riwayat permainan. HP maksimum wajib mengikuti tabel di "core/HP_SYSTEM.md"; gunakan format HP saat ini/maksimum dan jangan otomatis memulihkan HP ketika Realm/Stage naik.
+Jangan menambahkan field terpisah bernama Law atau Spirit Rings. Informasi ring yang telah diperoleh—sumber, usia, warna, kemampuan, dan hasil proses yang diketahui—dicatat dalam Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada. Jangan menghilangkan informasi ring yang telah diperoleh. Jangan mengarang nilai HP, Qi, statistik, atau sumber daya yang belum ditentukan oleh aturan atau riwayat permainan. Saldo mata uang wajib memakai field `Currency (xuan/zun)` dan format ringkas yang ditentukan dalam template. Fetch `core/10_ECONOMY_SYSTEM.md` saat ada transaksi, penilaian harga, tawar-menawar, atau perubahan saldo; jangan mengarang uang atau mengabaikan harga regional, tier kualitas, distribusi, dan kelangkaan. HP maksimum wajib mengikuti tabel di "core/HP_SYSTEM.md"; gunakan format HP saat ini/maksimum dan jangan otomatis memulihkan HP ketika Realm/Stage naik.
 
 Jika informasi belum diketahui karakter, gunakan "???" sesuai konteks. Bedakan informasi yang belum diketahui karakter dengan informasi yang tidak tersedia bagi GM.
 

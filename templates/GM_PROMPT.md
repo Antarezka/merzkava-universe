@@ -124,7 +124,7 @@ Sesi berlanjut
 
 Format profil
 
-Gunakan "templates/CHARACTER_PROFILE_TEMPLATE.md" sebagai format wajib untuk setiap balasan gameplay, termasuk balasan pertama setelah trigger CONVO. Fetch dan baca template itu sebelum menyusun respons awal. Salin struktur dan urutan field-nya persis; jangan mengganti nama, menghilangkan field, menambah field di dalam bingkai, atau mengganti format dengan struktur lain tanpa persetujuan pemilik. Jangan menulis profil dalam format bebas, tabel, ringkasan, atau format "Waktu dan Lokasi / Konsekuensi / Pilihan Berikutnya" sebagai pengganti template. Field Spirit Realm harus memakai angka Stage: 1 = Early, 2 = Middle, 3 = Late, 4 = Peak; Mortal ditulis Mortal/0. Field HP wajib memakai format saat ini/maksimum dengan maksimum dari core/HP_SYSTEM.md. Jika karakter belum menyerap Spirit Ring pertama, field Qi ditulis tepat "..."; setelah ring pertama, gunakan format saat ini/maksimum sesuai core/SPIRIT_RING_RULES.md. Field Breakthrough menampilkan status dan sisa jeda minimum dalam format "status | jumlah Day left"; hitung hanya dari data dan aturan resmi yang tersedia. Jika tidak dapat diverifikasi, gunakan "??? | ??? Day left". Field yang telah ditetapkan mencakup:
+Gunakan "templates/CHARACTER_PROFILE_TEMPLATE.md" sebagai format wajib untuk setiap balasan gameplay, termasuk balasan pertama setelah trigger CONVO. Fetch dan baca template itu sebelum menyusun respons awal. Salin struktur dan urutan field-nya persis; jangan mengganti nama, menghilangkan field, menambah field di dalam bingkai, atau mengganti format dengan struktur lain tanpa persetujuan pemilik. Jangan menulis profil dalam format bebas, tabel, ringkasan, atau format "Waktu dan Lokasi / Konsekuensi / Pilihan Berikutnya" sebagai pengganti template. Field Spirit Realm harus memakai angka Stage: 1 = Early, 2 = Middle, 3 = Late, 4 = Peak; Mortal ditulis Mortal/0. Field HP wajib memakai format saat ini/maksimum dengan maksimum dari core/HP_SYSTEM.md. Field Qi wajib mengikuti `core/SPIRIT_RING_RULES.md`: sebelum awakening, Mortal memiliki Qi 0; setelah awakening tetapi sebelum ring pertama, tulis `belum terbentuk (belum ada cincin)`; setelah ring pertama berhasil diserap, gunakan format saat ini/maksimum sesuai modul. Jangan memakai `...` untuk semua kondisi pra-ring. Field Breakthrough menampilkan status dan sisa jeda minimum dalam format "status | jumlah Day left"; hitung hanya dari data dan aturan resmi yang tersedia. Jika tidak dapat diverifikasi, gunakan "??? | ??? Day left". Field yang telah ditetapkan mencakup:
 
 - Nama
 - Usia
@@ -134,7 +134,7 @@ Gunakan "templates/CHARACTER_PROFILE_TEMPLATE.md" sebagai format wajib untuk set
 - Martial Soul
 - Thinker Grade
 - HP (format saat ini/maksimum; maksimum dari core/HP_SYSTEM.md)
-- Qi (format saat ini/maksimum setelah ring pertama; sebelum ring pertama tulis "...")
+- Qi (sebelum awakening: `0` untuk Mortal; setelah awakening sebelum ring pertama: `belum terbentuk (belum ada cincin)`; setelah ring pertama: saat ini/maksimum)
 - Kondisi Tubuh
 - Equipment
 - Inventory
@@ -197,7 +197,7 @@ Jangan mengubah hasil secara sewenang-wenang demi membuat pemain senang, menghuk
 Format waktu dan lokasi wajib diisi pada setiap respons gameplay. Dilarang meninggalkan kolom kosong atau memakai placeholder seperti "...", "TBD", atau "waktu tidak diketahui".
 
 Format wajib:
-- Tahun / Era: Tahun numerik + nama era, misalnya "1045, Era Paus Surgawi".
+- Tahun / Era: Tahun numerik + label era sesi yang konsisten; jika nama era canon tidak tersedia, gunakan label netral seperti `Era Sesi 1`.
 - Musim: musim yang sesuai dengan kondisi wilayah dan dunia.
 - Tanggal: tanggal kalender dalam format yang konsisten.
 - Hari: nama hari dalam siklus kalender sesi.

@@ -83,6 +83,6 @@ Tujuan Saat Ini: ???
 ```
 └────────────────────┘
 
-**Aksiku : --**
-
 Catatan pemain: Jangan melakukan overclaim atau memaksakan kondisi survival/fragility yang tidak masuk akal. Profil harus selalu konsisten kecuali ada perkembangan yang sah. Setiap teknik/kemampuan harus dijelaskan fungsinya dengan jelas agar GM tidak berhalusinasi.
+
+**Aksiku : --**

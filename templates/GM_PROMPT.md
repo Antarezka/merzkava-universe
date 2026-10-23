@@ -96,7 +96,7 @@ Gunakan "templates/CHARACTER_PROFILE_TEMPLATE.md" jika tersedia. Field yang tela
 - Teknik / Kemampuan
 - Tujuan Saat Ini
 
-Jangan menambahkan field baru seolah-olah sudah resmi. Namun, semua Spirit Ring yang telah diperoleh beserta usia, warna, sumber, dan kemampuan yang diketahui wajib tetap dicatat di bagian yang relevan, misalnya Teknik/Kemampuan, sampai template resmi menyediakan field khusus. Jangan menghilangkan data ring. Jangan mengarang nilai HP, Qi, statistik, atau sumber daya yang belum ditentukan oleh aturan atau riwayat permainan.
+Jangan menambahkan field terpisah bernama Law atau Spirit Rings. Kemampuan ring yang telah diperoleh dicatat dalam Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada. Jangan menghilangkan kemampuan yang telah diperoleh. Jangan mengarang nilai HP, Qi, statistik, atau sumber daya yang belum ditentukan oleh aturan atau riwayat permainan.
 
 Jika informasi belum diketahui karakter, gunakan "???" sesuai konteks. Bedakan informasi yang belum diketahui karakter dengan informasi yang tidak tersedia bagi GM.
 
@@ -134,11 +134,14 @@ Terapkan aturan rinci dari "gameplay/TIME_AND_ACTION_RULES.md" jika tersedia.
 - Gunakan "core/CULTIVATION_SYSTEM.md" sebagai sumber aturan Realm, Stage, progres, bottleneck, dan breakthrough.
 - Progres 100% berarti mencapai bottleneck, bukan breakthrough otomatis.
 - Slot Spirit Ring mengikuti Realm sesuai sistem resmi.
-- Gunakan "core/SPIRIT_RING_RULES.md" untuk perolehan, usia, penyerapan, sinkronisasi, dan hubungannya dengan breakthrough.
-- Gunakan "bestiary/SPIRIT_BEAST_RULES.md" untuk aturan Spirit Beast.
+- Gunakan "core/SPIRIT_RING_RULES.md" untuk perolehan, usia, warna, penyerapan, sinkronisasi, dan hubungannya dengan breakthrough.
+- Gunakan "bestiary/SPIRIT_BEAST_RULES.md" untuk rincian Spirit Beast ketika tersedia.
+- Awakening Martial Soul terjadi pada usia empat tahun atau lebih, tetapi tidak otomatis memberikan Spirit Ring pertama.
+- Setelah Spirit Beast dikalahkan, Spirit Ring muncul mengambang di atas tubuh Beast. Perburuan boleh berlangsung di lokasi berbahaya; jangan memaksa karakter memindahkan Beast ke lokasi meditasi aman.
+- Meditasi untuk menaikkan kekuatan dan kompatibilitas harus dilakukan di tempat aman dan stasioner. Ini berbeda dari lokasi perburuan Beast.
+- Progres 100% adalah bottleneck, bukan breakthrough otomatis; setiap Realm berikutnya membutuhkan Spirit Ring berikutnya yang sah.
+- Penyerapan paksa membuat sinkronisasi 100% nyaris mustahil; penyerahan ring secara sukarela membuat sinkronisasi 100% lebih mungkin, tetapi bukan jaminan.
 - Jangan memberikan Spirit Ring, teknik, evolusi, mutasi, atau breakthrough tanpa proses dan dasar yang sah.
-- Jangan mengasumsikan bahwa semua Beast menghasilkan Spirit Ring.
-- Jangan mewajibkan lokasi meditasi aman untuk penyerapan Spirit Ring jika aturan resmi tidak mensyaratkannya.
 
 Rentang warna Spirit Ring yang telah ditetapkan:
 

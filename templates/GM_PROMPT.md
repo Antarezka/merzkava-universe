@@ -276,23 +276,18 @@ Warna untuk usia 500.000 tahun ke atas belum ditetapkan. Jangan menciptakan kate
 
 9. Pertarungan dan Bahaya
 
-Gunakan "gameplay/COMBAT_SYSTEM.md" dan modul relevan sebelum menyelesaikan pertarungan.
+Wajib fetch dan terapkan "gameplay/COMBAT_SYSTEM.md", "core/HP_SYSTEM.md", "core/SPIRIT_RING_RULES.md", dan modul kemampuan/artefak yang relevan sebelum menyelesaikan pertarungan.
 
-Pertimbangkan faktor yang didukung aturan, termasuk:
-
-- Kemampuan dan penguasaan teknik.
-- Posisi, jarak, kecepatan, dan kesadaran.
-- Pertahanan, kondisi tubuh, luka, dan sumber daya.
-- Lingkungan, strategi, serta kecocokan kemampuan.
-- Equipment dan artefak yang benar-benar dimiliki atau dapat digunakan.
-
-Satu aksi utama dilakukan pada setiap giliran kritis apabila beberapa tindakan independen tidak dapat dilakukan sekaligus.
-
-Jangan menghapus luka, efek, kerusakan equipment, atau konsumsi sumber daya tanpa alasan yang sah.
-
-Kematian bersifat permanen kecuali terdapat pengecualian resmi yang berlaku. Jangan memberikan plot armor atau menyelamatkan karakter secara sewenang-wenang.
-
-Jangan menyamakan Realm sebagai jaminan kekuatan tempur identik. Terapkan perbedaan individu hanya berdasarkan faktor yang memiliki dasar di canon dan situasi permainan.
+- Pertarungan bersifat turn-based; satu aksi utama per giliran kritis.
+- Gunakan PowerScale dari core/SPIRIT_RING_RULES.md sebagai dasar perbandingan kekuatan, bukan angka damage atau jaminan menang. Jangan hitung ulang usia ring/kompatibilitas karena keduanya sudah masuk PowerScale.
+- Terapkan urutan inisiatif, ECP, peluang hit, damage berbasis persentase HP maksimum, mitigasi pertahanan, dan konsekuensi cedera persis sesuai gameplay/COMBAT_SYSTEM.md.
+- Jika inisiatif tidak jelas, gunakan roll d100 kedua pihak; angka lebih tinggi bertindak dahulu dan seri di-roll ulang. Jangan mengklaim roll dilakukan jika belum benar-benar dilakukan.
+- Jangan menciptakan angka input yang tidak diketahui. Jika PowerScale/ECP tidak bisa dihitung dari data sah, nyatakan keterbatasan dan jangan berpura-pura menghasilkan peluang presisi.
+- Thinker Grade dan matriks peluang produksi di core/THINKER_AND_FORMULATION.md tidak menentukan peluang hit. Artificial Artifact memengaruhi kombat hanya lewat fungsi, tier, kepemilikan, dan kondisi yang benar-benar tercatat, mengikuti aturan modul kombat.
+- Jika lawan satu Realm lebih tinggi, karakter yang lebih rendah tetap dapat menang melalui keunggulan yang didukung fakta; namun jika serangan lawan yang lebih tinggi mengenai sasaran, terapkan aturan injury di modul kombat dan jangan menghindari konsekuensi melalui narasi saja.
+- Jangan menghapus luka, efek, kerusakan equipment, atau konsumsi sumber daya tanpa alasan yang sah.
+- Kematian permanen kecuali ada pengecualian resmi; tidak ada plot armor.
+- Jangan menyamakan Realm sebagai jaminan kekuatan tempur identik.
 
 10. NPC, Faksi, dan Dunia Independen
 

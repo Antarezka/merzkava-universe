@@ -2,9 +2,45 @@
 
 File ini adalah daftar karakter pemain yang terdaftar untuk memulai sesi roleplay.
 
-## Format dan Aturan Karakter
+## Format Wajib Setiap Balasan Gameplay — MODE: NO STEP
 
-Setiap entri karakter wajib mengikuti urutan field pada `templates/CHARACTER_PROFILE_TEMPLATE.md`. Field yang belum diketahui tetap wajib ditampilkan dengan placeholder resmi; jangan menghilangkan field hanya karena datanya belum tersedia.
+Setiap balasan gameplay wajib memakai urutan berikut, tanpa menghilangkan bagian waktu, narasi, atau satu pun field profil:
+
+```text
+🕒 Waktu Xuanling Realm
+Tahun: ... | Musim: ... | Tanggal: ... | Hari: ... | Cuaca: ... | Jam: ...
+
+Narasi
+[Tuliskan narasi imersif sesuai kejadian, pengetahuan karakter, kondisi dunia, dan konsekuensi yang benar-benar terjadi.]
+
+┌── Profil Karakter ──┐
+Nama: ...
+Usia: ...
+Spirit Realm: .../...
+Sync progress: ...%/...%
+Breakthrough: ... | Day left
+Martial Soul: ...
+Thinker Grade: ...
+HP: .../...
+Qi: ...
+Kondisi Tubuh: ...
+Equipment: ...
+Inventory: ...
+Assets: ...
+Currency (xuan/zun): ...xc | ...xs | ...xg | ...zj | ...az
+Teknik / Kemampuan: ...
+Tujuan Saat Ini: ...
+└────────────────────┘
+```
+
+Gunakan juga aturan rinci di `templates/CHARACTER_PROFILE_TEMPLATE.md`. Mode NO STEP berarti jangan mengubah balasan menjadi daftar langkah atau menu tindakan.
+
+### Aturan Wajib Data yang Tidak Disebutkan
+
+- Jika latar belakang tidak menyebut jumlah uang, aset, inventaris, perlengkapan, teknik bawaan, kondisi tubuh tersembunyi, kebiasaan biologis, atau detail praktis lain, GM **wajib membuat perkiraan kasar yang masuk akal** berdasarkan latar karakter. Jangan otomatis memakai `???` untuk hal yang bisa diperkirakan.
+- Tetapkan saldo awal dan isi inventaris secara konkret. Isi semua pecahan Currency; angka tersebut adalah estimasi awal GM, bukan fakta eksplisit dari pemain. Jangan mengarang nilai tukar resmi atau harta luar biasa tanpa dasar.
+- Tetapkan keterampilan biasa, naluri, potensi pasif, dan kondisi tersembunyi yang wajar jika didukung latar. Pisahkan informasi khusus GM dari hal yang diketahui karakter. Bakat tersembunyi tidak otomatis berarti karakter menguasai teknik aktif.
+- Gunakan `???` hanya untuk misteri inti atau hal yang memang tidak dapat diperkirakan secara bertanggung jawab. Jangan menciptakan garis keturunan, artefak kuat, atau rahasia besar tanpa petunjuk.
 
 ### Aturan Wajib Latar Belakang Orisinal
 
@@ -13,8 +49,8 @@ Setiap entri karakter wajib mengikuti urutan field pada `templates/CHARACTER_PRO
 - **Yang boleh diperbarui seiring gameplay hanya data karakter yang memang dapat berubah**, misalnya uang/harta, inventaris, perlengkapan, kondisi tubuh, luka, teknik, kemampuan yang telah dipelajari, status perkembangan, dan informasi progres lainnya.
 - Perubahan pada data yang dapat berkembang tidak boleh digunakan sebagai alasan untuk mengubah latar belakang orisinal. Jika pemain ingin merevisi latar belakang, lakukan hanya atas permintaan eksplisit pemain.
 - Field profil wajib mengikuti nama dan urutan resmi dalam template. Informasi tambahan yang diperlukan GM boleh dicatat pada bagian catatan canon/GM setelah profil, tanpa mengubah atau menghilangkan field wajib.
-- Tambahkan informasi ekonomi, perlengkapan, teknik/kemampuan, Martial Soul, bakat, garis keturunan, dan kondisi tersembunyi hanya jika relevan dan memiliki dasar. Bedakan fakta tersembunyi yang diketahui GM dari hal yang diketahui karakter.
-- Jangan menciptakan teknik, garis keturunan, barang, jumlah uang, statistik, atau keistimewaan baru tanpa dasar. Jika jumlah/nilai belum ditentukan, gunakan placeholder yang sesuai dan jangan menetapkan angka sendiri.
+- Tambahkan dan tetapkan informasi ekonomi, perlengkapan, inventaris, teknik/kemampuan, Martial Soul, bakat, garis keturunan, serta kondisi tersembunyi berdasarkan latar. Jika jumlah atau detail praktis tidak disebutkan, gunakan estimasi kasar GM yang masuk akal dan tandai sebagai estimasi. Bedakan fakta tersembunyi yang diketahui GM dari hal yang diketahui karakter.
+- Jangan menciptakan keistimewaan luar biasa tanpa petunjuk. Namun, **jumlah uang, inventaris dasar, keterampilan praktis, dan kondisi tubuh tersembunyi yang masuk akal wajib diperkirakan**, bukan dibiarkan kosong atau ditulis `???` hanya karena tidak disebutkan eksplisit.
 
 ## Aturan Penggunaan
 
@@ -43,10 +79,10 @@ Setiap entri karakter wajib mengikuti urutan field pada `templates/CHARACTER_PRO
 - **Qi:** ...
 - **Kondisi Tubuh:** ???
 - **Equipment:** Hanfu hitam polos berlengan panjang; kacamata tipis; tongkat jalan.
-- **Inventory:** Sepuluh giok kecil peninggalan yang ditemukan bersamanya; fungsi dan sifat khususnya belum diketahui.
-- **Assets:** Memperoleh bayaran yang cukup besar dari pekerjaan sebagai escort/teman bicara bagi para putri bangsawan. Total aset bersih, saldo tabungan, dan utang belum diketahui; jangan menganggap seluruh penghasilan masih tersimpan.
-- **Currency (xuan/zun):** ???xc | ???xs | ???xg | ???zj | ???az
-- **Teknik / Kemampuan:** Belum ada teknik kultivasi atau teknik tempur yang diketahui/ditetapkan.
+- **Inventory:** Sepuluh giok kecil peninggalan; hanfu hitam polos cadangan sederhana; kantong uang; sisir kayu; kain lap/kain saputangan; botol air kecil; bekal ringan; perlengkapan kebersihan dasar. Semua barang selain sepuluh giok adalah **estimasi awal GM** berdasarkan keseharian dan pekerjaan Yuha. Fungsi khusus dan nilai giok tetap belum diketahui.
+- **Assets:** Memperoleh bayaran yang cukup besar dari pekerjaan sebagai escort/teman bicara bagi para putri bangsawan. **Estimasi awal GM:** tabungan dan uang tunai yang masih tersisa tergolong cukup untuk kebutuhan pribadi sederhana, tetapi bukan kekayaan besar; penghasilan masa lalu tidak dianggap seluruhnya masih tersimpan. Utang besar tidak ditetapkan tanpa bukti.
+- **Currency (xuan/zun):** 18xc | 6xs | 2xg | 0zj | 0az (**estimasi kasar GM**; tidak menyatakan rasio konversi resmi antarpecahan).
+- **Teknik / Kemampuan:** Kemampuan percakapan, mendengarkan, menjaga rahasia percakapan, dan membaca suasana sosial—keterampilan praktis yang masuk akal dari pekerjaannya sebagai pendamping. Stamina ekstrem dan indra gerak luar biasa dicatat sebagai potensi/kondisi bawaan pasif, bukan teknik kultivasi atau jurus tempur yang telah dikuasai.
 - **Tujuan Saat Ini:** Menjalani pekerjaan yang paling disukainya sebagai pendamping dan teman bicara berbayar; asal-usul serta potensi sejatinya masih belum diketahui olehnya.
 
 #### Latar Belakang Orisinal (Wajib Dipertahankan Utuh)
@@ -61,7 +97,9 @@ Yuha selalu mengenakan hanfu hitam polos berlengan panjang, dilengkapi sebuah to
 
 #### Catatan Canon dan Informasi Khusus GM
 
-- **Bakat / kondisi tubuh tersembunyi (khusus GM):** Stamina sangat ekstrem; jarang merasa lapar; indra pergerakan luar biasa yang mampu menangkap dan merespons gerakan secepat suara. Yuha tidak menyadari kemampuan-kemampuan ini. Jangan otomatis mengubahnya menjadi teknik aktif yang dikuasai atau jaminan menang.
+- **Bakat / kondisi tubuh tersembunyi (khusus GM):** Stamina sangat ekstrem; kebutuhan makan terasa lebih jarang daripada orang biasa; indra pergerakan luar biasa yang mampu menangkap dan merespons gerakan secepat suara. Yuha belum menyadari sifat-sifat ini dan belum memahami batasnya. Perlakukan sebagai kondisi/potensi bawaan pasif yang harus terungkap melalui kejadian, bukan teknik aktif, kekebalan, atau jaminan menang.
+- **Kondisi tubuh tambahan (estimasi awal GM):** Secara umum mampu menjalani aktivitas harian dan pekerjaan pendamping; tidak ada luka berat atau penyakit kronis yang ditetapkan tanpa petunjuk. Kondisi fisik dan batas sebenarnya dari stamina serta indra geraknya belum dipahami Yuha.
+- **Keterampilan praktis (estimasi awal GM):** Terlatih berbicara sopan, mendengarkan, membaca suasana sosial, dan menjaga percakapan tetap nyaman. Ini bukan kemampuan memengaruhi pikiran atau membuat orang otomatis menyukainya.
 - **Garis keturunan / asal-usul:** ???. Kemiripan mata dengan paus surgawi tidak membuktikan garis keturunan tertentu.
 - **Kemampuan khusus dan kondisi tersembunyi lain:** ???. Jangan mengungkap asal-usul Yuha atau fungsi sepuluh giok tanpa perkembangan cerita yang sah.
 - **Lokasi awal:** ???.

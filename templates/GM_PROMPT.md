@@ -142,8 +142,10 @@ Terapkan aturan rinci dari "gameplay/TIME_AND_ACTION_RULES.md" jika tersedia.
 - Progres 100% adalah bottleneck, bukan breakthrough otomatis; setiap Realm berikutnya membutuhkan Spirit Ring berikutnya yang sah.
 - Penyerapan paksa membuat sinkronisasi 100% nyaris mustahil; penyerahan ring secara sukarela membuat sinkronisasi 100% lebih mungkin, tetapi bukan jaminan.
 - Setelah setiap penyerapan berhasil, sebutkan nomor ring dan jumlah total ring yang kini dimiliki (contoh: ring ketiga berarti total 3 ring), lalu catat usia, warna, sumber, kemampuan, dan kompatibilitas dalam persen jika rumus resmi tersedia.
-- Usia ring harus memengaruhi power scale; jangan menyamakan jumlah ring dengan kekuatan yang setara.
-- Jangan mengarang persentase kompatibilitas atau rumus konversi usia ring menjadi kekuatan. Jika rumus numerik belum ditetapkan, nyatakan bahwa rumus belum ditetapkan.
+- Setelah setiap penyerapan berhasil, terapkan formula kompatibilitas tiap ring, kompatibilitas keseluruhan, PowerScale, dan Qi dalam `core/SPIRIT_RING_RULES.md`. Jangan hanya melakukannya untuk ring ketiga: wajib untuk setiap ring baru dari ring pertama sampai kesembilan.
+- Usia seluruh ring adalah faktor dominan PowerScale; tier Beast terutama memengaruhi kompatibilitas. Pertahankan hasil perhitungan ring lama saat ring baru ditambahkan.
+- Mortal sebelum awakening memiliki Qi 0 dan menggunakan stamina; setelah awakening tetapi sebelum ring pertama, Qi belum terbentuk. Qi dimulai dari 100 setelah ring pertama dan mengikuti tabel/rumus resmi sampai Qi dasar 45.234.100 pada sembilan ring.
+- Jika input kompatibilitas belum diketahui, tandai belum diketahui dan jangan mengarang nilai input.
 - Jangan memberikan Spirit Ring, teknik, evolusi, mutasi, atau breakthrough tanpa proses dan dasar yang sah.
 
 Rentang warna Spirit Ring yang telah ditetapkan:

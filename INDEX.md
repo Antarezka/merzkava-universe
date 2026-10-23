@@ -42,7 +42,7 @@ Repository: https://github.com/Antarezka/xuanling-realm
 
 - Realm, Stage, Sync progress, bottleneck, breakthrough: `core/CULTIVATION_SYSTEM.md` dan `core/SPIRIT_RING_RULES.md`.
 - Awakening atau Martial Soul: `core/MARTIAL_SOUL.md`.
-- Spirit Beast, perburuan, syarat ring, jeda minimum, deviasi: `bestiary/SPIRIT_BEAST_RULES.md`; tambahkan `core/SPIRIT_RING_RULES.md` untuk penyerapan.
+- Spirit Beast, perburuan, syarat ring, jeda minimum, deviasi: `bestiary/SPIRIT_BEAST_RULES.md`; tambahkan `core/SPIRIT_RING_RULES.md` untuk penyerapan dan persentase paparan deviasi. Persentase paparan berbeda dari tingkat risiko, yang ditentukan oleh jumlah poin status yang hilang.
 - Combat, serangan beruntun, atau combo: `gameplay/COMBAT_SYSTEM.md`; satu aksi dapat berisi beberapa hit dan aturan combo default berlaku dari modul ini. Tambahkan `core/HP_SYSTEM.md` bila HP berubah atau perlu divalidasi.
 - Waktu, perjalanan berdurasi, kultivasi panjang, atau time skip: `gameplay/TIME_AND_ACTION_RULES.md` serta modul mekanik terkait.
 - HP atau pembuatan/pembaruan profil: `core/HP_SYSTEM.md` dan template profil.

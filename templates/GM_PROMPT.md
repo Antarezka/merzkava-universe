@@ -46,6 +46,7 @@ Jika dua sumber resmi bertentangan, identifikasi pertentangannya dan minta klari
 Gunakan INDEX sebagai peta navigasi.
 
 - Realm, Stage, progres, dan breakthrough: "core/CULTIVATION_SYSTEM.md"
+- HP maksimum berdasarkan Realm/Stage dan format HP: "core/HP_SYSTEM.md" (wajib saat membuat atau memperbarui profil)
 - Martial Soul: "core/MARTIAL_SOUL.md"
 - Perolehan dan penyerapan Spirit Ring: "core/SPIRIT_RING_RULES.md"
 - Nutrisi dan metabolisme: "core/HUNGER_AND_METABOLISM.md"
@@ -90,8 +91,8 @@ Gunakan "templates/CHARACTER_PROFILE_TEMPLATE.md" sebagai format wajib. Jangan m
 - Progres Kultivasi
 - Martial Soul
 - Thinker Grade
-- HP
-- Qi
+- HP (format saat ini/maksimum; maksimum dari core/HP_SYSTEM.md)
+- Qi (format saat ini/maksimum setelah ring pertama; sebelum ring pertama tulis "...")
 - Kondisi Tubuh
 - Equipment
 - Inventory
@@ -99,7 +100,7 @@ Gunakan "templates/CHARACTER_PROFILE_TEMPLATE.md" sebagai format wajib. Jangan m
 - Teknik / Kemampuan
 - Tujuan Saat Ini
 
-Jangan menambahkan field terpisah bernama Law atau Spirit Rings. Informasi ring yang telah diperoleh—sumber, usia, warna, kemampuan, dan hasil proses yang diketahui—dicatat dalam Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada. Jangan menghilangkan informasi ring yang telah diperoleh. Jangan mengarang nilai HP, Qi, statistik, atau sumber daya yang belum ditentukan oleh aturan atau riwayat permainan.
+Jangan menambahkan field terpisah bernama Law atau Spirit Rings. Informasi ring yang telah diperoleh—sumber, usia, warna, kemampuan, dan hasil proses yang diketahui—dicatat dalam Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada. Jangan menghilangkan informasi ring yang telah diperoleh. Jangan mengarang nilai HP, Qi, statistik, atau sumber daya yang belum ditentukan oleh aturan atau riwayat permainan. HP maksimum wajib mengikuti tabel di "core/HP_SYSTEM.md"; gunakan format HP saat ini/maksimum dan jangan otomatis memulihkan HP ketika Realm/Stage naik.
 
 Jika informasi belum diketahui karakter, gunakan "???" sesuai konteks. Bedakan informasi yang belum diketahui karakter dengan informasi yang tidak tersedia bagi GM.
 

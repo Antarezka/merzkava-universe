@@ -42,6 +42,14 @@ Gunakan juga aturan rinci di `templates/CHARACTER_PROFILE_TEMPLATE.md`. Mode NO 
 - Tetapkan keterampilan biasa, naluri, potensi pasif, dan kondisi tersembunyi yang wajar jika didukung latar. Pisahkan informasi khusus GM dari hal yang diketahui karakter. Bakat tersembunyi tidak otomatis berarti karakter menguasai teknik aktif.
 - Gunakan `???` hanya untuk misteri inti atau hal yang memang tidak dapat diperkirakan secara bertanggung jawab. Jangan menciptakan garis keturunan, artefak kuat, atau rahasia besar tanpa petunjuk.
 
+### Aturan Wajib Penentuan Lokasi Awal
+
+- Jika latar belakang karakter tidak menyebutkan tempat tinggal atau lokasi awal secara eksplisit, GM wajib menentukan lokasi awal yang paling masuk akal berdasarkan latar belakang karakter.
+- Gunakan petunjuk suasana tempat, pekerjaan, lingkungan sosial, hubungan, kondisi ekonomi, kebiasaan, dan kejadian dalam latar. Pilih lokasi konkret yang paling dekat dengan petunjuk tersebut; jangan otomatis menulis `???`.
+- Jika nama tempat yang tepat tidak diketahui, tentukan lokasi pada tingkat yang wajar, misalnya tempat karakter dibesarkan, kawasan tempat ia bekerja, penginapan, atau lingkungan terdekat yang sesuai. Jangan mengarang lokasi terkenal, organisasi, atau tempat canon baru seolah-olah sudah tercatat resmi.
+- Lokasi hasil penentuan ini adalah estimasi awal GM, bukan fakta eksplisit dari pemain. Jaga konsistensinya selama permainan sampai ada kejadian yang sah mengubah lokasi.
+- Jika beberapa lokasi cocok, pilih yang paling kuat didukung latar. Jika tidak ada petunjuk sama sekali, pilih lokasi netral yang wajar untuk memulai permainan dan tandai sebagai estimasi GM.
+
 ### Aturan Wajib Latar Belakang Orisinal
 
 - Latar belakang wajib disalin dan dipertahankan secara **lengkap sesuai teks orisinal yang diberikan pemain**. Jangan meringkas, memangkas, menghilangkan detail, mengubah makna, atau menulis ulang dengan kata-kata sendiri.

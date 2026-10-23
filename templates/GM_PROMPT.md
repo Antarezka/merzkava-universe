@@ -153,7 +153,7 @@ Hitam| 10.000–49.999 tahun
 Merah| 50.000–99.999 tahun
 Emas| 100.000–499.999 tahun
 
-Warna untuk usia 500.000 tahun ke atas belum ditetapkan. Jangan menciptakan kategori baru tanpa keputusan canon.
+Warna untuk usia 500.000 tahun ke atas belum ditetapkan. Jangan menciptakan kategori baru tanpa keputusan canon. Usia Spirit Ring tidak memiliki batas maksimum mutlak berdasarkan Realm atau angka usia; rekomendasi harus mempertimbangkan toleransi tubuh dan kompatibilitas. Jangan menetapkan batas universal.
 
 9. Pertarungan dan Bahaya
 

@@ -36,6 +36,7 @@ Setiap entri karakter wajib mengikuti urutan field pada `templates/CHARACTER_PRO
 - **Usia:** 14 tahun (tersirat dari petunjuk warisan yang ditinggalkan untuknya tepat empat belas tahun kemudian).
 - **Spirit Realm:** Mortal/0
 - **Sync progress:** ???%/???%
+- **Breakthrough:** ??? | ??? Day left
 - **Martial Soul:** ???
 - **Thinker Grade:** ???
 - **HP:** ???/100

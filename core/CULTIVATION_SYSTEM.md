@@ -51,7 +51,7 @@ Istilah proses mekanik yang digunakan hanya:
 
 Sync progress wajib ditulis sebagai `Sync progress: [progres saat ini]%/[cap kompatibilitas maksimum]%`. Cap berbeda menurut ring dan dihitung sesuai `core/SPIRIT_RING_RULES.md`; jangan menganggap cap selalu 100%.
 
-Kegiatan seperti meditasi bukan Penyerapan Spirit Ring maupun Kultivasi dan tidak otomatis menambah ring, meningkatkan Sync progress, atau menyebabkan breakthrough.
+Meditasi biasa tidak otomatis menjadi Kultivasi dan tidak mengubah Sync progress. Hanya aktivitas yang secara jelas dijalankan sebagai **Kultivasi** menurut aturan ini yang dapat meningkatkan Sync progress; Kultivasi tetap bukan Penyerapan Spirit Ring atau breakthrough.
 
 Mencapai cap berarti mencapai bottleneck, bukan breakthrough otomatis. Untuk percobaan menerobos, jarak antara Sync progress dan cap harus **kurang dari 10 poin persentase**. Jika jaraknya 10 poin atau lebih, syarat bottleneck belum terpenuhi.
 
@@ -99,7 +99,7 @@ Penaklukan Spirit Beast dan proses penyerapan Spirit Ring adalah bagian yang ber
 
 - Perburuan Spirit Beast dapat berlangsung di hutan atau lokasi berbahaya. Jangan mewajibkan karakter membawa Beast ke lokasi meditasi aman sebelum menyelesaikan perburuan.
 - Setelah Spirit Beast dikalahkan, Spirit Ring muncul mengambang di atas tubuh Beast.
-- Meditasi kultivasi dilakukan di tempat aman dan stasioner untuk meningkatkan kekuatan serta kompatibilitas.
+- Aktivitas Kultivasi untuk meningkatkan Sync progress dilakukan di tempat aman dan stasioner. Meditasi biasa tanpa tujuan/proses Kultivasi yang jelas tidak mengubah Sync progress.
 - Saat progres mencapai 100% dan karakter berada di bottleneck, Spirit Ring berikutnya menjadi bagian dari proses penyerapan dan breakthrough.
 - Sinkronisasi 100% nyaris mustahil melalui penyerapan paksa. Jika Spirit Beast secara sukarela menyerahkan ringnya, sinkronisasi 100% lebih mungkin dicapai, tetapi tidak dijamin.
 - Usia Spirit Ring tidak memiliki batas mutlak hanya berdasarkan angka; toleransi tubuh dan kompatibilitas tetap menentukan. Rentang warna ring tetap mengikuti tabel di atas, sementara warna untuk usia 500.000 tahun ke atas belum ditetapkan.
@@ -117,7 +117,7 @@ Penaklukan Spirit Beast dan proses penyerapan Spirit Ring adalah bagian yang ber
 
 1. Gunakan `world/WORLD.md` sebagai acuan lore dan modul ini untuk mekanik kultivasi yang sudah disepakati.
 2. Gunakan modul ini bersama `core/MARTIAL_SOUL.md` dan `core/SPIRIT_RING_RULES.md`; gunakan `bestiary/SPIRIT_BEAST_RULES.md` ketika file tersebut tersedia.
-3. Gunakan `gameplay/TIME_AND_ACTION_RULES.md` untuk durasi aksi dan meditasi setelah tersedia.
+3. Gunakan `gameplay/TIME_AND_ACTION_RULES.md` untuk durasi aksi dan Kultivasi; modul tersebut sudah tersedia.
 4. Jangan mengklaim membaca modul yang belum tersedia.
 5. Jangan menciptakan rumus, statistik, peluang, bonus, atau pengecualian baru sebagai canon.
 6. Jika suatu aksi memerlukan aturan rinci yang belum ditetapkan, jelaskan keterbatasannya dan selesaikan hanya bagian yang didukung sumber.

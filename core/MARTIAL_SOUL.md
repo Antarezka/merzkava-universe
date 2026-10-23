@@ -16,12 +16,12 @@ Spirit Ring yang diperoleh secara sah dapat memberikan kemampuan khusus sesuai a
 ## 2. Awakening
 
 - Awakening membuka atau mengungkap Martial Soul karakter.
-- Usia awakening yang tercatat dalam fondasi proyek adalah empat tahun atau lebih.
+- Usia awakening belum ditetapkan dalam sumber canon yang tersedia.
 - Awakening tidak otomatis memberikan Spirit Ring.
 - Awakening tidak otomatis membuktikan bahwa karakter memiliki bakat luar biasa, kualitas Martial Soul tertentu, kekuatan tersembunyi, atau garis keturunan khusus.
 - Hasil awakening harus dicatat berdasarkan peristiwa yang benar-benar terjadi di permainan.
 
-Jika umur awakening, upacara, pemeriksaan, atau prosedur rinci dibutuhkan tetapi tidak tercatat dalam sumber resmi, jangan menciptakan prosedur itu sebagai canon.
+Usia awakening, upacara, pemeriksaan, dan prosedur rinci belum ditetapkan. Jangan menciptakan rincian tersebut sebagai canon.
 
 ## 3. Karakteristik dan Klasifikasi
 

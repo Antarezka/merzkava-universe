@@ -98,7 +98,7 @@ B. Gameplay
 
 Kode| File| Link Raw| Isi
 G01| "gameplay/COMBAT_SYSTEM.md"| "Combat System" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/gameplay/COMBAT_SYSTEM.md)| Giliran, aksi, posisi, damage, pertahanan, konsekuensi
-G02| "gameplay/TIME_AND_ACTION_RULES.md"| "Time and Action Rules" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/gameplay/TIME_AND_ACTION_RULES.md)| Durasi aksi, meditasi, time skip, checkpoint
+G02| "gameplay/TIME_AND_ACTION_RULES.md"| "Time and Action Rules" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/gameplay/TIME_AND_ACTION_RULES.md)| **Tersedia.** Timestamp, kalender sesi, durasi aksi, time skip, kultivasi panjang, dan pemisahan meditasi/penyerapan ring
 
 C. Bestiary
 

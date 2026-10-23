@@ -97,7 +97,7 @@ C06| "core/10_ECONOMY_SYSTEM.md"| "Economy System" (https://raw.githubuserconten
 B. Gameplay
 
 Kode| File| Link Raw| Isi
-G01| "gameplay/COMBAT_SYSTEM.md"| "Combat System" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/gameplay/COMBAT_SYSTEM.md)| Giliran, aksi, posisi, damage, pertahanan, konsekuensi
+G01| "gameplay/COMBAT_SYSTEM.md"| "Combat System" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/gameplay/COMBAT_SYSTEM.md)| **Tersedia.** Turn-based, inisiatif d100, PowerScale/ECP, peluang hit, damage berbasis persentase HP maksimum, pertahanan, injury, dan integrasi Thinker/Artificial Artifact
 G02| "gameplay/TIME_AND_ACTION_RULES.md"| "Time and Action Rules" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/gameplay/TIME_AND_ACTION_RULES.md)| **Tersedia.** Timestamp, kalender sesi, durasi aksi, time skip, kultivasi panjang, dan pemisahan meditasi/penyerapan ring
 
 C. Bestiary

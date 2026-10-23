@@ -70,6 +70,24 @@ Tujuan Saat Ini: ...
 - Jika suatu hal benar-benar mustahil diperkirakan atau sengaja menjadi misteri utama, boleh gunakan `???` untuk hal tersebut saja. Tetap isi hal-hal praktis yang dapat diperkirakan. Jangan menebak informasi rahasia yang sengaja ditahan oleh canon.
 - Estimasi awal harus ditandai sebagai estimasi di catatan GM atau deskripsi terkait agar tidak disalahartikan sebagai informasi eksplisit dari pemain. Setelah permainan berjalan, angka dan detail tersebut menjadi state awal sampai diubah oleh kejadian yang sah.
 
+## Protokol Bootstrap dan State — WAJIB
+
+Pilih satu alur sebelum menulis gameplay:
+
+1. **Sesi baru dengan karakter terdaftar:** baca `INDEX.md`, `templates/GM_PROMPT.md`, entri `players.md`, template ini, `core/HP_SYSTEM.md`, serta modul waktu/lokasi dan mekanik yang diperlukan. Gunakan registry sebagai state awal saja. Tetapkan satu timestamp lengkap dan mulai adegan langsung; jangan tampilkan laporan teknis bootstrap.
+2. **Sesi berlanjut:** gunakan profil gameplay terakhir dan semua kejadian setelahnya. Jangan memuat ulang statistik awal dari registry, mengulang timestamp awal, atau menghapus konsekuensi.
+3. **Karakter baru:** gunakan sumber resmi yang relevan. Tanyakan hanya nama/lokasi awal yang benar-benar diperlukan dan belum dapat disimpulkan. Jangan menyatakan asumsi GM sebagai fakta yang diberikan pemain.
+
+Sebelum respons gameplay, pastikan urutan tetap **timestamp dua baris → heading Narasi → profil lengkap**. Format timestamp harus sama dengan contoh di atas, termasuk kolom `[Era sesi]`; setelah waktu awal ditetapkan, lanjutkan dari timestamp terakhir yang sah. Setiap field profil tetap ada meskipun nilainya belum diketahui.
+
+## Protokol Transaksi dan Saldo — WAJIB
+
+- Saldo awal harus berasal dari registry atau estimasi awal GM yang masuk akal dan ditandai sebagai estimasi; jangan menciptakan riwayat transaksi sebelum sesi.
+- Ubah saldo hanya setelah transaksi benar-benar disepakati dan terlaksana. Harga yang disebut, tawaran, atau negosiasi yang belum selesai tidak mengubah saldo.
+- Saat transaksi, appraisal, tawar-menawar, atau perubahan uang, baca `core/10_ECONOMY_SYSTEM.md`. Kurs resmi: 100 xc = 1 xs; 100 xs = 1 xg; 1.000 xg = 1 zj; 10 zj = 1 az.
+- Hitung saldo tanpa kehilangan sisa. Jika diperlukan, hitung melalui xc sebagai satuan hitung, lalu tampilkan saldo dalam format wajib `...xc | ...xs | ...xg | ...zj | ...az`. Jangan mengarang harga regional atau membulatkan saldo.
+- Catat perubahan saldo bersamaan dengan perubahan inventory/assets. Jika transaksi atau saldo tidak bisa dipastikan dari riwayat, tandai konflik dan jangan menebak.
+
 ## Format Field Profil
 
 1. **Nama dan Usia:** gunakan data yang sudah tercatat. Jika usia tidak eksplisit tetapi dapat disimpulkan dari petunjuk kuat, gunakan perkiraan paling masuk akal dan tandai sebagai estimasi GM.

@@ -117,7 +117,7 @@ Patokan kehilangan HP untuk paparan 100% adalah **15–19 poin HP**. Untuk ring 
 | 8 | 90% | 14–17 HP | Menengah Rendah |
 | 9 | 100% | 15–19 HP | Menengah Rendah |
 
-Angka ini adalah **kehilangan HP dalam poin**, bukan persentase dari HP maksimum. Karena itu, Ring 1 pada karakter dengan HP 100 memiliki kehilangan dasar 15–19 HP, sesuai patokan awal. Jangan mengubahnya menjadi persentase HP maksimum.
+Angka ini adalah **kehilangan HP dalam poin**, bukan persentase dari HP maksimum. Karena itu, Ring 9 pada karakter dengan HP 100 memiliki kehilangan dasar 15–19 HP, sesuai patokan awal. Jangan mengubahnya menjadi persentase HP maksimum.
 
 ### 5.3. Kategori risiko berdasarkan poin HP yang hilang
 

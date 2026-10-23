@@ -633,7 +633,7 @@ Barang langka tidak otomatis tersedia hanya karena seorang karakter memiliki uan
 
 7.3 Modul ekonomi terpisah
 
-Rincian mata uang, kurs, harga makanan, penginapan, obat, artefak, biaya layanan, pendapatan, pajak, sistem perbankan, serta mekanisme perdagangan akan ditetapkan dalam berkas terpisah bernama "ECONOMY.md".
+Rincian mata uang, kurs, harga makanan, penginapan, obat, artefak, biaya layanan, pendapatan, pajak, sistem perbankan, serta mekanisme perdagangan direncanakan untuk berkas terpisah "world/ECONOMY.md". File tersebut belum tersedia; sampai dibuat, angka harga yang belum disepakati bukan fakta kanon permanen.
 
 Sebelum rincian tersebut ditetapkan, GM tidak boleh memperlakukan angka harga yang belum disepakati sebagai fakta kanon permanen.
 
@@ -689,14 +689,14 @@ Aturan berikut digunakan untuk menjaga agar pengembangan dunia tetap konsisten.
 Dokumen ini menjadi dasar atlas dunia dan politik Xuanling Realm. Rincian yang terlalu luas akan dikembangkan dalam berkas khusus agar mudah dirawat.
 
 Berkas| Isi utama
-"MAP_AND_REGIONS.md"| Peta, geografi, jarak, rute perjalanan, iklim, dan lokasi penting
-"FACTIONS.md"| Sekte, klan, organisasi, pemimpin, hierarki, hubungan, dan konflik
-"ECONOMY.md"| Mata uang, harga, perdagangan, pajak, pendapatan, perbankan, dan layanan
-"CULTIVATION.md"| Sistem kultivasi, Martial Soul, Spirit Ring, terobosan, dan batas kemampuan
-"SPIRIT_BEASTS.md"| Jenis Spirit Beast, habitat, usia, kemampuan, mutasi, dan evolusi
-"ARTIFACTS.md"| Tingkatan artefak, pembuatan, bahan, perawatan, dan batas kemampuan
+"world/MAP_AND_REGIONS.md"| Peta, geografi, jarak, rute perjalanan, iklim, dan lokasi penting
+"world/FACTIONS.md"| Sekte, klan, organisasi, pemimpin, hierarki, hubungan, dan konflik
+"world/ECONOMY.md"| Mata uang, harga, perdagangan, pajak, pendapatan, perbankan, dan layanan
+"core/CULTIVATION_SYSTEM.md" dan "core/MARTIAL_SOUL.md", serta modul ring tersendiri bila dibuat| Sistem kultivasi, Martial Soul, Spirit Ring, breakthrough, dan batas kemampuan
+"bestiary/SPIRIT_BEAST_RULES.md"| Jenis Spirit Beast, habitat, usia, kemampuan, mutasi, dan evolusi
+"world/ARTIFACTS_AND_RELICS.md"| Tingkatan artefak, pembuatan, bahan, perawatan, dan batas kemampuan
 
-Rincian dalam berkas-berkas tersebut harus tetap konsisten dengan WORLD.md. Sampai sebuah aturan atau detail ditetapkan, GM harus menghindari membuat asumsi permanen yang dapat bertentangan dengan pengembangan dunia selanjutnya.
+WORLD.md adalah acuan utama lore. Daftar di atas merupakan peta rencana pengembangan, bukan klaim bahwa semua berkas tersebut sudah ada. Setiap modul baru harus tetap konsisten dengan WORLD.md; usulan kanon awal yang ditandai di dokumen ini tetap provisional sampai pemilik menetapkannya sebagai final. Jangan membuat asumsi permanen untuk mengisi detail yang belum ditetapkan.
 
 ---
 

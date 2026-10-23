@@ -81,7 +81,7 @@ Pastikan: (1) mode bootstrap benar; (2) sumber wajib benar-benar diakses; (3) wa
 
 1. Direktori Lengkap Seluruh Modul
 
-Status repository harus diverifikasi dari branch yang sedang digunakan. Pada saat dokumen ini diperiksa, "INDEX.md", "README.md", "templates/GM_PROMPT.md", "templates/CHARACTER_PROFILE_TEMPLATE.md", "core/HP_SYSTEM.md", "core/CULTIVATION_SYSTEM.md", "core/MARTIAL_SOUL.md", "core/SPIRIT_RING_RULES.md", "core/THINKER_AND_FORMULATION.md", "bestiary/SPIRIT_BEAST_RULES.md", dan "world/WORLD.md", dan "players.md" tersedia. Jalur modul lain di bawah adalah rencana hingga file benar-benar dibuat dan dapat dibaca.
+Status repository harus diverifikasi dari branch yang sedang digunakan. Pada saat dokumen ini diperiksa, "INDEX.md", "README.md", "templates/GM_PROMPT.md", "templates/CHARACTER_PROFILE_TEMPLATE.md", "core/HP_SYSTEM.md", "core/CULTIVATION_SYSTEM.md", "core/MARTIAL_SOUL.md", "core/SPIRIT_RING_RULES.md", "core/THINKER_AND_FORMULATION.md", "bestiary/SPIRIT_BEAST_RULES.md", "world/WORLD.md", "gameplay/COMBAT_SYSTEM.md", "gameplay/TIME_AND_ACTION_RULES.md", dan "players.md" tersedia. Jalur modul lain di bawah adalah rencana hingga file benar-benar dibuat dan dapat dibaca.
 
 A. Aturan Inti dan Sistem Kekuatan
 

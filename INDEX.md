@@ -43,7 +43,7 @@ Repository: https://github.com/Antarezka/xuanling-realm
 
 1. Direktori Lengkap Seluruh Modul
 
-Status repository harus diverifikasi dari branch yang sedang digunakan. Pada saat dokumen ini diperiksa, "INDEX.md", "README.md", "templates/GM_PROMPT.md", "core/CULTIVATION_SYSTEM.md", "core/MARTIAL_SOUL.md", "core/SPIRIT_RING_RULES.md", dan "world/WORLD.md" tersedia. Jalur modul lain di bawah adalah rencana hingga file benar-benar dibuat dan dapat dibaca.
+Status repository harus diverifikasi dari branch yang sedang digunakan. Pada saat dokumen ini diperiksa, "INDEX.md", "README.md", "templates/GM_PROMPT.md", "core/CULTIVATION_SYSTEM.md", "core/MARTIAL_SOUL.md", "core/SPIRIT_RING_RULES.md", "core/THINKER_AND_FORMULATION.md", dan "world/WORLD.md" tersedia. Jalur modul lain di bawah adalah rencana hingga file benar-benar dibuat dan dapat dibaca.
 
 A. Aturan Inti dan Sistem Kekuatan
 
@@ -133,6 +133,7 @@ Kelaparan, kebutuhan makan, atau pemulihan| "core/HUNGER_AND_METABOLISM.md"| Per
 Perjalanan atau penentuan lokasi| "world/WORLD.md" dan "world/MAP_AND_REGIONS.md"| Jangan mengarang jarak atau rute
 Bertemu kekaisaran, sekte, atau organisasi| "world/FACTIONS.md"| Gunakan detail yang benar-benar tersedia
 Memeriksa sejarah dunia| "world/HISTORY.md"| Jangan mengubah sejarah yang sudah ditetapkan
+Membuat Artificial Artifact, menyusun formulasi, atau memakai kemampuan Thinker| "core/THINKER_AND_FORMULATION.md"| Periksa tier Thinker, matriks peluang, material, fokus, bakat, dan batas resolusi
 Menggunakan artefak atau relik| "world/ARTIFACTS_AND_RELICS.md"| Periksa asal-usul dan fungsi yang tercatat
 Memeriksa event dunia| "world/CUSTOM_EVENTS.md"| Hanya jika file tersedia
 Membutuhkan format profil| "templates/CHARACTER_PROFILE_TEMPLATE.md"| Pertahankan field yang telah disepakati

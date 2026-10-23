@@ -62,7 +62,7 @@ Warna untuk ring berusia 500.000 tahun atau lebih masih **Undefined**. Jangan me
 
 Jangan menambahkan field profil terpisah bernama Spirit Rings atau Law.
 
-Jumlah slot mengikuti Realm. Informasi ring yang telah diperoleh—sumber, usia, warna, kemampuan, dan hasil proses yang diketahui—dicatat dalam bagian Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada. Jangan menambahkan field profil terpisah bernama Spirit Rings atau Law. Jangan memberikan kemampuan ring sebelum ring benar-benar berhasil diserap.
+Jumlah slot mengikuti Realm. Informasi ring yang telah diperoleh—sumber, usia, warna, kemampuan, dan hasil proses yang diketahui—dicatat dalam bagian Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada. Jangan memberikan kemampuan ring sebelum ring benar-benar berhasil diserap.
 
 ## 7. Konsistensi Sumber
 

@@ -80,7 +80,7 @@ W06| "world/CUSTOM_EVENTS.md"| "Custom Events" (https://raw.githubusercontent.co
 E. Karakter dan Template
 
 Kode| File| Link Raw| Isi
-P01| "players.md"| "Players" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/players.md)| Katalog karakter awal jika dibuat
+P01| "players.md"| "Players" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/players.md)| Katalog karakter awal yang wajib dibaca saat sesi baru untuk karakter terdaftar; bukan save otomatis
 T01| "templates/CHARACTER_PROFILE_TEMPLATE.md"| "Character Profile Template" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/templates/CHARACTER_PROFILE_TEMPLATE.md)| Format wajib profil karakter
 T02| "templates/GM_PROMPT.md"| "GM Prompt" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/templates/GM_PROMPT.md)| Template instruksi AI GM untuk gameplay
 
@@ -149,11 +149,11 @@ Efisiensi konteks: jika modul sudah dibaca dalam percakapan yang sama dan inform
 
 3. Cara Kerja Data Karakter dan Profil Gameplay
 
-Jika "players.md" kelak dibuat, fungsinya adalah katalog data awal karakter, bukan save file yang otomatis diperbarui.
+File "players.md" adalah katalog data awal karakter, bukan save file yang otomatis diperbarui.
 
 1. Pemain menyebut nama karakter ketika memulai sesi baru.
 2. AI GM memeriksa apakah karakter terdaftar dan apakah data awalnya tersedia.
-3. Jika tersedia, data awal digunakan sebagai titik mulai sesi.
+3. Jika karakter ditemukan di "players.md", data awal digunakan sebagai titik mulai sesi.
 4. Jika tidak tersedia, AI GM meminta informasi yang diperlukan untuk karakter baru.
 5. Selama gameplay, perkembangan dicatat melalui blok Profil Karakter dalam percakapan.
 6. AI GM tidak boleh mengedit "players.md" atau file data awal karakter selama gameplay.

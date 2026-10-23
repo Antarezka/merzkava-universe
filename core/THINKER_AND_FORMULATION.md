@@ -4,12 +4,12 @@
 
 ## 1. THINKER: INDEPENDENT PROGRESSION
 
-- Thinker has 10 tiers: Thinker Tier 1 through Thinker Tier 10.
+- Thinker has 10 tiers: Thinker Grade 1 through Thinker Grade 10.
 - Thinker is not a cultivation Realm. Progression concerns knowledge, materials, formulations, patterns, and artifact-making processes.
 - Thinkers use metals, stone, special materials, patterns, and complex formulations to produce Artificial Artifacts.
-- Cultivation Realm and Thinker tier progress independently. High cultivation does not automatically make someone a great Thinker, and high Thinker tier does not automatically make someone a powerful cultivator.
+- Cultivation Realm and Thinker Grade progress independently. High cultivation does not automatically make someone a great Thinker, and high Thinker Grade does not automatically make someone a powerful cultivator.
 - The first Thinkers originated in Tianhai Yunzhou. The world's strongest Thinkers emerge from this knowledge tradition; Tianhai's advantage includes exceptional knowledge, not only combat strength.
-- Thinker tier determines the normal baseline capability and formulation ceiling. It does not guarantee success in every attempt.
+- Thinker Grade determines the normal baseline capability and formulation ceiling. It does not guarantee success in every attempt.
 
 ## 2. THREE DISTINCT ARTIFACT ORIGINS
 
@@ -55,32 +55,32 @@ Producing an Artificial Artifact requires:
 - Mental ability to understand, construct, and maintain complex formulation patterns.
 - Sufficient stamina/energy to continue working.
 - Suitable materials and applicable patterns.
-- A Thinker tier capable of handling the target artifact under the normal tier limits.
+- A Thinker Grade capable of handling the target artifact under the normal tier limits.
 
-Thinker tier limits the artifact tier that can normally be produced. Meeting the tier requirement does not automatically guarantee success.
+Thinker Grade limits the artifact tier that can normally be produced. Meeting the tier requirement does not automatically guarantee success.
 
 A successful formulation does not mean the process is free of cost, energy consumption, time, or consequences. Apply only costs and consequences defined by official mechanics. Do not improvise numerical stamina costs, durations, or thresholds.
 
 ## 5. BASE SUCCESS-CHANCE MATRIX — THINKER TIERS 1–10
 
-The baseline chance is determined by the difference between Thinker tier and target Artificial Artifact tier. All values below are percentages, before any situational adjustment that is explicitly authorized by official rules.
+The baseline chance is determined by the difference between Thinker Grade and target Artificial Artifact tier. All values below are percentages, before any situational adjustment that is explicitly authorized by official rules.
 
 | Thinker / Artifact | T1 | T2 | T3 | T4 | T5 | T6 | T7 | T8 | T9 | T10 |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| **Thinker T1** | 80% | 30% | 10% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |
-| **Thinker T2** | 100% | 80% | 30% | 10% | 0% | 0% | 0% | 0% | 0% | 0% |
-| **Thinker T3** | 100% | 100% | 80% | 30% | 10% | 0% | 0% | 0% | 0% | 0% |
-| **Thinker T4** | 100% | 100% | 100% | 80% | 30% | 10% | 0% | 0% | 0% | 0% |
-| **Thinker T5** | 100% | 100% | 100% | 100% | 80% | 30% | 10% | 0% | 0% | 0% |
-| **Thinker T6** | 100% | 100% | 100% | 100% | 100% | 80% | 30% | 10% | 0% | 0% |
-| **Thinker T7** | 100% | 100% | 100% | 100% | 100% | 100% | 80% | 30% | 10% | 0% |
-| **Thinker T8** | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 80% | 30% | 10% |
-| **Thinker T9** | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 80% | 30% |
-| **Thinker T10** | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 80% |
+| **Thinker G1** | 80% | 30% | 10% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |
+| **Thinker G2** | 100% | 80% | 30% | 10% | 0% | 0% | 0% | 0% | 0% | 0% |
+| **Thinker G3** | 100% | 100% | 80% | 30% | 10% | 0% | 0% | 0% | 0% | 0% |
+| **Thinker G4** | 100% | 100% | 100% | 80% | 30% | 10% | 0% | 0% | 0% | 0% |
+| **Thinker G5** | 100% | 100% | 100% | 100% | 80% | 30% | 10% | 0% | 0% | 0% |
+| **Thinker G6** | 100% | 100% | 100% | 100% | 100% | 80% | 30% | 10% | 0% | 0% |
+| **Thinker G7** | 100% | 100% | 100% | 100% | 100% | 100% | 80% | 30% | 10% | 0% |
+| **Thinker G8** | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 80% | 30% | 10% |
+| **Thinker G9** | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 80% | 30% |
+| **Thinker G10** | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 80% |
 
 Equivalent tier-difference rule:
 
-| Target relative to Thinker tier | Baseline chance |
+| Target relative to Thinker Grade | Baseline chance |
 |---|---:|
 | Artifact tier 2 or more below Thinker | 100% |
 | Artifact tier 1 below Thinker | 100% |
@@ -89,9 +89,9 @@ Equivalent tier-difference rule:
 | Artifact tier 2 above Thinker | 10% |
 | Artifact tier 3 or more above Thinker | 0% |
 
-Reference example — Thinker T3: Artifact T1 = 100%; T2 = 100%; T3 = 80%; T4 = 30%; T5 = 10%; T6–T10 = 0%.
+Reference example — Thinker G3: Artifact T1 = 100%; T2 = 100%; T3 = 80%; T4 = 30%; T5 = 10%; T6–T10 = 0%.
 
-A 0% baseline means the target cannot be produced by normal formulation at that Thinker tier. A special talent does not bypass this ceiling unless an official exception mechanic explicitly permits it. Baseline 100% is not a guarantee against valid situational disruption; equally, the GM must not arbitrarily change the chance.
+A 0% baseline means the target cannot be produced by normal formulation at that Thinker Grade. A special talent does not bypass this ceiling unless an official exception mechanic explicitly permits it. Baseline 100% is not a guarantee against valid situational disruption; equally, the GM must not arbitrarily change the chance.
 
 ## 6. FACTORS THAT MAY AFFECT THE ATTEMPT
 
@@ -122,7 +122,7 @@ Numerical energy costs, work duration, and thresholds are not yet defined. The G
 Rare materials do not automatically produce a stronger artifact. The outcome still depends on formulation and Thinker capability.
 
 ### Special talent
-Relevant talents may concern pattern comprehension, concentration, processing a particular material, or a particular Artificial Artifact category. A talent applies only when relevant to the task and its effect is explicitly recorded in the character profile, talent system, or official rule. Do not invent numerical bonuses, stamina efficiency, or exceptions. A talent does not automatically bypass Thinker tier limits.
+Relevant talents may concern pattern comprehension, concentration, processing a particular material, or a particular Artificial Artifact category. A talent applies only when relevant to the task and its effect is explicitly recorded in the character profile, talent system, or official rule. Do not invent numerical bonuses, stamina efficiency, or exceptions. A talent does not automatically bypass Thinker Grade limits.
 
 ## 7. FORMULATION RESOLUTION PROCEDURE
 
@@ -143,7 +143,7 @@ Possible outcomes include success and failure. Material damage, energy consumpti
 ## 8. FUTURE FORMULATION DEVELOPMENT
 
 Artificial Artifact technology may advance through:
-- Higher Thinker tiers and improved capability.
+- Higher Thinker Grades and improved capability.
 - Knowledge exchange between civilizations.
 - Discovery of new materials and resources.
 - Development and refinement of formulations.
@@ -170,6 +170,6 @@ The GM must:
 
 ## 10. CANON PRINCIPLE
 
-Thinker is an independent knowledge-and-formulation progression path. Thinker tier determines baseline chance and the normal formulation ceiling. Actual conditions, materials, and talents affect the attempt only through official mechanics.
+Thinker is an independent knowledge-and-formulation progression path. Thinker Grade determines baseline chance and the normal formulation ceiling. Actual conditions, materials, and talents affect the attempt only through official mechanics.
 
 Narration alone does not guarantee success. The GM may not invent bonuses or exceptions, and may not override a valid resolution simply to force a preferred outcome.

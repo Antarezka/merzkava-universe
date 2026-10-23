@@ -21,9 +21,9 @@ Setiap Realm memiliki empat Stage: Early (Awal), Middle (Menengah), Late (Akhir)
 | 6 | Realm 6 — nama belum ditetapkan | 6 |
 | 7 | Realm 7 — nama belum ditetapkan | 7 |
 | 8 | Realm 8 — nama belum ditetapkan | 8 |
-| 9 | Realm 9 — nama belum ditetapkan | 9 |
+| 9 | Realm 9 — Spirit Primordial | 9 |
 
-Satu Realm memberikan satu slot Spirit Ring, sehingga batas normal sistem ini adalah sembilan slot pada Realm kesembilan. Nama resmi tiap Realm belum ditetapkan di INDEX; jangan mengarang nama canon. Jangan menambahkan Realm kesepuluh atau slot tambahan tanpa revisi canon oleh pemilik.
+Satu Realm memberikan satu slot Spirit Ring, sehingga batas normal sistem ini adalah sembilan slot pada Realm kesembilan. Nama Realm 9, Spirit Primordial, sudah tercantum di WORLD.md dan harus dipertahankan. Nama Realm 1–8 belum ditetapkan dalam WORLD.md; jangan mengarang nama canon. Jangan menambahkan Realm kesepuluh atau slot tambahan tanpa revisi canon oleh pemilik.
 
 Nama dan jumlah slot menunjukkan struktur kultivasi, bukan jaminan bahwa dua orang dalam Realm yang sama memiliki kekuatan tempur identik.
 
@@ -31,7 +31,7 @@ Nama dan jumlah slot menunjukkan struktur kultivasi, bukan jaminan bahwa dua ora
 
 Martial Soul adalah bentuk kekuatan utama seseorang. Bentuknya dapat berupa, misalnya, senjata, tumbuhan, atau hewan; kategori dan kemampuan spesifik harus mengikuti modul Martial Soul ketika tersedia.
 
-Awakening Martial Soul pada usia empat tahun atau lebih hanya berarti Martial Soul terbangun. Awakening tidak otomatis memberikan Spirit Ring pertama.
+Rincian usia, upacara, dan prosedur awakening belum ditetapkan dalam WORLD.md. Jangan menetapkan usia atau prosedur awakening sebagai canon tanpa sumber resmi. Awakening tidak otomatis memberikan Spirit Ring pertama.
 
 Spirit Ring pertama harus diperoleh melalui proses tersendiri yang sah. Jangan memberikan Spirit Ring, kemampuan ring, atau slot yang telah terisi hanya karena karakter sudah mengalami awakening.
 
@@ -101,11 +101,20 @@ Tidak ada batas usia Spirit Ring yang mutlak hanya berdasarkan angka usia. Keses
 
 Angka peluang, rumus kompatibilitas, durasi penyerapan, dan dampak terperinci dari setiap tingkat sinkronisasi belum ditetapkan di modul ini. Jangan mengada-adakannya.
 
-## 7. Batas Informasi dan Konsistensi
+## 7. Konsistensi dengan WORLD.md
 
-1. Gunakan modul ini bersama `core/MARTIAL_SOUL.md`, `core/SPIRIT_RING_RULES.md`, dan `bestiary/SPIRIT_BEAST_RULES.md` setelah file-file tersebut tersedia.
-2. Gunakan `gameplay/TIME_AND_ACTION_RULES.md` untuk durasi aksi dan meditasi setelah tersedia.
-3. Jangan mengklaim membaca modul yang belum tersedia.
-4. Jangan menciptakan rumus, statistik, peluang, bonus, atau pengecualian baru sebagai canon.
-5. Jika suatu aksi memerlukan aturan rinci yang belum ditetapkan, jelaskan keterbatasannya dan selesaikan hanya bagian yang didukung sumber.
-6. Profil karakter harus mencerminkan Realm, Stage, progres, dan Spirit Ring yang benar-benar diperoleh dalam riwayat permainan. Jangan mengisi slot atau menaikkan Realm tanpa proses yang sah.
+- WORLD.md adalah acuan utama untuk lore dan fakta dunia yang sudah ditetapkan.
+- Tiga penguasa utama yang tercatat di WORLD.md berada di Realm 9 — Spirit Primordial; Stage masing-masing harus mengikuti WORLD.md: Emperor berada di Middle, sedangkan Maharaja dan Leluhur Utara berada di Early.
+- Konfigurasi Spirit Ring para penguasa di WORLD.md berstatus rancangan kanon awal. Pertahankan usia ring dan status warna yang tertulis; jangan mengubah `Undefined` menjadi warna baru.
+- Warna Spirit Ring untuk usia 500.000 tahun ke atas belum ditetapkan, walaupun WORLD.md mencantumkan ring dengan usia tersebut.
+- Jika tabel umum sistem dan konfigurasi karakter spesifik tampak berbeda, pertahankan fakta spesifik yang tercatat di WORLD.md dan tandai konflik untuk ditinjau; jangan diam-diam mengubah lore.
+
+## 8. Batas Informasi dan Konsistensi
+
+1. Gunakan `world/WORLD.md` sebagai acuan lore dan modul ini untuk mekanik kultivasi yang sudah disepakati.
+2. Gunakan modul ini bersama `core/MARTIAL_SOUL.md`, `core/SPIRIT_RING_RULES.md`, dan `bestiary/SPIRIT_BEAST_RULES.md` setelah file-file tersebut tersedia.
+3. Gunakan `gameplay/TIME_AND_ACTION_RULES.md` untuk durasi aksi dan meditasi setelah tersedia.
+4. Jangan mengklaim membaca modul yang belum tersedia.
+5. Jangan menciptakan rumus, statistik, peluang, bonus, atau pengecualian baru sebagai canon.
+6. Jika suatu aksi memerlukan aturan rinci yang belum ditetapkan, jelaskan keterbatasannya dan selesaikan hanya bagian yang didukung sumber.
+7. Profil karakter harus mencerminkan Realm, Stage, progres, dan Spirit Ring yang benar-benar diperoleh dalam riwayat permainan. Jangan mengisi slot atau menaikkan Realm tanpa proses yang sah.

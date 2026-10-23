@@ -15,15 +15,15 @@ Setiap Realm memiliki empat Stage: Early (Awal), Middle (Menengah), Late (Akhir)
 |---:|---|---:|
 | 1 | Spirit Initiate | 1 |
 | 2 | Spirit Adept | 2 |
-| 3 | Spirit Expert | 3 |
-| 4 | Spirit Elder | 4 |
-| 5 | Spirit Ancestor | 5 |
-| 6 | Spirit King | 6 |
+| 3 | Spirit Elder | 3 |
+| 4 | Spirit Monarch | 4 |
+| 5 | Spirit King | 5 |
+| 6 | Spirit Ancestor | 6 |
 | 7 | Spirit Emperor | 7 |
-| 8 | Spirit Saint | 8 |
-| 9 | Spirit Monarch | 9 |
+| 8 | Spirit Sovereign | 8 |
+| 9 | Spirit Primordial | 9 |
 
-Satu Realm memberikan satu slot Spirit Ring, sehingga batas normal sistem ini adalah sembilan slot pada Realm kesembilan. Nama Realm 1–9 telah ditetapkan dan harus dipertahankan secara konsisten di seluruh repository. Jangan menambahkan Realm kesepuluh atau slot tambahan tanpa revisi canon oleh pemilik.
+Satu Realm memberikan satu slot Spirit Ring, sehingga batas normal sistem ini adalah sembilan slot pada Realm kesembilan. Urutan Realm 1–9 yang kanonis adalah Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, dan Spirit Primordial. Nama ini harus dipertahankan secara konsisten di seluruh repository. Jangan menambahkan Realm kesepuluh atau slot tambahan tanpa revisi canon oleh pemilik.
 
 Nama dan jumlah slot menunjukkan struktur kultivasi, bukan jaminan bahwa dua orang dalam Realm yang sama memiliki kekuatan tempur identik.
 
@@ -44,9 +44,9 @@ Gunakan urutan Stage berikut di dalam setiap Realm:
 3. Late (Akhir)
 4. Peak (Puncak)
 
-Progres kultivasi dapat dicatat sebagai persentase hanya jika angka itu didukung oleh mekanik atau riwayat permainan. Jangan mengarang laju kenaikan persentase, bonus latihan, atau statistik tersembunyi.
+Progres persentase kekuatan kultivasi dan kompatibilitas dicatat serta dijelaskan di dalam log meditasi yang sama, bukan sebagai sistem terpisah tanpa konteks. Meditasi harus dilakukan di tempat aman dan stasioner. Jangan mengarang laju kenaikan persentase atau bonus latihan.
 
-Progres 100% berarti karakter telah mencapai bottleneck untuk kemajuan berikutnya. **Progres 100% bukan breakthrough otomatis.**
+Progres kultivasi 100% berarti karakter telah mencapai bottleneck untuk kemajuan berikutnya. **Progres 100% bukan breakthrough otomatis.**
 
 Jangan menyamakan tercapainya Peak, tercapainya 100%, keberhasilan breakthrough, dan perolehan Spirit Ring sebagai satu kejadian yang sama.
 

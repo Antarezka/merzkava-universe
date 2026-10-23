@@ -181,6 +181,14 @@ Membutuhkan format profil| "templates/CHARACTER_PROFILE_TEMPLATE.md"| Pertahanka
 Membeli, menjual, menilai harga, menawar, atau mengubah saldo uang| "core/10_ECONOMY_SYSTEM.md" dan "templates/CHARACTER_PROFILE_TEMPLATE.md"| Terapkan tier kualitas, harga regional, distribusi, kelangkaan, dan catat saldo mata uang
 Pemain meminta bantuan menggunakan repository| "README.md"| Jelaskan penggunaan GitHub, bukan narasi gameplay
 
+### Protokol Transaksi dan Rekonsiliasi Saldo — WAJIB
+
+- Pada sesi baru, ambil saldo awal dari entri karakter di `players.md`; jika tidak ditetapkan, buat estimasi GM yang masuk akal dan perlakukan sebagai estimasi awal, bukan riwayat transaksi.
+- Setiap transaksi harus benar-benar terjadi sebelum saldo atau inventory berubah. Harga yang ditawarkan atau negosiasi yang belum disepakati tidak mengubah state.
+- Fetch dan ikuti `core/10_ECONOMY_SYSTEM.md` untuk harga, transaksi, appraisal, tawar-menawar, dan perubahan saldo. Kurs resmi: 100 xc = 1 xs; 100 xs = 1 xg; 1.000 xg = 1 zj; 10 zj = 1 az.
+- Hitung saldo sebelum/sesudah transaksi dengan kurs resmi tanpa kehilangan sisa; bila perlu gunakan xc sebagai satuan hitung, lalu tampilkan pecahan dalam urutan `xc | xs | xg | zj | az`. Jangan mengarang harga atau melakukan pembulatan yang mengubah nilai.
+- Perubahan uang harus cocok dengan barang/aset yang masuk atau keluar. Jika riwayat tidak cukup untuk merekonstruksi saldo, tandai konflik dan jangan diam-diam mengganti saldo.
+
 Efisiensi konteks: jika modul sudah dibaca dalam percakapan yang sama dan informasi relevannya masih tersedia, tidak perlu fetch ulang tanpa alasan. Fetch ulang jika informasi terbaru dari repository dibutuhkan dan akses memungkinkan.
 
 ---

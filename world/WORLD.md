@@ -11,7 +11,7 @@ I. WORLD OVERVIEW
 
 Xuanling Realm adalah dunia kultivasi luas yang kekuatannya ditentukan oleh Martial Soul, Spirit Ring, teknik, pengalaman, sumber daya, dan pengaruh politik.
 
-Sistem kultivasi memiliki sembilan Realm dengan urutan resmi: Spirit Initiate, Spirit Adept, Spirit Expert, Spirit Elder, Spirit Ancestor, Spirit King, Spirit Emperor, Spirit Saint, dan Spirit Monarch. Setiap Realm memiliki empat Stage: Early, Middle, Late, dan Peak. Setiap Realm membuka satu slot Spirit Ring tambahan.
+Sistem kultivasi memiliki sembilan Realm dengan urutan resmi: Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, dan Spirit Primordial. Setiap Realm memiliki empat Stage: Early, Middle, Late, dan Peak. Setiap Realm membuka satu slot Spirit Ring tambahan.
 
 Dunia ini memiliki tiga kekuasaan utama:
 

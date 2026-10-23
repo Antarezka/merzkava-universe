@@ -55,7 +55,7 @@ Meditasi biasa tidak otomatis menjadi Kultivasi dan tidak mengubah Sync progress
 
 Mencapai cap berarti mencapai bottleneck, bukan breakthrough otomatis. Untuk percobaan menerobos, jarak antara Sync progress dan cap harus **kurang dari 10 poin persentase**. Jika jaraknya 10 poin atau lebih, syarat bottleneck belum terpenuhi.
 
-Makin besar jarak Sync progress dari cap dalam rentang yang diizinkan, makin tinggi deviasi yang harus dipertimbangkan. Persentase paparan deviasi mengikuti nomor ring: Ring 1 = 100%, lalu menurun untuk setiap nomor ring berikutnya; nilai persis Ring 2–9 belum ditetapkan. Tingkat risiko ditentukan berdasarkan jumlah poin status yang benar-benar hilang, bukan persentase paparan; kehilangan 15–19 poin termasuk Menengah Rendah. Rentang kategori risiko lainnya belum ditetapkan. Deviasi wajib dicatat sebagai pengurangan cap kompatibilitas maksimum ring berikutnya, damage HP, dan cedera/kondisi tubuh. Terapkan rincian di `core/SPIRIT_RING_RULES.md`; jangan mengarang angka numerik yang belum disahkan.
+Makin besar jarak Sync progress dari cap dalam rentang yang diizinkan, makin tinggi dampak deviasi yang harus dipertimbangkan. Hitung paparan, kehilangan HP, pengali pelanggaran, dan kategori risiko hanya menggunakan `core/SPIRIT_RING_RULES.md` §5. Jika Gap ≥10, breakthrough tidak memenuhi syarat; bila karakter tetap memaksakan proses dan GM menyelesaikan konsekuensinya, gunakan aturan khusus pemaksaan di modul Spirit Ring. Jangan mengarang angka pengurangan cap atau pemulihan.
 ## 4. Bottleneck dan Breakthrough
 
 Menerobos hanya dapat dilakukan jika semua syarat berikut terpenuhi:

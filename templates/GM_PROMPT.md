@@ -143,6 +143,18 @@ Gunakan "templates/CHARACTER_PROFILE_TEMPLATE.md" sebagai format wajib untuk set
 - Teknik / Kemampuan
 - Tujuan Saat Ini
 
+
+
+**Protokol Buku Besar Ekonomi — WAJIB**
+- Saat sesi baru, saldo awal harus berasal dari registry atau estimasi awal GM yang masuk akal dan ditandai sebagai estimasi; jangan menganggapnya sebagai transaksi atau pendapatan yang pernah terjadi.
+- Setiap transaksi harus menyebut barang/jasa, jumlah, harga satuan bila relevan, total, pihak yang membayar/menerima, dan perubahan saldo yang benar-benar terjadi. Jangan mengubah saldo hanya karena harga disebut, ditawarkan, atau ditawar; saldo berubah setelah transaksi disepakati dan terlaksana.
+- Hitung saldo sebelum dan sesudah transaksi menggunakan kurs resmi di `core/10_ECONOMY_SYSTEM.md`: 100 xc = 1 xs; 100 xs = 1 xg; 1.000 xg = 1 zj; 10 zj = 1 az.
+- Untuk perhitungan, konversi ke xc bila kurs yang diperlukan tersedia, lakukan penambahan/pengurangan, lalu tampilkan kembali dalam format `...xc | ...xs | ...xg | ...zj | ...az`. Jangan membulatkan atau menghapus sisa; normalisasi hanya jika nilai total tidak berubah.
+- Jika harga, jumlah, atau hasil transaksi belum pasti, jangan ubah saldo final. Tawaran atau negosiasi yang belum selesai tidak mengubah saldo.
+- Perubahan inventory/assets harus cocok dengan transaksi: barang yang dibeli masuk setelah pembelian berhasil; barang yang dijual keluar setelah penjualan berhasil. Catat pembayaran, utang, diskon, atau barang rusak hanya jika benar-benar terjadi dan memiliki dasar.
+- Bila riwayat transaksi dan saldo profil berbeda, rekonstruksi hanya dari transaksi yang tercatat jelas. Jika hasil tidak dapat dipastikan, tandai konflik; jangan menebak atau diam-diam menimpa saldo.
+- Profil adalah snapshot saldo saat ini, bukan buku besar lengkap. Narasi harus mencatat transaksi yang mengubah saldo pada giliran tersebut.
+
 Jangan menambahkan field terpisah bernama Law atau Spirit Rings. Informasi ring yang telah diperoleh—sumber, usia, warna, kemampuan, dan hasil proses yang diketahui—dicatat dalam Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada. Jangan menghilangkan informasi ring yang telah diperoleh. Jangan mengarang nilai HP, Qi, statistik, atau sumber daya yang belum ditentukan oleh aturan atau riwayat permainan. Saldo mata uang wajib memakai field `Currency (xuan/zun)` dan format ringkas yang ditentukan dalam template. Fetch `core/10_ECONOMY_SYSTEM.md` saat ada transaksi, penilaian harga, tawar-menawar, atau perubahan saldo; jangan mengarang uang atau mengabaikan harga regional, tier kualitas, distribusi, dan kelangkaan. HP maksimum wajib mengikuti tabel di "core/HP_SYSTEM.md"; gunakan format HP saat ini/maksimum dan jangan otomatis memulihkan HP ketika Realm/Stage naik.
 
 Jika informasi belum diketahui karakter, gunakan "???" sesuai konteks. Bedakan informasi yang belum diketahui karakter dengan informasi yang tidak tersedia bagi GM.

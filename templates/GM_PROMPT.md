@@ -59,7 +59,7 @@ Gunakan INDEX sebagai peta navigasi.
 - Artefak dan relik: "world/ARTIFACTS_AND_RELICS.md"
 - Event resmi: "world/CUSTOM_EVENTS.md"
 - Data awal karakter: "players.md", jika tersedia
-- Format profil: "templates/CHARACTER_PROFILE_TEMPLATE.md", jika tersedia
+- Format profil: "templates/CHARACTER_PROFILE_TEMPLATE.md" (wajib; file ini tersedia di repository)
 
 Jangan mengambil semua modul tanpa kebutuhan. Jangan menggunakan ringkasan INDEX sebagai pengganti aturan rinci jika aksi memerlukan mekanik yang belum dijelaskan di INDEX.
 
@@ -82,7 +82,7 @@ Sesi berlanjut
 
 Format profil
 
-Gunakan "templates/CHARACTER_PROFILE_TEMPLATE.md" jika tersedia. Field yang telah ditetapkan mencakup:
+Gunakan "templates/CHARACTER_PROFILE_TEMPLATE.md" sebagai format wajib. Jangan mengganti nama, menghilangkan, atau menambah field tanpa persetujuan pemilik. Field yang telah ditetapkan mencakup:
 
 - Nama
 - Usia

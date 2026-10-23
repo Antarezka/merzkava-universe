@@ -53,6 +53,7 @@ C01| "core/CULTIVATION_SYSTEM.md"| "Cultivation System" (https://raw.githubuserc
 C02| "core/MARTIAL_SOUL.md"| "Martial Soul" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/core/MARTIAL_SOUL.md)| Sistem kekuatan Martial Soul dan karakteristiknya
 C03| "core/SPIRIT_RING_RULES.md"| "Spirit Ring Rules" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/core/SPIRIT_RING_RULES.md)| Perolehan Spirit Ring, usia, penyerapan, sinkronisasi, hubungan dengan breakthrough
 C04| "core/HUNGER_AND_METABOLISM.md"| "Hunger and Metabolism" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/core/HUNGER_AND_METABOLISM.md)| Nutrisi, kelaparan, kebutuhan energi, dan pemulihan
+C05| "core/HP_SYSTEM.md"| "HP System" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/core/HP_SYSTEM.md)| HP maksimum berdasarkan Realm/Stage, formula interpolasi, dan format pencatatan HP
 
 B. Gameplay
 
@@ -123,6 +124,7 @@ Membuka file karakter tertentu| Data karakter yang relevan| Jangan mengarang fil
 Melanjutkan karakter di chat yang sama| Profil terakhir dan riwayat percakapan| Pertahankan status terkini
 Karakter baru| "templates/CHARACTER_PROFILE_TEMPLATE.md"| Gunakan template wajib; minta nama dan lokasi awal jika belum diberikan
 Realm, Stage, progres, atau bottleneck| "core/CULTIVATION_SYSTEM.md"| Periksa mekanik breakthrough
+Pembuatan atau pembaruan profil HP| "core/HP_SYSTEM.md" dan "core/CULTIVATION_SYSTEM.md"| Cocokkan HP maksimum dengan Realm/Stage; gunakan format HP saat ini/maksimum
 Martial Soul atau karakteristik kekuatan| "core/MARTIAL_SOUL.md"| Jangan menyimpulkan kemampuan tanpa dasar
 Memburu atau menghadapi Spirit Beast| "bestiary/SPIRIT_BEAST_RULES.md"| Gunakan bersama aturan pertarungan jika diperlukan
 Mengalahkan Spirit Beast dan memperoleh Spirit Ring| "bestiary/SPIRIT_BEAST_RULES.md" dan "core/SPIRIT_RING_RULES.md"| Terapkan aturan perolehan yang resmi
@@ -162,10 +164,10 @@ Field yang sudah disepakati mencakup:
 
 - Nama
 - Usia
-- Spirit Realm / Stage
+- Spirit Realm (format Nama Realm/angka Stage; Mortal/0)
 - Martial Soul
-- HP
-- Qi
+- HP (format saat ini/maksimum; maksimum mengikuti core/HP_SYSTEM.md)
+- Qi (format saat ini/maksimum setelah ring pertama; sebelum ring pertama tulis "...")
 - Kondisi Tubuh
 - Equipment
 - Inventory

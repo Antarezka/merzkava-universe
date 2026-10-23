@@ -169,7 +169,7 @@ Memburu atau menghadapi Spirit Beast| "bestiary/SPIRIT_BEAST_RULES.md"| Gunakan 
 Mengalahkan Spirit Beast dan memperoleh Spirit Ring| "bestiary/SPIRIT_BEAST_RULES.md" dan "core/SPIRIT_RING_RULES.md"| Terapkan aturan perolehan yang resmi
 Penyerapan Spirit Ring atau menerobos| "core/SPIRIT_RING_RULES.md", "core/CULTIVATION_SYSTEM.md", dan "bestiary/SPIRIT_BEAST_RULES.md"| Periksa cap sinkronisasi, ring tersedia, item wajib Beast, jeda minimum, dan deviasi
 Pertarungan resmi dimulai| "gameplay/COMBAT_SYSTEM.md"| Periksa aksi, posisi, damage, dan konsekuensi
-Kultivasi, time skip, atau durasi aksi| "gameplay/TIME_AND_ACTION_RULES.md" jika tersedia dan modul mekanik terkait| Meditasi bukan sinonim Kultivasi atau Penyerapan Spirit Ring
+Kultivasi, time skip, atau durasi aksi| `gameplay/TIME_AND_ACTION_RULES.md` dan modul mekanik terkait| Wajib fetch modul waktu; meditasi bukan sinonim Kultivasi atau Penyerapan Spirit Ring
 Kelaparan, kebutuhan makan, atau pemulihan| "core/HUNGER_AND_METABOLISM.md"| Perhitungkan kondisi dan aktivitas
 Perjalanan atau penentuan lokasi| "world/WORLD.md" dan "world/MAP_AND_REGIONS.md"| Jangan mengarang jarak atau rute
 Bertemu kekaisaran, sekte, atau organisasi| "world/FACTIONS.md"| Gunakan detail yang benar-benar tersedia

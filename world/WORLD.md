@@ -123,7 +123,7 @@ Dojo tidak otomatis berada di bawah kendali klan yang namanya serupa. Hubungan f
 
 Title: Emperor of the Golden Dragon Empire
 Martial Soul: Golden Heavenly Dragon
-Cultivation Realm: Realm 9 — Spirit Primordial
+Cultivation Realm: Realm 9 — Spirit Monarch
 Stage: Middle
 
 Proposed Spirit Ring Configuration
@@ -216,7 +216,7 @@ Leiyu Clan| Teknik tempur dan kekuatan ofensif
 
 Title: Maharaja of Tianhai Yunzhou
 Martial Soul: Heavenly Sky Whale
-Cultivation Realm: Realm 9 — Spirit Primordial
+Cultivation Realm: Realm 9 — Spirit Monarch
 Stage: Early
 
 Proposed Spirit Ring Configuration
@@ -307,7 +307,7 @@ Xuanye Clan| Teknik tempur dan kepentingan strategis
 
 Title: Leluhur Utara of Beiming Gu
 Martial Soul: Blue-Flame Silver Tiger
-Cultivation Realm: Realm 9 — Spirit Primordial
+Cultivation Realm: Realm 9 — Spirit Monarch
 Stage: Early
 
 Proposed Spirit Ring Configuration
@@ -334,7 +334,7 @@ Keunggulan tersebut merupakan penilaian relatif terhadap kemampuan bertarung ind
 
 VI. COMPARATIVE POWER AND POLITICAL BALANCE
 
-Ketiga penguasa berada di Realm 9 — Spirit Primordial, tetapi mereka tidak setara dalam seluruh aspek pertarungan.
+Ketiga penguasa berada di Realm 9 — Spirit Monarch, tetapi mereka tidak setara dalam seluruh aspek pertarungan.
 
 Faktor yang dapat memengaruhi hasil duel meliputi:
 

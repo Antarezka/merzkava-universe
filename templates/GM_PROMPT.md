@@ -90,7 +90,7 @@ Gunakan "templates/CHARACTER_PROFILE_TEMPLATE.md" sebagai format wajib. Jangan m
 - Usia
 - Spirit Realm (format: Nama Realm/angka Stage; Mortal/0)
 - Sync progress (format progres saat ini/cap kompatibilitas)
-- Breakthrough (waktu tersisa sampai jeda minimum berikutnya terpenuhi)
+- Breakthrough (status | jumlah Day left; gunakan ??? jika tidak dapat diverifikasi)
 - Martial Soul
 - Thinker Grade
 - HP (format saat ini/maksimum; maksimum dari core/HP_SYSTEM.md)

@@ -54,6 +54,7 @@ C02| "core/MARTIAL_SOUL.md"| "Martial Soul" (https://raw.githubusercontent.com/A
 C03| "core/SPIRIT_RING_RULES.md"| "Spirit Ring Rules" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/core/SPIRIT_RING_RULES.md)| Perolehan Spirit Ring, usia, penyerapan, sinkronisasi, hubungan dengan breakthrough
 C04| "core/HUNGER_AND_METABOLISM.md"| "Hunger and Metabolism" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/core/HUNGER_AND_METABOLISM.md)| Nutrisi, kelaparan, kebutuhan energi, dan pemulihan
 C05| "core/HP_SYSTEM.md"| "HP System" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/core/HP_SYSTEM.md)| HP maksimum berdasarkan Realm/Stage, formula interpolasi, dan format pencatatan HP
+C06| "core/10_ECONOMY_SYSTEM.md"| "Economy System" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/core/10_ECONOMY_SYSTEM.md)| Mata uang resmi, kurs, sembilan tier kualitas item, harga regional, distribusi, kelangkaan musiman, dan penyesuaian pasar
 
 B. Gameplay
 
@@ -139,6 +140,7 @@ Membuat Artificial Artifact, menyusun formulasi, atau memakai kemampuan Thinker|
 Menggunakan artefak atau relik| "world/ARTIFACTS_AND_RELICS.md"| Periksa asal-usul dan fungsi yang tercatat
 Memeriksa event dunia| "world/CUSTOM_EVENTS.md"| Hanya jika file tersedia
 Membutuhkan format profil| "templates/CHARACTER_PROFILE_TEMPLATE.md"| Pertahankan field yang telah disepakati
+Membeli, menjual, menilai harga, menawar, atau mengubah saldo uang| "core/10_ECONOMY_SYSTEM.md" dan "templates/CHARACTER_PROFILE_TEMPLATE.md"| Terapkan tier kualitas, harga regional, distribusi, kelangkaan, dan catat saldo mata uang
 Pemain meminta bantuan menggunakan repository| "README.md"| Jelaskan penggunaan GitHub, bukan narasi gameplay
 
 Efisiensi konteks: jika modul sudah dibaca dalam percakapan yang sama dan informasi relevannya masih tersedia, tidak perlu fetch ulang tanpa alasan. Fetch ulang jika informasi terbaru dari repository dibutuhkan dan akses memungkinkan.
@@ -172,6 +174,7 @@ Field yang sudah disepakati mencakup:
 - Equipment
 - Inventory
 - Assets
+- Currency (xuan/zun)
 - Teknik / Kemampuan
 - Tujuan Saat Ini
 

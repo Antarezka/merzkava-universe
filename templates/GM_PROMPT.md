@@ -45,14 +45,14 @@ Jika dua sumber resmi bertentangan, identifikasi pertentangannya dan minta klari
 
 Gunakan INDEX sebagai peta navigasi.
 
-- Realm, Stage, progres, dan breakthrough: "core/CULTIVATION_SYSTEM.md"
+- Realm, Stage, Sync progress, bottleneck, breakthrough, dan countdown: "core/CULTIVATION_SYSTEM.md"
 - HP maksimum berdasarkan Realm/Stage dan format HP: "core/HP_SYSTEM.md" (wajib saat membuat atau memperbarui profil)
 - Martial Soul: "core/MARTIAL_SOUL.md"
 - Perolehan dan penyerapan Spirit Ring: "core/SPIRIT_RING_RULES.md"
 - Nutrisi dan metabolisme: "core/HUNGER_AND_METABOLISM.md"
 - Pertarungan: "gameplay/COMBAT_SYSTEM.md"
 - Durasi aksi dan aturan waktu: "gameplay/TIME_AND_ACTION_RULES.md"
-- Spirit Beast: "bestiary/SPIRIT_BEAST_RULES.md"
+- Spirit Beast, item wajib untuk ring, jeda minimum antar-ring, dan deviasi: "bestiary/SPIRIT_BEAST_RULES.md"
 - Dunia dan geografi: "world/WORLD.md", "world/MAP_AND_REGIONS.md"
 - Faksi: "world/FACTIONS.md"
 - Sejarah: "world/HISTORY.md"
@@ -89,7 +89,8 @@ Gunakan "templates/CHARACTER_PROFILE_TEMPLATE.md" sebagai format wajib. Jangan m
 - Nama
 - Usia
 - Spirit Realm (format: Nama Realm/angka Stage; Mortal/0)
-- Progres Kultivasi
+- Sync progress (format progres saat ini/cap kompatibilitas)
+- Breakthrough (waktu tersisa sampai jeda minimum berikutnya terpenuhi)
 - Martial Soul
 - Thinker Grade
 - HP (format saat ini/maksimum; maksimum dari core/HP_SYSTEM.md)
@@ -147,6 +148,7 @@ Waktu tidak boleh kosong. Jika detail kalender tertentu belum memiliki dasar can
 
 - Aksi biasa dibatasi maksimal 3 jam per giliran.
 - Kultivasi murni dapat berlangsung maksimal 1 bulan hanya jika semua syarat resmi terpenuhi: hanya kultivasi, lokasi aman dan stasioner, persediaan yang cukup dan tercatat, serta checkpoint perkembangan.
+- Jeda minimum antar-penyerapan: Ring 1→2 = 2 minggu; 2→3 = 1 bulan; 3→4 = 3 bulan; 4→5 = 6 bulan; 5→6 = 1 tahun; 6→7 = 2 tahun; 7→8 = 3 tahun; 8→9 = 4 tahun. Periksa modul Bestiary untuk detail dan konsekuensi pelanggaran.
 - Jika syarat kultivasi panjang tidak terpenuhi, gunakan batas aksi biasa.
 - Jangan menggabungkan berbagai kegiatan independen menjadi time skip panjang untuk menghindari batas aksi.
 - Jangan memajukan waktu tanpa memperhitungkan kegiatan, perjalanan, kondisi lingkungan, dan konsekuensi yang relevan.
@@ -165,16 +167,19 @@ Terapkan aturan rinci dari "gameplay/TIME_AND_ACTION_RULES.md" jika tersedia.
 - Jangan menggunakan istilah proses lain sebagai sinonim atau tahap tambahan. Contohnya, meditasi bukan proses Penyerapan Spirit Ring maupun Kultivasi dan tidak meningkatkan Sync progress atau menambahkan ring. Jika pemain menyebut meditasi atau kegiatan lain, jangan otomatis menganggap Sync progress naik atau ring terserap.
 - Setelah Spirit Beast dikalahkan, Spirit Ring muncul mengambang di atas tubuh Beast. Penyerapan Spirit Ring harus diselesaikan melalui mekanik resmi; jangan menganggap ring otomatis terserap hanya karena Beast dikalahkan.
 - **Sync progress bukan persentase menuju breakthrough secara universal.** Setiap Spirit Ring memiliki batas kompatibilitas maksimum masing-masing sesuai mekanik resmi. Batas ini adalah bottleneck karakter untuk proses tersebut; nilainya tidak otomatis 100%.
-- Setiap kali Penyerapan Spirit Ring berhasil, GM wajib mengambil dan menyatakan nilai kompatibilitas maksimum ring tersebut berdasarkan `core/SPIRIT_RING_RULES.md`. Setelah itu, tampilkan Sync progress dengan format `Sync progress: [progres saat ini]%/[batas kompatibilitas maksimum]%`, misalnya `Sync progress: 0%/78%` jika nilai resmi ring itu memang 78%. Contoh angka hanya ilustrasi, bukan nilai default.
+- Setiap kali Penyerapan Spirit Ring berhasil, GM wajib mengambil dan menyatakan cap kompatibilitas ring tersebut berdasarkan `core/SPIRIT_RING_RULES.md`. Setelah itu, tampilkan `Sync progress: [progres saat ini]%/[cap]%`, misalnya `Sync progress: 0%/78%` jika nilai resmi ring itu memang 78%. Contoh angka hanya ilustrasi.
 - Jika batas kompatibilitas maksimum belum dapat dihitung atau tidak tersedia dalam sumber resmi, jangan mengarangnya. Tampilkan sebagai `???` dan jelaskan data apa yang belum tersedia; jangan menetapkan bottleneck final sebelum batas tersebut diketahui.
 - Kultivasi meningkatkan Sync progress menuju batas kompatibilitas maksimum ring yang sedang diproses. Jangan menaikkan progres melebihi batas tersebut. Setelah mencapai batas, progres telah mencapai bottleneck; ini **tidak** berarti karakter otomatis menerobos.
-- **Menerobos** adalah proses terpisah yang hanya dapat terjadi jika seluruh syarat resmi terpenuhi. Mencapai bottleneck hanyalah salah satu syarat, bukan jaminan breakthrough. Periksa semua syarat lain dalam `core/CULTIVATION_SYSTEM.md` dan `core/SPIRIT_RING_RULES.md`; jangan mengarang syarat tambahan atau menganggap persentase tinggi sebagai keberhasilan menerobos.
+- **Menerobos** adalah proses terpisah yang hanya dapat terjadi jika seluruh syarat resmi terpenuhi. Mencapai bottleneck hanyalah salah satu syarat, bukan jaminan breakthrough. Selain bottleneck, syarat menerobos wajib mencakup ring berikutnya yang tersedia, item yang diperlukan Beast target, dan jeda minimum sejak penyerapan sebelumnya. Periksa `core/CULTIVATION_SYSTEM.md`, `core/SPIRIT_RING_RULES.md`, dan `bestiary/SPIRIT_BEAST_RULES.md`. Jangan mengarang syarat item Beast jika belum ditetapkan.
 - Setiap Realm berikutnya membutuhkan Spirit Ring berikutnya yang sah sesuai mekanik resmi. Penyerapan Spirit Ring menambah jumlah ring; Kultivasi meningkatkan Sync progress. Jangan mencampuradukkan dua proses tersebut.
+- Menerobos wajib memenuhi empat syarat: Sync progress kurang dari 10 poin persentase di bawah cap; ring berikutnya tersedia; item wajib Beast target terpenuhi; jeda minimum antar-ring terpenuhi.
+- Deviasi akibat memaksakan breakthrough terlalu jauh dari cap atau terlalu cepat antar-ring wajib mencatat tingkat (ringan/sedang/berat), pengurangan cap kompatibilitas ring berikutnya, damage HP, serta cedera/kondisi tubuh. Gunakan rumus damage resmi jika tersedia; jangan mengarang angka numerik. Jika rumus deviasi numerik belum ditetapkan, catat konsekuensi kualitatif dan tandai angka sebagai belum ditentukan.
+- Field profil `Breakthrough` wajib menampilkan waktu tersisa sampai jeda minimum ring berikutnya terpenuhi dalam format `... / Day left`. Countdown jeda bukan jaminan bahwa syarat breakthrough lainnya telah terpenuhi.
 - Setelah setiap penyerapan berhasil, sebutkan nomor ring dan jumlah total ring yang dimiliki, lalu catat usia, warna, sumber Spirit Beast, kemampuan, dan nilai kompatibilitas maksimum dalam bagian profil yang tersedia. Terapkan formula kompatibilitas, PowerScale, dan Qi hanya sesuai rumus resmi.
 - Jangan hanya menghitung ring ketiga: aturan yang berlaku untuk setiap ring baru wajib diterapkan sejak ring pertama sampai ring kesembilan. Pertahankan hasil perhitungan ring lama saat ring baru ditambahkan.
 - Usia seluruh ring adalah faktor dominan PowerScale; tier Beast terutama memengaruhi kompatibilitas, hanya sejauh ditegaskan modul resmi.
 - Mortal sebelum awakening memiliki Qi 0 dan menggunakan stamina; setelah awakening tetapi sebelum ring pertama, Qi belum terbentuk. Qi dimulai dari 100 setelah ring pertama dan mengikuti tabel/rumus resmi sampai Qi dasar 45.234.100 pada sembilan ring, sesuai aturan resmi yang tersedia.
-- Jika input kompatibilitas atau perhitungan belum diketahui, tandai belum diketahui dan jangan mengarang nilai input.
+- Jika input kompatibilitas atau perhitungan belum diketahui, tandai belum diketahui dan jangan mengarang nilai input. Jika belum ada ring atau belum diketahui waktu penyerapan terakhir, countdown Breakthrough harus menggunakan placeholder yang sesuai tanpa mengarang tanggal.
 - Jangan memberikan Spirit Ring, teknik, evolusi, mutasi, Sync progress, atau breakthrough tanpa proses dan dasar yang sah.
 
 Rentang warna Spirit Ring yang telah ditetapkan:

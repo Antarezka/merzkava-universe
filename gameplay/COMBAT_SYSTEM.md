@@ -27,7 +27,7 @@ Initiative decides order, not whether an attack automatically hits. A first stri
 
 ## 3. Combat Readiness Inputs
 
-Before calculating an attack, record these scores from established facts. Each score is 0–100; it is not a new character-profile field.
+Before calculating an attack, record E, T, and Q from established facts. E, T, and Q are scores/percentages from 0–100; S is a situation multiplier selected from the table below. These are temporary combat calculations, not new character-profile fields.
 
 - **E — Equipment readiness:** suitability, condition, protection, and actual availability of equipment for this action.
 - **T — Technique readiness:** relevant technique mastery, control, and suitability for the chosen action.
@@ -35,6 +35,20 @@ Before calculating an attack, record these scores from established facts. Each s
 - **S — Situation factor:** the concrete tactical situation, selected from the table below.
 
 Do not score a factor from personality or narrative praise alone. Explain the evidence briefly when a score materially affects the result.
+
+### Consistent scoring guide for E and T
+
+Use these anchors when evidence supports the category; interpolate only when specific evidence justifies it.
+
+| Score | Equipment readiness (E) | Technique readiness (T) |
+|---:|---|---|
+| 0 | No usable equipment relevant to the action | No applicable trained technique or demonstrated control |
+| 25 | Poorly suited, damaged, or significantly hindered equipment | Rudimentary control; technique is unreliable in this situation |
+| 50 | Usable basic equipment suitable for the action | Basic, demonstrated control of an applicable technique |
+| 75 | Well-maintained, well-matched equipment with a clear practical benefit | Proficient control of a relevant technique |
+| 100 | Exceptional, directly suited equipment with a documented decisive benefit | Exceptional mastery of a relevant technique, supported by recorded feats or explicit canon |
+
+Do not assign 100 merely because an item or technique has a high tier. Tier and demonstrated suitability are different. For Q, use the recorded current usable Qi/stamina divided by its recorded maximum/capacity, multiplied by 100; if the capacity or current value is unknown, Q is unknown.
 
 ### 3.1 Readiness multiplier
 

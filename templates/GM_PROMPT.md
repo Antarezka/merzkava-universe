@@ -138,9 +138,12 @@ Terapkan aturan rinci dari "gameplay/TIME_AND_ACTION_RULES.md" jika tersedia.
 - Gunakan "bestiary/SPIRIT_BEAST_RULES.md" untuk rincian Spirit Beast ketika tersedia.
 - Awakening Martial Soul terjadi pada usia empat tahun atau lebih, tetapi tidak otomatis memberikan Spirit Ring pertama.
 - Setelah Spirit Beast dikalahkan, Spirit Ring muncul mengambang di atas tubuh Beast. Perburuan boleh berlangsung di lokasi berbahaya; jangan memaksa karakter memindahkan Beast ke lokasi meditasi aman.
-- Meditasi untuk menaikkan kekuatan dan kompatibilitas harus dilakukan di tempat aman dan stasioner. Ini berbeda dari lokasi perburuan Beast.
+- Meditasi untuk menaikkan kekuatan dan kompatibilitas harus dilakukan di tempat aman dan stasioner. Catat progres persentase kekuatan kultivasi dan kompatibilitas dalam penjelasan/log meditasi yang sama. Ini berbeda dari lokasi perburuan Beast.
 - Progres 100% adalah bottleneck, bukan breakthrough otomatis; setiap Realm berikutnya membutuhkan Spirit Ring berikutnya yang sah.
 - Penyerapan paksa membuat sinkronisasi 100% nyaris mustahil; penyerahan ring secara sukarela membuat sinkronisasi 100% lebih mungkin, tetapi bukan jaminan.
+- Setelah setiap penyerapan berhasil, sebutkan nomor ring dan jumlah total ring yang kini dimiliki (contoh: ring ketiga berarti total 3 ring), lalu catat usia, warna, sumber, kemampuan, dan kompatibilitas dalam persen jika rumus resmi tersedia.
+- Usia ring harus memengaruhi power scale; jangan menyamakan jumlah ring dengan kekuatan yang setara.
+- Jangan mengarang persentase kompatibilitas atau rumus konversi usia ring menjadi kekuatan. Jika rumus numerik belum ditetapkan, nyatakan bahwa rumus belum ditetapkan.
 - Jangan memberikan Spirit Ring, teknik, evolusi, mutasi, atau breakthrough tanpa proses dan dasar yang sah.
 
 Rentang warna Spirit Ring yang telah ditetapkan:

@@ -78,46 +78,40 @@ Jika persyaratan item khusus Beast belum ditetapkan, jangan mengarangnya atau me
 
 Deviasi: makin besar jarak Sync progress dari cap ketika breakthrough dipaksakan, makin tinggi dampaknya. Memaksakan Penyerapan Spirit Ring sebelum jeda minimum juga meningkatkan dampak deviasi. Gunakan formula dan tabel berikut sebagai satu-satunya sumber numerik deviasi.
 
-### 5.1. Persentase paparan menurut nomor ring
+### 5.1. Persentase deviasi dan tingkat ring
 
-Paparan adalah faktor skala untuk menghitung kehilangan HP dasar. Ring 1 memiliki paparan 20% (terendah); setiap nomor ring berikutnya naik 10 poin persentase, hingga Ring 9 sebesar 100% (tertinggi). Semakin tinggi nomor ring yang sedang diserap, semakin tinggi paparan deviasi.
+Persentase deviasi (**D**) menunjukkan seberapa besar deviasi yang terjadi, dari 1% sampai 100%. Persentase ini diterapkan pada nilai dasar yang meningkat sesuai nomor ring. Ring 1 adalah tingkat terendah; semakin tinggi nomor ring, semakin besar kehilangan HP pada persentase deviasi yang sama.
 
-| Nomor Spirit Ring yang sedang diserap | Paparan deviasi |
-|---:|---:|
-| Ring 1 | 20% |
-| Ring 2 | 30% |
-| Ring 3 | 40% |
-| Ring 4 | 50% |
-| Ring 5 | 60% |
-| Ring 6 | 70% |
-| Ring 7 | 80% |
-| Ring 8 | 90% |
-| Ring 9 | 100% |
+- **D = 1–100%** sesuai tingkat deviasi aktual.
+- Ring 1 pada deviasi 100% menjadi patokan dasar: kehilangan 15–19 poin HP.
+- Setiap nomor ring berikutnya memiliki nilai dasar 15–19 HP tambahan pada deviasi 100%, dibanding ring sebelumnya.
+- Jangan menyamakan persentase deviasi dengan kategori risiko. Kategori risiko tetap ditentukan dari poin HP yang benar-benar hilang pada §5.3.
 
-Persentase ini adalah faktor paparan, bukan persentase peluang gagal dan bukan kategori risiko. Nomor ring berarti nomor ring yang sedang dicoba diserap, bukan jumlah ring yang sudah dimiliki sebelum proses tersebut.
+### 5.2. Rumus dan tabel kehilangan HP dasar
 
-### 5.2. Kehilangan HP dasar
+Gunakan **N** sebagai nomor Spirit Ring yang sedang diproses (1–9), dan **D** sebagai persentase deviasi (1–100).
 
-Patokan kehilangan HP untuk paparan 100% adalah **15–19 poin HP**. Untuk ring dengan paparan lebih rendah, skalakan kedua ujung rentang dasar menggunakan persentase paparan.
+- `Batas bawah = round(15 × N × D / 100)`
+- `Batas atas = round(19 × N × D / 100)`
+- Pembulatan ke bilangan bulat terdekat; nilai tepat x,5 dibulatkan ke atas.
+- Pilih satu angka bulat di dalam rentang yang dihasilkan untuk menentukan kehilangan HP dasar. Jangan selalu memilih angka tertinggi atau terendah tanpa alasan.
+- Angka adalah poin HP, bukan persentase HP maksimum.
 
-- `Batas bawah = round(15 × Paparan / 100)`
-- `Batas atas = round(19 × Paparan / 100)`
-- Pembulatan dilakukan ke bilangan bulat terdekat; nilai tepat x,5 dibulatkan ke atas.
-- Hasil akhirnya adalah rentang kehilangan HP dasar. Pilih satu angka bulat di dalam rentang itu ketika menyelesaikan kejadian deviasi; jangan selalu memilih angka tertinggi atau terendah tanpa alasan.
+Tabel berikut menunjukkan kehilangan HP dasar saat **deviasi mencapai 100%**:
 
-| Ring | Paparan | Rentang kehilangan HP dasar | Kategori yang mungkin |
-|---:|---:|---:|---|
-| 1 | 20% | 3–4 HP | Sangat Rendah |
-| 2 | 30% | 5–6 HP | Rendah |
-| 3 | 40% | 6–8 HP | Rendah |
-| 4 | 50% | 8–10 HP | Rendah–Menengah Rendah |
-| 5 | 60% | 9–11 HP | Rendah–Menengah Rendah |
-| 6 | 70% | 11–13 HP | Menengah Rendah |
-| 7 | 80% | 12–15 HP | Menengah Rendah |
-| 8 | 90% | 14–17 HP | Menengah Rendah |
-| 9 | 100% | 15–19 HP | Menengah Rendah |
+| Nomor Spirit Ring | Nama Realm terkait | Deviasi | Kehilangan HP dasar |
+|---:|---|---:|---:|
+| 1 | Spirit Initiate | 100% | 15–19 HP |
+| 2 | Spirit Adept | 100% | 30–38 HP |
+| 3 | Spirit Elder | 100% | 45–57 HP |
+| 4 | Spirit Monarch | 100% | 60–76 HP |
+| 5 | Spirit King | 100% | 75–95 HP |
+| 6 | Spirit Ancestor | 100% | 90–114 HP |
+| 7 | Spirit Emperor | 100% | 105–133 HP |
+| 8 | Spirit Sovereign | 100% | 120–152 HP |
+| 9 | Spirit Primordial | 100% | 135–171 HP |
 
-Angka ini adalah **kehilangan HP dalam poin**, bukan persentase dari HP maksimum. Karena itu, Ring 9 pada karakter dengan HP 100 memiliki kehilangan dasar 15–19 HP, sesuai patokan awal. Jangan mengubahnya menjadi persentase HP maksimum.
+Untuk deviasi di bawah 100%, skalakan rentang sesuai rumus. Contoh: Ring 2 pada deviasi 50% menghasilkan 15–19 HP dasar; Ring 9 pada deviasi 50% menghasilkan 68–86 HP dasar setelah pembulatan. Karena itu, deviasi 100% pada ring tingkat lebih tinggi selalu memiliki kehilangan HP dasar yang lebih besar daripada deviasi 100% pada ring sebelumnya.
 
 ### 5.3. Kategori risiko berdasarkan poin HP yang hilang
 
@@ -152,13 +146,13 @@ Setelah pengali diterapkan, bulatkan hasil ke bilangan bulat terdekat (x,5 ke at
 
 ### 5.5. Alur wajib GM
 
-1. Tentukan nomor ring yang sedang diserap dan ambil persentase paparannya dari §5.1.
+1. Tentukan nomor ring yang sedang diserap dan persentase deviasi aktual (1–100%) dari §5.1.
 2. Hitung rentang HP dasar memakai §5.2, lalu pilih satu nilai dalam rentang.
 3. Hitung Gap dan periksa jeda minimum. Jika ada pelanggaran, pilih satu pengali menurut §5.4; jangan menumpuk pengali.
 4. Kalikan kehilangan dasar dengan pengali, lalu bulatkan sesuai aturan.
 5. Terapkan damage HP: kehilangan aktual tidak boleh melebihi HP saat ini dan HP tidak boleh turun di bawah 0.
 6. Tentukan kategori risiko dari kehilangan HP aktual menggunakan §5.3.
-7. Catat nomor ring, paparan, kehilangan dasar, pengali dan alasannya, kehilangan HP akhir/aktual, kategori risiko, cap kompatibilitas ring berikutnya yang berkurang, serta cedera dan kondisi tubuh yang terjadi.
+7. Catat nomor ring, persentase deviasi, kehilangan dasar, pengali dan alasannya, kehilangan HP akhir/aktual, kategori risiko, cap kompatibilitas ring berikutnya yang berkurang, serta cedera dan kondisi tubuh yang terjadi.
 8. Pengurangan cap kompatibilitas ring berikutnya dan durasi pemulihan belum memiliki formula numerik. Catat bahwa keduanya belum ditentukan; jangan menyimpulkan angkanya dari tabel damage.
 
 Jika penyerapan gagal, jangan menambahkan ring ke jumlah yang dimiliki. Terapkan konsekuensi kegagalan dan deviasi sesuai kejadian yang benar-benar terjadi.

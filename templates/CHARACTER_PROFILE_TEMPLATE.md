@@ -1,8 +1,16 @@
 # Xuanling Realm — Character Profile Template
 
-Gunakan format ini untuk profil karakter yang ditampilkan selama percakapan/gameplay. Pertahankan nama field dan urutannya. Jangan menambah atau menghilangkan field tanpa persetujuan pemilik repository.
+Template ini adalah format wajib untuk setiap balasan gameplay dalam **MODE: NO STEP**. Jangan hanya menampilkan profil saat diminta; sertakan seluruh format berikut pada setiap balasan gameplay.
+
+## FORMAT WAJIB SETIAP BALASAN — MODE: NO STEP
 
 ```text
+🕒 Waktu Xuanling Realm
+Tahun: ... | Musim: ... | Tanggal: ... | Hari: ... | Cuaca: ... | Jam: ...
+
+Narasi
+[Tuliskan narasi imersif sesuai kejadian, pengetahuan karakter, kondisi dunia, dan konsekuensi yang benar-benar terjadi.]
+
 ┌── Profil Karakter ──┐
 Nama: ...
 Usia: ...
@@ -23,21 +31,40 @@ Tujuan Saat Ini: ...
 └────────────────────┘
 ```
 
-## Format Field Wajib
+## Aturan Format dan Konsistensi
 
-1. **Nama dan Usia:** gunakan data yang sudah tercatat. Jika belum diketahui, gunakan `???`.
-2. **Spirit Realm:** gunakan `Nama Realm/angka Stage`, dengan Stage numerik: `1` = Early, `2` = Middle, `3` = Late, `4` = Peak. Contoh: `Spirit Ancestor/2`. Mortal tidak memiliki Stage kultivasi dan ditulis `Mortal/0`. Jika Realm atau Stage belum diketahui, gunakan `???/???`.
-3. **Sync progress:** gunakan format `progres saat ini%/batas kompatibilitas maksimum%`. Batas tiap ring dapat berbeda dan tidak otomatis 100%. Jika belum diketahui, gunakan `???%/???%`.
-4. **Breakthrough:** tampilkan status breakthrough dan hitung mundur jeda minimum yang masih tersisa dalam format `status | jumlah Day left`. Gunakan aturan resmi Cultivation System dan Spirit Beast Rules. Jika data yang diperlukan tidak diketahui atau tidak bisa diverifikasi, tulis `??? | ??? Day left`; jangan menebak.
-5. **HP:** gunakan `HP saat ini/HP maksimum`. HP maksimum wajib mengikuti `core/HP_SYSTEM.md`; jangan otomatis mengisi HP saat ini dengan nilai maksimum. Jika HP saat ini tidak diketahui tetapi maksimum diketahui, gunakan `???/maksimum`.
-6. **Qi:** jika karakter belum menyerap Spirit Ring pertama, tulis tepat `...`. Setelah ring pertama berhasil diserap, gunakan `Qi saat ini/Qi maksimum` sesuai `core/SPIRIT_RING_RULES.md`. Jangan mengarang nilai saat ini.
-7. **Thinker Grade:** gunakan angka Grade 1–10 sesuai modul Thinker; jika belum diketahui, `???`.
-8. **Currency:** gunakan format persis `...xc | ...xs | ...xg | ...zj | ...az`. Jangan menciptakan saldo atau mengarang nilai tukar.
+- Setiap balasan gameplay wajib memuat bagian waktu, narasi, dan profil lengkap dengan urutan field persis seperti di atas. Jangan menghilangkan field atau mengganti MODE: NO STEP dengan format langkah-langkah.
+- Waktu Xuanling Realm harus konsisten dengan kalender dunia dan peristiwa sebelumnya. Perbarui waktu hanya sesuai durasi tindakan dan kejadian yang benar-benar berlangsung. Jika kalender atau cuaca belum ditentukan, tetapkan nilai awal yang masuk akal dan jaga konsistensinya; jangan mengaku sebagai fakta canon yang sudah tercatat.
+- Narasi harus imersif, tetapi hanya memuat kejadian nyata dalam sesi, informasi yang bisa diketahui karakter, dan konsekuensi yang didukung aturan. Pisahkan pengetahuan GM tentang rahasia dari pengetahuan karakter. Jangan memberi karakter pengetahuan yang belum mereka peroleh.
+- Profil harus mencerminkan keadaan terkini setelah konsekuensi giliran tersebut. Jangan memulihkan HP, menghapus luka, menciptakan barang, atau mengubah saldo tanpa alasan yang sah.
+- Jangan menambahkan field terpisah bernama **Law** atau **Spirit Rings**. Martial Soul mencakup wujud/jenis jiwa bela diri; rincian ring, teknik, dan kemampuan dicatat pada **Teknik / Kemampuan** atau deskripsi Martial Soul.
 
-## Aturan Pengisian
+## Aturan Mengisi Data yang Tidak Disebutkan — WAJIB
 
-- Jangan membiarkan field kosong. Gunakan `???`, `???/???`, atau `...` sesuai aturan format di atas.
-- Jangan menganggap Martial Soul belum awakening hanya karena karakter berstatus Mortal, kecuali hal itu dinyatakan pemain atau ditetapkan riwayat.
-- Jangan menambahkan field terpisah bernama Law atau Spirit Rings. Catat rincian ring dalam **Teknik / Kemampuan** atau deskripsi **Martial Soul**.
-- Terapkan hanya rumus dan sumber resmi yang tersedia. Perubahan Realm/Stage tidak memulihkan HP saat ini secara otomatis.
+- **Dilarang membiarkan data awal yang bisa diperkirakan tetap kosong atau otomatis ditulis `???`.** Jika latar belakang tidak menyebut jumlah uang, aset, isi inventaris, perlengkapan, teknik bawaan, kondisi tubuh tersembunyi, bakat, kebiasaan biologis, atau detail relevan lain, GM wajib membuat perkiraan kasar yang masuk akal berdasarkan usia, latar sosial, pekerjaan, lingkungan, kondisi, dan kejadian yang sudah ditetapkan.
+- Untuk uang dan aset, tetapkan perkiraan saldo awal yang wajar, isi seluruh pecahan pada field Currency, dan pastikan angka itu selaras dengan pekerjaan, penghasilan, pengeluaran, aset, serta taraf hidup karakter. Nilai tersebut adalah **estimasi awal GM**, bukan fakta yang pernah dinyatakan pemain. Jangan menganggap seluruh penghasilan seumur hidup masih tersimpan.
+- Inventaris wajib diisi dengan barang-barang yang masuk akal dimiliki karakter berdasarkan latarnya, termasuk barang sehari-hari yang relevan. Jangan membuat barang langka, artefak kuat, atau harta luar biasa tanpa dasar. Benda misterius yang memang disebut dalam latar tetap dicatat, tetapi jangan mengarang fungsi atau nilai khususnya.
+- Jika teknik bawaan tidak disebutkan, GM wajib menentukan apakah karakter memiliki keterampilan praktis, kebiasaan terlatih, naluri, atau kemampuan bawaan yang masuk akal. Bedakan keterampilan biasa, potensi/insting pasif, dan teknik kultivasi/tempur formal. Jangan otomatis mengubah bakat tersembunyi menjadi teknik aktif yang dikuasai.
+- Kondisi tubuh tersembunyi dan detail lain yang belum dijelaskan harus ditetapkan sebagai perkiraan canon-GM yang masuk akal, selaras dengan latar belakang. Tandai sebagai **khusus GM/tersembunyi** jika karakter belum mengetahuinya. Jangan menjadikan kondisi tersembunyi sebagai fakta yang diketahui karakter, dan jangan membuat rahasia besar, garis keturunan istimewa, atau kekuatan tak terbatas tanpa petunjuk yang cukup.
+- Jika suatu hal benar-benar mustahil diperkirakan atau sengaja menjadi misteri utama, boleh gunakan `???` untuk hal tersebut saja. Tetap isi hal-hal praktis yang dapat diperkirakan. Jangan menebak informasi rahasia yang sengaja ditahan oleh canon.
+- Estimasi awal harus ditandai sebagai estimasi di catatan GM atau deskripsi terkait agar tidak disalahartikan sebagai informasi eksplisit dari pemain. Setelah permainan berjalan, angka dan detail tersebut menjadi state awal sampai diubah oleh kejadian yang sah.
+
+## Format Field Profil
+
+1. **Nama dan Usia:** gunakan data yang sudah tercatat. Jika usia tidak eksplisit tetapi dapat disimpulkan dari petunjuk kuat, gunakan perkiraan paling masuk akal dan tandai sebagai estimasi GM.
+2. **Spirit Realm:** gunakan `Nama Realm/angka Stage`, dengan Stage numerik: `1` = Early, `2` = Middle, `3` = Late, `4` = Peak. Mortal tidak memiliki Stage kultivasi dan ditulis `Mortal/0`. Jika belum ada dasar untuk menentukan Realm, gunakan `???/???`.
+3. **Sync progress:** gunakan format `progres saat ini%/batas kompatibilitas maksimum%`. Batas tiap ring dapat berbeda dan tidak otomatis 100%. Jika karakter belum memiliki ring atau sistem belum menetapkan nilai yang dapat diperkirakan, tulis `???%/???%`.
+4. **Breakthrough:** tampilkan status dan sisa jeda minimum dalam format `status | jumlah Day left`, sesuai modul resmi. Jika belum relevan bagi karakter Mortal, tulis `Not applicable | 0 Day left`. Jika relevan tetapi data resmi yang dibutuhkan belum tersedia, gunakan `??? | ??? Day left`.
+5. **Martial Soul:** gunakan data canon yang sudah ditetapkan. Jika belum awakening, jangan menyimpulkan hanya dari status Mortal; gunakan petunjuk latar dan aturan awakening. Bila benar-benar belum diketahui, tandai `???` dan catat statusnya untuk GM.
+6. **Thinker Grade:** gunakan angka Grade 1–10 sesuai modul Thinker. Jika modul atau dasar penilaiannya belum tersedia, gunakan `???` dan jangan menciptakan aturan Grade baru.
+7. **HP:** gunakan `HP saat ini/HP maksimum` sesuai `core/HP_SYSTEM.md`. Jangan otomatis mengisi HP saat ini dengan nilai maksimum. Jika rumus resmi belum tersedia, jangan mengarang angka yang diklaim berasal dari sistem; gunakan perkiraan awal GM yang ditandai jelas bila perlu untuk memulai permainan.
+8. **Qi:** jika karakter belum menyerap Spirit Ring pertama, tulis tepat `...`. Setelah ring pertama berhasil diserap, gunakan `Qi saat ini/Qi maksimum` sesuai `core/SPIRIT_RING_RULES.md`.
+9. **Currency:** gunakan format persis `...xc | ...xs | ...xg | ...zj | ...az`. Jika saldo tidak disebutkan, wajib tetapkan perkiraan kasar dan isi semua pecahan; jangan meninggalkan seluruh saldo sebagai `???`. Jangan mengklaim nilai tukar resmi jika belum ada aturan resmi.
+10. **Kondisi Tubuh, Equipment, Inventory, Assets, Teknik / Kemampuan, dan Tujuan Saat Ini:** isi berdasarkan latar serta kejadian. Jika detail tidak eksplisit tetapi dapat diperkirakan, tetapkan estimasi GM yang masuk akal. Catat kondisi tersembunyi secara terpisah sebagai informasi khusus GM.
+
+## Aturan Penggunaan
+
+- Gunakan hanya mekanik resmi yang tersedia dalam repository. Jangan mengarang rumus atau menyebut estimasi GM sebagai mekanik resmi.
+- Field yang belum diketahui setelah upaya penetapan hanya boleh memakai placeholder sesuai aturan di atas; jangan membiarkan informasi praktis yang dapat diperkirakan kosong.
 - Pertahankan semua perubahan profil yang didukung kejadian dalam gameplay. Jangan menghapus luka, pengeluaran, barang, atau konsekuensi tanpa alasan sah.
+- Profil pada setiap balasan adalah snapshot keadaan karakter setelah giliran tersebut.

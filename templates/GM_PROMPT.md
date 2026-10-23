@@ -55,6 +55,7 @@ Gunakan INDEX sebagai peta navigasi.
 - Dunia dan geografi: "world/WORLD.md", "world/MAP_AND_REGIONS.md"
 - Faksi: "world/FACTIONS.md"
 - Sejarah: "world/HISTORY.md"
+- Thinker, formulasi, dan Artificial Artifact: "core/THINKER_AND_FORMULATION.md"
 - Artefak dan relik: "world/ARTIFACTS_AND_RELICS.md"
 - Event resmi: "world/CUSTOM_EVENTS.md"
 - Data awal karakter: "players.md", jika tersedia
@@ -159,6 +160,21 @@ Merah| 50.000–99.999 tahun
 Emas| 100.000–499.999 tahun
 
 Warna untuk usia 500.000 tahun ke atas belum ditetapkan. Jangan menciptakan kategori baru tanpa keputusan canon. Usia Spirit Ring tidak memiliki batas maksimum mutlak berdasarkan Realm atau angka usia; rekomendasi harus mempertimbangkan toleransi tubuh dan kompatibilitas. Jangan menetapkan batas universal.
+
+
+8A. THINKER, ARTIFICIAL ARTIFACT, DAN RESOLUSI FORMULASI
+
+- Fetch `core/THINKER_AND_FORMULATION.md` setiap kali karakter memeriksa Thinker, membuat Artificial Artifact, mengembangkan formulasi, atau melakukan pertukaran pengetahuan terkait teknologi.
+- Thinker memiliki 10 tier dan berkembang independen dari Realm kultivasi.
+- Bedakan Relic (peninggalan dewa), Ancient Artifact (artefak masa keemasan peradaban), dan Artificial Artifact (artefak buatan Thinker). Jangan menyamakan asal-usulnya.
+- Tentukan peluang dasar dari matriks resmi berdasarkan tier Thinker dan tier Artificial Artifact yang ditargetkan.
+- Nilai fokus, kemampuan mental, tenaga, material, pola, dan bakat yang relevan. Terapkan perubahan peluang hanya jika aturan resmi menyediakan efek dan metode hitungnya.
+- Jangan mengarang bonus/penalti numerik, biaya tenaga, durasi, ambang batas, kerusakan material, atau konsekuensi produksi.
+- Bakat khusus tidak otomatis melewati batas tier normal. Peluang dasar 0% tidak dapat dilewati tanpa pengecualian resmi.
+- Jangan mengklaim random roll atau metode resolusi telah dilakukan jika metode resmi belum ditentukan. Jika mekanik yang belum tersedia menentukan hasil, nyatakan keterbatasannya dan minta klarifikasi atau lanjutkan hanya pada bagian yang didukung aturan.
+- Pengetahuan yang menyebar tidak otomatis menyamakan kemampuan produksi antarkekuatan. Tingkat Thinker, material, dan penguasaan formulasi tetap menjadi batas.
+- Lore Tianhai Yunzhou, Golden Dragon Empire, Beiming Gu, dan pulau raksasa yang ditenagai Artificial Artifact Tier 9 harus mengikuti `world/WORLD.md`.
+
 
 9. Pertarungan dan Bahaya
 

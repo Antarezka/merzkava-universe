@@ -11,6 +11,8 @@ I. WORLD OVERVIEW
 
 Xuanling Realm adalah dunia kultivasi luas yang kekuatannya ditentukan oleh Martial Soul, Spirit Ring, teknik, pengalaman, sumber daya, dan pengaruh politik.
 
+Sistem kultivasi memiliki sembilan Realm dengan urutan resmi: Spirit Initiate, Spirit Adept, Spirit Expert, Spirit Elder, Spirit Ancestor, Spirit King, Spirit Emperor, Spirit Saint, dan Spirit Monarch. Setiap Realm memiliki empat Stage: Early, Middle, Late, dan Peak. Setiap Realm membuka satu slot Spirit Ring tambahan.
+
 Dunia ini memiliki tiga kekuasaan utama:
 
 1. Golden Dragon Empire — kekaisaran besar di wilayah timur.
@@ -692,7 +694,7 @@ Berkas| Isi utama
 "world/MAP_AND_REGIONS.md"| Peta, geografi, jarak, rute perjalanan, iklim, dan lokasi penting
 "world/FACTIONS.md"| Sekte, klan, organisasi, pemimpin, hierarki, hubungan, dan konflik
 "world/ECONOMY.md"| Mata uang, harga, perdagangan, pajak, pendapatan, perbankan, dan layanan
-"core/CULTIVATION_SYSTEM.md" dan "core/MARTIAL_SOUL.md", serta modul ring tersendiri bila dibuat| Sistem kultivasi, Martial Soul, Spirit Ring, breakthrough, dan batas kemampuan
+"core/CULTIVATION_SYSTEM.md", "core/MARTIAL_SOUL.md", dan "core/SPIRIT_RING_RULES.md"| Sistem kultivasi, Martial Soul, Spirit Ring, breakthrough, dan batas kemampuan
 "bestiary/SPIRIT_BEAST_RULES.md"| Jenis Spirit Beast, habitat, usia, kemampuan, mutasi, dan evolusi
 "world/ARTIFACTS_AND_RELICS.md"| Tingkatan artefak, pembuatan, bahan, perawatan, dan batas kemampuan
 

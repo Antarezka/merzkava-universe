@@ -44,11 +44,13 @@ Gunakan juga aturan rinci di `templates/CHARACTER_PROFILE_TEMPLATE.md`. Mode NO 
 
 ### Aturan Wajib Penentuan Lokasi Awal
 
-- Jika latar belakang karakter tidak menyebutkan tempat tinggal atau lokasi awal secara eksplisit, GM wajib menentukan lokasi awal yang paling masuk akal berdasarkan latar belakang karakter.
-- Gunakan petunjuk suasana tempat, pekerjaan, lingkungan sosial, hubungan, kondisi ekonomi, kebiasaan, dan kejadian dalam latar. Pilih lokasi konkret yang paling dekat dengan petunjuk tersebut; jangan otomatis menulis `???`.
-- Jika nama tempat yang tepat tidak diketahui, tentukan lokasi pada tingkat yang wajar, misalnya tempat karakter dibesarkan, kawasan tempat ia bekerja, penginapan, atau lingkungan terdekat yang sesuai. Jangan mengarang lokasi terkenal, organisasi, atau tempat canon baru seolah-olah sudah tercatat resmi.
-- Lokasi hasil penentuan ini adalah estimasi awal GM, bukan fakta eksplisit dari pemain. Jaga konsistensinya selama permainan sampai ada kejadian yang sah mengubah lokasi.
-- Jika beberapa lokasi cocok, pilih yang paling kuat didukung latar. Jika tidak ada petunjuk sama sekali, pilih lokasi netral yang wajar untuk memulai permainan dan tandai sebagai estimasi GM.
+- **GM wajib menetapkan lokasi awal konkret sebelum gameplay dimulai** apabila lokasi karakter belum ditulis eksplisit. Dilarang membiarkan field lokasi awal tetap `???` jika latar memberi petunjuk yang bisa digunakan.
+- Baca latar karakter secara aktif dan tarik kesimpulan dari tempat ia dibesarkan, pekerjaan saat ini, lingkungan sosial, relasi, kondisi ekonomi, kebiasaan, serta kejadian yang disebutkan. Pilih lokasi yang paling dekat dan logis dari petunjuk itu.
+- Jika karakter dibesarkan dan bekerja di suatu tempat, lokasi awal default adalah tempat tersebut atau lokasi terdekat yang masuk akal—bukan tempat acak yang tidak berhubungan dengan latarnya.
+- Jika nama resmi bangunan atau alamat tepat tidak diketahui, tetapkan lokasi pada tingkat yang cukup konkret, misalnya **paviliun hiburan tempat karakter dibesarkan, di kawasan hiburan kota kekaisaran**. Jangan mengarang nama tempat canon atau organisasi baru tanpa dasar.
+- Tulis hasilnya langsung pada field **Lokasi awal** di entri karakter dan gunakan lokasi yang sama ketika membuka sesi. Menulis aturan umum saja tidak cukup; GM harus benar-benar mengisi field karakter.
+- Tandai lokasi sebagai **estimasi awal GM berdasarkan latar**, bukan fakta eksplisit pemain. Setelah ditetapkan, pertahankan konsistensinya sampai ada kejadian yang sah mengubah lokasi.
+- Jika ada beberapa pilihan, pilih yang paling kuat didukung latar. Hanya jika latar sama sekali tidak memberi petunjuk, pilih lokasi netral yang wajar dan tandai sebagai estimasi GM. Bahkan dalam kasus itu, jangan biarkan field lokasi kosong atau `???`.
 
 ### Aturan Wajib Latar Belakang Orisinal
 
@@ -110,6 +112,6 @@ Yuha selalu mengenakan hanfu hitam polos berlengan panjang, dilengkapi sebuah to
 - **Keterampilan praktis (estimasi awal GM):** Terlatih berbicara sopan, mendengarkan, membaca suasana sosial, dan menjaga percakapan tetap nyaman. Ini bukan kemampuan memengaruhi pikiran atau membuat orang otomatis menyukainya.
 - **Garis keturunan / asal-usul:** ???. Kemiripan mata dengan paus surgawi tidak membuktikan garis keturunan tertentu.
 - **Kemampuan khusus dan kondisi tersembunyi lain:** ???. Jangan mengungkap asal-usul Yuha atau fungsi sepuluh giok tanpa perkembangan cerita yang sah.
-- **Lokasi awal:** ???.
+- **Lokasi awal:** Paviliun hiburan tempat Yuha dibesarkan, di kawasan hiburan Kota Kekaisaran (**estimasi awal GM berdasarkan latar**: Yuha dibesarkan di paviliun hiburan dan bekerja sebagai pendamping bagi para putri kekaisaran, sekte besar, serta kalangan pemerintahan; nama resmi paviliun belum ditetapkan).
 - **Relasi penting:** Seorang gadis muda pewaris konsorsium lelang ternama sering merundung Yuha, tetapi diam-diam menyukainya. Identitas dan detail lain yang belum ditetapkan tetap ???
-- **Batas penafsiran:** Pekerjaan Yuha adalah escort/teman bicara berbayar, bukan pengawal atau pelayan. Jangan menetapkan usia, jumlah uang, harga/nilai giok, Martial Soul, garis keturunan, atau lokasi awal tanpa dasar yang sah.
+- **Batas penafsiran:** Pekerjaan Yuha adalah escort/teman bicara berbayar, bukan pengawal atau pelayan. Jangan menetapkan harga/nilai giok, Martial Soul, atau garis keturunan tanpa dasar yang sah. Lokasi awal sudah ditetapkan sebagai estimasi yang paling sesuai dengan latar dan tidak boleh dikembalikan ke `???` tanpa alasan cerita yang sah.

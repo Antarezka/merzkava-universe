@@ -4,26 +4,35 @@ Gunakan template ini untuk profil karakter gameplay. Pertahankan nama field dan 
 
 ## Profil Karakter
 
-- **Nama:**
-- **Usia:**
-- **Spirit Realm / Stage:** Mortal / belum ditetapkan jika karakter belum memasuki sistem kultivasi; selain itu gunakan nama Realm resmi dan Stage Early, Middle, Late, atau Peak.
-- **Progres Kultivasi:** Tulis persentase hanya jika sudah tercatat atau dapat ditentukan berdasarkan aturan resmi; jika belum diketahui, tulis `???`.
-- **Martial Soul:** Nama/status yang sudah diketahui karakter; jika belum diketahui, tulis `???`.
-- **Thinker Grade:** Grade 1–10 sesuai modul Thinker; jika belum diketahui, tulis `???`.
-- **HP:** Gunakan nilai hanya jika aturan HP resmi atau riwayat permainan menetapkannya. Jangan otomatis mengisi 100. Jika sistem HP belum dapat menentukan nilainya, tulis `Belum ditetapkan`.
-- **Qi:** Mortal sebelum awakening = 0; setelah awakening sebelum Spirit Ring pertama = belum terbentuk; setelah ring pertama, gunakan rumus resmi. Jika status yang diperlukan belum diketahui, tulis `???`.
-- **Kondisi Tubuh:** Kondisi yang benar-benar diketahui atau tercatat.
-- **Equipment:** Perlengkapan yang benar-benar dimiliki.
-- **Inventory:** Barang dan jumlah yang benar-benar dimiliki; jangan menciptakan uang atau barang tanpa dasar yang sah.
-- **Assets:** Aset, kepemilikan, dan kekayaan yang telah ditetapkan.
-- **Teknik / Kemampuan:** Teknik, bakat, kemampuan, serta rincian Spirit Ring yang telah diperoleh (nomor, usia, warna jika ditetapkan, sumber, kemampuan, dan kompatibilitas jika datanya tersedia).
-- **Tujuan Saat Ini:** Tujuan yang dinyatakan pemain atau tujuan aktif yang tercatat dalam cerita.
+- **Nama:** ???
+- **Usia:** ???
+- **Spirit Realm:** ???/???
+- **Progres Kultivasi:** ???%
+- **Martial Soul:** ???
+- **Thinker Grade:** ???
+- **HP:** ???/???
+- **Qi:** ...
+- **Kondisi Tubuh:** ???
+- **Equipment:** ???
+- **Inventory:** ???
+- **Assets:** ???
+- **Teknik / Kemampuan:** ???
+- **Tujuan Saat Ini:** ???
+
+## Format Field Wajib
+
+1. **Spirit Realm:** gunakan `Nama Realm/angka Stage`, dengan Stage numerik: `1` = Early, `2` = Middle, `3` = Late, `4` = Peak. Contoh: `Spirit Ancestor/2`. Mortal tidak memiliki Stage kultivasi dan ditulis `Mortal/0`. Jika Realm atau Stage belum diketahui, gunakan `???/???`.
+2. **HP:** gunakan `HP saat ini/HP maksimum`. Contoh Mortal penuh: `100/100`; Spirit Primordial/4 penuh: `8950/8950`. Gunakan `???/maksimum` jika HP saat ini tidak diketahui tetapi Realm/Stage diketahui. Gunakan `???/???` jika Realm/Stage juga tidak diketahui. HP maksimum wajib mengikuti `core/HP_SYSTEM.md`; jangan otomatis mengisi HP saat ini dengan nilai maksimum.
+3. **Qi:** jika karakter belum menyerap Spirit Ring pertama, tulis tepat `...`. Setelah ring pertama berhasil diserap, gunakan `Qi saat ini/Qi maksimum`; Qi maksimum dasar mengikuti jumlah ring pada `core/SPIRIT_RING_RULES.md`. Jika jumlah ring diketahui tetapi Qi saat ini tidak diketahui, gunakan `???/Qi maksimum`. Jangan mengarang nilai saat ini.
+4. **Progres Kultivasi:** gunakan angka persentase yang tercatat; jika belum diketahui, `???%`.
+5. **Thinker Grade:** gunakan angka Grade 1–10 sesuai modul Thinker; jika belum diketahui, `???`.
 
 ## Aturan Pengisian
 
-1. Jangan biarkan field berisi placeholder kosong seperti `...`, `TBD`, atau nilai rekaan.
-2. Gunakan `???` untuk informasi yang belum diketahui karakter. Gunakan `Belum ditetapkan` untuk mekanik/nilai yang belum ditentukan oleh canon atau sistem resmi. Bedakan keduanya.
+1. Jangan membiarkan field kosong. Gunakan penanda `???`, `???/???`, atau `...` sesuai aturan format di atas.
+2. Gunakan `???` untuk informasi yang belum diketahui atau belum tercatat. Untuk Qi sebelum Spirit Ring pertama, gunakan `...` sesuai format khusus Qi.
 3. Jangan menganggap Martial Soul belum awakening hanya karena karakter berstatus Mortal, kecuali hal itu dinyatakan pemain atau ditetapkan riwayat.
 4. Jangan menambahkan field terpisah bernama Law atau Spirit Rings. Catat rincian ring dalam **Teknik / Kemampuan** atau deskripsi **Martial Soul**.
-5. Jangan menciptakan nilai HP, Qi, uang, item, statistik, atau sumber daya. Terapkan hanya rumus dan sumber resmi yang tersedia.
-6. Pertahankan semua perubahan profil yang didukung kejadian dalam gameplay. Jangan menghapus luka, pengeluaran, barang, atau konsekuensi tanpa alasan sah.
+5. Jangan menciptakan nilai HP, Qi saat ini, uang, item, statistik, atau sumber daya. Terapkan hanya rumus dan sumber resmi yang tersedia.
+6. HP maksimum wajib dihitung dari `core/HP_SYSTEM.md`; perubahan Realm/Stage tidak memulihkan HP saat ini secara otomatis.
+7. Pertahankan semua perubahan profil yang didukung kejadian dalam gameplay. Jangan menghapus luka, pengeluaran, barang, atau konsekuensi tanpa alasan sah.

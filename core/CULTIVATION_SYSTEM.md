@@ -91,15 +91,13 @@ Tidak ada batas usia Spirit Ring yang mutlak hanya berdasarkan angka usia. Keses
 
 ## 6. Penaklukan Beast, Penyerapan, dan Sinkronisasi
 
-- Setelah Spirit Beast dikalahkan dan kondisi perolehan terpenuhi, Spirit Ring dapat muncul mengambang di atas Beast sesuai aturan yang telah ditetapkan.
-- Penaklukan Beast dapat terjadi di kawasan berbahaya; jangan mensyaratkan bahwa perburuan berlangsung di tempat meditasi yang aman.
-- Penyerapan Spirit Ring dapat dilakukan di lokasi Beast dikalahkan apabila mekanik resmi mengizinkannya. Jangan memaksakan perpindahan ke lokasi meditasi aman tanpa dasar aturan.
-- Meditasi untuk meningkatkan kekuatan kultivasi atau kompatibilitas harus berlangsung di tempat yang aman dan stasioner.
-- Ring yang diperoleh melalui penyerapan sukarela dari Beast yang tidak dipaksa tunduk memberikan peluang kompatibilitas/sinkronisasi berikutnya yang lebih baik.
-- Penyerapan paksa membuat sinkronisasi 100% nyaris mustahil. Ini bukan izin untuk mengarang nilai persentase atau memastikan kegagalan total.
-- Jangan menyamakan kompatibilitas dengan keberhasilan otomatis. Keberhasilan tetap mengikuti kondisi tubuh, ring, dan mekanik resmi.
+Aturan rinci untuk mengalahkan Spirit Beast, kemunculan Spirit Ring, penyerapan, sinkronisasi, dan konsekuensi kegagalan belum tersedia dalam modul khusus yang dapat dibaca. Karena itu:
 
-Angka peluang, rumus kompatibilitas, durasi penyerapan, dan dampak terperinci dari setiap tingkat sinkronisasi belum ditetapkan di modul ini. Jangan mengada-adakannya.
+- Jangan menganggap kekalahan Beast otomatis menghasilkan Spirit Ring yang dapat diserap.
+- Jangan mengasumsikan ring muncul mengambang di atas Beast kecuali aturan resmi yang tersedia secara eksplisit menetapkannya.
+- Jangan mengarang prosedur penaklukan, penyerapan sukarela/paksa, angka kompatibilitas, peluang keberhasilan, durasi, biaya, atau risiko kegagalan.
+- Jangan mewajibkan lokasi meditasi aman untuk penyerapan kecuali aturan resmi menetapkannya. Batas waktu meditasi kultivasi biasa tetap mengikuti INDEX dan modul waktu yang tersedia.
+- Penyerapan dan breakthrough hanya boleh diselesaikan sejauh mekanik resmi yang benar-benar tersedia mendukungnya. Jika detail penting belum ada, nyatakan keterbatasan dan jangan menyulap asumsi menjadi canon.
 
 ## 7. Konsistensi dengan WORLD.md
 
@@ -117,4 +115,4 @@ Angka peluang, rumus kompatibilitas, durasi penyerapan, dan dampak terperinci da
 4. Jangan mengklaim membaca modul yang belum tersedia.
 5. Jangan menciptakan rumus, statistik, peluang, bonus, atau pengecualian baru sebagai canon.
 6. Jika suatu aksi memerlukan aturan rinci yang belum ditetapkan, jelaskan keterbatasannya dan selesaikan hanya bagian yang didukung sumber.
-7. Profil karakter harus mencerminkan Realm, Stage, progres, dan Spirit Ring yang benar-benar diperoleh dalam riwayat permainan. Jangan mengisi slot atau menaikkan Realm tanpa proses yang sah.
+7. Profil karakter harus mencerminkan Realm, Stage, progres, dan seluruh Spirit Ring yang benar-benar diperoleh dalam riwayat permainan. Data ring harus tetap tercatat meskipun template belum memiliki field khusus. Jangan mengisi slot atau menaikkan Realm tanpa proses yang sah.

@@ -38,6 +38,7 @@ Repository: https://github.com/Antarezka/xuanling-realm
 9. Selama sesi berlangsung, fetch modul tambahan secara dinamis berdasarkan tabel pemicu di §2. Jangan mengambil semua modul sekaligus tanpa kebutuhan.
 
 10. Jika sebuah tautan gagal diakses atau file belum tersedia, beri tahu pemain. Jangan mengarang isinya atau mengklaim sudah membacanya.
+11. Jika Creator/Administrator meminta peninjauan save atau pemain menanyakan penyimpanan permanen, fetch "core/11_SAVE_PROGRESS_SYSTEM.md". Modul ini mengatur proses manual; ia tidak memberikan kemampuan autentikasi IP atau save otomatis.
 
 ---
 
@@ -55,6 +56,7 @@ C03| "core/SPIRIT_RING_RULES.md"| "Spirit Ring Rules" (https://raw.githubusercon
 C04| "core/HUNGER_AND_METABOLISM.md"| "Hunger and Metabolism" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/core/HUNGER_AND_METABOLISM.md)| Nutrisi, kelaparan, kebutuhan energi, dan pemulihan
 C05| "core/HP_SYSTEM.md"| "HP System" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/core/HP_SYSTEM.md)| HP maksimum berdasarkan Realm/Stage, formula interpolasi, dan format pencatatan HP
 C06| "core/10_ECONOMY_SYSTEM.md"| "Economy System" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/core/10_ECONOMY_SYSTEM.md)| Mata uang resmi, kurs, sembilan tier kualitas item, harga regional, distribusi, kelangkaan musiman, dan penyesuaian pasar
+C07| "core/11_SAVE_PROGRESS_SYSTEM.md"| "Save Progress System" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/core/11_SAVE_PROGRESS_SYSTEM.md)| Otoritas save tunggal Creator/Administrator, validasi progres, save manual GitHub, dan batas keamanan
 
 B. Gameplay
 
@@ -141,6 +143,7 @@ Menggunakan artefak atau relik| "world/ARTIFACTS_AND_RELICS.md"| Periksa asal-us
 Memeriksa event dunia| "world/CUSTOM_EVENTS.md"| Hanya jika file tersedia
 Membutuhkan format profil| "templates/CHARACTER_PROFILE_TEMPLATE.md"| Pertahankan field yang telah disepakati
 Membeli, menjual, menilai harga, menawar, atau mengubah saldo uang| "core/10_ECONOMY_SYSTEM.md" dan "templates/CHARACTER_PROFILE_TEMPLATE.md"| Terapkan tier kualitas, harga regional, distribusi, kelangkaan, dan catat saldo mata uang
+Permintaan save, pemeriksaan otoritas, atau peninjauan progres permanen| "core/11_SAVE_PROGRESS_SYSTEM.md" dan "players.md" jika tersedia| Hanya Creator/Administrator yang boleh menyetujui dan melakukan save permanen secara manual
 Pemain meminta bantuan menggunakan repository| "README.md"| Jelaskan penggunaan GitHub, bukan narasi gameplay
 
 Efisiensi konteks: jika modul sudah dibaca dalam percakapan yang sama dan informasi relevannya masih tersedia, tidak perlu fetch ulang tanpa alasan. Fetch ulang jika informasi terbaru dari repository dibutuhkan dan akses memungkinkan.
@@ -180,7 +183,7 @@ Field yang sudah disepakati mencakup:
 
 Jangan menambahkan field terpisah untuk Law atau Spirit Ring. Informasi ring yang telah diperoleh—sumber, usia, warna, kemampuan, dan hasil proses yang diketahui—dicatat dalam Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada. Jangan menghilangkan kemampuan yang telah diperoleh, tetapi jangan membuat field profil baru tanpa persetujuan pemilik.
 
-Tidak ada sinkronisasi progres otomatis ke repository. Progres gameplay tetap berada dalam percakapan sampai pemilik repository secara manual memutuskan untuk memperbarui data awal.
+Tidak ada sinkronisasi progres otomatis ke repository. Progres gameplay tetap berada dalam percakapan sampai Creator/Administrator meninjau dan secara manual menyimpan perubahan yang disetujui sesuai "core/11_SAVE_PROGRESS_SYSTEM.md". Pemain tidak memiliki otoritas untuk menyimpan atau mengubah "players.md". File ini hanya berubah setelah Creator/Administrator melakukan commit melalui akun GitHub terautentikasi dan memverifikasi hasilnya. Perintah save dari percakapan pemain bukan otorisasi.
 
 ---
 

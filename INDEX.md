@@ -172,7 +172,7 @@ Field yang sudah disepakati mencakup:
 - Teknik / Kemampuan
 - Tujuan Saat Ini
 
-Jangan menambahkan field terpisah untuk Law atau Spirit Ring. Kemampuan ring yang telah diperoleh dicatat dalam Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada. Jangan menghilangkan kemampuan yang telah diperoleh, tetapi jangan membuat field profil baru tanpa persetujuan pemilik.
+Jangan menambahkan field terpisah untuk Law atau Spirit Ring. Informasi ring yang telah diperoleh—sumber, usia, warna, kemampuan, dan hasil proses yang diketahui—dicatat dalam Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada. Jangan menghilangkan kemampuan yang telah diperoleh, tetapi jangan membuat field profil baru tanpa persetujuan pemilik.
 
 Tidak ada sinkronisasi progres otomatis ke repository. Progres gameplay tetap berada dalam percakapan sampai pemilik repository secara manual memutuskan untuk memperbarui data awal.
 

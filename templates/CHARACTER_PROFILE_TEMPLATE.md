@@ -6,7 +6,7 @@ Template ini adalah format wajib untuk setiap balasan gameplay dalam **MODE: NO 
 
 ```text
 🕒 Waktu Xuanling Realm
-Tahun: ... | Musim: ... | Tanggal: ... | Hari: ... | Cuaca: ... | Jam: ...
+Tahun: XXXX, [Era sesi] | Musim: [Semi/Panas/Gugur/Dingin] | Tanggal: DD Bulan MM | Hari: [Senin–Minggu] | Cuaca: ... | Jam: HH:MM
 
 Narasi
 [Tuliskan narasi imersif sesuai kejadian, pengetahuan karakter, kondisi dunia, dan konsekuensi yang benar-benar terjadi.]
@@ -33,7 +33,7 @@ Tujuan Saat Ini: ...
 
 ## Protokol Konsistensi Waktu
 
-- Gunakan dua baris header waktu dalam format yang persis sama pada setiap balasan gameplay. Jangan menambah atau menghilangkan kolom.
+- Gunakan dua baris header waktu dalam format yang persis sama pada setiap balasan gameplay: `🕒 Waktu Xuanling Realm` lalu `Tahun: XXXX, [Era sesi] | Musim: [Semi/Panas/Gugur/Dingin] | Tanggal: DD Bulan MM | Hari: [Senin–Minggu] | Cuaca: ... | Jam: HH:MM`. Era sesi wajib terisi sebagai nama era sesi, bukan teks placeholder. Jangan menambah, menghilangkan, atau mengganti kolom.
 - Pada sesi baru, tetapkan satu timestamp awal yang lengkap. Untuk sesi lanjutan, lanjutkan dari timestamp terakhir yang tercatat di percakapan; jangan mengacak waktu awal lagi.
 - Kalender kerja sesi jika belum ada kalender resmi: 12 bulan/tahun, 30 hari/bulan; bulan 1–3 Semi, 4–6 Panas, 7–9 Gugur, 10–12 Dingin; siklus hari Senin sampai Minggu berulang. Kalender yang sudah berjalan tidak boleh diganti di tengah sesi.
 - Majukan jam, tanggal, dan hari hanya sesuai durasi aksi serta kejadian yang benar-benar berlangsung. Terapkan pergantian tanggal, bulan, tahun, dan musim secara konsisten.
@@ -47,6 +47,18 @@ Tujuan Saat Ini: ...
 - Narasi harus imersif, tetapi hanya memuat kejadian nyata dalam sesi, informasi yang bisa diketahui karakter, dan konsekuensi yang didukung aturan. Pisahkan pengetahuan GM tentang rahasia dari pengetahuan karakter. Jangan memberi karakter pengetahuan yang belum mereka peroleh.
 - Profil harus mencerminkan keadaan terkini setelah konsekuensi giliran tersebut. Jangan memulihkan HP, menghapus luka, menciptakan barang, atau mengubah saldo tanpa alasan yang sah.
 - Jangan menambahkan field terpisah bernama **Law** atau **Spirit Rings**. Martial Soul mencakup wujud/jenis jiwa bela diri; rincian ring, teknik, dan kemampuan dicatat pada **Teknik / Kemampuan** atau deskripsi Martial Soul.
+
+## Protokol Bootstrap dan Pencatatan Ekonomi — WAJIB
+
+- **Sesi baru, karakter terdaftar:** gunakan `players.md` sebagai titik awal, baca template ini dan modul yang relevan, lalu tetapkan timestamp awal satu kali. Jangan menciptakan kejadian sebelum sesi dimulai.
+- **Sesi berlanjut:** gunakan profil gameplay terakhir dan semua kejadian setelahnya. Jangan mengembalikan saldo, inventaris, HP, kondisi, atau waktu ke nilai awal di `players.md`.
+- **Karakter baru:** jika nama/lokasi tidak tersedia dan tidak dapat disimpulkan, tanyakan detail minimum yang diperlukan. Bila latar tersedia, isi field praktis dengan estimasi GM yang masuk akal dan tandai sebagai estimasi.
+- **Setiap giliran:** cocokkan profil dengan kejadian terbaru. Perubahan status harus punya penyebab yang jelas; jangan diam-diam mengubah nilai.
+- **Transaksi uang:** sebelum membeli, menjual, menawar, menilai harga, menerima pembayaran/hadiah, atau mengubah saldo, GM wajib membaca `core/10_ECONOMY_SYSTEM.md`. Gunakan kurs resmi yang tercantum di sana dan hitung saldo dengan benar. Jangan mengarang kurs baru.
+- Setiap transaksi harus tercermin dalam narasi sebagai catatan singkat yang menyebut barang/layanan, kuantitas, harga, serta saldo setelah transaksi. Jika diperlukan, sebutkan harga dasar, tier kualitas, kelangkaan, dan penyesuaian pasar yang mendasari harga.
+- **Tidak ada transaksi yang tercatat = saldo tidak berubah.** Jangan mengubah saldo karena pergantian adegan, bootstrap, atau penyusunan ulang profil.
+- Jangan menambahkan field transaksi baru ke bingkai profil. Catatan transaksi masuk ke narasi/riwayat gameplay; saldo terkini tetap pada field `Currency (xuan/zun)`.
+- Saat menghitung atau menormalisasi saldo, gunakan kurs resmi: 100 xc = 1 xs; 100 xs = 1 xg; 1.000 xg = 1 zj; 10 zj = 1 az. Pertahankan pecahan dalam format profil yang diwajibkan, dan jangan melakukan konversi tanpa alasan transaksi yang sah.
 
 ## Aturan Mengisi Data yang Tidak Disebutkan — WAJIB
 

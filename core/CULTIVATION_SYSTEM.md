@@ -13,17 +13,17 @@ Setiap Realm memiliki empat Stage: Early (Awal), Middle (Menengah), Late (Akhir)
 
 | Urutan | Realm | Jumlah slot Spirit Ring setelah slot Realm itu terbuka |
 |---:|---|---:|
-| 1 | Realm 1 — nama belum ditetapkan | 1 |
-| 2 | Realm 2 — nama belum ditetapkan | 2 |
-| 3 | Realm 3 — nama belum ditetapkan | 3 |
-| 4 | Realm 4 — nama belum ditetapkan | 4 |
-| 5 | Realm 5 — nama belum ditetapkan | 5 |
-| 6 | Realm 6 — nama belum ditetapkan | 6 |
-| 7 | Realm 7 — nama belum ditetapkan | 7 |
-| 8 | Realm 8 — nama belum ditetapkan | 8 |
-| 9 | Realm 9 — Spirit Primordial | 9 |
+| 1 | Spirit Initiate | 1 |
+| 2 | Spirit Adept | 2 |
+| 3 | Spirit Expert | 3 |
+| 4 | Spirit Elder | 4 |
+| 5 | Spirit Ancestor | 5 |
+| 6 | Spirit King | 6 |
+| 7 | Spirit Emperor | 7 |
+| 8 | Spirit Saint | 8 |
+| 9 | Spirit Monarch | 9 |
 
-Satu Realm memberikan satu slot Spirit Ring, sehingga batas normal sistem ini adalah sembilan slot pada Realm kesembilan. Nama Realm 9, Spirit Primordial, sudah tercantum di WORLD.md dan harus dipertahankan. Nama Realm 1–8 belum ditetapkan dalam WORLD.md; jangan mengarang nama canon. Jangan menambahkan Realm kesepuluh atau slot tambahan tanpa revisi canon oleh pemilik.
+Satu Realm memberikan satu slot Spirit Ring, sehingga batas normal sistem ini adalah sembilan slot pada Realm kesembilan. Nama Realm 1–9 telah ditetapkan dan harus dipertahankan secara konsisten di seluruh repository. Jangan menambahkan Realm kesepuluh atau slot tambahan tanpa revisi canon oleh pemilik.
 
 Nama dan jumlah slot menunjukkan struktur kultivasi, bukan jaminan bahwa dua orang dalam Realm yang sama memiliki kekuatan tempur identik.
 
@@ -31,7 +31,7 @@ Nama dan jumlah slot menunjukkan struktur kultivasi, bukan jaminan bahwa dua ora
 
 Martial Soul adalah bentuk kekuatan utama seseorang. Bentuknya dapat berupa, misalnya, senjata, tumbuhan, atau hewan; kategori dan kemampuan spesifik harus mengikuti modul Martial Soul ketika tersedia.
 
-Rincian usia, upacara, dan prosedur awakening belum ditetapkan dalam WORLD.md. Jangan menetapkan usia atau prosedur awakening sebagai canon tanpa sumber resmi. Awakening tidak otomatis memberikan Spirit Ring pertama.
+Awakening Martial Soul berlangsung pada usia empat tahun atau lebih. Awakening mengungkap Martial Soul, tetapi tidak otomatis memberikan Spirit Ring pertama.
 
 Spirit Ring pertama harus diperoleh melalui proses tersendiri yang sah. Jangan memberikan Spirit Ring, kemampuan ring, atau slot yang telah terisi hanya karena karakter sudah mengalami awakening.
 
@@ -91,18 +91,20 @@ Tidak ada batas usia Spirit Ring yang mutlak hanya berdasarkan angka usia. Keses
 
 ## 6. Penaklukan Beast, Penyerapan, dan Sinkronisasi
 
-Aturan rinci untuk mengalahkan Spirit Beast, kemunculan Spirit Ring, penyerapan, sinkronisasi, dan konsekuensi kegagalan belum tersedia dalam modul khusus yang dapat dibaca. Karena itu:
+Penaklukan Spirit Beast dan proses penyerapan Spirit Ring adalah bagian yang berbeda:
 
-- Jangan menganggap kekalahan Beast otomatis menghasilkan Spirit Ring yang dapat diserap.
-- Jangan mengasumsikan ring muncul mengambang di atas Beast kecuali aturan resmi yang tersedia secara eksplisit menetapkannya.
-- Jangan mengarang prosedur penaklukan, penyerapan sukarela/paksa, angka kompatibilitas, peluang keberhasilan, durasi, biaya, atau risiko kegagalan.
-- Jangan mewajibkan lokasi meditasi aman untuk penyerapan kecuali aturan resmi menetapkannya. Batas waktu meditasi kultivasi biasa tetap mengikuti INDEX dan modul waktu yang tersedia.
-- Penyerapan dan breakthrough hanya boleh diselesaikan sejauh mekanik resmi yang benar-benar tersedia mendukungnya. Jika detail penting belum ada, nyatakan keterbatasan dan jangan menyulap asumsi menjadi canon.
+- Perburuan Spirit Beast dapat berlangsung di hutan atau lokasi berbahaya. Jangan mewajibkan karakter membawa Beast ke lokasi meditasi aman sebelum menyelesaikan perburuan.
+- Setelah Spirit Beast dikalahkan, Spirit Ring muncul mengambang di atas tubuh Beast.
+- Meditasi kultivasi dilakukan di tempat aman dan stasioner untuk meningkatkan kekuatan serta kompatibilitas.
+- Saat progres mencapai 100% dan karakter berada di bottleneck, Spirit Ring berikutnya menjadi bagian dari proses penyerapan dan breakthrough.
+- Sinkronisasi 100% nyaris mustahil melalui penyerapan paksa. Jika Spirit Beast secara sukarela menyerahkan ringnya, sinkronisasi 100% lebih mungkin dicapai, tetapi tidak dijamin.
+- Usia Spirit Ring tidak memiliki batas mutlak hanya berdasarkan angka; toleransi tubuh dan kompatibilitas tetap menentukan. Rentang warna ring tetap mengikuti tabel di atas, sementara warna untuk usia 500.000 tahun ke atas belum ditetapkan.
+- Jangan mengarang rumus kompatibilitas, peluang numerik, durasi, biaya sumber daya, atau risiko spesifik yang belum disepakati.
 
 ## 7. Konsistensi dengan WORLD.md
 
 - WORLD.md adalah acuan utama untuk lore dan fakta dunia yang sudah ditetapkan.
-- Tiga penguasa utama yang tercatat di WORLD.md berada di Realm 9 — Spirit Primordial; Stage masing-masing harus mengikuti WORLD.md: Emperor berada di Middle, sedangkan Maharaja dan Leluhur Utara berada di Early.
+- Tiga penguasa utama yang tercatat di WORLD.md berada di Realm 9 — Spirit Monarch; Stage masing-masing harus mengikuti WORLD.md: Emperor berada di Middle, sedangkan Maharaja dan Leluhur Utara berada di Early.
 - Konfigurasi Spirit Ring para penguasa di WORLD.md berstatus rancangan kanon awal. Pertahankan usia ring dan status warna yang tertulis; jangan mengubah `Undefined` menjadi warna baru.
 - Warna Spirit Ring untuk usia 500.000 tahun ke atas belum ditetapkan, walaupun WORLD.md mencantumkan ring dengan usia tersebut.
 - Jika tabel umum sistem dan konfigurasi karakter spesifik tampak berbeda, pertahankan fakta spesifik yang tercatat di WORLD.md dan tandai konflik untuk ditinjau; jangan diam-diam mengubah lore.
@@ -115,4 +117,4 @@ Aturan rinci untuk mengalahkan Spirit Beast, kemunculan Spirit Ring, penyerapan,
 4. Jangan mengklaim membaca modul yang belum tersedia.
 5. Jangan menciptakan rumus, statistik, peluang, bonus, atau pengecualian baru sebagai canon.
 6. Jika suatu aksi memerlukan aturan rinci yang belum ditetapkan, jelaskan keterbatasannya dan selesaikan hanya bagian yang didukung sumber.
-7. Profil karakter harus mencerminkan Realm, Stage, progres, dan seluruh Spirit Ring yang benar-benar diperoleh dalam riwayat permainan. Data ring harus tetap tercatat meskipun template belum memiliki field khusus. Jangan mengisi slot atau menaikkan Realm tanpa proses yang sah.
+7. Profil karakter harus mencerminkan Realm, Stage, dan progres. Jangan menambahkan field terpisah untuk Spirit Ring; jumlah slot mengikuti Realm, sementara kemampuan ring yang sudah diperoleh dicatat dalam bagian Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada. Jangan mengisi slot atau menaikkan Realm tanpa proses yang sah.

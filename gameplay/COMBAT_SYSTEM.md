@@ -7,8 +7,8 @@
 
 - Use this module for combat resolution, `core/SPIRIT_RING_RULES.md` for PowerScale/Qi, and `core/HP_SYSTEM.md` for maximum HP.
 - PowerScale is a baseline comparison, not a guaranteed hit or victory.
-- A turn is a combatant's opportunity to perform **one declared action**. It is not a limit of one physical hit: an action may contain several strikes when the established move or circumstances support them.
-- Do not invent combo rules, extra hits, bonus damage, techniques, equipment, costs, or effects. A dedicated combo rule can be added later without changing this basic turn structure.
+- A turn is a combatant's opportunity to perform **one declared action**, not a limit of one physical hit. One action may contain multiple strikes or a combo when the move, declared intent, and circumstances support them.
+- Use §5 for the default combo rule. Do not invent additional hits, damage bonuses, techniques, equipment, resource costs, or effects beyond that rule or a documented ability.
 - Resolve actions in order and apply consequences. Do not decide the whole fight with one roll.
 - Death is permanent unless an established official mechanic says otherwise.
 
@@ -71,11 +71,14 @@ Then apply only a defense that is actually present and relevant:
 
 Round final damage up to a whole HP; a successful damaging hit deals at least 1 HP. Record damage as `HP lost: N (X% of target maximum HP)`. Use target maximum HP as the damage base, but subtract the result from current HP. If current or maximum HP is unknown, do not fabricate it; consult `core/HP_SYSTEM.md`.
 
-## 5. Multiple Hits, Combos, and Special Effects
+## 5. Multiple Hits and Combos
 
-- One declared action can contain multiple hits when the established move or situation supports them. Do not force every strike into a separate turn merely because there are multiple hits.
-- **Combo bonuses are not defined yet.** A future combo rule can grant additional attacks/bonuses once its conditions and effects are decided. Until then, do not award extra hits, damage, accuracy, or other bonuses merely because the narration calls something a combo.
-- For a documented multi-hit move, apply only the number of hits and effects supported by its description. If the move does not define how its hits resolve, state the uncertainty and avoid inventing precision.
+- One declared action can contain multiple hits. Never force every strike into a separate turn solely because the action contains more than one hit.
+- **Default combo:** when the player declares a combo, or the established move clearly supports a chained attack, the first strike must hit to unlock **one bonus follow-up strike** in the same action. The character must have a plausible technique, opening, and physical ability to continue the chain; a combo label alone cannot bypass those requirements.
+- Resolve the follow-up as a separate hit: make a separate hit roll using the same combat-rating method, then calculate its damage using **50% of the original strike's base-damage percentage** before the normal Power adjustment and applicable defense. Round damage normally; a successful damaging hit still deals at least 1 HP.
+- The default rule grants at most **one bonus follow-up strike per declared action**. More hits or a different bonus are allowed only when a documented move or ability explicitly supports them. Do not stack an extra general damage bonus on top of the follow-up hit.
+- If the opening strike misses, the default combo follow-up does not occur. A follow-up may be interrupted, blocked, or evaded only when the situation and established abilities support that response; resolve each strike and its consequences before continuing.
+- For a documented multi-hit move, use its stated number of hits and effects instead of the default one-follow-up limit when the move explicitly provides a different rule. If its hit resolution is undefined, use the default rule where applicable and do not invent further precision.
 - Control, piercing, area attacks, damage over time, healing, counters, and other special effects use their documented effects. Do not force them into a damage formula when their main effect is not HP damage.
 - Do not apply a full single-target damage value to every target of an area attack unless its documented rules support that result.
 

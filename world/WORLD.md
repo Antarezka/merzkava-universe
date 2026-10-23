@@ -3,7 +3,7 @@ XUANLING REALM — WORLD LORE & POLITICAL ATLAS
 «Document Type: Core Worldbuilding
 Status: Canon Foundation
 Scope: World Powers, Territories, Factions, Political Relations, Medicine Hall Society, Population, and Ruling Powers
-Related Modules: "MAP_AND_REGIONS.md", "FACTIONS.md", "ECONOMY.md", "HISTORY.md", "ARTIFACTS_AND_RELICS.md"»
+Related Modules (planned or available; verify before use): "world/MAP_AND_REGIONS.md", "world/FACTIONS.md", "world/ECONOMY.md", "world/HISTORY.md", "world/ARTIFACTS_AND_RELICS.md", "core/CULTIVATION_SYSTEM.md", "core/MARTIAL_SOUL.md", "core/SPIRIT_RING_RULES.md", "bestiary/SPIRIT_BEAST_RULES.md". WORLD.md remains the primary source for world lore; a listed path does not prove the file exists.»
 
 ---
 

@@ -33,7 +33,7 @@ Tujuan Saat Ini: ...
 
 ## Protokol Konsistensi Waktu
 
-- Gunakan dua baris header waktu dalam format yang persis sama pada setiap balasan gameplay: `🕒 Waktu Xuanling Realm` lalu `Tahun: XXXX, [Era sesi] | Musim: [Semi/Panas/Gugur/Dingin] | Tanggal: DD Bulan MM | Hari: [Senin–Minggu] | Cuaca: ... | Jam: HH:MM`. Era sesi wajib terisi sebagai nama era sesi, bukan teks placeholder. Jangan menambah, menghilangkan, atau mengganti kolom.
+- Gunakan dua baris header waktu dalam format yang persis sama pada setiap balasan gameplay: `🕒 Waktu Xuanling Realm` lalu `Tahun: XXXX, [Era sesi] | Musim: [Semi/Panas/Gugur/Dingin] | Tanggal: DD Bulan MM | Hari: [Senin–Minggu] | Cuaca: ... | Jam: HH:MM`. Era sesi wajib terisi sebagai label yang konsisten; bila nama era canon tidak tersedia, gunakan label netral seperti `Era Sesi 1`, bukan nama era resmi rekaan. Jangan menambah, menghilangkan, atau mengganti kolom.
 - Pada sesi baru, tetapkan satu timestamp awal yang lengkap. Untuk sesi lanjutan, lanjutkan dari timestamp terakhir yang tercatat di percakapan; jangan mengacak waktu awal lagi.
 - Kalender kerja sesi jika belum ada kalender resmi: 12 bulan/tahun, 30 hari/bulan; bulan 1–3 Semi, 4–6 Panas, 7–9 Gugur, 10–12 Dingin; siklus hari Senin sampai Minggu berulang. Kalender yang sudah berjalan tidak boleh diganti di tengah sesi.
 - Majukan jam, tanggal, dan hari hanya sesuai durasi aksi serta kejadian yang benar-benar berlangsung. Terapkan pergantian tanggal, bulan, tahun, dan musim secara konsisten.
@@ -74,15 +74,16 @@ Tujuan Saat Ini: ...
 
 Pilih satu alur sebelum menulis gameplay:
 
-1. **Sesi baru dengan karakter terdaftar:** baca `INDEX.md`, `templates/GM_PROMPT.md`, entri `players.md`, template ini, `core/HP_SYSTEM.md`, serta modul waktu/lokasi dan mekanik yang diperlukan. Gunakan registry sebagai state awal saja. Tetapkan satu timestamp lengkap dan mulai adegan langsung; jangan tampilkan laporan teknis bootstrap.
-2. **Sesi berlanjut:** gunakan profil gameplay terakhir dan semua kejadian setelahnya. Jangan memuat ulang statistik awal dari registry, mengulang timestamp awal, atau menghapus konsekuensi.
-3. **Karakter baru:** gunakan sumber resmi yang relevan. Tanyakan hanya nama/lokasi awal yang benar-benar diperlukan dan belum dapat disimpulkan. Jangan menyatakan asumsi GM sebagai fakta yang diberikan pemain.
+1. **Setiap giliran gameplay:** fetch dan baca versi terbaru `INDEX.md` serta `templates/GM_PROMPT.md`; lalu fetch hanya modul yang relevan dengan aksi/kondisi saat ini. Jangan menganggap ingatan atau daftar di INDEX sebagai pengganti isi modul, dan jangan mengaku membaca file yang gagal diakses.
+2. **Sesi baru dengan karakter terdaftar:** baca entri `players.md`, template ini, `core/HP_SYSTEM.md`, serta modul waktu/lokasi dan mekanik yang diperlukan. Gunakan registry sebagai state awal saja. Tetapkan satu timestamp lengkap dan mulai adegan langsung; jangan tampilkan laporan teknis bootstrap.
+3. **Sesi berlanjut:** gunakan profil gameplay terakhir dan semua kejadian setelahnya. Jangan memuat ulang statistik awal dari registry, mengulang timestamp awal, atau menghapus konsekuensi.
+4. **Karakter baru:** gunakan sumber resmi yang relevan. Tanyakan hanya nama/lokasi awal yang benar-benar diperlukan dan belum dapat disimpulkan. Jangan menyatakan asumsi GM sebagai fakta yang diberikan pemain.
 
 Sebelum respons gameplay, pastikan urutan tetap **timestamp dua baris → heading Narasi → profil lengkap**. Format timestamp harus sama dengan contoh di atas, termasuk kolom `[Era sesi]`; setelah waktu awal ditetapkan, lanjutkan dari timestamp terakhir yang sah. Setiap field profil tetap ada meskipun nilainya belum diketahui.
 
 ## Protokol Transaksi dan Saldo — WAJIB
 
-- Saldo awal harus berasal dari registry atau estimasi awal GM yang masuk akal dan ditandai sebagai estimasi; jangan menciptakan riwayat transaksi sebelum sesi.
+- Saldo awal harus berasal dari registry. Jika belum tercatat dan bootstrap memerlukan nilai konkret, gunakan estimasi awal GM yang masuk akal, tandai sebagai estimasi, dan jangan menciptakan riwayat transaksi sebelum sesi.
 - Ubah saldo hanya setelah transaksi benar-benar disepakati dan terlaksana. Harga yang disebut, tawaran, atau negosiasi yang belum selesai tidak mengubah saldo.
 - Saat transaksi, appraisal, tawar-menawar, atau perubahan uang, baca `core/10_ECONOMY_SYSTEM.md`. Kurs resmi: 100 xc = 1 xs; 100 xs = 1 xg; 1.000 xg = 1 zj; 10 zj = 1 az.
 - Hitung saldo tanpa kehilangan sisa. Jika diperlukan, hitung melalui xc sebagai satuan hitung, lalu tampilkan saldo dalam format wajib `...xc | ...xs | ...xg | ...zj | ...az`. Jangan mengarang harga regional atau membulatkan saldo.
@@ -97,7 +98,7 @@ Sebelum respons gameplay, pastikan urutan tetap **timestamp dua baris → headin
 5. **Martial Soul:** gunakan data canon yang sudah ditetapkan. Jika belum awakening, jangan menyimpulkan hanya dari status Mortal; gunakan petunjuk latar dan aturan awakening. Bila benar-benar belum diketahui, tandai `???` dan catat statusnya untuk GM.
 6. **Thinker Grade:** gunakan angka Grade 1–10 sesuai modul Thinker. Jika modul atau dasar penilaiannya belum tersedia, gunakan `???` dan jangan menciptakan aturan Grade baru.
 7. **HP:** gunakan `HP saat ini/HP maksimum` sesuai `core/HP_SYSTEM.md`. Jangan otomatis mengisi HP saat ini dengan nilai maksimum. Jika rumus resmi belum tersedia, jangan mengarang angka yang diklaim berasal dari sistem; gunakan perkiraan awal GM yang ditandai jelas bila perlu untuk memulai permainan.
-8. **Qi:** jika karakter belum menyerap Spirit Ring pertama, tulis tepat `...`. Setelah ring pertama berhasil diserap, gunakan `Qi saat ini/Qi maksimum` sesuai `core/SPIRIT_RING_RULES.md`.
+8. **Qi:** ikuti `core/SPIRIT_RING_RULES.md`. Sebelum awakening, Mortal memiliki `Qi: 0`; setelah awakening tetapi sebelum ring pertama, tulis `Qi: belum terbentuk (belum ada cincin)`; setelah ring pertama berhasil diserap, gunakan `Qi saat ini/Qi maksimum` sesuai modul.
 9. **Currency:** gunakan format persis `...xc | ...xs | ...xg | ...zj | ...az`. Jika saldo tidak disebutkan, wajib tetapkan perkiraan kasar dan isi semua pecahan; jangan meninggalkan seluruh saldo sebagai `???`. Jangan mengklaim nilai tukar resmi jika belum ada aturan resmi.
 10. **Kondisi Tubuh, Equipment, Inventory, Assets, Teknik / Kemampuan, dan Tujuan Saat Ini:** isi berdasarkan latar serta kejadian. Jika detail tidak eksplisit tetapi dapat diperkirakan, tetapkan estimasi GM yang masuk akal. Catat kondisi tersembunyi secara terpisah sebagai informasi khusus GM.
 

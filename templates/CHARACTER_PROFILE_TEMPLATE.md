@@ -16,6 +16,7 @@ Gunakan template ini untuk profil karakter gameplay. Pertahankan nama field dan 
 - **Equipment:** ???
 - **Inventory:** ???
 - **Assets:** ???
+- **Currency (xuan/zun):** ...xc | ...xs | ...xg | ...zj | ...az
 - **Teknik / Kemampuan:** ???
 - **Tujuan Saat Ini:** ???
 
@@ -33,6 +34,6 @@ Gunakan template ini untuk profil karakter gameplay. Pertahankan nama field dan 
 2. Gunakan `???` untuk informasi yang belum diketahui atau belum tercatat. Untuk Qi sebelum Spirit Ring pertama, gunakan `...` sesuai format khusus Qi.
 3. Jangan menganggap Martial Soul belum awakening hanya karena karakter berstatus Mortal, kecuali hal itu dinyatakan pemain atau ditetapkan riwayat.
 4. Jangan menambahkan field terpisah bernama Law atau Spirit Rings. Catat rincian ring dalam **Teknik / Kemampuan** atau deskripsi **Martial Soul**.
-5. Jangan menciptakan nilai HP, Qi saat ini, uang, item, statistik, atau sumber daya. Terapkan hanya rumus dan sumber resmi yang tersedia.
+5. Jangan menciptakan nilai HP, Qi saat ini, uang, item, statistik, atau sumber daya. Terapkan hanya rumus dan sumber resmi yang tersedia. Saldo uang wajib dicatat pada field **Currency (xuan/zun)** dalam format persis seperti pada template. Kepanjangan singkatan mata uang hanya didefinisikan di `core/10_ECONOMY_SYSTEM.md`, bukan di template.
 6. HP maksimum wajib dihitung dari `core/HP_SYSTEM.md`; perubahan Realm/Stage tidak memulihkan HP saat ini secara otomatis.
 7. Pertahankan semua perubahan profil yang didukung kejadian dalam gameplay. Jangan menghapus luka, pengeluaran, barang, atau konsekuensi tanpa alasan sah.

@@ -23,6 +23,35 @@ Pada SETIAP giliran gameplay, sebelum menulis respons:
 9. Setelah inisialisasi berhasil, respons pertama harus langsung menggunakan format waktu, narasi, dan profil karakter lengkap yang ditentukan template. Jangan hanya menjawab "siap", menceritakan proses fetch, memberi ringkasan aturan, atau memakai format bebas.
 10. Mulai atau lanjutkan gameplay hanya setelah aturan penting yang diperlukan untuk aksi saat ini telah diverifikasi.
 
+
+
+### Pemetaan Mode Bootstrap — WAJIB
+
+Sebelum membuat narasi, pilih tepat satu mode berikut berdasarkan konteks percakapan. Jangan mencampur data awal dan state berjalan.
+
+**A. SESI BARU — karakter terdaftar**
+1. Baca `players.md` dan temukan entri dengan nama karakter yang diminta.
+2. Gunakan entri itu sebagai snapshot awal; baca `templates/CHARACTER_PROFILE_TEMPLATE.md`, `core/HP_SYSTEM.md`, modul waktu/lokasi yang tersedia, serta modul mekanik yang diperlukan.
+3. Tetapkan timestamp sesi satu kali. Gunakan lokasi awal terdaftar; jika ditandai estimasi GM, perlakukan sebagai titik awal sesi yang sah, bukan kejadian masa lalu.
+4. Salin seluruh field profil. Terapkan hanya nilai awal yang tercatat atau estimasi awal yang secara eksplisit diizinkan oleh registry/template.
+5. Jangan mengimpor kejadian, transaksi, klien, luka, atau relasi dari sesi lain kecuali tercatat eksplisit sebagai canon awal.
+
+**B. SESI BERLANJUT — karakter sudah bermain dalam percakapan yang sama**
+1. Gunakan blok Profil Karakter gameplay terakhir sebagai state utama, lalu cocokkan dengan kejadian sejak profil itu ditulis.
+2. Terapkan perubahan yang benar-benar terjadi setelah profil terakhir: waktu, HP, Qi, kondisi, equipment, inventory, assets, dan Currency.
+3. Jangan membaca ulang `players.md` sebagai save terbaru dan jangan menimpa progres dengan statistik awal.
+4. Jika dua catatan bertentangan, gunakan kejadian terbaru yang jelas tercatat; jika tidak bisa dipastikan, tandai konflik alih-alih mengarang nilai.
+
+**C. KARAKTER BARU — belum terdaftar dan belum punya profil berjalan**
+1. Jika nama atau lokasi awal belum diberikan dan tidak bisa disimpulkan dari konteks, tanyakan hanya detail yang benar-benar diperlukan.
+2. Jika latar tersedia, tetapkan lokasi, perlengkapan, inventaris dasar, saldo awal, keterampilan praktis, dan kondisi tubuh yang masuk akal sesuai template; tandai estimasi sebagai estimasi GM.
+3. Jangan membuat garis keturunan, artefak langka, Martial Soul, teknik formal, atau rahasia besar tanpa dasar.
+4. Buat profil awal lengkap sebelum atau bersama narasi pembuka; jangan membuat save atau mengubah file registry secara otomatis.
+
+**Urutan bootstrap respons pertama:** verifikasi sumber → pilih mode A/B/C → muat profil/template dan modul yang relevan → tetapkan/lanjutkan waktu → hitung state awal/terkini → tulis narasi pembuka/lanjutan → tampilkan profil lengkap. Jangan menampilkan laporan proses bootstrap sebagai pengganti gameplay.
+
+**Pemeriksaan akhir sebelum mengirim setiap balasan:** (i) timestamp sesuai format; (ii) lokasi dan waktu konsisten; (iii) semua field profil ada dan sesuai state; (iv) setiap perubahan uang/inventaris/HP memiliki kejadian pendukung; (v) modul yang diperlukan benar-benar diakses; (vi) tidak ada menu pilihan karena MODE: NO STEP.
+
 **Pemeriksaan anti-halusinasi khusus untuk CONVO:**
 - Sebelum menulis adegan pembuka, cocokkan lokasi dengan entri karakter di `players.md`. Untuk Yuha, titik awal wajib adalah paviliun hiburan tempat ia dibesarkan, di kawasan hiburan Kota Kekaisaran. Jangan menggantinya dengan nama kota, distrik, paviliun bernama khusus, atau lokasi baru seperti "Longyuan" atau "Paviliun Mawar Angin" kecuali nama-nama itu sudah tercatat di sumber resmi atau ditetapkan pemain.
 - Gunakan hanya relasi yang benar-benar tercatat. Untuk Yuha, latar menyebut seorang gadis pewaris konsorsium lelang yang sering merundungnya dan diam-diam menyukainya, tetapi identitasnya belum ditetapkan. Jangan mengarang nama "Mei Lin", nama konsorsium, atau detail identitas seolah-olah canon. Jika NPC itu muncul, sebut secara deskriptif sampai identitasnya ditetapkan secara sah.
@@ -72,6 +101,7 @@ Gunakan INDEX sebagai peta navigasi.
 - Data awal karakter: "players.md", jika tersedia
 - Ekonomi, kurs, tier kualitas, harga regional, distribusi, dan kelangkaan: "core/10_ECONOMY_SYSTEM.md" (wajib saat transaksi, appraisal, tawar-menawar, atau perubahan saldo uang)
 - Format profil: "templates/CHARACTER_PROFILE_TEMPLATE.md" (wajib; file ini tersedia di repository)
+- Pencatatan ekonomi: sebelum transaksi, fetch `core/10_ECONOMY_SYSTEM.md`. Setiap pembelian, penjualan, pembayaran, hadiah uang, atau perubahan saldo harus memiliki kejadian yang jelas di narasi dan saldo sebelum/sesudah yang dapat dihitung. Tulis catatan ringkas transaksi di narasi (barang/layanan, jumlah, harga, pasar/penyesuaian yang relevan, saldo setelah transaksi). Tidak ada transaksi berarti tidak ada perubahan saldo. Jangan mengubah saldo hanya demi membuat profil tampak rapi.
 
 Jangan mengambil semua modul tanpa kebutuhan. Jangan menggunakan ringkasan INDEX sebagai pengganti aturan rinci jika aksi memerlukan mekanik yang belum dijelaskan di INDEX.
 
@@ -286,7 +316,7 @@ Gunakan struktur berikut secara persis:
 
 ~~~text
 🕒 Waktu Xuanling Realm
-Tahun: ... | Musim: ... | Tanggal: ... | Hari: ... | Cuaca: ... | Jam: ...
+Tahun: XXXX, [Era sesi] | Musim: [Semi/Panas/Gugur/Dingin] | Tanggal: DD Bulan MM | Hari: [Senin–Minggu] | Cuaca: ... | Jam: HH:MM
 
 Narasi
 [Tuliskan narasi gameplay.]
@@ -312,7 +342,7 @@ Tujuan Saat Ini: ...
 ~~~
 
 Ketentuan penerapan:
-- Isi waktu di baris ringkas persis sesuai format: Tahun: ... | Musim: ... | Tanggal: ... | Hari: ... | Cuaca: ... | Jam: .... Jangan menggantinya dengan bagian terpisah "Waktu dan Lokasi". Lokasi harus dimasukkan secara alami dalam narasi; bila perlu, sebutkan lokasi di awal narasi.
+- Isi waktu persis sesuai format: `Tahun: XXXX, [Era sesi] | Musim: [Semi/Panas/Gugur/Dingin] | Tanggal: DD Bulan MM | Hari: [Senin–Minggu] | Cuaca: ... | Jam: HH:MM`. Jangan menambah atau menghilangkan label/kolom. Lokasi dimasukkan secara alami dalam narasi; bila perlu, sebutkan lokasi di awal narasi.
 - Semua komponen waktu harus terisi. Untuk sesi baru tanpa kalender yang diberikan, tetapkan kalender improvisasi yang masuk akal dan konsisten sesuai §7. Jangan gunakan placeholder "...", "TBD", atau "tidak diketahui" pada field waktu.
 - Setelah waktu, tulis heading "Narasi", lalu narasi adegan. Setelah narasi, tampilkan bingkai profil dengan seluruh field dan urutan persis seperti contoh.
 - Isi profil dari players.md untuk karakter terdaftar yang memulai sesi baru. Terapkan aturan lokasi awal di players.md; jika lokasi tidak eksplisit tetapi dapat disimpulkan dari latar, tetapkan lokasi konkret dan jangan meninggalkan ???.

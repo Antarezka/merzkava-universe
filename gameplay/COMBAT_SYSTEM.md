@@ -1,208 +1,111 @@
-# Xuanling Realm — Turn-Based Combat System
+# Xuanling Realm — Combat System
 
-**Status:** Official combat mechanics v1.
-**Scope:** Turn order, initiative, comparative combat power, hit chance, damage as a percentage of HP, defense, injury, Realm-gap consequences, and Thinker/Artificial Artifact integration.
+**Status:** Combat baseline v1.  
+**Purpose:** Give the GM one repeatable method for resolving varied fights without inventing abilities or overloading every scene with calculations.
 
-This module uses `core/HP_SYSTEM.md` for maximum HP and `core/SPIRIT_RING_RULES.md` for PowerScale, ring age, compatibility, and Qi. It does not replace those formulas.
+## 1. Core Rules
 
-## 1. Core Principles
+- Use this module for combat resolution, `core/SPIRIT_RING_RULES.md` for PowerScale/Qi, and `core/HP_SYSTEM.md` for maximum HP.
+- PowerScale is a baseline comparison, not a guaranteed hit or victory.
+- A turn is a combatant's opportunity to perform **one declared action**. It is not a limit of one physical hit: an action may contain several strikes when the established move or circumstances support them.
+- Do not invent combo rules, extra hits, bonus damage, techniques, equipment, costs, or effects. A dedicated combo rule can be added later without changing this basic turn structure.
+- Resolve actions in order and apply consequences. Do not decide the whole fight with one roll.
+- Death is permanent unless an established official mechanic says otherwise.
 
-In formulas, `clamp(min, max, x)` means: use `min` if `x` is below the minimum, use `max` if `x` is above the maximum, otherwise use `x` unchanged.
+## 2. Resolve Each Turn
 
-- Combat is turn-based. Resolve one meaningful combat action per turn, then update the scene and state before the next action.
-- PowerScale is the baseline comparison for characters whose PowerScale can be calculated. It is not damage, a hit guarantee, or an automatic victory.
-- Readiness, technique, usable energy, position, awareness, and relevant equipment affect combat outcomes.
-- Do not invent a character's equipment, techniques, ring age, Qi, HP, artifact functions, or combat history.
-- A fight is resolved through the sequence of actions and consequences, not by a single roll that automatically decides the whole battle.
-- Death remains permanent unless an established official mechanic explicitly prevents it.
-- If a required numerical input is unknown or PowerScale cannot be calculated for a combatant, do not fabricate a precise Combat Power. Resolve only the supported parts and identify the missing input.
+Follow this short sequence:
 
-## 2. Initiative — Who Acts First
+1. **Initiative:** Respect an attack already underway, an ambush, or a clear established advantage. If neither side has initiative, both roll virtual d100; higher result acts first, ties reroll.
+2. **Action and feasibility:** Identify the declared action, its target, range, required ability, current resources, and whether the character can perform it in the current situation.
+3. **Compare combat readiness:** Use the PowerScale baseline and only relevant, evidenced advantages or disadvantages. Do not count the same advantage twice.
+4. **Resolve the action:** Determine hit/miss, defense, damage, and any documented special effect.
+5. **Update state:** Record HP/Qi or stamina changes, injuries, position, equipment, and elapsed time when they actually change. Stop at a natural decision point.
 
-Use the first applicable rule:
+Initiative determines who acts first; it does not guarantee a hit. A defender may block, evade, counter, or be interrupted only when the situation and established abilities support it.
 
-1. **Established action:** If a combatant has already launched a valid attack, prepared an ambush, or gained initiative through a clearly established event, resolve that advantage first.
-2. **Clear situational advantage:** If position, awareness, speed, restraint, or another recorded fact clearly gives one side initiative, that side acts first. Explain the cause.
-3. **Unclear initiative:** Each side rolls a virtual d100 (1–100). The higher result acts first. A tie is rerolled. State the rolls; never claim a roll occurred unless it was actually resolved.
+## 3. Combat Rating and Hit Chance
 
-Initiative decides order, not whether an attack automatically hits. A first strike can still miss, be blocked, or be countered when the established situation allows it.
+When both characters have a valid PowerScale:
 
-## 3. Combat Readiness Inputs
+**Combat Rating = PowerScale × Readiness Factor × Relevant Artifact Factor**
 
-Before calculating an attack, record E, T, and Q from established facts. E, T, and Q are scores/percentages from 0–100; S is a situation multiplier selected from the table below. These are temporary combat calculations, not new character-profile fields.
+- **Readiness Factor:** choose one overall factor based on the character's current usable energy, applicable technique, equipment, and tactical position.
+- Use **0.80** for a clear severe disadvantage, **0.90** for a disadvantage, **1.00** for neutral/unknown, **1.10** for a clear advantage, and **1.20** for a decisive advantage.
+- Select one factor that best represents the combined situation. Do not add another multiplier or accuracy bonus for the same facts.
+- **Relevant Artifact Factor:** use **1.00** unless an owned, available artifact has a documented effect that matters to this specific action. Do not treat a higher tier as a universal combat bonus.
+- If key information is unknown, do not pretend the rating is exact. Resolve only what the evidence supports, or state which missing fact prevents a precise calculation.
 
-- **E — Equipment readiness:** suitability, condition, protection, and actual availability of equipment for this action.
-- **T — Technique readiness:** relevant technique mastery, control, and suitability for the chosen action.
-- **Q — Energy readiness:** current usable Qi or stamina as a percentage of the character's recorded maximum or supported available capacity. If no valid current/max values exist, mark Q unknown instead of guessing.
-- **S — Situation factor:** the concrete tactical situation, selected from the table below.
+Calculate the ratio:
 
-Do not score a factor from personality or narrative praise alone. Explain the evidence briefly when a score materially affects the result.
+`R = Attacker Combat Rating / Defender Combat Rating`
 
-### Consistent scoring guide for E and T
+**Hit chance = clamp(10%, 90%, 50% + 25% × (R − 1))**
 
-Use these anchors when evidence supports the category; interpolate only when specific evidence justifies it.
+Roll d100. The attack hits if the roll is at or below the hit chance. If the combat rating cannot be calculated, do not invent a numeric hit chance; resolve the supported parts qualitatively.
 
-| Score | Equipment readiness (E) | Technique readiness (T) |
-|---:|---|---|
-| 0 | No usable equipment relevant to the action | No applicable trained technique or demonstrated control |
-| 25 | Poorly suited, damaged, or significantly hindered equipment | Rudimentary control; technique is unreliable in this situation |
-| 50 | Usable basic equipment suitable for the action | Basic, demonstrated control of an applicable technique |
-| 75 | Well-maintained, well-matched equipment with a clear practical benefit | Proficient control of a relevant technique |
-| 100 | Exceptional, directly suited equipment with a documented decisive benefit | Exceptional mastery of a relevant technique, supported by recorded feats or explicit canon |
+## 4. Damage and Defense
 
-Do not assign 100 merely because an item or technique has a high tier. Tier and demonstrated suitability are different. For Q, use the recorded current usable Qi/stamina divided by its recorded maximum/capacity, multiplied by 100; if the capacity or current value is unknown, Q is unknown.
+Use the move's documented effect when it exists. If no specific damage value exists, use this baseline:
 
-### 3.1 Readiness multiplier
-
-When E, T, and Q are all known:
-
-`Readiness = 0.70 + 0.001E + 0.001T + 0.001Q`
-
-Range: 0.70–1.00. This represents reduced effectiveness when combat preparation or usable energy is poor; it does not create power beyond the baseline.
-
-### 3.2 Situation multiplier
-
-| Established situation | Multiplier |
+| Action type | Base damage |
 |---|---:|
-| Severe disadvantage | 0.80 |
-| Disadvantage | 0.90 |
-| Neutral / no supported edge | 1.00 |
-| Advantage | 1.10 |
-| Decisive advantage | 1.20 |
-
-Use only the category supported by current position, awareness, terrain, restraint, numbers, or other concrete circumstances. Do not count the same fact twice. If the situation cannot be assessed, use 1.00 and state the uncertainty.
-
-## 4. Effective Combat Power
-
-For a combatant with a valid PowerScale:
-
-`Effective Combat Power (ECP) = PowerScale × Readiness × Situation × Artifact Factor`
-
-- PowerScale comes only from `core/SPIRIT_RING_RULES.md`.
-- Readiness is calculated by §3.1 when all three inputs are known.
-- Situation is selected under §3.2.
-- Artifact Factor is defined in §7. If no relevant Artificial Artifact effect applies, use 1.00.
-- If a required input is unknown, do not pretend the ECP is exact. Compare only supported values or resolve the action qualitatively until the missing data is established.
-
-PowerScale already includes total Spirit Ring age and overall ring compatibility. Do **not** multiply ring age or compatibility into ECP again. Ring abilities may affect a specific action only through a documented ability or an explicitly established effect.
-
-## 5. Hit Chance
-
-When both combatants have calculable ECP:
-
-`Power Ratio (R) = Attacker ECP / Defender ECP`
-
-`Base Hit Chance = clamp(10, 90, 50 + 25 × (R − 1))%`
-
-Then apply a situational accuracy adjustment only when supported by a concrete, non-duplicated factor:
-
-| Accuracy circumstance | Adjustment |
-|---|---:|
-| Severe disadvantage | −20 percentage points |
-| Disadvantage | −10 percentage points |
-| Neutral | 0 |
-| Advantage | +10 percentage points |
-| Decisive advantage | +20 percentage points |
-
-Final Hit Chance is clamped to **5%–95%**. Do not apply the same positional or awareness advantage both as a Situation multiplier and an accuracy adjustment; choose the place where it matters most.
-
-Resolve the attack with a d100 roll: the attack hits if the result is equal to or below Final Hit Chance. State the chance and roll. A hit still allows defense or mitigation; a miss does not automatically mean the defender gets a free attack.
-
-If ECP cannot be calculated, do not invent a numeric hit chance. Use established narrative facts and the initiative roll only where applicable, and flag the missing combat baseline.
-
-## 6. Damage as a Percentage of Maximum HP
-
-Damage is calculated only after an attack hits and the chosen action is supported by the character's known abilities.
-
-### 6.1 Base damage by action class
-
-| Action class | Base damage |
-|---|---:|
-| Basic physical strike | 5% of target's maximum HP |
+| Basic physical attack | 5% of target maximum HP |
 | Trained combat technique | 8% |
-| Spirit Ring ability / documented special technique | 12% |
-| Decisive or high-output technique | 18% |
+| Spirit Ring ability or documented special technique | 12% |
+| Documented high-output/decisive technique | 18% |
 
-Choose the class based on the actual documented move and its demonstrated scope, not merely the narration used to describe it. The 18% class is not automatically available to every character; the technique must be established and the character must be able to perform it. These percentages are baseline damage before power ratio and defense.
+These are baseline classes, not permission to invent a move. Choose the lowest class that accurately fits the documented action. The 18% class requires a clearly established technique and sufficient ability/resources to use it.
 
-### 6.2 Power-ratio adjustment
+**Power adjustment:** `Damage = Target Max HP × Base Damage % × clamp(0.50, 1.50, √R)`
 
-`Power Damage Factor = clamp(0.50, 1.50, √R)`
+Then apply only a defense that is actually present and relevant:
 
-`Damage before defense = Target Max HP × Base Damage % × Power Damage Factor`
-
-This caps the effect of a large power gap so a single hit does not scale without limit. Round final HP damage up to the nearest whole HP, with a minimum of 1 HP for a successful damaging hit.
-
-### 6.3 Defense reduction
-
-Choose a defense reduction only from established armor, a defensive technique, a barrier, or an applicable artifact effect:
-
-| Demonstrated defense against this attack | Damage reduction |
+| Defense demonstrated against the attack | Reduction |
 |---|---:|
-| No meaningful defense | 0% |
-| Limited defense | 10% |
-| Moderate defense | 25% |
-| Strong defense | 40% |
-| Exceptional defense | 50% |
+| None or ineffective | 0% |
+| Limited | 10% |
+| Moderate | 25% |
+| Strong | 40% |
+| Exceptional, explicitly supported | 50% maximum |
 
-`Final Damage = round up(Damage before defense × (1 − Defense Reduction))`
+Round final damage up to a whole HP; a successful damaging hit deals at least 1 HP. Record damage as `HP lost: N (X% of target maximum HP)`. Use target maximum HP as the damage base, but subtract the result from current HP. If current or maximum HP is unknown, do not fabricate it; consult `core/HP_SYSTEM.md`.
 
-Defense reduction cannot exceed 50% through this generic table. A special ability may exceed this only if its official description explicitly supports it. Do not apply the same defense twice.
+## 5. Multiple Hits, Combos, and Special Effects
 
-Use **target maximum HP** from `core/HP_SYSTEM.md` as the percentage base. Subtract the resulting integer damage from current HP; never set current HP above maximum or automatically restore it when Realm/Stage changes. If current HP or maximum HP is unknown, report the missing value instead of fabricating a final HP total.
+- One declared action can represent a documented sequence of attacks, including a multi-hit technique. Resolve the sequence according to the established move and situation; do not force every strike into a separate turn merely because there are multiple hits.
+- **Combo bonuses are not defined yet.** Do not grant extra hits, damage, accuracy, or other bonuses just because the narration calls something a combo. Add those only when an official combo rule is established.
+- For a documented multi-hit move, apply only the number of hits and effects supported by its description. If the move does not define how its hits resolve, state the uncertainty and avoid inventing precision.
+- Control, piercing, area attacks, damage over time, healing, counters, and other special effects use their documented effects. Do not force them into a damage formula when their main effect is not HP damage.
+- Do not apply a full single-target damage value to every target of an area attack unless its documented rules support that result.
 
-## 7. Thinker and Artificial Artifact Integration
+## 6. Realm Difference and Injury
 
-Thinker Grade is independent from cultivation Realm. The production chance matrix in `core/THINKER_AND_FORMULATION.md` governs **making** an Artificial Artifact; it is not a combat hit chance and must never be reused as one.
+A lower-Realm fighter can defeat a higher-Realm opponent when the recorded situation and relevant advantages support it; Realm alone is not an automatic result.
 
-For combat:
+When the combatants differ by **one Realm**, a damaging hit from the higher-Realm combatant is expected to cause injury to the lower-Realm combatant. Avoiding injury requires clear evidence of an overall advantage that addresses all three:
+1. Better equipment readiness.
+2. More usable Qi/energy for the relevant action.
+3. A meaningful Spirit Ring age/quality or relevant ability advantage.
 
-1. Confirm that the character actually owns, carries, controls, and can activate the Artificial Artifact.
-2. Confirm its recorded tier and documented function. Do not invent powers, range, ammunition, energy source, durability, or limitations.
-3. If an artifact's function is relevant to the current action, apply that documented effect to the applicable step: initiative, ECP, hit chance, damage, defense, range, or battlefield control.
-4. If two Artificial Artifacts directly contest the same function and both tiers and functions are known, use this comparison modifier:
-   - Each tier the acting artifact exceeds the opposing relevant artifact: **+5% Artifact Factor**, up to **+20%** total.
-   - Each tier it falls below the opposing relevant artifact: **−5% Artifact Factor**, down to **−20%** total.
-   - Equal tiers: no tier modifier.
-   - Artifact Factor = 1.00 plus/minus the applicable modifier.
-5. The tier comparison applies only when the artifacts have relevant, comparable functions. A higher-tier artifact does not automatically defeat an unrelated artifact, a cultivator, or a technique. If the opponent has no comparable artifact, do not assign a tier-comparison bonus; use only the artifact's documented function.
-6. Do not apply a tier modifier twice or add an effect already included in E, T, Situation, hit chance, or defense. If the artifact's function is unknown, its combat effect is `???` until established.
+Tactics and technique may contribute, but do not silently replace all three conditions. If the evidence is incomplete, apply at least a light injury and scale severity to the actual event. Do not extrapolate this rule into an invented universal multiplier for larger Realm gaps.
 
-Relics, Ancient Artifacts, and Artificial Artifacts remain distinct by origin. Do not apply Artificial Artifact tier rules to the other categories unless their own official rules say so.
+## 7. PowerScale, Spirit Rings, and Thinker
 
-## 8. One-Realm Gap and Injury Consequences
+- PowerScale comes only from `core/SPIRIT_RING_RULES.md`; it already includes total Spirit Ring age and overall ring compatibility. Do not multiply those factors again.
+- A Spirit Ring ability affects combat only through its established ability and actual use.
+- The production chance matrix in `core/THINKER_AND_FORMULATION.md` governs artifact creation, **not** attack accuracy.
+- Before applying an Artificial Artifact, confirm ownership/access, tier, documented function, limitations, and whether that function applies to the current action. Relics, Ancient Artifacts, and Artificial Artifacts remain distinct categories.
+- If artifact effects or other required values are undefined, mark them unknown instead of making up a number.
 
-A character one full Spirit Realm below an opponent can still fight and can win through supported tactical, equipment, technique, energy, or ring advantages. A Realm gap alone does not automatically decide the fight.
+## 8. State and Missing Rules
 
-However, if the higher-Realm combatant lands a damaging hit on the lower-Realm combatant, injury is expected in addition to HP loss. The lower-Realm combatant cannot simply avoid injury by narration. Injury may be avoided only when the lower-Realm combatant has a **clear, evidence-backed overall readiness advantage**, including:
-- better relevant equipment readiness;
-- better usable Qi/energy readiness; and
-- a meaningful advantage in Spirit Ring age/quality or relevant ring ability, where a valid comparison exists.
+After each resolved action, update only changes caused by the action: current HP, usable Qi/stamina, injury, position, equipment, inventory, and time. Do not restore HP, refill resources, or remove consequences without an established cause.
 
-Technique mastery and tactical situation may also contribute, but do not replace the three checks above. If those comparisons are unknown or do not show a clear advantage, record at least a light injury when the higher-Realm combatant's damaging hit lands. More serious injuries must be proportionate to the actual attack and consequences; do not assign a severity solely because the attacker is higher Realm.
+If a rule or input is missing:
+- Do not invent numerical precision or claim an undefined rule is official.
+- Resolve the parts that are supported by the current sources.
+- Keep undefined special damage or effects qualitative.
+- Flag the missing rule so it can be added deliberately to this module later.
 
-This rule applies to a **one-Realm difference**. Larger gaps require the GM to assess the actual canon and circumstances; do not extrapolate automatic outcomes or invent a universal Realm multiplier.
-
-## 9. Turn Resolution and State Updates
-
-For each combat turn:
-
-1. Establish initiative if not already established.
-2. State the acting combatant and one main action.
-3. Check whether the action is possible with current position, condition, equipment, and usable energy.
-4. Calculate ECP and hit chance if all required values are available.
-5. Resolve hit/miss and defense.
-6. Calculate HP damage using §6 if a damaging hit lands.
-7. Record injury, interrupted actions, broken/damaged equipment, resource use, changed position, and other consequences only when supported.
-8. Update current HP, Qi/stamina, condition, position, and timestamp according to valid events and `gameplay/TIME_AND_ACTION_RULES.md`.
-9. End the turn at a natural decision point. Do not resolve multiple independent major actions for one combatant in a single turn.
-
-A combatant may surrender, retreat, become incapacitated, or die when the events and rules support that result. Do not force a fight to continue after a valid ending condition, and do not grant plot armor.
-
-## 10. Undefined Inputs and Special Damage
-
-- If a numeric input, ability effect, resource cost, or combat baseline is not established, mark it unknown and do not fabricate precision.
-- Spirit Ring deviation is not automatically a combat attack. If its own numeric damage rule remains undefined, keep that damage qualitative rather than applying an arbitrary attack class.
-- Do not invent healing rates, injury recovery durations, stamina costs, artifact charges, or special exceptions.
-- Record damage as `HP lost: N (X% of target maximum HP)` and update the profile's current/max HP.
-- Revisit and revise this module only through an explicit canon change by the repository owner.
+**GM quick check:** initiative → action feasibility → combat rating/hit → defense/damage/effects → state update.

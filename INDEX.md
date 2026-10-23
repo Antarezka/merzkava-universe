@@ -43,7 +43,7 @@ Repository: https://github.com/Antarezka/xuanling-realm
 
 1. Direktori Lengkap Seluruh Modul
 
-Status repository harus diverifikasi dari branch yang sedang digunakan. Pada saat dokumen ini diperiksa, "INDEX.md", "README.md", "templates/GM_PROMPT.md", "core/CULTIVATION_SYSTEM.md", "core/MARTIAL_SOUL.md", dan "world/WORLD.md" tersedia. Jalur modul lain di bawah adalah rencana hingga file benar-benar dibuat dan dapat dibaca.
+Status repository harus diverifikasi dari branch yang sedang digunakan. Pada saat dokumen ini diperiksa, "INDEX.md", "README.md", "templates/GM_PROMPT.md", "core/CULTIVATION_SYSTEM.md", "core/MARTIAL_SOUL.md", "core/SPIRIT_RING_RULES.md", dan "world/WORLD.md" tersedia. Jalur modul lain di bawah adalah rencana hingga file benar-benar dibuat dan dapat dibaca.
 
 A. Aturan Inti dan Sistem Kekuatan
 
@@ -208,7 +208,7 @@ Hitam| 10.000–49.999 tahun
 Merah| 50.000–99.999 tahun
 Emas| 100.000–499.999 tahun
 
-Warna untuk usia 500.000 tahun ke atas belum diputuskan. Jangan mengarang kategori baru.
+Warna untuk usia 500.000 tahun ke atas belum diputuskan. Jangan mengarang kategori baru. Usia Spirit Ring tidak memiliki batas mutlak hanya berdasarkan angka atau Realm; rekomendasi usia harus mempertimbangkan toleransi tubuh dan kompatibilitas. Jangan membuat batas maksimum universal.
 
 ---
 
@@ -218,7 +218,7 @@ Xuanling Realm — Eastern Fantasy · Martial Soul · Spirit Beast · Spirit Rin
 
 Dunia ini memiliki tiga kekuatan utama yang sudah ditetapkan: Golden Dragon Empire di timur, Tianhai Yunzhou di wilayah maritim, dan Beiming Gu di utara. Kekaisaran Naga Emas memiliki tujuh wilayah utama. Dunia juga mencakup hutan, reruntuhan kuno, sekte, akademi, jalur perdagangan, dan kawasan Spirit Beast.
 
-Sistem kultivasi terdiri dari 9 Realm, masing-masing dengan tahap Early, Middle, Late, dan Peak. Satu Realm membuka satu slot Spirit Ring tambahan. Urutan Realm: Spirit Initiate, Spirit Adept, Spirit Expert, Spirit Elder, Spirit Ancestor, Spirit King, Spirit Emperor, Spirit Saint, dan Spirit Monarch. Martial Soul merupakan sistem kekuatan utama, sementara Spirit Ring diperoleh dari Spirit Beast dan digunakan dalam kultivasi serta breakthrough. Progres 100% berarti bottleneck, bukan breakthrough otomatis.
+Sistem kultivasi terdiri dari 9 Realm, masing-masing dengan tahap Early, Middle, Late, dan Peak. Satu Realm membuka satu slot Spirit Ring tambahan. Urutan Realm: Spirit Initiate, Spirit Adept, Spirit Expert, Spirit Elder, Spirit Ancestor, Spirit King, Spirit Emperor, Spirit Saint, dan Spirit Monarch. Martial Soul mengalami awakening pada usia empat tahun atau lebih, tetapi awakening tidak otomatis memberikan ring pertama. Setelah Spirit Beast dikalahkan, ring muncul mengambang di atas tubuhnya. Progres 100% berarti bottleneck, bukan breakthrough otomatis. Penyerapan paksa membuat sinkronisasi 100% nyaris mustahil; pemberian ring secara sukarela membuat sinkronisasi 100% lebih mungkin, tetapi tidak menjamin keberhasilan.
 
 Prinsip utama: tidak ada plot armor, profil harus konsisten, aturan bersumber dari modul resmi, dan informasi yang belum ditetapkan tidak boleh dikarang.
 

@@ -96,7 +96,7 @@ Gunakan "templates/CHARACTER_PROFILE_TEMPLATE.md" jika tersedia. Field yang tela
 - Teknik / Kemampuan
 - Tujuan Saat Ini
 
-Jangan menambahkan field terpisah bernama Law atau Spirit Rings. Kemampuan ring yang telah diperoleh dicatat dalam Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada. Jangan menghilangkan kemampuan yang telah diperoleh. Jangan mengarang nilai HP, Qi, statistik, atau sumber daya yang belum ditentukan oleh aturan atau riwayat permainan.
+Jangan menambahkan field terpisah bernama Law atau Spirit Rings. Informasi ring yang telah diperoleh—sumber, usia, warna, kemampuan, dan hasil proses yang diketahui—dicatat dalam Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada. Jangan menghilangkan informasi ring yang telah diperoleh. Jangan mengarang nilai HP, Qi, statistik, atau sumber daya yang belum ditentukan oleh aturan atau riwayat permainan.
 
 Jika informasi belum diketahui karakter, gunakan "???" sesuai konteks. Bedakan informasi yang belum diketahui karakter dengan informasi yang tidak tersedia bagi GM.
 

@@ -156,13 +156,13 @@ Jika "players.md" kelak dibuat, fungsinya adalah katalog data awal karakter, buk
 
 Profil karakter
 
-Format profil mengikuti "templates/CHARACTER_PROFILE_TEMPLATE.md" setelah file tersebut dibuat.
+Format profil wajib mengikuti "templates/CHARACTER_PROFILE_TEMPLATE.md". File template profil resmi tersedia dan harus digunakan.
 
 Field yang sudah disepakati mencakup:
 
 - Nama
 - Usia
-- Realm / Stage
+- Spirit Realm / Stage
 - Martial Soul
 - HP
 - Qi

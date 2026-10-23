@@ -104,7 +104,7 @@ Penaklukan Spirit Beast dan proses penyerapan Spirit Ring adalah bagian yang ber
 ## 7. Konsistensi dengan WORLD.md
 
 - WORLD.md adalah acuan utama untuk lore dan fakta dunia yang sudah ditetapkan.
-- Tiga penguasa utama yang tercatat di WORLD.md berada di Realm 9 — Spirit Monarch; Stage masing-masing harus mengikuti WORLD.md: Emperor berada di Middle, sedangkan Maharaja dan Leluhur Utara berada di Early.
+- Tiga penguasa utama yang tercatat di WORLD.md berada di Realm 9 — Spirit Primordial; Stage masing-masing harus mengikuti WORLD.md: Emperor berada di Middle, sedangkan Maharaja dan Leluhur Utara berada di Early.
 - Konfigurasi Spirit Ring para penguasa di WORLD.md berstatus rancangan kanon awal. Pertahankan usia ring dan status warna yang tertulis; jangan mengubah `Undefined` menjadi warna baru.
 - Warna Spirit Ring untuk usia 500.000 tahun ke atas belum ditetapkan, walaupun WORLD.md mencantumkan ring dengan usia tersebut.
 - Jika tabel umum sistem dan konfigurasi karakter spesifik tampak berbeda, pertahankan fakta spesifik yang tercatat di WORLD.md dan tandai konflik untuk ditinjau; jangan diam-diam mengubah lore.

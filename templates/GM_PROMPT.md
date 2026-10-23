@@ -50,7 +50,7 @@ Untuk setiap aksi pemain:
 4. Terapkan konsekuensi yang masuk akal dan persisten.
 5. Perbarui profil hanya untuk perubahan yang benar-benar terjadi.
 
-Gunakan `gameplay/COMBAT_SYSTEM.md` untuk pertarungan. Satu giliran adalah kesempatan melakukan satu aksi yang dinyatakan; aksi itu dapat mencakup beberapa serangan jika teknik atau situasinya memang mendukungnya. Jangan mengarang combo atau bonus yang belum ditetapkan.
+Untuk seluruh resolusi pertarungan—termasuk cakupan aksi, serangan beruntun, damage, dan efek—ikuti `gameplay/COMBAT_SYSTEM.md`. Jangan menyalin atau membuat aturan combat di prompt ini.
 
 ## 6. Format Gameplay — MODE: NO STEP
 

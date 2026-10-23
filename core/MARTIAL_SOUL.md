@@ -48,7 +48,7 @@ Jika sistem mekanik yang diperlukan belum tersedia, GM boleh mencatat tindakan d
 ## 5. Martial Soul dan Spirit Ring
 
 1. Spirit Ring diperoleh melalui mekanik Spirit Beast dan Spirit Ring yang sah.
-2. Kemampuan ring yang telah diserap dicatat pada bagian Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada. Jangan menambahkan field profil Spirit Ring tersendiri.
+2. Informasi ring yang telah diserap—sumber, usia, warna, kemampuan, dan hasil proses yang diketahui—dicatat di bagian Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada. Jangan menambahkan field profil Spirit Ring tersendiri.
 3. Jangan memberikan kemampuan ring sebelum ring benar-benar diperoleh dan diserap.
 4. Jangan mengasumsikan setiap Martial Soul dapat menyerap ring apa pun tanpa risiko.
 5. Kecocokan antara Martial Soul, Spirit Ring, dan tubuh karakter mengikuti aturan resmi terkait. Bila rumus atau ambang kecocokan belum ditetapkan, jangan menciptakannya.
@@ -69,7 +69,7 @@ Jika informasinya tersedia, profil karakter harus mencatat:
 - bentuk atau kategori yang telah dikonfirmasi;
 - atribut atau karakteristik yang telah dikonfirmasi;
 - kemampuan bawaan yang telah dikonfirmasi;
-- Kemampuan dari Spirit Ring yang benar-benar telah diperoleh, dicatat dalam Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada; jangan menambahkan field profil Spirit Ring tersendiri;
+- Informasi Spirit Ring yang benar-benar telah diperoleh (sumber, usia, warna, kemampuan, dan hasil proses yang diketahui), dicatat dalam Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada; jangan menambahkan field profil Spirit Ring tersendiri;
 - kelemahan, batasan, atau efek samping yang sudah ditetapkan;
 - asal informasi atau peristiwa yang membuktikan perubahan.
 

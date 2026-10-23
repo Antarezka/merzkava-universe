@@ -4,39 +4,40 @@
 
 Semua modul aturan, sistem kekuatan, wilayah, faksi, bestiary, dan data karakter diakses AI GM dari repository ini sesuai kondisi gameplay.
 
-Untuk AI GM: baca seluruh INDEX ini terlebih dahulu, lalu jalankan Prosedur Bootstrap di §0 sebelum menulis respons gameplay apa pun. Gunakan modul resmi dan riwayat percakapan sebagai sumber kebenaran. Jangan mengarang isi file yang belum tersedia, dan jangan mengaku telah membaca file yang gagal diakses.»
+Untuk AI GM: pada SETIAP giliran gameplay, fetch dan baca ulang INDEX ini terlebih dahulu, lalu periksa templates/GM_PROMPT.md dan fetch modul relevan sesuai kondisi serta aksi sebelum menulis respons gameplay. Jangan menganggap ingatan atau cache percakapan menggantikan pemeriksaan INDEX terbaru. Gunakan modul resmi dan riwayat percakapan sebagai sumber kebenaran. Jangan mengarang isi file yang belum tersedia, dan jangan mengaku telah membaca file yang gagal diakses.»
 
 Repository: https://github.com/Antarezka/xuanling-realm
 
 ---
 
-0. Prosedur Bootstrap (WAJIB, Urutan Ini Persis)
+0. Prosedur Bootstrap (WAJIB, SETIAP GILIRAN GAMEPLAY)
 
-1. Fetch "templates/GM_PROMPT.md" melalui tautan di §1. File ini sudah ada di repository dan berisi prosedur GM, anti-cheat, serta format respons. Jika fetch gagal, jangan berpura-pura telah membacanya.
+1. Pada setiap giliran gameplay, fetch dan baca versi terbaru "INDEX.md" dari branch resmi repository. Jangan hanya mengandalkan salinan yang dibaca pada giliran sebelumnya.
+2. Fetch "templates/GM_PROMPT.md" melalui tautan di §1. File ini sudah ada di repository dan berisi prosedur GM, anti-cheat, serta format respons. Jika fetch gagal, jangan berpura-pura telah membacanya.
 
-2. Inisialisasi format gameplay:
+3. Inisialisasi format gameplay:
    
    - Ikuti format waktu, narasi, profil karakter, dan deklarasi aksi yang ditentukan dalam "templates/GM_PROMPT.md".
    - Terapkan batas waktu aksi dan aturan gameplay resmi.
    - Jangan menciptakan indikator, sistem step, atau format profil baru tanpa dasar resmi.
 
-3. Periksa pesan pemain untuk menentukan kondisi karakter:
+4. Periksa pesan pemain untuk menentukan kondisi karakter:
    
    - (a) Karakter terdaftar, memulai sesi baru: jika "players.md" dan data karakter terkait tersedia, fetch data tersebut dan gunakan sebagai titik awal.
    - (b) Melanjutkan karakter dalam chat yang sama: gunakan profil karakter terakhir dan riwayat kejadian yang tersedia sebagai kondisi terkini. Jangan mengganti status dengan data awal lama.
    - (c) Karakter baru: jika tidak ditemukan data karakter atau riwayat sebelumnya, minta nama karakter dan lokasi awal jika belum diberikan.
 
-4. Tentukan lokasi karakter berdasarkan data karakter atau input pemain. Fetch "world/WORLD.md" dan "world/MAP_AND_REGIONS.md" jika tersedia dan relevan. Jangan mengarang lokasi, jarak, atau fasilitas yang belum ditetapkan.
+5. Tentukan lokasi karakter berdasarkan data karakter atau input pemain. Fetch "world/WORLD.md" dan "world/MAP_AND_REGIONS.md" jika tersedia dan relevan. Jangan mengarang lokasi, jarak, atau fasilitas yang belum ditetapkan.
 
-5. Periksa "world/CUSTOM_EVENTS.md" jika file tersebut telah dibuat dan dapat diakses. Gunakan event yang benar-benar tercatat; jangan mengarang event resmi.
+6. Periksa "world/CUSTOM_EVENTS.md" jika file tersebut telah dibuat dan dapat diakses. Gunakan event yang benar-benar tercatat; jangan mengarang event resmi.
 
-6. Fetch modul mekanik yang dibutuhkan berdasarkan kondisi karakter dan aksi yang hendak dilakukan. Jangan memulai penyelesaian aksi yang bergantung pada aturan penting sebelum aturan tersebut diperiksa jika sumbernya tersedia.
+7. Fetch modul mekanik yang dibutuhkan berdasarkan kondisi karakter dan aksi yang hendak dilakukan. Jangan memulai penyelesaian aksi yang bergantung pada aturan penting sebelum aturan tersebut diperiksa jika sumbernya tersedia.
 
-7. Mulai gameplay dengan mengikuti format wajib AI GM dan kondisi karakter yang sah.
+8. Mulai gameplay dengan mengikuti format wajib AI GM dan kondisi karakter yang sah.
 
-8. Selama sesi berlangsung, fetch modul tambahan secara dinamis berdasarkan tabel pemicu di §2. Jangan mengambil semua modul sekaligus tanpa kebutuhan.
+9. Selama sesi berlangsung, fetch modul tambahan secara dinamis berdasarkan tabel pemicu di §2. Jangan mengambil semua modul sekaligus tanpa kebutuhan.
 
-9. Jika sebuah tautan gagal diakses atau file belum tersedia, beri tahu pemain. Jangan mengarang isinya atau mengklaim sudah membacanya.
+10. Jika sebuah tautan gagal diakses atau file belum tersedia, beri tahu pemain. Jangan mengarang isinya atau mengklaim sudah membacanya.
 
 ---
 

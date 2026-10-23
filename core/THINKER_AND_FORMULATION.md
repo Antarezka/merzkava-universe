@@ -173,3 +173,10 @@ The GM must:
 Thinker is an independent knowledge-and-formulation progression path. Thinker Grade determines baseline chance and the normal formulation ceiling. Actual conditions, materials, and talents affect the attempt only through official mechanics.
 
 Narration alone does not guarantee success. The GM may not invent bonuses or exceptions, and may not override a valid resolution simply to force a preferred outcome.
+
+
+## 11. COMBAT INTEGRATION — ARTIFICIAL ARTIFACTS
+
+Combat resolution is governed by `gameplay/COMBAT_SYSTEM.md`, not by the production-chance matrix in §5. The matrix determines the baseline chance to manufacture an Artificial Artifact; it is not an attack-hit chance, damage value, or combat multiplier.
+
+During combat, the GM may use an Artificial Artifact only if ownership/access, tier, condition, and the relevant function are established. Apply documented artifact functions to the relevant combat step. The tier comparison modifier in the combat module applies only when two Artificial Artifacts contest a comparable function; it does not grant a universal bonus against every opponent. Do not invent unknown functions, energy sources, charges, range, durability, or weaknesses.

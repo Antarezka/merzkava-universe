@@ -76,17 +76,92 @@ Setiap breakthrough juga memerlukan ring berikutnya yang benar-benar tersedia, i
 
 Jika persyaratan item khusus Beast belum ditetapkan, jangan mengarangnya atau menganggapnya tidak diperlukan. Periksa `bestiary/SPIRIT_BEAST_RULES.md`.
 
-Deviasi: makin besar jarak Sync progress dari cap ketika breakthrough dipaksakan, makin tinggi tingkat deviasi. Memaksakan Penyerapan Spirit Ring sebelum jeda minimum juga menyebabkan deviasi. Persentase paparan deviasi ditentukan oleh nomor ring: Ring 1 memiliki paparan 100% (tertinggi), dan persentasenya harus lebih rendah untuk setiap nomor ring berikutnya. Nilai persis untuk Ring 2–9 belum ditetapkan; jangan mengarang tabel persentase.
+Deviasi: makin besar jarak Sync progress dari cap ketika breakthrough dipaksakan, makin tinggi dampaknya. Memaksakan Penyerapan Spirit Ring sebelum jeda minimum juga meningkatkan dampak deviasi. Gunakan formula dan tabel berikut sebagai satu-satunya sumber numerik deviasi.
 
-**Tingkat risiko ditentukan oleh jumlah poin status yang benar-benar hilang**, bukan oleh persentase paparan deviasi. Dengan demikian, persentase paparan dan tingkat risiko adalah dua hal berbeda. Patokan yang telah dikonfirmasi: kehilangan 15–19 poin status termasuk kategori **Menengah Rendah**. Rentang numerik untuk kategori risiko lain belum ditetapkan.
+### 5.1. Persentase paparan menurut nomor ring
 
-Setiap deviasi wajib mencatat:
-1. Persentase paparan deviasi sesuai nomor ring, jika nilai resminya tersedia.
-2. Jumlah poin status yang hilang dan kategori risiko berdasarkan jumlah kehilangan tersebut.
-3. Pengurangan cap kompatibilitas maksimum ring berikutnya dan cap baru yang berlaku.
-4. Damage HP serta cedera/kondisi tubuh yang benar-benar terjadi.
+Paparan adalah faktor skala untuk menghitung kehilangan HP dasar. Ring 1 memiliki paparan 100% (patokan tertinggi); setiap nomor ring berikutnya turun 10 poin persentase, hingga Ring 9 sebesar 20%.
 
-Jika rumus numerik untuk persentase Ring 2–9, rentang kategori risiko lain, pengurangan cap, damage, atau pemulihan belum ditetapkan, jangan mengarang angka seolah-olah canon. Tandai nilai tersebut sebagai belum ditentukan dan catat konsekuensi yang memang didukung sumber.
+| Nomor Spirit Ring yang sedang diserap | Paparan deviasi |
+|---:|---:|
+| Ring 1 | 100% |
+| Ring 2 | 90% |
+| Ring 3 | 80% |
+| Ring 4 | 70% |
+| Ring 5 | 60% |
+| Ring 6 | 50% |
+| Ring 7 | 40% |
+| Ring 8 | 30% |
+| Ring 9 | 20% |
+
+Persentase ini adalah faktor paparan, bukan persentase peluang gagal dan bukan kategori risiko. Nomor ring berarti nomor ring yang sedang dicoba diserap, bukan jumlah ring yang sudah dimiliki sebelum proses tersebut.
+
+### 5.2. Kehilangan HP dasar
+
+Patokan kehilangan HP untuk paparan 100% adalah **15–19 poin HP**. Untuk ring dengan paparan lebih rendah, skalakan kedua ujung rentang dasar menggunakan persentase paparan.
+
+- `Batas bawah = round(15 × Paparan / 100)`
+- `Batas atas = round(19 × Paparan / 100)`
+- Pembulatan dilakukan ke bilangan bulat terdekat; nilai tepat x,5 dibulatkan ke atas.
+- Hasil akhirnya adalah rentang kehilangan HP dasar. Pilih satu angka bulat di dalam rentang itu ketika menyelesaikan kejadian deviasi; jangan selalu memilih angka tertinggi atau terendah tanpa alasan.
+
+| Ring | Paparan | Rentang kehilangan HP dasar | Kategori yang mungkin |
+|---:|---:|---:|---|
+| 1 | 100% | 15–19 HP | Menengah Rendah |
+| 2 | 90% | 14–17 HP | Menengah Rendah |
+| 3 | 80% | 12–15 HP | Menengah Rendah |
+| 4 | 70% | 11–13 HP | Menengah Rendah |
+| 5 | 60% | 9–11 HP | Rendah–Menengah Rendah |
+| 6 | 50% | 8–10 HP | Rendah–Menengah Rendah |
+| 7 | 40% | 6–8 HP | Rendah |
+| 8 | 30% | 5–6 HP | Rendah |
+| 9 | 20% | 3–4 HP | Sangat Rendah |
+
+Angka ini adalah **kehilangan HP dalam poin**, bukan persentase dari HP maksimum. Karena itu, Ring 1 pada karakter dengan HP 100 memiliki kehilangan dasar 15–19 HP, sesuai patokan awal. Jangan mengubahnya menjadi persentase HP maksimum.
+
+### 5.3. Kategori risiko berdasarkan poin HP yang hilang
+
+Kategori risiko ditentukan dari jumlah HP yang benar-benar hilang setelah batas HP saat ini diterapkan, bukan dari persentase paparan ring.
+
+| HP yang benar-benar hilang | Kategori risiko |
+|---:|---|
+| 1–4 poin | Sangat Rendah |
+| 5–9 poin | Rendah |
+| 10–19 poin | Menengah Rendah |
+| 20–29 poin | Menengah Tinggi |
+| 30–39 poin | Tinggi |
+| 40 poin atau lebih | Sangat Tinggi |
+
+Dengan tabel ini, kehilangan 15–19 poin selalu masuk **Menengah Rendah**, sebagaimana patokan pemilik. Jika HP saat ini lebih rendah daripada angka kehilangan yang dihitung, HP tidak boleh turun di bawah 0: kehilangan aktual dibatasi pada HP yang masih tersisa, lalu kategori risiko memakai kehilangan aktual tersebut.
+
+### 5.4. Pengubah karena breakthrough dipaksakan
+
+Rentang pada §5.2 adalah dampak dasar ketika tidak ada pelanggaran tambahan. Jika karakter memaksakan proses, gunakan pengali berikut pada kehilangan HP dasar sebelum menerapkan batas HP yang tersisa:
+
+| Kondisi saat proses dipaksakan | Pengali dampak |
+|---|---:|
+| Gap 0–2 poin persentase dan jeda minimum terpenuhi | ×1,00 |
+| Gap 3–5 poin persentase dan jeda minimum terpenuhi | ×1,25 |
+| Gap 6–9 poin persentase dan jeda minimum terpenuhi | ×1,50 |
+| Jeda minimum belum terpenuhi | ×1,50 |
+| Gap ≥10 poin persentase tetapi proses tetap dipaksakan | ×2,00 |
+
+`Gap = cap kompatibilitas − Sync progress saat ini`. Pengali gap dan pengali pelanggaran jeda **tidak ditumpuk**: gunakan pengali terbesar yang berlaku. Ini mencegah hukuman berlipat ganda dari satu kejadian yang sama. Jika Gap ≥10, proses tetap tidak sah menurut syarat bottleneck; pengali ×2,00 hanya dipakai bila narasi/kejadian secara eksplisit menyatakan karakter tetap memaksakan proses dan GM menyelesaikan konsekuensinya.
+
+Setelah pengali diterapkan, bulatkan hasil ke bilangan bulat terdekat (x,5 ke atas), batasi kehilangan aktual agar tidak melebihi HP saat ini, lalu tentukan kategori risiko dari kehilangan aktual. Contoh: Ring 1 menghasilkan 17 HP dasar; jika pengali ×1,50 berlaku, hasilnya 26 HP sebelum batas HP saat ini, dan kategorinya Menengah Tinggi jika seluruh 26 HP benar-benar hilang.
+
+### 5.5. Alur wajib GM
+
+1. Tentukan nomor ring yang sedang diserap dan ambil persentase paparannya dari §5.1.
+2. Hitung rentang HP dasar memakai §5.2, lalu pilih satu nilai dalam rentang.
+3. Hitung Gap dan periksa jeda minimum. Jika ada pelanggaran, pilih satu pengali menurut §5.4; jangan menumpuk pengali.
+4. Kalikan kehilangan dasar dengan pengali, lalu bulatkan sesuai aturan.
+5. Terapkan damage HP: kehilangan aktual tidak boleh melebihi HP saat ini dan HP tidak boleh turun di bawah 0.
+6. Tentukan kategori risiko dari kehilangan HP aktual menggunakan §5.3.
+7. Catat nomor ring, paparan, kehilangan dasar, pengali dan alasannya, kehilangan HP akhir/aktual, kategori risiko, cap kompatibilitas ring berikutnya yang berkurang, serta cedera dan kondisi tubuh yang terjadi.
+8. Pengurangan cap kompatibilitas ring berikutnya dan durasi pemulihan belum memiliki formula numerik. Catat bahwa keduanya belum ditentukan; jangan menyimpulkan angkanya dari tabel damage.
+
+Jika penyerapan gagal, jangan menambahkan ring ke jumlah yang dimiliki. Terapkan konsekuensi kegagalan dan deviasi sesuai kejadian yang benar-benar terjadi.
 
 Penyerapan paksa membuat sinkronisasi 100% nyaris mustahil. Penyerahan sukarela oleh Spirit Beast membuat sinkronisasi 100% lebih mungkin, tetapi tidak menjamin keberhasilan.
 ## 6. Rumus Kompatibilitas, Power Scale, dan Qi

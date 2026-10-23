@@ -115,7 +115,7 @@ Untuk deviasi di bawah 100%, skalakan rentang sesuai rumus. Contoh: Ring 2 pada 
 
 ### 5.3. Kategori risiko berdasarkan poin HP yang hilang
 
-Kategori risiko ditentukan dari jumlah HP yang benar-benar hilang setelah batas HP saat ini diterapkan, bukan dari persentase paparan ring.
+Kategori risiko ditentukan dari jumlah HP yang benar-benar hilang setelah batas HP saat ini diterapkan, bukan langsung dari persentase deviasi; persentase hanya digunakan untuk menghitung kehilangan HP dasar.
 
 | HP yang benar-benar hilang | Kategori risiko |
 |---:|---|

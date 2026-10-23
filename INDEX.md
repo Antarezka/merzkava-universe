@@ -12,7 +12,7 @@ Repository: https://github.com/Antarezka/xuanling-realm
 
 0. Prosedur Bootstrap (WAJIB, Urutan Ini Persis)
 
-1. Fetch "templates/GM_PROMPT.md" melalui tautan di §1 — ini direncanakan sebagai sumber aturan mutlak, anti-cheat, batas waktu aksi, dan format respons wajib. Jangan lanjut dengan menganggap isinya sudah diketahui jika file belum tersedia atau gagal dibaca.
+1. Fetch "templates/GM_PROMPT.md" melalui tautan di §1. File ini sudah ada di repository dan berisi prosedur GM, anti-cheat, serta format respons. Jika fetch gagal, jangan berpura-pura telah membacanya.
 
 2. Inisialisasi format gameplay:
    
@@ -42,7 +42,7 @@ Repository: https://github.com/Antarezka/xuanling-realm
 
 1. Direktori Lengkap Seluruh Modul
 
-«Status repository: "INDEX.md" dan "README.md" telah dibuat menurut informasi pemilik. Jalur modul lainnya di bawah adalah struktur yang direncanakan. Setiap modul baru menjadi sumber resmi setelah benar-benar dibuat dan dapat dibaca.»
+Status repository harus diverifikasi dari branch yang sedang digunakan. Pada saat dokumen ini diperiksa, "INDEX.md", "README.md", "templates/GM_PROMPT.md", "core/CULTIVATION_SYSTEM.md", "core/MARTIAL_SOUL.md", dan "world/WORLD.md" tersedia. Jalur modul lain di bawah adalah rencana hingga file benar-benar dibuat dan dapat dibaca.
 
 A. Aturan Inti dan Sistem Kekuatan
 
@@ -191,6 +191,7 @@ Tidak ada sinkronisasi progres otomatis ke repository. Progres gameplay tetap be
 - Meditasi kultivasi murni dapat berlangsung maksimal 1 bulan hanya jika seluruh syarat terpenuhi: meditasi saja, lokasi aman dan stasioner, persediaan cukup dan tercatat, serta checkpoint perkembangan.
 - Jika syarat meditasi panjang tidak terpenuhi, gunakan batas aksi biasa.
 - Penyerapan Spirit Ring dapat berlangsung di lokasi Spirit Beast dikalahkan sesuai mekanik yang sudah ditetapkan; jangan mewajibkan lokasi meditasi aman tanpa dasar.
+- WORLD.md adalah acuan utama untuk lore dunia. Modul mekanik mengatur mekanik yang secara eksplisit ditetapkan. INDEX adalah navigasi, bukan pengganti dokumen sumber.
 - Semua kemampuan dan mekanik harus mengikuti sumber resmi yang tersedia.
 - Jika aturan belum ditetapkan atau sumber bertentangan, nyatakan masalah dan minta klarifikasi jika diperlukan.
 
@@ -216,7 +217,7 @@ Xuanling Realm — Eastern Fantasy · Martial Soul · Spirit Beast · Spirit Rin
 
 Dunia ini memiliki tiga kekuatan utama yang sudah ditetapkan: Golden Dragon Empire di timur, Tianhai Yunzhou di wilayah maritim, dan Beiming Gu di utara. Kekaisaran Naga Emas memiliki tujuh wilayah utama. Dunia juga mencakup hutan, reruntuhan kuno, sekte, akademi, jalur perdagangan, dan kawasan Spirit Beast.
 
-Sistem kultivasi terdiri dari 9 Realm, masing-masing dengan tahap Early, Middle, Late, dan Peak. Slot Spirit Ring mengikuti Realm. Martial Soul merupakan sistem kekuatan utama, sementara Spirit Ring diperoleh dari Spirit Beast dan berhubungan dengan kultivasi serta breakthrough.
+Sistem kultivasi terdiri dari 9 Realm, masing-masing dengan tahap Early, Middle, Late, dan Peak. Dalam aturan proyek saat ini, satu Realm membuka satu slot Spirit Ring tambahan. Nama Realm 1–8 belum ditetapkan; Realm 9 bernama Spirit Primordial. Martial Soul merupakan sistem kekuatan utama, sementara Spirit Ring diperoleh dari Spirit Beast dan berhubungan dengan kultivasi serta breakthrough. Rincian yang belum ditetapkan tidak boleh diasumsikan sebagai canon.
 
 Prinsip utama: tidak ada plot armor, profil harus konsisten, aturan bersumber dari modul resmi, dan informasi yang belum ditetapkan tidak boleh dikarang.
 

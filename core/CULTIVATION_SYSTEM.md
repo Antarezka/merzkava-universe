@@ -13,17 +13,17 @@ Setiap Realm memiliki empat Stage: Early (Awal), Middle (Menengah), Late (Akhir)
 
 | Urutan | Realm | Jumlah slot Spirit Ring setelah slot Realm itu terbuka |
 |---:|---|---:|
-| 1 | Spirit Initiate | 1 |
-| 2 | Spirit Adept | 2 |
-| 3 | Spirit Expert | 3 |
-| 4 | Spirit Elder | 4 |
-| 5 | Spirit Ancestor | 5 |
-| 6 | Spirit King | 6 |
-| 7 | Spirit Emperor | 7 |
-| 8 | Spirit Saint | 8 |
-| 9 | Spirit Monarch | 9 |
+| 1 | Realm 1 — nama belum ditetapkan | 1 |
+| 2 | Realm 2 — nama belum ditetapkan | 2 |
+| 3 | Realm 3 — nama belum ditetapkan | 3 |
+| 4 | Realm 4 — nama belum ditetapkan | 4 |
+| 5 | Realm 5 — nama belum ditetapkan | 5 |
+| 6 | Realm 6 — nama belum ditetapkan | 6 |
+| 7 | Realm 7 — nama belum ditetapkan | 7 |
+| 8 | Realm 8 — nama belum ditetapkan | 8 |
+| 9 | Realm 9 — nama belum ditetapkan | 9 |
 
-Satu Realm memberikan satu slot Spirit Ring, sehingga batas normal sistem ini adalah sembilan slot pada Realm kesembilan. Jangan menambahkan Realm kesepuluh atau slot tambahan tanpa revisi canon oleh pemilik.
+Satu Realm memberikan satu slot Spirit Ring, sehingga batas normal sistem ini adalah sembilan slot pada Realm kesembilan. Nama resmi tiap Realm belum ditetapkan di INDEX; jangan mengarang nama canon. Jangan menambahkan Realm kesepuluh atau slot tambahan tanpa revisi canon oleh pemilik.
 
 Nama dan jumlah slot menunjukkan struktur kultivasi, bukan jaminan bahwa dua orang dalam Realm yang sama memiliki kekuatan tempur identik.
 

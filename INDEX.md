@@ -48,41 +48,41 @@ Status repository harus diverifikasi dari branch yang sedang digunakan. Pada saa
 A. Aturan Inti dan Sistem Kekuatan
 
 Kode| File| Link Raw| Isi
-CORE| "templates/GM_PROMPT.md"| "GM Prompt" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/main/templates/GM_PROMPT.md)| Instruksi operasional AI GM, anti-cheat, format respons, batas waktu, konsistensi profil
-C01| "core/CULTIVATION_SYSTEM.md"| "Cultivation System" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/main/core/CULTIVATION_SYSTEM.md)| Sembilan Realm, empat Stage, progres, bottleneck, breakthrough
-C02| "core/MARTIAL_SOUL.md"| "Martial Soul" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/main/core/MARTIAL_SOUL.md)| Sistem kekuatan Martial Soul dan karakteristiknya
-C03| "core/SPIRIT_RING_RULES.md"| "Spirit Ring Rules" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/main/core/SPIRIT_RING_RULES.md)| Perolehan Spirit Ring, usia, penyerapan, sinkronisasi, hubungan dengan breakthrough
-C04| "core/HUNGER_AND_METABOLISM.md"| "Hunger and Metabolism" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/main/core/HUNGER_AND_METABOLISM.md)| Nutrisi, kelaparan, kebutuhan energi, dan pemulihan
-C05| "core/HP_SYSTEM.md"| "HP System" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/main/core/HP_SYSTEM.md)| HP maksimum berdasarkan Realm/Stage, formula interpolasi, dan format pencatatan HP
-C06| "core/10_ECONOMY_SYSTEM.md"| "Economy System" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/main/core/10_ECONOMY_SYSTEM.md)| Mata uang resmi, kurs, sembilan tier kualitas item, harga regional, distribusi, kelangkaan musiman, dan penyesuaian pasar
+CORE| "templates/GM_PROMPT.md"| "GM Prompt" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/templates/GM_PROMPT.md)| Instruksi operasional AI GM, anti-cheat, format respons, batas waktu, konsistensi profil
+C01| "core/CULTIVATION_SYSTEM.md"| "Cultivation System" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/core/CULTIVATION_SYSTEM.md)| Sembilan Realm, empat Stage, progres, bottleneck, breakthrough
+C02| "core/MARTIAL_SOUL.md"| "Martial Soul" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/core/MARTIAL_SOUL.md)| Sistem kekuatan Martial Soul dan karakteristiknya
+C03| "core/SPIRIT_RING_RULES.md"| "Spirit Ring Rules" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/core/SPIRIT_RING_RULES.md)| Perolehan Spirit Ring, usia, penyerapan, sinkronisasi, hubungan dengan breakthrough
+C04| "core/HUNGER_AND_METABOLISM.md"| "Hunger and Metabolism" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/core/HUNGER_AND_METABOLISM.md)| Nutrisi, kelaparan, kebutuhan energi, dan pemulihan
+C05| "core/HP_SYSTEM.md"| "HP System" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/core/HP_SYSTEM.md)| HP maksimum berdasarkan Realm/Stage, formula interpolasi, dan format pencatatan HP
+C06| "core/10_ECONOMY_SYSTEM.md"| "Economy System" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/core/10_ECONOMY_SYSTEM.md)| Mata uang resmi, kurs, sembilan tier kualitas item, harga regional, distribusi, kelangkaan musiman, dan penyesuaian pasar
 
 B. Gameplay
 
 Kode| File| Link Raw| Isi
-G01| "gameplay/COMBAT_SYSTEM.md"| "Combat System" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/main/gameplay/COMBAT_SYSTEM.md)| Giliran, aksi, posisi, damage, pertahanan, konsekuensi
-G02| "gameplay/TIME_AND_ACTION_RULES.md"| "Time and Action Rules" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/main/gameplay/TIME_AND_ACTION_RULES.md)| Durasi aksi, meditasi, time skip, checkpoint
+G01| "gameplay/COMBAT_SYSTEM.md"| "Combat System" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/gameplay/COMBAT_SYSTEM.md)| Giliran, aksi, posisi, damage, pertahanan, konsekuensi
+G02| "gameplay/TIME_AND_ACTION_RULES.md"| "Time and Action Rules" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/gameplay/TIME_AND_ACTION_RULES.md)| Durasi aksi, meditasi, time skip, checkpoint
 
 C. Bestiary
 
 Kode| File| Link Raw| Isi
-B01| "bestiary/SPIRIT_BEAST_RULES.md"| "Spirit Beast Rules" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/main/bestiary/SPIRIT_BEAST_RULES.md)| Kategori Beast, persyaratan item penyerapan per Beast, jeda minimum antar-ring, dan deviasi
+B01| "bestiary/SPIRIT_BEAST_RULES.md"| "Spirit Beast Rules" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/bestiary/SPIRIT_BEAST_RULES.md)| Kategori Beast, persyaratan item penyerapan per Beast, jeda minimum antar-ring, dan deviasi
 
 D. Dunia dan Lore
 
 Kode| File| Link Raw| Isi
-W01| "world/WORLD.md"| "World" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/main/world/WORLD.md)| Gambaran umum dunia dan geografi
-W02| "world/MAP_AND_REGIONS.md"| "Map and Regions" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/main/world/MAP_AND_REGIONS.md)| Peta, wilayah, lokasi, dan hubungan geografis
-W03| "world/FACTIONS.md"| "Factions" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/main/world/FACTIONS.md)| Kekaisaran, organisasi, kekuatan politik, dan hubungan antarfaksi
-W04| "world/HISTORY.md"| "History" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/main/world/HISTORY.md)| Sejarah dan peristiwa yang sudah ditetapkan
-W05| "world/ARTIFACTS_AND_RELICS.md"| "Artifacts and Relics" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/main/world/ARTIFACTS_AND_RELICS.md)| Artefak buatan, relik kuno, dan sifat yang sudah ditetapkan
-W06| "world/CUSTOM_EVENTS.md"| "Custom Events" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/main/world/CUSTOM_EVENTS.md)| Event dunia yang dicatat dan dikelola pemilik repository
+W01| "world/WORLD.md"| "World" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/world/WORLD.md)| Gambaran umum dunia dan geografi
+W02| "world/MAP_AND_REGIONS.md"| "Map and Regions" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/world/MAP_AND_REGIONS.md)| Peta, wilayah, lokasi, dan hubungan geografis
+W03| "world/FACTIONS.md"| "Factions" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/world/FACTIONS.md)| Kekaisaran, organisasi, kekuatan politik, dan hubungan antarfaksi
+W04| "world/HISTORY.md"| "History" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/world/HISTORY.md)| Sejarah dan peristiwa yang sudah ditetapkan
+W05| "world/ARTIFACTS_AND_RELICS.md"| "Artifacts and Relics" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/world/ARTIFACTS_AND_RELICS.md)| Artefak buatan, relik kuno, dan sifat yang sudah ditetapkan
+W06| "world/CUSTOM_EVENTS.md"| "Custom Events" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/world/CUSTOM_EVENTS.md)| Event dunia yang dicatat dan dikelola pemilik repository
 
 E. Karakter dan Template
 
 Kode| File| Link Raw| Isi
-P01| "players.md"| "Players" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/main/players.md)| Katalog karakter awal yang wajib dibaca saat sesi baru untuk karakter terdaftar; bukan save otomatis
-T01| "templates/CHARACTER_PROFILE_TEMPLATE.md"| "Character Profile Template" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/main/templates/CHARACTER_PROFILE_TEMPLATE.md)| Format wajib profil karakter
-T02| "templates/GM_PROMPT.md"| "GM Prompt" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/main/templates/GM_PROMPT.md)| Template instruksi AI GM untuk gameplay
+P01| "players.md"| "Players" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/players.md)| Katalog karakter awal yang wajib dibaca saat sesi baru untuk karakter terdaftar; bukan save otomatis
+T01| "templates/CHARACTER_PROFILE_TEMPLATE.md"| "Character Profile Template" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/templates/CHARACTER_PROFILE_TEMPLATE.md)| Format wajib profil karakter
+T02| "templates/GM_PROMPT.md"| "GM Prompt" (https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/templates/GM_PROMPT.md)| Template instruksi AI GM untuk gameplay
 
 F. Dokumentasi Proyek
 

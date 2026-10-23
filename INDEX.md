@@ -18,7 +18,7 @@ Repository: https://github.com/Antarezka/xuanling-realm
 | HP | `core/HP_SYSTEM.md` | HP maksimum, format dan validasi HP saat ini |
 | Thinker dan formulasi | `core/THINKER_AND_FORMULATION.md` | Grade Thinker, formulasi, peluang produksi artefak |
 | Spirit Beast | `bestiary/SPIRIT_BEAST_RULES.md` | Kategori Beast, syarat dan jeda penyerapan, deviasi |
-| Combat | `gameplay/COMBAT_SYSTEM.md` | Inisiatif, kesiapan, hit, damage, pertahanan, konsekuensi |
+| Combat | `gameplay/COMBAT_SYSTEM.md` | Inisiatif, kesiapan, hit, damage, pertahanan, serangan beruntun, combo, konsekuensi |
 | Waktu dan durasi aksi | `gameplay/TIME_AND_ACTION_RULES.md` | Timestamp, kalender sesi, durasi, time skip |
 | Ekonomi | `core/10_ECONOMY_SYSTEM.md` | Kurs, harga, transaksi, kelangkaan dan kualitas |
 | Peta dan wilayah | `world/WORLD.md` | Sumber lore yang tersedia; modul peta khusus belum dibuat |
@@ -43,7 +43,7 @@ Repository: https://github.com/Antarezka/xuanling-realm
 - Realm, Stage, Sync progress, bottleneck, breakthrough: `core/CULTIVATION_SYSTEM.md` dan `core/SPIRIT_RING_RULES.md`.
 - Awakening atau Martial Soul: `core/MARTIAL_SOUL.md`.
 - Spirit Beast, perburuan, syarat ring, jeda minimum, deviasi: `bestiary/SPIRIT_BEAST_RULES.md`; tambahkan `core/SPIRIT_RING_RULES.md` untuk penyerapan.
-- Combat: `gameplay/COMBAT_SYSTEM.md`; tambahkan `core/HP_SYSTEM.md` bila HP berubah atau perlu divalidasi.
+- Combat, serangan beruntun, atau combo: `gameplay/COMBAT_SYSTEM.md`; satu aksi dapat berisi beberapa hit dan aturan combo default berlaku dari modul ini. Tambahkan `core/HP_SYSTEM.md` bila HP berubah atau perlu divalidasi.
 - Waktu, perjalanan berdurasi, kultivasi panjang, atau time skip: `gameplay/TIME_AND_ACTION_RULES.md` serta modul mekanik terkait.
 - HP atau pembuatan/pembaruan profil: `core/HP_SYSTEM.md` dan template profil.
 - Makan, lapar, metabolisme: gunakan `core/HUNGER_AND_METABOLISM.md` **hanya jika file tersebut tersedia**; saat ini belum ada di repository.

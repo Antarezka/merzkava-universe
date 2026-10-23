@@ -54,9 +54,7 @@ Setiap deviasi wajib mencatat:
 3. Damage HP: hitung hanya menggunakan aturan damage/HP resmi yang tersedia. Jika jumlah numeriknya tidak dapat ditentukan dari aturan, jangan mengarang angka; nyatakan damage belum dapat dihitung.
 4. Cedera dan kondisi tubuh: jelaskan dampak konkret yang sesuai tingkat deviasi dan keadaan karakter, lalu pertahankan dampaknya dalam profil sampai pulih secara sah.
 
-Persentase paparan deviasi mengikuti nomor Spirit Ring menurut `core/SPIRIT_RING_RULES.md`: Ring 1 = 100%, dan paparan harus menurun pada setiap nomor ring berikutnya. Nilai persis Ring 2–9 belum ditetapkan. Tingkat risiko ditentukan dari jumlah poin status yang benar-benar hilang, bukan persentase paparan; kehilangan 15–19 poin berstatus Menengah Rendah. Rentang kategori lainnya belum ditetapkan.
-
-Jika rumus numerik resmi untuk persentase paparan Ring 2–9, kategori risiko selain Menengah Rendah (kehilangan 15–19 poin), pengurangan cap, damage, atau durasi pemulihan belum ditetapkan, GM harus mencatat dampak yang didukung dan menandai nilai numerik sebagai belum ditentukan. Jangan berpura-pura bahwa angka hasil improvisasi merupakan rumus canon.
+Persentase paparan, rentang kehilangan HP, pengali saat proses dipaksakan, dan kategori risiko ditentukan hanya oleh `core/SPIRIT_RING_RULES.md` §5. Jangan menduplikasi atau mengganti tabel/formula di modul ini. Ikuti alur GM di modul Spirit Ring, lalu catat kehilangan HP aktual, kategori risiko, pengurangan cap kompatibilitas ring berikutnya, dan cedera. Pengurangan cap dan durasi pemulihan masih belum memiliki formula numerik.
 
 ## 5. Catatan Setelah Proses
 

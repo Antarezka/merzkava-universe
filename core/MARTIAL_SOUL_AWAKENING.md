@@ -16,16 +16,18 @@ Modul ini adalah sumber mekanik utama untuk proses awakening dan mutasi Martial 
 5. Bentuk, atribut, kemampuan, batas, dan efek suatu Martial Soul harus memiliki dasar yang dapat dijelaskan. GM tidak boleh menciptakan kemampuan luar biasa hanya berdasarkan rarity.
 6. Jika mekanisme pengacakan yang benar-benar acak tidak tersedia, GM harus menyatakan keterbatasan itu dan tidak mengaku telah melakukan pengundian acak yang tidak terjadi.
 
-## 1.1 Awakening Service Charges and Proof Token — Golden Dragon Empire
+## 1.1 Awakening Routes, Imperial Subsidy, and Proof Token — Golden Dragon Empire
 
-The standard per-individual charges for Golden Dragon Empire services are set out in `core/10_ECONOMY_SYSTEM.md`: 3 xg 25 xs for the awakening service, an 8% service tax calculated on that service fee only, 15 xs for documentation, and 10 xs for the official proof token. The standard all-in amount is **3 xg 76 xs per individual** at the official exchange rate. Consult the economy module for the itemized breakdown and transaction rules.
+The Golden Dragon Empire has two separate routes, detailed authoritatively in `core/10_ECONOMY_SYSTEM.md`:
 
-- Each individual who completes awakening and has the result officially recorded receives a proof token linked to their documentation record.
-- The token is practical evidence of completed awakening and helps simplify applications for basic employment and education. It is not a guarantee of employment, admission, scholarship, income, or special status.
-- The token and record confirm only information that was actually established during awakening. They must not grant a better rarity, change a result, or imply unconfirmed powers.
-- A waiver or subsidy requires explicit authorization; neither village outreach nor attendance at a public service automatically makes the service free.
-- These charges are Golden Dragon Empire rules. Do not impose them on Tianhai Yunzhou, Beiming Gu, Wanluo, or Lawless Territories unless their own canon adopts them.
-- Record payment and issuance as actual events. Do not assume a character paid, received a token, or has documentation without a supported in-game event and ledger entry.
+- **Independent paid route:** the individual pays 3 xg 25 xs for service, 8% tax on that service fee (26 xs), 15 xs for documentation, and 10 xs for the token: **3 xg 76 xs total**.
+- **Biennial Imperial public route:** the Imperial subsidy pays the service fee, service tax, and documentation. The individual pays **only 10 xs for the proof token**.
+- If the person cannot pay the token fee on the public route, an external local financial organization may advance the exact unpaid token charge. The individual signs a debt note to that external lender; the Empire is not the lender and does not set or guarantee the private loan. The available organization and its interest rate are randomized from plausible local options. Typical reputable lenders charge 3%–8% simple annual interest; an unlucky draw can reach 12%–24% simple annual interest. The selected rate is fixed for that note and must not be rerolled. See the economy module for limits, records, and default consequences.
+- Each individual who completes awakening and has the result officially recorded receives a proof token linked to the service record. It helps verify completion for basic employment and education applications but guarantees neither employment nor admission.
+- Token and record confirm only information actually established during awakening. They do not change rarity, imply unconfirmed powers, or grant special status.
+- A missed loan repayment may damage credit reputation and make decent-paying employment or future credit harder to obtain where relevant records are checked. This is a socioeconomic consequence, not an automatic Empire-wide legal ban on employment.
+- These rules apply only to the Golden Dragon Empire. Do not impose them on Tianhai Yunzhou, Beiming Gu, Wanluo, or Lawless Territories unless their own canon adopts them.
+- Record actual charges, subsidy expenditure, token issuance, loan advances, debt notes, interest, and repayments. Do not assume a character paid, borrowed, received a token, or defaulted without a supported in-game event and ledger entry.
 
 ## 2. Tabel Rarity Awakening
 

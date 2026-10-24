@@ -17,6 +17,11 @@
 - **[players/Yuha.md](players/Yuha.md)** — snapshot awal karakter Yuha.
 - **[templates/GM_PROMPT.md](templates/GM_PROMPT.md)** — perilaku operasional AI Game Master.
 - **[templates/GAMEPLAY_RESPONSE_TEMPLATE.md](templates/GAMEPLAY_RESPONSE_TEMPLATE.md)** — satu-satunya format visual lengkap untuk respons gameplay.
+- **[templates/CHARACTER_PROFILE_TEMPLATE.md](templates/CHARACTER_PROFILE_TEMPLATE.md)** — definisi field dan konsistensi profil.
+- **[gameplay/TIME_AND_ACTION_RULES.md](gameplay/TIME_AND_ACTION_RULES.md)** — timestamp, batas aksi, tidur malam, dan time skip.
+- **[gameplay/COMBAT_SYSTEM.md](gameplay/COMBAT_SYSTEM.md)** — resolusi combat, multi-hit, combo, damage, dan pertahanan.
+- **[core/HUNGER_AND_METABOLISM.md](core/HUNGER_AND_METABOLISM.md)** — Satiety, jadwal makan, metabolisme Realm, dan pengaruh kondisi tubuh.
+- **[core/HP_SYSTEM.md](core/HP_SYSTEM.md)** dan **[core/INJURY_SYSTEM.md](core/INJURY_SYSTEM.md)** — HP, klasifikasi cedera, dan pemulihan.
 - **[core/CULTIVATION_SYSTEM.md](core/CULTIVATION_SYSTEM.md)** — Realm, Stage, Sync, bottleneck, breakthrough.
 - **[core/MARTIAL_SOUL.md](core/MARTIAL_SOUL.md)** — awakening dan Martial Soul.
 - **[core/SPIRIT_RING_RULES.md](core/SPIRIT_RING_RULES.md)** — Spirit Ring, kompatibilitas, penyerapan, Qi, PowerScale.

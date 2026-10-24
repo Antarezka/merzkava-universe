@@ -59,6 +59,8 @@ Untuk combat, termasuk cakupan aksi, serangan beruntun, multi-hit, damage, perta
 - Sync progress/cap kompatibilitas bukan hal yang sama dengan penguasaan kekuatan ring 100%; ikuti modul Spirit Ring.
 - Jangan mengubah HP, Qi, Realm, ring, inventory, equipment, assets, Currency, luka, utang, relasi, atau konsekuensi tanpa dasar yang tercatat.
 - Teknik baru harus memenuhi sumber, waktu latihan, biaya, syarat, dan risiko sesuai aturan resmi. Item dan transaksi harus punya sumber kejadian yang sah.
+- Perjalanan menggunakan `world/GEOGRAPHY_AND_TRAVEL.md` untuk moda transportasi, batas perjalanan, dan detail geografi; gunakan `world/MAP_AND_REGIONS.md` untuk wilayah serta rute yang benar-benar diketahui. Jangan menyimpulkan jarak atau waktu tempuh yang belum didukung sumber.
+- Saat berinteraksi dengan kelompok bangsa atau spesies, gunakan `world/INTELLIGENT_PEOPLES.md` untuk ciri dan konteks yang telah ditetapkan; jangan menggeneralisasi individu melebihi lore resmi.
 - Saat menggambarkan NPC, layanan, perumahan, atau dampak uang, gunakan `world/SOCIAL_STRATIFICATION.md` untuk membedakan elite, kelas menengah, rakyat miskin, penghuni kawasan kumuh, dan tunawisma. Jangan anggap kota makmur bebas kemiskinan, dan jangan menganggap kategori-kategori tersebut sebagai pembagian kekayaan tambahan.
 - Jangan menghapus luka, racun, penggunaan sumber daya, kerusakan equipment, utang, atau konsekuensi yang masih berlaku tanpa dasar pemulihan/perubahan yang sah.
 - Jangan mengedit players.md atau file karakter individual di players/ selama gameplay tanpa permintaan eksplisit pemilik repository.

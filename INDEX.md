@@ -59,8 +59,9 @@ Repository: https://github.com/Antarezka/xuanling-realm
 Template profil adalah satu-satunya sumber untuk urutan dan nama field profil. Jangan menyalin ulang format profil penuh ke INDEX, GM Prompt, atau registry.
 
 - Jangan menambah field terpisah untuk Law atau Spirit Rings tanpa persetujuan pemilik. Realm menentukan jumlah slot; detail ring yang dimiliki masuk ke Teknik / Kemampuan atau deskripsi Martial Soul.
-- HP saat ini harus berasal dari profil terakhir atau kejadian yang tercatat; jangan otomatis menganggap HP penuh.
-- HP dan injury adalah state terpisah; gunakan `core/INJURY_SYSTEM.md` untuk klasifikasi dan pemulihan cedera.
+- HP saat ini harus berasal dari profil terakhir atau kejadian yang tercatat; jangan otomatis menganggap HP penuh. Pemulihan HP umum belum memiliki laju numerik resmi di `core/HP_SYSTEM.md`.
+- HP dan injury adalah state terpisah: `core/HP_SYSTEM.md` mengatur HP, sedangkan `core/INJURY_SYSTEM.md` mengatur klasifikasi dan progres pemulihan cedera. Jangan memakai progres injury sebagai pemulihan HP atau sebaliknya.
+- Sync progress/cap kompatibilitas berbeda dari penguasaan kekuatan ring 100%; ikuti definisi di `core/SPIRIT_RING_RULES.md`.
 - Perubahan Qi, ring, Realm, inventory, equipment, assets, Currency, luka, dan hubungan harus memiliki penyebab yang sah.
 - `players.md` adalah snapshot awal. Profil terakhir dan kejadian setelahnya adalah state sesi berjalan.
 - Informasi yang belum diketahui karakter ditulis `???` sesuai konteks. Jangan menciptakan rahasia besar, kemampuan, transaksi, atau kejadian masa lalu tanpa dasar.

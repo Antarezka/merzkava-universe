@@ -3,32 +3,38 @@
 **Status:** Owner-authorized worldbuilding addition based on the established world framework.  
 **Scope:** Official working roster of regional jurisdictions, prefectures, county seats, and empire-wide administrative totals.  
 **Population baseline:** `world/WORLD.md` estimates the Empire at **320 million**. Regional population shares below are planning estimates that sum to that established total; they are not a claim that a census has already been shown in-world.  
-**Authority:** This atlas is the single source for administrative names and counts. The governance framework lives in `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`; regional modules hold local implementation, detailed settlements, and NPC registries.
+**Authority:** This atlas is the single source for administrative names, territorial-scale estimates, and the named village list. The governance framework lives in `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`; regional modules hold local implementation, selected settlements, and NPC registries.
 
 ---
 
-## 1. Empire-wide Administrative Totals
+## 1. Empire-wide Administrative Totals and Territorial Scale
 
-| Region | Population planning estimate | Prefectures | Counties | Cities | Towns | Townships / districts | Villages / neighborhoods |
+The Golden Dragon Empire is a **vast territorial state**, not a compact cluster of densely packed provinces. Its working territorial estimate is approximately **12.8 million km²** for a baseline population of 320 million. The area figures are broad worldbuilding estimates, not surveyed borders or a claim that every square kilometre is settled.
+
+| Region | Population planning estimate | Approx. area | Prefectures | Counties | Cities | Towns | Named rural villages in this atlas |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| Longyuan | 44 juta | 6 | 36 | 70 | 250 | 1,200 | 5,000 |
-| Canglan | 64 juta | 8 | 48 | 55 | 400 | 1,900 | 10,500 |
-| Jinyue | 32 juta | 5 | 30 | 35 | 180 | 900 | 4,200 |
-| Tianfeng | 40 juta | 6 | 36 | 60 | 240 | 1,200 | 6,000 |
-| Yanling | 36 juta | 6 | 36 | 40 | 220 | 1,000 | 5,200 |
-| Baiyue | 32 juta | 7 | 42 | 28 | 150 | 850 | 4,800 |
-| Xingluo | 72 juta | 8 | 48 | 80 | 400 | 2,150 | 14,300 |
-| **Empire total** | **320 juta** | **46** | **276** | **368** | **1,840** | **9,200** | **50,000** |
+| Longyuan | 44 million | 1.4 million km² | 6 | 36 | 70 | 250 | 4 |
+| Canglan | 64 million | 2.1 million km² | 8 | 48 | 55 | 400 | 4 |
+| Jinyue | 32 million | 1.6 million km² | 5 | 30 | 35 | 180 | 4 |
+| Tianfeng | 40 million | 1.5 million km² | 6 | 36 | 60 | 240 | 4 |
+| Yanling | 36 million | 1.8 million km² | 6 | 36 | 40 | 220 | 4 |
+| Baiyue | 32 million | 2.4 million km² | 7 | 42 | 28 | 150 | 4 |
+| Xingluo | 72 million | 2.0 million km² | 8 | 48 | 80 | 400 | 4 |
+| **Empire total** | **320 million** | **12.8 million km²** | **46** | **276** | **368** | **1,840** | **28** |
 
-These are administrative planning figures selected for a coherent large empire, not numbers previously specified in older lore. A city may be administered directly by a prefecture or the central government; a town is normally under a county. Township/district and village/neighborhood totals count registered units, not military posts or clan estates. Household registers remain the lowest population-registration unit and are not counted as a separate territorial tier.
+**Important settlement-count rule:** the 28 villages are the **named, notable rural villages currently catalogued for roleplay**, not a claim that only 28 rural communities physically exist across 12.8 million km². Unnamed hamlets, farmsteads, seasonal camps, and small settlements may exist but are not individually listed or assumed to have named institutions/NPCs. This replaces the old 50,000-village and 9,200-township/district bookkeeping totals, which were too granular for the current world map. The 46 prefectures and 276 counties remain unchanged so the existing civil-office roster and prefecture register stay valid. Cities and towns remain broad planning estimates, not exhaustive named-settlement lists.
+
+These administrative and territorial figures are owner-authorized working estimates. A city may be administered directly by a prefecture or the central government; a town is normally under a county. Military posts and clan estates are not counted as civilian settlements. Household registers remain a population-record unit, not a separate territorial tier.
 
 ## 2. Regional Prefecture Register
 
-Each region retains the identity already established in `world/WORLD.md`. The prefecture names and seats below are new additions. Each prefecture is assigned six counties for a consistent initial register. The six county names under each prefecture are working jurisdiction names; this register does not imply that every village inside them has already been individually catalogued.
+Each region retains the identity already established in `world/WORLD.md`. The prefecture names and seats below are new additions. Each prefecture is assigned six counties for a consistent initial register. The six county names under each prefecture are working jurisdiction names; this register does not imply that every settlement inside them has been individually catalogued. The regional area estimates below are intentionally broad to support a large, sparsely mapped fantasy territory.
 
 ### Longyuan — Imperial Heartland
 
 - **Population planning estimate:** 44 million
+- **Approximate territorial area:** 1.4 million km² (working estimate; not a surveyed boundary)
+- **Development and access profile:** Core — highest state presence and densest infrastructure
 - **Prefectures:** 6
 - **Counties:** 36
 - **Regional administrative seat:** Huanglongcheng (imperial capital)
@@ -42,9 +48,21 @@ Each region retains the identity already established in `world/WORLD.md`. The pr
 | 5 | River Crown Prefecture | Guanhe | Guanhe-Dong'an; Guanhe-Xi'an; Guanhe-Nantian; Guanhe-Beitian; Guanhe-Guqiao; Guanhe-Qingshui | Canals, grain stores, and capital transport |
 | 6 | White Stag Prefecture | Bailu | Bailu-Dong'an; Bailu-Xi'an; Bailu-Nantian; Bailu-Beitian; Bailu-Guqiao; Bailu-Qingshui | Estates, villas, and routes into the imperial heartland |
 
+
+**Four named rural villages (selected roleplay locations; not an exhaustive census):**
+
+| Village | Established local role |
+|---|---|
+| Dragonwell Village | Capital hinterland; farming and cart-road services |
+| Willowbend Village | Canal-side farming and ferry families |
+| Old Pine Village | Rural timber and herb gathering |
+| Millet Crossing Village | Grain exchange along a regional road |
+
 ### Canglan — Riverlands
 
 - **Population planning estimate:** 64 million
+- **Approximate territorial area:** 2.1 million km² (working estimate; not a surveyed boundary)
+- **Development and access profile:** Inner productive belt — fertile and populous, but services thin outside river corridors
 - **Prefectures:** 8
 - **Counties:** 48
 - **Regional administrative seat:** Qinghe
@@ -60,9 +78,21 @@ Each region retains the identity already established in `world/WORLD.md`. The pr
 | 7 | Lotus Ford Prefecture | Lianjin | Lianjin-Dong'an; Lianjin-Xi'an; Lianjin-Nantian; Lianjin-Beitian; Lianjin-Guqiao; Lianjin-Qingshui | River crossings and local commerce |
 | 8 | Granary Plain Prefecture | Cangping | Cangping-Dong'an; Cangping-Xi'an; Cangping-Nantian; Cangping-Beitian; Cangping-Guqiao; Cangping-Qingshui | Imperial granaries and intensive farming |
 
+
+**Four named rural villages (selected roleplay locations; not an exhaustive census):**
+
+| Village | Established local role |
+|---|---|
+| Reedbank Village | Riverbank farming and reedcraft |
+| Rainford Village | Seasonal ferry crossing and wetland crops |
+| Fish Lantern Village | Fishing, nets, and river trade |
+| Green Dike Village | Levee maintenance and rice cultivation |
+
 ### Jinyue — Mineral Lands
 
 - **Population planning estimate:** 32 million
+- **Approximate territorial area:** 1.6 million km² (working estimate; not a surveyed boundary)
+- **Development and access profile:** Outer resource belt — mining towns prosper while remote valleys remain underserved
 - **Prefectures:** 5
 - **Counties:** 30
 - **Regional administrative seat:** Yumai
@@ -75,9 +105,21 @@ Each region retains the identity already established in `world/WORLD.md`. The pr
 | 4 | Goldsand Prefecture | Jinsha | Jinsha-Dong'an; Jinsha-Xi'an; Jinsha-Nantian; Jinsha-Beitian; Jinsha-Guqiao; Jinsha-Qingshui | Precious metals and mineral markets |
 | 5 | Spirit Ore Prefecture | Lingkuang | Lingkuang-Dong'an; Lingkuang-Xi'an; Lingkuang-Nantian; Lingkuang-Beitian; Lingkuang-Guqiao; Lingkuang-Qingshui | Spiritual ores and artifact materials |
 
+
+**Four named rural villages (selected roleplay locations; not an exhaustive census):**
+
+| Village | Established local role |
+|---|---|
+| Orebrook Village | Ore sorting and mule-cart supply |
+| Jade Hollow Village | Small-scale stone and jade work |
+| Flintpass Village | Mountain road rest stop |
+| Ironroot Village | Charcoal, timber, and mine provisions |
+
 ### Tianfeng — Scholarly Heights
 
 - **Population planning estimate:** 40 million
+- **Approximate territorial area:** 1.5 million km² (working estimate; not a surveyed boundary)
+- **Development and access profile:** Inner-to-middle belt — education clusters around major seats; rural districts rely on local tutors
 - **Prefectures:** 6
 - **Counties:** 36
 - **Regional administrative seat:** Tianshu
@@ -91,9 +133,21 @@ Each region retains the identity already established in `world/WORLD.md`. The pr
 | 5 | Hundred Schools Prefecture | Baixue | Baixue-Dong'an; Baixue-Xi'an; Baixue-Nantian; Baixue-Beitian; Baixue-Guqiao; Baixue-Qingshui | Teaching institutions and exchange of knowledge |
 | 6 | Jade Lecture Prefecture | Yuyan | Yuyan-Dong'an; Yuyan-Xi'an; Yuyan-Nantian; Yuyan-Beitian; Yuyan-Guqiao; Yuyan-Qingshui | Lecture halls, examinations, and student housing |
 
+
+**Four named rural villages (selected roleplay locations; not an exhaustive census):**
+
+| Village | Established local role |
+|---|---|
+| Inkstone Village | Paper, ink, and copying work |
+| Crane Rest Village | Highland farming and caravan lodging |
+| Pine Scroll Village | Timber and modest manuscript trade |
+| Cloudstep Village | Mountain terrace farming |
+
 ### Yanling — Volcanic Mountains
 
 - **Population planning estimate:** 36 million
+- **Approximate territorial area:** 1.8 million km² (working estimate; not a surveyed boundary)
+- **Development and access profile:** Outer industrial belt — major furnaces are prosperous; isolated settlements receive fewer services
 - **Prefectures:** 6
 - **Counties:** 36
 - **Regional administrative seat:** Honglu
@@ -107,9 +161,21 @@ Each region retains the identity already established in `world/WORLD.md`. The pr
 | 5 | Emberstone Prefecture | Huoshi | Huoshi-Dong'an; Huoshi-Xi'an; Huoshi-Nantian; Huoshi-Beitian; Huoshi-Guqiao; Huoshi-Qingshui | Heat-resistant materials and craftwork |
 | 6 | Flame Basin Prefecture | Yanpen | Yanpen-Dong'an; Yanpen-Xi'an; Yanpen-Nantian; Yanpen-Beitian; Yanpen-Guqiao; Yanpen-Qingshui | Valley settlements and industrial furnaces |
 
+
+**Four named rural villages (selected roleplay locations; not an exhaustive census):**
+
+| Village | Established local role |
+|---|---|
+| Ashbrook Village | Water access and furnace supplies |
+| Ember Hollow Village | Kiln work and fuel gathering |
+| Redkiln Village | Pottery and basic metalwork |
+| Basalt Bend Village | Stone cutting and mountain transport |
+
 ### Baiyue — Frontier Marches
 
 - **Population planning estimate:** 32 million
+- **Approximate territorial area:** 2.4 million km² (working estimate; not a surveyed boundary)
+- **Development and access profile:** Frontier periphery — vast distances, sparse civilian services, stronger focus on roads and defense
 - **Prefectures:** 7
 - **Counties:** 42
 - **Regional administrative seat:** Beiguan
@@ -124,9 +190,21 @@ Each region retains the identity already established in `world/WORLD.md`. The pr
 | 6 | Long Pass Prefecture | Changguan | Changguan-Dong'an; Changguan-Xi'an; Changguan-Nantian; Changguan-Beitian; Changguan-Guqiao; Changguan-Qingshui | Caravan crossings and checkpoints |
 | 7 | Pine Shield Prefecture | Songdun | Songdun-Dong'an; Songdun-Xi'an; Songdun-Nantian; Songdun-Beitian; Songdun-Guqiao; Songdun-Qingshui | Frontier forests and local defense |
 
+
+**Four named rural villages (selected roleplay locations; not an exhaustive census):**
+
+| Village | Established local role |
+|---|---|
+| Watchfire Village | Roadside farming near a patrol route |
+| Stonegate Village | Passage guides and pack animals |
+| Falcon Nest Village | Hunting, trapping, and ridge paths |
+| Cold Pine Village | Forest gathering and winter stores |
+
 ### Xingluo — Eastern Ports
 
 - **Population planning estimate:** 72 million
+- **Approximate territorial area:** 2.0 million km² (working estimate; not a surveyed boundary)
+- **Development and access profile:** Distant maritime belt — wealthy ports coexist with neglected inland and outer-coast communities
 - **Prefectures:** 8
 - **Counties:** 48
 - **Regional administrative seat:** Dongxing
@@ -142,15 +220,30 @@ Each region retains the identity already established in `world/WORLD.md`. The pr
 | 7 | Far Lantern Prefecture | Yuandeng | Yuandeng-Dong'an; Yuandeng-Xi'an; Yuandeng-Nantian; Yuandeng-Beitian; Yuandeng-Guqiao; Yuandeng-Qingshui | Lighthouses, navigation, and outer routes |
 | 8 | Dragonwake Prefecture | Longchao | Longchao-Dong'an; Longchao-Xi'an; Longchao-Nantian; Longchao-Beitian; Longchao-Guqiao; Longchao-Qingshui | Trade convoys and coastal defense |
 
-## 3. Administrative Authority and Naming Rules
 
-1. **Huanglongcheng** is the newly established imperial capital and seat of the central government in Longyuan. It is not a new eighth region.
-2. Each regional governor oversees the region's prefectures. Each prefecture coordinates its six counties; each county coordinates its registered cities/towns and township/district offices. Local arrangements may vary when a major city is directly administered at a higher level.
-3. County names use the prefecture seat plus a directional or landmark designation to create a complete working register without inventing detailed local lore for every unit. These may be refined later if a regional module develops a better-supported settlement.
-4. Cities, towns, township/district offices, and villages are counted at regional level here, but the atlas does not assign a proper name to every one of those thousands of units. Name a specific settlement when a scene, regional development, or owner request needs it; then record it in the matching regional module.
-5. Official positions are separate from clan influence and noble status. A clan's specialization does not prove that it governs the matching region or prefecture.
-6. Military garrisons and fortresses are recorded separately from civilian administrative totals. Baiyue has a greater frontier-defense focus, but the number and names of individual garrisons must be recorded in its regional module when developed.
-7. If a later event changes borders, a prefecture seat, or the count of a jurisdiction, update this atlas first, then synchronize the affected regional module and `world/MAP_AND_REGIONS.md`.
+**Four named rural villages (selected roleplay locations; not an exhaustive census):**
+
+| Village | Established local role |
+|---|---|
+| Salt Lantern Village | Salt pans and coastal fishing |
+| Blue Net Village | Net-making and small-boat fishing |
+| Pearlshoal Village | Shellfish gathering and shallow-water trade |
+| Tidefarer Village | Coastal pilots and storm-season shelter |
+
+## 3. Centralization, Administrative Authority, and Naming Rules
+
+1. **Development follows proximity to the imperial center.** Huanglongcheng and the Longyuan core have the most complete roads, civil offices, schools, medical care, markets, skilled services, and public infrastructure. Access and quality generally decline with distance from the capital and major regional seats.
+2. **Outer regions are not uniformly prosperous.** Remote counties and villages may rely on family networks, local artisans, village elders, travelling healers, caravan traders, and community labor. Government services may be infrequent, understaffed, delayed, or absent. A wealthy port, mine, or furnace district can still exist inside a region with neglected hinterlands.
+3. **Centralization is a gradient, not a hard border.** A regional seat or major trade route can be comparatively prosperous even far from Huanglongcheng, while isolated settlements near the center may remain poor. Do not assume every resident experiences the region's average wealth or service access.
+
+
+4. **Huanglongcheng** is the newly established imperial capital and seat of the central government in Longyuan. It is not a new eighth region.
+5. Each regional governor oversees the region's prefectures. Each prefecture coordinates its six counties; each county coordinates its registered cities/towns and township/district offices. Local arrangements may vary when a major city is directly administered at a higher level.
+6. County names use the prefecture seat plus a directional or landmark designation to create a complete working register without inventing detailed local lore for every unit. These may be refined later if a regional module develops a better-supported settlement.
+4. The atlas catalogues only four named rural villages per region at present. These are the main rural locations intended for ordinary roleplay, not a census of every hamlet or farmstead in the Empire. Do not generate hundreds or thousands of named villages by default; add another only when a scene or owner request needs it, and record it in the matching regional module.
+7. Official positions are separate from clan influence and noble status. A clan's specialization does not prove that it governs the matching region or prefecture.
+8. Military garrisons and fortresses are recorded separately from civilian administrative totals. Baiyue has a greater frontier-defense focus, but the number and names of individual garrisons must be recorded in its regional module when developed.
+9. If a later event changes borders, a prefecture seat, or the count of a jurisdiction, update this atlas first, then synchronize the affected regional module and `world/MAP_AND_REGIONS.md`.
 
 ## 4. Naming Logic by Region
 

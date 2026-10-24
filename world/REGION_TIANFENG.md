@@ -75,9 +75,11 @@ The prefecture seats listed below are established by `world/GOLDEN_DRAGON_EMPIRE
 
 | Name | Type | Role / influence | Confirmed relationship or control | Canon source |
 |---|---|---|---|---|
-| Belum ditetapkan | — | — | — | — |
+| See `GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` | Current civil officeholders | Named governor, prefects, and county magistrates | Roster is authoritative for names and dispositions | `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` |
 
 ## 8. Regional NPC Registry
+
+**Current civil officeholders:** Consult `GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` for the named regional governor, prefects, and county magistrates, including their cultivation, Martial Souls, backgrounds, motivations, and political dispositions. That roster is authoritative for current civil appointments.
 Use `templates/NPC_PROFILE_TEMPLATE.md` for named NPC profiles. Do not reveal hidden identities before a credible in-world discovery.
 
 | Name / public identity | Location | Role | Public traits | Profile link / source |

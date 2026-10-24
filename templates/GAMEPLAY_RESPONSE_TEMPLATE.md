@@ -6,7 +6,7 @@ Semua trigger awal (`CONVO`), recall, dan giliran lanjutan wajib mengikuti templ
 
 ## Format Wajib — MODE: NO STEP
 
-Pertahankan struktur, urutan field, nama field, ornamen visual, dan penutup berikut. Isi berdasarkan state serta kejadian yang benar-benar tercatat. `???` hanya untuk identitas karakter yang benar-benar tidak dikenal atau nama Martial Soul yang belum diketahui. Field numerik yang belum tercatat diisi `0`, kecuali HP awal mengikuti inisialisasi resmi dan Day left yang belum dapat dihitung ditulis `Belum ditetapkan`. Jika belum ada Spirit Ring yang sedang diproses, Sync progress ditulis `0%/0%`. Field nonnumerik lain yang belum ditetapkan ditulis `Belum ditetapkan`. Jangan pernah mengirim placeholder contoh seperti `...` sebagai nilai akhir field.
+Pertahankan struktur, urutan field, nama field, ornamen visual, dan penutup berikut. Isi berdasarkan state serta kejadian yang benar-benar tercatat. `???` hanya untuk identitas karakter yang benar-benar tidak dikenal atau nama Martial Soul yang belum diketahui. Field numerik yang belum tercatat diisi `0`, kecuali HP awal mengikuti inisialisasi resmi dan Day left hanya berlaku untuk jeda minimum penyerapan Spirit Ring; bila tidak dapat dihitung, tulis `Belum ditetapkan`. Jika belum ada Spirit Ring yang sedang diproses, Sync progress ditulis `0%/0%`. Field nonnumerik lain yang belum ditetapkan ditulis `Belum ditetapkan`. Jangan pernah mengirim placeholder contoh seperti `...` sebagai nilai akhir field.
 
 ```text
 🕒 Waktu Merzkava Universe
@@ -42,7 +42,7 @@ Tujuan Saat Ini: ...
 
 - GM dilarang melakukan overclaim yang memaksakan karakter ke kondisi survival, kerapuhan, atau konsekuensi tidak masuk akal tanpa dasar mekanik maupun kejadian yang jelas.
 - Profil harus konsisten dengan profil terakhir. Perubahan status wajib memiliki penyebab yang tercatat.
-- Pada sesi baru, cocokkan nama karakter di `players.md`, lalu ambil Wallet dari file `players/<Nama>.md` yang sesuai. Jika Authority secara eksplisit menetapkan saldo, gunakan sumber Authority tersebut. Jika saldo tidak tercatat pada sumber yang berlaku, tetapkan satu saldo bootstrap konkret sesuai `core/10_ECONOMY_SYSTEM.md`. Jangan menebak dari Assets atau pekerjaan dan jangan mengundi ulang. Pada sesi berlanjut, gunakan Wallet dari profil gameplay terakhir beserta transaksi sah setelahnya.
+- Pada sesi baru, cocokkan nama karakter di `players.md`, lalu ambil Wallet dari file `players/<Nama>.md` yang sesuai. `Assets Bangunan` hanya berisi bangunan/properti tercatat; jangan memindahkan tabungan atau penghasilan ke field itu. Jika Authority secara eksplisit menetapkan saldo, gunakan sumber Authority tersebut. Jika saldo tidak tercatat pada sumber yang berlaku, tetapkan satu saldo bootstrap konkret sesuai `core/10_ECONOMY_SYSTEM.md`. Jangan menebak dari Assets atau pekerjaan dan jangan mengundi ulang. Pada sesi berlanjut, gunakan Wallet dari profil gameplay terakhir beserta transaksi sah setelahnya.
 - Setiap teknik atau kemampuan wajib disertai deskripsi fungsi yang jelas dan sesuai modul resmi.
 - Jangan mengarang informasi yang belum ditetapkan. Gunakan `???` hanya untuk identitas karakter yang benar-benar tidak dikenal atau nama Martial Soul yang belum diketahui. Field numerik yang belum tercatat gunakan `0`; field nonnumerik lain gunakan `Belum ditetapkan` atau `Tidak ada` jika ketiadaan memang diketahui.
 
@@ -60,7 +60,7 @@ Aksiku : --
 - **Timestamp:** ikuti `gameplay/TIME_AND_ACTION_RULES.md`. Pada sesi baru tanpa timestamp, tetapkan kalender sesi yang konsisten; pada sesi lanjutan, lanjutkan timestamp terakhir yang sah.
 - **Profil:** jangan mengganti, mengurutkan ulang, menghilangkan, atau menambah field tanpa persetujuan pemilik repository. Nilai state harus berasal dari profil terakhir dan kejadian sah. Pertahankan ornamen kotak profil di atas.
 - **Definisi field:** gunakan `templates/CHARACTER_PROFILE_TEMPLATE.md`. File tersebut mendefinisikan arti field dan konsistensi state; file ini menentukan bentuk visual serta urutannya.
-- **Breakthrough / Day left:** isi sesuai definisi di bagian terkait `templates/CHARACTER_PROFILE_TEMPLATE.md` dan interval resmi di `bestiary/SPIRIT_BEAST_RULES.md`. `0 Day left` bukan jaminan breakthrough.
+- **Breakthrough / Day left:** `Day left` hanya menghitung jeda minimum antarpenyerapan Spirit Ring yang berhasil, bukan timer breakthrough kultivasi umum. Ikuti `templates/CHARACTER_PROFILE_TEMPLATE.md` dan interval resmi di `bestiary/SPIRIT_BEAST_RULES.md`. `0 Day left` bukan jaminan breakthrough atau penyerapan ring berhasil.
 - **HP dan cedera:** gunakan `core/HP_SYSTEM.md` serta `core/INJURY_SYSTEM.md` sebagai dua state terpisah.
 - **Satiety:** tampilkan `Satiety: nilai/100` dan hitung hanya menurut `core/HUNGER_AND_METABOLISM.md`; tidur malam yang dilindungi mengunci nilai ini.
 - **Combat:** satu aksi dapat memuat beberapa hit atau combo jika diizinkan `gameplay/COMBAT_SYSTEM.md`; jangan menyamakan satu aksi dengan satu hit.

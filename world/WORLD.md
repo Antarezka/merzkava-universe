@@ -1,4 +1,4 @@
-XUANLING REALM — WORLD LORE & POLITICAL ATLAS
+MERZKAVA UNIVERSE — WORLD LORE & POLITICAL ATLAS
 
 «Document Type: Core Worldbuilding
 Status: Canon Foundation
@@ -9,7 +9,7 @@ Related Modules: "world/MAP_AND_REGIONS.md", "world/FACTIONS.md", "world/HISTORY
 
 I. WORLD OVERVIEW
 
-Xuanling Realm adalah dunia kultivasi luas yang kekuatannya ditentukan oleh Martial Soul, Spirit Ring, teknik, pengalaman, sumber daya, dan pengaruh politik.
+Merzkava Universe adalah dunia kultivasi luas yang kekuatannya ditentukan oleh Martial Soul, Spirit Ring, teknik, pengalaman, sumber daya, dan pengaruh politik.
 
 Sistem kultivasi memiliki sembilan Realm dengan urutan resmi: Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, dan Spirit Primordial. Setiap Realm memiliki empat Stage: Early, Middle, Late, dan Peak. Setiap Realm membuka satu slot Spirit Ring tambahan.
 
@@ -27,7 +27,7 @@ Selain kekuasaan politik dan kelompok kultivasi, Medicine Hall Society memiliki 
 
 Dunia ini tidak memiliki satu kekuatan yang mampu mengendalikan semua pihak. Perjanjian dapat berubah, wilayah dapat diperebutkan, dan keseimbangan politik dapat bergeser mengikuti kepentingan serta kemampuan pihak-pihak yang terlibat.
 
-Manusia bukan satu-satunya kaum berakal di Xuanling Realm. Beragam kaum dan garis keturunan hidup di dunia ini, termasuk manusia berfitur rubah, wyvern, laut, sayap kupu-kupu, unsur api, dan banyak bentuk lain. Sebagian menghadapi diskriminasi atau eksploitasi, sementara kelompok ortodoks, heterodoks, demonic, maupun independen tertentu dapat menerima atau melindungi mereka. Rincian kaum dan perlakuan sosial mengikuti `world/INTELLIGENT_PEOPLES.md`.
+Manusia bukan satu-satunya kaum berakal di Merzkava Universe. Beragam kaum dan garis keturunan hidup di dunia ini, termasuk manusia berfitur rubah, wyvern, laut, sayap kupu-kupu, unsur api, dan banyak bentuk lain. Sebagian menghadapi diskriminasi atau eksploitasi, sementara kelompok ortodoks, heterodoks, demonic, maupun independen tertentu dapat menerima atau melindungi mereka. Rincian kaum dan perlakuan sosial mengikuti `world/INTELLIGENT_PEOPLES.md`.
 
 Bentang alam luas di antara kekuasaan utama mencakup hutan, pegunungan, jurang, lembah, dan puncak-puncak yang menembus lautan awan. Reruntuhan masa lampau dapat tersebar di daratan maupun palung samudra. Orientasi dunia, habitat liar, dan transportasi mengikuti `world/GEOGRAPHY_AND_TRAVEL.md` serta `world/MAP_AND_REGIONS.md`.
 
@@ -542,7 +542,7 @@ IX. MEDICINE HALL SOCIETY
 
 5.1 Identitas dan fungsi
 
-Medicine Hall Society adalah jaringan tabib, alkemis, ahli pengobatan, dan praktisi penyembuhan yang beroperasi di berbagai wilayah Xuanling Realm.
+Medicine Hall Society adalah jaringan tabib, alkemis, ahli pengobatan, dan praktisi penyembuhan yang beroperasi di berbagai wilayah Merzkava Universe.
 
 Mereka bukan kekuatan politik tunggal yang menguasai seluruh dunia. Pengaruhnya berasal dari kebutuhan masyarakat terhadap pengobatan, pengetahuan medis, ramuan, dan perawatan setelah pertempuran atau proses kultivasi yang berbahaya.
 
@@ -622,7 +622,7 @@ Ketiga organisasi tersebut tidak otomatis memiliki kendali penuh atas setiap wil
 
 XI. KERANGKA EKONOMI DUNIA
 
-Ekonomi Xuanling Realm berkembang melalui pertanian, kerajinan, pertambangan, perdagangan, pengolahan bahan Spirit Beast, pembuatan artefak, dan layanan kultivasi.
+Ekonomi Merzkava Universe berkembang melalui pertanian, kerajinan, pertambangan, perdagangan, pengolahan bahan Spirit Beast, pembuatan artefak, dan layanan kultivasi.
 
 Ketersediaan barang serta harga dapat berbeda berdasarkan lokasi, musim, jalur transportasi, kelangkaan bahan, risiko perjalanan, dan situasi politik.
 
@@ -648,7 +648,7 @@ Aturan resmi mata uang, kurs, harga, kualitas barang, kelangkaan musiman, distri
 
 XII. SEJARAH, RELIK, DAN ARTEFAK
 
-Xuanling Realm memiliki sejarah panjang yang belum seluruhnya diketahui oleh penduduk masa kini. Reruntuhan, benda peninggalan, catatan kuno, dan teknik yang terlupakan dapat ditemukan di berbagai wilayah.
+Merzkava Universe memiliki sejarah panjang yang belum seluruhnya diketahui oleh penduduk masa kini. Reruntuhan, benda peninggalan, catatan kuno, dan teknik yang terlupakan dapat ditemukan di berbagai wilayah.
 
 Namun, tidak setiap reruntuhan merupakan peninggalan zaman purba, dan tidak setiap artefak kuat berasal dari peradaban kuno.
 
@@ -711,7 +711,7 @@ Aturan berikut digunakan untuk menjaga agar pengembangan dunia tetap konsisten.
 
 XIV. MODUL YANG AKAN DIKEMBANGKAN
 
-Dokumen ini menjadi dasar atlas dunia dan politik Xuanling Realm. Rincian yang terlalu luas akan dikembangkan dalam berkas khusus agar mudah dirawat.
+Dokumen ini menjadi dasar atlas dunia dan politik Merzkava Universe. Rincian yang terlalu luas akan dikembangkan dalam berkas khusus agar mudah dirawat.
 
 Berkas| Isi utama
 "world/MAP_AND_REGIONS.md" dan "world/GEOGRAPHY_AND_TRAVEL.md"| Peta, geografi, jarak, rute perjalanan, iklim, transportasi, dan lokasi penting

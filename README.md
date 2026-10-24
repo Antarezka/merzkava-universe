@@ -10,7 +10,7 @@
 ![World Systems](https://img.shields.io/badge/WORLD_SYSTEMS-FFB36B?style=for-the-badge&labelColor=151515&color=FFB36B)
 ![Roleplay](https://img.shields.io/badge/ROLEPLAY-FFB36B?style=for-the-badge&labelColor=151515&color=FFB36B)
 
-*A structured Eastern Fantasy cultivation universe spanning a main world, divine realms, dimensions, and primordial worlds. Its established main-world systems include cultivation, Martial Souls, Spirit Beasts, Spirit Rings, and persistent world events.*
+*A structured Eastern Fantasy roleplay setting built around cultivation, Martial Souls, Spirit Beasts, Spirit Rings, and persistent world events.*
 
 [**OPEN THE INDEX**](INDEX.md) · [PLAYER CONVERSATION TEMPLATE](templates/PLAYER_CONVERSATION_TEMPLATE.md) · [WORLD LORE](world/WORLD.md)
 
@@ -33,8 +33,7 @@
 
 | FILE | DESCRIPTION |
 |---|---|
-| [Cosmology Framework](world/COSMOLOGY.md) | Universe scope, main world, divine realms, dimensions, and primordial worlds |
-| [World Overview](world/WORLD.md) | Established main-world foundations and the three major powers |
+| [World Overview](world/WORLD.md) | World foundations and the three major powers |
 | [Map & Regions](world/MAP_AND_REGIONS.md) | Regional index and geographic knowledge boundaries |
 | [Geography & Travel](world/GEOGRAPHY_AND_TRAVEL.md) | Terrain, transportation, travel, and route information |
 | [Intelligent Peoples](world/INTELLIGENT_PEOPLES.md) | Peoples, traits, and social context |
@@ -93,7 +92,7 @@ For any transaction, exchange rate, price assessment, or balance change, follow 
 
 <div align="center">
 
-**MERZKAVA UNIVERSE // WORLD ARCHIVE**
+**INVESTIGATION FILE // MERZKAVA UNIVERSE**
 
 <sub>LIGHT ORANGE EDITION · #FFB36B / #151515 / #FFFFFF</sub>
 

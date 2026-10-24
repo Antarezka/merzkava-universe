@@ -12,7 +12,7 @@ Already established in the repository:
 - **Ninefold Concord Bank** is an interregional financial institution; its services may include deposits, transfers, debt records, and trade financing. It seeks operational neutrality, but branches can face pressure or crime.
 - **Myriad Ledger Exchange** brokers information, contacts, buyers/sellers, and market information. Its reports can be incomplete or wrong.
 - **Medicine Hall Society** is a neutral medical network spread across the world; its specific branches and hierarchy were not previously named.
-- **Cultivator Academies** are an established educational concept, but specific institutions, locations, admission rules, fees, and school systems were left undefined.
+- **Cultivator Academies** were an established educational concept; this revision now names two central institutions and establishes their boarding model. Admission rules, fees, and detailed school policies remain undefined.
 - **Ordo Suci Tianming** is a world-spanning religious organization headquartered at the Sanctum of Ten Thousand Vows in Wanluo. Its broad network includes religious houses and observation/assessment facilities; its individual branch names were not specified.
 
 This register fills selected missing *institution names and locations* for the Empire. Specific branch names, academy names, and locations below are new worldbuilding additions. The academy and library lists are intentionally selective, not a uniform network across the Empire.

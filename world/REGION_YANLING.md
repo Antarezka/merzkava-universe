@@ -53,7 +53,7 @@ The prefecture seats listed below are established by `world/GOLDEN_DRAGON_EMPIRE
 
 
 ## 4. Local Society and Daily Life
-- Peoples and population: Belum ditetapkan
+- Local demographics and population distribution within settlements: Belum ditetapkan; regional planning total is listed in Section 2A.
 - Social structure and customs: Belum ditetapkan
 - Language and local etiquette: Belum ditetapkan
 - Ordinary occupations and services: Belum ditetapkan

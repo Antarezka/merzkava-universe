@@ -641,7 +641,7 @@ Barang langka tidak otomatis tersedia hanya karena seorang karakter memiliki uan
 
 7.3 Modul ekonomi terpisah
 
-Rincian mata uang, kurs, harga makanan, penginapan, obat, artefak, biaya layanan, pendapatan, pajak, sistem perbankan, serta mekanisme perdagangan direncanakan untuk berkas terpisah "world/ECONOMY.md". File tersebut belum tersedia; sampai dibuat, angka harga yang belum disepakati bukan fakta kanon permanen.
+Aturan resmi mata uang, kurs, harga, kualitas barang, kelangkaan musiman, distribusi, penyesuaian pasar, dan transaksi ditetapkan di `core/10_ECONOMY_SYSTEM.md`. Gunakan modul itu sebagai satu-satunya acuan mekanik ekonomi. `world/WEALTH_DISTRIBUTION.md` hanya menetapkan baseline persebaran total kekayaan global, sedangkan `world/SOCIAL_STRATIFICATION.md` menjelaskan kelas sosial dan kondisi hidup; keduanya tidak menggantikan aturan kurs atau transaksi.
 
 Sebelum rincian tersebut ditetapkan, GM tidak boleh memperlakukan angka harga yang belum disepakati sebagai fakta kanon permanen.
 
@@ -718,7 +718,7 @@ Berkas| Isi utama
 "world/MAP_AND_REGIONS.md" dan "world/GEOGRAPHY_AND_TRAVEL.md"| Peta, geografi, jarak, rute perjalanan, iklim, transportasi, dan lokasi penting
 "world/INTELLIGENT_PEOPLES.md"| Kaum berakal, garis keturunan, dan perlakuan sosial
 "world/FACTIONS.md"| Sekte, klan, organisasi, pemimpin, hierarki, hubungan, dan konflik
-"world/ECONOMY.md"| Mata uang, harga, perdagangan, pajak, pendapatan, perbankan, dan layanan
+`core/10_ECONOMY_SYSTEM.md`| Mata uang resmi Xuan, kurs, harga, kualitas barang, kelangkaan, distribusi, pasar, dan transaksi
 "core/CULTIVATION_SYSTEM.md", "core/MARTIAL_SOUL.md", dan "core/SPIRIT_RING_RULES.md"| Sistem kultivasi, Martial Soul, Spirit Ring, breakthrough, dan batas kemampuan
 "bestiary/SPIRIT_BEAST_RULES.md"| Jenis Spirit Beast, habitat, usia, kemampuan, mutasi, dan evolusi
 "world/ARTIFACTS_AND_RELICS.md"| Tingkatan artefak, pembuatan, bahan, perawatan, dan batas kemampuan

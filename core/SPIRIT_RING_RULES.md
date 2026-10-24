@@ -80,38 +80,49 @@ Deviasi: makin besar jarak Sync progress dari cap ketika breakthrough dipaksakan
 
 ### 5.1. Persentase deviasi dan tingkat ring
 
-Persentase deviasi (**D**) menunjukkan seberapa besar deviasi yang terjadi, dari 1% sampai 100%. Persentase ini diterapkan pada nilai dasar yang meningkat sesuai nomor ring. Ring 1 adalah tingkat terendah; semakin tinggi nomor ring, semakin besar kehilangan HP pada persentase deviasi yang sama.
+Persentase deviasi (**D**) menunjukkan seberapa besar deviasi yang terjadi, dari 1% sampai 100%. Kehilangan HP dasar dihitung sebagai persentase dari **HP maksimum karakter saat percobaan**, lalu dikalikan faktor tingkat ring. Dengan demikian, hasil menyesuaikan total cap HP karakter dan meningkat seiring nomor ring.
 
 - **D = 1–100%** sesuai tingkat deviasi aktual.
-- Ring 1 pada deviasi 100% menjadi patokan dasar: kehilangan 15–19 poin HP.
-- Setiap nomor ring berikutnya memiliki nilai dasar 15–19 HP tambahan pada deviasi 100%, dibanding ring sebelumnya.
+- Pada deviasi 100%, Ring 1 kehilangan HP dasar sebesar 30% dari HP maksimum karakter.
+- Faktor ring meningkat secara bertahap dari ×1,00 pada Ring 1 hingga ×2,00 pada Ring 9.
+- Nomor ring yang dipakai adalah ring yang sedang diproses, **N = 1–9**.
+- Gunakan HP maksimum sesuai Realm dan Stage karakter pada `core/HP_SYSTEM.md`; jangan memakai HP saat ini sebagai dasar persentase.
 - Jangan menyamakan persentase deviasi dengan kategori risiko. Kategori risiko tetap ditentukan dari poin HP yang benar-benar hilang pada §5.3.
 
 ### 5.2. Rumus dan tabel kehilangan HP dasar
 
-Gunakan **N** sebagai nomor Spirit Ring yang sedang diproses (1–9), dan **D** sebagai persentase deviasi (1–100).
+Gunakan:
+- **H** = HP maksimum karakter saat percobaan, sesuai `core/HP_SYSTEM.md`.
+- **N** = nomor Spirit Ring yang sedang diproses (1–9).
+- **D** = persentase deviasi (1–100%).
 
-- `Batas bawah = round(15 × N × D / 100)`
-- `Batas atas = round(19 × N × D / 100)`
+Rumus tunggal:
+
+`Faktor ring = 1 + ((N − 1) / 8)`
+
+`Kehilangan HP dasar = round(H × 0,30 × (D / 100) × Faktor ring)`
+
+- Ring 1 menggunakan faktor ×1,00; Ring 9 menggunakan faktor ×2,00.
+- Pada deviasi 100%, Ring 1 mengurangi 30% HP maksimum; Ring 9 mengurangi 60% HP maksimum. Ring di antaranya meningkat bertahap.
 - Pembulatan ke bilangan bulat terdekat; nilai tepat x,5 dibulatkan ke atas.
-- Pilih satu angka bulat di dalam rentang yang dihasilkan untuk menentukan kehilangan HP dasar. Jangan selalu memilih angka tertinggi atau terendah tanpa alasan.
-- Angka adalah poin HP, bukan persentase HP maksimum.
+- Hasil rumus adalah poin HP. Setelah pengali pemaksaan diterapkan, kehilangan aktual tidak boleh melebihi HP saat ini.
+- Jangan gunakan rentang acak 15–19 HP lama; rumus berbasis HP maksimum ini menggantikannya.
 
-Tabel berikut menunjukkan kehilangan HP dasar saat **deviasi mencapai 100%**:
+Tabel faktor ring pada deviasi 100%:
 
-| Nomor Spirit Ring | Nama Realm terkait | Deviasi | Kehilangan HP dasar |
+| Nomor Spirit Ring | Nama Realm terkait | Faktor ring | Kehilangan HP dasar sebagai persentase HP maksimum |
 |---:|---|---:|---:|
-| 1 | Spirit Initiate | 100% | 15–19 HP |
-| 2 | Spirit Adept | 100% | 30–38 HP |
-| 3 | Spirit Elder | 100% | 45–57 HP |
-| 4 | Spirit Monarch | 100% | 60–76 HP |
-| 5 | Spirit King | 100% | 75–95 HP |
-| 6 | Spirit Ancestor | 100% | 90–114 HP |
-| 7 | Spirit Emperor | 100% | 105–133 HP |
-| 8 | Spirit Sovereign | 100% | 120–152 HP |
-| 9 | Spirit Primordial | 100% | 135–171 HP |
+| 1 | Spirit Initiate | ×1,00 | 30% |
+| 2 | Spirit Adept | ×1,125 | 33,75% |
+| 3 | Spirit Elder | ×1,25 | 37,5% |
+| 4 | Spirit Monarch | ×1,375 | 41,25% |
+| 5 | Spirit King | ×1,50 | 45% |
+| 6 | Spirit Ancestor | ×1,625 | 48,75% |
+| 7 | Spirit Emperor | ×1,75 | 52,5% |
+| 8 | Spirit Sovereign | ×1,875 | 56,25% |
+| 9 | Spirit Primordial | ×2,00 | 60% |
 
-Untuk deviasi di bawah 100%, skalakan rentang sesuai rumus. Contoh: Ring 2 pada deviasi 50% menghasilkan 15–19 HP dasar; Ring 9 pada deviasi 50% menghasilkan 68–86 HP dasar setelah pembulatan. Karena itu, deviasi 100% pada ring tingkat lebih tinggi selalu memiliki kehilangan HP dasar yang lebih besar daripada deviasi 100% pada ring sebelumnya.
+Untuk deviasi di bawah 100%, kalikan hasil persentase pada tabel dengan D/100. Contoh: karakter dengan HP maksimum 1.000 yang memproses Ring 3 pada deviasi 50% kehilangan `round(1.000 × 0,30 × 0,50 × 1,25) = 188 HP` dasar. Karakter dengan HP maksimum 8.950 yang memproses Ring 9 pada deviasi 100% kehilangan `round(8.950 × 0,30 × 1,00 × 2,00) = 5.370 HP` dasar. Jadi, hasil menyesuaikan HP maksimum karakter dan tingkat ring; nilai Ring 100% selalu meningkat saat nomor ring bertambah.
 
 ### 5.3. Kategori risiko berdasarkan poin HP yang hilang
 
@@ -142,12 +153,12 @@ Rentang pada §5.2 adalah dampak dasar ketika tidak ada pelanggaran tambahan. Ji
 
 `Gap = cap kompatibilitas − Sync progress saat ini`. Pengali gap dan pengali pelanggaran jeda **tidak ditumpuk**: gunakan pengali terbesar yang berlaku. Ini mencegah hukuman berlipat ganda dari satu kejadian yang sama. Jika Gap ≥10, proses tetap tidak sah menurut syarat bottleneck; pengali ×2,00 hanya dipakai bila narasi/kejadian secara eksplisit menyatakan karakter tetap memaksakan proses dan GM menyelesaikan konsekuensinya.
 
-Setelah pengali diterapkan, bulatkan hasil ke bilangan bulat terdekat (x,5 ke atas), batasi kehilangan aktual agar tidak melebihi HP saat ini, lalu tentukan kategori risiko dari kehilangan aktual. Contoh: Ring 9 menghasilkan 17 HP dasar; jika pengali ×1,50 berlaku, hasilnya 26 HP sebelum batas HP saat ini, dan kategorinya Menengah Tinggi jika seluruh 26 HP benar-benar hilang.
+Setelah pengali diterapkan, bulatkan hasil ke bilangan bulat terdekat (x,5 ke atas), batasi kehilangan aktual agar tidak melebihi HP saat ini, lalu tentukan kategori risiko dari kehilangan aktual. Contoh: karakter dengan HP maksimum 1.000 yang memproses Ring 3 pada deviasi 50% memiliki kehilangan dasar 188 HP; jika pengali ×1,50 berlaku, hasilnya 282 HP sebelum batas HP saat ini. Kategori risiko ditentukan dari kehilangan aktual setelah batas HP saat ini diterapkan.
 
 ### 5.5. Alur wajib GM
 
 1. Tentukan nomor ring yang sedang diserap dan persentase deviasi aktual (1–100%) dari §5.1.
-2. Hitung rentang HP dasar memakai §5.2, lalu pilih satu nilai dalam rentang.
+2. Hitung kehilangan HP dasar memakai HP maksimum karakter, nomor ring, dan persentase deviasi sesuai §5.2.
 3. Hitung Gap dan periksa jeda minimum. Jika ada pelanggaran, pilih satu pengali menurut §5.4; jangan menumpuk pengali.
 4. Kalikan kehilangan dasar dengan pengali, lalu bulatkan sesuai aturan.
 5. Terapkan damage HP: kehilangan aktual tidak boleh melebihi HP saat ini dan HP tidak boleh turun di bawah 0.

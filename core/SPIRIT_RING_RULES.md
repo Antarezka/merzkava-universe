@@ -15,7 +15,7 @@ Spirit Ring diperoleh melalui Spirit Beast dan proses perolehan yang sah.
 - Perburuan dan penaklukan Beast dapat berlangsung di hutan atau lokasi berbahaya.
 - Jangan mewajibkan pemburu membawa Beast ke tempat meditasi aman sebelum perburuan selesai.
 - Mengalahkan Beast memunculkan ring, tetapi tidak berarti karakter otomatis berhasil menyerapnya.
-- Kemampuan yang didapat dari ring harus sesuai dengan Beast dan hasil penyerapan yang benar-benar terjadi. Jangan mengarang kemampuan baru tanpa dasar.
+- Kemampuan hasil penyerapan harus memiliki dasar pada interaksi Martial Soul pemilik, karakteristik Spirit Beast/ring, rumusan kemampuan, dan hasil sinkronisasi yang benar-benar terjadi. Ring tidak harus sekadar menyalin kemampuan Beast secara mentah: interaksi itu dapat membentuk kombinasi baru yang sesuai dengan apa yang sudah dapat dilakukan Martial Soul. Jangan mengarang kemampuan tanpa dasar yang dapat ditelusuri.
 
 ## 2. Usia Spirit Ring dan Toleransi Tubuh
 
@@ -170,6 +170,21 @@ Setelah pengali diterapkan, bulatkan hasil ke bilangan bulat terdekat (x,5 ke at
 Jika penyerapan gagal, jangan menambahkan ring ke jumlah yang dimiliki. Terapkan konsekuensi kegagalan dan deviasi sesuai kejadian yang benar-benar terjadi.
 
 Penyerapan paksa membuat sinkronisasi 100% nyaris mustahil. Penyerahan sukarela oleh Spirit Beast membuat sinkronisasi 100% lebih mungkin, tetapi tidak menjamin keberhasilan.
+### 5.6. Pembentukan dan kombinasi kemampuan Spirit Ring
+
+Kemampuan yang diperoleh dari Spirit Ring terbentuk melalui interaksi antara **Martial Soul yang sudah dimiliki**, karakteristik Spirit Beast/ring yang diserap, rumusan atau formulasi kemampuan, serta hasil sinkronisasi. Spirit Ring memperluas atau mengombinasikan kemampuan Martial Soul; hasilnya tidak harus menjadi salinan langsung kemampuan Beast.
+
+- **Kombinasi mengikuti fondasi yang ada.** Pertimbangkan bentuk, sifat, dan hal-hal yang memang dapat dilakukan Martial Soul; karakteristik Beast/ring; rumusan kemampuan yang digunakan; serta tingkat keberhasilan dan sinkronisasi penyerapan.
+- Contoh: Martial Soul berupa **Pedang Es** menyerap Spirit Ring dari Spirit Beast bertipe api. Setelah rumusan dan sinkronisasi yang sesuai, hasilnya mungkin berupa teknik pedang yang memadukan es dan api, serangan langsung, efek jarak jauh, gangguan mental, fungsi utilitas, atau kombinasi lain yang masuk akal. Ini contoh kemungkinan, bukan kemampuan yang otomatis diperoleh atau dijamin berhasil.
+- Bentuk hasil dapat berupa serangan langsung, serangan mental, pertahanan, mobilitas, pengendalian, pendeteksian, dukungan, utilitas, atau fungsi lain. Daftar ini bersifat ilustratif dan **tidak membatasi kemungkinan kombinasi**.
+- Perbedaan atau pertentangan unsur tidak otomatis melarang kombinasi, tetapi juga tidak menjamin hasil hibrida yang kuat. Pertimbangkan karakteristik nyata Martial Soul dan ring, rumusan, kompatibilitas, sinkronisasi, risiko deviasi, serta kejadian yang tercatat.
+- Jangan menganggap setiap ring pasti memberikan satu kemampuan dengan bentuk standar yang sama. Jangan pula menganggap ring dengan Beast yang sama selalu menghasilkan kemampuan identik pada Martial Soul yang berbeda.
+- Umur atau tier ring saja tidak cukup untuk menentukan kemampuan akhir. Jangan menyimpulkan bahwa ring yang lebih tua pasti menghasilkan kemampuan yang lebih cocok, lebih serbaguna, atau lebih kuat.
+- Jenis kemampuan tidak dibatasi oleh daftar contoh, tetapi setiap hasil individual tetap harus konsisten dengan sumber ring, Martial Soul, rumusan, sinkronisasi, dan hasil penyerapan. “Kemungkinan tidak terbatas” berarti tidak ada katalog bentuk yang tertutup—bukan berarti karakter bisa mendapatkan efek apa pun tanpa sebab.
+- Bila rumusan, tingkat sinkronisasi, atau detail hasil yang dibutuhkan belum ditetapkan, GM harus menanyakan atau menyelesaikan bagian yang diperlukan melalui mekanik resmi yang tersedia. Jangan mengarang persentase keberhasilan, biaya, statistik, cooldown, atau efek permanen baru.
+- Setelah penyerapan berhasil, catat deskripsi kemampuan yang benar-benar terbentuk dalam bagian Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada. Jangan menambah field profil baru hanya untuk kombinasi ring.
+
+
 ## 6. Rumus Kompatibilitas, Power Scale, dan Qi
 
 ### 6.1. Kompatibilitas setiap ring

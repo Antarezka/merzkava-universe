@@ -1,4 +1,4 @@
-# Xuanling Realm — Time and Action Rules
+# Merzkava Universe — Time and Action Rules
 
 Status: Official gameplay procedure module.
 Scope: Timestamp continuity, session calendar, action duration, protected night sleep, time skips, cultivation duration, and separation of meditation, cultivation, and Spirit Ring absorption.

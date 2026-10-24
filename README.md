@@ -32,6 +32,8 @@
 - **[core/SPIRIT_RING_RULES.md](core/SPIRIT_RING_RULES.md)** — Spirit Ring, kompatibilitas, penyerapan, Qi, PowerScale.
 - **[core/THINKER_AND_FORMULATION.md](core/THINKER_AND_FORMULATION.md)** — Thinker Grade dan aturan produksi Artificial Artifact.
 
+- **[tests/INTEGRATION_TEST_CHECKLIST.md](tests/INTEGRATION_TEST_CHECKLIST.md)** — skenario audit manual untuk memastikan modul bekerja bersama; bukan sumber mekanik baru.
+
 ## Alur memulai roleplay
 1. Gunakan `templates/PLAYER_CONVERSATION_TEMPLATE.md` dan trigger `CONVO — [Nama Karakter]`.
 2. Untuk karakter terdaftar dalam sesi baru, baca `players.md`, lalu file individual karakter yang tertaut.

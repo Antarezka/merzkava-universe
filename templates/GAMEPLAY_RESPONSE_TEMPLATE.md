@@ -6,7 +6,7 @@ Semua trigger awal (`CONVO`), recall, dan giliran lanjutan wajib mengikuti templ
 
 ## Format Wajib — MODE: NO STEP
 
-Pertahankan struktur, urutan field, nama field, ornamen visual, dan penutup berikut. Isi berdasarkan state serta kejadian yang benar-benar tercatat. Jangan biarkan placeholder pada gameplay aktif jika datanya dapat ditetapkan secara sah; gunakan `???` untuk data yang memang tidak diketahui.
+Pertahankan struktur, urutan field, nama field, ornamen visual, dan penutup berikut. Isi berdasarkan state serta kejadian yang benar-benar tercatat. `???` hanya untuk identitas karakter yang benar-benar tidak dikenal atau nama Martial Soul yang belum diketahui. Field numerik yang belum tercatat diisi `0`, kecuali HP awal mengikuti inisialisasi resmi dan Day left yang belum dapat dihitung ditulis `Belum ditetapkan`. Field nonnumerik lain yang belum ditetapkan ditulis `Belum ditetapkan`.
 
 ```text
 🕒 Waktu Xuanling Realm
@@ -30,7 +30,7 @@ Kondisi Tubuh: ...
 Equipment: ...
 Inventory: ...
 Assets: ...
-Currency (xuan/zun): ...xc | ...xs | ...xg | ...zj | ...az
+Currency (xuan/zun): 0xc | 0xs | 0xg | 0zj | 0az
 Teknik / Kemampuan: ...
 Tujuan Saat Ini: ...
 ╚══════════════════════════════════════════════════╝
@@ -41,7 +41,7 @@ Tujuan Saat Ini: ...
 - GM dilarang melakukan overclaim yang memaksakan karakter ke kondisi survival, kerapuhan, atau konsekuensi tidak masuk akal tanpa dasar mekanik maupun kejadian yang jelas.
 - Profil harus konsisten dengan profil terakhir. Perubahan status wajib memiliki penyebab yang tercatat.
 - Setiap teknik atau kemampuan wajib disertai deskripsi fungsi yang jelas dan sesuai modul resmi.
-- Informasi yang belum diketahui atau belum ditetapkan tidak boleh dikarang. Gunakan "???" atau ikuti prosedur klarifikasi resmi.
+- Jangan mengarang informasi yang belum ditetapkan. Gunakan `???` hanya untuk identitas karakter yang benar-benar tidak dikenal atau nama Martial Soul yang belum diketahui. Field numerik yang belum tercatat gunakan `0`; field nonnumerik lain gunakan `Belum ditetapkan` atau `Tidak ada` jika ketiadaan memang diketahui.
 
 catatan kecil:
 

@@ -1,7 +1,7 @@
 # Golden Dragon Empire — Named Civil Officials and Political Dispositions
 
 **Status:** Owner-authorized canonical NPC roster.  
-**Scope:** Seven central portfolio heads, seven regional governors, all 46 prefects, and all 276 county magistrates.  
+**Scope:** Seven central portfolio heads, seven regional governors, 33 prefects and 268 county magistrates, with 13 former prefects and 8 former county magistrates reassigned to consolidated regional/circuit posts.  
 **Authority:** Use with `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md` and `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. Territorial names and counts remain governed by the atlas.
 
 ## 1. Power ceiling and canon rules
@@ -39,7 +39,35 @@
 
 ## 4. Prefects and county magistrates
 
-The following register names every prefect and magistrate in the administrative atlas. Each officer has an individual temperament, motivation, background, Martial Soul, and Spirit Realm. A relationship described as pragmatic, reformist, pro-trade, conservative, or pro-academy is a political inclination—not a formal faction membership.
+The register names the current 33 prefects and 268 county magistrates. Thirteen former prefects whose jurisdictions were consolidated remain named as regional coordination officers; eight former county magistrates from merged county jurisdictions remain named as circuit liaison officers. Their original backgrounds, Martial Souls, cultivation, and political dispositions are preserved. A political inclination is not formal faction membership.
+
+### Consolidated Regional and Circuit Officers
+
+These 21 officers remain active after administrative consolidation. They are not additional prefects or county magistrates. Former prefects serve as regional coordination officers, inter-county inspectors, records supervisors, or administrative deputies within the same region; former county magistrates serve as circuit liaison officers, deputy clerks, or local case coordinators. They retain the same region and do not gain military command or authority over unrelated regions.
+
+| Current role / former jurisdiction | Name | Martial Soul | Spirit Realm / Stage | Political disposition | Background and present aim |
+|---|---|---|---|---|---|
+| Regional consolidation officer — former White Stag Prefecture | Qin Zhongyi | Sapphire Minnow | Spirit Ancestor / Middle | tegas terhadap korupsi tetapi kompromistis dalam politik | pernah menolak tekanan keluarga kaya dalam perkara warisan, lalu dipindahkan ke jabatan baru; ingin meninggalkan administrasi yang lebih bersih. | undefined |
+| Regional consolidation officer — former Lotus Ford Prefecture | Han Jingyu | Jade Scale Serpent | Spirit Ancestor / Middle | netral dan sangat prosedural | pernah menyaksikan sengketa tanah berkepanjangan, sehingga menekankan pencatatan bukti; ingin memperluas pengaruh kantor dan anggaran wilayah. | undefined |
+| Regional consolidation officer — former Granary Plain Prefecture | Han Qinglan | River Pearl Shell | Spirit Ancestor / Late | dekat dengan kepentingan saudagar | pernah bertugas mengawasi jalur dagang dan memahami praktik pungutan liar; ingin mengamankan jalur pangan dan perdagangan. | undefined |
+| Regional consolidation officer — former Deepstone Prefecture | Han Jianing | Cloudmirror Crane | Spirit King / Late | populis, mendengar keluhan rakyat kecil | mantan pengelola lumbung yang terkenal teliti saat bencana pangan; ingin mengamankan jalur pangan dan perdagangan. | undefined |
+| Regional consolidation officer — former Hundred Schools Prefecture | Han Jinshu | Sapphire Minnow | Spirit Ancestor / Late | tegas terhadap korupsi tetapi kompromistis dalam politik | pernah bertugas mengawasi jalur dagang dan memahami praktik pungutan liar; ingin meninggalkan administrasi yang lebih bersih. | undefined |
+| Regional consolidation officer — former Jade Lecture Prefecture | Han Ziyu | Mountain Bell | Spirit Ancestor / Peak | berorientasi pada pertahanan wilayah | dibina seorang mentor hukum yang mengajarkannya membedakan hukum dan kehendak elite; ingin memperluas pengaruh kantor dan anggaran wilayah. | undefined |
+| Regional consolidation officer — former Emberstone Prefecture | Han Chunyu | Blueglass Butterfly | Spirit Emperor / Middle | pragmatis, condong ke stabilitas takhta | dibina seorang mentor hukum yang mengajarkannya membedakan hukum dan kehendak elite; ingin meninggalkan administrasi yang lebih bersih. | undefined |
+| Regional consolidation officer — former Flame Basin Prefecture | Han Yunsheng | Jade Scale Serpent | Spirit Emperor / Late | netral dan sangat prosedural | dibesarkan dekat garnisun, tetapi memilih jalur sipil dan menjaga batas dengan militer; ingin memperluas pengaruh kantor dan anggaran wilayah. | undefined |
+| Regional consolidation officer — former Storm Banner Prefecture | Han Zhongyi | Flamecrest Falcon | Spirit King / Early | loyalis istana, namun menolak perintah ilegal | dibesarkan dekat garnisun, tetapi memilih jalur sipil dan menjaga batas dengan militer; ingin meninggalkan administrasi yang lebih bersih. | undefined |
+| Regional consolidation officer — former Pine Shield Prefecture | Han Xingzhou | White Reed Deer | Spirit King / Late | berpihak pada pembangunan dan kesejahteraan | berasal dari keluarga pengrajin; menaruh perhatian pada standar kerja dan harga bahan; ingin mengamankan jalur pangan dan perdagangan. | undefined |
+| Regional consolidation officer — former Jade Coast Prefecture | Su Qinglan | Cloudmirror Crane | Spirit Ancestor / Middle | condong ke akademisi dan meritokrasi | memulai karier sebagai juru tulis dan dikenal menghafal detail arsip; ingin mengamankan jalur pangan dan perdagangan. | undefined |
+| Regional consolidation officer — former Far Lantern Prefecture | Su Shuying | Flamecrest Falcon | Spirit Ancestor / Late | populis, mendengar keluhan rakyat kecil | mendapat reputasi setelah menyelesaikan perselisihan air tanpa mengerahkan pasukan; ingin meninggalkan administrasi yang lebih bersih. | undefined |
+| Regional consolidation officer — former Dragonwake Prefecture | Su Zhaolin | Golden Wheat Spirit | Spirit Ancestor / Peak | loyalis istana, namun menolak perintah ilegal | menjadi pejabat setelah karier panjang dalam audit gudang dan pajak; ingin memperluas pengaruh kantor dan anggaran wilayah. | undefined |
+| Circuit liaison officer — former Bailu-Dong'an jurisdiction | Yue Qinghe | Cloudstep Fox | Spirit Elder / Late | berorientasi pada pertahanan wilayah | anak tabib desa yang menganggap kesehatan rakyat sebagai bagian dari ketahanan negara; menyelesaikan sengketa warga sebelum membesar. |
+| Circuit liaison officer — former Lianjin-Dong'an jurisdiction | Pei Jianing | Silverleaf Bamboo | Spirit Monarch / Middle | pragmatis, condong ke stabilitas takhta | berasal dari keluarga petani yang berhasil menyekolahkan anaknya ke ibu kota; menyelesaikan sengketa warga sebelum membesar. |
+| Circuit liaison officer — former Shenshi-Dong'an jurisdiction | Pei Yanzhao | Bronze Compass | Spirit Monarch / Late | netral dan sangat prosedural | mantan pengelola lumbung yang terkenal teliti saat bencana pangan; menyelesaikan sengketa warga sebelum membesar. |
+| Circuit liaison officer — former Baixue-Dong'an jurisdiction | Xie Zhenyu | Golden Wheat Spirit | Spirit King / Middle | loyalis istana, namun menolak perintah ilegal | pernah menyaksikan sengketa tanah berkepanjangan, sehingga menekankan pencatatan bukti; menyelesaikan sengketa warga sebelum membesar. |
+| Circuit liaison officer — former Huoshi-Dong'an jurisdiction | Xie Xingzhou | White Jade Fan | Spirit Elder / Late | berhati-hati dan gemar menyeimbangkan faksi | mendapat reputasi setelah menyelesaikan perselisihan air tanpa mengerahkan pasukan; menyelesaikan sengketa warga sebelum membesar. |
+| Circuit liaison officer — former Fengqi-Dong'an jurisdiction | Duan Qinghe | Jade Scale Serpent | Spirit Monarch / Peak | berpihak pada pembangunan dan kesejahteraan | pernah menolak tekanan keluarga kaya dalam perkara warisan, lalu dipindahkan ke jabatan baru; menyelesaikan sengketa warga sebelum membesar. |
+| Circuit liaison officer — former Yuandeng-Dong'an jurisdiction | Cui Sheng'an | Verdant Stag | Spirit King / Late | berorientasi pada pertahanan wilayah | dibesarkan dekat garnisun, tetapi memilih jalur sipil dan menjaga batas dengan militer; menyelesaikan sengketa warga sebelum membesar. |
+| Circuit liaison officer — former Longchao-Dong'an jurisdiction | Cui Qinghe | Mist Lantern | Spirit King / Early | reformis dan pro-rakyat | pernah mengatur perbaikan jalan setelah banjir dan mengutamakan manfaat jangka panjang; menyelesaikan sengketa warga sebelum membesar. |
 
 ### Longyuan
 
@@ -52,7 +80,6 @@ The following register names every prefect and magistrate in the administrative 
 | Vermilion Gate Prefecture — Zhuque | Qin Jingtao | Blueglass Butterfly | Spirit Ancestor / Late | netral dan sangat prosedural | anak tabib desa yang menganggap kesehatan rakyat sebagai bagian dari ketahanan negara; ingin meninggalkan administrasi yang lebih bersih. |
 | Golden Terrace Prefecture — Jintai | Qin Tinglan | Jade Scale Serpent | Spirit Ancestor / Peak | dekat dengan kepentingan saudagar | berasal dari keluarga petani yang berhasil menyekolahkan anaknya ke ibu kota; ingin memperluas pengaruh kantor dan anggaran wilayah. |
 | River Crown Prefecture — Guanhe | Qin Yuchun | River Pearl Shell | Spirit Ancestor / Early | konservatif dan menghormati bangsawan | pernah mengatur perbaikan jalan setelah banjir dan mengutamakan manfaat jangka panjang; ingin mengamankan jalur pangan dan perdagangan. |
-| White Stag Prefecture — Bailu | Qin Zhongyi | Sapphire Minnow | Spirit Ancestor / Middle | tegas terhadap korupsi tetapi kompromistis dalam politik | pernah menolak tekanan keluarga kaya dalam perkara warisan, lalu dipindahkan ke jabatan baru; ingin meninggalkan administrasi yang lebih bersih. |
 
 #### County magistrates
 
@@ -88,7 +115,6 @@ The following register names every prefect and magistrate in the administrative 
 | Guanhe-Beitian | Yue Hengzhi | Copperhorn Ox | Spirit Elder / Late | berorientasi pada pertahanan wilayah | mendapat reputasi setelah menyelesaikan perselisihan air tanpa mengerahkan pasukan; menyelesaikan sengketa warga sebelum membesar. |
 | Guanhe-Guqiao | Yue Ziyu | Windveil Swallow | Spirit Elder / Early | populis, mendengar keluhan rakyat kecil | berasal dari keluarga pejabat kecil dan naik lewat ujian administrasi; menjaga akses air, jalan, dan pasar tetap terbuka. |
 | Guanhe-Qingshui | Yue Xiaoran | Cinder Peacock | Spirit Elder / Late | berhati-hati dan gemar menyeimbangkan faksi | anak tabib desa yang menganggap kesehatan rakyat sebagai bagian dari ketahanan negara; mempercepat pengaduan tanpa mengorbankan pemeriksaan bukti. |
-| Bailu-Dong'an | Yue Qinghe | Cloudstep Fox | Spirit Elder / Late | berorientasi pada pertahanan wilayah | anak tabib desa yang menganggap kesehatan rakyat sebagai bagian dari ketahanan negara; menyelesaikan sengketa warga sebelum membesar. |
 | Bailu-Xi'an | Yue Weiming | River Pearl Shell | Spirit Elder / Early | populis, mendengar keluhan rakyat kecil | pernah mengatur perbaikan jalan setelah banjir dan mengutamakan manfaat jangka panjang; menjaga akses air, jalan, dan pasar tetap terbuka. |
 | Bailu-Nantian | Yue Xuefeng | Tidecaller Eel | Spirit Elder / Late | berhati-hati dan gemar menyeimbangkan faksi | mantan pengelola lumbung yang terkenal teliti saat bencana pangan; mempercepat pengaduan tanpa mengorbankan pemeriksaan bukti. |
 | Bailu-Beitian | Yue Zhengyang | Jade Scale Serpent | Spirit Elder / Early | reformis dan pro-rakyat | pernah bertugas mengawasi jalur dagang dan memahami praktik pungutan liar; menyelesaikan sengketa warga sebelum membesar. |
@@ -107,8 +133,6 @@ The following register names every prefect and magistrate in the administrative 
 | Mingchuan Prefecture — Mingchuan | Qin Shengyu | Golden Wheat Spirit | Spirit Ancestor / Late | berpihak pada pembangunan dan kesejahteraan | pernah mengatur perbaikan jalan setelah banjir dan mengutamakan manfaat jangka panjang; ingin memperluas pengaruh kantor dan anggaran wilayah. |
 | Yunshui Prefecture — Yunshui | Han Haoran | White Reed Deer | Spirit Ancestor / Peak | reformis dan pro-rakyat | pernah menolak tekanan keluarga kaya dalam perkara warisan, lalu dipindahkan ke jabatan baru; ingin mengamankan jalur pangan dan perdagangan. |
 | Shuangjiang Prefecture — Shuangjiang | Han Mingxuan | Blueglass Butterfly | Spirit Ancestor / Early | pragmatis, condong ke stabilitas takhta | mantan pengelola lumbung yang terkenal teliti saat bencana pangan; ingin meninggalkan administrasi yang lebih bersih. |
-| Lotus Ford Prefecture — Lianjin | Han Jingyu | Jade Scale Serpent | Spirit Ancestor / Middle | netral dan sangat prosedural | pernah menyaksikan sengketa tanah berkepanjangan, sehingga menekankan pencatatan bukti; ingin memperluas pengaruh kantor dan anggaran wilayah. |
-| Granary Plain Prefecture — Cangping | Han Qinglan | River Pearl Shell | Spirit Ancestor / Late | dekat dengan kepentingan saudagar | pernah bertugas mengawasi jalur dagang dan memahami praktik pungutan liar; ingin mengamankan jalur pangan dan perdagangan. |
 
 #### County magistrates
 
@@ -150,7 +174,6 @@ The following register names every prefect and magistrate in the administrative 
 | Shuangjiang-Beitian | Pei Tianyu | Cloudstep Fox | Spirit Monarch / Middle | pragmatis, condong ke stabilitas takhta | menjadi pejabat setelah karier panjang dalam audit gudang dan pajak; menyelesaikan sengketa warga sebelum membesar. |
 | Shuangjiang-Guqiao | Pei Zhaolin | River Pearl Shell | Spirit Monarch / Peak | dekat dengan kepentingan saudagar | dididik di akademi daerah, lalu bertugas di beberapa kantor perbatasan; menjaga akses air, jalan, dan pasar tetap terbuka. |
 | Shuangjiang-Qingshui | Pei Yunfei | Tidecaller Eel | Spirit Monarch / Middle | tegas terhadap korupsi tetapi kompromistis dalam politik | berasal dari keluarga petani yang berhasil menyekolahkan anaknya ke ibu kota; mempercepat pengaduan tanpa mengorbankan pemeriksaan bukti. |
-| Lianjin-Dong'an | Pei Jianing | Silverleaf Bamboo | Spirit Monarch / Middle | pragmatis, condong ke stabilitas takhta | berasal dari keluarga petani yang berhasil menyekolahkan anaknya ke ibu kota; menyelesaikan sengketa warga sebelum membesar. |
 | Lianjin-Xi'an | Pei Yong'an | Twin-Saber Orchid | Spirit Monarch / Peak | dekat dengan kepentingan saudagar | pernah menolak tekanan keluarga kaya dalam perkara warisan, lalu dipindahkan ke jabatan baru; menjaga akses air, jalan, dan pasar tetap terbuka. |
 | Lianjin-Nantian | Pei Chengzhi | Verdant Stag | Spirit Monarch / Middle | tegas terhadap korupsi tetapi kompromistis dalam politik | pernah menyaksikan sengketa tanah berkepanjangan, sehingga menekankan pencatatan bukti; mempercepat pengaduan tanpa mengorbankan pemeriksaan bukti. |
 | Lianjin-Beitian | Pei Lingshu | Golden-Eyed Hawk | Spirit Monarch / Peak | condong ke akademisi dan meritokrasi | dibina seorang mentor hukum yang mengajarkannya membedakan hukum dan kehendak elite; menyelesaikan sengketa warga sebelum membesar. |
@@ -171,7 +194,6 @@ The following register names every prefect and magistrate in the administrative 
 |---|---|---|---|---|---|
 | Jadevein Prefecture — Yumai | Han Shuying | Sapphire Minnow | Spirit King / Early | berorientasi pada pertahanan wilayah | pernah mengatur perbaikan jalan setelah banjir dan mengutamakan manfaat jangka panjang; ingin meninggalkan administrasi yang lebih bersih. |
 | Ironcloud Prefecture — Tieyun | Han Zhaolin | Mountain Bell | Spirit King / Middle | condong ke akademisi dan meritokrasi | pernah menolak tekanan keluarga kaya dalam perkara warisan, lalu dipindahkan ke jabatan baru; ingin memperluas pengaruh kantor dan anggaran wilayah. |
-| Deepstone Prefecture — Shenshi | Han Jianing | Cloudmirror Crane | Spirit King / Late | populis, mendengar keluhan rakyat kecil | mantan pengelola lumbung yang terkenal teliti saat bencana pangan; ingin mengamankan jalur pangan dan perdagangan. |
 | Goldsand Prefecture — Jinsha | Han Chengzhi | Flamecrest Falcon | Spirit King / Peak | loyalis istana, namun menolak perintah ilegal | pernah menyaksikan sengketa tanah berkepanjangan, sehingga menekankan pencatatan bukti; ingin meninggalkan administrasi yang lebih bersih. |
 | Spirit Ore Prefecture — Lingkuang | Han Yucheng | Golden Wheat Spirit | Spirit King / Early | berhati-hati dan gemar menyeimbangkan faksi | pernah bertugas mengawasi jalur dagang dan memahami praktik pungutan liar; ingin memperluas pengaruh kantor dan anggaran wilayah. |
 
@@ -191,7 +213,6 @@ The following register names every prefect and magistrate in the administrative 
 | Tieyun-Beitian | Pei Zhengyang | Mist Lantern | Spirit Monarch / Late | netral dan sangat prosedural | anak tabib desa yang menganggap kesehatan rakyat sebagai bagian dari ketahanan negara; menyelesaikan sengketa warga sebelum membesar. |
 | Tieyun-Guqiao | Pei Lingyun | Sapphire Minnow | Spirit Monarch / Early | konservatif dan menghormati bangsawan | pernah mengatur perbaikan jalan setelah banjir dan mengutamakan manfaat jangka panjang; menjaga akses air, jalan, dan pasar tetap terbuka. |
 | Tieyun-Qingshui | Pei Haixiu | Cloudstep Fox | Spirit Monarch / Late | berorientasi pada pertahanan wilayah | mantan pengelola lumbung yang terkenal teliti saat bencana pangan; mempercepat pengaduan tanpa mengorbankan pemeriksaan bukti. |
-| Shenshi-Dong'an | Pei Yanzhao | Bronze Compass | Spirit Monarch / Late | netral dan sangat prosedural | mantan pengelola lumbung yang terkenal teliti saat bencana pangan; menyelesaikan sengketa warga sebelum membesar. |
 | Shenshi-Xi'an | Pei Shilin | Stone Gate Shield | Spirit Monarch / Early | konservatif dan menghormati bangsawan | pernah bertugas mengawasi jalur dagang dan memahami praktik pungutan liar; menjaga akses air, jalan, dan pasar tetap terbuka. |
 | Shenshi-Nantian | Pei Chunyu | Silverleaf Bamboo | Spirit Monarch / Late | berorientasi pada pertahanan wilayah | dibesarkan dekat garnisun, tetapi memilih jalur sipil dan menjaga batas dengan militer; mempercepat pengaduan tanpa mengorbankan pemeriksaan bukti. |
 | Shenshi-Beitian | Pei Jiahe | Twin-Saber Orchid | Spirit Monarch / Early | populis, mendengar keluhan rakyat kecil | berasal dari keluarga pengrajin; menaruh perhatian pada standar kerja dan harga bahan; menyelesaikan sengketa warga sebelum membesar. |
@@ -220,8 +241,6 @@ The following register names every prefect and magistrate in the administrative 
 | Cloud Summit Prefecture — Yunding | Han Yueqin | Blueglass Butterfly | Spirit Ancestor / Peak | netral dan sangat prosedural | pernah menolak tekanan keluarga kaya dalam perkara warisan, lalu dipindahkan ke jabatan baru; ingin meninggalkan administrasi yang lebih bersih. |
 | Scholar's River Prefecture — Wenchuan | Han Jingheng | Jade Scale Serpent | Spirit Ancestor / Early | dekat dengan kepentingan saudagar | mantan pengelola lumbung yang terkenal teliti saat bencana pangan; ingin memperluas pengaruh kantor dan anggaran wilayah. |
 | Pine Ink Prefecture — Songmo | Han Sheng'an | River Pearl Shell | Spirit Ancestor / Middle | konservatif dan menghormati bangsawan | pernah menyaksikan sengketa tanah berkepanjangan, sehingga menekankan pencatatan bukti; ingin mengamankan jalur pangan dan perdagangan. |
-| Hundred Schools Prefecture — Baixue | Han Jinshu | Sapphire Minnow | Spirit Ancestor / Late | tegas terhadap korupsi tetapi kompromistis dalam politik | pernah bertugas mengawasi jalur dagang dan memahami praktik pungutan liar; ingin meninggalkan administrasi yang lebih bersih. |
-| Jade Lecture Prefecture — Yuyan | Han Ziyu | Mountain Bell | Spirit Ancestor / Peak | berorientasi pada pertahanan wilayah | dibina seorang mentor hukum yang mengajarkannya membedakan hukum dan kehendak elite; ingin memperluas pengaruh kantor dan anggaran wilayah. |
 
 #### County magistrates
 
@@ -251,7 +270,6 @@ The following register names every prefect and magistrate in the administrative 
 | Songmo-Beitian | Xie Lingshu | Bronze Compass | Spirit King / Middle | loyalis istana, namun menolak perintah ilegal | berasal dari keluarga petani yang berhasil menyekolahkan anaknya ke ibu kota; menyelesaikan sengketa warga sebelum membesar. |
 | Songmo-Guqiao | Xie Yucheng | Stone Gate Shield | Spirit King / Peak | berpihak pada pembangunan dan kesejahteraan | pernah menolak tekanan keluarga kaya dalam perkara warisan, lalu dipindahkan ke jabatan baru; menjaga akses air, jalan, dan pasar tetap terbuka. |
 | Songmo-Qingshui | Xie Xiaohan | Silverleaf Bamboo | Spirit King / Middle | pragmatis, condong ke stabilitas takhta | pernah menyaksikan sengketa tanah berkepanjangan, sehingga menekankan pencatatan bukti; mempercepat pengaduan tanpa mengorbankan pemeriksaan bukti. |
-| Baixue-Dong'an | Xie Zhenyu | Golden Wheat Spirit | Spirit King / Middle | loyalis istana, namun menolak perintah ilegal | pernah menyaksikan sengketa tanah berkepanjangan, sehingga menekankan pencatatan bukti; menyelesaikan sengketa warga sebelum membesar. |
 | Baixue-Xi'an | Xie Mingde | Azure River Carp | Spirit King / Peak | berpihak pada pembangunan dan kesejahteraan | dibina seorang mentor hukum yang mengajarkannya membedakan hukum dan kehendak elite; menjaga akses air, jalan, dan pasar tetap terbuka. |
 | Baixue-Nantian | Xie Yueqin | Flamecrest Falcon | Spirit King / Middle | pragmatis, condong ke stabilitas takhta | dibesarkan di keluarga pengangkut barang sungai; memahami beban pajak dan logistik; mempercepat pengaduan tanpa mengorbankan pemeriksaan bukti. |
 | Baixue-Beitian | Xie Guangyao | Frostpine Wolf | Spirit King / Peak | dekat dengan kepentingan saudagar | memulai karier sebagai juru tulis dan dikenal menghafal detail arsip; menyelesaikan sengketa warga sebelum membesar. |
@@ -274,8 +292,6 @@ The following register names every prefect and magistrate in the administrative 
 | Ashen Peak Prefecture — Huifeng | Han Xuefeng | Flamecrest Falcon | Spirit Emperor / Late | berhati-hati dan gemar menyeimbangkan faksi | mantan pengelola lumbung yang terkenal teliti saat bencana pangan; ingin meninggalkan administrasi yang lebih bersih. |
 | Molten River Prefecture — Rongjiang | Han Lingyun | Golden Wheat Spirit | Spirit Emperor / Peak | berpihak pada pembangunan dan kesejahteraan | pernah menyaksikan sengketa tanah berkepanjangan, sehingga menekankan pencatatan bukti; ingin memperluas pengaruh kantor dan anggaran wilayah. |
 | Black Anvil Prefecture — Heitie | Han Yanzhao | White Reed Deer | Spirit Emperor / Early | reformis dan pro-rakyat | pernah bertugas mengawasi jalur dagang dan memahami praktik pungutan liar; ingin mengamankan jalur pangan dan perdagangan. |
-| Emberstone Prefecture — Huoshi | Han Chunyu | Blueglass Butterfly | Spirit Emperor / Middle | pragmatis, condong ke stabilitas takhta | dibina seorang mentor hukum yang mengajarkannya membedakan hukum dan kehendak elite; ingin meninggalkan administrasi yang lebih bersih. |
-| Flame Basin Prefecture — Yanpen | Han Yunsheng | Jade Scale Serpent | Spirit Emperor / Late | netral dan sangat prosedural | dibesarkan dekat garnisun, tetapi memilih jalur sipil dan menjaga batas dengan militer; ingin memperluas pengaruh kantor dan anggaran wilayah. |
 
 #### County magistrates
 
@@ -305,7 +321,6 @@ The following register names every prefect and magistrate in the administrative 
 | Heitie-Beitian | Xie Ruolan | Black Sand Scorpion | Spirit Elder / Late | berhati-hati dan gemar menyeimbangkan faksi | dibesarkan dekat garnisun, tetapi memilih jalur sipil dan menjaga batas dengan militer; menyelesaikan sengketa warga sebelum membesar. |
 | Heitie-Guqiao | Xie Yongning | Inkwing Raven | Spirit Elder / Early | reformis dan pro-rakyat | berasal dari keluarga pengrajin; menaruh perhatian pada standar kerja dan harga bahan; menjaga akses air, jalan, dan pasar tetap terbuka. |
 | Heitie-Qingshui | Xie Yunqi | Lotus Thread | Spirit Elder / Late | netral dan sangat prosedural | mendapat reputasi setelah menyelesaikan perselisihan air tanpa mengerahkan pasukan; mempercepat pengaduan tanpa mengorbankan pemeriksaan bukti. |
-| Huoshi-Dong'an | Xie Xingzhou | White Jade Fan | Spirit Elder / Late | berhati-hati dan gemar menyeimbangkan faksi | mendapat reputasi setelah menyelesaikan perselisihan air tanpa mengerahkan pasukan; menyelesaikan sengketa warga sebelum membesar. |
 | Huoshi-Xi'an | Xie Huaijin | White Reed Deer | Spirit Elder / Early | reformis dan pro-rakyat | berasal dari keluarga pejabat kecil dan naik lewat ujian administrasi; menjaga akses air, jalan, dan pasar tetap terbuka. |
 | Huoshi-Nantian | Xie Zhenhua | Granite Ape | Spirit Elder / Late | netral dan sangat prosedural | anak tabib desa yang menganggap kesehatan rakyat sebagai bagian dari ketahanan negara; mempercepat pengaduan tanpa mengorbankan pemeriksaan bukti. |
 | Huoshi-Beitian | Xie Yunrui | Golden Wheat Spirit | Spirit Elder / Early | konservatif dan menghormati bangsawan | pernah mengatur perbaikan jalan setelah banjir dan mengutamakan manfaat jangka panjang; menyelesaikan sengketa warga sebelum membesar. |
@@ -328,9 +343,7 @@ The following register names every prefect and magistrate in the administrative 
 | Iron Pass Prefecture — Tieguan | Han Jingtao | Sapphire Minnow | Spirit King / Middle | berorientasi pada pertahanan wilayah | pernah menyaksikan sengketa tanah berkepanjangan, sehingga menekankan pencatatan bukti; ingin meninggalkan administrasi yang lebih bersih. |
 | Stonewall Prefecture — Shibi | Han Tinglan | Mountain Bell | Spirit King / Late | condong ke akademisi dan meritokrasi | pernah bertugas mengawasi jalur dagang dan memahami praktik pungutan liar; ingin memperluas pengaruh kantor dan anggaran wilayah. |
 | Falcon Ridge Prefecture — Yingshan | Han Yuchun | Cloudmirror Crane | Spirit King / Peak | populis, mendengar keluhan rakyat kecil | dibina seorang mentor hukum yang mengajarkannya membedakan hukum dan kehendak elite; ingin mengamankan jalur pangan dan perdagangan. |
-| Storm Banner Prefecture — Fengqi | Han Zhongyi | Flamecrest Falcon | Spirit King / Early | loyalis istana, namun menolak perintah ilegal | dibesarkan dekat garnisun, tetapi memilih jalur sipil dan menjaga batas dengan militer; ingin meninggalkan administrasi yang lebih bersih. |
 | Long Pass Prefecture — Changguan | Han Yongning | Golden Wheat Spirit | Spirit King / Middle | berhati-hati dan gemar menyeimbangkan faksi | dibesarkan di keluarga pengangkut barang sungai; memahami beban pajak dan logistik; ingin memperluas pengaruh kantor dan anggaran wilayah. |
-| Pine Shield Prefecture — Songdun | Han Xingzhou | White Reed Deer | Spirit King / Late | berpihak pada pembangunan dan kesejahteraan | berasal dari keluarga pengrajin; menaruh perhatian pada standar kerja dan harga bahan; ingin mengamankan jalur pangan dan perdagangan. |
 
 #### County magistrates
 
@@ -360,7 +373,6 @@ The following register names every prefect and magistrate in the administrative 
 | Yingshan-Beitian | Duan Hengzhi | Ironwood Crane | Spirit Monarch / Peak | berpihak pada pembangunan dan kesejahteraan | dididik di akademi daerah, lalu bertugas di beberapa kantor perbatasan; menyelesaikan sengketa warga sebelum membesar. |
 | Yingshan-Guqiao | Duan Ziyu | Moonlit Koi | Spirit Monarch / Middle | pragmatis, condong ke stabilitas takhta | berasal dari keluarga petani yang berhasil menyekolahkan anaknya ke ibu kota; menjaga akses air, jalan, dan pasar tetap terbuka. |
 | Yingshan-Qingshui | Duan Xiaoran | Sunfire Lynx | Spirit Monarch / Peak | dekat dengan kepentingan saudagar | pernah menolak tekanan keluarga kaya dalam perkara warisan, lalu dipindahkan ke jabatan baru; mempercepat pengaduan tanpa mengorbankan pemeriksaan bukti. |
-| Fengqi-Dong'an | Duan Qinghe | Jade Scale Serpent | Spirit Monarch / Peak | berpihak pada pembangunan dan kesejahteraan | pernah menolak tekanan keluarga kaya dalam perkara warisan, lalu dipindahkan ke jabatan baru; menyelesaikan sengketa warga sebelum membesar. |
 | Fengqi-Xi'an | Duan Weiming | Thunder Drum Mace | Spirit Monarch / Middle | pragmatis, condong ke stabilitas takhta | pernah menyaksikan sengketa tanah berkepanjangan, sehingga menekankan pencatatan bukti; menjaga akses air, jalan, dan pasar tetap terbuka. |
 | Fengqi-Nantian | Duan Xuefeng | Blueglass Butterfly | Spirit Monarch / Peak | dekat dengan kepentingan saudagar | dibina seorang mentor hukum yang mengajarkannya membedakan hukum dan kehendak elite; mempercepat pengaduan tanpa mengorbankan pemeriksaan bukti. |
 | Fengqi-Beitian | Duan Zhengyang | White Jade Fan | Spirit Monarch / Middle | tegas terhadap korupsi tetapi kompromistis dalam politik | dibesarkan di keluarga pengangkut barang sungai; memahami beban pajak dan logistik; menyelesaikan sengketa warga sebelum membesar. |
@@ -390,9 +402,6 @@ The following register names every prefect and magistrate in the administrative 
 | Blue Sail Prefecture — Lanfan | Su Haoran | River Pearl Shell | Spirit Ancestor / Late | konservatif dan menghormati bangsawan | dibesarkan dekat garnisun, tetapi memilih jalur sipil dan menjaga batas dengan militer; ingin mengamankan jalur pangan dan perdagangan. |
 | Tidegate Prefecture — Chaoguan | Su Mingxuan | Sapphire Minnow | Spirit Ancestor / Peak | tegas terhadap korupsi tetapi kompromistis dalam politik | dibesarkan di keluarga pengangkut barang sungai; memahami beban pajak dan logistik; ingin meninggalkan administrasi yang lebih bersih. |
 | Saltwind Prefecture — Yanfeng | Su Jingyu | Mountain Bell | Spirit Ancestor / Early | berorientasi pada pertahanan wilayah | berasal dari keluarga pengrajin; menaruh perhatian pada standar kerja dan harga bahan; ingin memperluas pengaruh kantor dan anggaran wilayah. |
-| Jade Coast Prefecture — Yuhai | Su Qinglan | Cloudmirror Crane | Spirit Ancestor / Middle | condong ke akademisi dan meritokrasi | memulai karier sebagai juru tulis dan dikenal menghafal detail arsip; ingin mengamankan jalur pangan dan perdagangan. |
-| Far Lantern Prefecture — Yuandeng | Su Shuying | Flamecrest Falcon | Spirit Ancestor / Late | populis, mendengar keluhan rakyat kecil | mendapat reputasi setelah menyelesaikan perselisihan air tanpa mengerahkan pasukan; ingin meninggalkan administrasi yang lebih bersih. |
-| Dragonwake Prefecture — Longchao | Su Zhaolin | Golden Wheat Spirit | Spirit Ancestor / Peak | loyalis istana, namun menolak perintah ilegal | menjadi pejabat setelah karier panjang dalam audit gudang dan pajak; ingin memperluas pengaruh kantor dan anggaran wilayah. |
 
 #### County magistrates
 
@@ -434,13 +443,11 @@ The following register names every prefect and magistrate in the administrative 
 | Yuhai-Beitian | Cui Guangyao | Tidecaller Eel | Spirit King / Late | berorientasi pada pertahanan wilayah | mantan pengelola lumbung yang terkenal teliti saat bencana pangan; menyelesaikan sengketa warga sebelum membesar. |
 | Yuhai-Guqiao | Cui Jingheng | Jade Scale Serpent | Spirit King / Early | populis, mendengar keluhan rakyat kecil | pernah bertugas mengawasi jalur dagang dan memahami praktik pungutan liar; menjaga akses air, jalan, dan pasar tetap terbuka. |
 | Yuhai-Qingshui | Cui Rongzhi | Thunder Drum Mace | Spirit King / Late | berhati-hati dan gemar menyeimbangkan faksi | dibesarkan dekat garnisun, tetapi memilih jalur sipil dan menjaga batas dengan militer; mempercepat pengaduan tanpa mengorbankan pemeriksaan bukti. |
-| Yuandeng-Dong'an | Cui Sheng'an | Verdant Stag | Spirit King / Late | berorientasi pada pertahanan wilayah | dibesarkan dekat garnisun, tetapi memilih jalur sipil dan menjaga batas dengan militer; menyelesaikan sengketa warga sebelum membesar. |
 | Yuandeng-Xi'an | Cui Yunqiao | Golden-Eyed Hawk | Spirit King / Early | populis, mendengar keluhan rakyat kecil | berasal dari keluarga pengrajin; menaruh perhatian pada standar kerja dan harga bahan; menjaga akses air, jalan, dan pasar tetap terbuka. |
 | Yuandeng-Nantian | Cui Jinshu | Jade Abacus | Spirit King / Late | berhati-hati dan gemar menyeimbangkan faksi | mendapat reputasi setelah menyelesaikan perselisihan air tanpa mengerahkan pasukan; mempercepat pengaduan tanpa mengorbankan pemeriksaan bukti. |
 | Yuandeng-Beitian | Cui Hengzhi | Iron Quill | Spirit King / Early | reformis dan pro-rakyat | berasal dari keluarga pejabat kecil dan naik lewat ujian administrasi; menyelesaikan sengketa warga sebelum membesar. |
 | Yuandeng-Guqiao | Cui Ziyu | Red Furnace Bear | Spirit King / Late | netral dan sangat prosedural | anak tabib desa yang menganggap kesehatan rakyat sebagai bagian dari ketahanan negara; menjaga akses air, jalan, dan pasar tetap terbuka. |
 | Yuandeng-Qingshui | Cui Xiaoran | Copperhorn Ox | Spirit King / Early | konservatif dan menghormati bangsawan | pernah mengatur perbaikan jalan setelah banjir dan mengutamakan manfaat jangka panjang; mempercepat pengaduan tanpa mengorbankan pemeriksaan bukti. |
-| Longchao-Dong'an | Cui Qinghe | Mist Lantern | Spirit King / Early | reformis dan pro-rakyat | pernah mengatur perbaikan jalan setelah banjir dan mengutamakan manfaat jangka panjang; menyelesaikan sengketa warga sebelum membesar. |
 | Longchao-Xi'an | Cui Weiming | Sapphire Minnow | Spirit King / Late | netral dan sangat prosedural | mantan pengelola lumbung yang terkenal teliti saat bencana pangan; menjaga akses air, jalan, dan pasar tetap terbuka. |
 | Longchao-Nantian | Cui Xuefeng | Cloudstep Fox | Spirit King / Early | konservatif dan menghormati bangsawan | pernah bertugas mengawasi jalur dagang dan memahami praktik pungutan liar; mempercepat pengaduan tanpa mengorbankan pemeriksaan bukti. |
 | Longchao-Beitian | Cui Zhengyang | River Pearl Shell | Spirit King / Late | berorientasi pada pertahanan wilayah | dibesarkan dekat garnisun, tetapi memilih jalur sipil dan menjaga batas dengan militer; menyelesaikan sengketa warga sebelum membesar. |
@@ -454,4 +461,4 @@ The following register names every prefect and magistrate in the administrative 
 - **Prefects and magistrates:** prefects review cross-county matters and local administration; magistrates manage county-level civil work. Their political differences may produce negotiation, audits, obstruction, or cooperation depending on the facts and evidence.
 - **Faction ties:** the roster deliberately does not assign every official to a clan. Shared region, Martial Soul motif, or professional focus is not evidence of kinship or secret allegiance. Specific clan ties must be added only if separately established.
 - **Public accountability:** reformist or pro-people officials can still make mistakes or pursue self-interest; conservative or pro-stability officials are not automatically villains. NPC behavior should follow their written motives, available information, and consequences.
-- **Administrative names:** the atlas remains authoritative for the seven regions, 46 prefectures, and 276 county jurisdictions. If a seat or jurisdiction is renamed, update this roster and the atlas together.
+- **Administrative names:** the atlas remains authoritative for the seven regions, 33 prefectures, and 268 county jurisdictions. If a seat or jurisdiction is renamed, update this roster and the atlas together.

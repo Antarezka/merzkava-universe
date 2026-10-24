@@ -67,7 +67,8 @@ Pilih modul berdasarkan aksi, kondisi, dan lokasi saat ini. Jangan membaca atau 
 | Total kekayaan global dan persebaran Xuan Gold per wilayah/pemegang | `world/WEALTH_DISTRIBUTION.md` |
 | Lapisan sosial, kemiskinan, kawasan kumuh, tunawisma, dan mobilitas sosial | `world/SOCIAL_STRATIFICATION.md` |
 | Dunia, tokoh, tiga kekuasaan utama, fondasi lore | `world/WORLD.md` |
-| Struktur pemerintahan sipil dan militer Golden Dragon Empire, kementerian, jenjang administrasi, serta aturan penyimpanan data pemerintahan | `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md` |
+| Struktur pemerintahan sipil dan militer Golden Dragon Empire, kementerian, dan jenjang administrasi | `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md` |
+| Nama dan jumlah regional, prefektur, county, kota, kota kecil, distrik, serta desa Kekaisaran Naga Emas | `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md` |
 | Peta, wilayah, permukiman, rute yang diketahui | `world/MAP_AND_REGIONS.md` |
 | Geografi fisik, perjalanan, moda transportasi, dan batas pengetahuan rute | `world/GEOGRAPHY_AND_TRAVEL.md` |
 | Bangsa berakal, ciri kelompok, dan konteks perlakuan sosial | `world/INTELLIGENT_PEOPLES.md` |
@@ -146,6 +147,7 @@ Jika sumber wajib gagal diakses, sebutkan file yang gagal dan jangan mengaku tel
 - `gameplay/TIME_AND_ACTION_RULES.md`
 - `world/WORLD.md`
 - `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`
+- `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
 - `world/MAP_AND_REGIONS.md`
 - `world/GEOGRAPHY_AND_TRAVEL.md`
 - `world/WANLUO_SACRED_EXPANSE.md`
@@ -167,6 +169,7 @@ Regional modules are divided according to the established geography in `world/MA
 
 ### Golden Dragon Empire
 - Empire-wide civil and military governance — `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`
+- Prefecture/county names and administrative totals — `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
 - Longyuan — `world/REGION_LONGYUAN.md`
 - Canglan — `world/REGION_CANGLAN.md`
 - Jinyue — `world/REGION_JINYUE.md`
@@ -211,7 +214,8 @@ Regional modules are divided according to the established geography in `world/MA
 | Character meets an established recurring or major NPC | Read the NPC profile linked from the regional registry and preserve prior continuity |
 | Character meets a new minor NPC | Follow `world/NPC_MANAGEMENT.md` and `templates/AUTHORITY_ORDER.md`; do not invent major secrets or present improvised details as permanent canon |
 | Faction presence, membership, or authority matters | Read `world/FACTIONS.md` and the matching regional module; regional association alone does not prove current control |
-| Government office, imperial ministry, governor, prefecture/county hierarchy, or civil-versus-military authority matters in the Golden Dragon Empire | Read `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`, then the matching `world/REGION_*.md` module and any linked NPC profile |
+| Government office, imperial ministry, or civil-versus-military authority matters in the Golden Dragon Empire | Read `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`, then the matching regional module and any linked NPC profile |
+| A character visits or discusses a Golden Dragon Empire prefecture, county, city, or other administrative unit | Read `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md` and the matching `world/REGION_*.md` module; use the atlas as the single source for jurisdiction names and counts |
 | NPC action changes the persistent world | Check `world/DYNAMIC_EVENTS.md` and the approved owner workflow; do not claim persistence without a verified repository update |
 
 **Canon boundary:** The regional modules preserve the region identities, named settlements, and faction associations already present in official world files. They intentionally leave additional geography, routes, local rulers, population, customs, prices, named NPCs, hidden lore, and current faction control unfilled for the owner to define. Do not infer those details from a module's existence.

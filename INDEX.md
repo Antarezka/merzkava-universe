@@ -9,7 +9,7 @@ Repository resmi: https://github.com/Antarezka/xuanling-realm
 ### 1. Bootstrap wajib — urutan jangan dilompati
 Setiap kali memulai CONVO, melakukan recall, atau menerima giliran gameplay:
 1. Fetch versi terbaru `INDEX.md` dari repository resmi; jangan mengandalkan salinan lama jika repository dapat diakses.
-2. Baca `templates/GM_PROMPT.md` untuk prosedur, batas perilaku, dan alur sesi.
+2. Baca `templates/AUTHORITY_ORDER.md` sebagai dokumen otoritas untuk prosedur, batas perilaku, dan alur sesi.
 3. Baca `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` untuk format gameplay canonical.
 4. Baca `world/DYNAMIC_EVENTS.md` pada setiap giliran untuk memeriksa event dunia aktif, perubahan status, dan batas pengetahuan karakter. Jika gagal diakses, nyatakan kegagalan pemeriksaan; jangan mengarang daftar event.
 5. Tentukan mode sesi: karakter terdaftar baru, karakter baru, atau sesi berlanjut/recall.
@@ -17,7 +17,7 @@ Setiap kali memulai CONVO, melakukan recall, atau menerima giliran gameplay:
 7. Tentukan modul lain yang relevan dari tabel Bagian 3 berdasarkan aksi, lokasi, state, dan event yang mungkin terpengaruh.
 8. Resolusi aksi, periksa apakah hasilnya memicu event dunia persisten, perbarui hanya state yang sah, lalu kirim gameplay dengan format canonical.
 
-**Urutan ringkas:** INDEX → GM Prompt → Response Template → Dynamic Events → sumber karakter/sesi → modul relevan → resolusi → validasi state/event → respons gameplay. Jangan menampilkan laporan bootstrap sebagai pengganti adegan.
+**Urutan ringkas:** INDEX → Authority Order → Response Template → Dynamic Events → sumber karakter/sesi → modul relevan → resolusi → validasi state/event → respons gameplay. Jangan menampilkan laporan bootstrap sebagai pengganti adegan.
 
 ### 2. Tentukan jenis sesi dan sumber karakter
 - **Karakter terdaftar, sesi baru:** baca `players.md` untuk menemukan file individual karakter, lalu baca file karakter tersebut sebagai snapshot awal. Jangan menciptakan riwayat sebelum sesi.
@@ -72,7 +72,7 @@ Jika sumber wajib gagal diakses, sebutkan file yang gagal dan jangan mengaku tel
 ## Sumber Utama dan Batas Tanggung Jawab
 
 - `INDEX.md`: alur dan navigasi.
-- `templates/GM_PROMPT.md`: perilaku GM, prosedur, anti-cheat, dan resolusi aksi tingkat umum.
+- `templates/AUTHORITY_ORDER.md`: Authority Order: perilaku GM, prosedur, anti-cheat, dan resolusi aksi tingkat umum.
 - `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`: **satu-satunya sumber format visual lengkap setiap respons gameplay**.
 - `templates/CHARACTER_PROFILE_TEMPLATE.md`: arti field dan aturan konsistensi state; bukan format output kedua.
 - `templates/PLAYER_CONVERSATION_TEMPLATE.md`: prompt pemanggilan singkat; bukan sumber mekanik.
@@ -103,7 +103,7 @@ Jika sumber wajib gagal diakses, sebutkan file yang gagal dan jangan mengaku tel
 - `INDEX.md`
 - `players.md`
 - `players/Yuha.md`
-- `templates/GM_PROMPT.md`
+- `templates/AUTHORITY_ORDER.md`
 - `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`
 - `templates/CHARACTER_PROFILE_TEMPLATE.md`
 - `templates/PLAYER_CONVERSATION_TEMPLATE.md`

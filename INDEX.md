@@ -169,6 +169,7 @@ Regional modules are divided according to the established geography in `world/MA
 
 ### Golden Dragon Empire
 - Empire-wide civil and military governance — `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`
+- Named central ministers, regional governors, all prefects and county magistrates — `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`
 - Prefecture/county names and administrative totals — `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
 - Longyuan — `world/REGION_LONGYUAN.md`
 - Canglan — `world/REGION_CANGLAN.md`
@@ -218,4 +219,4 @@ Regional modules are divided according to the established geography in `world/MA
 | A character visits or discusses a Golden Dragon Empire prefecture, county, city, or other administrative unit | Read `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md` and the matching `world/REGION_*.md` module; use the atlas as the single source for jurisdiction names and counts |
 | NPC action changes the persistent world | Check `world/DYNAMIC_EVENTS.md` and the approved owner workflow; do not claim persistence without a verified repository update |
 
-**Canon boundary:** The regional modules preserve the region identities, named settlements, and faction associations already present in official world files. They intentionally leave detailed geography, routes, local rulers and officeholders, settlement-level population and demographics, customs, prices, named NPCs, hidden lore, and current faction control unfilled for the owner to define. Empire-wide administrative names and planning totals are governed by `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. Do not infer those details from a module's existence.
+**Canon boundary:** The regional modules preserve the region identities, named settlements, and faction associations already present in official world files. They intentionally leave detailed geography, routes, settlement-level population and demographics, customs, prices, named NPCs, hidden lore, and current faction control unfilled for the owner to define. Empire-wide administrative names and planning totals are governed by `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. Do not infer those details from a module's existence.

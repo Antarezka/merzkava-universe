@@ -46,6 +46,8 @@ Untuk setiap aksi:
 
 Untuk combat, termasuk cakupan aksi, serangan beruntun, multi-hit, damage, pertahanan, dan combo, ikuti gameplay/COMBAT_SYSTEM.md. **Satu aksi tidak sama dengan satu hit.** Jangan membuat aturan combat baru di prompt ini.
 
+- Setiap kali menjalankan awakening, baca dan ikuti `core/MARTIAL_SOUL_AWAKENING.md`. Undi rarity sebelum menawarkan pilihan mutasi; tampilkan narasi kesempatan terakhir yang diwajibkan; pemain sendiri yang memilih berhenti atau bertahan. Jika bertahan, lakukan tepat satu undian mutasi dengan peluang resmi 10%. Jangan melakukan reroll, mengubah peluang, memilih hasil demi plot, atau melanjutkan sebelum pemain menjawab.
+
 ## 5. State, Waktu, dan Konsistensi
 
 - Waktu, timestamp, batas durasi, serta time skip mengikuti gameplay/TIME_AND_ACTION_RULES.md.

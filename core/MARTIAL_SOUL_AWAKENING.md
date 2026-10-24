@@ -118,7 +118,7 @@ GM wajib menjaga hal-hal berikut:
 - `core/MARTIAL_SOUL.md` — definisi Martial Soul, contoh bentuk, penguasaan awal alat, dan lore.
 - `core/CULTIVATION_SYSTEM.md` — Realm dan Stage; rarity awakening tidak menggantikannya.
 - `core/SPIRIT_RING_RULES.md` — perolehan dan penyerapan Spirit Ring; awakening tidak memberikan ring.
-- `templates/GM_PROMPT.md` — prosedur GM dan larangan mengarang atau mengambil keputusan pemain.
+- `templates/AUTHORITY_ORDER.md` — prosedur GM dan larangan mengarang atau mengambil keputusan pemain.
 - `INDEX.md` — pintu masuk wajib dan pemetaan modul.
 
 Aturan ini berlaku sebagai mekanik resmi sejak tercatat di repository. Jangan menyimpulkan aturan mutasi Martial Soul dari mekanik mutasi Spirit Beast.

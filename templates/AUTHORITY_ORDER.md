@@ -89,12 +89,12 @@ Untuk combat, termasuk cakupan aksi, serangan beruntun, multi-hit, damage, perta
 ## 5. State, Waktu, dan Konsistensi
 
 - Waktu, timestamp, batas durasi, serta time skip mengikuti `gameplay/TIME_AND_ACTION_RULES.md`.
-- Satiety, jadwal makan, pengurangan saat terjaga, pengali jam makan terlewat, metabolisme Realm, dan pengubah kondisi tubuh hanya mengikuti `core/HUNGER_AND_METABOLISM.md`. Setiap kali waktu aktif berlalu atau karakter makan, hitung dan perbarui `Satiety: nilai/100` sesuai modul itu. Tidur malam yang dilindungi mengunci Satiety dan boleh melewati batas aksi biasa 3 jam; jangan mengurangi Satiety selama tidur itu.
+- Satiety, jadwal makan, pengurangan saat terjaga, pengali jam makan terlewat, metabolisme Spirit Realm, dan pengubah kondisi tubuh hanya mengikuti `core/HUNGER_AND_METABOLISM.md`. Setiap kali waktu aktif berlalu atau karakter makan, hitung dan perbarui `Satiety: nilai/100` sesuai modul itu. Tidur malam yang dilindungi mengunci Satiety dan boleh melewati batas aksi biasa 3 jam; jangan mengurangi Satiety selama tidur itu.
 - Sifat bawaan tubuh yang sudah tercatat boleh memengaruhi cara lapar, lelah, atau tekanan fisik terlihat dan ditoleransi dalam narasi. Jangan menghapus kebutuhan biologis, memberi kekebalan penuh, atau mengubah angka Satiety tanpa aturan numerik resmi; jangan pula memaksakan gejala standar jika sifat tercatat jelas memengaruhi manifestasinya.
 - `Day left` hanya menghitung jeda minimum antarpenyerapan Spirit Ring yang berhasil, bukan timer umum breakthrough kultivasi. Ikuti `templates/CHARACTER_PROFILE_TEMPLATE.md` serta interval resmi di `bestiary/SPIRIT_BEAST_RULES.md`. Selesainya jeda waktu saja tidak menjamin breakthrough atau penyerapan ring berhasil.
 - HP dan injury adalah state terpisah; gunakan core/HP_SYSTEM.md dan core/INJURY_SYSTEM.md.
 - Sync progress/cap kompatibilitas bukan hal yang sama dengan penguasaan kekuatan ring 100%; ikuti modul Spirit Ring.
-- Jangan mengubah HP, Qi, Realm, ring, inventory, equipment, assets, Currency, luka, utang, relasi, atau konsekuensi tanpa dasar yang tercatat.
+- Jangan mengubah HP, Qi, Spirit Realm, ring, inventory, equipment, assets, Currency, luka, utang, relasi, atau konsekuensi tanpa dasar yang tercatat.
 - Teknik baru harus memenuhi sumber, waktu latihan, biaya, syarat, dan risiko sesuai aturan resmi. Item dan transaksi harus punya sumber kejadian yang sah.
 - Perjalanan menggunakan `world/GEOGRAPHY_AND_TRAVEL.md` untuk moda transportasi, batas perjalanan, dan detail geografi; gunakan `world/MAP_AND_REGIONS.md` untuk wilayah serta rute yang benar-benar diketahui. Jangan menyimpulkan jarak atau waktu tempuh yang belum didukung sumber.
 - Untuk harga, jual-beli, kurs, aset, atau perubahan saldo, gunakan `core/10_ECONOMY_SYSTEM.md` sebelum menetapkan nilai atau memperbarui Currency. Lore kekayaan dan kelas sosial tidak menggantikan aturan transaksi.

@@ -142,6 +142,36 @@ The destination examples carry the same source-scarcity surcharge for illustrati
 7. Keep the character profile's currency balances in the required compact format: `Wallet (wealth): 0 xc | 0 xs | 0 xg | 0 zj | 0 az` only if a valid starting balance has not yet been established. For a new registered character, establish the one-time bootstrap balance before the first gameplay profile; then show the exact recorded balances.
 8. The currency abbreviations defined in §1 are official. The character profile template must not duplicate their definitions.
 
+
+### Mandatory Transaction Log / Ledger
+
+Every character income and expense MUST be recorded in a continuous transaction log (ledger). This is mandatory for all money entering or leaving a character's Wallet, including purchases, sales, rewards, wages, fees, gifts, taxes, loans, repayments, refunds, and other supported transfers. Do not change the Wallet balance for a transaction until its cause and ledger entry are established.
+
+Each ledger entry must record:
+- **Date/time:** the in-world timestamp of the transaction, consistent with the session calendar.
+- **Transaction:** a concise description and the reason it occurred.
+- **Source / recipient:** who paid, received, sold, bought, or charged the amount, when known.
+- **Direction:** income or expense.
+- **Amount:** the exact amount and denomination paid or received.
+- **Conversion:** when currency is exchanged, the denominations, official exchange rate, and normalized result.
+- **Balance before:** the character's confirmed Wallet balance immediately before the transaction.
+- **Balance after:** the exact Wallet balance immediately after the transaction, in all five official denominations.
+- **Evidence / cause:** the gameplay action, event, agreement, or other valid basis authorizing the transaction.
+
+Use this entry format:
+
+`[Date/time] | [Income/Expense] | [Source/Recipient] | [Reason] | [Amount] | [Conversion, if any] | Before: [xc | xs | xg | zj | az] | After: [xc | xs | xg | zj | az] | Cause: [gameplay event/action]`
+
+Ledger requirements:
+1. Record every income and expense as its own entry when it occurs. Do not merge separate transactions into one vague total.
+2. Keep entries chronological and append-only. Never silently delete, rewrite, or invent historical transactions. If a genuine error is found, preserve the original entry and add a clearly identified correction entry that explains the error and its effect on the balance.
+3. Verify that each entry's opening balance matches the previous confirmed closing balance, and calculate the closing balance using the official exchange rates. The Wallet displayed in the character profile must match the latest verified ledger balance.
+4. The one-time bootstrap balance is an opening balance, not a fictional income transaction. Record it as the ledger's opening-balance entry with its source (character snapshot, valid Authority instruction, or one-time bootstrap draw); do not invent past earnings to explain it.
+5. For a continuing session, resume from the latest available gameplay profile and ledger, then append only supported transactions that occurred afterward. Never reroll the opening balance or reconstruct missing transactions from guesses.
+6. If a previous ledger is unavailable or a balance discrepancy cannot be resolved from recorded evidence, state the gap and use the latest verifiable balance as the reconciliation point. Do not fabricate entries or claim the ledger is complete beyond the evidence available.
+7. The ledger is the transaction audit trail; it does not replace the Wallet field in the character profile and does not create a separate Wallet module. Maintain it in the ongoing session record/history so it can be continued and checked across turns. Do not claim that it has been permanently saved to GitHub unless the repository write was actually completed and verified.
+8. Before finalizing any gameplay response involving money, verify that the transaction has a ledger entry, the balance calculation is correct, and the displayed Wallet matches the ledger. If the transaction cannot be supported or reconciled, do not invent a result.
+
 ## 8. Global Wealth Distribution
 
 The world-level baseline total and its territorial and social-holder allocations are defined in `world/WEALTH_DISTRIBUTION.md`. Social classes, housing insecurity, poverty, and social mobility are defined in `world/SOCIAL_STRATIFICATION.md`. The territorial table and social-holder table are two views of the same 400.463.763.789.849 xg total; never add them together. Land, sea, air markets and auction circuits are transaction channels, not additional ownership shares. This module remains the authority for exchange rates, prices, scarcity, transactions, and character currency balances. The global wealth tables do not establish the exact balance of any named character or organization.

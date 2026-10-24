@@ -156,3 +156,50 @@ Jika sumber wajib gagal diakses, sebutkan file yang gagal dan jangan mengaku tel
 - `world/SOCIAL_STRATIFICATION.md`
 
 Modul yang disebut tetapi belum tersedia tidak otomatis menjadi sumber resmi. Jangan mengklaim membacanya atau menganggap isinya sudah ditetapkan.
+
+## 3. Regional Modules and NPC References
+
+Regional modules are divided according to the established geography in `world/MAP_AND_REGIONS.md`. They are **owner-fillable scaffolds**, not a license for the GM to invent missing canon. Fetch the module matching the character's current location or intended destination; fetch `world/NPC_MANAGEMENT.md` when creating, meeting, or continuing an important NPC. Use `templates/NPC_PROFILE_TEMPLATE.md` for a full NPC profile and link it from the regional registry.
+
+### Golden Dragon Empire
+- Longyuan — `world/REGION_LONGYUAN.md`
+- Canglan — `world/REGION_CANGLAN.md`
+- Jinyue — `world/REGION_JINYUE.md`
+- Tianfeng — `world/REGION_TIANFENG.md`
+- Yanling — `world/REGION_YANLING.md`
+- Baiyue — `world/REGION_BAIYUE.md`
+- Xingluo — `world/REGION_XINGLUO.md`
+
+### Tianhai Yunzhou
+- Tianhai Yunzhou — `world/REGION_TIANHAI_YUNZHOU.md`
+
+### Beiming Gu
+- Beiming Heartland — `world/REGION_BEIMING_HEARTLAND.md`
+- Frostveil Range — `world/REGION_FROSTVEIL_RANGE.md`
+- Azureflame Basin — `world/REGION_AZUREFLAME_BASIN.md`
+- Silverpine Wilds — `world/REGION_SILVERPINE_WILDS.md`
+- Stonegate March — `world/REGION_STONEGATE_MARCH.md`
+- Hollowmoon Valley — `world/REGION_HOLLOWMOON_VALLEY.md`
+- Ironroot Reach — `world/REGION_IRONROOT_REACH.md`
+
+### Lawless Territories
+- Ashen Borderlands — `world/REGION_ASHEN_BORDERLANDS.md`
+- Black Tide Expanse — `world/REGION_BLACK_TIDE_EXPANSE.md`
+- Nine Frost Wastes — `world/REGION_NINE_FROST_WASTES.md`
+
+### NPC modules and templates
+- NPC management rules — `world/NPC_MANAGEMENT.md`
+- Regional module template — `templates/REGIONAL_MODULE_TEMPLATE.md`
+- NPC profile template — `templates/NPC_PROFILE_TEMPLATE.md`
+
+### Regional/NPC navigation triggers
+| Situation | Required source |
+|---|---|
+| Character is in or traveling to one of the named regions | Fetch the matching `world/REGION_*.md` module, plus `world/MAP_AND_REGIONS.md` / `world/GEOGRAPHY_AND_TRAVEL.md` as needed |
+| Character enters a settlement listed in a regional module | Read that region's settlement and NPC registry; do not assume undocumented shops, residents, or authorities exist |
+| Character meets an established recurring or major NPC | Read the NPC profile linked from the regional registry and preserve prior continuity |
+| Character meets a new minor NPC | Follow `world/NPC_MANAGEMENT.md` and `templates/AUTHORITY_ORDER.md`; do not invent major secrets or present improvised details as permanent canon |
+| Faction presence, membership, or authority matters | Read `world/FACTIONS.md` and the matching regional module; regional association alone does not prove current control |
+| NPC action changes the persistent world | Check `world/DYNAMIC_EVENTS.md` and the approved owner workflow; do not claim persistence without a verified repository update |
+
+**Canon boundary:** The regional modules preserve the region identities, named settlements, and faction associations already present in official world files. They intentionally leave additional geography, routes, local rulers, population, customs, prices, named NPCs, hidden lore, and current faction control unfilled for the owner to define. Do not infer those details from a module's existence.

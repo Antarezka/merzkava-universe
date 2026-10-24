@@ -69,6 +69,8 @@ Catat tanggal/waktu penyerapan berhasil, nomor ring, jeda sejak penyerapan sebel
 
 ## 6. Konsistensi Sumber
 
+Gunakan istilah **Spirit Realm** secara konsisten untuk tingkat kultivasi; `Mortal` adalah status dasar sebelum sembilan Spirit Realm, bukan Spirit Realm 0.
+
 - Gunakan `core/SPIRIT_RING_RULES.md` untuk formula kompatibilitas dan aturan ring.
 - Gunakan `core/CULTIVATION_SYSTEM.md` untuk Spirit Realm, bottleneck, dan syarat menerobos.
 - Gunakan `core/HP_SYSTEM.md` dan aturan pertarungan resmi untuk damage HP jika mekanik tersebut tersedia.

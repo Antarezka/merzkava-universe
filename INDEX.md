@@ -35,6 +35,7 @@ Pilih modul berdasarkan aksi, kondisi, dan lokasi saat ini. Jangan membaca atau 
 | Thinker Grade, formulasi, produksi Artificial Artifact | `core/THINKER_AND_FORMULATION.md` |
 | Harga, transaksi, kurs, aset, Currency | `core/10_ECONOMY_SYSTEM.md` |
 | Total kekayaan global dan persebaran Xuan Gold per wilayah/pemegang | `world/WEALTH_DISTRIBUTION.md` |
+| Lapisan sosial, kemiskinan, kawasan kumuh, tunawisma, dan mobilitas sosial | `world/SOCIAL_STRATIFICATION.md` |
 | Dunia, tokoh, tiga kekuasaan utama, fondasi lore | `world/WORLD.md` |
 | Peta, wilayah, permukiman, rute yang diketahui | `world/MAP_AND_REGIONS.md` |
 | Klan, dojo, sekte, organisasi, Medicine Hall Society | `world/FACTIONS.md` |
@@ -64,7 +65,7 @@ Jika sumber wajib gagal diakses, sebutkan file yang gagal dan jangan mengaku tel
 - `players.md`: indeks karakter terdaftar.
 - `players/<Nama>.md`: snapshot awal karakter individual, bukan save berjalan.
 - Modul mekanik: sumber resmi untuk aturan di ruang lingkupnya.
-- Modul world: sumber resmi untuk lore, geografi, faksi, sejarah, dan katalog artefak sesuai cakupannya.
+- Modul world: sumber resmi untuk lore, geografi, faksi, sejarah, katalog artefak, distribusi kekayaan, dan stratifikasi sosial sesuai cakupannya.
 - Profil gameplay terakhir dan kejadian setelahnya: sumber state sesi berjalan.
 
 ## Konsistensi yang Wajib Dipertahankan
@@ -105,5 +106,6 @@ Jika sumber wajib gagal diakses, sebutkan file yang gagal dan jangan mengaku tel
 - `world/ARTIFACTS_AND_RELICS.md`
 - `world/ARTIFICIAL_ARTIFACTS.md`
 - `world/WEALTH_DISTRIBUTION.md`
+- `world/SOCIAL_STRATIFICATION.md`
 
 Modul yang disebut tetapi belum tersedia tidak otomatis menjadi sumber resmi. Jangan mengklaim membacanya atau menganggap isinya sudah ditetapkan.

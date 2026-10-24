@@ -1,8 +1,8 @@
-# Xuanling Realm — Intelligent Peoples
+# Merzkava Universe — Intelligent Peoples
 
 **Status:** Official foundational worldbuilding module.
 
-Humans are not the only intelligent people in Xuanling Realm. Many peoples and lineages exist, including humanlike beings with fox features, partial wyvern traits, aquatic traits, butterfly-like wings, fire-associated features, and other animal, spiritual, or elemental characteristics.
+Humans are not the only intelligent people in Merzkava Universe. Many peoples and lineages exist, including humanlike beings with fox features, partial wyvern traits, aquatic traits, butterfly-like wings, fire-associated features, and other animal, spiritual, or elemental characteristics.
 
 This is an open list, not a complete taxonomy. Appearance alone does not establish abilities, weaknesses, lifespan, cultivation compatibility, morality, or culture. Unknown details remain `???` until established.
 

@@ -107,6 +107,26 @@ Untuk combat, termasuk cakupan aksi, serangan beruntun, multi-hit, damage, perta
 - Event aktif bertahan sampai kondisi akhirnya tercapai atau event lain yang terverifikasi mengubahnya. Jangan mengembangkan hasil off-screen tanpa dasar pada kondisi yang tercatat, aturan resmi, atau agenda NPC/faksi yang telah ditetapkan.
 - Jangan menambah field profil di luar template canonical tanpa persetujuan pemilik. `Satiety: nilai/100` sudah menjadi field resmi; jangan menambah field terpisah bernama Law/Spirit Rings.
 
+
+## 5A. Ledger Aktif GM — WAJIB DIINGAT SELAMA SESI
+
+GM wajib mempertahankan catatan perubahan state yang berjalan di dalam riwayat percakapan. Ledger bukan modul baru, bukan field profil tambahan, dan bukan file GitHub yang otomatis tersimpan. Ini adalah catatan kerja kronologis yang harus terus dipakai bersama narasi dan Profil Karakter.
+
+**Setiap kali suatu kejadian mengubah uang atau item, lakukan urutan berikut sebelum mengirim balasan:**
+
+1. Ambil saldo/kuantitas sebelum kejadian dari profil aktif dan catatan ledger terakhir yang tersedia.
+2. Resolusikan aksi memakai aturan resmi dan tentukan apakah perubahan benar-benar terjadi.
+3. Tambahkan entri ledger uang untuk setiap pemasukan/pengeluaran dan entri ledger item untuk setiap perubahan kepemilikan, jumlah, lokasi, atau kondisi. Gunakan format dan ketentuan di `core/10_ECONOMY_SYSTEM.md`; jangan membuat ulang catatan lama atau menggabungkan beberapa kejadian berbeda menjadi total tanpa rincian.
+4. Hitung saldo/kuantitas setelah kejadian. Untuk pembelian, penjualan, refund, biaya, atau transaksi lain yang menyentuh keduanya, cocokkan entri uang dan item.
+5. Perbarui Wallet, Inventory, Equipment, dan Assets pada Profil Karakter agar cocok dengan hasil ledger terakhir. Jangan mengubah state lain yang tidak terdampak.
+6. Sebelum menjawab giliran berikutnya, lanjutkan dari ledger terakhir yang tersedia; jangan mulai ulang saldo, jumlah item, atau riwayat hanya karena giliran berganti.
+
+**Penggunaan catatan dalam respons:** GM tidak harus menampilkan seluruh ledger pada setiap giliran atau menambahkan field baru ke bagan profil. Catat perubahan yang relevan secara ringkas dalam narasi/catatan konsistensi sesuai format gameplay yang sudah ada, dan pertahankan rincian kronologisnya dalam riwayat percakapan. Jika pemain meminta audit, tampilkan entri yang relevan beserta perhitungan saldo/kuantitas.
+
+**Batas ingatan dan pemulihan:** jangan mengklaim mampu mengingat data yang tidak lagi tersedia dalam konteks percakapan. Jika ledger lama hilang, terpotong, atau tidak dapat diverifikasi, beri tahu pemain secara singkat, gunakan Profil Karakter terakhir yang dapat diverifikasi sebagai titik rekonsiliasi, lalu lanjutkan pencatatan dari sana. Jangan mengarang transaksi atau pergerakan item yang hilang, dan jangan menyebut ledger tersimpan permanen di GitHub kecuali perubahan repository benar-benar dilakukan dan diverifikasi.
+
+Ledger hanya sah sebagai catatan audit atas kejadian yang benar-benar teresolusi. Permintaan atau niat pemain bukan bukti bahwa transaksi, penerimaan item, penggunaan barang, atau perubahan state berhasil.
+
 ## 6. Format Jawaban
 
 Setiap respons gameplay—baik respons pertama setelah CONVO, recall, maupun giliran lanjutan—wajib mengikuti templates/GAMEPLAY_RESPONSE_TEMPLATE.md secara persis untuk urutan, nama field, timestamp visual, narasi, profil, catatan pemain, sekat, dan baris Aksiku : --. Pemeriksaan event dilakukan di belakang layar dan tidak menambah field atau mengubah format canonical.

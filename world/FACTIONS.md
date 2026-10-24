@@ -11,7 +11,7 @@
 - **Established strengths:** Large population, administration, agriculture, inland trade, industry, cultivation academies, clans, and dojos.
 - **Ruler:** Emperor of the Golden Dragon Empire.
 - **Martial Soul:** Golden Heavenly Dragon.
-- **Spirit Realm:** Spirit Realm 9 — Spirit Primordial, Middle Stage.
+- **Spirit Realm:** 9 — Spirit Primordial, Middle Stage.
 - **Political limits:** Vast territory creates administrative, security, border-control, and corruption challenges. Clan loyalty is not automatically absolute.
 
 ### 1.2 Tianhai Yunzhou
@@ -19,7 +19,7 @@
 - **Established strengths:** Maritime trade, navigation, defense, advanced Thinker knowledge, and a Tier 9 Artificial Artifact that sustains the island.
 - **Ruler:** Maharaja of Tianhai Yunzhou.
 - **Martial Soul:** Heavenly Sky Whale.
-- **Spirit Realm:** Spirit Realm 9 — Spirit Primordial, Early Stage.
+- **Spirit Realm:** 9 — Spirit Primordial, Early Stage.
 - **Political limits:** The island artifact is a strategic asset; its existence does not mean the Maharaja can automatically use all of its functions as personal combat abilities.
 
 ### 1.3 Beiming Gu
@@ -27,7 +27,7 @@
 - **Established strengths:** Defensive terrain, experience in harsh environments, local resource knowledge, and restricted access routes.
 - **Ruler:** Leluhur Utara of Beiming Gu.
 - **Martial Soul:** Blue-Flame Silver Tiger.
-- **Spirit Realm:** Spirit Realm 9 — Spirit Primordial, Early Stage.
+- **Spirit Realm:** 9 — Spirit Primordial, Early Stage.
 - **Established comparison:** Leluhur Utara is described as having a major advantage in direct individual duels against the other two rulers. This does not guarantee victory in every context or make Beiming Gu automatically strongest as a state.
 
 The three rulers' proposed ring configurations are documented in `world/WORLD.md`. Those configurations are labeled proposed and must not be treated as independently verified historical events.

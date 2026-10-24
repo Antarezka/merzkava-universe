@@ -137,9 +137,9 @@ The destination examples carry the same source-scarcity surcharge for illustrati
 2. Use the correct item tier, regional base price, seasonal scarcity, distribution route, and local market conditions. Do not use a universal price for all regions.
 3. Keep quality tier separate from scarcity, rarity by quantity, item power, and cultivation rank.
 4. Do not change the official exchange rates without an explicit canon revision.
-5. Do not invent a character's money, transaction, price history, stock, or merchant costs during ongoing gameplay. **Bootstrap exception:** if a new character has no recorded starting balance and gameplay cannot reasonably begin without one, the GM may set a modest, clearly labeled initial estimate based on the character's background and circumstances; this is an explicitly provisional starting-state estimate, not a claimed past transaction or established canon. Prefer a recorded registry balance whenever available. After bootstrap, currency changes occur only through supported, recorded transactions.
+5. Do not invent a character's money, transaction, price history, stock, or merchant costs. If a character's starting balance is not recorded in the character snapshot or active session profile, display each currency denomination as `0` until a valid starting balance is explicitly established. Do not infer money from occupation, assets, background, or expected income. Once established, currency changes occur only through supported, recorded transactions.
 6. When an exact price cannot be derived because an essential input is unknown, state the missing input or provide a clearly labeled estimate rather than pretending the value is fixed canon.
-7. Keep the character profile's currency balances in the required compact format: `Currency (xuan/zun): ...xc | ...xs | ...xg | ...zj | ...az`.
+7. Keep the character profile's currency balances in the required compact format: `Currency (xuan/zun): 0xc | 0xs | 0xg | 0zj | 0az` when no balance has been established; otherwise show the exact recorded balances.
 8. The currency abbreviations defined in §1 are official. The character profile template must not duplicate their definitions.
 
 ## 8. Global Wealth Distribution

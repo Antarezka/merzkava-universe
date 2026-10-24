@@ -1,43 +1,38 @@
 # Xuanling Realm — Official Index
 
-INDEX ini adalah **pintu masuk tunggal** untuk memulai, melanjutkan, dan menjalankan roleplay Xuanling Realm. Ikuti alur di bawah; jangan menggandakan isi modul mekanik ke file lain.
+INDEX ini adalah **pintu masuk tunggal** untuk memulai, melanjutkan, dan menjalankan roleplay Xuanling Realm. Ikuti prosedur bootstrap dan navigasi modul di bawah. Jangan menggandakan aturan mekanik atau format respons lengkap ke file lain.
 
 Repository resmi: https://github.com/Antarezka/xuanling-realm
 
-## Alur Utama Roleplay
+## 0. Prosedur Bootstrap (WAJIB)
 
-### 1. Bootstrap wajib — urutan jangan dilompati
-Setiap kali memulai CONVO, melakukan recall, atau menerima giliran gameplay:
-1. Fetch versi terbaru `INDEX.md` dari repository resmi; jangan mengandalkan salinan lama jika repository dapat diakses.
-2. Baca `templates/AUTHORITY_ORDER.md` sebagai dokumen otoritas untuk prosedur, batas perilaku, dan alur sesi.
-3. Baca `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` untuk format gameplay canonical.
-4. Baca `world/DYNAMIC_EVENTS.md` pada setiap giliran untuk memeriksa event dunia aktif, perubahan status, dan batas pengetahuan karakter. Jika gagal diakses, nyatakan kegagalan pemeriksaan; jangan mengarang daftar event.
-5. Tentukan mode sesi: karakter terdaftar baru, karakter baru, atau sesi berlanjut/recall.
-6. Muat sumber state karakter yang tepat sesuai Bagian 2; jangan memakai snapshot awal sebagai save sesi berjalan.
-7. Tentukan modul lain yang relevan dari tabel Bagian 3 berdasarkan aksi, lokasi, state, dan event yang mungkin terpengaruh.
-8. Resolusi aksi, periksa apakah hasilnya memicu event dunia persisten, perbarui hanya state yang sah, lalu kirim gameplay dengan format canonical.
+Saat pemain memakai trigger awal yang merujuk INDEX.md dan players.md, perlakukan pesan itu sebagai perintah untuk menginisialisasi gameplay — bukan permintaan untuk sekadar menganalisis atau merangkum tautan.
 
-**Urutan ringkas:** INDEX → Authority Order → Response Template → Dynamic Events → sumber karakter/sesi → modul relevan → resolusi → validasi state/event → respons gameplay. Jangan menampilkan laporan bootstrap sebagai pengganti adegan.
+1. **Baca seluruh INDEX.md ini terlebih dahulu.** Gunakan direktori dan aturan navigasi di bawah untuk menemukan sumber resmi; jangan mengandalkan ingatan bebas jika sumber repository dapat diakses.
+2. **Fetch dan baca `templates/AUTHORITY_ORDER.md` sebelum memutuskan atau menarasikan hasil gameplay.** File ini menetapkan perilaku GM, anti-cheat, mode sesi, dan resolusi aksi.
+3. **Kenali jenis sesi dari pesan pemain dan riwayat chat yang tersedia.** Jangan menganggap semua penyebutan nama karakter sebagai jenis sesi yang sama:
+   - **A. Karakter terdaftar, sesi baru:** nama karakter cocok dengan `players.md`, dan tidak ada profil gameplay berjalan untuk karakter itu di percakapan saat ini. Baca `players.md`, lalu fetch tautan RAW file individual karakter yang sesuai dan baca seluruh isinya sebagai snapshot awal.
+   - **B. Sesi berlanjut / recall:** profil gameplay terakhir atau riwayat karakter masih tersedia di percakapan yang sama. Gunakan state terbaru itu; jangan fetch snapshot awal untuk menimpanya. Jika state terakhir tidak tersedia, minta pemain memberikan profil terakhir yang diperlukan.
+   - **C. Karakter baru:** nama tidak ditemukan dalam registry dan tidak ada state karakter di riwayat chat. Ikuti `templates/CHARACTER_PROFILE_TEMPLATE.md` dan aturan Authority Order untuk menetapkan informasi awal; jangan mengarang rahasia inti atau kemampuan formal.
+4. **Muat template format sebelum respons gameplay pertama.** Fetch dan baca `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` sebagai satu-satunya format visual canonical. Gunakan `templates/CHARACTER_PROFILE_TEMPLATE.md` untuk definisi dan pemetaan field. Keduanya wajib; jangan mengganti formatnya dengan daftar bullet atau format buatan sendiri.
+5. **Inisialisasi state karakter dari sumber yang tepat.** Untuk karakter terdaftar sesi baru, baca seluruh file individual dari awal hingga akhir — bukan hanya bagian profil ringkas. Pertahankan identitas, latar belakang, lokasi awal, hubungan, equipment, inventory, assets, Currency, kemampuan, catatan canon, estimasi awal, batas penafsiran, informasi khusus GM, serta Session Continuity. Bedakan fakta canon, estimasi GM, informasi khusus GM, dan pengetahuan karakter.
+6. **Baca modul berdasarkan lokasi, state, dan kebutuhan gameplay.** Tentukan lokasi awal dari snapshot karakter atau input pemain, lalu baca modul world/lokasi yang relevan serta modul mekanik yang dibutuhkan untuk menghitung state awal dan aksi pertama. Jangan fetch seluruh repository sekaligus.
+7. **Periksa `world/DYNAMIC_EVENTS.md` sebelum gameplay pertama dan setiap giliran gameplay.** Terapkan hanya event yang benar-benar terdaftar dan relevan. Jika file gagal diakses, ungkapkan kegagalan itu; jangan mengarang event.
+8. **Validasi sebelum menjawab.** Cocokkan seluruh data karakter dengan template profil, pastikan field wajib tidak hilang, dan pastikan tidak ada nilai tercatat yang diganti dengan `???` atau transaksi/kejadian yang direka. Gunakan timestamp yang konsisten sesuai modul waktu.
+9. **Mulai gameplay langsung** menggunakan `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`. Jangan membalas trigger dengan laporan bootstrap, daftar file yang dibaca, atau ringkasan analisis sebagai pengganti adegan.
+10. **Selama permainan, navigasikan modul secara dinamis** memakai tabel pemicu di bawah. Jika modul sudah dibaca di percakapan yang sama dan belum berubah atau tidak ada alasan untuk mengambil ulang, gunakan konteks tersebut secara konsisten.
 
-### 2. Tentukan jenis sesi dan sumber karakter
-- **Karakter terdaftar, sesi baru:** baca `players.md` untuk menemukan file individual karakter, lalu baca file karakter tersebut sebagai snapshot awal. Jangan menciptakan riwayat sebelum sesi.
-- **Sesi berlanjut / recall:** gunakan profil gameplay terakhir dan kejadian setelahnya yang tersedia. Jangan menimpa state berjalan dengan snapshot awal dari `players.md` atau `players/`.
-- **Karakter baru:** gunakan `templates/CHARACTER_PROFILE_TEMPLATE.md` untuk field profil; tanyakan hanya informasi penting yang tidak tersedia dan tidak dapat disimpulkan secara wajar.
-- **Riwayat atau profil terakhir tidak tersedia:** jangan berpura-pura mengingatnya. Minta player memberikan profil terakhir atau catatan save yang dibutuhkan.
+### Protokol pemuatan karakter terdaftar
 
-### Protokol pemuatan data karakter terdaftar — wajib
+- `players.md` adalah **indeks karakter**, bukan file yang memuat seluruh ingatan karakter.
+- File `players/<Nama>.md` adalah snapshot awal yang wajib dibaca penuh pada sesi baru untuk karakter terdaftar.
+- Jangan menghilangkan data yang berada di bagian latar belakang, catatan khusus GM, aset, inventaris, relasi, atau batas penafsiran hanya karena field tersebut tidak tampil sebagai field terpisah di profil gameplay.
+- Baca `core/10_ECONOMY_SYSTEM.md` saat menetapkan atau mengubah saldo, aset, transaksi, maupun harga. Pertahankan saldo yang tercatat; jangan mengubah estimasi awal menjadi klaim bahwa transaksi masa lalu tertentu benar-benar terjadi.
+- Baca `core/HUNGER_AND_METABOLISM.md` saat menetapkan Satiety atau menghitung perubahan karena waktu/makanan. Jangan otomatis menetapkan Satiety ke 100 jika sumber dan prosedur resmi tidak mendukungnya.
+- Informasi khusus GM digunakan untuk konsistensi dunia, tetapi tidak otomatis diketahui karakter.
+- Jika sumber wajib gagal diakses, sebutkan file yang gagal. Jangan mengklaim sudah membaca sumber yang tidak berhasil diambil.
 
-Saat memulai sesi baru dengan karakter terdaftar, jangan menganggap membaca `players.md` saja sudah memuat ingatan atau keadaan karakter. `players.md` hanya indeks; file individual karakter adalah snapshot awal yang harus dibaca penuh.
-
-1. Temukan tautan karakter yang tepat di `players.md`, lalu buka file individual tersebut dan baca **seluruh isi file**, bukan hanya bagian Initial Character Profile.
-2. Muat semua bagian yang relevan ke state awal sesi: field profil, equipment, inventory, assets, Currency, latar belakang orisinal, relasi, lokasi awal, catatan canon, informasi khusus GM, estimasi awal, batas penafsiran, dan Session Continuity.
-3. Pertahankan perbedaan antara fakta canon, estimasi awal GM, informasi khusus GM, dan hal yang belum diketahui karakter. Informasi khusus GM boleh mengarahkan konsistensi dunia, tetapi tidak otomatis diketahui oleh karakter.
-4. Gunakan `templates/CHARACTER_PROFILE_TEMPLATE.md` untuk memetakan semua data ke field profil resmi, lalu `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` untuk menampilkannya. Jangan menghilangkan barang atau aset hanya karena tidak ditulis sebagai field profil terpisah.
-5. Baca modul terkait sebelum menetapkan nilai yang membutuhkan aturan mekanik. Untuk saldo, transaksi, harga, atau aset, baca `core/10_ECONOMY_SYSTEM.md`; untuk Satiety, baca `core/HUNGER_AND_METABOLISM.md`.
-6. Jika nilai awal tertentu tidak dicatat, ikuti aturan estimasi yang secara eksplisit diizinkan oleh registry atau modul terkait dan tandai sebagai estimasi. Jangan mengganti nilai yang sudah tercatat dengan `???`, dan jangan mengubah estimasi menjadi transaksi masa lalu yang diklaim benar-benar terjadi.
-7. Sebelum respons pertama, cocokkan kembali profil yang akan ditampilkan dengan seluruh snapshot karakter. Pastikan equipment, inventory, assets, Currency, latar belakang, relasi, dan kondisi awal tidak hilang, tertukar, atau bertentangan.
-
-Untuk sesi berlanjut/recall, protokol ini tidak mengizinkan pemuatan ulang snapshot awal untuk menimpa state berjalan. Gunakan profil gameplay terakhir dan kejadian setelahnya yang tersedia.
+### 1. Direktori dan prinsip navigasi
 
 ### 3. Baca modul sesuai kebutuhan
 Pilih modul berdasarkan aksi, kondisi, dan lokasi saat ini. Jangan membaca atau mengarang modul yang tidak tersedia hanya karena jalurnya tercantum di peta.

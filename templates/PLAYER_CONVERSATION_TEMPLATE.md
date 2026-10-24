@@ -30,7 +30,7 @@ Tentukan mode sebelum memulai atau melanjutkan gameplay:
 
 Trigger untuk memulai gameplay adalah `CONVO — [Nama Karakter]`. Jika nama karakter atau mode sesi tidak jelas, minta hanya klarifikasi yang benar-benar diperlukan. Jangan memulai gameplay sebelum referensi wajib diperiksa.
 
-Respons gameplay pertama harus langsung berisi timestamp, narasi pembuka, dan profil lengkap. Jangan mengganti respons pertama dengan laporan bootstrap atau daftar modul yang dibaca. Jika akses sumber gagal dan hal itu memengaruhi keamanan/kebenaran bootstrap, nyatakan keterbatasannya secara singkat sebelum melanjutkan bagian yang masih didukung.
+Respons gameplay pertama harus langsung berisi timestamp, narasi pembuka, dan profil lengkap. Jangan mengganti respons pertama dengan laporan bootstrap atau daftar modul yang dibaca. Jika akses sumber gagal, nyatakan keterbatasan secara singkat tanpa mengaku telah membaca file; jangan menyelesaikan aksi yang bergantung pada aturan yang hilang. Jika gameplay masih dapat dilanjutkan dengan aman, pertahankan format gameplay wajib.
 
 ---
 
@@ -93,8 +93,8 @@ Rujuk `core/CULTIVATION_SYSTEM.md`, `core/SPIRIT_RING_RULES.md`, dan `bestiary/S
 ### Breakthrough dan Day left
 
 - Field `Breakthrough: ... | ... Day left` harus mengikuti definisi dalam `templates/CHARACTER_PROFILE_TEMPLATE.md` dan jeda minimum di `bestiary/SPIRIT_BEAST_RULES.md`.
-- `Day left` adalah perkiraan hari kalender dunia yang tersisa sampai **jeda minimum antarpenyerapan Spirit Ring berikutnya** terpenuhi, dihitung dari waktu penyerapan ring sebelumnya yang berhasil. Nilai ini bukan hitung mundur jaminan breakthrough.
-- `Day left: 0` hanya berarti jeda minimum sudah terpenuhi. Bottleneck, ring berikutnya, item wajib, dan seluruh persyaratan lain tetap harus diperiksa.
+- `Day left` adalah jumlah hari hitung yang tersisa sampai **jeda minimum antarpenyerapan Spirit Ring berikutnya** terpenuhi. Pilih interval berdasarkan jumlah ring yang sudah berhasil diserap (misalnya Ring 1 → Ring 2), lalu hitung dari timestamp penyerapan terakhir yang berhasil. Nilai ini bukan hitung mundur jaminan breakthrough.
+- Jika sisa durasi positif, bulatkan ke atas dalam satuan 24 jam: sisa 1 jam = `1 Day left`, 24 jam = `1 Day left`, 25 jam = `2 Day left`. Ini hitung mundur durasi, bukan hitungan pergantian tanggal kalender. `Day left: 0` hanya berarti jeda minimum sudah terpenuhi. Bottleneck, ring berikutnya, item wajib, dan seluruh persyaratan lain tetap harus diperiksa.
 - Jika waktu penyerapan sebelumnya, nomor ring, atau data yang diperlukan tidak diketahui, tulis `??? Day left`; jangan menebak.
 - Jangan mengurangi `Day left` hanya karena giliran berganti. Hitung ulang berdasarkan timestamp dunia yang benar-benar tercatat.
 - Jangan menganggap breakthrough tersedia hanya karena `Day left` mencapai nol atau Sync progress mencapai cap.

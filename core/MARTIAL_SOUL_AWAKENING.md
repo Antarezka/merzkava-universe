@@ -16,6 +16,17 @@ Modul ini adalah sumber mekanik utama untuk proses awakening dan mutasi Martial 
 5. Bentuk, atribut, kemampuan, batas, dan efek suatu Martial Soul harus memiliki dasar yang dapat dijelaskan. GM tidak boleh menciptakan kemampuan luar biasa hanya berdasarkan rarity.
 6. Jika mekanisme pengacakan yang benar-benar acak tidak tersedia, GM harus menyatakan keterbatasan itu dan tidak mengaku telah melakukan pengundian acak yang tidak terjadi.
 
+## 1.1 Awakening Service Charges and Proof Token — Golden Dragon Empire
+
+The standard per-individual charges for Golden Dragon Empire services are set out in `core/10_ECONOMY_SYSTEM.md`: 3 xg 25 xs for the awakening service, an 8% service tax calculated on that service fee only, 15 xs for documentation, and 10 xs for the official proof token. The standard all-in amount is **3 xg 76 xs per individual** at the official exchange rate. Consult the economy module for the itemized breakdown and transaction rules.
+
+- Each individual who completes awakening and has the result officially recorded receives a proof token linked to their documentation record.
+- The token is practical evidence of completed awakening and helps simplify applications for basic employment and education. It is not a guarantee of employment, admission, scholarship, income, or special status.
+- The token and record confirm only information that was actually established during awakening. They must not grant a better rarity, change a result, or imply unconfirmed powers.
+- A waiver or subsidy requires explicit authorization; neither village outreach nor attendance at a public service automatically makes the service free.
+- These charges are Golden Dragon Empire rules. Do not impose them on Tianhai Yunzhou, Beiming Gu, Wanluo, or Lawless Territories unless their own canon adopts them.
+- Record payment and issuance as actual events. Do not assume a character paid, received a token, or has documentation without a supported in-game event and ledger entry.
+
 ## 2. Tabel Rarity Awakening
 
 Rarity awal ditentukan dengan satu undian yang merata dari rentang 1–100. Setiap angka hanya masuk ke satu kategori.

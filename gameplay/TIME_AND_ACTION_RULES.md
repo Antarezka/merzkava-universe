@@ -68,12 +68,13 @@ If any condition is not met or cannot be verified, apply the ordinary-action lim
 - Defeating a Spirit Beast and causing its ring to appear does not mean the ring has automatically been absorbed.
 - Do not award progress, absorb a ring, or trigger a breakthrough solely because time passed.
 
-## 7. Breakthrough Day left Display
+## 7. Spirit Ring Absorption Day left Display
 
-When filling `Breakthrough: ... | ... Day left`, use the number of successfully absorbed rings to select the next transition interval (for example, Ring 1 → Ring 2), then calculate `Day left` from the last successful Spirit Ring absorption timestamp and the minimum interval in `bestiary/SPIRIT_BEAST_RULES.md`.
+`Day left` is a narrow exception used only to display the minimum interval between successful Spirit Ring absorptions. It is not a general countdown for cultivation breakthrough, training, or other activities. When the canonical profile line includes `Breakthrough: ... | ... Day left`, calculate this value only from the number of successfully absorbed rings and the last successful Spirit Ring absorption timestamp, using the applicable minimum interval in `bestiary/SPIRIT_BEAST_RULES.md`.
 
 - Use elapsed in-world time from recorded timestamps, not the number of turns or real-world time.
 - If positive time remains, round up to the next whole 24-hour unit. For example, 1 hour remaining = 1 Day left; 24 hours remaining = 1 Day left; 25 hours remaining = 2 Day left. This is a duration countdown, not a count of calendar-date changes.
+- If no successful Spirit Ring absorption timestamp or applicable ring count exists, use `Belum ditetapkan Day left`. Do not treat an unrelated cultivation breakthrough as a reason to calculate this field.
 - Display `0 Day left` only when the minimum interval has actually elapsed.
 - If the previous successful absorption, ring number, or required timestamp is unknown or conflicting, display `??? Day left`; do not assume zero.
 - Recalculate only when recorded in-world time or valid history changes. A new turn by itself does not reduce the value.

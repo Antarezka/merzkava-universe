@@ -23,7 +23,9 @@
 - First-contact circumstances:
 
 ## 3. Capabilities
-- Spirit Realm / Stage:
+
+Use the official numbered form `Spirit Realm N — Spirit [tier], [stage] Stage` (for example, `Spirit Realm 6 — Spirit Ancestor, Middle Stage`). Do not shorten the nine cultivation tiers to generic `Realm` or label them `Cultivation Realm`. `Mortal` is the pre-Spirit-Realm status, not Spirit Realm 0.
+- Spirit Realm (1–9) / Stage:
 - Martial Soul:
 - Spirit Rings and abilities (if applicable):
 - Techniques / combat style:

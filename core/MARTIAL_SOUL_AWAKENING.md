@@ -128,6 +128,8 @@ GM wajib menjaga hal-hal berikut:
 
 ## 8. Integrasi dengan Modul Lain
 
+Untuk tingkat kultivasi, gunakan istilah kanonis **Spirit Realm** dari `core/CULTIVATION_SYSTEM.md`. Rarity awakening tidak menetapkan Spirit Realm, dan `Mortal` bukan Spirit Realm 0.
+
 - `core/MARTIAL_SOUL.md` — definisi Martial Soul, contoh bentuk, penguasaan awal alat, dan lore.
 - `core/CULTIVATION_SYSTEM.md` — Spirit Realm dan Stage; rarity awakening tidak menggantikannya.
 - `core/SPIRIT_RING_RULES.md` — perolehan dan penyerapan Spirit Ring; awakening tidak memberikan ring.

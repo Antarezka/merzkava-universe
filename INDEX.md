@@ -32,9 +32,7 @@ Saat pemain memakai trigger awal yang merujuk INDEX.md dan players.md, perlakuka
 - Informasi khusus GM digunakan untuk konsistensi dunia, tetapi tidak otomatis diketahui karakter.
 - Jika sumber wajib gagal diakses, sebutkan file yang gagal. Jangan mengklaim sudah membaca sumber yang tidak berhasil diambil.
 
-### 1. Direktori dan prinsip navigasi
-
-### 3. Baca modul sesuai kebutuhan
+### 1. Baca modul sesuai kebutuhan
 Pilih modul berdasarkan aksi, kondisi, dan lokasi saat ini. Jangan membaca atau mengarang modul yang tidak tersedia hanya karena jalurnya tercantum di peta.
 
 | Kebutuhan | Sumber resmi |
@@ -69,7 +67,7 @@ Pilih modul berdasarkan aksi, kondisi, dan lokasi saat ini. Jangan membaca atau 
 
 Untuk aksi yang menyentuh beberapa sistem, baca semua modul yang relevan. Contoh: combat yang mengubah HP dan menimbulkan luka memerlukan Combat, HP, Injury, Time, dan Hunger/Metabolism bila waktu aktif berlalu. Produksi Artificial Artifact menggunakan mekanik di `core/THINKER_AND_FORMULATION.md`; file lore artefak tidak menggantikan aturan produksi.
 
-### 4. Jalankan giliran
+### 2. Jalankan giliran
 1. Pahami niat player dan periksa lokasi, waktu, kemampuan, kondisi, sumber daya, serta pengetahuan karakter.
 2. Resolusi aksi menggunakan modul resmi yang relevan. Satu aksi tidak otomatis berarti satu hit; ikuti Combat System untuk multi-hit dan combo.
 3. Terapkan hanya konsekuensi yang didukung mekanik dan kejadian.

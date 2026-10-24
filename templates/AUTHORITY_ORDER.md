@@ -60,10 +60,10 @@ Untuk setiap trigger awal/CONVO, lakukan ini dalam urutan persis berikut. Ini bu
 
 **C — Tetapkan sumber saldo Currency.** Untuk sesi baru, baca saldo eksplisit dari snapshot karakter di `players/<Nama>.md`; untuk sesi berlanjut/recall, gunakan saldo pada profil gameplay terakhir dan terapkan hanya transaksi sah yang terjadi setelahnya. `core/10_ECONOMY_SYSTEM.md` menetapkan aturan ekonomi, bukan saldo individual.
 
-- Pertahankan urutan mata uang `xc | xs | xg | zj | az` dan nilai saldo yang tercatat; jangan menebak dari Assets, pendapatan masa lalu, atau ingatan model.
-- Untuk Yuha, saldo awal yang tercatat adalah `18xc | 6xs | 2xg | 0zj | 0az`. Jangan menambahkan uang berdasarkan deskripsi pekerjaan atau aset.
-- Jika saldo awal karakter benar-benar belum ditetapkan, gunakan pengecualian bootstrap di `core/10_ECONOMY_SYSTEM.md` untuk menetapkan satu estimasi awal yang wajar dan beri label **estimasi saldo awal GM**. Ini bukan transaksi masa lalu.
-- Setelah saldo awal ditetapkan, jangan mengundi ulang saldo di giliran berikutnya. Setiap perubahan harus memiliki sebab, waktu, jumlah masuk/keluar, dan saldo akhir yang konsisten dengan transaksi yang benar-benar terjadi. Tidak ada ledger terpisah yang wajib dibuat atau diklaim tersimpan di GitHub.
+- Pertahankan urutan mata uang `xc | xs | xg | zj | az` dan saldo yang tercatat; jangan menebak saldo dari Assets, pekerjaan, penghasilan masa lalu, atau ingatan model.
+- Untuk Yuha, gunakan saldo awal yang tertulis eksplisit di `players/Yuha.md`: `18xc | 6xs | 2xg | 0zj | 0az`. Nilai itu adalah hasil penetapan acak satu kali untuk bootstrap, bukan pendapatan atau transaksi masa lalu.
+- Jika snapshot karakter tidak mencatat saldo, tetapkan satu saldo awal melalui undian bootstrap satu kali dan tampilkan sebagai saldo awal yang ditetapkan. Jangan mengklaim angka itu berasal dari pekerjaan atau transaksi masa lalu. Catat saldo yang dipilih di profil awal sesi dan jangan mengundi ulang.
+- Setelah saldo awal ditetapkan, jangan mengubahnya kecuali ada transaksi yang benar-benar terjadi. Setiap perubahan harus memiliki sebab, waktu, jumlah masuk/keluar, dan saldo akhir yang konsisten dengan transaksi tersebut. Tidak ada ledger terpisah yang wajib dibuat atau diklaim tersimpan di GitHub.
 
 **D — Petakan data ke bagan.** Setelah A–C selesai, baca modul mekanik yang relevan dan isi setiap field pada tempat yang benar. Currency di profil harus konsisten dengan snapshot awal atau profil sesi terakhir setelah transaksi sah; Assets hanya merangkum aset non-saldo; Inventory tidak boleh kehilangan barang; HP, Satiety, Qi, kondisi tubuh, relasi, serta catatan GM harus dipertahankan sesuai sumber. Nilai tidak diketahui tetap `???`, tetapi nilai yang tercatat tidak boleh diubah menjadi `???`.
 

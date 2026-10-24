@@ -1,4 +1,4 @@
-# Xuanling Realm — World Dynamic Events
+# Merzkava Universe — World Dynamic Events
 
 **Status:** Canonical registry and operating rules for persistent world-changing events.
 **Scope:** Shared world state across sessions. This file is not a character save and does not replace character profiles, gameplay history, or official mechanics.

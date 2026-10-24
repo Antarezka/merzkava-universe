@@ -41,15 +41,15 @@ The Guild uses **six difficulty tiers** for contract listing and team matching. 
 | **Tier 3 — Challenging** | Risky travel, valuable cargo, hostile-area reconnaissance, difficult item recovery, protective work with a credible threat, or a hunt requiring coordinated combat. | Usually Spirit Realm 2 (Spirit Adept) or a team whose combined documented capabilities justify the contract. |
 | **Tier 4 — High Risk** | Dangerous wilderness routes, high-value or sensitive transport, hostile retrieval, significant threats to an escort, or a demanding Spirit Beast hunt. | Usually Spirit Realm 3 (Spirit Elder) or a well-prepared party with relevant experience, equipment, and a credible plan. |
 | **Tier 5 — Severe** | Major threats, remote or unstable routes, strategically important cargo, dangerous recovery missions, or hunts likely to overwhelm ordinary teams. | Usually Spirit Realm 4–5 (Spirit Monarch or Spirit King), preferably with complementary roles and relevant experience. |
-| **Tier 6 — Extreme** | Exceptional threats, extremely dangerous expeditions, critical cargo or recovery under severe opposition, or hunts where a mistake may be catastrophic. | **Normally suited only to experts at Spirit Realm 6 or above (Spirit Ancestor+).** Lower-Realm participants are not automatically forbidden, but must not be treated as capable without a concrete, credible reason and a team/plan that addresses the gap. |
+| **Tier 6 — Extreme** | Exceptional threats, extremely dangerous expeditions, critical cargo or recovery under severe opposition, or hunts where a mistake may be catastrophic. | **Normally suited only to experts at Spirit Realm 6 or above (Spirit Ancestor+).** Lower-Spirit Realm participants are not automatically forbidden, but must not be treated as capable without a concrete, credible reason and a team/plan that addresses the gap. |
 
 ### Tier assignment and eligibility
 
 - The tier is assigned from the actual objective, threat evidence, route, time pressure, cargo/item value and sensitivity, opposition, environmental hazards, and consequences of failure. Do not assign a tier solely from the reward amount or from the presence of a Spirit Beast.
-- Realm guidance is a **readiness guide**, not an automatic success formula or an absolute legal restriction. Evaluate each participant's actual abilities, experience, role, equipment, injuries, knowledge, and teamwork. A support specialist may be suitable for a high-tier team without being expected to duel its main threat.
+- Spirit Realm guidance is a **readiness guide**, not an automatic success formula or an absolute legal restriction. Evaluate each participant's actual abilities, experience, role, equipment, injuries, knowledge, and teamwork. A support specialist may be suitable for a high-tier team without being expected to duel its main threat.
 - Guild offices may set stricter eligibility or team-composition conditions for a particular contract when the stated risks justify them. Those conditions must be visible in the listing or established in play; do not invent them after a character accepts.
 - Tier 1's entry rule is explicit: the person must have undergone Martial Soul Awakening, but **does not need to have absorbed a Spirit Ring**. Awakening does not automatically make the person combat-ready; a Tier 1 contract still has to fit their actual role and capabilities.
-- The tiers do not grant combat bonuses, Spirit Rings, compatibility, immunity, guaranteed payment, or plot protection. A team can fail even when its members meet the usual Realm guide.
+- The tiers do not grant combat bonuses, Spirit Rings, compatibility, immunity, guaranteed payment, or plot protection. A team can fail even when its members meet the usual Spirit Realm guide.
 - Do not invent universal success percentages, automatic reward amounts, fixed Guild fees, or a guaranteed number of available jobs. Local boards, fees, reach, contract volume, and reward terms depend on the established office and circumstances.
 - Temporary party composition is flexible and may be randomly drawn from people actually available locally: academy students, young clan or sect members, independent cultivators, half-beasts, people from Lawless Territories, lower-ranking imperial circles, and strangers. Do not force all backgrounds into every team or equate background with morality.
 
@@ -87,7 +87,7 @@ For Spirit Beast work, the Guild does not guarantee that a Beast will appear, th
 ## 7. Related Sources
 
 - `core/SPIRIT_RING_RULES.md` — ring source, compatibility, absorption, Qi, and PowerScale.
-- `core/CULTIVATION_SYSTEM.md` — canonical Realm names and progression used as the reference for the six Guild difficulty tiers.
+- `core/CULTIVATION_SYSTEM.md` — canonical Spirit Realm names and progression used as the reference for the six Guild difficulty tiers.
 - `bestiary/SPIRIT_BEAST_RULES.md` — Beast categories and absorption-related requirements.
 - `core/CULTIVATOR_ACADEMIES.md` — academy instruction and supervised field practice.
 - `gameplay/COMBAT_SYSTEM.md` — combat resolution.

@@ -40,6 +40,7 @@ Tujuan Saat Ini: ...
 
 - GM dilarang melakukan overclaim yang memaksakan karakter ke kondisi survival, kerapuhan, atau konsekuensi tidak masuk akal tanpa dasar mekanik maupun kejadian yang jelas.
 - Profil harus konsisten dengan profil terakhir. Perubahan status wajib memiliki penyebab yang tercatat.
+- Jika snapshot mencatat saldo awal, salin persis. Jika saldo belum tercatat, tetapkan saldo awal konkret melalui undian bootstrap satu kali dan jangan mengundi ulang pada giliran berikutnya; jangan menebaknya dari Assets atau pekerjaan.
 - Setiap teknik atau kemampuan wajib disertai deskripsi fungsi yang jelas dan sesuai modul resmi.
 - Jangan mengarang informasi yang belum ditetapkan. Gunakan `???` hanya untuk identitas karakter yang benar-benar tidak dikenal atau nama Martial Soul yang belum diketahui. Field numerik yang belum tercatat gunakan `0`; field nonnumerik lain gunakan `Belum ditetapkan` atau `Tidak ada` jika ketiadaan memang diketahui.
 

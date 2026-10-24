@@ -29,7 +29,7 @@
 
 Nafila adalah gadis biasa yang berasal dari sebuah desa kecil dan menjalani kehidupan sederhana. Ia tidak berasal dari keluarga terpandang, tidak memiliki warisan sekte kuno, dan tidak diketahui menerima pusaka atau peninggalan khusus. Asal-usulnya sejauh ini tidak menunjukkan keistimewaan tertentu, tetapi masa depannya dalam kultivasi masih menjadi misteri.
 
-Nafila saat ini berada di Realm Mortal dan belum membangkitkan Martial Soul. Karena awakening belum terjadi, ia belum memiliki Martial Soul yang dapat digunakan maupun Spirit Ring. Ia tidak dapat menyerap Spirit Ring sebelum menjalani awakening Martial Soul yang sah dan memenuhi persyaratan mekanik terkait. Potensi, bakat, dan nasib kultivasinya tetap belum diketahui sampai terungkap melalui kejadian gameplay yang sah.
+Nafila saat ini berstatus Mortal dan belum membangkitkan Martial Soul. Karena awakening belum terjadi, ia belum memiliki Martial Soul yang dapat digunakan maupun Spirit Ring. Ia tidak dapat menyerap Spirit Ring sebelum menjalani awakening Martial Soul yang sah dan memenuhi persyaratan mekanik terkait. Potensi, bakat, dan nasib kultivasinya tetap belum diketahui sampai terungkap melalui kejadian gameplay yang sah.
 
 ## Catatan Canon dan Batas Penafsiran
 

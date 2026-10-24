@@ -70,7 +70,8 @@ Pilih modul berdasarkan aksi, kondisi, dan lokasi saat ini. Jangan membaca atau 
 | Peta, wilayah, permukiman, rute yang diketahui | `world/MAP_AND_REGIONS.md` |
 | Geografi fisik, perjalanan, moda transportasi, dan batas pengetahuan rute | `world/GEOGRAPHY_AND_TRAVEL.md` |
 | Bangsa berakal, ciri kelompok, dan konteks perlakuan sosial | `world/INTELLIGENT_PEOPLES.md` |
-| Klan, dojo, sekte, organisasi, Medicine Hall Society | `world/FACTIONS.md` |
+| Klan, dojo, sekte, organisasi, Medicine Hall Society, Ordo Suci Tianming | `world/FACTIONS.md` |
+| Geografi dan lore kawasan suci Wanluo, World Knowledge Tower, distrik, jalur ziarah, serta kompleks Ordo Suci Tianming | `world/WANLUO_SACRED_EXPANSE.md` |
 | Kronologi, bukti sejarah, peristiwa historis yang sudah mapan | `world/HISTORY.md` |
 | Event dunia dinamis yang aktif/berakhir, status event, dampak lintas sesi, dan sumber konfirmasi | `world/DYNAMIC_EVENTS.md` |
 | Form proposal untuk menambah/memperbarui event dunia; bukan canon sampai disetujui admin | `templates/WORLD_EVENT_UPDATE_TEMPLATE.md` |
@@ -145,6 +146,7 @@ Jika sumber wajib gagal diakses, sebutkan file yang gagal dan jangan mengaku tel
 - `world/WORLD.md`
 - `world/MAP_AND_REGIONS.md`
 - `world/GEOGRAPHY_AND_TRAVEL.md`
+- `world/WANLUO_SACRED_EXPANSE.md`
 - `world/INTELLIGENT_PEOPLES.md`
 - `world/FACTIONS.md`
 - `world/HISTORY.md`

@@ -39,12 +39,18 @@ Prefectures and seats:
 The administrative atlas is authoritative for names and totals. This regional file is the place to expand individual settlement descriptions, local institutions, officeholders, NPCs, and confirmed local events. Do not infer exact borders or travel times from the jurisdiction list alone.
 
 ## 3. Settlements and Points of Interest
-- Belum ditetapkan
 
-For each settlement or site, fill in details only when confirmed:
-| Name | Type | Description | Authority / control | Source / status |
-|---|---|---|---|---|
-| Belum ditetapkan | — | — | — | — |
+The prefecture seats listed below are established by `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. Detailed districts, neighborhoods, roads, markets, and individual buildings remain to be developed.
+
+| Settlement | Type | Established role | Authority / status |
+|---|---|---|---|
+| Huanglongcheng | City / prefecture seat | Imperial capital and seat of Huanglong Prefecture | Imperial civil administration; local detail pending |
+| Yuxi | City / prefecture seat | Seat of Jade Seal Prefecture | Imperial civil administration; local detail pending |
+| Zhuque | City / prefecture seat | Seat of Vermilion Gate Prefecture | Imperial civil administration; local detail pending |
+| Jintai | City / prefecture seat | Seat of Golden Terrace Prefecture | Imperial civil administration; local detail pending |
+| Guanhe | City / prefecture seat | Seat of River Crown Prefecture | Imperial civil administration; local detail pending |
+| Bailu | City / prefecture seat | Seat of White Stag Prefecture | Imperial civil administration; local detail pending |
+
 
 ## 4. Local Society and Daily Life
 - Peoples and population: Belum ditetapkan

@@ -52,7 +52,7 @@ Laju dasar menunjukkan waktu aktif yang diperlukan untuk mengurangi 100 Satiety 
 | Spirit Sovereign | 256 hari |
 | Spirit Primordial | 365 hari |
 
-Gunakan Spirit Realm yang benar-benar tercatat. Jangan menaikkan tingkat metabolisme hanya karena karakter memiliki Martial Soul langka, ring berusia tinggi, kekayaan, status sosial, atau kekuatan yang belum ditetapkan. Pengaruh khusus harus memenuhi §7.
+Gunakan Spirit Realm yang benar-benar tercatat dan jangan menyingkat tingkat kultivasi menjadi `Realm`. Mortal adalah status dasar sebelum sembilan Spirit Realm. Jangan menaikkan tingkat metabolisme hanya karena karakter memiliki Martial Soul langka, ring berusia tinggi, kekayaan, status sosial, atau kekuatan yang belum ditetapkan. Pengaruh khusus harus memenuhi §7.
 
 ## 4. Rumus Pengurangan Satiety
 

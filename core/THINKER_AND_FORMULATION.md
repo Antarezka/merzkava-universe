@@ -5,9 +5,9 @@
 ## 1. THINKER: INDEPENDENT PROGRESSION
 
 - Thinker has 10 tiers: Thinker Grade 1 through Thinker Grade 10.
-- Thinker is not a cultivation Realm. Progression concerns knowledge, materials, formulations, patterns, and artifact-making processes.
+- Thinker progression is separate from Spirit Realm cultivation. It concerns knowledge, materials, formulations, patterns, and artifact-making processes.
 - Thinkers use metals, stone, special materials, patterns, and complex formulations to produce Artificial Artifacts.
-- Cultivation Realm and Thinker Grade progress independently. High cultivation does not automatically make someone a great Thinker, and high Thinker Grade does not automatically make someone a powerful cultivator.
+- Spirit Realm progression and Thinker Grade progress independently. High cultivation does not automatically make someone a great Thinker, and high Thinker Grade does not automatically make someone a powerful cultivator.
 - The first Thinkers originated in Tianhai Yunzhou. The world's strongest Thinkers emerge from this knowledge tradition; Tianhai's advantage includes exceptional knowledge, not only combat strength.
 - Thinker Grade determines the normal baseline capability and formulation ceiling. It does not guarantee success in every attempt.
 
@@ -200,10 +200,10 @@ The Formation Engraver is a specialized precision tool used to carve intricate f
 
 ### 12.3 Manufacture and Access
 - Manufacturing a Formation Engraver is exceptionally difficult.
-- Its maker must be a capable blacksmith/forger with **Cultivation Realm 5 or higher** and the relevant forging ability.
-- Cultivation Realm 5 is a minimum requirement for the maker, not a guarantee that every Realm 5 blacksmith can successfully produce a high-quality engraver.
+- Its maker must be a capable blacksmith/forger with **Spirit Realm 5 or higher** and the relevant forging ability.
+- Spirit Realm 5 is a minimum requirement for the maker, not a guarantee that every Spirit Realm 5 blacksmith can successfully produce a high-quality engraver.
 - The tool is expensive because of the difficulty of manufacturing it and the precision required. Exact prices, quality grades, durability, and repair costs remain `???` unless established elsewhere.
-- An ordinary blacksmith without the required Realm and forging ability cannot be assumed capable of producing one.
+- An ordinary blacksmith without the required Spirit Realm and forging ability cannot be assumed capable of producing one.
 
 ### 12.4 Becoming a Thinker
 People who want to pursue the Thinker path commonly seek formal or recognized routes to prove their aptitude and gain access to instruction, tools, and professional networks. Possible routes include:
@@ -217,7 +217,7 @@ These are common pathways, not a universal requirement that every Thinker must f
 ### 12.5 GM Enforcement
 - Do not assume an aspiring Thinker already owns a Formation Engraver.
 - Do not assume a common craftsman can manufacture one.
-- Check the maker's Cultivation Realm and relevant forging ability when the tool's manufacture is part of the story.
+- Check the maker's Spirit Realm and relevant forging ability when the tool's manufacture is part of the story.
 - The tool's availability, quality, and suitability must be established before it is used for precision work.
 - Owning the tool does not replace Thinker knowledge, formulation understanding, materials, or the official success rules.
 - Do not invent exact prices, dimensions, quality tiers, production times, or special effects before they are defined.

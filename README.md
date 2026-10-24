@@ -33,6 +33,7 @@
 | FILE | DESCRIPTION |
 |---|---|
 | [World Overview](world/WORLD.md) | World foundations and the three major powers |
+| [Golden Dragon Empire Governance](world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md) | Civil hierarchy, central ministries, regional administration, military command, and information-storage rules |
 | [Map & Regions](world/MAP_AND_REGIONS.md) | Regional index and geographic knowledge boundaries |
 | [Geography & Travel](world/GEOGRAPHY_AND_TRAVEL.md) | Terrain, transportation, travel, and route information |
 | [Wanluo Sacred Expanse](world/WANLUO_SACRED_EXPANSE.md) | World Knowledge Tower region, pilgrimage roads, districts, and Ordo Suci Tianming |

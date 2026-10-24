@@ -9,7 +9,7 @@ Semua trigger awal (`CONVO`), recall, dan giliran lanjutan wajib mengikuti templ
 Pertahankan struktur, urutan field, nama field, ornamen visual, dan penutup berikut. Isi berdasarkan state serta kejadian yang benar-benar tercatat. `???` hanya untuk identitas karakter yang benar-benar tidak dikenal atau nama Martial Soul yang belum diketahui. Field numerik yang belum tercatat diisi `0`, kecuali HP awal mengikuti inisialisasi resmi dan Day left yang belum dapat dihitung ditulis `Belum ditetapkan`. Jika belum ada Spirit Ring yang sedang diproses, Sync progress ditulis `0%/0%`. Field nonnumerik lain yang belum ditetapkan ditulis `Belum ditetapkan`. Jangan pernah mengirim placeholder contoh seperti `...` sebagai nilai akhir field.
 
 ```text
-🕒 Waktu Xuanling Realm
+🕒 Waktu Merzkava Universe
 Tahun: XXXX, [Era sesi] | Musim: [Semi/Panas/Gugur/Dingin] | Tanggal: DD Bulan MM | Hari: [Senin–Minggu] | Cuaca: ... | Jam: HH:MM
 
 Narasi

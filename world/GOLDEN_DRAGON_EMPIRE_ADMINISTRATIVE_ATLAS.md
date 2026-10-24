@@ -211,6 +211,30 @@ Each region retains the identity already established in `world/WORLD.md`. The pr
 | Pearlshoal Village | Shellfish gathering and shallow-water trade |
 | Tidefarer Village | Coastal pilots and storm-season shelter |
 
+## 2A. Consolidation Register
+
+The following thirteen prefectures no longer exist as independent prefectures. Their former seat cities remain on the map as subordinate cities or local administrative centers, governed through the listed surviving prefecture. Former prefects were reassigned as regional coordination officers, inspectors, records supervisors, or administrative deputies; they are not still prefects.
+
+| Former prefecture | Former seat city | Successor prefecture | Current status of former seat |
+|---|---|---|---|
+| White Stag Prefecture | Bailu | Golden Terrace Prefecture | Subordinate city / local administrative center |
+| Lotus Ford Prefecture | Lianjin | Shuangjiang Prefecture | Subordinate city / local administrative center |
+| Granary Plain Prefecture | Cangping | Qinghe Prefecture | Subordinate city / local administrative center |
+| Deepstone Prefecture | Shenshi | Ironcloud Prefecture | Subordinate city / local administrative center |
+| Hundred Schools Prefecture | Baixue | Scholar's River Prefecture | Subordinate city / local administrative center |
+| Jade Lecture Prefecture | Yuyan | Heavenly Script Prefecture | Subordinate city / local administrative center |
+| Emberstone Prefecture | Huoshi | Red Furnace Prefecture | Subordinate city / local administrative center |
+| Flame Basin Prefecture | Yanpen | Molten River Prefecture | Subordinate city / local administrative center |
+| Storm Banner Prefecture | Fengqi | Northwatch Prefecture | Subordinate city / local administrative center |
+| Pine Shield Prefecture | Songdun | Long Pass Prefecture | Subordinate city / local administrative center |
+| Jade Coast Prefecture | Yuhai | Eastern Star Prefecture | Subordinate city / local administrative center |
+| Far Lantern Prefecture | Yuandeng | Tidegate Prefecture | Subordinate city / local administrative center |
+| Dragonwake Prefecture | Longchao | Blue Sail Prefecture | Subordinate city / local administrative center |
+
+Eight county jurisdictions were also merged into the wider county network and removed as independent county seats: Bailu-Dong'an, Lianjin-Dong'an, Cangping-Dong'an, Shenshi-Dong'an, Baixue-Dong'an, Huoshi-Dong'an, Fengqi-Dong'an, Yuandeng-Dong'an, and Longchao-Dong'an. Correction: this list contains **nine** entries if each listed seat is counted separately; the authorized reduction is **eight counties**, so **Cangping-Dong'an remains active** under the consolidated Canglan register. The eight retired county jurisdictions are therefore Bailu-Dong'an, Lianjin-Dong'an, Shenshi-Dong'an, Baixue-Dong'an, Huoshi-Dong'an, Fengqi-Dong'an, Yuandeng-Dong'an, and Longchao-Dong'an. Their former magistrates remain in service as circuit liaison officers, deputy clerks, or local case coordinators within their original region.
+
+The city reduction of seven and town reduction of two apply to the broad, unnamed planning totals; named former prefecture-seat cities above remain in the settlement register under their successor prefectures. The village reduction removes six named roleplay-anchor villages from the former list of 28, leaving 22 named villages. Unlisted settlements remain unenumerated.
+
 ## 3. Centralization, Administrative Authority, and Naming Rules
 
 1. **Development follows proximity to the imperial center.** Huanglongcheng and the Longyuan core have the most complete roads, civil offices, schools, medical care, markets, skilled services, and public infrastructure. Access and quality generally decline with distance from the capital and major regional seats.

@@ -16,6 +16,30 @@
 - Confirmed routes / crossings: Belum ditetapkan
 - Travel distances and durations: Do not infer; follow `world/GEOGRAPHY_AND_TRAVEL.md` and `gameplay/TIME_AND_ACTION_RULES.md`
 
+## 2A. Administrative Register
+
+- **Regional administrative seat:** Dongxing
+- **Population planning estimate:** 72 juta (part of the Empire-wide 320-million baseline; see the atlas for caveats)
+- **Prefectures:** 8
+- **Counties:** 48 (six per prefecture)
+- **Cities:** 80
+- **Towns:** 400
+- **Townships / districts:** 2,150
+- **Villages / neighborhoods:** 14,300
+- **Full official register:** `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
+
+Prefectures and seats:
+- Eastern Star Prefecture — Dongxing
+- Pearl Harbor Prefecture — Mingzhu
+- Blue Sail Prefecture — Lanfan
+- Tidegate Prefecture — Chaoguan
+- Saltwind Prefecture — Yanfeng
+- Jade Coast Prefecture — Yuhai
+- Far Lantern Prefecture — Yuandeng
+- Dragonwake Prefecture — Longchao
+
+The administrative atlas is authoritative for names and totals. This regional file is the place to expand individual settlement descriptions, local institutions, officeholders, NPCs, and confirmed local events. Do not infer exact borders or travel times from the jurisdiction list alone.
+
 ## 3. Settlements and Points of Interest
 - Belum ditetapkan
 

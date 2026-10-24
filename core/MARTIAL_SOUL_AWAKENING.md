@@ -40,7 +40,7 @@ Rarity awal ditentukan dengan satu undian yang merata dari rentang 1–100. Seti
 GM harus mengikuti urutan ini setiap kali karakter menjalani awakening yang hasilnya sedang dimainkan:
 
 1. Pastikan karakter memenuhi syarat usia dan proses awakening benar-benar berlangsung.
-2. Tentukan bentuk dasar Martial Soul berdasarkan canon atau hasil yang sah; jangan mengarang garis keturunan atau kemampuan tersembunyi.
+2. Tentukan bentuk dasar Martial Soul dengan mempertimbangkan informasi karakter yang sah, termasuk kecenderungan keluarga atau leluhur yang benar-benar diketahui. Bentuk Martial Soul tidak memiliki daftar tertutup dan dapat berupa bentuk lazim maupun tidak lazim, termasuk fenomena seperti kabut atau asap. Jangan mengarang silsilah, leluhur, atau kemampuan tersembunyi. Kecenderungan genetik memengaruhi pertimbangan bentuk, bukan mengubah tabel peluang rarity.
 3. Undi rarity awal menggunakan tabel di Bagian 2.
 4. Tampilkan narasi anomali atau gejolak yang menandai adanya kesempatan terakhir untuk menerima risiko mutasi. Narasi ini wajib diberikan setelah rarity awal diketahui oleh GM, tetapi sebelum hasil awakening ditetapkan secara final.
 5. Berikan keputusan kepada pemain: menghentikan proses dan mempertahankan hasil awal, atau bertahan untuk mengambil peluang mutasi.

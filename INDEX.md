@@ -64,7 +64,7 @@ Pilih modul berdasarkan aksi, kondisi, dan lokasi saat ini. Jangan membaca atau 
 | Cedera dan pemulihan injury | `core/INJURY_SYSTEM.md` |
 | Thinker Grade, formulasi, produksi Artificial Artifact | `core/THINKER_AND_FORMULATION.md` |
 | Harga, transaksi, kurs, aset, Currency | `core/10_ECONOMY_SYSTEM.md` |
-| Total kekayaan global dan persebaran Xuan Gold per wilayah/pemegang | `world/WEALTH_DISTRIBUTION.md` |
+| Total kekayaan global dan persebaran Yova per wilayah/pemegang | `world/WEALTH_DISTRIBUTION.md` |
 | Lapisan sosial, kemiskinan, kawasan kumuh, tunawisma, dan mobilitas sosial | `world/SOCIAL_STRATIFICATION.md` |
 | Struktur kosmos: dunia utama, alam dewa, dimensi, dunia primordial | `world/COSMOLOGY.md` |
 | Dunia utama, tokoh, tiga kekuasaan utama, fondasi lore | `world/WORLD.md` |

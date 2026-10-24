@@ -16,6 +16,27 @@
 - Confirmed routes / crossings: Belum ditetapkan
 - Travel distances and durations: Do not infer; follow `world/GEOGRAPHY_AND_TRAVEL.md` and `gameplay/TIME_AND_ACTION_RULES.md`
 
+## 2A. Administrative Register
+
+- **Regional administrative seat:** Yumai
+- **Population planning estimate:** 32 juta (part of the Empire-wide 320-million baseline; see the atlas for caveats)
+- **Prefectures:** 5
+- **Counties:** 30 (six per prefecture)
+- **Cities:** 35
+- **Towns:** 180
+- **Townships / districts:** 900
+- **Villages / neighborhoods:** 4,200
+- **Full official register:** `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
+
+Prefectures and seats:
+- Jadevein Prefecture — Yumai
+- Ironcloud Prefecture — Tieyun
+- Deepstone Prefecture — Shenshi
+- Goldsand Prefecture — Jinsha
+- Spirit Ore Prefecture — Lingkuang
+
+The administrative atlas is authoritative for names and totals. This regional file is the place to expand individual settlement descriptions, local institutions, officeholders, NPCs, and confirmed local events. Do not infer exact borders or travel times from the jurisdiction list alone.
+
 ## 3. Settlements and Points of Interest
 - Belum ditetapkan
 

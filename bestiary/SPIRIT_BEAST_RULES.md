@@ -1,4 +1,4 @@
-# Xuanling Realm — Spirit Beast Rules
+# Merzkava Universe — Spirit Beast Rules
 
 Status: Modul mekanik resmi.
 Cakupan: kategori Beast, Spirit Beast, Demonic Beast, Heavenly Beast, perilaku, persyaratan penyerapan Spirit Ring, dan item khusus.

@@ -3,33 +3,35 @@
 **Eastern Fantasy roleplay world and game mechanics.**
 
 ## Mulai di sini
+- **[INDEX.md](INDEX.md)** — entry point resmi, alur bootstrap, dan peta modul.
+- **[templates/PLAYER_CONVERSATION_TEMPLATE.md](templates/PLAYER_CONVERSATION_TEMPLATE.md)** — prompt pemanggilan roleplay.
+- **[world/WORLD.md](world/WORLD.md)** — fondasi lore dunia dan tiga kekuasaan utama.
+- **[world/MAP_AND_REGIONS.md](world/MAP_AND_REGIONS.md)** — regional index dan batas pengetahuan geografis.
+- **[world/FACTIONS.md](world/FACTIONS.md)** — klan, dojo, sekte, dan organisasi yang tercatat.
+- **[world/HISTORY.md](world/HISTORY.md)** — kronologi dan pencatatan bukti sejarah.
+- **[world/ARTIFACTS_AND_RELICS.md](world/ARTIFACTS_AND_RELICS.md)** — kategori Relic/Ancient Artifact dan provenance.
+- **[world/ARTIFICIAL_ARTIFACTS.md](world/ARTIFICIAL_ARTIFACTS.md)** — katalog Artificial Artifact; aturan produksi tetap berada di core system.
+- **[players.md](players.md)** — indeks karakter terdaftar.
+- **[players/Yuha.md](players/Yuha.md)** — snapshot awal karakter Yuha.
+- **[templates/GM_PROMPT.md](templates/GM_PROMPT.md)** — perilaku operasional AI Game Master.
+- **[templates/GAMEPLAY_RESPONSE_TEMPLATE.md](templates/GAMEPLAY_RESPONSE_TEMPLATE.md)** — satu-satunya format visual lengkap untuk respons gameplay.
+- **[core/CULTIVATION_SYSTEM.md](core/CULTIVATION_SYSTEM.md)** — Realm, Stage, Sync, bottleneck, breakthrough.
+- **[core/MARTIAL_SOUL.md](core/MARTIAL_SOUL.md)** — awakening dan Martial Soul.
+- **[core/SPIRIT_RING_RULES.md](core/SPIRIT_RING_RULES.md)** — Spirit Ring, kompatibilitas, penyerapan, Qi, PowerScale.
+- **[core/THINKER_AND_FORMULATION.md](core/THINKER_AND_FORMULATION.md)** — Thinker Grade dan aturan produksi Artificial Artifact.
 
-- **[INDEX.md](INDEX.md)** — satu-satunya entry point navigasi resmi untuk AI Game Master. Berisi bootstrap, direktori modul, pemicu pemuatan file, dan aturan anti-cheat.
-- **[templates/PLAYER_CONVERSATION_TEMPLATE.md](templates/PLAYER_CONVERSATION_TEMPLATE.md)** — prompt siap pakai yang digunakan player untuk memulai percakapan dan memanggil alur bootstrap resmi.
-- **[world/WORLD.md](world/WORLD.md)** — sumber utama lore dunia, wilayah, faksi, dan fakta yang sudah ditetapkan. Detail yang ditandai sebagai usulan/rancangan awal masih provisional.
-- **[templates/GM_PROMPT.md](templates/GM_PROMPT.md)** — instruksi operasional untuk AI Game Master.
-- **[core/CULTIVATION_SYSTEM.md](core/CULTIVATION_SYSTEM.md)** — Realm, Stage, progres, bottleneck, breakthrough, dan slot Spirit Ring.
-- **[core/MARTIAL_SOUL.md](core/MARTIAL_SOUL.md)** — aturan dasar Martial Soul dan awakening.
-- **[core/SPIRIT_RING_RULES.md](core/SPIRIT_RING_RULES.md)** — usia dan warna ring, penyerapan, sinkronisasi, serta hubungan dengan breakthrough.
+## Alur memulai roleplay
+1. Gunakan `templates/PLAYER_CONVERSATION_TEMPLATE.md` dan trigger `CONVO — [Nama Karakter]`.
+2. Untuk karakter terdaftar dalam sesi baru, baca `players.md`, lalu file individual karakter yang tertaut.
+3. Untuk sesi berlanjut, gunakan profil terakhir dan kejadian setelahnya; jangan menimpa state dengan snapshot awal.
+4. Pada setiap giliran, periksa INDEX dan muat modul relevan. Jika sumber gagal diakses, jangan mengaku telah membacanya.
+5. Respons gameplay langsung menggunakan timestamp, narasi, profil, catatan konsistensi, dan `Aksiku : --` sesuai template. MODE: NO STEP berarti tanpa menu pilihan.
 
-## Alur Memulai Roleplay
-
-1. Gunakan [`templates/PLAYER_CONVERSATION_TEMPLATE.md`](templates/PLAYER_CONVERSATION_TEMPLATE.md) sebagai prompt player, lalu jalankan trigger `CONVO` bersama nama karakter. `INDEX.md` tetap menjadi entry point navigasi resmi.
-2. Untuk karakter terdaftar, GM membaca `players.md` sebagai **state awal**, lalu memuat template profil dan modul yang relevan.
-3. Untuk melanjutkan permainan di percakapan yang sama, GM memakai profil karakter terakhir dan kejadian sesudahnya. Data awal di `players.md` tidak boleh menimpa progres sesi berjalan.
-4. Untuk karakter baru yang belum terdaftar, GM memakai template profil dan informasi yang diberikan pemain; detail praktis yang masuk akal boleh ditandai sebagai estimasi GM.
-5. Field `Breakthrough` dan `Day left` mengikuti definisi di `templates/CHARACTER_PROFILE_TEMPLATE.md`; `Day left` menghitung sisa durasi jeda minimum penyerapan berikutnya, dibulatkan ke atas dalam satuan 24 jam. Nilai nol bukan jaminan breakthrough.
-6. Respons gameplay pertama langsung dimulai dengan timestamp lengkap, narasi pembuka, dan profil karakter lengkap. MODE: NO STEP berarti tidak ada menu pilihan.
-6. Pada setiap giliran gameplay, GM memeriksa ulang INDEX dan instruksi GM, lalu memuat modul yang relevan. Jika file gagal diakses, GM harus menyatakannya dan tidak boleh berpura-pura telah membaca isinya.
-
-Untuk transaksi, kurs, penilaian harga, atau perubahan saldo, GM wajib menggunakan `core/10_ECONOMY_SYSTEM.md` dan mencatat transaksi di narasi/riwayat. Profil karakter mencerminkan saldo setelah transaksi; bootstrap tidak boleh mengubah saldo dengan sendirinya.
+Untuk transaksi, kurs, penilaian harga, atau perubahan saldo, gunakan `core/10_ECONOMY_SYSTEM.md` dan catat perubahan yang sah.
 
 ## Prinsip proyek
-
 - Jangan mengarang aturan atau mengklaim membaca file yang tidak tersedia.
-- Pertahankan konsekuensi, keadaan karakter, dan riwayat permainan.
-- Tidak ada plot armor; kematian permanen kecuali pengecualian resmi ditetapkan.
 - Bedakan fakta canon, usulan provisional, rumor, dan informasi yang belum diketahui.
-- Gunakan modul khusus untuk aturan rinci setelah modul tersebut benar-benar tersedia.
-
-File yang belum ada tetapi disebut di INDEX adalah rencana pengembangan, bukan sumber aturan yang sudah aktif.
+- Tidak ada plot armor; kematian permanen kecuali mekanik resmi menyatakan sebaliknya.
+- Modul lore tidak menggantikan modul mekanik. Aturan produksi Artificial Artifact tetap berada di `core/THINKER_AND_FORMULATION.md`.
+- File karakter dan registry adalah snapshot awal, bukan sistem save berjalan.

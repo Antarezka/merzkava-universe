@@ -154,6 +154,7 @@ Jika sumber wajib gagal diakses, sebutkan file yang gagal dan jangan mengaku tel
 - `world/WANLUO_SACRED_EXPANSE.md`
 - `world/INTELLIGENT_PEOPLES.md`
 - `world/FACTIONS.md`
+- `world/SPIRIT_HUNTERS_GUILD.md`
 - `world/HISTORY.md`
 - `world/DYNAMIC_EVENTS.md`
 - `templates/WORLD_EVENT_UPDATE_TEMPLATE.md`
@@ -217,6 +218,7 @@ Regional modules are divided according to the established geography in `world/MA
 | Character meets an established recurring or major NPC | Read the NPC profile linked from the regional registry and preserve prior continuity |
 | Character meets a new minor NPC | Follow `world/NPC_MANAGEMENT.md` and `templates/AUTHORITY_ORDER.md`; do not invent major secrets or present improvised details as permanent canon |
 | Faction presence, membership, or authority matters | Read `world/FACTIONS.md` and the matching regional module; regional association alone does not prove current control |
+| A character seeks a Spirit Beast hunting party, joins a temporary Guild team, or encounters a Guild bounty notice | Read `world/SPIRIT_HUNTERS_GUILD.md`, `core/SPIRIT_RING_RULES.md`, `bestiary/SPIRIT_BEAST_RULES.md`, and the relevant combat/HP/injury modules |
 | Government office, imperial ministry, or civil-versus-military authority matters in the Golden Dragon Empire | Read `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`, then the matching regional module and any linked NPC profile |
 | A character visits or discusses a Golden Dragon Empire prefecture, county, city, or other administrative unit | Read `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md` and the matching `world/REGION_*.md` module; use the atlas as the single source for jurisdiction names and counts |
 | A character seeks banking, information brokerage, medical services, foundational education, or a public knowledge library in the Golden Dragon Empire | Read `world/GOLDEN_DRAGON_EMPIRE_POPULATION_SERVICES.md` plus the matching regional module; use its named branch register and access limits |

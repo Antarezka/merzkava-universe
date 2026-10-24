@@ -16,6 +16,28 @@
 - Confirmed routes / crossings: Belum ditetapkan
 - Travel distances and durations: Do not infer; follow `world/GEOGRAPHY_AND_TRAVEL.md` and `gameplay/TIME_AND_ACTION_RULES.md`
 
+## 2A. Administrative Register
+
+- **Regional administrative seat:** Honglu
+- **Population planning estimate:** 36 juta (part of the Empire-wide 320-million baseline; see the atlas for caveats)
+- **Prefectures:** 6
+- **Counties:** 36 (six per prefecture)
+- **Cities:** 40
+- **Towns:** 220
+- **Townships / districts:** 1,000
+- **Villages / neighborhoods:** 5,200
+- **Full official register:** `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
+
+Prefectures and seats:
+- Red Furnace Prefecture — Honglu
+- Ashen Peak Prefecture — Huifeng
+- Molten River Prefecture — Rongjiang
+- Black Anvil Prefecture — Heitie
+- Emberstone Prefecture — Huoshi
+- Flame Basin Prefecture — Yanpen
+
+The administrative atlas is authoritative for names and totals. This regional file is the place to expand individual settlement descriptions, local institutions, officeholders, NPCs, and confirmed local events. Do not infer exact borders or travel times from the jurisdiction list alone.
+
 ## 3. Settlements and Points of Interest
 - Belum ditetapkan
 

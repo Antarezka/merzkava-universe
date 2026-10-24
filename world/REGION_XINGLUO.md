@@ -41,12 +41,20 @@ Prefectures and seats:
 The administrative atlas is authoritative for names and totals. This regional file is the place to expand individual settlement descriptions, local institutions, officeholders, NPCs, and confirmed local events. Do not infer exact borders or travel times from the jurisdiction list alone.
 
 ## 3. Settlements and Points of Interest
-- Belum ditetapkan
 
-For each settlement or site, fill in details only when confirmed:
-| Name | Type | Description | Authority / control | Source / status |
-|---|---|---|---|---|
-| Belum ditetapkan | — | — | — | — |
+The prefecture seats listed below are established by `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. Detailed districts, neighborhoods, roads, markets, and individual buildings remain to be developed.
+
+| Settlement | Type | Established role | Authority / status |
+|---|---|---|---|
+| Dongxing | City / prefecture seat | Seat of Eastern Star Prefecture | Imperial civil administration; local detail pending |
+| Mingzhu | City / prefecture seat | Seat of Pearl Harbor Prefecture | Imperial civil administration; local detail pending |
+| Lanfan | City / prefecture seat | Seat of Blue Sail Prefecture | Imperial civil administration; local detail pending |
+| Chaoguan | City / prefecture seat | Seat of Tidegate Prefecture | Imperial civil administration; local detail pending |
+| Yanfeng | City / prefecture seat | Seat of Saltwind Prefecture | Imperial civil administration; local detail pending |
+| Yuhai | City / prefecture seat | Seat of Jade Coast Prefecture | Imperial civil administration; local detail pending |
+| Yuandeng | City / prefecture seat | Seat of Far Lantern Prefecture | Imperial civil administration; local detail pending |
+| Longchao | City / prefecture seat | Seat of Dragonwake Prefecture | Imperial civil administration; local detail pending |
+
 
 ## 4. Local Society and Daily Life
 - Peoples and population: Belum ditetapkan

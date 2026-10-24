@@ -84,7 +84,7 @@ Round final damage up to a whole HP; a successful damaging hit deals at least 1 
 
 ## 6. Spirit Realm Difference and Injury
 
-A lower Spirit Realm fighter can defeat a higher Spirit Realm opponent when the recorded situation and relevant advantages support it; Spirit Realm alone is not an automatic result.
+A fighter at a lower Spirit Realm can defeat an opponent at a higher Spirit Realm when the recorded situation and relevant advantages support it; Spirit Realm level alone does not determine the outcome.
 
 When the combatants differ by **one Spirit Realm level**, a damaging hit from the higher Spirit Realm combatant is expected to cause at least a light injury to the lower Spirit Realm combatant. Record the injury supported by the event and classify it using `core/INJURY_SYSTEM.md`. This is an injury expectation, not a rule that every hit causes a severe or different injury. Injury severity depends on the attack mechanism, hit location, defense, actual circumstances, and documented effects—not HP loss alone. Avoiding injury requires clear evidence of an overall advantage that addresses all three:
 1. Better equipment readiness.

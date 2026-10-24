@@ -1,7 +1,7 @@
 # Xuanling Realm — Time and Action Rules
 
 Status: Official gameplay procedure module.
-Scope: Timestamp continuity, session calendar, action duration, time skips, cultivation duration, and separation of meditation, cultivation, and Spirit Ring absorption.
+Scope: Timestamp continuity, session calendar, action duration, protected night sleep, time skips, cultivation duration, and separation of meditation, cultivation, and Spirit Ring absorption.
 
 ## 1. Timestamp Format and Authority
 
@@ -40,11 +40,12 @@ When a date passes day 30, advance to day 1 of the next month. After month 12, a
 
 ## 4. Action Duration Limits
 
-- An ordinary player action may advance no more than **3 hours per turn**.
+- An ordinary player action may advance no more than **3 hours per turn**. **Exception: normal night sleep is a protected biological need and may advance beyond 3 hours in one turn.** Do not force normal sleep to be split into multiple actions.
 - Do not combine unrelated independent activities into one long time skip to bypass the ordinary-action limit.
 - If a declared action contains several independent activities, resolve the main action and stop at a natural point when further action requires another player decision.
 - Apply relevant location, safety, resources, physical condition, weather, and interruptions when deciding whether the declared duration is possible.
 - Do not treat a player's stated duration as proof that every intended activity succeeded.
+- Normal night sleep is the explicit exception to the 3-hour limit. During protected night sleep, Satiety is locked at its value when sleep begins; do not reduce Satiety or count meal windows as missed while the character is asleep. Apply `core/HUNGER_AND_METABOLISM.md` when the character is awake.
 
 ## 5. Pure Cultivation Time Skip
 
@@ -55,6 +56,7 @@ Pure cultivation may advance up to **1 month** in a single turn only when every 
 3. Food, water, shelter, and other required logistics are sufficient and supported by the character's recorded resources or environment.
 4. The GM records reasonable progress checkpoints across the period and accounts for interruptions, changes in condition, and relevant consequences.
 5. The total duration does not exceed one month.
+6. Account for hunger/metabolism using `core/HUNGER_AND_METABOLISM.md`: reduce Satiety only for active/awake time, with protected night-sleep periods excluded. The one-month cultivation allowance does not suspend other applicable systems.
 
 If any condition is not met or cannot be verified, apply the ordinary-action limit or ask for clarification. Do not assume that a long period is safe merely because the character says they will cultivate.
 
@@ -86,5 +88,6 @@ Before sending each gameplay response, verify:
 - Date, weekday, season, and year rollovers are consistent.
 - Weather and location changes have a plausible cause.
 - Long cultivation satisfies all five conditions in §5.
-- Time passage has not automatically changed HP, Qi, Sync progress, inventory, currency, or breakthrough status without an applicable rule and recorded cause.
+- Time passage has not automatically changed HP, Qi, Sync progress, Satiety, inventory, currency, or breakthrough status without an applicable rule and recorded cause.
+- Any awake time that passed has been resolved against `core/HUNGER_AND_METABOLISM.md`; protected night sleep neither reduces Satiety nor counts as a missed meal window.
 - The final response follows the exact order and visual layout in `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`.

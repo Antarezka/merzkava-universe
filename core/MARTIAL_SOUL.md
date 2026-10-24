@@ -11,7 +11,7 @@ Modul ini hanya mengunci hal yang sudah ditetapkan dalam canon proyek. Rincian y
 
 Martial Soul adalah sistem kekuatan utama seorang kultivator di Xuanling Realm. Martial Soul harus menjadi dasar utama ketika GM menjelaskan identitas kekuatan karakter dan menilai apakah suatu kemampuan masuk akal.
 
-Spirit Ring yang diperoleh secara sah dapat memberikan kemampuan khusus sesuai aturan Spirit Ring dan sumber Beast terkait. Spirit Ring tidak boleh digunakan sebagai alasan untuk mengabaikan karakteristik Martial Soul atau menciptakan kemampuan tanpa dasar.
+Spirit Ring yang diperoleh secara sah dapat memperluas dan mengombinasikan apa yang dapat dilakukan Martial Soul melalui interaksi antara Martial Soul, karakteristik Spirit Beast/ring, rumusan kemampuan, dan hasil sinkronisasi. Hasilnya dapat berupa teknik serangan, fungsi utilitas, atau bentuk kemampuan lain; jenis dan bentuknya tidak dibatasi pada daftar tertutup. Kemampuan harus memiliki dasar yang dapat ditelusuri ke unsur-unsur tersebut, bukan dibuat secara sewenang-wenang.
 
 ## 2. Awakening
 
@@ -39,10 +39,12 @@ Penduduk juga dapat mendatangi pusat kota di wilayah masing-masing untuk menggun
 - Biaya tepat, jenis pajak, persyaratan administrasi, dan ketersediaan layanan belum ditetapkan secara universal; jangan mengarang angka atau aturan rinci.
 - Pilihan menggunakan pusat kota tidak mengubah prinsip dasar awakening dan tidak menjamin hasil Martial Soul yang lebih baik daripada layanan publik di desa.
 
-### 2.3 Martial Soul and Practical Aptitude
+### 2.3 Bentuk, Kecenderungan Genetik, dan Aptitude Praktis
 
-Martial Soul dapat berbentuk alat, benda, tumbuhan, hewan, dan bentuk lain; daftar kategori lengkap belum dibatasi secara final.
+**Bentuk Martial Soul tidak memiliki daftar kategori yang tertutup.** Martial Soul dapat berupa apa pun yang masuk akal dalam dunia Xuanling Realm: alat, benda, tumbuhan, hewan, unsur, fenomena alam, kabut, asap, dan bentuk abstrak atau tidak lazim lainnya. Contoh-contoh ini hanya ilustrasi, bukan daftar lengkap. GM tidak boleh menolak bentuk Martial Soul semata-mata karena bentuk itu tidak tercantum dalam contoh atau kategori yang sudah dikenal.
 
+- **Kecenderungan genetik:** bentuk atau karakteristik Martial Soul dapat mengikuti akar keluarga, garis keturunan, atau leluhur dari generasi lampau. Riwayat keluarga dapat menjadi petunjuk yang relevan saat GM menentukan bentuk yang masuk akal, tetapi bukan kepastian mutlak. Martial Soul dapat menyerupai, mewarisi sebagian ciri, berubah bentuk, atau berbeda dari milik kerabat dan leluhur.
+- Kecenderungan genetik tidak memberi izin untuk mengarang leluhur, garis keturunan rahasia, atau hubungan darah yang belum ditetapkan. Jika riwayat keluarga tidak diketahui, jangan mengada-adakannya; bentuk Martial Soul tetap dapat muncul tanpa silsilah yang diketahui.
 - Contoh Martial Soul berbentuk alat meliputi cangkul, kuas, pedang, dan peralatan lain.
 - Martial Soul berbentuk cangkul dapat cocok dengan pekerjaan pertanian; kuas dapat relevan dengan pekerjaan menulis, mengajar, atau profesi lain yang menggunakannya. Ini merupakan kecenderungan praktis, bukan takdir mutlak atau pembatas profesi.
 - **Martial Soul berbentuk alat memiliki tingkat penguasaan awal yang luar biasa terhadap alat yang diwujudkannya dibandingkan orang biasa yang menggunakan alat serupa.** Seseorang yang tidak memiliki Martial Soul terkait biasanya perlu belajar dan berlatih untuk mencapai tingkat penggunaan yang sebanding.

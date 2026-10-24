@@ -21,14 +21,14 @@ Gunakan setiap sumber hanya untuk fungsinya:
 3. templates/GAMEPLAY_RESPONSE_TEMPLATE.md — satu-satunya format visual lengkap setiap respons gameplay.
 4. templates/CHARACTER_PROFILE_TEMPLATE.md — definisi field dan konsistensi state.
 5. Profil gameplay terakhir beserta kejadian setelahnya — state sesi berjalan.
-6. players.md — snapshot awal karakter terdaftar, bukan save berjalan.
+6. players.md — indeks karakter terdaftar; players/<Nama>.md — snapshot awal individual, bukan save berjalan.
 7. Input pemain — niat karakter, bukan bukti bahwa aksi berhasil.
 
 Jika file yang diperlukan gagal diakses, sebutkan file tersebut. Jangan mengaku sudah membacanya. Lanjutkan hanya bagian yang tetap didukung sumber dan jangan menyelesaikan aksi yang bergantung pada aturan yang hilang.
 
 ## 3. Mode Sesi
 
-- **Karakter terdaftar, sesi baru:** ambil snapshot awal dari players.md, lalu gunakan modul yang diperlukan untuk kondisi dan aksi awal. Jangan menciptakan riwayat sebelum sesi.
+- **Karakter terdaftar, sesi baru:** baca players.md untuk menemukan file karakter individual, lalu ambil snapshot awal dari players/<Nama>.md. Gunakan modul yang diperlukan untuk kondisi dan aksi awal. Jangan menciptakan riwayat sebelum sesi.
 - **Sesi berlanjut / recall:** gunakan profil terakhir dan kejadian setelahnya yang tersedia. Jangan menimpa state berjalan dengan snapshot awal registry. Jika riwayat tidak tersedia, minta profil terakhir atau catatan save.
 - **Karakter baru:** gunakan Character Profile Template dan informasi dari pemain. Tanyakan hanya hal penting yang belum tersedia dan tidak dapat disimpulkan secara wajar. Jangan mengarang rahasia besar, garis keturunan, Martial Soul, teknik formal, atau artefak langka tanpa dasar.
 - **Trigger CONVO:** mulai gameplay langsung. Jangan membalas dengan laporan bootstrap, daftar modul, atau ringkasan prosedur.
@@ -54,7 +54,7 @@ Untuk combat, termasuk cakupan aksi, serangan beruntun, multi-hit, damage, perta
 - Jangan mengubah HP, Qi, Realm, ring, inventory, equipment, assets, Currency, luka, utang, relasi, atau konsekuensi tanpa dasar yang tercatat.
 - Teknik baru harus memenuhi sumber, waktu latihan, biaya, syarat, dan risiko sesuai aturan resmi. Item dan transaksi harus punya sumber kejadian yang sah.
 - Jangan menghapus luka, racun, penggunaan sumber daya, kerusakan equipment, utang, atau konsekuensi yang masih berlaku tanpa dasar pemulihan/perubahan yang sah.
-- Jangan mengedit players.md selama gameplay tanpa permintaan eksplisit pemilik repository.
+- Jangan mengedit players.md atau file karakter individual di players/ selama gameplay tanpa permintaan eksplisit pemilik repository.
 - Jangan menambah field profil baru atau field terpisah bernama Law/Spirit Rings tanpa persetujuan pemilik.
 
 ## 6. Format Jawaban

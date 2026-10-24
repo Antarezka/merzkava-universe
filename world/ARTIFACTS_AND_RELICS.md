@@ -1,11 +1,11 @@
-# Xuanling Realm — Ancient Artifacts and Relics
+# Merzkava Universe — Ancient Artifacts and Relics
 
 **Status:** Lore catalog and provenance rules.  
 **Mechanics authority:** Artifact creation and Thinker checks are defined in `core/THINKER_AND_FORMULATION.md`; economic currency restrictions are defined in `core/10_ECONOMY_SYSTEM.md`. This file records origins, known examples, and discoveries. It does not replace those mechanics.
 
 ## 1. Artifact Origin Categories
 
-Xuanling Realm distinguishes three categories:
+Merzkava Universe distinguishes three categories:
 
 ### 1.1 Relic
 A Relic is an inheritance or object left by a deity. The definition establishes origin category only; a Relic does not automatically grant a known ability, divine authority, immortality, or a specific power tier.

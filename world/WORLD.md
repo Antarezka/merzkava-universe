@@ -3,7 +3,7 @@ XUANLING REALM — WORLD LORE & POLITICAL ATLAS
 «Document Type: Core Worldbuilding
 Status: Canon Foundation
 Scope: World Powers, Territories, Factions, Political Relations, Medicine Hall Society, Population, and Ruling Powers
-Related Modules: "world/MAP_AND_REGIONS.md", "world/FACTIONS.md", "world/HISTORY.md", "world/ARTIFACTS_AND_RELICS.md", "world/ARTIFICIAL_ARTIFACTS.md", "core/CULTIVATION_SYSTEM.md", "core/MARTIAL_SOUL.md", "core/SPIRIT_RING_RULES.md", "bestiary/SPIRIT_BEAST_RULES.md". WORLD.md remains the primary source for established world lore; each related module handles its stated scope. A listed path does not override the module itself or turn provisional details into confirmed canon.»
+Related Modules: "world/MAP_AND_REGIONS.md", "world/FACTIONS.md", "world/HISTORY.md", "world/ARTIFACTS_AND_RELICS.md", "world/ARTIFICIAL_ARTIFACTS.md", "world/SOCIAL_STRATIFICATION.md", "world/WEALTH_DISTRIBUTION.md", "core/CULTIVATION_SYSTEM.md", "core/MARTIAL_SOUL.md", "core/SPIRIT_RING_RULES.md", "bestiary/SPIRIT_BEAST_RULES.md". WORLD.md remains the primary source for established world lore; each related module handles its stated scope. A listed path does not override the module itself or turn provisional details into confirmed canon.»
 
 ---
 
@@ -42,6 +42,8 @@ Total tiga kekuasaan utama| 433 juta
 Angka tersebut tidak mencakup seluruh populasi Lawless Territories, wilayah independen, atau daerah terpencil yang belum dipetakan.
 
 Populasi bukan ukuran langsung kekuatan militer. Jumlah penduduk, distribusi kultivator, kualitas sumber daya, organisasi, logistik, dan kemampuan mobilisasi harus diperhitungkan secara terpisah.
+
+Kemakmuran wilayah tidak berarti semua penduduk hidup sejahtera. Elite, kelas menengah, rakyat miskin, penghuni kawasan kumuh, dan tunawisma dapat hidup berdampingan di kota yang sama. Lapisan sosial, kondisi tempat tinggal, kemiskinan, serta mobilitas sosial mengikuti `world/SOCIAL_STRATIFICATION.md`; distribusi kekayaan global mengikuti `world/WEALTH_DISTRIBUTION.md`.
 
 ---
 

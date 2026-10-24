@@ -55,7 +55,7 @@
 | [Cultivation System](core/CULTIVATION_SYSTEM.md) | Canonical Spirit Realm names, stages, Sync, bottlenecks, and breakthroughs |
 | [Martial Soul Awakening](core/MARTIAL_SOUL_AWAKENING.md) | Awakening procedure, rarity, and mutations |
 | [Martial Soul](core/MARTIAL_SOUL.md) | Martial Soul forms, traits, and interpretation |
-| [Spirit Ring Rules](core/SPIRIT_RING_RULES.md) | Compatibility, absorption, Qi, PowerScale, and normal ring-acquisition routes |
+| [Spirit Ring Rules](core/SPIRIT_RING_RULES.md) | Compatibility, absorption, Qi, PowerScale, and the three normal ring-acquisition routes: academy Safe Route, temporary Guild party, and solo hunt |
 | [Thinker & Formulation](core/THINKER_AND_FORMULATION.md) | Thinker Grades and Artificial Artifact production |
 | [Economy System](core/10_ECONOMY_SYSTEM.md) | Prices, transactions, exchange rates, assets, and currency |
 

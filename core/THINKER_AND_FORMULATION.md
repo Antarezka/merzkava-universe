@@ -1,4 +1,4 @@
-# XUANLING REALM — THINKER & FORMULATION SYSTEM
+# MERZKAVA UNIVERSE — THINKER & FORMULATION SYSTEM
 
 **Status:** Draft mechanics integrated into the repository; baseline chance matrix is specified by the owner-provided design. Situational modifiers and resolution method remain undefined until formally approved.
 

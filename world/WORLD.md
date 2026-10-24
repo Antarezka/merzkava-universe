@@ -643,7 +643,6 @@ Barang langka tidak otomatis tersedia hanya karena seorang karakter memiliki uan
 
 Aturan resmi mata uang, kurs, harga, kualitas barang, kelangkaan musiman, distribusi, penyesuaian pasar, dan transaksi ditetapkan di `core/10_ECONOMY_SYSTEM.md`. Gunakan modul itu sebagai satu-satunya acuan mekanik ekonomi. `world/WEALTH_DISTRIBUTION.md` hanya menetapkan baseline persebaran total kekayaan global, sedangkan `world/SOCIAL_STRATIFICATION.md` menjelaskan kelas sosial dan kondisi hidup; keduanya tidak menggantikan aturan kurs atau transaksi.
 
-Sebelum rincian tersebut ditetapkan, GM tidak boleh memperlakukan angka harga yang belum disepakati sebagai fakta kanon permanen.
 
 ---
 

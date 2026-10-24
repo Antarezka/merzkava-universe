@@ -57,8 +57,8 @@ Untuk seluruh resolusi pertarungan—termasuk cakupan aksi, serangan beruntun, d
 Gunakan `templates/CHARACTER_PROFILE_TEMPLATE.md` sebagai sumber definisi field profil.
 
 - `Breakthrough` menyatakan status persyaratan bottleneck/proses menerobos berdasarkan modul resmi; jangan menandainya siap hanya karena jeda waktu selesai.
-- `Day left` adalah sisa hari kalender dunia sampai jeda minimum antarpenyerapan Spirit Ring berikutnya terpenuhi. Hitung dari waktu penyerapan ring terakhir yang berhasil dan tabel di `bestiary/SPIRIT_BEAST_RULES.md`.
-- Hitung berdasarkan selisih timestamp dunia yang tercatat, bukan jumlah giliran atau waktu nyata. Bulatkan sisa durasi positif ke atas ke hari penuh agar `0 Day left` hanya berarti jeda minimum benar-benar telah terpenuhi.
+- `Day left` adalah sisa hari hitung sampai jeda minimum antarpenyerapan Spirit Ring berikutnya terpenuhi. Gunakan jumlah ring yang sudah berhasil diserap untuk memilih interval transisi berikutnya (misalnya Ring 1 → Ring 2), lalu hitung dari timestamp dunia penyerapan terakhir yang berhasil sesuai `bestiary/SPIRIT_BEAST_RULES.md`.
+- Hitung berdasarkan selisih waktu dunia yang tercatat, bukan jumlah giliran atau waktu nyata. Bulatkan sisa durasi positif ke atas dalam satuan 24 jam: 1 jam = 1 Day left, 24 jam = 1 Day left, 25 jam = 2 Day left. Ini hitung mundur durasi, bukan hitungan pergantian tanggal kalender.
 - Jika tidak ada penyerapan sebelumnya yang relevan atau data waktu/nomor ring tidak diketahui, tampilkan `??? Day left`; jangan menebak.
 - `0 Day left` hanya menandakan syarat jeda waktu terpenuhi. Bottleneck, ring berikutnya, item wajib, dan syarat resmi lainnya tetap harus diperiksa.
 - Jangan mengurangi nilai hanya karena giliran berganti. Perbarui berdasarkan waktu dunia yang benar-benar berlalu.

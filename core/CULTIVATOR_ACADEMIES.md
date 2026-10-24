@@ -17,7 +17,7 @@ The following are recognized areas of foundational instruction. This list establ
 - Introductory knowledge of Martial Souls and their relevance to a cultivator.
 - Other foundational concepts required to understand a cultivator's development.
 
-Advanced methods, breakthrough guarantees, or Spirit-Realm-specific techniques are not implied by basic instruction.
+Advanced methods, breakthrough guarantees, or techniques restricted to a particular Spirit Realm are not implied by basic instruction.
 
 ### 2.2 Physical Training
 - General physical conditioning, stamina, coordination, and bodily readiness.

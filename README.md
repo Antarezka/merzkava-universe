@@ -11,6 +11,8 @@
 - **[world/HISTORY.md](world/HISTORY.md)** — kronologi dan pencatatan bukti sejarah.
 - **[world/ARTIFACTS_AND_RELICS.md](world/ARTIFACTS_AND_RELICS.md)** — kategori Relic/Ancient Artifact dan provenance.
 - **[world/ARTIFICIAL_ARTIFACTS.md](world/ARTIFICIAL_ARTIFACTS.md)** — katalog Artificial Artifact; aturan produksi tetap berada di core system.
+- **[world/WEALTH_DISTRIBUTION.md](world/WEALTH_DISTRIBUTION.md)** — total kekayaan global dan konsentrasi kepemilikan.
+- **[world/SOCIAL_STRATIFICATION.md](world/SOCIAL_STRATIFICATION.md)** — elite, kelas menengah, rakyat miskin, slum, tunawisma, dan mobilitas sosial.
 - **[players.md](players.md)** — indeks karakter terdaftar.
 - **[players/Yuha.md](players/Yuha.md)** — snapshot awal karakter Yuha.
 - **[templates/GM_PROMPT.md](templates/GM_PROMPT.md)** — perilaku operasional AI Game Master.

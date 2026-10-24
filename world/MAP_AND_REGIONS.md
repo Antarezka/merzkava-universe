@@ -19,15 +19,15 @@ Golden Dragon Empire lies in the east, Tianhai Yunzhou floats above the southwes
 
 The Empire's seven major regions are established in `world/WORLD.md`:
 
-| Region | Established identity | Use in play |
-|---|---|---|
-| Longyuan | Imperial Heartland | Central administration, imperial court, nobles, political institutions |
-| Canglan | Riverlands | Agriculture, irrigation, river transport, inland trade |
-| Jinyue | Mineral Lands | Mining, spiritual metals, artifact and equipment materials |
-| Tianfeng | Scholarly Heights | Academies, cultivation education, knowledge exchange |
-| Yanling | Volcanic Mountains | Smithing, furnaces, metalworking, spiritual forging |
-| Baiyue | Frontier Marches | Fortifications, military routes, border defense |
-| Xingluo | Eastern Ports | Maritime trade, diplomacy, sea routes |
+| Region | Established identity | Administrative seat | Prefectures | Counties | Use in play |
+|---|---|---|---:|---:|---|
+| Longyuan | Imperial Heartland | Huanglongcheng (imperial capital) | 6 | 36 | Central administration, imperial court, nobles, political institutions |
+| Canglan | Riverlands | Qinghe | 8 | 48 | Agriculture, irrigation, river transport, inland trade |
+| Jinyue | Mineral Lands | Yumai | 5 | 30 | Mining, spiritual metals, artifact and equipment materials |
+| Tianfeng | Scholarly Heights | Tianshu | 6 | 36 | Academies, cultivation education, knowledge exchange |
+| Yanling | Volcanic Mountains | Honglu | 6 | 36 | Smithing, furnaces, metalworking, spiritual forging |
+| Baiyue | Frontier Marches | Beiguan | 7 | 42 | Fortifications, military routes, border defense |
+| Xingluo | Eastern Ports | Dongxing | 8 | 48 | Maritime trade, diplomacy, sea routes |
 
 These are regional identities, not a complete list of cities or settlements. The named prefectures, county jurisdictions, regional seats, and planning counts are now listed in `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`; each region's module contains its own prefecture summary. Exact surveyed boundaries, distances, local rulers, routes, and travel durations remain unspecified unless a later official source establishes them. The Empire-wide civil and military hierarchy is defined in `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`.
 

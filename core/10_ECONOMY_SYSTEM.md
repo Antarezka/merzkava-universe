@@ -34,26 +34,44 @@ The original material cannot be reproduced from a known later source, and people
 
 Do not invent additional abilities, cultivation effects, crafting uses, or ways to manufacture either currency.
 
-## 1.1 Martial Soul Awakening Service Fees (Golden Dragon Empire)
+## 1.1 Martial Soul Awakening Routes, Charges, Subsidy, and Debt — Golden Dragon Empire
 
-The following standard charges apply per individual receiving an awakening service through the Golden Dragon Empire's **Grand Martial Soul Awakening Hall**. They are separate from ordinary market prices and use the official currency rates in §1.
+The Golden Dragon Empire recognizes two distinct routes. **Do not mix their charges.** The every-two-year public outreach route is an Imperial-subsidized service; the independent route is paid by the individual. These rules apply only to the Golden Dragon Empire unless another territory adopts its own rules.
+
+### Route A — Independent Paid Awakening
+
+An individual may seek an available awakening facility independently rather than wait for the next public village visit. The individual pays the full standard amount:
 
 | Charge | Standard amount | Rule |
 |---|---:|---|
 | Awakening service fee | **3 xg, 25 xs** | Charged once per individual |
-| Imperial service tax | **8% of the awakening service fee** | Calculated on the service fee only; documentation and token charges are not included in the taxable base |
+| Service tax | **8% of the service fee** | Applied only to the service fee; equals 26 xs |
 | Documentation and official record | **15 xs** | One set per individual awakening |
-| Awakening proof token | **10 xs** | One official token issued after the awakening is recorded |
+| Official awakening proof token | **10 xs** | Issued after the result is recorded |
 
-At the official rate of 100 xs = 1 xg, the service fee is 325 xs and its 8% tax is 26 xs. The standard total is therefore **3 xg, 76 xs per individual**, including the 15 xs documentation charge and 10 xs token charge.
+At 100 xs = 1 xg, the independent route costs **3 xg, 76 xs total** (376 xs). No additional charge may be invented without an established rule.
 
-- The proof token is an official, durable physical token issued against the individual's awakening record. It serves as practical evidence that the person has completed awakening and helps streamline applications for basic employment and education. Employers and educational institutions may verify the token and its supporting record.
-- The token proves completion and identity linkage only; it does not guarantee a job, admission, a scholarship, a particular salary, or any special treatment based on rarity. It does not itself prove combat strength, cultivation talent, or a right to a government post.
-- The documentation records the individual's identity as provided/verified, awakening date and place, issuing authority, and a unique token/record identifier, plus the confirmed awakening result needed for official verification. Do not invent additional mandatory identity documents or a universal public database beyond this service record.
-- The standard fee applies to each individual. Any exemption, hardship waiver, or government-funded subsidy must be explicitly authorized under a program or local rule; do not assume it is automatic. A village outreach visit can reduce travel burden but does not by itself waive the service fee.
-- Do not charge the same individual the initial documentation or token fee twice for the same awakening. Replacement-token charges, correction fees, late penalties, and fees in other territories are not established by this rule.
-- These charges do not change rarity odds, mutation odds, or the outcome of awakening. Paying more, using a city facility, or obtaining a token does not improve the result.
-- For gameplay transactions, record the service fee, tax, documentation, and token as distinct ledger entries or clearly itemized components of one fully itemized transaction. Record the actual payer and recipient where known; do not deduct the charge from a character's Wallet unless the payment occurred and was recorded.
+### Route B — Biennial Imperial Public Awakening
+
+The Empire's public awakening visit generally occurs once every two years after New Year, with assigned officials or cultivators visiting villages according to local quotas and schedules.
+
+- The Imperial subsidy covers the **awakening service fee, the 8% service tax, and documentation/official record**. The recipient pays **only the 10 xs proof-token fee**.
+- This is the defined subsidy for the biennial public route; it is not a discretionary waiver that must be separately approved by each village. The public program must account for the subsidized service and documentation costs against its authorized Imperial budget.
+- If a person cannot afford the 10 xs token fee, the token may still be issued through an **external lender's advance**. The lender pays or advances the token charge to the issuing service, and the person receives a written debt note for the exact amount advanced. The lender is **not the Empire, the Hall, or an Imperial ministry**.
+- The Empire does not own, guarantee, set, or collect the private loan, and the subsidy does not cover private-loan interest. The debt note must identify the actual external lender, principal, rate, repayment schedule, due dates, and consequences disclosed by that lender. Never invent a loan or debt unless the character actually accepts/enters it in play.
+- Choose from external financial organizations that plausibly operate in the local area. The available lender and its terms are randomized from the locally available organizations; do not always choose the cheapest lender. Ordinary reputable lenders commonly charge **3%–8% simple annual interest**; an unlucky draw may result in a high-cost lender charging **12%–24% simple annual interest**. These are canon gameplay bands for this token-fee debt, not a claim that every lender in the world uses them. The selected organization's stated rate applies to that loan; do not reroll after seeing the rate.
+- Interest is simple annual interest on the outstanding principal, unless the signed debt note explicitly establishes a different lawful calculation. Do not compound interest or add fees, collateral, penalties, or collection powers that are not specified in the actual debt note. For a note lasting less than a year, calculate proportionally by elapsed time.
+- The loan principal is limited to the unpaid portion of the **10 xs token fee**. Do not turn a small token advance into an invented large loan, or include the subsidized service fee, tax, or documentation in the debt.
+
+### Token, Records, and Employment Consequences
+
+- The official proof token is a durable physical token linked to the individual's awakening record. It helps verify completion when applying for basic employment and education. It does not guarantee a job, admission, scholarship, income, or preferential treatment based on rarity.
+- Documentation records the identity as provided/verified, awakening date and place, issuing authority, unique token/record identifier, and confirmed awakening result. Do not invent extra mandatory identity documents or a universal public database.
+- Defaulting on the external loan can damage the person's credit reputation with that lender and, where lenders or employers lawfully share or check such records, make it much harder to obtain decent-paying work, secure future credit, and maintain an adequate standard of living. This is a serious socioeconomic consequence, **not** an automatic Empire-wide legal ban on employment or proof that every employer rejects the person.
+- Exact default procedures, lawful collection methods, credit-sharing practices, and any additional fees depend on the actual external lender and applicable local rules. Do not invent imprisonment, confiscation, universal blacklisting, or automatic wage seizure.
+- Do not charge the initial documentation or token fee twice for the same awakening. Replacement-token charges and correction fees are not established here.
+- These costs, subsidies, and debts do not change rarity odds, mutation odds, or awakening outcomes. Paying more or using a city facility does not improve the result.
+- Record each actual service charge, subsidy expenditure, token payment, loan advance, debt-note agreement, interest accrual, and repayment in the relevant financial ledger. Do not deduct money from a character's Wallet unless a real transaction occurred and was recorded. A debt note is a liability, not cash income; show it separately from Wallet balance.
 
 ## 2. Nine Item-Quality Tiers
 

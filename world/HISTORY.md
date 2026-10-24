@@ -1,0 +1,84 @@
+# Xuanling Realm — World History
+
+**Status:** History framework with limited established chronology.  
+**Canon policy:** This file records known historical facts and distinguishes them from events whose dates or details remain unknown. It deliberately does not invent a complete ancient timeline.
+
+## 1. Historical Certainty
+
+Xuanling Realm's current world canon includes:
+- Three major powers: Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu.
+- A world with a vast continent, connected seas, isolated northern territories, and Lawless Territories outside the direct jurisdiction of the major powers.
+- A Thinker tradition that originated in Tianhai Yunzhou.
+- Ancient artifacts from a golden age of civilization.
+- Relics described as inheritances or objects left by deities.
+- Ancient Zun currency associated with a singular appearance of an ancient heavenly material when the Heaven Realm opened in the distant past.
+- A Medicine Hall Society with a neutral medical network across the world.
+
+The exact dates, order of most events, founders, wars, dynasties before the current powers, and identities of ancient civilizations are not yet established.
+
+## 2. Broad Historical Layers
+
+These layers are an organizing framework, not a complete official chronology. Their exact dates and boundaries are unknown.
+
+### 2.1 The Ancient Golden Age
+An ancient civilization existed and produced artifacts now classified as Ancient Artifacts. Its full identity, political structure, technology, decline, and relationship to the current powers remain unknown.
+
+Do not assume all ruins or unusual artifacts originate from this civilization. Provenance must be supported by evidence.
+
+### 2.2 The Opening of the Heaven Realm
+The economy system records that the unique material used for Ancient Zun appeared only once when the Heaven Realm opened in the distant past. The material cannot be reproduced from a known later source, and current-era people cannot process or engrave its surface.
+
+The date, participants, cause, duration, and wider consequences of the opening are unknown. Do not invent them as established history.
+
+### 2.3 The Rise of Thinker Knowledge
+The first Thinkers originated in Tianhai Yunzhou. Thinker knowledge became a major source of Tianhai's cultural and technological influence. Knowledge exchange with the Golden Dragon Empire is an established channel for the spread of ideas and technology.
+
+The names of the first Thinkers, the date of the first Artificial Artifact, and the exact stages of technological development have not been established.
+
+### 2.4 The Formation of the Three Major Powers
+The current world is organized around the Golden Dragon Empire in the east, Tianhai Yunzhou as a maritime power, and Beiming Gu in the north. Their governments, rulers, territories, and distinct strengths are described in `world/WORLD.md`.
+
+The founding dates, founders, original borders, treaties, wars, and sequence of their rise remain unknown. Do not assign invented dates or claim a specific unrecorded war created the current borders.
+
+### 2.5 The Current Political Balance
+The three powers coexist without any one of them controlling the entire world. Their strengths differ: the Empire has scale and mobilization; Tianhai has maritime reach and advanced Thinker knowledge; Beiming benefits from difficult terrain and defensive geography.
+
+This balance is not permanent or guaranteed. It can change through recorded events, leadership decisions, alliances, economic shifts, discoveries, and conflicts.
+
+## 3. Historical Evidence and Provenance
+
+When a character discovers a ruin, text, relic, artifact, inscription, or historical claim, distinguish:
+- **Verified fact:** supported by a reliable source or a directly established event.
+- **In-world claim:** what a person, faction, inscription, or tradition says; it may be incomplete or false.
+- **Hypothesis:** a plausible interpretation that has not been confirmed.
+- **Unknown:** no sufficient evidence is available.
+
+An inscription is evidence that someone recorded a statement; it does not automatically prove the statement is true. A faction's version of history may reflect its interests or incomplete knowledge.
+
+## 4. Historical Events Registry
+
+No dated world-changing event has yet been confirmed in this module. Add entries only when the owner establishes canon or gameplay records an event that has lasting world significance.
+
+Use this format:
+
+```markdown
+### HIST-XXX — [Event title]
+- **Date / period:** [Known date or ???]
+- **Location:** [Verified location or ???]
+- **Status:** [Confirmed / disputed account / hypothesis]
+- **Participants:** [Known parties or ???]
+- **What is established:** [Facts supported by evidence]
+- **Consequences:** [Only consequences that actually followed]
+- **Sources / evidence:** [Relevant official module, record, artifact, or event log]
+- **What remains unknown:** [Unresolved details]
+```
+
+## 5. Timeline Rules for the GM
+
+- Do not invent historical dates, founders, wars, treaties, rulers, collapses, or dynasties.
+- Do not convert a provisional worldbuilding idea into confirmed history without approval.
+- Do not treat a legend, rumor, artifact inscription, or NPC claim as omniscient truth.
+- Current characters know only what they plausibly learned. The GM may track hidden facts, but must not reveal them without a valid in-world discovery.
+- If a new event changes regional borders, faction status, leadership, or artifact ownership, record its consequences consistently.
+- Historical time and the current gameplay calendar are separate unless an official source links them.
+- Where the chronology is unknown, preserve `???` rather than filling gaps with invented dates.

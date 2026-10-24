@@ -65,9 +65,11 @@ Batas HP Peak per Realm:
 ## 4. Format dan Validasi Profil
 
 - Format wajib: `HP: saat_ini/maksimum`.
-- Jika Realm/Stage diketahui, isi HP maksimum dari tabel, walaupun HP saat ini belum diketahui. Contoh: `HP: ???/3.100`.
-- Jika Realm/Stage belum diketahui, gunakan `HP: ???/???`.
-- Jangan otomatis menganggap HP saat ini penuh. Gunakan nilai saat ini yang tercatat di profil atau riwayat gameplay; jika tidak diketahui, gunakan `???`.
+- Jika Realm/Stage diketahui, isi HP maksimum dari tabel.
+- **Inisialisasi sesi baru:** jika snapshot karakter tidak mencatat HP saat ini, tetapkan HP awal sama dengan maksimum yang berlaku pada Realm/Stage tersebut. Contoh: Mortal tanpa HP awal tercatat menjadi `HP: 100/100`, bukan `HP: ???/100`.
+- **Sesi berjalan:** pertahankan HP saat ini dari profil gameplay terakhir dan terapkan hanya perubahan yang sah. Jika profil sesi berjalan tidak memuat nilai HP saat ini dan tidak ada riwayat untuk memulihkannya, isi `0` sebagai nilai numerik yang belum tersedia; jangan gunakan `???`.
+- Jika Realm/Stage belum diketahui, gunakan `HP: 0/0` sampai Realm/Stage dapat ditetapkan. Jangan gunakan `???` untuk nilai HP.
+- Jangan memulihkan HP ke penuh pada sesi berjalan tanpa penyebab sah. Pengecualian hanya inisialisasi sesi baru ketika snapshot tidak mencatat HP saat ini: gunakan maksimum yang berlaku sebagai HP awal.
 - Nilai HP saat ini tidak boleh melebihi maksimum. Jika riwayat atau input bertentangan, tandai konflik dan jangan diam-diam mengubah HP.
 - Saat Realm/Stage berubah, perbarui angka maksimum sesuai tabel, tetapi pertahankan HP saat ini yang tercatat sampai ada perubahan yang sah.
 

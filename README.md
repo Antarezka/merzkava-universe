@@ -1,55 +1,99 @@
-# Xuanling Realm
+<!-- LIGHT ORANGE THEME: #FFB36B / #151515 / #FFFFFF -->
 
-**Eastern Fantasy roleplay world and game mechanics.**
+<div align="center">
 
-## Mulai di sini
-- **[INDEX.md](INDEX.md)** — entry point resmi, alur bootstrap, dan peta modul.
-- **[templates/PLAYER_CONVERSATION_TEMPLATE.md](templates/PLAYER_CONVERSATION_TEMPLATE.md)** — prompt pemanggilan roleplay.
-- **[world/WORLD.md](world/WORLD.md)** — fondasi lore dunia dan tiga kekuasaan utama.
-- **[world/MAP_AND_REGIONS.md](world/MAP_AND_REGIONS.md)** — regional index dan batas pengetahuan geografis.
-- **[world/GEOGRAPHY_AND_TRAVEL.md](world/GEOGRAPHY_AND_TRAVEL.md)** — geografi fisik, moda transportasi, perjalanan, dan batas informasi rute.
-- **[world/INTELLIGENT_PEOPLES.md](world/INTELLIGENT_PEOPLES.md)** — bangsa berakal, ciri kelompok, dan konteks sosial.
-- **[world/FACTIONS.md](world/FACTIONS.md)** — klan, dojo, sekte, dan organisasi yang tercatat.
-- **[world/HISTORY.md](world/HISTORY.md)** — kronologi dan pencatatan bukti sejarah.
-- **[world/DYNAMIC_EVENTS.md](world/DYNAMIC_EVENTS.md)** — registry canon event dunia persisten; wajib diperiksa setiap giliran.
-- **[templates/WORLD_EVENT_UPDATE_TEMPLATE.md](templates/WORLD_EVENT_UPDATE_TEMPLATE.md)** — proposal update event dunia untuk ditinjau owner/admin; proposal bukan canon sampai disetujui dan diverifikasi.
-- **[world/ARTIFACTS_AND_RELICS.md](world/ARTIFACTS_AND_RELICS.md)** — kategori Relic/Ancient Artifact dan provenance.
-- **[world/ARTIFICIAL_ARTIFACTS.md](world/ARTIFICIAL_ARTIFACTS.md)** — katalog Artificial Artifact; aturan produksi tetap berada di core system.
-- **[world/WEALTH_DISTRIBUTION.md](world/WEALTH_DISTRIBUTION.md)** — total kekayaan global dan konsentrasi kepemilikan.
-- **[world/SOCIAL_STRATIFICATION.md](world/SOCIAL_STRATIFICATION.md)** — elite, kelas menengah, rakyat miskin, slum, tunawisma, dan mobilitas sosial.
-- **[players.md](players.md)** — indeks karakter terdaftar.
-- **[players/Yuha.md](players/Yuha.md)** — snapshot awal karakter Yuha.
-- **[templates/AUTHORITY_ORDER.md](templates/AUTHORITY_ORDER.md)** — otoritas operasional AI Game Master dan aturan prosedural.
-- **[templates/GAMEPLAY_RESPONSE_TEMPLATE.md](templates/GAMEPLAY_RESPONSE_TEMPLATE.md)** — satu-satunya format visual lengkap untuk respons gameplay.
-- **[templates/CHARACTER_PROFILE_TEMPLATE.md](templates/CHARACTER_PROFILE_TEMPLATE.md)** — definisi field dan konsistensi profil.
-- **[gameplay/TIME_AND_ACTION_RULES.md](gameplay/TIME_AND_ACTION_RULES.md)** — timestamp, batas aksi, tidur malam, dan time skip.
-- **[gameplay/COMBAT_SYSTEM.md](gameplay/COMBAT_SYSTEM.md)** — resolusi combat, multi-hit, combo, damage, dan pertahanan.
-- **[core/HUNGER_AND_METABOLISM.md](core/HUNGER_AND_METABOLISM.md)** — Satiety, jadwal makan, metabolisme Realm, dan pengaruh kondisi tubuh.
-- **[core/HP_SYSTEM.md](core/HP_SYSTEM.md)** dan **[core/INJURY_SYSTEM.md](core/INJURY_SYSTEM.md)** — HP, klasifikasi cedera, dan pemulihan.
-- **[core/CULTIVATION_SYSTEM.md](core/CULTIVATION_SYSTEM.md)** — Realm, Stage, Sync, bottleneck, breakthrough.
-- **[core/CULTIVATOR_ACADEMIES.md](core/CULTIVATOR_ACADEMIES.md)** — akademi dan pendidikan kultivator.
-- **[core/10_ECONOMY_SYSTEM.md](core/10_ECONOMY_SYSTEM.md)** — harga, transaksi, kurs, aset, dan Currency.
-- **[core/MARTIAL_SOUL_AWAKENING.md](core/MARTIAL_SOUL_AWAKENING.md)** — prosedur awakening, rarity, dan keputusan mutasi.
-- **[core/MARTIAL_SOUL.md](core/MARTIAL_SOUL.md)** — bentuk, sifat, dan interpretasi Martial Soul.
-- **[core/SPIRIT_RING_RULES.md](core/SPIRIT_RING_RULES.md)** — Spirit Ring, kompatibilitas, penyerapan, Qi, PowerScale.
-- **[core/THINKER_AND_FORMULATION.md](core/THINKER_AND_FORMULATION.md)** — Thinker Grade dan aturan produksi Artificial Artifact.
+# ▰ XUANLING REALM
 
-- **[tests/INTEGRATION_TEST_CHECKLIST.md](tests/INTEGRATION_TEST_CHECKLIST.md)** — skenario audit manual untuk memastikan modul bekerja bersama; bukan sumber mekanik baru.
+### A WORLD OF CULTIVATION, POWER, AND CONSEQUENCE.
 
-## Alur memulai roleplay
-1. Gunakan `templates/PLAYER_CONVERSATION_TEMPLATE.md` dan trigger `CONVO — [Nama Karakter]`.
-2. Untuk karakter terdaftar dalam sesi baru, baca `players.md`, lalu file individual karakter yang tertaut.
-3. Untuk sesi berlanjut, gunakan profil terakhir dan kejadian setelahnya; jangan menimpa state dengan snapshot awal.
-4. Pada setiap giliran, ikuti urutan bootstrap di INDEX dan periksa `world/DYNAMIC_EVENTS.md` untuk event aktif yang relevan sebelum memuat modul lain sesuai kebutuhan. Jika sumber gagal diakses, jangan mengaku telah membacanya.
-5. Respons gameplay langsung menggunakan timestamp, narasi, profil, catatan konsistensi, dan `Aksiku : --` sesuai template. MODE: NO STEP berarti tanpa menu pilihan.
+![Eastern Fantasy](https://img.shields.io/badge/EASTERN_FANTASY-FFB36B?style=for-the-badge&labelColor=151515&color=FFB36B)
+![World Systems](https://img.shields.io/badge/WORLD_SYSTEMS-FFB36B?style=for-the-badge&labelColor=151515&color=FFB36B)
+![Roleplay](https://img.shields.io/badge/ROLEPLAY-FFB36B?style=for-the-badge&labelColor=151515&color=FFB36B)
 
-Untuk transaksi, kurs, penilaian harga, atau perubahan saldo, gunakan `core/10_ECONOMY_SYSTEM.md` dan catat perubahan yang sah.
+*A structured Eastern Fantasy roleplay setting built around cultivation, Martial Souls, Spirit Beasts, Spirit Rings, and persistent world events.*
 
-Jika aksi gameplay menghasilkan dampak persisten pada dunia bersama, siapkan proposal menggunakan `templates/WORLD_EVENT_UPDATE_TEMPLATE.md`. Hanya owner/admin yang meninjau dan menyimpan perubahan canon ke `world/DYNAMIC_EVENTS.md`; jangan mengklaim event tersimpan sebelum commit diverifikasi.
+[**OPEN THE INDEX**](INDEX.md) · [PLAYER CONVERSATION TEMPLATE](templates/PLAYER_CONVERSATION_TEMPLATE.md) · [WORLD LORE](world/WORLD.md)
 
-## Prinsip proyek
-- Jangan mengarang aturan atau mengklaim membaca file yang tidak tersedia.
-- Bedakan fakta canon, usulan provisional, rumor, dan informasi yang belum diketahui.
-- Tidak ada plot armor; kematian permanen kecuali mekanik resmi menyatakan sebaliknya.
-- Modul lore tidak menggantikan modul mekanik. Aturan produksi Artificial Artifact tetap berada di `core/THINKER_AND_FORMULATION.md`.
-- File karakter dan registry adalah snapshot awal, bukan sistem save berjalan.
+</div>
+
+---
+
+## ▰ MAIN MENU
+
+| FILE | DESCRIPTION |
+|---|---|
+| [`INDEX.md`](INDEX.md) | Official entry point, bootstrap order, and module map |
+| [Player Conversation Template](templates/PLAYER_CONVERSATION_TEMPLATE.md) | Start a roleplay session |
+| [Game Master Authority](templates/AUTHORITY_ORDER.md) | Operational authority and procedural rules |
+| [Gameplay Response Template](templates/GAMEPLAY_RESPONSE_TEMPLATE.md) | Required visual format for gameplay responses |
+| [Character Profile Template](templates/CHARACTER_PROFILE_TEMPLATE.md) | Character fields and profile consistency |
+| [Integration Test Checklist](tests/INTEGRATION_TEST_CHECKLIST.md) | Manual checks across connected systems |
+
+## ▰ WORLD ARCHIVE
+
+| FILE | DESCRIPTION |
+|---|---|
+| [World Overview](world/WORLD.md) | World foundations and the three major powers |
+| [Map & Regions](world/MAP_AND_REGIONS.md) | Regional index and geographic knowledge boundaries |
+| [Geography & Travel](world/GEOGRAPHY_AND_TRAVEL.md) | Terrain, transportation, travel, and route information |
+| [Intelligent Peoples](world/INTELLIGENT_PEOPLES.md) | Peoples, traits, and social context |
+| [Factions](world/FACTIONS.md) | Clans, dojos, sects, and organizations |
+| [History](world/HISTORY.md) | Timeline and historical evidence |
+| [Dynamic Events](world/DYNAMIC_EVENTS.md) | Persistent canon-event registry |
+| [Artifacts & Relics](world/ARTIFACTS_AND_RELICS.md) | Relic and Ancient Artifact categories and provenance |
+| [Artificial Artifacts](world/ARTIFICIAL_ARTIFACTS.md) | Artificial Artifact catalogue |
+| [Wealth Distribution](world/WEALTH_DISTRIBUTION.md) | Global wealth and ownership concentration |
+| [Social Stratification](world/SOCIAL_STRATIFICATION.md) | Social classes, poverty, and mobility |
+
+## ▰ POWER SYSTEMS
+
+| FILE | DESCRIPTION |
+|---|---|
+| [Cultivation System](core/CULTIVATION_SYSTEM.md) | Realms, stages, Sync, bottlenecks, and breakthroughs |
+| [Martial Soul Awakening](core/MARTIAL_SOUL_AWAKENING.md) | Awakening procedure, rarity, and mutations |
+| [Martial Soul](core/MARTIAL_SOUL.md) | Martial Soul forms, traits, and interpretation |
+| [Spirit Ring Rules](core/SPIRIT_RING_RULES.md) | Compatibility, absorption, Qi, and PowerScale |
+| [Thinker & Formulation](core/THINKER_AND_FORMULATION.md) | Thinker Grades and Artificial Artifact production |
+| [Economy System](core/10_ECONOMY_SYSTEM.md) | Prices, transactions, exchange rates, assets, and currency |
+
+## ▰ GAMEPLAY SYSTEMS
+
+- [Combat System](gameplay/COMBAT_SYSTEM.md) — resolution, multi-hit attacks, combos, damage, and defense.
+- [Time & Action Rules](gameplay/TIME_AND_ACTION_RULES.md) — timestamps, action limits, sleep, and time skips.
+- [Hunger & Metabolism](core/HUNGER_AND_METABOLISM.md) — Satiety, meal timing, Realm effects, and metabolism.
+- [HP System](core/HP_SYSTEM.md) and [Injury System](core/INJURY_SYSTEM.md) — health, injury classes, and recovery.
+- [Cultivator Academies](core/CULTIVATOR_ACADEMIES.md) — academies and cultivator education.
+
+## ▰ CHARACTER ARCHIVE
+
+- [Registered Players](players.md) — character index.
+- [Yuha](players/Yuha.md) — initial character snapshot.
+
+## ▰ START A SESSION
+
+1. Open the [Player Conversation Template](templates/PLAYER_CONVERSATION_TEMPLATE.md) and use the trigger `CONVO — [Character Name]`.
+2. For a registered character in a new session, read `players.md` and then the linked character file.
+3. For an ongoing session, continue from the latest profile and subsequent events; do not overwrite current state with the initial snapshot.
+4. Follow the bootstrap sequence in `INDEX.md`. Check `world/DYNAMIC_EVENTS.md` for relevant active events before loading other required modules.
+5. Use the official gameplay response template. In **MODE: NO STEP**, do not present a choice menu.
+
+For any transaction, exchange rate, price assessment, or balance change, follow [Economy System](core/10_ECONOMY_SYSTEM.md) and record only valid changes.
+
+## ▰ PROJECT RULES
+
+- Never invent mechanics or claim to have read an unavailable file.
+- Separate canon facts, provisional proposals, rumors, and unknown information.
+- No plot armor; death is permanent unless an official mechanic states otherwise.
+- Lore modules do not override mechanics modules.
+- Character files and registries are initial snapshots, not an automatic save system.
+- Persistent world changes require owner/admin review and a verified update to the canon registry.
+
+---
+
+<div align="center">
+
+**INVESTIGATION FILE // XUANLING REALM**
+
+<sub>LIGHT ORANGE EDITION · #FFB36B / #151515 / #FFFFFF</sub>
+
+</div>

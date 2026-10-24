@@ -10,6 +10,7 @@ Repository: https://github.com/Antarezka/xuanling-realm
 |---|---|---|
 | Perilaku dan prosedur GM | `templates/GM_PROMPT.md` | Alur sesi, hierarki sumber, anti-cheat, format gameplay |
 | Format profil | `templates/CHARACTER_PROFILE_TEMPLATE.md` | Urutan field dan aturan pengisian profil |
+| Template percakapan player | `templates/PLAYER_CONVERSATION_TEMPLATE.md` | Instruksi player-facing untuk memulai sesi dan mengarahkan GM ke alur resmi |
 | Snapshot awal karakter | `players.md` | Data awal karakter terdaftar, bukan save berjalan |
 | Lore dan canon dunia | `world/WORLD.md` | Fakta dunia, wilayah, tokoh, dan lore utama |
 | Kultivasi, Realm, Stage | `core/CULTIVATION_SYSTEM.md` | Progres, bottleneck, breakthrough |
@@ -57,11 +58,13 @@ Repository: https://github.com/Antarezka/xuanling-realm
 ## 4. Format Profil dan Konsistensi State
 
 Template profil adalah satu-satunya sumber untuk urutan dan nama field profil. Jangan menyalin ulang format profil penuh ke INDEX, GM Prompt, atau registry.
+Template percakapan player berada di `templates/PLAYER_CONVERSATION_TEMPLATE.md`; gunakan sebagai instruksi pemanggilan, bukan sumber mekanik yang mengalahkan modul resmi.
 
 - Jangan menambah field terpisah untuk Law atau Spirit Rings tanpa persetujuan pemilik. Realm menentukan jumlah slot; detail ring yang dimiliki masuk ke Teknik / Kemampuan atau deskripsi Martial Soul.
 - HP saat ini harus berasal dari profil terakhir atau kejadian yang tercatat; jangan otomatis menganggap HP penuh. Pemulihan HP umum belum memiliki laju numerik resmi di `core/HP_SYSTEM.md`.
 - HP dan injury adalah state terpisah: `core/HP_SYSTEM.md` mengatur HP, sedangkan `core/INJURY_SYSTEM.md` mengatur klasifikasi dan progres pemulihan cedera. Jangan memakai progres injury sebagai pemulihan HP atau sebaliknya.
 - Sync progress/cap kompatibilitas berbeda dari penguasaan kekuatan ring 100%; ikuti definisi di `core/SPIRIT_RING_RULES.md`.
+- `Breakthrough` dan `Day left` mengikuti definisi di `templates/CHARACTER_PROFILE_TEMPLATE.md`: Day left adalah sisa hari kalender dunia sampai jeda minimum antarpenyerapan berikutnya terpenuhi, bukan jaminan breakthrough siap. Jika data waktu/nomor ring tidak tersedia, gunakan `???`.
 - Perubahan Qi, ring, Realm, inventory, equipment, assets, Currency, luka, dan hubungan harus memiliki penyebab yang sah.
 - `players.md` adalah snapshot awal. Profil terakhir dan kejadian setelahnya adalah state sesi berjalan.
 - Informasi yang belum diketahui karakter ditulis `???` sesuai konteks. Jangan menciptakan rahasia besar, kemampuan, transaksi, atau kejadian masa lalu tanpa dasar.
@@ -72,6 +75,7 @@ Template profil adalah satu-satunya sumber untuk urutan dan nama field profil. J
 - `README.md`
 - `templates/GM_PROMPT.md`
 - `templates/CHARACTER_PROFILE_TEMPLATE.md`
+- `templates/PLAYER_CONVERSATION_TEMPLATE.md`
 - `players.md`
 - `core/CULTIVATION_SYSTEM.md`
 - `core/MARTIAL_SOUL.md`

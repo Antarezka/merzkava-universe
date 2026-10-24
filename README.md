@@ -40,6 +40,7 @@
 | [Wanluo Sacred Expanse](world/WANLUO_SACRED_EXPANSE.md) | World Knowledge Tower region, pilgrimage roads, districts, and Ordo Suci Tianming |
 | [Intelligent Peoples](world/INTELLIGENT_PEOPLES.md) | Peoples, traits, and social context |
 | [Factions](world/FACTIONS.md) | Clans, dojos, sects, and organizations |
+| [Spirit Hunters Guild](world/SPIRIT_HUNTERS_GUILD.md) | Temporary hunting parties, blacklisting, and bounty notices |
 | [History](world/HISTORY.md) | Timeline and historical evidence |
 | [Dynamic Events](world/DYNAMIC_EVENTS.md) | Persistent canon-event registry |
 | [Artifacts & Relics](world/ARTIFACTS_AND_RELICS.md) | Relic and Ancient Artifact categories and provenance |
@@ -54,7 +55,7 @@
 | [Cultivation System](core/CULTIVATION_SYSTEM.md) | Realms, stages, Sync, bottlenecks, and breakthroughs |
 | [Martial Soul Awakening](core/MARTIAL_SOUL_AWAKENING.md) | Awakening procedure, rarity, and mutations |
 | [Martial Soul](core/MARTIAL_SOUL.md) | Martial Soul forms, traits, and interpretation |
-| [Spirit Ring Rules](core/SPIRIT_RING_RULES.md) | Compatibility, absorption, Qi, and PowerScale |
+| [Spirit Ring Rules](core/SPIRIT_RING_RULES.md) | Compatibility, absorption, Qi, PowerScale, and normal ring-acquisition routes |
 | [Thinker & Formulation](core/THINKER_AND_FORMULATION.md) | Thinker Grades and Artificial Artifact production |
 | [Economy System](core/10_ECONOMY_SYSTEM.md) | Prices, transactions, exchange rates, assets, and currency |
 

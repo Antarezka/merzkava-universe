@@ -138,3 +138,16 @@ Do not assume every healer belongs to the Society, that its neutrality can never
 - Faction reputation is not universal knowledge. A character must have a plausible source for knowing it.
 - Political power, military strength, personal combat power, economic influence, and information networks are distinct.
 - New factions or relationships may become canon through explicit owner approval or recorded gameplay, but must not be retroactively inserted into prior events.
+
+## 8. Ordo Suci Tianming
+
+**Type:** World-spanning religious organization.  
+**Status:** Established organization concept; formal leadership and hierarchy remain undefined.
+
+Ordo Suci Tianming is the world's largest religious organization by follower count in the current setting and is trusted by many powerful individuals and institutions. Its remit includes spiritual services and oversight of its own sacred sites, as well as receiving, verifying, recording, and coordinating responses to reports of high-level anomalies, walking calamities, and threats to the world's continued survival.
+
+Its headquarters is the **Sanctum of Ten Thousand Vows**, a dedicated religious precinct in the Wanluo Sacred Expanse. The complex is separate from the World Knowledge Tower. Its facilities include the Great Hall of Vows, World Observation Archive, Observation Tower, Threat Assessment Hall, Order Response Compound, and public pilgrim facilities. The full geographic and institutional description is maintained in `world/WANLUO_SACRED_EXPANSE.md`.
+
+The organization maintains a broad network of temples and religious houses, observation halls, assessment halls, response orders, and regional coordination centers. These are functional categories, not confirmed proper names of specific branches. Named leaders, formal ranks, doctrine, rituals, fees, membership rules, and individual combat capabilities remain unestablished.
+
+The organization is not omniscient and does not automatically defeat every threat. Reports must be verified, and response can be affected by distance, delayed information, political interests, and limited resources. Its religious standing does not grant it ownership of the World Knowledge Tower or absolute civil authority over Wanluo.

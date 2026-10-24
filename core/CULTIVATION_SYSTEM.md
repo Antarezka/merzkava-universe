@@ -93,6 +93,17 @@ Warna untuk Spirit Ring berusia 500.000 tahun atau lebih belum ditetapkan. Janga
 
 Tidak ada batas usia Spirit Ring yang mutlak hanya berdasarkan angka usia. Kesesuaian tetap mempertimbangkan toleransi tubuh, kompatibilitas, dan aturan penyerapan yang berlaku. Usia tinggi bukan jaminan bahwa karakter mampu menyerap ring tersebut dengan aman atau berhasil.
 
+
+### 5.1 Jalur Normal Perolehan Spirit Ring
+
+Setelah Martial Soul Awakening, seseorang dapat berusaha memperoleh Spirit Ring melalui tiga jalur umum yang diatur lebih lengkap dalam `core/SPIRIT_RING_RULES.md`:
+
+- **Ekspedisi akademi (Safe Route):** pelajaran teori dan persiapan lapangan, lalu perburuan berkelompok di hutan atau alam liar yang dipilih sesuai kesiapan murid, informasi bahaya, dan tujuan latihan. Pengawasan akademi mengurangi risiko yang dapat dihindari, bukan menjamin keamanan, kemenangan, penyelamatan, atau penyerapan berhasil.
+- **Party sementara Spirit Hunters Guild:** kelompok campuran dengan kemampuan, pengalaman, loyalitas, dan tujuan yang tidak selalu seragam. Gunakan enam tier kontrak dan kesiapan tim dalam `world/SPIRIT_HUNTERS_GUILD.md`; tuduhan saja tidak membuktikan pelanggaran, tetapi misconduct serius yang terbukti dapat berujung blacklist dan, untuk kasus berat, Deadpool Notice.
+- **Berburu solo:** tidak ada pengamanan, dukungan tim, atau penyelamatan yang dijamin. Jalur ini umumnya memerlukan persiapan serius dan kemampuan yang jelas memadai untuk target—biasanya di atas kemampuan orang biasa—atau keunggulan konkret dari pengetahuan, perlengkapan, informasi, maupun keadaan. Keinginan mencoba bukan bukti bahwa karakter mampu menuntaskan perburuan.
+
+Pilihan jalur tidak mengubah formula kompatibilitas, syarat penyerapan, peluang keberhasilan yang belum ditetapkan, atau mekanik combat. Pisahkan empat tahap: menemukan target, mengalahkan Spirit Beast, memperoleh hak atas ring, lalu menyerapnya. Gunakan `gameplay/COMBAT_SYSTEM.md` untuk pertarungan dan `core/SPIRIT_RING_RULES.md` untuk kompatibilitas serta deviasi; jangan membuat persentase keberhasilan atau skor kesulitan baru.
+
 ## 6. Penaklukan Beast, Penyerapan, dan Sinkronisasi
 
 Penaklukan Spirit Beast dan proses penyerapan Spirit Ring adalah bagian yang berbeda:

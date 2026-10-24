@@ -11,7 +11,7 @@ Pertahankan nama dan urutan field sesuai `templates/GAMEPLAY_RESPONSE_TEMPLATE.m
 3. `Spirit Realm`: Realm/Stage dan progres sesuai sistem resmi.
 4. `Sync progress`: progres saat ini dibandingkan dengan cap kompatibilitas ring saat ini. Cap tidak selalu 100%; misalnya `45%/45%` berarti cap telah tercapai. Ini bukan penguasaan penuh atas kekuatan ring. Jika karakter belum memiliki Spirit Ring yang sedang diproses, tampilkan `0%/0%` dan jelaskan bahwa belum ada cap kompatibilitas aktif; jangan gunakan `???`.
 5. `Breakthrough`: status bottleneck/proses menerobos berdasarkan Realm/Stage, Sync progress terhadap cap, ketersediaan ring berikutnya, item wajib, jeda minimum, dan seluruh syarat resmi lainnya.
-6. `Day left`: sisa durasi sampai jeda minimum antarpenyerapan Spirit Ring berikutnya terpenuhi. Pilih interval berdasarkan jumlah ring yang telah berhasil diserap, lalu hitung dari timestamp dunia penyerapan terakhir yang berhasil menurut `bestiary/SPIRIT_BEAST_RULES.md`.
+6. `Day left`: pengecualian field hitung-mundur yang hanya berlaku untuk jeda minimum antarpenyerapan Spirit Ring. Ini bukan timer umum untuk breakthrough kultivasi, latihan, atau aktivitas lain. Pilih interval berdasarkan jumlah ring yang telah berhasil diserap, lalu hitung dari timestamp dunia penyerapan terakhir yang berhasil menurut `bestiary/SPIRIT_BEAST_RULES.md`. Jika belum ada penyerapan ring yang relevan atau data waktunya tidak tersedia, tulis `Belum ditetapkan Day left`; jangan memaksakan `0` karena angka itu menyatakan jeda minimum sudah terpenuhi.
 7. `Martial Soul`: Martial Soul karakter sesuai sumber resmi dan riwayat.
 8. `Thinker Grade`: grade yang sudah ditetapkan oleh mekanik/riwayat.
 9. `HP`: current HP dan maksimum HP mengikuti `core/HP_SYSTEM.md`.
@@ -20,7 +20,7 @@ Pertahankan nama dan urutan field sesuai `templates/GAMEPLAY_RESPONSE_TEMPLATE.m
 12. `Kondisi Tubuh`: kondisi fisik yang didukung kejadian dan mekanik, termasuk cedera yang relevan.
 13. `Equipment`: perlengkapan yang sedang dimiliki/digunakan sesuai state.
 14. `Inventory`: barang bawaan yang tercatat.
-15. `Assets`: aset yang tercatat selain rincian mata uang yang ditampilkan pada field Currency.
+15. `Assets Bangunan`: hanya bangunan atau properti yang benar-benar dimiliki karakter dan tercatat sebagai aset. Penghasilan, tabungan, uang tunai, dan barang bawaan bukan Assets Bangunan; uang hanya dicatat pada `Wallet (wealth)`, sedangkan barang bawaan dicatat pada `Inventory`.
 16. `Wallet (wealth)`: saldo mata uang sesuai sistem ekonomi dan transaksi tercatat. Pertahankan format canonical: `... xc | ... xs | ... xg | ... zj | ... az`; jangan mengarang kurs atau saldo.
 17. `Teknik / Kemampuan`: kemampuan serta rincian Spirit Ring yang dimiliki, dengan fungsi jelas dan sumber yang sah.
 18. `Tujuan Saat Ini`: tujuan karakter yang dinyatakan pemain atau sudah tercatat; jangan mengambil alih keputusan pemain.
@@ -46,7 +46,9 @@ Pertahankan nama dan urutan field sesuai `templates/GAMEPLAY_RESPONSE_TEMPLATE.m
 - Profil adalah snapshot state setelah giliran, bukan pengganti narasi kejadian atau riwayat transaksi.
 - Jangan mengubah, menghilangkan, atau memindahkan field maupun mengubah ornamen visual yang ditetapkan oleh `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` tanpa persetujuan pemilik repository.
 
-## Perhitungan Day left
+## Perhitungan Day left — Pengecualian Penyerapan Spirit Ring
+
+`Day left` hanya menghitung jeda minimum antara penyerapan Spirit Ring yang berhasil. Jangan gunakan field ini sebagai penghitung waktu breakthrough kultivasi umum atau aktivitas lain.
 
 - Gunakan selisih waktu dunia yang tercatat, bukan jumlah giliran atau waktu nyata.
 - Bulatkan sisa durasi positif ke atas dalam satuan 24 jam: 1 jam tersisa = `1 Day left`, 24 jam = `1 Day left`, 25 jam = `2 Day left`. Ini hitung mundur durasi, bukan hitungan pergantian tanggal kalender.

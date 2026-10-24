@@ -63,7 +63,7 @@
 
 - [Combat System](gameplay/COMBAT_SYSTEM.md) — resolution, multi-hit attacks, combos, damage, and defense.
 - [Time & Action Rules](gameplay/TIME_AND_ACTION_RULES.md) — timestamps, action limits, sleep, and time skips.
-- [Hunger & Metabolism](core/HUNGER_AND_METABOLISM.md) — Satiety, meal timing, Spirit Spirit Realm effects, and metabolism.
+- [Hunger & Metabolism](core/HUNGER_AND_METABOLISM.md) — Satiety, meal timing, Spirit Realm effects, and metabolism.
 - [HP System](core/HP_SYSTEM.md) and [Injury System](core/INJURY_SYSTEM.md) — health, injury classes, and recovery.
 - [Cultivator Academies](core/CULTIVATOR_ACADEMIES.md) — academies and cultivator education.
 

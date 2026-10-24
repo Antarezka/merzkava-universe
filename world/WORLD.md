@@ -3,7 +3,7 @@ XUANLING REALM — WORLD LORE & POLITICAL ATLAS
 «Document Type: Core Worldbuilding
 Status: Canon Foundation
 Scope: World Powers, Territories, Factions, Political Relations, Medicine Hall Society, Population, and Ruling Powers
-Related Modules: "world/MAP_AND_REGIONS.md", "world/FACTIONS.md", "world/HISTORY.md", "world/ARTIFACTS_AND_RELICS.md", "world/ARTIFICIAL_ARTIFACTS.md", "world/SOCIAL_STRATIFICATION.md", "world/WEALTH_DISTRIBUTION.md", "core/CULTIVATION_SYSTEM.md", "core/MARTIAL_SOUL.md", "core/SPIRIT_RING_RULES.md", "bestiary/SPIRIT_BEAST_RULES.md". WORLD.md remains the primary source for established world lore; each related module handles its stated scope. A listed path does not override the module itself or turn provisional details into confirmed canon.»
+Related Modules: "world/MAP_AND_REGIONS.md", "world/FACTIONS.md", "world/HISTORY.md", "world/ARTIFACTS_AND_RELICS.md", "world/ARTIFICIAL_ARTIFACTS.md", "world/SOCIAL_STRATIFICATION.md", "world/WEALTH_DISTRIBUTION.md", "world/GEOGRAPHY_AND_TRAVEL.md", "world/INTELLIGENT_PEOPLES.md", "core/CULTIVATION_SYSTEM.md", "core/MARTIAL_SOUL.md", "core/SPIRIT_RING_RULES.md", "bestiary/SPIRIT_BEAST_RULES.md". WORLD.md remains the primary source for established world lore; each related module handles its stated scope. A listed path does not override the module itself or turn provisional details into confirmed canon.»
 
 ---
 
@@ -26,6 +26,10 @@ Di luar yurisdiksi resmi mereka terdapat wilayah-wilayah yang dikenal sebagai La
 Selain kekuasaan politik dan kelompok kultivasi, Medicine Hall Society memiliki jaringan pengobatan netral yang tersebar di seluruh dunia.
 
 Dunia ini tidak memiliki satu kekuatan yang mampu mengendalikan semua pihak. Perjanjian dapat berubah, wilayah dapat diperebutkan, dan keseimbangan politik dapat bergeser mengikuti kepentingan serta kemampuan pihak-pihak yang terlibat.
+
+Manusia bukan satu-satunya kaum berakal di Xuanling Realm. Beragam kaum dan garis keturunan hidup di dunia ini, termasuk manusia berfitur rubah, wyvern, laut, sayap kupu-kupu, unsur api, dan banyak bentuk lain. Sebagian menghadapi diskriminasi atau eksploitasi, sementara kelompok ortodoks, heterodoks, demonic, maupun independen tertentu dapat menerima atau melindungi mereka. Rincian kaum dan perlakuan sosial mengikuti `world/INTELLIGENT_PEOPLES.md`.
+
+Bentang alam luas di antara kekuasaan utama mencakup hutan, pegunungan, jurang, lembah, dan puncak-puncak yang menembus lautan awan. Reruntuhan masa lampau dapat tersebar di daratan maupun palung samudra. Orientasi dunia, habitat liar, dan transportasi mengikuti `world/GEOGRAPHY_AND_TRAVEL.md` serta `world/MAP_AND_REGIONS.md`.
 
 ---
 
@@ -711,7 +715,8 @@ XIV. MODUL YANG AKAN DIKEMBANGKAN
 Dokumen ini menjadi dasar atlas dunia dan politik Xuanling Realm. Rincian yang terlalu luas akan dikembangkan dalam berkas khusus agar mudah dirawat.
 
 Berkas| Isi utama
-"world/MAP_AND_REGIONS.md"| Peta, geografi, jarak, rute perjalanan, iklim, dan lokasi penting
+"world/MAP_AND_REGIONS.md" dan "world/GEOGRAPHY_AND_TRAVEL.md"| Peta, geografi, jarak, rute perjalanan, iklim, transportasi, dan lokasi penting
+"world/INTELLIGENT_PEOPLES.md"| Kaum berakal, garis keturunan, dan perlakuan sosial
 "world/FACTIONS.md"| Sekte, klan, organisasi, pemimpin, hierarki, hubungan, dan konflik
 "world/ECONOMY.md"| Mata uang, harga, perdagangan, pajak, pendapatan, perbankan, dan layanan
 "core/CULTIVATION_SYSTEM.md", "core/MARTIAL_SOUL.md", dan "core/SPIRIT_RING_RULES.md"| Sistem kultivasi, Martial Soul, Spirit Ring, breakthrough, dan batas kemampuan

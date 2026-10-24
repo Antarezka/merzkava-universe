@@ -1,4 +1,4 @@
-# XUANLING REALM — CULTIVATOR ACADEMIES & FOUNDATIONAL EDUCATION
+# MERZKAVA UNIVERSE — CULTIVATOR ACADEMIES & FOUNDATIONAL EDUCATION
 
 **Status:** Core concept established. Specific admission rules, school structure, curriculum hours, fees, age limits, examinations, and graduation requirements remain undefined unless separately established.
 

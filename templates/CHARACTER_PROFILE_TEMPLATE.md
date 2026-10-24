@@ -1,4 +1,4 @@
-# Xuanling Realm — Character Profile Field Definitions
+# Merzkava Universe — Character Profile Field Definitions
 
 **File ini mendefinisikan arti field dan konsistensi state. Bentuk visual lengkap, urutan field, ornamen, dan penutup setiap balasan gameplay hanya ditentukan oleh `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`.**
 

@@ -29,7 +29,7 @@ The Empire's seven major regions are established in `world/WORLD.md`:
 | Baiyue | Frontier Marches | Fortifications, military routes, border defense |
 | Xingluo | Eastern Ports | Maritime trade, diplomacy, sea routes |
 
-These are regional identities, not a complete list of cities or settlements. Exact boundaries, distances, local rulers, routes, and travel durations remain unspecified unless a later official source establishes them. The Empire-wide civil and military administrative hierarchy, and the rules for recording offices and jurisdictions, are defined in `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`. Regional identity does not itself prove a specific prefecture/county structure or current officeholder.
+These are regional identities, not a complete list of cities or settlements. The named prefectures, county jurisdictions, regional seats, and planning counts are now listed in `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`; each region's module contains its own prefecture summary. Exact surveyed boundaries, distances, local rulers, routes, and travel durations remain unspecified unless a later official source establishes them. The Empire-wide civil and military hierarchy is defined in `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`.
 
 ## 3. Tianhai Yunzhou — Maritime Power
 

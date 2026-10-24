@@ -51,7 +51,7 @@ Penduduk juga dapat mendatangi pusat kota di wilayah masing-masing untuk menggun
 - Contoh Martial Soul berbentuk alat meliputi cangkul, kuas, pedang, dan peralatan lain.
 - Martial Soul berbentuk cangkul dapat cocok dengan pekerjaan pertanian; kuas dapat relevan dengan pekerjaan menulis, mengajar, atau profesi lain yang menggunakannya. Ini merupakan kecenderungan praktis, bukan takdir mutlak atau pembatas profesi.
 - **Martial Soul berbentuk alat memiliki tingkat penguasaan awal yang luar biasa terhadap alat yang diwujudkannya dibandingkan orang biasa yang menggunakan alat serupa.** Seseorang yang tidak memiliki Martial Soul terkait biasanya perlu belajar dan berlatih untuk mencapai tingkat penggunaan yang sebanding.
-- Keunggulan penguasaan awal ini tidak otomatis memberikan Cultivation Realm tinggi, Spirit Ring, kemampuan tempur tak terkalahkan, atau keahlian di luar fungsi yang relevan dengan Martial Soul.
+- Keunggulan penguasaan awal ini tidak otomatis memberikan Spirit Realm tinggi, Spirit Ring, kemampuan tempur tak terkalahkan, atau keahlian di luar fungsi yang relevan dengan Martial Soul.
 - Martial Soul berbentuk pedang dapat membuka beragam kemungkinan karier, tetapi hasil akhirnya tetap bergantung pada latihan, pilihan, keadaan, dan pengalaman karakter.
 - Martial Soul berbentuk tumbuhan, hewan biasa, serta bentuk lain juga dapat muncul. Jangan menganggap bentuk yang tampak sederhana tidak berguna atau pasti lemah.
 
@@ -82,7 +82,7 @@ Bagian ini menghubungkan mekanik awakening dengan kehidupan sosial tanpa menetap
 - **Token dan surat utang eksternal:** bila individu tidak mampu membayar 10 xs token pada jalur publik, organisasi keuangan eksternal setempat dapat memajukan biaya itu dan membuat surat utang atas jumlah yang benar-benar dipinjam. Pemberi utang bukan kekaisaran, Aula, atau kementerian. Organisasi dan bunga dipilih secara acak dari pilihan yang masuk akal di lokasi: umumnya 3%–8% bunga sederhana per tahun untuk pemberi pinjaman yang wajar, tetapi hasil sial dapat mencapai 12%–24% per tahun. Begitu organisasi dan tingkat bunga terpilih, jangan undi ulang. Pokok pinjaman hanya sebesar kekurangan biaya token; jangan memasukkan layanan, pajak, atau dokumentasi yang sudah disubsidi.
 - **Gagal bayar:** dapat merusak reputasi kredit dengan pemberi pinjaman dan, jika catatan terkait diperiksa atau dibagikan secara sah, menyulitkan individu memperoleh pekerjaan bergaji layak, pinjaman berikutnya, serta mempertahankan taraf hidup yang layak. Ini konsekuensi sosial-ekonomi yang berat, bukan larangan kerja otomatis di seluruh kekaisaran. Prosedur penagihan dan aturan tambahan bergantung pada surat utang dan hukum setempat; jangan mengarang penjara, penyitaan otomatis, atau daftar hitam universal.
 - **Batas pencatatan:** token membantu verifikasi untuk kerja dasar dan pendidikan, tetapi tidak menjamin pekerjaan atau penerimaan. Rekam layanan tidak otomatis berarti ada database publik nasional atau sertifikat universal. Catat pembayaran token, subsidi, pinjaman, surat utang, bunga, cicilan, dan gagal bayar hanya jika benar-benar terjadi dalam gameplay.
-- **Sesudah awakening:** Martial Soul yang terungkap dapat memengaruhi pilihan latihan, pendidikan, pekerjaan, atau cara masyarakat memandang seseorang, tetapi pengaruh sosial tersebut bergantung pada konteks dan tidak otomatis menentukan nasib. Awakening tidak otomatis memberi tempat di akademi, profesi, Realm, Spirit Ring, atau penghasilan.
+- **Sesudah awakening:** Martial Soul yang terungkap dapat memengaruhi pilihan latihan, pendidikan, pekerjaan, atau cara masyarakat memandang seseorang, tetapi pengaruh sosial tersebut bergantung pada konteks dan tidak otomatis menentukan nasib. Awakening tidak otomatis memberi tempat di akademi, profesi, Spirit Realm, Spirit Ring, atau penghasilan.
 - **Batas wilayah:** siklus dua tahunan, kunjungan desa, dan jalur mandiri adalah kerangka umum. Subsidi, tarif, pinjaman token, dan konsekuensi gagal bayar di atas adalah aturan Golden Dragon Empire; jangan memaksakannya ke Tianhai Yunzhou, Beiming Gu, Wanluo, atau Lawless Territories tanpa canon lokal.
 
 ## 3. Karakteristik dan Klasifikasi
@@ -120,7 +120,7 @@ Jika sistem mekanik yang diperlukan belum tersedia, GM boleh mencatat tindakan d
 
 Mutasi Martial Soul pada saat awakening wajib mengikuti `core/MARTIAL_SOUL_AWAKENING.md`, yang menetapkan peluang, urutan pengundian, keputusan pemain, dan batas resolusi GM.
 
-- Jangan memberikan mutasi otomatis hanya karena karakter berlatih, mencapai Realm tertentu, berada dalam bahaya, atau membutuhkan kekuatan baru.
+- Jangan memberikan mutasi otomatis hanya karena karakter berlatih, mencapai Spirit Realm tertentu, berada dalam bahaya, atau membutuhkan kekuatan baru.
 - Jangan mengubah peluang atau hasil mutasi yang telah diundi, dan jangan melakukan reroll.
 - Mekanik mutasi/evolusi setelah awakening, pemicu alternatif, daftar hasil, statistik, serta efek numerik yang belum ditetapkan tetap tidak boleh dikarang.
 - Aturan mutasi atau evolusi Spirit Beast dalam modul bestiary berlaku untuk Spirit Beast sesuai ruang lingkupnya dan tidak otomatis berlaku untuk Martial Soul.
@@ -141,7 +141,7 @@ Untuk informasi yang belum diketahui karakter atau belum dikonfirmasi oleh sumbe
 ## 8. Sumber Terkait dan Konsistensi
 
 Gunakan modul berikut ketika tersedia:
-- `core/CULTIVATION_SYSTEM.md` — Realm, Stage, progres, bottleneck, dan breakthrough.
+- `core/CULTIVATION_SYSTEM.md` — Spirit Realm, Stage, progres, bottleneck, dan breakthrough.
 - `core/SPIRIT_RING_RULES.md` — perolehan, penyerapan, usia, sinkronisasi, dan kemampuan Spirit Ring.
 - `bestiary/SPIRIT_BEAST_RULES.md` — Spirit Beast sebagai sumber ring dan aturan Beast.
 - `gameplay/COMBAT_SYSTEM.md` — penyelesaian kemampuan dalam pertarungan.

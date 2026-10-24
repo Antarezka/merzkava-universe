@@ -10,7 +10,7 @@ Merzkava Universe's current world canon includes:
 - A world with a vast continent, connected seas, isolated northern territories, and Lawless Territories outside the direct jurisdiction of the major powers.
 - A Thinker tradition that originated in Tianhai Yunzhou.
 - Ancient artifacts from a golden age of civilization.
-- Relics described as inheritances or objects left by deities.
+- Relics described as inheritances or objects left by deities, including the World Knowledge Tower, an ancient divine relic from the Early Golden Age.
 - Ancient Zun currency associated with a singular appearance of an ancient heavenly material when the Heaven Realm opened in the distant past.
 - A Medicine Hall Society with a neutral medical network across the world.
 
@@ -82,3 +82,11 @@ Use this format:
 - If a new event changes regional borders, faction status, leadership, or artifact ownership, record its consequences consistently.
 - Historical time and the current gameplay calendar are separate unless an official source links them.
 - Where the chronology is unknown, preserve `???` rather than filling gaps with invented dates.
+
+## 5. World Knowledge Tower and the Growth of Wanluo
+
+The World Knowledge Tower is established as an ancient divine relic from the Early Golden Age. The identity of its makers, the precise date of its origin, the details of its original purpose, and the full sequence of events surrounding it remain unknown.
+
+The surrounding Wanluo Sacred Expanse developed over generations as pilgrims and other travelers repeatedly converged on the Tower. Its roads, rest sites, and settlement districts grew from sustained use rather than a single known founding plan. The exact chronology, first pilgrimage, founders of the settlements, and date at which the region acquired its current name are not established.
+
+Ordo Suci Tianming and its headquarters, the Sanctum of Ten Thousand Vows, are part of the current worldbuilding for the religious institutions associated with Wanluo. Their founding date, founders, formal doctrine, leadership history, and relationship to specific ancient events remain unestablished. Do not invent these details as confirmed history.

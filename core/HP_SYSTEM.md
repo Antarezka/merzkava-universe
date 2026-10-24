@@ -1,4 +1,4 @@
-# Xuanling Realm — HP System
+# Merzkava Universe — HP System
 
 Status: Mekanik resmi HP.
 Cakupan: HP maksimum berdasarkan Spirit Realm dan Stage, format HP, serta pencatatan HP saat ini.

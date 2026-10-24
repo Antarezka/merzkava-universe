@@ -4,7 +4,7 @@
 
 ## Mulai di sini
 
-- **[INDEX.md](INDEX.md)** — satu-satunya entry point yang perlu diberikan pemain kepada AI Game Master. Berisi bootstrap, direktori modul, pemicu pemuatan file, dan aturan anti-cheat.
+- **[INDEX.md](INDEX.md)** — satu-satunya entry point navigasi resmi untuk AI Game Master. Berisi bootstrap, direktori modul, pemicu pemuatan file, dan aturan anti-cheat.
 - **[templates/PLAYER_CONVERSATION_TEMPLATE.md](templates/PLAYER_CONVERSATION_TEMPLATE.md)** — prompt siap pakai yang digunakan player untuk memulai percakapan dan memanggil alur bootstrap resmi.
 - **[world/WORLD.md](world/WORLD.md)** — sumber utama lore dunia, wilayah, faksi, dan fakta yang sudah ditetapkan. Detail yang ditandai sebagai usulan/rancangan awal masih provisional.
 - **[templates/GM_PROMPT.md](templates/GM_PROMPT.md)** — instruksi operasional untuk AI Game Master.

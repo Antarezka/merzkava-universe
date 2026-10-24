@@ -1,4 +1,4 @@
-# Xuanling Realm — Geography and Travel
+# Merzkava Universe — Geography and Travel
 
 **Status:** Official foundational worldbuilding module.
 **Scope:** World orientation, wild regions, sky mountains, beast habitats, ruins, and transport.

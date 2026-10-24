@@ -40,6 +40,8 @@ Pilih modul berdasarkan aksi, kondisi, dan lokasi saat ini. Jangan membaca atau 
 | Lapisan sosial, kemiskinan, kawasan kumuh, tunawisma, dan mobilitas sosial | `world/SOCIAL_STRATIFICATION.md` |
 | Dunia, tokoh, tiga kekuasaan utama, fondasi lore | `world/WORLD.md` |
 | Peta, wilayah, permukiman, rute yang diketahui | `world/MAP_AND_REGIONS.md` |
+| Geografi fisik, perjalanan, moda transportasi, dan batas pengetahuan rute | `world/GEOGRAPHY_AND_TRAVEL.md` |
+| Bangsa berakal, ciri kelompok, dan konteks perlakuan sosial | `world/INTELLIGENT_PEOPLES.md` |
 | Klan, dojo, sekte, organisasi, Medicine Hall Society | `world/FACTIONS.md` |
 | Kronologi, bukti sejarah, peristiwa historis | `world/HISTORY.md` |
 | Kategori Relic/Ancient Artifact dan katalog | `world/ARTIFACTS_AND_RELICS.md` |
@@ -67,7 +69,7 @@ Jika sumber wajib gagal diakses, sebutkan file yang gagal dan jangan mengaku tel
 - `players.md`: indeks karakter terdaftar.
 - `players/<Nama>.md`: snapshot awal karakter individual, bukan save berjalan.
 - Modul mekanik: sumber resmi untuk aturan di ruang lingkupnya.
-- Modul world: sumber resmi untuk lore, geografi, faksi, sejarah, katalog artefak, distribusi kekayaan, dan stratifikasi sosial sesuai cakupannya.
+- Modul world: sumber resmi untuk lore, geografi/perjalanan, bangsa berakal, faksi, sejarah, katalog artefak, distribusi kekayaan, dan stratifikasi sosial sesuai cakupannya. Untuk perjalanan atau interaksi dengan kelompok masyarakat, baca modul world yang relevan; jangan menganggap `MAP_AND_REGIONS.md` menggantikan aturan transportasi atau lore bangsa berakal.
 - Profil gameplay terakhir dan kejadian setelahnya: sumber state sesi berjalan.
 
 ## Konsistensi yang Wajib Dipertahankan
@@ -107,6 +109,8 @@ Jika sumber wajib gagal diakses, sebutkan file yang gagal dan jangan mengaku tel
 - `gameplay/TIME_AND_ACTION_RULES.md`
 - `world/WORLD.md`
 - `world/MAP_AND_REGIONS.md`
+- `world/GEOGRAPHY_AND_TRAVEL.md`
+- `world/INTELLIGENT_PEOPLES.md`
 - `world/FACTIONS.md`
 - `world/HISTORY.md`
 - `world/ARTIFACTS_AND_RELICS.md`

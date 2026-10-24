@@ -9,6 +9,17 @@ Gunakan kategori Beast yang ditetapkan lore resmi. Jangan menciptakan tier atau 
 
 Setelah Spirit Beast dikalahkan, Spirit Ring dapat muncul mengambang di atas tubuhnya. Kekalahan Beast tidak membuat ring otomatis berhasil diserap. Penyerapan harus diselesaikan sesuai `core/SPIRIT_RING_RULES.md`.
 
+## 1.1 Estimating Hunt Danger Without Invented Odds
+
+When preparing a Spirit Beast hunt, the GM should estimate danger from the evidence available rather than assign an invented universal encounter percentage or difficulty score.
+
+- **Habitat and access:** use the known regional module and `world/GEOGRAPHY_AND_TRAVEL.md`. Deep or hard-to-reach wilderness tends to contain higher-tier Spirit Beasts, but this is not a guarantee. Do not assume every forest has the same population or threat.
+- **Target evidence:** distinguish confirmed species/age/tier from a report, rumor, track, or unverified sighting. A clue may be incomplete or misleading; do not turn uncertain information into a confirmed stat.
+- **Party readiness:** compare the actual abilities, PowerScale, Qi, equipment, readiness, injuries, terrain, and coordination of the hunters with the target's established capabilities. Apply `gameplay/COMBAT_SYSTEM.md` for combat outcomes. The existence of a team is not itself a numeric bonus.
+- **Route context:** an academy Safe Route should be selected to reduce avoidable danger for the group's demonstrated readiness, but it may still contain hazards or unexpected encounters. A Guild party can have uneven experience or hidden motives. A solo hunter has no team support or guaranteed rescue, but the actual risk still depends on their capability and preparation.
+- **No automatic success:** hunting, defeating the Beast, securing the ring, and absorbing it are separate stages. Do not grant a guaranteed encounter, victory, ring ownership, or absorption.
+- **No made-up odds:** if the available facts do not support a numeric chance, resolve the situation qualitatively or use the existing combat formula when a combat comparison is possible. Do not invent a new encounter chance, success percentage, age cap, or danger multiplier.
+
 ## 2. Persyaratan Item untuk Breakthrough
 
 Persyaratan item pada bagian ini berlaku sebagai syarat breakthrough untuk menyerap Spirit Ring berikutnya, bukan syarat tambahan untuk kelayakan Mortal menyerap Spirit Ring pertama. Mortal dapat mencoba menyerap ring pertama setelah Awakening Martial Soul; ring harus tersedia melalui proses yang sah.

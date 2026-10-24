@@ -25,6 +25,14 @@ Pertahankan nama dan urutan field sesuai `templates/GAMEPLAY_RESPONSE_TEMPLATE.m
 17. `Teknik / Kemampuan`: kemampuan serta rincian Spirit Ring yang dimiliki, dengan fungsi jelas dan sumber yang sah.
 18. `Tujuan Saat Ini`: tujuan karakter yang dinyatakan pemain atau sudah tercatat; jangan mengambil alih keputusan pemain.
 
+## Sumber Currency dan Buku Ekonomi Player
+
+- Untuk karakter yang memiliki `players/economy/<Nama>.md`, buku ekonomi itu adalah sumber utama saldo Currency dan riwayat transaksi. Profil gameplay hanya menampilkan snapshot saldo setelah resolusi giliran.
+- Saat sesi baru, baca ledger ekonomi setelah membaca snapshot karakter. Salin saldo secara persis ke `Currency (xuan/zun)` dengan format `...xc | ...xs | ...xg | ...zj | ...az`.
+- Jangan memakai kalimat penghasilan/Assets untuk menebak saldo jika saldo ledger sudah ada. Jangan menambah atau mengurangi saldo tanpa transaksi yang didukung kejadian.
+- Jika ledger belum ada, gunakan `templates/PLAYER_ECONOMY_TEMPLATE.md` untuk membuat acuan. Ambil saldo awal dari nilai eksplisit di snapshot/riwayat; jika benar-benar tidak tersedia, gunakan estimasi bootstrap yang diberi label menurut Economy System.
+- Jika transaksi terjadi, catat sebab, waktu, jumlah masuk/keluar, dan saldo sesudah transaksi pada ledger sebelum menampilkan saldo baru di profil. Jika repository tidak bisa ditulis, pertahankan ledger sesi dan jangan mengaku telah menyimpan perubahan ke GitHub.
+
 ## Aturan Pengisian
 
 - Jangan menambah field terpisah untuk **Spirit Rings** atau **Law** tanpa persetujuan pemilik. Jumlah slot mengikuti Realm; rincian ring masuk ke **Teknik / Kemampuan** atau deskripsi Martial Soul.

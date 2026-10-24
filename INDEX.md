@@ -170,7 +170,7 @@ Regional modules are divided according to the established geography in `world/MA
 ### Golden Dragon Empire
 - Empire-wide civil and military governance — `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`
 - Named central ministers, regional governors, all prefects and county magistrates — `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`
-- Population-facing services, all 46 Ninefold Concord Bank branches, Myriad Ledger Exchange offices, foundation academies, Medicine Hall Society locations, and Ordo Suci Tianming public libraries — `world/GOLDEN_DRAGON_EMPIRE_POPULATION_SERVICES.md`
+- Population-facing services, bank and information-exchange offices, Medicine Hall Society locations, two central dormitory-based academies, and selected Ordo Suci Tianming public libraries — `world/GOLDEN_DRAGON_EMPIRE_POPULATION_SERVICES.md`
 - Prefecture/county names and administrative totals — `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
 - Longyuan — `world/REGION_LONGYUAN.md`
 - Canglan — `world/REGION_CANGLAN.md`

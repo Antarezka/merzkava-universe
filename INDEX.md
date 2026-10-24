@@ -16,6 +16,7 @@ Repository: https://github.com/Antarezka/xuanling-realm
 | Martial Soul | `core/MARTIAL_SOUL.md` | Awakening dan aturan Martial Soul |
 | Spirit Ring, Qi, PowerScale | `core/SPIRIT_RING_RULES.md` | Usia, kompatibilitas, penyerapan, Qi, PowerScale |
 | HP | `core/HP_SYSTEM.md` | HP maksimum, format dan validasi HP saat ini |
+| Injury / cedera | `core/INJURY_SYSTEM.md` | Kelas cedera, syarat pengobatan, progres dan pemulihan injury |
 | Thinker dan formulasi | `core/THINKER_AND_FORMULATION.md` | Grade Thinker, formulasi, peluang produksi artefak |
 | Spirit Beast | `bestiary/SPIRIT_BEAST_RULES.md` | Kategori Beast, syarat dan jeda penyerapan, deviasi |
 | Combat | `gameplay/COMBAT_SYSTEM.md` | Inisiatif, kesiapan, hit, damage, pertahanan, serangan beruntun, combo, konsekuensi |
@@ -43,7 +44,7 @@ Repository: https://github.com/Antarezka/xuanling-realm
 - Realm, Stage, Sync progress, bottleneck, breakthrough: `core/CULTIVATION_SYSTEM.md` dan `core/SPIRIT_RING_RULES.md`.
 - Awakening atau Martial Soul: `core/MARTIAL_SOUL.md`.
 - Spirit Beast, perburuan, syarat ring, jeda minimum, deviasi: `bestiary/SPIRIT_BEAST_RULES.md`; tambahkan `core/SPIRIT_RING_RULES.md` untuk formula deviasi lengkap (§5: persentase deviasi 1–100%, kehilangan HP berdasarkan HP maksimum dan faktor nomor ring, pengali, kategori risiko, dan alur GM).
-- Combat, serangan beruntun, atau combo: `gameplay/COMBAT_SYSTEM.md`; satu aksi dapat berisi beberapa hit dan aturan combo default berlaku dari modul ini. Tambahkan `core/HP_SYSTEM.md` bila HP berubah atau perlu divalidasi.
+- Combat, serangan beruntun, atau combo: `gameplay/COMBAT_SYSTEM.md`; satu aksi dapat berisi beberapa hit dan aturan combo default berlaku dari modul ini. Tambahkan `core/HP_SYSTEM.md` bila HP berubah atau perlu divalidasi, serta `core/INJURY_SYSTEM.md` bila injury muncul atau berubah.
 - Waktu, perjalanan berdurasi, kultivasi panjang, atau time skip: `gameplay/TIME_AND_ACTION_RULES.md` serta modul mekanik terkait.
 - HP atau pembuatan/pembaruan profil: `core/HP_SYSTEM.md` dan template profil.
 - Makan, lapar, metabolisme: gunakan `core/HUNGER_AND_METABOLISM.md` **hanya jika file tersebut tersedia**; saat ini belum ada di repository.
@@ -59,6 +60,7 @@ Template profil adalah satu-satunya sumber untuk urutan dan nama field profil. J
 
 - Jangan menambah field terpisah untuk Law atau Spirit Rings tanpa persetujuan pemilik. Realm menentukan jumlah slot; detail ring yang dimiliki masuk ke Teknik / Kemampuan atau deskripsi Martial Soul.
 - HP saat ini harus berasal dari profil terakhir atau kejadian yang tercatat; jangan otomatis menganggap HP penuh.
+- HP dan injury adalah state terpisah; gunakan `core/INJURY_SYSTEM.md` untuk klasifikasi dan pemulihan cedera.
 - Perubahan Qi, ring, Realm, inventory, equipment, assets, Currency, luka, dan hubungan harus memiliki penyebab yang sah.
 - `players.md` adalah snapshot awal. Profil terakhir dan kejadian setelahnya adalah state sesi berjalan.
 - Informasi yang belum diketahui karakter ditulis `???` sesuai konteks. Jangan menciptakan rahasia besar, kemampuan, transaksi, atau kejadian masa lalu tanpa dasar.
@@ -74,6 +76,7 @@ Template profil adalah satu-satunya sumber untuk urutan dan nama field profil. J
 - `core/MARTIAL_SOUL.md`
 - `core/SPIRIT_RING_RULES.md`
 - `core/HP_SYSTEM.md`
+- `core/INJURY_SYSTEM.md`
 - `core/THINKER_AND_FORMULATION.md`
 - `core/10_ECONOMY_SYSTEM.md`
 - `bestiary/SPIRIT_BEAST_RULES.md`

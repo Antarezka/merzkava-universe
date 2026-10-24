@@ -22,6 +22,21 @@ Saat pemain memakai trigger awal yang merujuk INDEX.md dan players.md, perlakuka
 9. **Mulai gameplay langsung** menggunakan `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`. Jangan membalas trigger dengan laporan bootstrap, daftar file yang dibaca, atau ringkasan analisis sebagai pengganti adegan.
 10. **Selama permainan, navigasikan modul secara dinamis** memakai tabel pemicu di bawah. Jika modul sudah dibaca di percakapan yang sama dan belum berubah atau tidak ada alasan untuk mengambil ulang, gunakan konteks tersebut secara konsisten.
 
+### Gerbang format → profil player → ekonomi (URUTAN MUTLAK)
+
+Jangan mulai menulis narasi atau profil gameplay sampai tiga sumber ini selesai dimuat, dalam urutan berikut:
+
+1. **Format visual percakapan:** baca seluruh `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`. Format ini mengunci bentuk visual, garis/kotak, urutan field, nama field, catatan, dan penutup. Jangan membuat format sendiri.
+2. **Definisi field profil:** baca seluruh `templates/CHARACTER_PROFILE_TEMPLATE.md` agar setiap nilai ditempatkan pada field yang benar.
+3. **Profil player:** untuk sesi baru karakter terdaftar, baca `players.md`, lalu baca seluruh `players/<Nama>.md`. Untuk sesi berjalan, gunakan profil gameplay terakhir dan kejadian setelahnya sebagai state aktif; snapshot awal hanya referensi latar yang belum berubah.
+4. **Buku ekonomi khusus player:** buka `players/economy/<Nama>.md`. Buku ini adalah sumber utama saldo Currency dan riwayat transaksi karakter. Cocokkan dengan snapshot/profile hanya untuk memulihkan saldo awal jika buku ekonomi belum tersedia.
+   - Jika file ekonomi karakter belum ada, gunakan `templates/PLAYER_ECONOMY_TEMPLATE.md` untuk menginisialisasi catatan ekonomi dari saldo yang benar-benar tercatat di snapshot/riwayat. Untuk saldo yang tidak tercatat, ikuti aturan estimasi bootstrap di `core/10_ECONOMY_SYSTEM.md` dan beri label estimasi awal; jangan mengarang transaksi masa lalu.
+   - Jangan mengklaim file baru tersimpan di repository kecuali perubahan repository benar-benar berhasil dilakukan dan terverifikasi. Jika GM tidak memiliki kemampuan menulis repository, buat ledger awal di state percakapan dan nyatakan bahwa file persisten belum dibuat.
+5. **Pemetaan ke bagan:** baru setelah langkah 1–4, tempatkan setiap data pada field template visual. Currency harus disalin persis dari buku ekonomi; aset non-uang tetap di Assets; transaksi baru harus dicatat di ledger dan baru kemudian saldo diperbarui. Jangan mengubah nilai tercatat menjadi `???`, membulatkan saldo, atau mengganti format mata uang.
+6. **Modul mekanik dan dunia:** setelah sumber state dimuat, baca modul yang diperlukan untuk timestamp, Satiety, HP, lokasi, event, dan aksi pertama. Jika sumber wajib gagal dibaca, jangan berpura-pura selesai.
+
+**Gate sebelum respons:** pastikan format visual canonical sudah dimuat; profil/snapshot yang benar sudah dipilih; buku ekonomi sudah dibuka atau dibuat sebagai ledger sesi; Currency cocok dengan ledger; seluruh field wajib dan ornamen visual dipertahankan. Jika satu gate belum terpenuhi, jangan kirim gameplay seolah-olah bootstrap lengkap.
+
 ### Protokol pemuatan karakter terdaftar
 
 - `players.md` adalah **indeks karakter**, bukan file yang memuat seluruh ingatan karakter.

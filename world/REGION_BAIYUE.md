@@ -26,8 +26,8 @@
 - **Counties:** 42 (six per prefecture)
 - **Cities:** 28
 - **Towns:** 150
-- **Townships / districts:** 850
-- **Villages / neighborhoods:** 4,800
+- **Named rural villages listed in this atlas:** 4
+- **Other rural settlements:** Unenumerated; do not generate or count thousands of named villages by default
 - **Full official register:** `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
 
 Prefectures and seats:

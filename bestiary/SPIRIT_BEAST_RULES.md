@@ -14,8 +14,10 @@ Setelah Spirit Beast dikalahkan, Spirit Ring dapat muncul mengambang di atas tub
 Sebelum Penyerapan Spirit Ring dimulai, GM wajib memeriksa apakah Beast target memiliki persyaratan item khusus.
 
 - Persyaratan item bergantung pada Beast target dan harus dicatat pada entri Beast yang relevan ketika telah ditetapkan.
-- Jika item wajib untuk Beast tertentu belum ditetapkan di sumber resmi, jangan mengarang nama item atau menganggap tidak ada persyaratan. Nyatakan bahwa persyaratan item belum ditentukan dan minta keputusan pemilik atau gunakan hanya aturan yang telah tersedia.
-- Item wajib harus benar-benar dimiliki atau diperoleh melalui proses sah sebelum penyerapan yang mensyaratkannya dapat dilakukan.
+- Jika item wajib spesifik untuk Beast target belum tercatat, GM **wajib menetapkan requirement sementara untuk proses breakthrough/penyerapan tersebut** berdasarkan dua hal: (1) tier/usia Spirit Ring yang hendak diserap, dan (2) jenis serta karakteristik Spirit Beast target. Jangan membiarkan requirement kosong, jangan menganggap tidak ada syarat, dan jangan meminta keputusan pemilik hanya karena entri Beast belum lengkap.
+- Pilih bahan atau item yang masuk akal dan relevan dengan jenis Beast serta tingkat ringnya; gunakan bahan/lore yang sudah ada bila tersedia. Semakin tinggi tier/usia ring dan semakin langka atau berbahaya karakteristik Beast, requirement harus mencerminkan kesulitan dan kelangkaan yang sepadan. Jangan menetapkan item yang tidak berkaitan hanya untuk menghalangi pemain.
+- Nyatakan item yang dibutuhkan secara konkret, lalu perlakukan sebagai syarat wajib untuk breakthrough/penyerapan target itu. Requirement yang dibuat untuk menutup data yang kosong berlaku sebagai keputusan GM pada proses tersebut, bukan otomatis menjadi fakta permanen untuk semua Beast sejenis. Catat pada hasil/profil sesi; jadikan data kanon permanen hanya jika pemilik kemudian menyetujuinya.
+- Item wajib harus benar-benar dimiliki atau diperoleh melalui proses sah sebelum breakthrough/penyerapan yang mensyaratkannya dapat dilakukan. Untuk ring pertama, Mortal tetap harus sudah Awakening; jangan menerapkan bottleneck atau jeda antar-ring sebagai syarat tambahan.
 - Item yang dikonsumsi atau rusak selama proses harus dicatat sebagai konsekuensi hanya jika aturan atau kejadian yang sah menetapkannya.
 - Mengalahkan Beast, memiliki ring yang muncul, atau mencapai bottleneck tidak menggantikan persyaratan item.
 

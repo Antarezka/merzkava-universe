@@ -53,6 +53,7 @@ The following portfolio structure is the standard recommended model:
 | Ministry of Personnel | Civil appointments, promotions, transfers, official evaluations, and staffing records |
 | Ministry of Finance | Imperial revenue, public expenditure, tax administration, budgets, and fiscal reports |
 | Ministry of Education and Rites | State academies, official examinations, ceremonies, and public educational standards |
+| Grand Martial Soul Awakening Hall | Specialized institution for coordinating Martial Soul awakening services; detailed internal hierarchy, branches, budget, and reporting chain remain to be established |
 | Ministry of Military Affairs | Central military administration, recruitment records, supplies, and coordination with the command structure; not automatic field command over every unit |
 | Ministry of Justice | Imperial law, courts, legal procedure, appeals, and administration of penalties |
 | Ministry of Public Works | Roads, bridges, canals, flood control, public buildings, and major infrastructure |
@@ -181,5 +182,6 @@ The following remain open unless established by a later owner-approved source:
 - Detailed court hierarchy, appeal procedures, police/investigative authority, and emergency powers.
 - Exact army ranks, unit sizes, garrison numbers, and relationships with clan or dojo forces.
 - Any regional exception to the standard hierarchy.
+- The Grand Martial Soul Awakening Hall's internal hierarchy, branch offices, staffing, budget, and detailed reporting chain.
 
 The initial territorial names and totals are established by the administrative atlas, while exact geography and current officeholders remain separate facts. Do not use this module to overwrite established characters, clans, dojos, regional identities, or unrelated world lore. When a new fact conflicts with an existing official source, flag the conflict for owner review rather than silently rewriting either source.

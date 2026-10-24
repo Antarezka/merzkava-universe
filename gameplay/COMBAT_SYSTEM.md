@@ -5,7 +5,7 @@
 
 ## 1. Core Rules
 
-- Use this module for combat resolution, `core/SPIRIT_RING_RULES.md` for PowerScale/Qi, and `core/HP_SYSTEM.md` for maximum HP.
+- Use this module for combat resolution, `core/SPIRIT_RING_RULES.md` for PowerScale/Qi, `core/HP_SYSTEM.md` for maximum HP, and `core/INJURY_SYSTEM.md` for injury classification and recovery.
 - PowerScale is a baseline comparison, not a guaranteed hit or victory.
 - A turn is a combatant's opportunity to perform **one declared action**, not a limit of one physical hit. One action may contain multiple strikes or a combo when the move, declared intent, and circumstances support them.
 - Use §5 for the default combo rule. Do not invent additional hits, damage bonuses, techniques, equipment, resource costs, or effects beyond that rule or a documented ability.
@@ -86,7 +86,7 @@ Round final damage up to a whole HP; a successful damaging hit deals at least 1 
 
 A lower-Realm fighter can defeat a higher-Realm opponent when the recorded situation and relevant advantages support it; Realm alone is not an automatic result.
 
-When the combatants differ by **one Realm**, a damaging hit from the higher-Realm combatant is expected to cause injury to the lower-Realm combatant. Avoiding injury requires clear evidence of an overall advantage that addresses all three:
+When the combatants differ by **one Realm**, a damaging hit from the higher-Realm combatant is expected to cause injury to the lower-Realm combatant. Record the injury supported by the event and classify it using `core/INJURY_SYSTEM.md`. Avoiding injury requires clear evidence of an overall advantage that addresses all three:
 1. Better equipment readiness.
 2. More usable Qi/energy for the relevant action.
 3. A meaningful Spirit Ring age/quality or relevant ability advantage.
@@ -103,7 +103,7 @@ Tactics and technique may contribute, but do not silently replace all three cond
 
 ## 8. State and Missing Rules
 
-After each resolved action, update only changes caused by the action: current HP, usable Qi/stamina, injury, position, equipment, inventory, and time. Do not restore HP, refill resources, or remove consequences without an established cause.
+After each resolved action, update only changes caused by the action: current HP, usable Qi/stamina, injury, position, equipment, inventory, and time. When an injury appears or changes, use `core/INJURY_SYSTEM.md` for its class, recovery requirements, and progress. Do not restore HP, refill resources, or remove consequences without an established cause.
 
 If a rule or input is missing:
 - Do not invent numerical precision or claim an undefined rule is official.

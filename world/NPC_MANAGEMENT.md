@@ -17,6 +17,8 @@
 - **Unknown identity:** Use an appropriate unknown/public-facing identity until the character learns the name through a credible in-world source. Do not expose profile-only secrets as player knowledge.
 
 ## 3. Minimum NPC Consistency Rules
+
+**Terminology standard:** use **Spirit Realm** for the nine numbered cultivation tiers. When recording an NPC's cultivation, use `Spirit Realm N — Spirit [official tier], [stage] Stage`; do not shorten it to `Realm` or call it `Cultivation Realm`. `Mortal` is a pre-Spirit-Realm status, not Spirit Realm 0. Preserve unrelated proper names such as `Heaven Realm` when they refer to a distinct historical or cosmological concept.
 1. Every established NPC should have a coherent role, public personality, immediate goal, and boundaries for likely behavior.
 2. NPCs act according to their goals, information, abilities, relationships, and circumstances; they do not exist solely to serve the player.
 3. Separate facts known to the NPC, beliefs that may be wrong, facts known to the player, and GM-only secrets.

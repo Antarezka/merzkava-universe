@@ -62,7 +62,7 @@ Menerobos hanya dapat dilakukan jika semua syarat berikut terpenuhi:
 
 1. **Bottleneck:** Sync progress berada kurang dari 10 poin persentase di bawah cap kompatibilitas ring aktif.
 2. **Spirit Ring tersedia:** ring berikutnya benar-benar tersedia untuk diserap melalui proses yang sah.
-3. **Item wajib tersedia:** karakter memenuhi persyaratan item yang berlaku untuk Spirit Beast target sesuai `bestiary/SPIRIT_BEAST_RULES.md`. Jika data spesifik belum ada, GM wajib membentuk persyaratan yang sesuai dengan tier Spirit Ring dan jenis Spirit Beast menurut prosedur fallback di `bestiary/SPIRIT_BEAST_RULES.md`; jangan membiarkannya kosong atau menganggap tidak ada syarat.
+3. **Item wajib tersedia:** karakter memenuhi persyaratan item yang berlaku untuk Spirit Beast target agar dapat menyerap Spirit Ring tersebut, sesuai `bestiary/SPIRIT_BEAST_RULES.md`. Jika data spesifik belum ada, GM wajib menetapkan requirement konkret berdasarkan tier/usia ring dan jenis serta karakteristik Spirit Beast target; jangan membiarkannya kosong atau menganggap tidak ada syarat.
 4. **Jeda minimum terpenuhi:** waktu sejak Penyerapan Spirit Ring sebelumnya yang berhasil telah mencapai jeda minimum sesuai `bestiary/SPIRIT_BEAST_RULES.md`.
 
 Jeda minimum antar-ring: Ring 1→2 = 2 minggu; Ring 2→3 = 1 bulan; Ring 3→4 = 3 bulan; Ring 4→5 = 6 bulan; Ring 5→6 = 1 tahun; Ring 6→7 = 2 tahun; Ring 7→8 = 3 tahun; Ring 8→9 = 4 tahun.

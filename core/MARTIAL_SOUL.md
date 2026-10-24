@@ -21,7 +21,44 @@ Spirit Ring yang diperoleh secara sah dapat memberikan kemampuan khusus sesuai a
 - Awakening tidak otomatis membuktikan bahwa karakter memiliki bakat luar biasa, kualitas Martial Soul tertentu, kekuatan tersembunyi, atau garis keturunan khusus.
 - Hasil awakening harus dicatat berdasarkan peristiwa yang benar-benar terjadi di permainan.
 
-Batas usia awakening adalah empat tahun atau lebih. Upacara, pemeriksaan, dan prosedur rinci lain hanya boleh ditambahkan bila telah disepakati.
+### 2.1 Periodic Public Awakening
+
+- Secara umum, proses awakening publik diselenggarakan **sekali setiap dua tahun, setelah Tahun Baru**.
+- Setiap wilayah biasanya menyediakan kuota layanan awakening bagi penduduk secara luas. Besaran kuota, pembagian desa, dan jumlah petugas tidak ditetapkan secara universal.
+- Petugas resmi atau kultivator yang ditugaskan mendatangi desa-desa untuk menjalankan proses awakening bagi penduduk setempat.
+- Sistem ini memungkinkan penduduk desa menjalani awakening tanpa harus melakukan perjalanan ke pusat kota.
+- Jadwal dan layanan di lokasi tertentu tetap perlu sesuai keadaan wilayah serta kejadian yang telah ditetapkan. Jangan menganggap petugas selalu tersedia di setiap tempat atau setiap saat.
+
+### 2.2 Awakening Through a Regional Center
+
+Penduduk juga dapat mendatangi pusat kota di wilayah masing-masing untuk menggunakan fasilitas awakening setempat secara mandiri, dengan membayar biaya layanan dan pajak yang berlaku.
+
+- Proses ini menggunakan fasilitas dan petugas yang melayani awakening di pusat kota.
+- Biaya tepat, jenis pajak, persyaratan administrasi, dan ketersediaan layanan belum ditetapkan secara universal; jangan mengarang angka atau aturan rinci.
+- Pilihan menggunakan pusat kota tidak mengubah prinsip dasar awakening dan tidak menjamin hasil Martial Soul yang lebih baik daripada layanan publik di desa.
+
+### 2.3 Martial Soul and Practical Aptitude
+
+Martial Soul dapat berbentuk alat, benda, tumbuhan, hewan, dan bentuk lain; daftar kategori lengkap belum dibatasi secara final.
+
+- Contoh Martial Soul berbentuk alat meliputi cangkul, kuas, pedang, dan peralatan lain.
+- Martial Soul berbentuk cangkul dapat cocok dengan pekerjaan pertanian; kuas dapat relevan dengan pekerjaan menulis, mengajar, atau profesi lain yang menggunakannya. Ini merupakan kecenderungan praktis, bukan takdir mutlak atau pembatas profesi.
+- **Martial Soul berbentuk alat memiliki tingkat penguasaan awal yang luar biasa terhadap alat yang diwujudkannya dibandingkan orang biasa yang menggunakan alat serupa.** Seseorang yang tidak memiliki Martial Soul terkait biasanya perlu belajar dan berlatih untuk mencapai tingkat penggunaan yang sebanding.
+- Keunggulan penguasaan awal ini tidak otomatis memberikan Cultivation Realm tinggi, Spirit Ring, kemampuan tempur tak terkalahkan, atau keahlian di luar fungsi yang relevan dengan Martial Soul.
+- Martial Soul berbentuk pedang dapat membuka beragam kemungkinan karier, tetapi hasil akhirnya tetap bergantung pada latihan, pilihan, keadaan, dan pengalaman karakter.
+- Martial Soul berbentuk tumbuhan, hewan biasa, serta bentuk lain juga dapat muncul. Jangan menganggap bentuk yang tampak sederhana tidak berguna atau pasti lemah.
+
+### 2.4 High-Tier and Mythical Beast Martial Souls
+
+Martial Soul berbentuk hewan dapat mencakup makhluk biasa hingga makhluk mitos dengan tingkatan yang sangat tinggi, termasuk **Tier 7 Peak ke atas**.
+
+- Martial Soul Beast tingkat tinggi sangat disegani karena tiga penguasa utama dunia saat ini masing-masing memiliki Martial Soul Beast tingkat tinggi.
+- Ketiga contoh penguasa tersebut adalah:
+  - Golden Dragon Empire — Golden Dragon Martial Soul.
+  - Tianhai Yunzhou — Celestial Whale Martial Soul.
+  - Beiming Gu — Blue Flame Silver Tiger Martial Soul.
+- Keberadaan contoh tersebut menjelaskan mengapa Martial Soul Beast tingkat tinggi dipandang istimewa; hal itu tidak berarti setiap Martial Soul Beast langka, setiap pemiliknya akan menjadi penguasa, atau semua Martial Soul Beast memiliki kekuatan setara.
+- Klasifikasi rinci makhluk mitos, peluang munculnya Martial Soul tertentu, tingkat kelangkaan, dan mekanik peringkat Martial Soul belum ditetapkan lengkap. Jangan mengarang peluang awakening atau menetapkan tier hanya dari nama tanpa dasar kanon.
 
 ## 3. Karakteristik dan Klasifikasi
 

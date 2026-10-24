@@ -27,7 +27,6 @@
 | [Game Master Authority](templates/AUTHORITY_ORDER.md) | Operational authority and procedural rules |
 | [Gameplay Response Template](templates/GAMEPLAY_RESPONSE_TEMPLATE.md) | Required visual format for gameplay responses |
 | [Character Profile Template](templates/CHARACTER_PROFILE_TEMPLATE.md) | Character fields and profile consistency |
-| [Integration Test Checklist](tests/INTEGRATION_TEST_CHECKLIST.md) | Manual checks across connected systems |
 
 ## ▰ WORLD ARCHIVE
 

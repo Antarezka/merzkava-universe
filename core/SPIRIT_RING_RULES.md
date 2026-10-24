@@ -61,9 +61,9 @@ A character may hunt alone without an academy supervisor, group support, a Guild
 
 ## 2. Usia Spirit Ring dan Toleransi Tubuh
 
-Tidak ada batas usia Spirit Ring yang mutlak hanya berdasarkan angka usia atau Realm. Rekomendasi usia ring harus mempertimbangkan toleransi tubuh, kompatibilitas, dan keadaan kultivator.
+Tidak ada batas usia Spirit Ring yang mutlak hanya berdasarkan angka usia atau Spirit Realm. Rekomendasi usia ring harus mempertimbangkan toleransi tubuh, kompatibilitas, dan keadaan kultivator.
 
-- Jangan menetapkan batas usia maksimum universal untuk setiap Realm.
+- Jangan menetapkan batas usia maksimum universal untuk setiap Spirit Realm.
 - Jangan menganggap kultivator pasti mampu menyerap ring hanya karena berhasil mengalahkan Beast.
 - Ring berusia lebih tinggi dapat membawa risiko bagi tubuh yang tidak mampu menoleransinya; keberhasilan tidak boleh dianggap otomatis.
 - Usia ring adalah faktor dominan untuk power scale. Tier Beast yang menghasilkan ring terutama memengaruhi kompatibilitasnya, bukan menjadi pengganti nilai usia ring.
@@ -84,14 +84,14 @@ Warna untuk ring berusia 500.000 tahun atau lebih masih **Undefined**. Jangan me
 ## 4. Awakening, Slot, dan Bottleneck
 
 - Awakening Martial Soul berlangsung pada usia empat tahun atau lebih.
-- Mortal adalah status dasar sebelum sembilan Spirit Realm. Mortal yang telah mengalami Awakening Martial Soul boleh menyerap Spirit Ring pertama; tidak ada syarat Realm atau bottleneck tambahan untuk ring pertama selain Awakening dan persyaratan penyerapan yang memang berlaku.
+- Mortal adalah status dasar sebelum sembilan Spirit Realm. Mortal yang telah mengalami Awakening Martial Soul boleh menyerap Spirit Ring pertama; tidak ada syarat Spirit Realm atau bottleneck tambahan untuk ring pertama selain Awakening dan persyaratan penyerapan yang memang berlaku.
 - Awakening tidak otomatis memberikan Spirit Ring pertama: ring harus tersedia melalui proses yang sah dan penyerapannya harus benar-benar berhasil. Mortal yang belum Awakening tidak dapat menyerap Spirit Ring pertama.
-- Sistem memiliki sembilan Realm dan satu slot Spirit Ring untuk setiap Realm, sehingga Realm 1 membuka satu slot dan Realm 9 membuka sembilan slot.
-- Urutan Realm: Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, Spirit Primordial.
+- Sistem memiliki sembilan Spirit Realm dan satu slot Spirit Ring untuk setiap Spirit Realm, sehingga Spirit Realm 1 membuka satu slot dan Spirit Realm 9 membuka sembilan slot.
+- Urutan Spirit Realm: Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, Spirit Primordial.
 - Sync progress selalu dibandingkan dengan cap kompatibilitas ring. Mencapai cap (misalnya `45%/45%`) berarti karakter mencapai batas kompatibilitas normal ring itu; **bukan** berarti cap harus 100%.
 - Penguasaan kekuatan ring 100% adalah konsep terpisah: kekuatan ring dikuasai sepenuhnya, setara dengan saat Spirit Beast asalnya menggunakannya. Jangan samakan penguasaan 100% dengan Sync progress 100% atau dengan cap kompatibilitas. Jangan menganggap penguasaan penuh tercapai hanya karena progress menyentuh cap.
 - Menerobos setelah ring pertama memerlukan seluruh syarat di `core/CULTIVATION_SYSTEM.md`: bottleneck dalam jarak kurang dari 10 poin persentase dari cap, ring berikutnya tersedia, item wajib untuk Beast target tersedia, dan jeda minimum antar-penyerapan telah terpenuhi. Aturan bottleneck dan jeda ring berikutnya tidak menjadi syarat tambahan untuk penyerapan ring pertama oleh Mortal yang telah Awakening.
-- Penyerapan ring berikutnya menambah jumlah ring hanya jika benar-benar berhasil. Realm baru hanya dicatat setelah seluruh proses breakthrough berhasil.
+- Penyerapan ring berikutnya menambah jumlah ring hanya jika benar-benar berhasil. Spirit Realm baru hanya dicatat setelah seluruh proses breakthrough berhasil.
 - Qi mortal sebelum awakening bernilai 0; setelah awakening tetapi sebelum ring pertama diserap, Qi belum terbentuk.
 ## 5. Penyerapan Spirit Ring, Kultivasi, Sync progress, dan Bottleneck
 
@@ -130,7 +130,7 @@ Persentase deviasi (**D**) menunjukkan seberapa besar deviasi yang terjadi, dari
 - Pada deviasi 100%, Ring 1 kehilangan HP dasar sebesar 30% dari HP maksimum karakter.
 - Faktor ring meningkat secara bertahap dari ×1,00 pada Ring 1 hingga ×2,00 pada Ring 9.
 - Nomor ring yang dipakai adalah ring yang sedang diproses, **N = 1–9**.
-- Gunakan HP maksimum sesuai Realm dan Stage karakter pada `core/HP_SYSTEM.md`; jangan memakai HP saat ini sebagai dasar persentase.
+- Gunakan HP maksimum sesuai Spirit Realm dan Stage karakter pada `core/HP_SYSTEM.md`; jangan memakai HP saat ini sebagai dasar persentase.
 - Jangan menyamakan persentase deviasi dengan kategori risiko. Kategori risiko tetap ditentukan dari poin HP yang benar-benar hilang pada §5.3.
 
 ### 5.2. Rumus dan tabel kehilangan HP dasar
@@ -154,7 +154,7 @@ Rumus tunggal:
 
 Tabel faktor ring pada deviasi 100%:
 
-| Nomor Spirit Ring | Nama Realm terkait | Faktor ring | Kehilangan HP dasar sebagai persentase HP maksimum |
+| Nomor Spirit Ring | Nama Spirit Realm terkait | Faktor ring | Kehilangan HP dasar sebagai persentase HP maksimum |
 |---:|---|---:|---:|
 | 1 | Spirit Initiate | ×1,00 | 30% |
 | 2 | Spirit Adept | ×1,125 | 33,75% |
@@ -235,7 +235,7 @@ Kemampuan yang diperoleh dari Spirit Ring terbentuk melalui interaksi antara **M
 Setiap kali karakter mencoba menyerap Spirit Ring baru, GM wajib menghitung dan mencatat kompatibilitas ring TERBARU itu. Ini berlaku untuk **setiap nomor ring dari 1 sampai 9**, bukan hanya ring ketiga. Jika penyerapan berhasil, jumlah ring total bertambah satu; jika gagal, jangan menambahkan ring ke jumlah yang dimiliki.
 
 Beri nilai 0–100 untuk empat faktor berdasarkan fakta yang sudah tercatat, bukan tebakan:
-- **B — toleransi tubuh:** kemampuan tubuh kultivator saat ini menahan tekanan ring kandidat, berdasarkan kondisi tubuh, Realm, dan Qi yang tersedia.
+- **B — toleransi tubuh:** kemampuan tubuh kultivator saat ini menahan tekanan ring kandidat, berdasarkan kondisi tubuh, Spirit Realm, dan Qi yang tersedia.
 - **M — kecocokan Martial Soul:** seberapa cocok Beast/ring kandidat dengan Martial Soul karakter.
 - **T — kecocokan tier Beast:** kecocokan tier Spirit Beast kandidat terhadap kapasitas kultivator saat ini. Gunakan klasifikasi tier dari modul bestiary ketika tersedia; jangan menciptakan tier Beast yang belum ditetapkan.
 - **A — cara perolehan:** 100 untuk penyerahan sukarela yang benar-benar terjadi; 80 untuk penyerapan paksa. Untuk keadaan lain, tentukan nilai hanya jika ada aturan dan bukti yang mendukungnya.
@@ -288,7 +288,7 @@ Nilai acuan yang dibulatkan:
 | 8 | 8.882.449 |
 | 9 | 45.234.100 |
 
-Dengan demikian, pemilik sembilan ring memiliki Qi dasar tepat **45.234.100**. Qi mengikuti jumlah ring yang benar-benar berhasil diserap; jangan menaikkan Qi hanya karena karakter membuka slot Realm atau mengalahkan Beast. Usia ring dan kompatibilitas dihitung dalam PowerScale terpisah, sehingga Qi dasar tidak disalahartikan sebagai ukuran tunggal kekuatan tempur.
+Dengan demikian, pemilik sembilan ring memiliki Qi dasar tepat **45.234.100**. Qi mengikuti jumlah ring yang benar-benar berhasil diserap; jangan menaikkan Qi hanya karena karakter membuka slot Spirit Realm atau mengalahkan Beast. Usia ring dan kompatibilitas dihitung dalam PowerScale terpisah, sehingga Qi dasar tidak disalahartikan sebagai ukuran tunggal kekuatan tempur.
 
 ### 6.5. Wajib dicatat setelah setiap penyerapan
 
@@ -298,12 +298,12 @@ Setiap kali ring berhasil diserap, GM harus menyatakan nomor ring terbaru dan ju
 
 Jangan menambahkan field profil terpisah bernama Spirit Rings atau Law.
 
-Jumlah slot mengikuti Realm. Informasi ring yang telah diperoleh—sumber, usia, warna, kemampuan, dan hasil proses yang diketahui—dicatat dalam bagian Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada. Jangan memberikan kemampuan ring sebelum ring benar-benar berhasil diserap.
+Jumlah slot mengikuti Spirit Realm. Informasi ring yang telah diperoleh—sumber, usia, warna, kemampuan, dan hasil proses yang diketahui—dicatat dalam bagian Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada. Jangan memberikan kemampuan ring sebelum ring benar-benar berhasil diserap.
 
 ## 8. Konsistensi Sumber
 
 - Gunakan modul ini untuk mekanik Spirit Ring.
-- Gunakan `core/CULTIVATION_SYSTEM.md` untuk Realm, Stage, progres, bottleneck, dan breakthrough.
+- Gunakan `core/CULTIVATION_SYSTEM.md` untuk Spirit Realm, Stage, progres, bottleneck, dan breakthrough.
 - Gunakan `core/MARTIAL_SOUL.md` untuk Martial Soul dan awakening.
 - Gunakan `bestiary/SPIRIT_BEAST_RULES.md` ketika modul tersebut tersedia untuk rincian Spirit Beast.
 - Jangan mengubah keputusan dalam modul ini hanya karena WORLD.md tidak memuat setiap detail mekanik.

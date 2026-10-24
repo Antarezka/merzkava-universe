@@ -21,7 +21,7 @@ Pertahankan nama dan urutan field sesuai `templates/GAMEPLAY_RESPONSE_TEMPLATE.m
 13. `Equipment`: perlengkapan yang sedang dimiliki/digunakan sesuai state.
 14. `Inventory`: barang bawaan yang tercatat.
 15. `Assets`: aset yang tercatat selain rincian mata uang yang ditampilkan pada field Currency.
-16. `Wallet (wealth)`: saldo mata uang sesuai sistem ekonomi dan transaksi tercatat. Pertahankan format canonical: `... xc | ... xs | ... xg | ... zj | ... az`; jangan mengarang kurs atau saldo.
+16. `Wallet (wealth)`: saldo mata uang sesuai sistem ekonomi dan transaksi tercatat. Pertahankan format canonical: `... cv | ... mv | ... yv | ... xh | ... pxh`; jangan mengarang kurs atau saldo.
 17. `Teknik / Kemampuan`: kemampuan serta rincian Spirit Ring yang dimiliki, dengan fungsi jelas dan sumber yang sah.
 18. `Tujuan Saat Ini`: tujuan karakter yang dinyatakan pemain atau sudah tercatat; jangan mengambil alih keputusan pemain.
 
@@ -29,7 +29,7 @@ Pertahankan nama dan urutan field sesuai `templates/GAMEPLAY_RESPONSE_TEMPLATE.m
 
 - Untuk sesi baru, cocokkan nama karakter melalui `players.md`, lalu ambil saldo Wallet dari file individual yang tepat `players/<Nama>.md`. Jangan menggunakan file karakter lain. Jika Authority secara eksplisit menyediakan saldo yang sah untuk karakter/sesi tersebut, gunakan saldo Authority dan abaikan pencarian saldo awal di snapshot. Untuk sesi berjalan/recall, gunakan Wallet pada profil gameplay terakhir lalu terapkan transaksi sah yang terjadi setelahnya.
 - `core/10_ECONOMY_SYSTEM.md` adalah sumber aturan kurs, harga, valuasi, dan transaksi; file itu bukan sumber saldo individual.
-- Salin saldo secara persis ke field `Wallet (wealth)` dengan format `... xc | ... xs | ... xg | ... zj | ... az`. Jangan memakai deskripsi penghasilan atau Assets untuk menebak saldo bila saldo sudah tercatat.
+- Salin saldo secara persis ke field `Wallet (wealth)` dengan format `... cv | ... mv | ... yv | ... xh | ... pxh`. Jangan memakai deskripsi penghasilan atau Assets untuk menebak saldo bila saldo sudah tercatat.
 - Jika saldo awal tidak tercatat di snapshot atau riwayat, lakukan **undian bootstrap satu kali** untuk menentukan saldo awal konkret, lalu tampilkan angka yang dipilih sebagai saldo awal tetap. Jangan menghitung saldo dari latar, pekerjaan, Assets, atau penghasilan masa lalu, dan jangan mengarang transaksi lampau. Jika snapshot sudah mencatat saldo, snapshot menjadi sumber utama dan tidak boleh diundi ulang.
 - Setelah saldo awal ditetapkan, jangan mengundi ulang atau mengubahnya hanya karena giliran baru. Setiap perubahan harus memiliki sebab dan waktu yang jelas, jumlah masuk/keluar yang sesuai dengan aturan ekonomi, serta saldo akhir yang konsisten dengan riwayat gameplay. Profil akhir giliran menampilkan saldo setelah transaksi sah; tidak ada file ledger terpisah yang wajib dibuat.
 

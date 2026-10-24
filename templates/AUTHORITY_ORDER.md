@@ -58,16 +58,16 @@ Untuk setiap trigger awal/CONVO, lakukan ini dalam urutan persis berikut. Ini bu
 
 **B — Muat profil player.** Untuk sesi baru karakter terdaftar, buka `players.md` dan baca seluruh `players/<Nama>.md`. Jangan hanya mengambil nama atau profil ringkas. Untuk sesi berjalan, pilih profil gameplay terakhir beserta kejadian setelahnya; jangan menimpa state dengan snapshot awal.
 
-**C — Buka buku ekonomi milik karakter.** Cari `players/economy/<Nama>.md` dan baca seluruh ledger. Saldo Currency dan riwayat transaksi bersumber dari ledger ini. Jangan menyimpulkan saldo dari kalimat Assets, pendapatan masa lalu, atau ingatan model jika saldo resmi sudah tercatat.
+**C — Tetapkan sumber saldo Currency.** Untuk sesi baru, baca saldo eksplisit dari snapshot karakter di `players/<Nama>.md`; untuk sesi berlanjut/recall, gunakan saldo pada profil gameplay terakhir dan terapkan hanya transaksi sah yang terjadi setelahnya. `core/10_ECONOMY_SYSTEM.md` menetapkan aturan ekonomi, bukan saldo individual.
 
-- Jika ledger ada: pertahankan saldo persis dalam urutan `xc | xs | xg | zj | az`; setiap perubahan harus cocok dengan transaksi yang tercatat.
-- Jika ledger belum ada: gunakan `templates/PLAYER_ECONOMY_TEMPLATE.md`. Inisialisasi saldo dari catatan saldo eksplisit yang paling otoritatif di snapshot/riwayat; untuk Yuha, saldo awal yang tercatat adalah `18xc | 6xs | 2xg | 0zj | 0az`. Jangan menjadikan deskripsi aset atau penghasilan sebagai angka saldo tambahan.
-- Jika saldo tidak pernah ditetapkan: ikuti pengecualian bootstrap di `core/10_ECONOMY_SYSTEM.md`, tandai sebagai **estimasi saldo awal GM**, dan jangan mengklaim itu hasil transaksi masa lalu.
-- Jika GM tidak dapat menulis repository, ledger boleh diinisialisasi sebagai catatan sesi untuk menjaga konsistensi, tetapi jangan mengklaim file persisten sudah dibuat. Jangan lanjut dengan klaim seolah ledger telah disimpan di GitHub.
+- Pertahankan urutan mata uang `xc | xs | xg | zj | az` dan nilai saldo yang tercatat; jangan menebak dari Assets, pendapatan masa lalu, atau ingatan model.
+- Untuk Yuha, saldo awal yang tercatat adalah `18xc | 6xs | 2xg | 0zj | 0az`. Jangan menambahkan uang berdasarkan deskripsi pekerjaan atau aset.
+- Jika saldo awal karakter benar-benar belum ditetapkan, gunakan pengecualian bootstrap di `core/10_ECONOMY_SYSTEM.md` untuk menetapkan satu estimasi awal yang wajar dan beri label **estimasi saldo awal GM**. Ini bukan transaksi masa lalu.
+- Setelah saldo awal ditetapkan, jangan mengundi ulang saldo di giliran berikutnya. Setiap perubahan harus memiliki sebab, waktu, jumlah masuk/keluar, dan saldo akhir yang konsisten dengan transaksi yang benar-benar terjadi. Tidak ada ledger terpisah yang wajib dibuat atau diklaim tersimpan di GitHub.
 
-**D — Petakan data ke bagan.** Setelah A–C selesai, baca modul mekanik yang relevan dan isi setiap field pada tempat yang benar. Currency di profil harus sama persis dengan ledger; Assets hanya merangkum aset non-saldo; Inventory tidak boleh kehilangan barang; HP, Satiety, Qi, kondisi tubuh, relasi, serta catatan GM harus dipertahankan sesuai sumber. Nilai tidak diketahui tetap `???`, tetapi nilai yang tercatat tidak boleh diubah menjadi `???`.
+**D — Petakan data ke bagan.** Setelah A–C selesai, baca modul mekanik yang relevan dan isi setiap field pada tempat yang benar. Currency di profil harus konsisten dengan snapshot awal atau profil sesi terakhir setelah transaksi sah; Assets hanya merangkum aset non-saldo; Inventory tidak boleh kehilangan barang; HP, Satiety, Qi, kondisi tubuh, relasi, serta catatan GM harus dipertahankan sesuai sumber. Nilai tidak diketahui tetap `???`, tetapi nilai yang tercatat tidak boleh diubah menjadi `???`.
 
-**E — Validasi lalu mulai gameplay.** Sebelum mengirim respons, cek semua field dan ornamen terhadap template, cek Currency terhadap ledger, dan cek bahwa tidak ada transaksi/kejadian rekaan. Jika ada sumber wajib yang gagal diakses, jangan mengaku sudah membaca atau menganggap gate itu lolos. Mulai adegan langsung hanya setelah pemeriksaan selesai; jangan menampilkan laporan bootstrap.
+**E — Validasi lalu mulai gameplay.** Sebelum mengirim respons, cek semua field dan ornamen terhadap template, cek Currency terhadap saldo awal/profil sesi dan transaksi sah, serta pastikan tidak ada transaksi/kejadian rekaan. Jika ada sumber wajib yang gagal diakses, jangan mengaku sudah membaca atau menganggap gate itu lolos. Mulai adegan langsung hanya setelah pemeriksaan selesai; jangan menampilkan laporan bootstrap.
 
 ## 4. Resolusi Aksi
 

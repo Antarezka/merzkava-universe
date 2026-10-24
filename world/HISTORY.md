@@ -1,11 +1,11 @@
-# Xuanling Realm — World History
+# Merzkava Universe — World History
 
 **Status:** History framework with limited established chronology.  
 **Canon policy:** This file records known historical facts and distinguishes them from events whose dates or details remain unknown. It deliberately does not invent a complete ancient timeline.
 
 ## 1. Historical Certainty
 
-Xuanling Realm's current world canon includes:
+Merzkava Universe's current world canon includes:
 - Three major powers: Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu.
 - A world with a vast continent, connected seas, isolated northern territories, and Lawless Territories outside the direct jurisdiction of the major powers.
 - A Thinker tradition that originated in Tianhai Yunzhou.

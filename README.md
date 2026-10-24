@@ -52,7 +52,7 @@
 
 | FILE | DESCRIPTION |
 |---|---|
-| [Cultivation System](core/CULTIVATION_SYSTEM.md) | Realms, stages, Sync, bottlenecks, and breakthroughs |
+| [Cultivation System](core/CULTIVATION_SYSTEM.md) | Spirit Realms, stages, Sync, bottlenecks, and breakthroughs |
 | [Martial Soul Awakening](core/MARTIAL_SOUL_AWAKENING.md) | Awakening procedure, rarity, and mutations |
 | [Martial Soul](core/MARTIAL_SOUL.md) | Martial Soul forms, traits, and interpretation |
 | [Spirit Ring Rules](core/SPIRIT_RING_RULES.md) | Compatibility, absorption, Qi, PowerScale, and normal ring-acquisition routes |
@@ -63,7 +63,7 @@
 
 - [Combat System](gameplay/COMBAT_SYSTEM.md) — resolution, multi-hit attacks, combos, damage, and defense.
 - [Time & Action Rules](gameplay/TIME_AND_ACTION_RULES.md) — timestamps, action limits, sleep, and time skips.
-- [Hunger & Metabolism](core/HUNGER_AND_METABOLISM.md) — Satiety, meal timing, Realm effects, and metabolism.
+- [Hunger & Metabolism](core/HUNGER_AND_METABOLISM.md) — Satiety, meal timing, Spirit Spirit Realm effects, and metabolism.
 - [HP System](core/HP_SYSTEM.md) and [Injury System](core/INJURY_SYSTEM.md) — health, injury classes, and recovery.
 - [Cultivator Academies](core/CULTIVATOR_ACADEMIES.md) — academies and cultivator education.
 

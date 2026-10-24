@@ -1,4 +1,4 @@
-# Xuanling Realm — Hunger and Metabolism
+# Merzkava Universe — Hunger and Metabolism
 
 **Status:** Modul mekanik resmi.  
 **Cakupan:** Satiety, jadwal makan, pengurangan karena waktu aktif, tidur malam, Realm, kondisi tubuh, dan pengubah biologis/supranatural.

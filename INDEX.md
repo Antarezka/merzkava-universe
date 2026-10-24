@@ -64,7 +64,7 @@ Template percakapan player berada di `templates/PLAYER_CONVERSATION_TEMPLATE.md`
 - HP saat ini harus berasal dari profil terakhir atau kejadian yang tercatat; jangan otomatis menganggap HP penuh. Pemulihan HP umum belum memiliki laju numerik resmi di `core/HP_SYSTEM.md`.
 - HP dan injury adalah state terpisah: `core/HP_SYSTEM.md` mengatur HP, sedangkan `core/INJURY_SYSTEM.md` mengatur klasifikasi dan progres pemulihan cedera. Jangan memakai progres injury sebagai pemulihan HP atau sebaliknya.
 - Sync progress/cap kompatibilitas berbeda dari penguasaan kekuatan ring 100%; ikuti definisi di `core/SPIRIT_RING_RULES.md`.
-- `Breakthrough` dan `Day left` mengikuti definisi di `templates/CHARACTER_PROFILE_TEMPLATE.md`: Day left adalah sisa hari kalender dunia sampai jeda minimum antarpenyerapan berikutnya terpenuhi, bukan jaminan breakthrough siap. Jika data waktu/nomor ring tidak tersedia, gunakan `???`.
+- `Breakthrough` dan `Day left` mengikuti definisi di `templates/CHARACTER_PROFILE_TEMPLATE.md`: Day left menghitung sisa durasi hingga jeda minimum penyerapan berikutnya terpenuhi, dibulatkan ke atas dalam satuan 24 jam. Nilai nol bukan jaminan breakthrough siap. Jika data waktu/nomor ring tidak tersedia, gunakan `???`.
 - Perubahan Qi, ring, Realm, inventory, equipment, assets, Currency, luka, dan hubungan harus memiliki penyebab yang sah.
 - `players.md` adalah snapshot awal. Profil terakhir dan kejadian setelahnya adalah state sesi berjalan.
 - Informasi yang belum diketahui karakter ditulis `???` sesuai konteks. Jangan menciptakan rahasia besar, kemampuan, transaksi, atau kejadian masa lalu tanpa dasar.

@@ -5,7 +5,7 @@
 
 ## 1. Core Rules
 
-- Use this module for combat resolution, `core/SPIRIT_RING_RULES.md` for PowerScale/Qi, `core/HP_SYSTEM.md` for maximum HP, and `core/INJURY_SYSTEM.md` for injury classification and recovery.
+- Use this module for combat resolution, `core/SPIRIT_RING_RULES.md` for PowerScale/Qi, `core/HP_SYSTEM.md` for maximum HP, `core/INJURY_SYSTEM.md` for injury classification and recovery, `gameplay/TIME_AND_ACTION_RULES.md` for elapsed time, and `core/HUNGER_AND_METABOLISM.md` for Satiety.
 - PowerScale is a baseline comparison, not a guaranteed hit or victory.
 - A turn is a combatant's opportunity to perform **one declared action**, not a limit of one physical hit. One action may contain multiple strikes or a combo when the move, declared intent, and circumstances support them.
 - Use §5 for the default combo rule. Do not invent additional hits, damage bonuses, techniques, equipment, resource costs, or effects beyond that rule or a documented ability.
@@ -20,7 +20,7 @@ Follow this short sequence:
 2. **Action and feasibility:** Identify the declared action, its target, range, required ability, current resources, and whether the character can perform it in the current situation.
 3. **Compare combat readiness:** Use the PowerScale baseline and only relevant, evidenced advantages or disadvantages. Do not count the same advantage twice.
 4. **Resolve the action:** Determine hit/miss, defense, damage, and any documented special effect.
-5. **Update state:** Record HP/Qi or stamina changes, injuries, position, equipment, and elapsed time when they actually change. Stop at a natural decision point.
+5. **Update state:** Record HP/Qi or stamina changes, injuries, position, equipment, and elapsed time when they actually change. If awake time passes, resolve Satiety using `core/HUNGER_AND_METABOLISM.md`; if a protected night-sleep period occurs, keep Satiety locked for that period. Stop at a natural decision point.
 
 Initiative determines who acts first; it does not guarantee a hit. A defender may block, evade, counter, or be interrupted only when the situation and established abilities support it.
 
@@ -103,7 +103,7 @@ Tactics and technique may contribute, but do not silently replace all three cond
 
 ## 8. State and Missing Rules
 
-After each resolved action, update only changes caused by the action: current HP, usable Qi/stamina, injury, position, equipment, inventory, and time. When an injury appears or changes, use `core/INJURY_SYSTEM.md` for its class, recovery requirements, and progress. Do not restore HP, refill resources, or remove consequences without an established cause.
+After each resolved action, update only changes caused by the action: current HP, usable Qi/stamina, injury, position, equipment, inventory, and time. Resolve Satiety for elapsed awake time using `core/HUNGER_AND_METABOLISM.md`; do not reduce it during protected night sleep. When an injury appears or changes, use `core/INJURY_SYSTEM.md` for its class, recovery requirements, and progress. Do not restore HP, refill resources, or remove consequences without an established cause.
 
 If a rule or input is missing:
 - Do not invent numerical precision or claim an undefined rule is official.

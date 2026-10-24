@@ -34,7 +34,7 @@
 |---|---|
 | [World Overview](world/WORLD.md) | World foundations and the three major powers |
 | [Golden Dragon Empire Governance](world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md) | Civil hierarchy, central ministries, regional administration, military command, and information-storage rules |
-| [Golden Dragon Empire Administrative Atlas](world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md) | Named prefectures and counties, regional seats, and administrative counts |
+| [Golden Dragon Empire Administrative Atlas](world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md) | Revised register of 33 prefectures, 268 counties, 361 cities, 1,838 towns, and 22 named rural villages |
 | [Map & Regions](world/MAP_AND_REGIONS.md) | Regional index and geographic knowledge boundaries |
 | [Geography & Travel](world/GEOGRAPHY_AND_TRAVEL.md) | Terrain, transportation, travel, and route information |
 | [Wanluo Sacred Expanse](world/WANLUO_SACRED_EXPANSE.md) | World Knowledge Tower region, pilgrimage roads, districts, and Ordo Suci Tianming |

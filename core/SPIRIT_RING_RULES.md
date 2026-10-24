@@ -19,7 +19,7 @@ Spirit Ring diperoleh melalui Spirit Beast dan proses perolehan yang sah.
 
 ## 1.1 Normal Routes for Obtaining a Spirit Ring
 
-After a character has awakened their Martial Soul, a first Spirit Ring may be pursued through one of three broad routes. These are ways to find and hunt a suitable Spirit Beast; they do **not** replace the official compatibility, absorption, breakthrough, or time rules elsewhere in this module.
+After a character has awakened their Martial Soul, a first or later Spirit Ring may be pursued through one of three broad routes. These are ways to find and hunt a suitable Spirit Beast; they do **not** replace the official compatibility, absorption, breakthrough, or time rules elsewhere in this module.
 
 ### Route A — Academy Supervised Field Expedition (Safe Route)
 

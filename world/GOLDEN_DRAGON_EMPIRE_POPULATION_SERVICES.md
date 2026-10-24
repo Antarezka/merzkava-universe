@@ -20,10 +20,24 @@ This register fills selected missing *institution names and locations* for the E
 ## 2. Population and access principles
 
 - The Empire's **320 million** remains a planning baseline, not a precise census known to every resident. Regional totals and counts remain in the atlas.
-- The bank, information exchange, and Medicine Hall Society have broader service registers; the two academies are both in Huanglongcheng, while only three Ordo public libraries are named here. No institution is presumed to exist in every prefecture or settlement. Travel time, local capacity, and security still affect access.
+- The two academies are both in Huanglongcheng; only three Ordo public libraries are named here. Banks, Exchange offices, and Medicine Hall Society service points are **not equally capable everywhere**: a listed branch is not a promise of capital-city service, specialist staff, large reserves, or immediate assistance.
+- Development follows a center-to-periphery gradient. Huanglongcheng and the Longyuan core have the broadest selection of services, skilled staff, infrastructure, and reliable access. Major regional seats provide useful but narrower services. Remote rural areas may have no permanent branch at all and depend on travelling traders, local practitioners, family networks, or occasional service visits.
+- Broad service tiers: **Longyuan** — flagship and most complete; **Canglan and Tianfeng** — strong regional hubs with more limited rural reach; **Jinyue, Yanling, and Xingluo** — capable specialist hubs around mines, furnaces, and ports but uneven inland coverage; **Baiyue** — frontier-limited service, smaller stocks, fewer specialists, and slower support away from garrison routes. Prosperous trade enclaves may be exceptions within otherwise neglected regions.
 - One listed institution does not mean it has unlimited funds, staff, stock, or influence. Branch staffing, opening hours, service fees, individual workers, and local operating conditions remain scene-level details until established.
 - A branch's presence does not mean the governor, prefect, clan, or local military commands it. Institutional governance and civil authority remain separate.
 - The roster names public-facing institutions. Secret facilities, hidden branches, internal ranks, and restricted archives are not added here.
+
+
+### Regional service gradient for all listed networks
+
+| Tier | Area | Expected availability |
+|---|---|---|
+| Core | Huanglongcheng and the Longyuan heartland | Broadest hours and services, deeper staff and stock, easiest access to central authorities and specialist referrals |
+| Inner regional hubs | Canglan and Tianfeng regional seats and main corridors | Reliable core services in major seats; noticeably thinner availability outside principal routes |
+| Outer specialist hubs | Jinyue, Yanling, and Xingluo major mining, furnace, and port centers | Strong services tied to local industries; fewer general services and uneven coverage in remote hinterlands |
+| Frontier periphery | Baiyue, especially remote passes and rural settlements | Basic or intermittent services, smaller stocks, fewer specialists, and slower resupply; defense routes may receive priority over ordinary civilian needs |
+
+A service point in a prefectural seat does not mean its surrounding villages have a branch. In remote settlements, access may require travel to the seat or waiting for a travelling provider. Treat individual availability as a scene-level fact rather than assuming uniform national coverage.
 
 ## 3. Ninefold Concord Bank — prefectural branch network
 

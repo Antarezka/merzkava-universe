@@ -59,13 +59,13 @@ The broad social layers—elite, established middle class, lower-income commoner
 
 ### What this inequality looks like in everyday life
 
-- **Commoners:** most day-to-day transactions are in Cova (`cv`) and Mova (`mv`). Even silver can be important enough to budget carefully. A commoner holding Yova (`yv`) may attract attention, suspicion, envy, or theft risk; it is not a routine pocket coin for ordinary people.
-- **Yova:** 1 yv equals 100 mv under the official exchange rate. For many ordinary households, a single gold coin represents a substantial store of value rather than casual spending money.
+- **Commoners:** most day-to-day transactions are in Cova (`cv`) and Mova (`mv`). Even Mova can be important enough to budget carefully. A commoner holding Yova (`yv`) may attract attention, suspicion, envy, or theft risk; it is not a routine pocket coin for ordinary people.
+- **Yova:** 1 yv equals 1,000 mv under the official exchange rate. For many ordinary households, a single Yova coin represents a substantial store of value rather than casual spending money.
 - **Xenha:** 1 Xenha (`xh`) equals 1,000 yv. An ordinary person suddenly producing a Xenha is extraordinary and likely to draw scrutiny. It can trigger rumors about hidden patronage, a windfall, theft, or a dangerous background; it does not automatically prove any one explanation.
 - **Rulers and elite lineages:** hold concentrated treasuries, estates, tribute, rare assets, and political-economic leverage. Their wealth is often collective or state-controlled, not entirely personal spending money.
 - **High-tier clans and sects:** possess accumulated reserves, territory, businesses, rare materials, and assets built over generations. Their economic power can dwarf that of entire ordinary towns.
 - **Major trade guilds and banks:** control huge flows of capital, credit, deposits, logistics, and access to distant markets. The value they administer is not necessarily all their own equity; use the primary-holder ledger consistently to prevent double counting.
-- **Exceptions:** a poor-looking traveler may be secretly wealthy, and a commoner may inherit or earn a gold coin. Such exceptions are possible but unusual and should have a credible source; do not treat them as the norm.
+- **Exceptions:** a poor-looking traveler may be secretly wealthy, and a commoner may inherit or earn a Yova coin. Such exceptions are possible but unusual and should have a credible source; do not treat them as the norm.
 
 Currency conversion rates do not change because a person is poor. Social inequality is expressed through access, savings, credit, property, opportunities, and risk—not through a different official exchange rate for each social class.
 

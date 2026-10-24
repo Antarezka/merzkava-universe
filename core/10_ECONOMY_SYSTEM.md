@@ -141,3 +141,7 @@ The destination examples carry the same source-scarcity surcharge for illustrati
 6. When an exact price cannot be derived because an essential input is unknown, state the missing input or provide a clearly labeled estimate rather than pretending the value is fixed canon.
 7. Keep the character profile's currency balances in the required compact format: `Currency (xuan/zun): ...xc | ...xs | ...xg | ...zj | ...az`.
 8. The currency abbreviations defined in §1 are official. The character profile template must not duplicate their definitions.
+
+## 8. Global Wealth Distribution
+
+The world-level baseline total and its territorial and holder-channel allocations are defined in `world/WEALTH_DISTRIBUTION.md`. That module provides two views of the same 400.463.763.789.849 xg total; never add the two tables together. This module remains the authority for exchange rates, prices, scarcity, transactions, and character currency balances. The global wealth tables do not establish the exact balance of any named character or organization.

@@ -25,12 +25,12 @@ Emperor
         └── 46 Prefectures
             └── 276 Counties
                 ├── Cities and Towns
-                └── Townships / District Offices
-                    └── 50,000 Villages / Neighborhoods
+                └── Townships / District Offices (number not established)
+                    └── Named villages / neighborhoods in the official atlas
                         └── Household Register (lowest population register)
 ```
 
-The Empire's initial administrative register contains **7 regions, 46 prefectures, 276 counties, 368 cities, 1,840 towns, 9,200 township/district offices, and 50,000 villages/neighborhoods**. See the atlas for the regional distribution and named prefectures. A major city may be administered directly at prefectural or central level, so city totals are not a strict additional rung in every county's chain.
+The administrative atlas establishes **7 regions, 46 prefectures, 276 counties, 368 cities, and 1,840 towns** as the current planning register. The atlas names **four roleplay-anchor villages per region (28 total)**; this is not a census of every village or neighborhood. The previous totals of 9,200 township/district offices and 50,000 villages/neighborhoods are not current canon and must not be reused. The number of township/district offices remains unestablished. See the atlas for regional distribution and named prefectures. A major city may be administered directly at prefectural or central level, so city totals are not a strict additional rung in every county's chain.
 
 ### 2.1 Emperor
 

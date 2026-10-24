@@ -3,7 +3,7 @@ MERZKAVA UNIVERSE — WORLD LORE & POLITICAL ATLAS
 «Document Type: Core Worldbuilding
 Status: Canon Foundation
 Scope: World Powers, Territories, Factions, Political Relations, Medicine Hall Society, Population, and Ruling Powers
-Related Modules: "world/MAP_AND_REGIONS.md", "world/FACTIONS.md", "world/HISTORY.md", "world/ARTIFACTS_AND_RELICS.md", "world/ARTIFICIAL_ARTIFACTS.md", "world/SOCIAL_STRATIFICATION.md", "world/WEALTH_DISTRIBUTION.md", "world/GEOGRAPHY_AND_TRAVEL.md", "world/WANLUO_SACRED_EXPANSE.md", "world/INTELLIGENT_PEOPLES.md", "core/CULTIVATION_SYSTEM.md", "core/MARTIAL_SOUL.md", "core/SPIRIT_RING_RULES.md", "bestiary/SPIRIT_BEAST_RULES.md". WORLD.md remains the primary source for established world lore; each related module handles its stated scope. A listed path does not override the module itself or turn provisional details into confirmed canon.»
+Related Modules: "world/MAP_AND_REGIONS.md", "world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md", "world/FACTIONS.md", "world/HISTORY.md", "world/ARTIFACTS_AND_RELICS.md", "world/ARTIFICIAL_ARTIFACTS.md", "world/SOCIAL_STRATIFICATION.md", "world/WEALTH_DISTRIBUTION.md", "world/GEOGRAPHY_AND_TRAVEL.md", "world/WANLUO_SACRED_EXPANSE.md", "world/INTELLIGENT_PEOPLES.md", "core/CULTIVATION_SYSTEM.md", "core/MARTIAL_SOUL.md", "core/SPIRIT_RING_RULES.md", "bestiary/SPIRIT_BEAST_RULES.md". WORLD.md remains the primary source for established world lore; each related module handles its stated scope. A listed path does not override the module itself or turn provisional details into confirmed canon.»
 
 ---
 
@@ -763,3 +763,8 @@ Four principal functional settlement districts are recognized: the Pilgrim Distr
 The region's authority is divided by function: regional administration handles civil matters; a Tower administration council handles matters directly concerning the relic; and Ordo Suci Tianming oversees its own religious institutions and its mandate to monitor high-level anomalies, walking calamities, and threats to the world's continued survival. These authorities may cooperate but none automatically has unlimited control over the others. See `world/WANLUO_SACRED_EXPANSE.md` for the full current design, district functions, access rules, religious headquarters, and consistency constraints.
 
 Ordo Suci Tianming is the world's largest religious organization by follower count in the current setting and is trusted by many powerful individuals and institutions. Its central headquarters is the Sanctum of Ten Thousand Vows, a dedicated religious complex within Wanluo but separate from the World Knowledge Tower. The complex includes a Great Hall of Vows, World Observation Archive, Observation Tower, Threat Assessment Hall, Order Response Compound, and public pilgrim facilities. Its formal doctrine, founder, leader, hierarchy, and founding date remain unestablished.
+
+
+## Golden Dragon Empire — Governance Reference
+
+The Empire-wide civil hierarchy, central ministries, regional administration, oversight framework, separate military chain of command, and rules for storing government information are defined in `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`. The seven established regions remain regional identities; the governance module does not establish unrecorded borders, unit counts, or officeholders.

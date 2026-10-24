@@ -54,7 +54,15 @@ Use `core/THINKER_AND_FORMULATION.md` for all production mechanics. In particula
 
 This file is a catalog and lore reference, not a second crafting system.
 
-## 5. Artifact Entry Template
+## 5. Formation Engraver Reference
+
+The Formation Engraver is the specialized precision tool used to carve intricate formation patterns into Artificial Artifact base materials. Its general shape resembles a surgical scalpel, with an exceptionally fine working tip. The relationship between smaller patterns and greater technical difficulty is analogous to semiconductor fabrication: miniaturization and pattern density demand greater precision. This is an analogy, not a claim that the artifacts use modern computer-chip technology.
+
+Manufacturing the tool is exceptionally difficult and requires a capable blacksmith/forger with Cultivation Realm 5 or higher and relevant forging ability. The tool is expensive; exact prices, tip dimensions, quality grades, durability, and repair costs remain `???`.
+
+For the authoritative requirements, limitations, and GM rules, see `core/THINKER_AND_FORMULATION.md`, §12. This catalog does not establish a separate crafting system.
+
+## 6. Artifact Entry Template
 
 ```markdown
 ### AAF-XXX — [Artifact Name]
@@ -75,7 +83,7 @@ This file is a catalog and lore reference, not a second crafting system.
 - **Source:** [Official module or recorded discovery]
 ```
 
-## 6. Use in Roleplay
+## 7. Use in Roleplay
 
 - A character cannot use an artifact solely because its existence is mentioned in lore; ownership, access, activation, and relevant knowledge must be established.
 - An artifact's function must be relevant to the declared action.
@@ -84,7 +92,7 @@ This file is a catalog and lore reference, not a second crafting system.
 - Artifact creation, transfer, damage, repair, and activation must have a valid cause and be reflected in the session state where relevant.
 - If an artifact's properties are not documented, keep them unknown instead of improvising canon.
 
-## 7. Relationship to Other Modules
+## 8. Relationship to Other Modules
 
 - `core/THINKER_AND_FORMULATION.md` — production rules and chance matrix.
 - `world/ARTIFACTS_AND_RELICS.md` — artifact origin categories and provenance.

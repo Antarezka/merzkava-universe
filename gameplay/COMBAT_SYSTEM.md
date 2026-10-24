@@ -1,4 +1,4 @@
-# Xuanling Realm — Combat System
+# Merzkava Universe — Combat System
 
 **Status:** Combat baseline v1.  
 **Purpose:** Give the GM one repeatable method for resolving varied fights without inventing abilities or overloading every scene with calculations.

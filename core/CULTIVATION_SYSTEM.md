@@ -1,17 +1,17 @@
 # Merzkava Universe — Cultivation System
 
 Status: Modul mekanik resmi.
-Cakupan: Realm, Stage, Sync progress, bottleneck, breakthrough, dan slot Spirit Ring.
+Cakupan: Spirit Realm, Stage, Sync progress, bottleneck, breakthrough, dan slot Spirit Ring.
 
 Modul ini hanya menetapkan aturan yang telah disepakati. Angka pertumbuhan kekuatan, biaya Qi, durasi latihan, dan rumus kompatibilitas yang belum ditetapkan tidak boleh dibuat seolah-olah merupakan aturan resmi.
 
 ---
 
-## 1. Sembilan Realm Kultivasi
+## 1. Sembilan Spirit Realm
 
-Setiap Realm memiliki empat Stage: Early (Awal), Middle (Menengah), Late (Akhir), dan Peak (Puncak).
+Setiap Spirit Realm memiliki empat Stage: Early (Awal), Middle (Menengah), Late (Akhir), dan Peak (Puncak).
 
-| Urutan | Realm | Jumlah slot Spirit Ring setelah slot Realm itu terbuka |
+| Urutan | Spirit Realm | Jumlah slot Spirit Ring setelah slot Spirit Realm itu terbuka |
 |---:|---|---:|
 | 1 | Spirit Initiate | 1 |
 | 2 | Spirit Adept | 2 |
@@ -23,9 +23,9 @@ Setiap Realm memiliki empat Stage: Early (Awal), Middle (Menengah), Late (Akhir)
 | 8 | Spirit Sovereign | 8 |
 | 9 | Spirit Primordial | 9 |
 
-Satu Realm memberikan satu slot Spirit Ring, sehingga batas normal sistem ini adalah sembilan slot pada Realm kesembilan. Urutan Realm 1–9 yang kanonis adalah Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, dan Spirit Primordial. Nama ini harus dipertahankan secara konsisten di seluruh repository. Jangan menambahkan Realm kesepuluh atau slot tambahan tanpa revisi canon oleh pemilik.
+Setiap Spirit Realm memberikan satu slot Spirit Ring, sehingga batas normal sistem ini adalah sembilan slot pada Spirit Realm kesembilan. Urutan Spirit Realm 1–9 yang kanonis adalah Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, dan Spirit Primordial. Nama ini harus dipertahankan secara konsisten di seluruh repository. Jangan menambahkan Spirit Realm kesepuluh atau slot tambahan tanpa revisi canon oleh pemilik.
 
-Nama dan jumlah slot menunjukkan struktur kultivasi, bukan jaminan bahwa dua orang dalam Realm yang sama memiliki kekuatan tempur identik.
+Nama dan jumlah slot menunjukkan struktur kultivasi, bukan jaminan bahwa dua orang dalam Spirit Realm yang sama memiliki kekuatan tempur identik.
 
 ## 2. Martial Soul dan Awakening
 
@@ -33,11 +33,11 @@ Martial Soul adalah bentuk kekuatan utama seseorang. Bentuknya dapat berupa, mis
 
 Awakening Martial Soul berlangsung pada usia empat tahun atau lebih. Awakening mengungkap Martial Soul, tetapi tidak otomatis memberikan Spirit Ring pertama.
 
-**Mortal adalah status dasar sebelum memasuki sembilan Spirit Realm. Mortal yang telah mengalami Awakening Martial Soul boleh menyerap Spirit Ring pertama; tidak ada syarat Realm atau bottleneck tambahan untuk ring pertama selain Awakening dan persyaratan penyerapan yang memang berlaku.** Awakening saja tidak otomatis memberikan ring: ring tetap harus tersedia melalui proses yang sah dan proses penyerapannya harus benar-benar berhasil. Mortal yang belum Awakening tidak dapat menyerap Spirit Ring pertama.
+**Mortal adalah status dasar sebelum memasuki sembilan Spirit Realm. Mortal yang telah mengalami Awakening Martial Soul boleh menyerap Spirit Ring pertama; tidak ada syarat Spirit Realm atau bottleneck tambahan untuk ring pertama selain Awakening dan persyaratan penyerapan yang memang berlaku.** Awakening saja tidak otomatis memberikan ring: ring tetap harus tersedia melalui proses yang sah dan proses penyerapannya harus benar-benar berhasil. Mortal yang belum Awakening tidak dapat menyerap Spirit Ring pertama.
 
 ## 3. Progres dan Empat Stage
 
-Gunakan urutan Stage berikut di dalam setiap Realm:
+Gunakan urutan Stage berikut di dalam setiap Spirit Realm:
 
 1. Early (Awal)
 2. Middle (Menengah)
@@ -69,10 +69,10 @@ Jeda minimum antar-ring: Ring 1→2 = 2 minggu; Ring 2→3 = 1 bulan; Ring 3→4
 
 Jika percobaan dilakukan terlalu jauh dari cap atau sebelum jeda minimum, terapkan deviasi sesuai modul resmi: cap kompatibilitas ring berikutnya berkurang, HP menerima damage, dan kondisi tubuh mengalami cedera. Tingkat deviasi meningkat seiring jarak dari cap atau besarnya pelanggaran jeda. Jika rumus numerik belum tersedia, nyatakan dampak dan tingkat deviasi tanpa mengarang angka damage atau persentase pengurangan cap.
 
-Penyerapan Spirit Ring, Kultivasi, dan menerobos adalah proses berbeda. Realm dan slot baru hanya diperbarui setelah seluruh syarat dan proses resmi benar-benar berhasil. Jika aturan tambahan seperti durasi, biaya, atau hasil parsial belum ditetapkan, jangan mengarangnya.
+Penyerapan Spirit Ring, Kultivasi, dan menerobos adalah proses berbeda. Spirit Realm dan slot baru hanya diperbarui setelah seluruh syarat dan proses resmi benar-benar berhasil. Jika aturan tambahan seperti durasi, biaya, atau hasil parsial belum ditetapkan, jangan mengarangnya.
 ## 5. Spirit Ring dan Slot
 
-- Jumlah slot mengikuti Realm: Realm 1 menyediakan satu slot, Realm 2 dua slot, dan seterusnya hingga sembilan slot pada Realm 9.
+- Jumlah slot mengikuti Spirit Realm: Spirit Realm 1 menyediakan satu slot, Spirit Realm 2 dua slot, dan seterusnya hingga sembilan slot pada Spirit Realm 9.
 - Slot yang tersedia tidak berarti slot tersebut sudah terisi.
 - Setiap Spirit Ring harus memiliki asal-usul dan proses perolehan yang sah.
 - Kemampuan yang diberikan oleh sebuah Spirit Ring harus memiliki dasar dari Beast yang bersangkutan dan aturan resmi yang tersedia.
@@ -108,7 +108,7 @@ Penaklukan Spirit Beast dan proses penyerapan Spirit Ring adalah bagian yang ber
 ## 7. Konsistensi dengan WORLD.md
 
 - WORLD.md adalah acuan utama untuk lore dan fakta dunia yang sudah ditetapkan.
-- Tiga penguasa utama yang tercatat di WORLD.md berada di Realm 9 — Spirit Primordial; Stage masing-masing harus mengikuti WORLD.md: Emperor berada di Middle, sedangkan Maharaja dan Leluhur Utara berada di Early.
+- Tiga penguasa utama yang tercatat di WORLD.md berada di Spirit Realm 9 — Spirit Primordial; Stage masing-masing harus mengikuti WORLD.md: Emperor berada di Middle, sedangkan Maharaja dan Leluhur Utara berada di Early.
 - Konfigurasi Spirit Ring para penguasa di WORLD.md berstatus rancangan kanon awal. Pertahankan usia ring dan status warna yang tertulis; jangan mengubah `Undefined` menjadi warna baru.
 - Warna Spirit Ring untuk usia 500.000 tahun ke atas belum ditetapkan, walaupun WORLD.md mencantumkan ring dengan usia tersebut.
 - Jika tabel umum sistem dan konfigurasi karakter spesifik tampak berbeda, pertahankan fakta spesifik yang tercatat di WORLD.md dan tandai konflik untuk ditinjau; jangan diam-diam mengubah lore.
@@ -122,4 +122,4 @@ Penaklukan Spirit Beast dan proses penyerapan Spirit Ring adalah bagian yang ber
 5. Jangan mengklaim membaca modul yang belum tersedia.
 6. Jangan menciptakan rumus, statistik, peluang, bonus, atau pengecualian baru sebagai canon.
 7. Jika suatu aksi memerlukan aturan rinci yang belum ditetapkan, jelaskan keterbatasannya dan selesaikan hanya bagian yang didukung sumber.
-8. Profil karakter harus mencerminkan Realm, Stage, dan progres. Jangan menambahkan field terpisah untuk Spirit Ring; jumlah slot mengikuti Realm, sementara informasi ring yang telah diperoleh—sumber, usia, warna, kemampuan, dan hasil proses yang diketahui—dicatat dalam bagian Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada. Jangan mengisi slot atau menaikkan Realm tanpa proses yang sah.
+8. Profil karakter harus mencerminkan Spirit Realm, Stage, dan progres. Jangan menambahkan field terpisah untuk Spirit Ring; jumlah slot mengikuti Spirit Realm, sementara informasi ring yang telah diperoleh—sumber, usia, warna, kemampuan, dan hasil proses yang diketahui—dicatat dalam bagian Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada. Jangan mengisi slot atau menaikkan Spirit Realm tanpa proses yang sah.

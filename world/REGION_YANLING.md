@@ -39,12 +39,18 @@ Prefectures and seats:
 The administrative atlas is authoritative for names and totals. This regional file is the place to expand individual settlement descriptions, local institutions, officeholders, NPCs, and confirmed local events. Do not infer exact borders or travel times from the jurisdiction list alone.
 
 ## 3. Settlements and Points of Interest
-- Belum ditetapkan
 
-For each settlement or site, fill in details only when confirmed:
-| Name | Type | Description | Authority / control | Source / status |
-|---|---|---|---|---|
-| Belum ditetapkan | — | — | — | — |
+The prefecture seats listed below are established by `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. Detailed districts, neighborhoods, roads, markets, and individual buildings remain to be developed.
+
+| Settlement | Type | Established role | Authority / status |
+|---|---|---|---|
+| Honglu | City / prefecture seat | Seat of Red Furnace Prefecture | Imperial civil administration; local detail pending |
+| Huifeng | City / prefecture seat | Seat of Ashen Peak Prefecture | Imperial civil administration; local detail pending |
+| Rongjiang | City / prefecture seat | Seat of Molten River Prefecture | Imperial civil administration; local detail pending |
+| Heitie | City / prefecture seat | Seat of Black Anvil Prefecture | Imperial civil administration; local detail pending |
+| Huoshi | City / prefecture seat | Seat of Emberstone Prefecture | Imperial civil administration; local detail pending |
+| Yanpen | City / prefecture seat | Seat of Flame Basin Prefecture | Imperial civil administration; local detail pending |
+
 
 ## 4. Local Society and Daily Life
 - Peoples and population: Belum ditetapkan

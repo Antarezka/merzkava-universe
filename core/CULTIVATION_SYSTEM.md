@@ -72,7 +72,7 @@ Jika percobaan dilakukan terlalu jauh dari cap atau sebelum jeda minimum, terapk
 Penyerapan Spirit Ring, Kultivasi, dan menerobos adalah proses berbeda. Spirit Realm dan slot baru hanya diperbarui setelah seluruh syarat dan proses resmi benar-benar berhasil. Jika aturan tambahan seperti durasi, biaya, atau hasil parsial belum ditetapkan, jangan mengarangnya.
 ## 5. Spirit Ring dan Slot
 
-- Jumlah slot mengikuti Spirit Realm: Spirit Realm 1 menyediakan satu slot, Spirit Realm 2 dua slot, dan seterusnya hingga sembilan slot pada Spirit Realm 9.
+- Jumlah slot mengikuti urutan Spirit Realm: Spirit Initiate (tingkat 1) menyediakan satu slot, Spirit Adept (tingkat 2) dua slot, dan seterusnya hingga Spirit Primordial (tingkat 9) menyediakan sembilan slot.
 - Slot yang tersedia tidak berarti slot tersebut sudah terisi.
 - Setiap Spirit Ring harus memiliki asal-usul dan proses perolehan yang sah.
 - Kemampuan yang diberikan oleh sebuah Spirit Ring harus memiliki dasar dari Beast yang bersangkutan dan aturan resmi yang tersedia.

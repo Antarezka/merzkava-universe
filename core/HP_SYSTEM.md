@@ -8,8 +8,8 @@ Cakupan: HP maksimum berdasarkan Spirit Realm dan Stage, format HP, serta pencat
 - Mortal memiliki HP maksimum **100**.
 - Spirit Primordial/Stage 4 (Peak) memiliki HP maksimum **8.950**.
 - HP ditulis sebagai **HP saat ini / HP maksimum**, misalnya `HP: 100/100`.
-- HP maksimum ditentukan oleh Realm dan Stage pada tabel resmi di bawah.
-- HP saat ini berubah hanya karena kejadian gameplay yang sah, misalnya menerima damage atau pemulihan yang memiliki dasar. Naik Realm atau Stage menaikkan batas maksimum sesuai tabel, tetapi **tidak otomatis memulihkan HP saat ini hingga penuh**.
+- HP maksimum ditentukan oleh Spirit Realm dan Stage pada tabel resmi di bawah.
+- HP saat ini berubah hanya karena kejadian gameplay yang sah, misalnya menerima damage atau pemulihan yang memiliki dasar. Naik Spirit Realm atau Stage menaikkan batas maksimum sesuai tabel, tetapi **tidak otomatis memulihkan HP saat ini hingga penuh**.
 - **Jika HP saat ini mencapai 0, karakter mati.** Kematian bersifat permanen kecuali mekanik resmi yang sudah ditetapkan secara eksplisit menyatakan sebaliknya. HP 0 bukan sekadar pingsan atau kondisi sekarat; jangan mengubahnya menjadi status lain tanpa dasar mekanik resmi.
 - **Modul ini belum menetapkan laju numerik pemulihan HP umum.** Istirahat, tidur, makanan, obat, tabib, teknik, atau artefak tidak boleh diberi angka pemulihan HP tanpa aturan atau efek terdokumentasi. GM boleh mencatat pemulihan naratif yang jelas didukung sumber/kejadian, tetapi tidak boleh mengarang angka atau durasi sebagai aturan resmi.
 - Progres pemulihan injury di `core/INJURY_SYSTEM.md` hanya memulihkan cedera yang dicatat; progres tersebut tidak mengisi HP. Sebaliknya, HP yang pulih tidak otomatis mengurangi progres injury.
@@ -35,7 +35,7 @@ Mortal bukan salah satu dari sembilan Spirit Realm. Gunakan `Mortal/0` pada prof
 
 ## 3. Formula Interpolasi Stage
 
-Untuk setiap Realm, gunakan HP Peak Realm itu sebagai batas maksimum (H_max) dan HP Peak Realm sebelumnya sebagai batas dasar (H_prev). Untuk Spirit Initiate, H_prev = 100 (Mortal). Untuk Realm berikutnya, H_prev adalah HP Peak Realm sebelumnya.
+Untuk setiap Spirit Realm, gunakan HP Peak Spirit Realm itu sebagai batas maksimum (H_max) dan HP Peak Spirit Realm sebelumnya sebagai batas dasar (H_prev). Untuk Spirit Initiate, H_prev = 100 (Mortal). Untuk Spirit Realm berikutnya, H_prev adalah HP Peak Spirit Realm sebelumnya.
 
 Hitung selisih:
 
@@ -50,7 +50,7 @@ Kemudian:
 
 Gunakan pembulatan ke bilangan bulat terdekat. Jika hasil tepat berada di antara dua bilangan bulat, bulatkan ke atas. Tabel pada §2 adalah nilai rujukan final; gunakan angka tabel jika ada perbedaan akibat pembulatan.
 
-Batas HP Peak per Realm:
+Batas HP Peak per Spirit Realm:
 - Mortal: 100
 - Spirit Initiate: 300
 - Spirit Adept: 600
@@ -65,17 +65,17 @@ Batas HP Peak per Realm:
 ## 4. Format dan Validasi Profil
 
 - Format wajib: `HP: saat_ini/maksimum`.
-- Jika Realm/Stage diketahui, isi HP maksimum dari tabel.
-- **Inisialisasi sesi baru:** jika snapshot karakter tidak mencatat HP saat ini, tetapkan HP awal sama dengan maksimum yang berlaku pada Realm/Stage tersebut. Contoh: Mortal tanpa HP awal tercatat menjadi `HP: 100/100`, bukan `HP: ???/100`.
+- Jika Spirit Realm/Stage diketahui, isi HP maksimum dari tabel.
+- **Inisialisasi sesi baru:** jika snapshot karakter tidak mencatat HP saat ini, tetapkan HP awal sama dengan maksimum yang berlaku pada Spirit Realm/Stage tersebut. Contoh: Mortal tanpa HP awal tercatat menjadi `HP: 100/100`, bukan `HP: ???/100`.
 - **Sesi berjalan:** pertahankan HP saat ini dari profil gameplay terakhir dan terapkan hanya perubahan yang sah. Jika profil sesi berjalan tidak memuat nilai HP saat ini dan tidak ada riwayat untuk memulihkannya, isi `0` sebagai nilai numerik yang belum tersedia; jangan gunakan `???`.
-- Jika Realm/Stage belum diketahui, gunakan `HP: 0/0` sampai Realm/Stage dapat ditetapkan. Jangan gunakan `???` untuk nilai HP.
+- Jika Spirit Realm/Stage belum diketahui, gunakan `HP: 0/0` sampai Spirit Realm/Stage dapat ditetapkan. Jangan gunakan `???` untuk nilai HP.
 - Jangan memulihkan HP ke penuh pada sesi berjalan tanpa penyebab sah. Pengecualian hanya inisialisasi sesi baru ketika snapshot tidak mencatat HP saat ini: gunakan maksimum yang berlaku sebagai HP awal.
 - Nilai HP saat ini tidak boleh melebihi maksimum. Jika riwayat atau input bertentangan, tandai konflik dan jangan diam-diam mengubah HP.
-- Saat Realm/Stage berubah, perbarui angka maksimum sesuai tabel, tetapi pertahankan HP saat ini yang tercatat sampai ada perubahan yang sah.
+- Saat Spirit Realm/Stage berubah, perbarui angka maksimum sesuai tabel, tetapi pertahankan HP saat ini yang tercatat sampai ada perubahan yang sah.
 
 ## 5. Konsistensi
 
-- Gunakan `core/CULTIVATION_SYSTEM.md` untuk memastikan Realm dan Stage yang sah.
+- Gunakan `core/CULTIVATION_SYSTEM.md` untuk memastikan Spirit Realm dan Stage yang sah.
 - Gunakan modul pertarungan resmi jika tersedia untuk menentukan damage, pertahanan, dan hasil pertarungan. Tabel ini sendiri tidak menetapkan angka damage.
 - Gunakan `core/INJURY_SYSTEM.md` untuk progres cedera; jangan memakai laju progres injury sebagai laju pemulihan HP.
 - Jangan menafsirkan Mortal sebagai bukti bahwa Martial Soul belum awakening.

@@ -9,6 +9,7 @@ File ini adalah **indeks karakter terdaftar**, bukan tempat menyimpan perkembang
 - File registry dan file karakter individual adalah data awal statis. Jangan mengeditnya selama gameplay tanpa permintaan eksplisit pemilik repository.
 - Pertahankan latar belakang orisinal karakter. Jangan mengarang rahasia inti, garis keturunan, artefak langka, atau teknik formal tanpa dasar.
 - Untuk karakter yang belum memiliki data praktis, estimasi awal yang wajar harus ditandai sebagai estimasi GM dan tidak boleh disamarkan sebagai canon.
+- Aturan placeholder profil: `???` hanya untuk identitas karakter yang benar-benar tidak dikenal atau nama Martial Soul yang belum diketahui. Field numerik yang belum tercatat diisi `0`, kecuali HP sesi baru mengikuti maksimum pada `core/HP_SYSTEM.md`; `Day left` yang tidak bisa dihitung ditulis `Belum ditetapkan`. Field nonnumerik lain yang belum ditetapkan ditulis `Belum ditetapkan` atau `Tidak ada` jika memang diketahui tidak ada.
 - Jika snapshot karakter dibuat sebelum field Satiety ditambahkan, jangan menganggap nilainya otomatis 100. Tetapkan nilai awal secara wajar sebagai estimasi GM pada sesi baru, lalu gunakan `core/HUNGER_AND_METABOLISM.md`; jangan mengubah file karakter individual hanya untuk mengisi state sesi.
 
 ## Daftar Karakter

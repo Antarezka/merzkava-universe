@@ -180,3 +180,44 @@ Narration alone does not guarantee success. The GM may not invent bonuses or exc
 Combat resolution is governed by `gameplay/COMBAT_SYSTEM.md`, not by the production-chance matrix in §5. The matrix determines the baseline chance to manufacture an Artificial Artifact; it is not an attack-hit chance, damage value, or combat multiplier.
 
 During combat, the GM may use an Artificial Artifact only if ownership/access, tier, condition, and the relevant function are established. Apply documented artifact functions to the relevant combat step. The tier comparison modifier in the combat module applies only when two Artificial Artifacts contest a comparable function; it does not grant a universal bonus against every opponent. Do not invent unknown functions, energy sources, charges, range, durability, or weaknesses.
+
+
+## 12. FORMATION ENGRAVER — ESSENTIAL THINKER TOOL
+
+The Formation Engraver is a specialized precision tool used to carve intricate formation patterns into the base materials of an Artificial Artifact.
+
+### 12.1 Form and Purpose
+- Its general form resembles a surgical scalpel, but its working tip is exceptionally fine, with a very small diameter.
+- The fine tip allows a Thinker to engrave tiny, precise, and complex formation lines into artifact materials.
+- Its purpose is precision engraving; it is not merely an ordinary knife or a general-purpose carving tool.
+- The analogy is similar to semiconductor and computer-chip fabrication: as patterns become smaller and more densely arranged, the required precision and technical sophistication increase. This is an analogy for precision and complexity, not a claim that Artificial Artifacts use modern computer-chip technology.
+
+### 12.2 Precision and Complexity
+- Smaller, finer, and more intricate formation patterns generally demand more advanced engraving capability and control.
+- A finer tool does not by itself grant the user the knowledge or skill to create a valid formation.
+- The required tool, material, formulation, and Thinker capability must be suitable for the intended work.
+- No exact tip diameters, precision grades, manufacturing tolerances, or numerical bonuses are established yet. Keep such values as `???` until officially defined.
+
+### 12.3 Manufacture and Access
+- Manufacturing a Formation Engraver is exceptionally difficult.
+- Its maker must be a capable blacksmith/forger with **Cultivation Realm 5 or higher** and the relevant forging ability.
+- Cultivation Realm 5 is a minimum requirement for the maker, not a guarantee that every Realm 5 blacksmith can successfully produce a high-quality engraver.
+- The tool is expensive because of the difficulty of manufacturing it and the precision required. Exact prices, quality grades, durability, and repair costs remain `???` unless established elsewhere.
+- An ordinary blacksmith without the required Realm and forging ability cannot be assumed capable of producing one.
+
+### 12.4 Becoming a Thinker
+People who want to pursue the Thinker path commonly seek formal or recognized routes to prove their aptitude and gain access to instruction, tools, and professional networks. Possible routes include:
+- Applying to an academy or institution that teaches relevant knowledge.
+- Entering a dojo or specialist organization with a recognized Thinker or formulation tradition.
+- Receiving a recommendation from an established Thinker, mentor, or influential contact.
+- Other routes may exist if established through canon or recorded events.
+
+These are common pathways, not a universal requirement that every Thinker must follow the same route. Admission standards, examinations, fees, certification, and institutional hierarchies remain undefined unless documented. A recommendation may provide access to a trial or opportunity; it does not automatically prove competence or grant Thinker Grade.
+
+### 12.5 GM Enforcement
+- Do not assume an aspiring Thinker already owns a Formation Engraver.
+- Do not assume a common craftsman can manufacture one.
+- Check the maker's Cultivation Realm and relevant forging ability when the tool's manufacture is part of the story.
+- The tool's availability, quality, and suitability must be established before it is used for precision work.
+- Owning the tool does not replace Thinker knowledge, formulation understanding, materials, or the official success rules.
+- Do not invent exact prices, dimensions, quality tiers, production times, or special effects before they are defined.

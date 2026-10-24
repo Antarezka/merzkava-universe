@@ -35,6 +35,7 @@
 | [World Overview](world/WORLD.md) | World foundations and the three major powers |
 | [Map & Regions](world/MAP_AND_REGIONS.md) | Regional index and geographic knowledge boundaries |
 | [Geography & Travel](world/GEOGRAPHY_AND_TRAVEL.md) | Terrain, transportation, travel, and route information |
+| [Wanluo Sacred Expanse](world/WANLUO_SACRED_EXPANSE.md) | World Knowledge Tower region, pilgrimage roads, districts, and Ordo Suci Tianming |
 | [Intelligent Peoples](world/INTELLIGENT_PEOPLES.md) | Peoples, traits, and social context |
 | [Factions](world/FACTIONS.md) | Clans, dojos, sects, and organizations |
 | [History](world/HISTORY.md) | Timeline and historical evidence |

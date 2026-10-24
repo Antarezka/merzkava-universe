@@ -1,7 +1,7 @@
 # Merzkava Universe — Baiyue — Frontier Marches
 
 **Status:** Regional reference with owner-authorized territorial and settlement additions.  
-**Canon policy:** Established regional identities are preserved; the territorial area, development profile, and four named rural villages below are working additions approved for the current world map. Do not infer unlisted settlements or exact travel distances.
+**Canon policy:** Established regional identities are preserved; the territorial area, development profile, and selected named rural villages below are working additions approved for the current world map. Do not infer unlisted settlements or exact travel distances.
 
 ## 1. Confirmed Foundation
 - **Region / territory:** Baiyue — Frontier Marches
@@ -22,11 +22,11 @@
 
 - **Regional administrative seat:** Beiguan
 - **Population planning estimate:** 32 juta (part of the Empire-wide 320-million baseline; see the atlas for caveats)
-- **Prefectures:** 7
-- **Counties:** 42 (six per prefecture)
-- **Cities:** 28
+- **Prefectures:** 5
+- **Counties:** 41 (redistributed after prefecture consolidation)
+- **Cities:** 27
 - **Towns:** 150
-- **Named rural villages listed in this atlas:** 4
+- **Named rural villages listed in this atlas:** 3
 - **Other rural settlements:** Unenumerated; do not generate or count thousands of named villages by default
 - **Full official register:** `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
 
@@ -35,11 +35,9 @@ Prefectures and seats:
 - Iron Pass Prefecture — Tieguan
 - Stonewall Prefecture — Shibi
 - Falcon Ridge Prefecture — Yingshan
-- Storm Banner Prefecture — Fengqi
 - Long Pass Prefecture — Changguan
-- Pine Shield Prefecture — Songdun
 
-The administrative atlas is authoritative for names, territory estimates, and the selected village list. Four named villages are intentionally maintained for this region; unlisted hamlets may exist but are not individually catalogued. Development and services are strongest near Huanglongcheng and major regional seats, then generally thin with distance, isolation, and difficult terrain. Do not infer exact borders or travel times from the jurisdiction list alone.
+The administrative atlas is authoritative for names, territory estimates, and the selected village list. The listed named villages are maintained as roleplay locations for this region; unlisted hamlets may exist but are not individually catalogued. Development and services are strongest near Huanglongcheng and major regional seats, then generally thin with distance, isolation, and difficult terrain. Do not infer exact borders or travel times from the jurisdiction list alone.
 
 **Population-facing institutions:** Use `world/GOLDEN_DRAGON_EMPIRE_POPULATION_SERVICES.md` for named Ninefold Concord Bank and Myriad Ledger Exchange branches and Medicine Hall Society service points. The same register establishes only two boarding academies, both in Huanglongcheng, plus selected Ordo Suci Tianming public libraries; neither academies nor libraries are presumed to exist in every region. The central register governs named locations and service limits.
 
@@ -53,20 +51,19 @@ The prefecture seats listed below are established by `world/GOLDEN_DRAGON_EMPIRE
 | Tieguan | City / prefecture seat | Seat of Iron Pass Prefecture | Imperial civil administration; local detail pending |
 | Shibi | City / prefecture seat | Seat of Stonewall Prefecture | Imperial civil administration; local detail pending |
 | Yingshan | City / prefecture seat | Seat of Falcon Ridge Prefecture | Imperial civil administration; local detail pending |
-| Fengqi | City / prefecture seat | Seat of Storm Banner Prefecture | Imperial civil administration; local detail pending |
+| Fengqi | City / consolidated administrative center | Former seat of Storm Banner Prefecture; now administered under Beiguan | Local civil administration; not an independent prefectural seat |
 | Changguan | City / prefecture seat | Seat of Long Pass Prefecture | Imperial civil administration; local detail pending |
-| Songdun | City / prefecture seat | Seat of Pine Shield Prefecture | Imperial civil administration; local detail pending |
+| Songdun | City / consolidated administrative center | Former seat of Pine Shield Prefecture; now administered under Changguan | Local civil administration; not an independent prefectural seat |
 
 
 ### Named rural villages
 
-These four villages are the region's current named rural locations for roleplay. Their listed roles are broad local character, not proof of a bank, academy, clinic, library, or permanent state office.
+These listed villages are the region's current named rural locations for roleplay. Their listed roles are broad local character, not proof of a bank, academy, clinic, library, or permanent state office.
 
 | Settlement | Type | Established role | Authority / status |
 |---|---|---|---|
 | Watchfire Village | Rural village | Roadside farming near a patrol route | Local community; detailed NPCs and services pending |
 | Stonegate Village | Rural village | Passage guides and pack animals | Local community; detailed NPCs and services pending |
-| Falcon Nest Village | Rural village | Hunting, trapping, and ridge paths | Local community; detailed NPCs and services pending |
 | Cold Pine Village | Rural village | Forest gathering and winter stores | Local community; detailed NPCs and services pending |
 
 ## 4. Local Society and Daily Life

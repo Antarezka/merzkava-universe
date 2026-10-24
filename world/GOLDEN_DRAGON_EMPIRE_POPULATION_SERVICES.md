@@ -189,7 +189,7 @@ The Golden Dragon Empire has **two named Cultivator Academies established in thi
 - Dormitory assignment, room sharing, supervision, meals, leave, visiting hours, discipline, and student safety are administered by each academy. Specific policies have not yet been established.
 - Admission is not automatic. Entrance criteria, age limits, examination formats, tuition, scholarships, living expenses, and available places remain undefined; do not invent them as settled canon.
 - The two academies do not represent the Empire's only possible forms of learning. Family instruction, tutors, local mentors, dojo training, and self-study may exist, but are not equivalent to enrollment in either academy.
-- Their curricula follow core/CULTIVATOR_ACADEMIES.md and the official mechanics modules. Neither academy guarantees awakening, a Spirit Ring, breakthrough, high Realm, or a particular career.
+- Their curricula follow core/CULTIVATOR_ACADEMIES.md and the official mechanics modules. Neither academy guarantees awakening, a Spirit Ring, breakthrough, high Spirit Realm, or a particular career.
 
 ### Common foundational scope
 
@@ -222,9 +222,9 @@ The basic collection is designed for the general public, including commoners and
 
 1. **Spirit Beasts — introductory knowledge:** broad categories, common signs of danger, respectful distance, why habitats matter, and why an unfamiliar beast must not be judged from appearance alone. Local species catalogues vary; a book is not a substitute for field expertise.
 2. **Martial Soul awakening:** the general concept of Martial Souls, the usual awakening age of four or later, what an awakening ceremony can reveal, and the distinction between awakening and obtaining a Spirit Ring.
-3. **Nine Spirit Realms:** the canonical order—Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, Spirit Primordial—and the fact that each Realm has Early, Middle, Late, and Peak stages. The collection explains the terms; it does not teach secret breakthrough methods.
+3. **Nine Spirit Realms:** the canonical order—Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, Spirit Primordial—and the fact that each Spirit Realm has Early, Middle, Late, and Peak stages. The collection explains the terms; it does not teach secret breakthrough methods.
 4. **Spirit Rings:** basic role, broad color/age categories where officially published, the need for compatibility and preparation, and the danger of attempted absorption. It does not promise a successful ring or reveal a specific beast's hidden capabilities.
-5. **Thinkers:** a general introduction to Thinkers, Thinker Grades as a separate measure from cultivation Realm, and the social use of Artificial Artifacts. It does not grant a Thinker Grade, formulation skill, or access to restricted production patterns.
+5. **Thinkers:** a general introduction to Thinkers, Thinker Grades as a separate measure from Spirit Realm, and the social use of Artificial Artifacts. It does not grant a Thinker Grade, formulation skill, or access to restricted production patterns.
 6. **Public safety and civic life:** how to seek help, recognize common hazards, find local public services, and distinguish verified information from rumor.
 
 ### 7.2 Access and knowledge boundaries
@@ -233,7 +233,7 @@ The basic collection is designed for the general public, including commoners and
 - Copying manuscripts, borrowing rare books, specialist instruction, and restricted collections may follow local rules. This file does not establish a universal fee schedule or unrestricted take-home borrowing.
 - Public collections contain **general knowledge, not omniscience**. They may be incomplete, regionally outdated, or wrong on a disputed topic; catalogue date and provenance matter.
 - Advanced cultivation methods, restricted Spirit Beast research, private family techniques, sensitive military information, dangerous formulations, and confidential Ordo threat reports are not part of the ordinary public collection.
-- The libraries teach concepts, not automatic abilities. Reading about a Spirit Beast does not make a reader able to defeat it; learning the names of the Realms does not grant cultivation; reading Thinker theory does not confer Thinker expertise.
+- The libraries teach concepts, not automatic abilities. Reading about a Spirit Beast does not make a reader able to defeat it; learning the names of the Spirit Realms does not grant cultivation; reading Thinker theory does not confer Thinker expertise.
 - The Ordo's religious authority does not give it ownership of local civil administration or of the World Knowledge Tower.
 
 ## 8. Other organizations and existing institutions
@@ -258,7 +258,7 @@ The basic collection is designed for the general public, including commoners and
 - Organizations: `world/FACTIONS.md`
 - Wanluo and Ordo Suci Tianming headquarters: `world/WANLUO_SACRED_EXPANSE.md`
 - Foundational academy concept: `core/CULTIVATOR_ACADEMIES.md`
-- Cultivation Realms and awakening: `core/CULTIVATION_SYSTEM.md`, `core/MARTIAL_SOUL_AWAKENING.md`
+- Spirit Realms and awakening: `core/CULTIVATION_SYSTEM.md`, `core/MARTIAL_SOUL_AWAKENING.md`
 - Spirit Beast rules: `bestiary/SPIRIT_BEAST_RULES.md`
 - Thinker basics and limits: `core/THINKER_AND_FORMULATION.md`
 - Official public settlement/jurisdiction register: `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`

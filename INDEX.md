@@ -98,6 +98,7 @@ Jika sumber wajib gagal diakses, sebutkan file yang gagal dan jangan mengaku tel
 - `core/MARTIAL_SOUL_AWAKENING.md`
 - `core/SPIRIT_RING_RULES.md`
 - `core/HP_SYSTEM.md`
+- `core/HUNGER_AND_METABOLISM.md`
 - `core/INJURY_SYSTEM.md`
 - `core/THINKER_AND_FORMULATION.md`
 - `core/10_ECONOMY_SYSTEM.md`

@@ -125,4 +125,4 @@ Gunakan modul berikut ketika tersedia:
 - `bestiary/SPIRIT_BEAST_RULES.md` — Spirit Beast sebagai sumber ring dan aturan Beast.
 - `gameplay/COMBAT_SYSTEM.md` — penyelesaian kemampuan dalam pertarungan.
 
-Jangan mengklaim membaca file yang belum tersedia atau gagal diakses. Bila ada konflik antaraturan, ikuti hierarki sumber resmi di `templates/GM_PROMPT.md`; jangan menyelesaikan konflik dengan mengarang aturan baru.
+Jangan mengklaim membaca file yang belum tersedia atau gagal diakses. Bila ada konflik antaraturan, ikuti hierarki sumber resmi di `templates/AUTHORITY_ORDER.md`; jangan menyelesaikan konflik dengan mengarang aturan baru.

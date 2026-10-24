@@ -142,3 +142,11 @@ The following details may be added when confirmed:
 - Local jurisdiction, checkpoints, and seasonal hazards.
 
 Until then, this module is a regional index, not a precise navigational map.
+
+## 7. Wanluo Sacred Expanse — World Knowledge Tower Region
+
+The **Wanluo Sacred Expanse** is a sacred region centered on the World Knowledge Tower, an ancient divine relic from the Early Golden Age. It consists of a broad green plain surrounded by ancient forests and mountains. The exact coordinates, borders, sovereignty, and position relative to the three major powers remain unestablished; do not assign the region to any major power without a later owner decision.
+
+Its pilgrimage roads developed gradually through repeated travel and converge on the Tower across generations. Four connected settlement districts are recognized: Pilgrim, Scholar, Merchant, and Administration. Access to the region is open under local rules with guarding and checks, but access to the region does not grant unrestricted access to the Tower or restricted facilities.
+
+Ordo Suci Tianming, the world's largest religious organization by follower count in the current setting, maintains its headquarters—the Sanctum of Ten Thousand Vows—within the wider region, separate from the Tower. The Shen family is one of several parties with rights and responsibilities in administering the Tower; it does not own the relic. See `world/WANLUO_SACRED_EXPANSE.md` for the full geographic and institutional reference.

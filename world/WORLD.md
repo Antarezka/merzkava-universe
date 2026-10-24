@@ -3,7 +3,7 @@ MERZKAVA UNIVERSE — WORLD LORE & POLITICAL ATLAS
 «Document Type: Core Worldbuilding
 Status: Canon Foundation
 Scope: World Powers, Territories, Factions, Political Relations, Medicine Hall Society, Population, and Ruling Powers
-Related Modules: "world/MAP_AND_REGIONS.md", "world/FACTIONS.md", "world/HISTORY.md", "world/ARTIFACTS_AND_RELICS.md", "world/ARTIFICIAL_ARTIFACTS.md", "world/SOCIAL_STRATIFICATION.md", "world/WEALTH_DISTRIBUTION.md", "world/GEOGRAPHY_AND_TRAVEL.md", "world/INTELLIGENT_PEOPLES.md", "core/CULTIVATION_SYSTEM.md", "core/MARTIAL_SOUL.md", "core/SPIRIT_RING_RULES.md", "bestiary/SPIRIT_BEAST_RULES.md". WORLD.md remains the primary source for established world lore; each related module handles its stated scope. A listed path does not override the module itself or turn provisional details into confirmed canon.»
+Related Modules: "world/MAP_AND_REGIONS.md", "world/FACTIONS.md", "world/HISTORY.md", "world/ARTIFACTS_AND_RELICS.md", "world/ARTIFICIAL_ARTIFACTS.md", "world/SOCIAL_STRATIFICATION.md", "world/WEALTH_DISTRIBUTION.md", "world/GEOGRAPHY_AND_TRAVEL.md", "world/WANLUO_SACRED_EXPANSE.md", "world/INTELLIGENT_PEOPLES.md", "core/CULTIVATION_SYSTEM.md", "core/MARTIAL_SOUL.md", "core/SPIRIT_RING_RULES.md", "bestiary/SPIRIT_BEAST_RULES.md". WORLD.md remains the primary source for established world lore; each related module handles its stated scope. A listed path does not override the module itself or turn provisional details into confirmed canon.»
 
 ---
 
@@ -746,3 +746,20 @@ WORLD.md adalah acuan utama lore. Daftar di atas merupakan peta rencana pengemba
 ---
 
 END OF WORLD LORE & POLITICAL ATLAS
+
+
+---
+
+X. WANLUO SACRED EXPANSE AND WORLD KNOWLEDGE TOWER
+
+The World Knowledge Tower is an ancient divine relic from the Early Golden Age. It is not owned by the Shen family; the Shen family is one of several major parties entrusted with rights and responsibilities in administering it.
+
+The Tower stands within the Wanluo Sacred Expanse, a broad green plain surrounded by ancient forests and mountain ranges. Its surrounding geography includes wooded slopes, valleys, rivers and streams, rest sites, old monuments, and scattered ruins. The exact coordinates, dimensions, climate, sovereignty, and position relative to the three major powers remain unestablished.
+
+The region's roads developed gradually as repeated pilgrim traffic created tracks through passes, valleys, forests, and river crossings. The most-used paths widened over generations, eventually connecting pilgrim facilities, scholar institutions, markets, and administrative services. The network's convergence on the Tower is a historical result of travel, not proof of supernatural road construction or Tower control over travelers.
+
+Four principal functional settlement districts are recognized: the Pilgrim District, Scholar District, Merchant District, and Administration District. They form a connected settlement area rather than four separate cities. Public access to the wider region is open under local rules, with guards and reasonable checks at major entrances and sensitive sites. Access to the region does not grant unrestricted access to the Tower or to private institutions.
+
+The region's authority is divided by function: regional administration handles civil matters; a Tower administration council handles matters directly concerning the relic; and Ordo Suci Tianming oversees its own religious institutions and its mandate to monitor high-level anomalies, walking calamities, and threats to the world's continued survival. These authorities may cooperate but none automatically has unlimited control over the others. See `world/WANLUO_SACRED_EXPANSE.md` for the full current design, district functions, access rules, religious headquarters, and consistency constraints.
+
+Ordo Suci Tianming is the world's largest religious organization by follower count in the current setting and is trusted by many powerful individuals and institutions. Its central headquarters is the Sanctum of Ten Thousand Vows, a dedicated religious complex within Wanluo but separate from the World Knowledge Tower. The complex includes a Great Hall of Vows, World Observation Archive, Observation Tower, Threat Assessment Hall, Order Response Compound, and public pilgrim facilities. Its formal doctrine, founder, leader, hierarchy, and founding date remain unestablished.

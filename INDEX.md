@@ -26,6 +26,7 @@ Pilih modul berdasarkan aksi, kondisi, dan lokasi saat ini. Jangan membaca atau 
 | Definisi field profil dan konsistensi state | `templates/CHARACTER_PROFILE_TEMPLATE.md` |
 | Kalender, timestamp, durasi aksi, time skip | `gameplay/TIME_AND_ACTION_RULES.md` |
 | Realm, Stage, Sync, bottleneck, breakthrough | `core/CULTIVATION_SYSTEM.md` |
+| Akademi kultivator dan pendidikan dasar | `core/CULTIVATOR_ACADEMIES.md` |
 | Awakening dan Martial Soul | `core/MARTIAL_SOUL.md` |
 | Spirit Ring, kompatibilitas, penyerapan, Qi, PowerScale | `core/SPIRIT_RING_RULES.md` |
 | Spirit Beast, syarat ring, jeda minimum, deviasi | `bestiary/SPIRIT_BEAST_RULES.md` |
@@ -90,6 +91,7 @@ Jika sumber wajib gagal diakses, sebutkan file yang gagal dan jangan mengaku tel
 - `templates/CHARACTER_PROFILE_TEMPLATE.md`
 - `templates/PLAYER_CONVERSATION_TEMPLATE.md`
 - `core/CULTIVATION_SYSTEM.md`
+- `core/CULTIVATOR_ACADEMIES.md`
 - `core/MARTIAL_SOUL.md`
 - `core/SPIRIT_RING_RULES.md`
 - `core/HP_SYSTEM.md`

@@ -50,6 +50,25 @@ Pesan pemain yang meminta analisis INDEX.md dan players.md untuk memulai permain
 - Untuk sesi baru, tentukan lokasi dari snapshot/input lalu baca modul world/lokasi terkait. Periksa `world/DYNAMIC_EVENTS.md` sebelum adegan pertama dan pada setiap giliran.
 - Jangan menampilkan daftar file yang dibaca atau laporan bootstrap sebagai pengganti respons gameplay. Jika file wajib gagal diakses, ungkapkan batasan yang spesifik dan jangan berpura-pura bootstrap berhasil sepenuhnya.
 
+## 3B. Urutan Wajib Sebelum Menulis Respons (HARD GATE)
+
+Untuk setiap trigger awal/CONVO, lakukan ini dalam urutan persis berikut. Ini bukan saran dan tidak boleh dilewati walaupun model merasa sudah mengingat format atau saldo:
+
+**A — Kunci bagan visual.** Buka dan baca penuh `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`; lalu baca `templates/CHARACTER_PROFILE_TEMPLATE.md`. Ingat struktur lengkapnya: timestamp, Narasi, kotak PROFIL KARAKTER dengan seluruh field sesuai urutan, CATATAN PEMAIN & KONSISTENSI, garis pemisah, catatan kecil, dan penutup `Aksiku : --`. Output gameplay harus mengikuti bagan ini, bukan bullet, tabel, atau variasi format lain.
+
+**B — Muat profil player.** Untuk sesi baru karakter terdaftar, buka `players.md` dan baca seluruh `players/<Nama>.md`. Jangan hanya mengambil nama atau profil ringkas. Untuk sesi berjalan, pilih profil gameplay terakhir beserta kejadian setelahnya; jangan menimpa state dengan snapshot awal.
+
+**C — Buka buku ekonomi milik karakter.** Cari `players/economy/<Nama>.md` dan baca seluruh ledger. Saldo Currency dan riwayat transaksi bersumber dari ledger ini. Jangan menyimpulkan saldo dari kalimat Assets, pendapatan masa lalu, atau ingatan model jika saldo resmi sudah tercatat.
+
+- Jika ledger ada: pertahankan saldo persis dalam urutan `xc | xs | xg | zj | az`; setiap perubahan harus cocok dengan transaksi yang tercatat.
+- Jika ledger belum ada: gunakan `templates/PLAYER_ECONOMY_TEMPLATE.md`. Inisialisasi saldo dari catatan saldo eksplisit yang paling otoritatif di snapshot/riwayat; untuk Yuha, saldo awal yang tercatat adalah `18xc | 6xs | 2xg | 0zj | 0az`. Jangan menjadikan deskripsi aset atau penghasilan sebagai angka saldo tambahan.
+- Jika saldo tidak pernah ditetapkan: ikuti pengecualian bootstrap di `core/10_ECONOMY_SYSTEM.md`, tandai sebagai **estimasi saldo awal GM**, dan jangan mengklaim itu hasil transaksi masa lalu.
+- Jika GM tidak dapat menulis repository, ledger boleh diinisialisasi sebagai catatan sesi untuk menjaga konsistensi, tetapi jangan mengklaim file persisten sudah dibuat. Jangan lanjut dengan klaim seolah ledger telah disimpan di GitHub.
+
+**D — Petakan data ke bagan.** Setelah A–C selesai, baca modul mekanik yang relevan dan isi setiap field pada tempat yang benar. Currency di profil harus sama persis dengan ledger; Assets hanya merangkum aset non-saldo; Inventory tidak boleh kehilangan barang; HP, Satiety, Qi, kondisi tubuh, relasi, serta catatan GM harus dipertahankan sesuai sumber. Nilai tidak diketahui tetap `???`, tetapi nilai yang tercatat tidak boleh diubah menjadi `???`.
+
+**E — Validasi lalu mulai gameplay.** Sebelum mengirim respons, cek semua field dan ornamen terhadap template, cek Currency terhadap ledger, dan cek bahwa tidak ada transaksi/kejadian rekaan. Jika ada sumber wajib yang gagal diakses, jangan mengaku sudah membaca atau menganggap gate itu lolos. Mulai adegan langsung hanya setelah pemeriksaan selesai; jangan menampilkan laporan bootstrap.
+
 ## 4. Resolusi Aksi
 
 Untuk setiap aksi:

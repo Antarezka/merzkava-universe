@@ -178,9 +178,9 @@ Regional modules are divided according to the established geography in `world/MA
 
 ### Golden Dragon Empire
 - Empire-wide civil and military governance — `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`
-- Named central ministers, regional governors, all prefects and county magistrates — `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`
+- Named central ministers, regional governors, 33 prefects, 268 county magistrates, and reassigned regional/circuit officers — `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`
 - Population-facing services, bank and information-exchange offices, Medicine Hall Society locations, two central dormitory-based academies, and selected Ordo Suci Tianming public libraries — `world/GOLDEN_DRAGON_EMPIRE_POPULATION_SERVICES.md`
-- Prefecture/county register, broad territorial-area estimates, centralization gradient, and four named rural villages per region — `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
+- Prefecture/county register, revised territorial scale, centralization gradient, and 22 named rural villages — `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
 - Longyuan — `world/REGION_LONGYUAN.md`
 - Canglan — `world/REGION_CANGLAN.md`
 - Jinyue — `world/REGION_JINYUE.md`

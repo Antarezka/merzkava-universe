@@ -18,7 +18,7 @@
 2. Untuk karakter terdaftar, GM membaca `players.md` sebagai **state awal**, lalu memuat template profil dan modul yang relevan.
 3. Untuk melanjutkan permainan di percakapan yang sama, GM memakai profil karakter terakhir dan kejadian sesudahnya. Data awal di `players.md` tidak boleh menimpa progres sesi berjalan.
 4. Untuk karakter baru yang belum terdaftar, GM memakai template profil dan informasi yang diberikan pemain; detail praktis yang masuk akal boleh ditandai sebagai estimasi GM.
-5. Field `Breakthrough` dan `Day left` mengikuti definisi di `templates/CHARACTER_PROFILE_TEMPLATE.md`; `Day left` adalah sisa hari dunia menuju terpenuhinya jeda minimum penyerapan berikutnya, bukan jaminan breakthrough.
+5. Field `Breakthrough` dan `Day left` mengikuti definisi di `templates/CHARACTER_PROFILE_TEMPLATE.md`; `Day left` menghitung sisa durasi jeda minimum penyerapan berikutnya, dibulatkan ke atas dalam satuan 24 jam. Nilai nol bukan jaminan breakthrough.
 6. Respons gameplay pertama langsung dimulai dengan timestamp lengkap, narasi pembuka, dan profil karakter lengkap. MODE: NO STEP berarti tidak ada menu pilihan.
 6. Pada setiap giliran gameplay, GM memeriksa ulang INDEX dan instruksi GM, lalu memuat modul yang relevan. Jika file gagal diakses, GM harus menyatakannya dan tidak boleh berpura-pura telah membaca isinya.
 

@@ -6,16 +6,16 @@
 
 ## 1. Power ceiling and canon rules
 
-- Emperor Jun Haotian remains the highest sovereign and is Realm 9 — Spirit Primordial, Middle Stage. **No official in this roster exceeds Realm 8 — Spirit Sovereign.**
+- Emperor Jun Haotian remains the highest sovereign and is Spirit Realm 9 — Spirit Primordial, Middle Stage. **No official in this roster exceeds Spirit Realm 8 — Spirit Sovereign.**
 - Regional governors are powerful political actors, not independent sovereigns. Their cultivation does not automatically give them military command.
-- Realm and Stage indicate cultivation only; they do not guarantee victory. Martial Souls below are individual identities, not claims that the bearer has every possible ability associated with the creature or object.
+- Spirit Realm and Stage indicate cultivation only; they do not guarantee victory. Martial Souls below are individual identities, not claims that the bearer has every possible ability associated with the creature or object.
 - **Political disposition is a tendency, not a fixed alliance or proof of clan membership.** No character is automatically a secret ally, enemy, corrupt official, or loyalist beyond the traits written here.
-- Each short background, motivation, Martial Soul, Realm, and stance below is established as a new worldbuilding addition. Private secrets, exact Spirit Rings, combat techniques, family trees, and crimes are not invented by this roster.
+- Each short background, motivation, Martial Soul, Spirit Realm, and stance below is established as a new worldbuilding addition. Private secrets, exact Spirit Rings, combat techniques, family trees, and crimes are not invented by this roster.
 - Central officials: portfolios follow the existing governance file. County magistrates use the county-seat working names in the atlas.
 
 ## 2. Central government
 
-| Office | Name | Martial Soul | Realm / Stage | Disposition and relationships | Background and present aim |
+| Office | Name | Martial Soul | Spirit Realm / Stage | Disposition and relationships | Background and present aim |
 |---|---|---|---|---|---|
 | Menteri Personalia | Xuanyuan Wenyuan | Iron Quill | Spirit Sovereign / Early | Loyalis prosedur; berani menolak rekomendasi klan tanpa rekam jejak. | Mengawali karier sebagai penguji pejabat daerah; percaya promosi harus berdasar hasil kerja.; menjaga kewenangan kementerian tanpa membiarkan lembaga lain mengambil alih mandatnya. |
 | Menteri Keuangan | Shen Mingde | Jade Abacus | Spirit Sovereign / Early | Pragmatis dan dekat dengan kepentingan fiskal; bukan otomatis sekutu saudagar. | Berasal dari keluarga pengelola lumbung; menilai negara dari arus pangan, pajak, dan cadangan.; menjaga kewenangan kementerian tanpa membiarkan lembaga lain mengambil alih mandatnya. |
@@ -27,7 +27,7 @@
 
 ## 3. Regional governors
 
-| Region | Officeholder | Martial Soul | Realm / Stage | Political disposition | Background and agenda |
+| Region | Officeholder | Martial Soul | Spirit Realm / Stage | Political disposition | Background and agenda |
 |---|---|---|---|---|---|
 | Longyuan (Huanglongcheng) | Xuanyuan Haoran | Golden-Eyed Hawk | Spirit Sovereign / Middle | reformis pro-rakyat; sering menantang tuan tanah saat pungutan liar merugikan petani | mengawali karier sebagai pejabat distrik dan naik setelah menyelesaikan krisis administrasi tanpa menutup akses pengaduan warga; menjaga kepentingan regional sambil mempertahankan jalur laporan langsung ke takhta. |
 | Canglan (Qinghe) | Cangyue Yunhe | Moonlit Koi | Spirit Sovereign / Early | pragmatis dan menjaga keseimbangan antara saudagar, petani, serta istana | berasal dari keluarga pedagang menengah dan memahami betapa cepatnya gangguan logistik menekan harga kebutuhan pokok; menjaga kepentingan regional sambil mempertahankan jalur laporan langsung ke takhta. |
@@ -39,13 +39,13 @@
 
 ## 4. Prefects and county magistrates
 
-The following register names every prefect and magistrate in the administrative atlas. Each officer has an individual temperament, motivation, background, Martial Soul, and Realm. A relationship described as pragmatic, reformist, pro-trade, conservative, or pro-academy is a political inclination—not a formal faction membership.
+The following register names every prefect and magistrate in the administrative atlas. Each officer has an individual temperament, motivation, background, Martial Soul, and Spirit Realm. A relationship described as pragmatic, reformist, pro-trade, conservative, or pro-academy is a political inclination—not a formal faction membership.
 
 ### Longyuan
 
 #### Prefects
 
-| Prefecture / seat | Name | Martial Soul | Realm / Stage | Political stance | Background and agenda |
+| Prefecture / seat | Name | Martial Soul | Spirit Realm / Stage | Political stance | Background and agenda |
 |---|---|---|---|---|---|
 | Huanglong Prefecture — Huanglongcheng | Qin Yunsheng | Golden Wheat Spirit | Spirit Ancestor / Early | reformis dan pro-rakyat | berasal dari keluarga pejabat kecil dan naik lewat ujian administrasi; ingin memperluas pengaruh kantor dan anggaran wilayah. |
 | Jade Seal Prefecture — Yuxi | Qin Qingyuan | White Reed Deer | Spirit Ancestor / Middle | pragmatis, condong ke stabilitas takhta | dididik di akademi daerah, lalu bertugas di beberapa kantor perbatasan; ingin mengamankan jalur pangan dan perdagangan. |
@@ -56,7 +56,7 @@ The following register names every prefect and magistrate in the administrative 
 
 #### County magistrates
 
-| County jurisdiction / seat | Name | Martial Soul | Realm / Stage | Political stance | Background and agenda |
+| County jurisdiction / seat | Name | Martial Soul | Spirit Realm / Stage | Political stance | Background and agenda |
 |---|---|---|---|---|---|
 | Huanglongcheng-Dong'an | Yue Haoran | Red Furnace Bear | Spirit Elder / Early | reformis dan pro-rakyat | berasal dari keluarga pejabat kecil dan naik lewat ujian administrasi; menyelesaikan sengketa warga sebelum membesar. |
 | Huanglongcheng-Xi'an | Yue Yunhe | Copperhorn Ox | Spirit Elder / Late | netral dan sangat prosedural | anak tabib desa yang menganggap kesehatan rakyat sebagai bagian dari ketahanan negara; menjaga akses air, jalan, dan pasar tetap terbuka. |
@@ -99,7 +99,7 @@ The following register names every prefect and magistrate in the administrative 
 
 #### Prefects
 
-| Prefecture / seat | Name | Martial Soul | Realm / Stage | Political stance | Background and agenda |
+| Prefecture / seat | Name | Martial Soul | Spirit Realm / Stage | Political stance | Background and agenda |
 |---|---|---|---|---|---|
 | Qinghe Prefecture — Qinghe | Qin Yongning | Mountain Bell | Spirit Ancestor / Peak | populis, mendengar keluhan rakyat kecil | dididik di akademi daerah, lalu bertugas di beberapa kantor perbatasan; ingin memperluas pengaruh kantor dan anggaran wilayah. |
 | Jiangbei Prefecture — Jiangbei | Qin Xingzhou | Cloudmirror Crane | Spirit Ancestor / Early | loyalis istana, namun menolak perintah ilegal | anak tabib desa yang menganggap kesehatan rakyat sebagai bagian dari ketahanan negara; ingin mengamankan jalur pangan dan perdagangan. |
@@ -112,7 +112,7 @@ The following register names every prefect and magistrate in the administrative 
 
 #### County magistrates
 
-| County jurisdiction / seat | Name | Martial Soul | Realm / Stage | Political stance | Background and agenda |
+| County jurisdiction / seat | Name | Martial Soul | Spirit Realm / Stage | Political stance | Background and agenda |
 |---|---|---|---|---|---|
 | Qinghe-Dong'an | Yue Yanzhao | Golden-Eyed Hawk | Spirit Monarch / Middle | pragmatis, condong ke stabilitas takhta | pernah menyaksikan sengketa tanah berkepanjangan, sehingga menekankan pencatatan bukti; menyelesaikan sengketa warga sebelum membesar. |
 | Qinghe-Xi'an | Yue Shilin | Jade Abacus | Spirit Monarch / Peak | dekat dengan kepentingan saudagar | dibina seorang mentor hukum yang mengajarkannya membedakan hukum dan kehendak elite; menjaga akses air, jalan, dan pasar tetap terbuka. |
@@ -167,7 +167,7 @@ The following register names every prefect and magistrate in the administrative 
 
 #### Prefects
 
-| Prefecture / seat | Name | Martial Soul | Realm / Stage | Political stance | Background and agenda |
+| Prefecture / seat | Name | Martial Soul | Spirit Realm / Stage | Political stance | Background and agenda |
 |---|---|---|---|---|---|
 | Jadevein Prefecture — Yumai | Han Shuying | Sapphire Minnow | Spirit King / Early | berorientasi pada pertahanan wilayah | pernah mengatur perbaikan jalan setelah banjir dan mengutamakan manfaat jangka panjang; ingin meninggalkan administrasi yang lebih bersih. |
 | Ironcloud Prefecture — Tieyun | Han Zhaolin | Mountain Bell | Spirit King / Middle | condong ke akademisi dan meritokrasi | pernah menolak tekanan keluarga kaya dalam perkara warisan, lalu dipindahkan ke jabatan baru; ingin memperluas pengaruh kantor dan anggaran wilayah. |
@@ -177,7 +177,7 @@ The following register names every prefect and magistrate in the administrative 
 
 #### County magistrates
 
-| County jurisdiction / seat | Name | Martial Soul | Realm / Stage | Political stance | Background and agenda |
+| County jurisdiction / seat | Name | Martial Soul | Spirit Realm / Stage | Political stance | Background and agenda |
 |---|---|---|---|---|---|
 | Yumai-Dong'an | Pei Sheng'an | Stone Gate Shield | Spirit Monarch / Late | netral dan sangat prosedural | anak tabib desa yang menganggap kesehatan rakyat sebagai bagian dari ketahanan negara; menyelesaikan sengketa warga sebelum membesar. |
 | Yumai-Xi'an | Pei Yunqiao | Silverleaf Bamboo | Spirit Monarch / Early | konservatif dan menghormati bangsawan | pernah mengatur perbaikan jalan setelah banjir dan mengutamakan manfaat jangka panjang; menjaga akses air, jalan, dan pasar tetap terbuka. |
@@ -214,7 +214,7 @@ The following register names every prefect and magistrate in the administrative 
 
 #### Prefects
 
-| Prefecture / seat | Name | Martial Soul | Realm / Stage | Political stance | Background and agenda |
+| Prefecture / seat | Name | Martial Soul | Spirit Realm / Stage | Political stance | Background and agenda |
 |---|---|---|---|---|---|
 | Heavenly Script Prefecture — Tianshu | Han Zhenyu | White Reed Deer | Spirit Ancestor / Late | pragmatis, condong ke stabilitas takhta | pernah mengatur perbaikan jalan setelah banjir dan mengutamakan manfaat jangka panjang; ingin mengamankan jalur pangan dan perdagangan. |
 | Cloud Summit Prefecture — Yunding | Han Yueqin | Blueglass Butterfly | Spirit Ancestor / Peak | netral dan sangat prosedural | pernah menolak tekanan keluarga kaya dalam perkara warisan, lalu dipindahkan ke jabatan baru; ingin meninggalkan administrasi yang lebih bersih. |
@@ -225,7 +225,7 @@ The following register names every prefect and magistrate in the administrative 
 
 #### County magistrates
 
-| County jurisdiction / seat | Name | Martial Soul | Realm / Stage | Political stance | Background and agenda |
+| County jurisdiction / seat | Name | Martial Soul | Spirit Realm / Stage | Political stance | Background and agenda |
 |---|---|---|---|---|---|
 | Tianshu-Dong'an | Pei Xingzhou | Flamecrest Falcon | Spirit King / Middle | loyalis istana, namun menolak perintah ilegal | menjadi pejabat setelah karier panjang dalam audit gudang dan pajak; menyelesaikan sengketa warga sebelum membesar. |
 | Tianshu-Xi'an | Pei Huaijin | Frostpine Wolf | Spirit King / Peak | berpihak pada pembangunan dan kesejahteraan | dididik di akademi daerah, lalu bertugas di beberapa kantor perbatasan; menjaga akses air, jalan, dan pasar tetap terbuka. |
@@ -268,7 +268,7 @@ The following register names every prefect and magistrate in the administrative 
 
 #### Prefects
 
-| Prefecture / seat | Name | Martial Soul | Realm / Stage | Political stance | Background and agenda |
+| Prefecture / seat | Name | Martial Soul | Spirit Realm / Stage | Political stance | Background and agenda |
 |---|---|---|---|---|---|
 | Red Furnace Prefecture — Honglu | Han Qinghe | Cloudmirror Crane | Spirit Emperor / Middle | loyalis istana, namun menolak perintah ilegal | pernah menolak tekanan keluarga kaya dalam perkara warisan, lalu dipindahkan ke jabatan baru; ingin mengamankan jalur pangan dan perdagangan. |
 | Ashen Peak Prefecture — Huifeng | Han Xuefeng | Flamecrest Falcon | Spirit Emperor / Late | berhati-hati dan gemar menyeimbangkan faksi | mantan pengelola lumbung yang terkenal teliti saat bencana pangan; ingin meninggalkan administrasi yang lebih bersih. |
@@ -279,7 +279,7 @@ The following register names every prefect and magistrate in the administrative 
 
 #### County magistrates
 
-| County jurisdiction / seat | Name | Martial Soul | Realm / Stage | Political stance | Background and agenda |
+| County jurisdiction / seat | Name | Martial Soul | Spirit Realm / Stage | Political stance | Background and agenda |
 |---|---|---|---|---|---|
 | Honglu-Dong'an | Xie Qinghe | Granite Ape | Spirit Elder / Late | berhati-hati dan gemar menyeimbangkan faksi | mantan pengelola lumbung yang terkenal teliti saat bencana pangan; menyelesaikan sengketa warga sebelum membesar. |
 | Honglu-Xi'an | Xie Weiming | Golden Wheat Spirit | Spirit Elder / Early | reformis dan pro-rakyat | pernah bertugas mengawasi jalur dagang dan memahami praktik pungutan liar; menjaga akses air, jalan, dan pasar tetap terbuka. |
@@ -322,7 +322,7 @@ The following register names every prefect and magistrate in the administrative 
 
 #### Prefects
 
-| Prefecture / seat | Name | Martial Soul | Realm / Stage | Political stance | Background and agenda |
+| Prefecture / seat | Name | Martial Soul | Spirit Realm / Stage | Political stance | Background and agenda |
 |---|---|---|---|---|---|
 | Northwatch Prefecture — Beiguan | Han Qingyuan | River Pearl Shell | Spirit King / Early | tegas terhadap korupsi tetapi kompromistis dalam politik | mantan pengelola lumbung yang terkenal teliti saat bencana pangan; ingin mengamankan jalur pangan dan perdagangan. |
 | Iron Pass Prefecture — Tieguan | Han Jingtao | Sapphire Minnow | Spirit King / Middle | berorientasi pada pertahanan wilayah | pernah menyaksikan sengketa tanah berkepanjangan, sehingga menekankan pencatatan bukti; ingin meninggalkan administrasi yang lebih bersih. |
@@ -334,7 +334,7 @@ The following register names every prefect and magistrate in the administrative 
 
 #### County magistrates
 
-| County jurisdiction / seat | Name | Martial Soul | Realm / Stage | Political stance | Background and agenda |
+| County jurisdiction / seat | Name | Martial Soul | Spirit Realm / Stage | Political stance | Background and agenda |
 |---|---|---|---|---|---|
 | Beiguan-Dong'an | Duan Qinglan | Blueglass Butterfly | Spirit Monarch / Peak | berpihak pada pembangunan dan kesejahteraan | memulai karier sebagai juru tulis dan dikenal menghafal detail arsip; menyelesaikan sengketa warga sebelum membesar. |
 | Beiguan-Xi'an | Duan Wenyuan | White Jade Fan | Spirit Monarch / Middle | pragmatis, condong ke stabilitas takhta | menjadi pejabat setelah karier panjang dalam audit gudang dan pajak; menjaga akses air, jalan, dan pasar tetap terbuka. |
@@ -383,7 +383,7 @@ The following register names every prefect and magistrate in the administrative 
 
 #### Prefects
 
-| Prefecture / seat | Name | Martial Soul | Realm / Stage | Political stance | Background and agenda |
+| Prefecture / seat | Name | Martial Soul | Spirit Realm / Stage | Political stance | Background and agenda |
 |---|---|---|---|---|---|
 | Eastern Star Prefecture — Dongxing | Han Zhenhua | Blueglass Butterfly | Spirit Ancestor / Early | netral dan sangat prosedural | pernah bertugas mengawasi jalur dagang dan memahami praktik pungutan liar; ingin meninggalkan administrasi yang lebih bersih. |
 | Pearl Harbor Prefecture — Mingzhu | Han Shengyu | Jade Scale Serpent | Spirit Ancestor / Middle | dekat dengan kepentingan saudagar | dibina seorang mentor hukum yang mengajarkannya membedakan hukum dan kehendak elite; ingin memperluas pengaruh kantor dan anggaran wilayah. |
@@ -396,7 +396,7 @@ The following register names every prefect and magistrate in the administrative 
 
 #### County magistrates
 
-| County jurisdiction / seat | Name | Martial Soul | Realm / Stage | Political stance | Background and agenda |
+| County jurisdiction / seat | Name | Martial Soul | Spirit Realm / Stage | Political stance | Background and agenda |
 |---|---|---|---|---|---|
 | Dongxing-Dong'an | Duan Yuchun | Iron Quill | Spirit King / Late | berorientasi pada pertahanan wilayah | mendapat reputasi setelah menyelesaikan perselisihan air tanpa mengerahkan pasukan; menyelesaikan sengketa warga sebelum membesar. |
 | Dongxing-Xi'an | Duan Jing'an | Red Furnace Bear | Spirit King / Early | populis, mendengar keluhan rakyat kecil | berasal dari keluarga pejabat kecil dan naik lewat ujian administrasi; menjaga akses air, jalan, dan pasar tetap terbuka. |

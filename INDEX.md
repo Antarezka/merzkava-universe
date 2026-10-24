@@ -6,11 +6,18 @@ Repository resmi: https://github.com/Antarezka/xuanling-realm
 
 ## Alur Utama Roleplay
 
-### 1. Baca sumber inti
+### 1. Bootstrap wajib — urutan jangan dilompati
 Setiap kali memulai CONVO, melakukan recall, atau menerima giliran gameplay:
-1. Fetch versi terbaru file ini (INDEX.md) dari repository resmi.
-2. Baca `templates/GM_PROMPT.md` untuk prosedur dan batas perilaku Game Master.
-3. Baca `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` untuk format respons gameplay yang wajib dipakai.
+1. Fetch versi terbaru `INDEX.md` dari repository resmi; jangan mengandalkan salinan lama jika repository dapat diakses.
+2. Baca `templates/GM_PROMPT.md` untuk prosedur, batas perilaku, dan alur sesi.
+3. Baca `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` untuk format gameplay canonical.
+4. Baca `world/DYNAMIC_EVENTS.md` pada setiap giliran untuk memeriksa event dunia aktif, perubahan status, dan batas pengetahuan karakter. Jika gagal diakses, nyatakan kegagalan pemeriksaan; jangan mengarang daftar event.
+5. Tentukan mode sesi: karakter terdaftar baru, karakter baru, atau sesi berlanjut/recall.
+6. Muat sumber state karakter yang tepat sesuai Bagian 2; jangan memakai snapshot awal sebagai save sesi berjalan.
+7. Tentukan modul lain yang relevan dari tabel Bagian 3 berdasarkan aksi, lokasi, state, dan event yang mungkin terpengaruh.
+8. Resolusi aksi, periksa apakah hasilnya memicu event dunia persisten, perbarui hanya state yang sah, lalu kirim gameplay dengan format canonical.
+
+**Urutan ringkas:** INDEX → GM Prompt → Response Template → Dynamic Events → sumber karakter/sesi → modul relevan → resolusi → validasi state/event → respons gameplay. Jangan menampilkan laporan bootstrap sebagai pengganti adegan.
 
 ### 2. Tentukan jenis sesi dan sumber karakter
 - **Karakter terdaftar, sesi baru:** baca `players.md` untuk menemukan file individual karakter, lalu baca file karakter tersebut sebagai snapshot awal. Jangan menciptakan riwayat sebelum sesi.
@@ -44,7 +51,9 @@ Pilih modul berdasarkan aksi, kondisi, dan lokasi saat ini. Jangan membaca atau 
 | Geografi fisik, perjalanan, moda transportasi, dan batas pengetahuan rute | `world/GEOGRAPHY_AND_TRAVEL.md` |
 | Bangsa berakal, ciri kelompok, dan konteks perlakuan sosial | `world/INTELLIGENT_PEOPLES.md` |
 | Klan, dojo, sekte, organisasi, Medicine Hall Society | `world/FACTIONS.md` |
-| Kronologi, bukti sejarah, peristiwa historis | `world/HISTORY.md` |
+| Kronologi, bukti sejarah, peristiwa historis yang sudah mapan | `world/HISTORY.md` |
+| Event dunia dinamis yang aktif/berakhir, status event, dampak lintas sesi, dan sumber konfirmasi | `world/DYNAMIC_EVENTS.md` |
+| Form proposal untuk menambah/memperbarui event dunia; bukan canon sampai disetujui admin | `templates/WORLD_EVENT_UPDATE_TEMPLATE.md` |
 | Kategori Relic/Ancient Artifact dan katalog | `world/ARTIFACTS_AND_RELICS.md` |
 | Katalog dan lore Artificial Artifact | `world/ARTIFICIAL_ARTIFACTS.md` |
 | Satiety, jadwal makan, metabolisme Realm, tidur malam, dan pengubah kondisi tubuh | `core/HUNGER_AND_METABOLISM.md` |
@@ -67,10 +76,13 @@ Jika sumber wajib gagal diakses, sebutkan file yang gagal dan jangan mengaku tel
 - `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`: **satu-satunya sumber format visual lengkap setiap respons gameplay**.
 - `templates/CHARACTER_PROFILE_TEMPLATE.md`: arti field dan aturan konsistensi state; bukan format output kedua.
 - `templates/PLAYER_CONVERSATION_TEMPLATE.md`: prompt pemanggilan singkat; bukan sumber mekanik.
+- `world/DYNAMIC_EVENTS.md`: registry canon event dunia persisten; wajib diperiksa setiap giliran gameplay.
+- `templates/WORLD_EVENT_UPDATE_TEMPLATE.md`: format usulan perubahan event untuk ditinjau admin; bukan registry dan bukan bukti bahwa perubahan telah disimpan.
 - `players.md`: indeks karakter terdaftar.
 - `players/<Nama>.md`: snapshot awal karakter individual, bukan save berjalan.
 - Modul mekanik: sumber resmi untuk aturan di ruang lingkupnya.
-- Modul world: sumber resmi untuk lore, geografi/perjalanan, bangsa berakal, faksi, sejarah, katalog artefak, distribusi kekayaan, dan stratifikasi sosial sesuai cakupannya. Untuk perjalanan atau interaksi dengan kelompok masyarakat, baca modul world yang relevan; jangan menganggap `MAP_AND_REGIONS.md` menggantikan aturan transportasi atau lore bangsa berakal.
+- Modul world: sumber resmi untuk lore, geografi/perjalanan, bangsa berakal, faksi, sejarah, katalog artefak, distribusi kekayaan, stratifikasi sosial, serta event dinamis sesuai cakupannya. Untuk perjalanan atau interaksi dengan kelompok masyarakat, baca modul world yang relevan; jangan menganggap `MAP_AND_REGIONS.md` menggantikan aturan transportasi atau lore bangsa berakal.
+- Event dinamis: setelah hasil aksi ditetapkan, cek apakah konsekuensinya persisten dan berdampak pada dunia bersama. Jika ya, siapkan proposal melalui `templates/WORLD_EVENT_UPDATE_TEMPLATE.md`. Proposal pemain/GM bukan canon dan tidak boleh dianggap tersimpan sebelum ditinjau, disetujui, dan di-commit oleh owner/admin. Perubahan karakter pribadi tidak dimasukkan ke registry event dunia.
 - Profil gameplay terakhir dan kejadian setelahnya: sumber state sesi berjalan.
 
 ## Konsistensi yang Wajib Dipertahankan
@@ -115,6 +127,8 @@ Jika sumber wajib gagal diakses, sebutkan file yang gagal dan jangan mengaku tel
 - `world/INTELLIGENT_PEOPLES.md`
 - `world/FACTIONS.md`
 - `world/HISTORY.md`
+- `world/DYNAMIC_EVENTS.md`
+- `templates/WORLD_EVENT_UPDATE_TEMPLATE.md`
 - `world/ARTIFACTS_AND_RELICS.md`
 - `world/ARTIFICIAL_ARTIFACTS.md`
 - `world/WEALTH_DISTRIBUTION.md`

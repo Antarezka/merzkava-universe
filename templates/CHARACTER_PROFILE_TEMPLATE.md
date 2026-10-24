@@ -30,7 +30,7 @@ Pertahankan nama dan urutan field sesuai `templates/GAMEPLAY_RESPONSE_TEMPLATE.m
 - Untuk sesi baru, gunakan saldo eksplisit pada snapshot `players/<Nama>.md`. Untuk sesi berjalan/recall, gunakan Currency pada profil gameplay terakhir lalu terapkan transaksi sah yang terjadi setelahnya.
 - `core/10_ECONOMY_SYSTEM.md` adalah sumber aturan kurs, harga, valuasi, dan transaksi; file itu bukan sumber saldo individual.
 - Salin saldo secara persis ke field `Currency (xuan/zun)` dengan format `...xc | ...xs | ...xg | ...zj | ...az`. Jangan memakai deskripsi penghasilan atau Assets untuk menebak saldo bila saldo sudah tercatat.
-- Jika saldo awal tidak tercatat di snapshot atau riwayat, tetapkan satu estimasi bootstrap yang wajar sesuai latar karakter dan Economy System, lalu tandai sebagai **estimasi saldo awal GM**. Jangan mengarang transaksi masa lalu.
+- Jika saldo awal tidak tercatat di snapshot atau riwayat, lakukan **undian bootstrap satu kali** untuk menentukan saldo awal konkret, lalu tampilkan angka yang dipilih sebagai saldo awal tetap. Jangan menghitung saldo dari latar, pekerjaan, Assets, atau penghasilan masa lalu, dan jangan mengarang transaksi lampau. Jika snapshot sudah mencatat saldo, snapshot menjadi sumber utama dan tidak boleh diundi ulang.
 - Setelah saldo awal ditetapkan, jangan mengundi ulang atau mengubahnya hanya karena giliran baru. Setiap perubahan harus memiliki sebab dan waktu yang jelas, jumlah masuk/keluar yang sesuai dengan aturan ekonomi, serta saldo akhir yang konsisten dengan riwayat gameplay. Profil akhir giliran menampilkan saldo setelah transaksi sah; tidak ada file ledger terpisah yang wajib dibuat.
 
 ## Aturan Pengisian

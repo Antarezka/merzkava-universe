@@ -49,7 +49,7 @@ Istilah proses mekanik yang digunakan hanya:
 - **Kultivasi:** proses meningkatkan Sync progress menuju cap kompatibilitas maksimum ring yang sedang diproses.
 - **Menerobos:** proses terpisah yang mensyaratkan seluruh ketentuan resmi.
 
-Sync progress wajib ditulis sebagai `Sync progress: [progres saat ini]%/[cap kompatibilitas maksimum]%`. Cap berbeda menurut ring dan dihitung sesuai `core/SPIRIT_RING_RULES.md`; jangan menganggap cap selalu 100%.
+Sync progress wajib ditulis sebagai `Sync progress: [progres saat ini]%/[cap kompatibilitas maksimum]%`. Cap berbeda menurut ring dan dihitung sesuai `core/SPIRIT_RING_RULES.md`; jangan menganggap cap selalu 100%. **Progres/cap mengukur kemajuan terhadap batas kompatibilitas karakter; penguasaan kekuatan ring 100% adalah konsep terpisah** dan berarti kekuatan ring dikuasai sepenuhnya setara dengan penggunaan Spirit Beast asalnya.
 
 Meditasi biasa tidak otomatis menjadi Kultivasi dan tidak mengubah Sync progress. Hanya aktivitas yang secara jelas dijalankan sebagai **Kultivasi** menurut aturan ini yang dapat meningkatkan Sync progress; Kultivasi tetap bukan Penyerapan Spirit Ring atau breakthrough.
 
@@ -100,7 +100,7 @@ Penaklukan Spirit Beast dan proses penyerapan Spirit Ring adalah bagian yang ber
 - Perburuan Spirit Beast dapat berlangsung di hutan atau lokasi berbahaya. Jangan mewajibkan karakter membawa Beast ke lokasi meditasi aman sebelum menyelesaikan perburuan.
 - Setelah Spirit Beast dikalahkan, Spirit Ring muncul mengambang di atas tubuh Beast.
 - Aktivitas Kultivasi untuk meningkatkan Sync progress dilakukan di tempat aman dan stasioner. Meditasi biasa tanpa tujuan/proses Kultivasi yang jelas tidak mengubah Sync progress.
-- Saat progres mencapai 100% dan karakter berada di bottleneck, Spirit Ring berikutnya menjadi bagian dari proses penyerapan dan breakthrough.
+- Saat Sync progress mencapai **cap kompatibilitas ring yang sedang diproses**, karakter mencapai batas kompatibilitas normalnya. Cap ini bisa kurang dari 100% (misalnya 45%) dan tidak boleh dipaksa menjadi 100%. Angka 100% Sync memiliki arti berbeda: penguasaan penuh atas kekuatan Spirit Ring hingga setara dengan penggunaan Spirit Beast asalnya. Itu adalah hasil penguasaan penuh, bukan syarat universal untuk mencapai bottleneck atau melakukan breakthrough.
 - Sinkronisasi 100% nyaris mustahil melalui penyerapan paksa. Jika Spirit Beast secara sukarela menyerahkan ringnya, sinkronisasi 100% lebih mungkin dicapai, tetapi tidak dijamin.
 - Usia Spirit Ring tidak memiliki batas mutlak hanya berdasarkan angka; toleransi tubuh dan kompatibilitas tetap menentukan. Rentang warna ring tetap mengikuti tabel di atas, sementara warna untuk usia 500.000 tahun ke atas belum ditetapkan.
 - Gunakan formula kompatibilitas, PowerScale, dan Qi yang tercantum di `core/SPIRIT_RING_RULES.md`. Jangan mengganti rumus atau mengarang nilai input yang belum diketahui.

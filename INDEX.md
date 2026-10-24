@@ -67,6 +67,7 @@ Pilih modul berdasarkan aksi, kondisi, dan lokasi saat ini. Jangan membaca atau 
 | Total kekayaan global dan persebaran Xuan Gold per wilayah/pemegang | `world/WEALTH_DISTRIBUTION.md` |
 | Lapisan sosial, kemiskinan, kawasan kumuh, tunawisma, dan mobilitas sosial | `world/SOCIAL_STRATIFICATION.md` |
 | Dunia, tokoh, tiga kekuasaan utama, fondasi lore | `world/WORLD.md` |
+| Struktur pemerintahan sipil dan militer Golden Dragon Empire, kementerian, jenjang administrasi, serta aturan penyimpanan data pemerintahan | `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md` |
 | Peta, wilayah, permukiman, rute yang diketahui | `world/MAP_AND_REGIONS.md` |
 | Geografi fisik, perjalanan, moda transportasi, dan batas pengetahuan rute | `world/GEOGRAPHY_AND_TRAVEL.md` |
 | Bangsa berakal, ciri kelompok, dan konteks perlakuan sosial | `world/INTELLIGENT_PEOPLES.md` |
@@ -102,7 +103,7 @@ Jika sumber wajib gagal diakses, sebutkan file yang gagal dan jangan mengaku tel
 - `players.md`: indeks karakter terdaftar.
 - `players/<Nama>.md`: snapshot awal karakter individual, bukan save berjalan.
 - Modul mekanik: sumber resmi untuk aturan di ruang lingkupnya.
-- Modul world: sumber resmi untuk lore, geografi/perjalanan, bangsa berakal, faksi, sejarah, katalog artefak, distribusi kekayaan, stratifikasi sosial, serta event dinamis sesuai cakupannya. Untuk perjalanan atau interaksi dengan kelompok masyarakat, baca modul world yang relevan; jangan menganggap `MAP_AND_REGIONS.md` menggantikan aturan transportasi atau lore bangsa berakal.
+- Modul world: sumber resmi untuk lore, geografi/perjalanan, pemerintahan Golden Dragon Empire, bangsa berakal, faksi, sejarah, katalog artefak, distribusi kekayaan, stratifikasi sosial, serta event dinamis sesuai cakupannya. Untuk perjalanan atau interaksi dengan kelompok masyarakat, baca modul world yang relevan; jangan menganggap `MAP_AND_REGIONS.md` menggantikan aturan transportasi atau lore bangsa berakal.
 - Event dinamis: setelah hasil aksi ditetapkan, cek apakah konsekuensinya persisten dan berdampak pada dunia bersama. Jika ya, siapkan proposal melalui `templates/WORLD_EVENT_UPDATE_TEMPLATE.md`. Proposal pemain/GM bukan canon dan tidak boleh dianggap tersimpan sebelum ditinjau, disetujui, dan di-commit oleh owner/admin. Perubahan karakter pribadi tidak dimasukkan ke registry event dunia.
 - Profil gameplay terakhir dan kejadian setelahnya: sumber state sesi berjalan.
 
@@ -144,6 +145,7 @@ Jika sumber wajib gagal diakses, sebutkan file yang gagal dan jangan mengaku tel
 - `gameplay/COMBAT_SYSTEM.md`
 - `gameplay/TIME_AND_ACTION_RULES.md`
 - `world/WORLD.md`
+- `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`
 - `world/MAP_AND_REGIONS.md`
 - `world/GEOGRAPHY_AND_TRAVEL.md`
 - `world/WANLUO_SACRED_EXPANSE.md`
@@ -164,6 +166,7 @@ Modul yang disebut tetapi belum tersedia tidak otomatis menjadi sumber resmi. Ja
 Regional modules are divided according to the established geography in `world/MAP_AND_REGIONS.md`. They are **owner-fillable scaffolds**, not a license for the GM to invent missing canon. Fetch the module matching the character's current location or intended destination; fetch `world/NPC_MANAGEMENT.md` when creating, meeting, or continuing an important NPC. Use `templates/NPC_PROFILE_TEMPLATE.md` for a full NPC profile and link it from the regional registry.
 
 ### Golden Dragon Empire
+- Empire-wide civil and military governance — `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`
 - Longyuan — `world/REGION_LONGYUAN.md`
 - Canglan — `world/REGION_CANGLAN.md`
 - Jinyue — `world/REGION_JINYUE.md`
@@ -208,6 +211,7 @@ Regional modules are divided according to the established geography in `world/MA
 | Character meets an established recurring or major NPC | Read the NPC profile linked from the regional registry and preserve prior continuity |
 | Character meets a new minor NPC | Follow `world/NPC_MANAGEMENT.md` and `templates/AUTHORITY_ORDER.md`; do not invent major secrets or present improvised details as permanent canon |
 | Faction presence, membership, or authority matters | Read `world/FACTIONS.md` and the matching regional module; regional association alone does not prove current control |
+| Government office, imperial ministry, governor, prefecture/county hierarchy, or civil-versus-military authority matters in the Golden Dragon Empire | Read `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`, then the matching `world/REGION_*.md` module and any linked NPC profile |
 | NPC action changes the persistent world | Check `world/DYNAMIC_EVENTS.md` and the approved owner workflow; do not claim persistence without a verified repository update |
 
 **Canon boundary:** The regional modules preserve the region identities, named settlements, and faction associations already present in official world files. They intentionally leave additional geography, routes, local rulers, population, customs, prices, named NPCs, hidden lore, and current faction control unfilled for the owner to define. Do not infer those details from a module's existence.

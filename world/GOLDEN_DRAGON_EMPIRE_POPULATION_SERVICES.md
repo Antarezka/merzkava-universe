@@ -50,47 +50,47 @@ Ninefold Concord Bank has one named public branch in each prefectural seat. Its 
 | Longyuan | Vermilion Gate Prefecture | Ninefold Concord Bank — Zhuque Branch | istana, administrasi, dan bangsawan |
 | Longyuan | Golden Terrace Prefecture | Ninefold Concord Bank — Jintai Branch | istana, administrasi, dan bangsawan |
 | Longyuan | River Crown Prefecture | Ninefold Concord Bank — Guanhe Branch | istana, administrasi, dan bangsawan |
-| Longyuan | White Stag Prefecture | Ninefold Concord Bank — Bailu Branch | istana, administrasi, dan bangsawan |
+| Longyuan | Golden Terrace Prefecture (former White Stag Prefecture district) | Ninefold Concord Bank — Bailu Branch | istana, administrasi, dan bangsawan |
 | Canglan | Qinghe Prefecture | Ninefold Concord Bank — Qinghe Branch | sungai, irigasi, pertanian, dan pangan |
 | Canglan | Jiangbei Prefecture | Ninefold Concord Bank — Jiangbei Branch | sungai, irigasi, pertanian, dan pangan |
 | Canglan | Lianzhou Prefecture | Ninefold Concord Bank — Lianzhou Branch | sungai, irigasi, pertanian, dan pangan |
 | Canglan | Mingchuan Prefecture | Ninefold Concord Bank — Mingchuan Branch | sungai, irigasi, pertanian, dan pangan |
 | Canglan | Yunshui Prefecture | Ninefold Concord Bank — Yunshui Branch | sungai, irigasi, pertanian, dan pangan |
 | Canglan | Shuangjiang Prefecture | Ninefold Concord Bank — Shuangjiang Branch | sungai, irigasi, pertanian, dan pangan |
-| Canglan | Lotus Ford Prefecture | Ninefold Concord Bank — Lianjin Branch | sungai, irigasi, pertanian, dan pangan |
-| Canglan | Granary Plain Prefecture | Ninefold Concord Bank — Cangping Branch | sungai, irigasi, pertanian, dan pangan |
+| Canglan | Shuangjiang Prefecture (former Lotus Ford Prefecture district) | Ninefold Concord Bank — Lianjin Branch | sungai, irigasi, pertanian, dan pangan |
+| Canglan | Qinghe Prefecture (former Granary Plain Prefecture district) | Ninefold Concord Bank — Cangping Branch | sungai, irigasi, pertanian, dan pangan |
 | Jinyue | Jadevein Prefecture | Ninefold Concord Bank — Yumai Branch | pertambangan, logam spiritual, dan bahan artefak |
 | Jinyue | Ironcloud Prefecture | Ninefold Concord Bank — Tieyun Branch | pertambangan, logam spiritual, dan bahan artefak |
-| Jinyue | Deepstone Prefecture | Ninefold Concord Bank — Shenshi Branch | pertambangan, logam spiritual, dan bahan artefak |
+| Jinyue | Ironcloud Prefecture (former Deepstone Prefecture district) | Ninefold Concord Bank — Shenshi Branch | pertambangan, logam spiritual, dan bahan artefak |
 | Jinyue | Goldsand Prefecture | Ninefold Concord Bank — Jinsha Branch | pertambangan, logam spiritual, dan bahan artefak |
 | Jinyue | Spirit Ore Prefecture | Ninefold Concord Bank — Lingkuang Branch | pertambangan, logam spiritual, dan bahan artefak |
 | Tianfeng | Heavenly Script Prefecture | Ninefold Concord Bank — Tianshu Branch | akademi, pendidikan kultivasi, dan arsip |
 | Tianfeng | Cloud Summit Prefecture | Ninefold Concord Bank — Yunding Branch | akademi, pendidikan kultivasi, dan arsip |
 | Tianfeng | Scholar's River Prefecture | Ninefold Concord Bank — Wenchuan Branch | akademi, pendidikan kultivasi, dan arsip |
 | Tianfeng | Pine Ink Prefecture | Ninefold Concord Bank — Songmo Branch | akademi, pendidikan kultivasi, dan arsip |
-| Tianfeng | Hundred Schools Prefecture | Ninefold Concord Bank — Baixue Branch | akademi, pendidikan kultivasi, dan arsip |
-| Tianfeng | Jade Lecture Prefecture | Ninefold Concord Bank — Yuyan Branch | akademi, pendidikan kultivasi, dan arsip |
+| Tianfeng | Scholar's River Prefecture (former Hundred Schools Prefecture district) | Ninefold Concord Bank — Baixue Branch | akademi, pendidikan kultivasi, dan arsip |
+| Tianfeng | Heavenly Script Prefecture (former Jade Lecture Prefecture district) | Ninefold Concord Bank — Yuyan Branch | akademi, pendidikan kultivasi, dan arsip |
 | Yanling | Red Furnace Prefecture | Ninefold Concord Bank — Honglu Branch | pandai besi, tungku, dan industri spiritual |
 | Yanling | Ashen Peak Prefecture | Ninefold Concord Bank — Huifeng Branch | pandai besi, tungku, dan industri spiritual |
 | Yanling | Molten River Prefecture | Ninefold Concord Bank — Rongjiang Branch | pandai besi, tungku, dan industri spiritual |
 | Yanling | Black Anvil Prefecture | Ninefold Concord Bank — Heitie Branch | pandai besi, tungku, dan industri spiritual |
-| Yanling | Emberstone Prefecture | Ninefold Concord Bank — Huoshi Branch | pandai besi, tungku, dan industri spiritual |
-| Yanling | Flame Basin Prefecture | Ninefold Concord Bank — Yanpen Branch | pandai besi, tungku, dan industri spiritual |
+| Yanling | Red Furnace Prefecture (former Emberstone Prefecture district) | Ninefold Concord Bank — Huoshi Branch | pandai besi, tungku, dan industri spiritual |
+| Yanling | Molten River Prefecture (former Flame Basin Prefecture district) | Ninefold Concord Bank — Yanpen Branch | pandai besi, tungku, dan industri spiritual |
 | Baiyue | Northwatch Prefecture | Ninefold Concord Bank — Beiguan Branch | benteng, jalur militer, dan perbatasan |
 | Baiyue | Iron Pass Prefecture | Ninefold Concord Bank — Tieguan Branch | benteng, jalur militer, dan perbatasan |
 | Baiyue | Stonewall Prefecture | Ninefold Concord Bank — Shibi Branch | benteng, jalur militer, dan perbatasan |
 | Baiyue | Falcon Ridge Prefecture | Ninefold Concord Bank — Yingshan Branch | benteng, jalur militer, dan perbatasan |
-| Baiyue | Storm Banner Prefecture | Ninefold Concord Bank — Fengqi Branch | benteng, jalur militer, dan perbatasan |
+| Baiyue | Northwatch Prefecture (former Storm Banner Prefecture district) | Ninefold Concord Bank — Fengqi Branch | benteng, jalur militer, dan perbatasan |
 | Baiyue | Long Pass Prefecture | Ninefold Concord Bank — Changguan Branch | benteng, jalur militer, dan perbatasan |
-| Baiyue | Pine Shield Prefecture | Ninefold Concord Bank — Songdun Branch | benteng, jalur militer, dan perbatasan |
+| Baiyue | Long Pass Prefecture (former Pine Shield Prefecture district) | Ninefold Concord Bank — Songdun Branch | benteng, jalur militer, dan perbatasan |
 | Xingluo | Eastern Star Prefecture | Ninefold Concord Bank — Dongxing Branch | pelabuhan, perdagangan laut, dan diplomasi |
 | Xingluo | Pearl Harbor Prefecture | Ninefold Concord Bank — Mingzhu Branch | pelabuhan, perdagangan laut, dan diplomasi |
 | Xingluo | Blue Sail Prefecture | Ninefold Concord Bank — Lanfan Branch | pelabuhan, perdagangan laut, dan diplomasi |
 | Xingluo | Tidegate Prefecture | Ninefold Concord Bank — Chaoguan Branch | pelabuhan, perdagangan laut, dan diplomasi |
 | Xingluo | Saltwind Prefecture | Ninefold Concord Bank — Yanfeng Branch | pelabuhan, perdagangan laut, dan diplomasi |
-| Xingluo | Jade Coast Prefecture | Ninefold Concord Bank — Yuhai Branch | pelabuhan, perdagangan laut, dan diplomasi |
-| Xingluo | Far Lantern Prefecture | Ninefold Concord Bank — Yuandeng Branch | pelabuhan, perdagangan laut, dan diplomasi |
-| Xingluo | Dragonwake Prefecture | Ninefold Concord Bank — Longchao Branch | pelabuhan, perdagangan laut, dan diplomasi |
+| Xingluo | Eastern Star Prefecture (former Jade Coast Prefecture district) | Ninefold Concord Bank — Yuhai Branch | pelabuhan, perdagangan laut, dan diplomasi |
+| Xingluo | Tidegate Prefecture (former Far Lantern Prefecture district) | Ninefold Concord Bank — Yuandeng Branch | pelabuhan, perdagangan laut, dan diplomasi |
+| Xingluo | Blue Sail Prefecture (former Dragonwake Prefecture district) | Ninefold Concord Bank — Longchao Branch | pelabuhan, perdagangan laut, dan diplomasi |
 
 **Banking rules**
 - Branches share the institution's stated goal of practical neutrality; neutrality does not prevent bribery attempts, robbery, fraud, coercion, or political pressure.
@@ -108,47 +108,47 @@ One named office is established at each prefecture seat. These offices connect l
 | Longyuan | Vermilion Gate Prefecture | Myriad Ledger Exchange — Zhuque Office | istana, administrasi, dan bangsawan |
 | Longyuan | Golden Terrace Prefecture | Myriad Ledger Exchange — Jintai Office | istana, administrasi, dan bangsawan |
 | Longyuan | River Crown Prefecture | Myriad Ledger Exchange — Guanhe Office | istana, administrasi, dan bangsawan |
-| Longyuan | White Stag Prefecture | Myriad Ledger Exchange — Bailu Office | istana, administrasi, dan bangsawan |
+| Longyuan | Golden Terrace Prefecture (former White Stag Prefecture district) | Myriad Ledger Exchange — Bailu Office | istana, administrasi, dan bangsawan |
 | Canglan | Qinghe Prefecture | Myriad Ledger Exchange — Qinghe Office | sungai, irigasi, pertanian, dan pangan |
 | Canglan | Jiangbei Prefecture | Myriad Ledger Exchange — Jiangbei Office | sungai, irigasi, pertanian, dan pangan |
 | Canglan | Lianzhou Prefecture | Myriad Ledger Exchange — Lianzhou Office | sungai, irigasi, pertanian, dan pangan |
 | Canglan | Mingchuan Prefecture | Myriad Ledger Exchange — Mingchuan Office | sungai, irigasi, pertanian, dan pangan |
 | Canglan | Yunshui Prefecture | Myriad Ledger Exchange — Yunshui Office | sungai, irigasi, pertanian, dan pangan |
 | Canglan | Shuangjiang Prefecture | Myriad Ledger Exchange — Shuangjiang Office | sungai, irigasi, pertanian, dan pangan |
-| Canglan | Lotus Ford Prefecture | Myriad Ledger Exchange — Lianjin Office | sungai, irigasi, pertanian, dan pangan |
-| Canglan | Granary Plain Prefecture | Myriad Ledger Exchange — Cangping Office | sungai, irigasi, pertanian, dan pangan |
+| Canglan | Shuangjiang Prefecture (former Lotus Ford Prefecture district) | Myriad Ledger Exchange — Lianjin Office | sungai, irigasi, pertanian, dan pangan |
+| Canglan | Qinghe Prefecture (former Granary Plain Prefecture district) | Myriad Ledger Exchange — Cangping Office | sungai, irigasi, pertanian, dan pangan |
 | Jinyue | Jadevein Prefecture | Myriad Ledger Exchange — Yumai Office | pertambangan, logam spiritual, dan bahan artefak |
 | Jinyue | Ironcloud Prefecture | Myriad Ledger Exchange — Tieyun Office | pertambangan, logam spiritual, dan bahan artefak |
-| Jinyue | Deepstone Prefecture | Myriad Ledger Exchange — Shenshi Office | pertambangan, logam spiritual, dan bahan artefak |
+| Jinyue | Ironcloud Prefecture (former Deepstone Prefecture district) | Myriad Ledger Exchange — Shenshi Office | pertambangan, logam spiritual, dan bahan artefak |
 | Jinyue | Goldsand Prefecture | Myriad Ledger Exchange — Jinsha Office | pertambangan, logam spiritual, dan bahan artefak |
 | Jinyue | Spirit Ore Prefecture | Myriad Ledger Exchange — Lingkuang Office | pertambangan, logam spiritual, dan bahan artefak |
 | Tianfeng | Heavenly Script Prefecture | Myriad Ledger Exchange — Tianshu Office | akademi, pendidikan kultivasi, dan arsip |
 | Tianfeng | Cloud Summit Prefecture | Myriad Ledger Exchange — Yunding Office | akademi, pendidikan kultivasi, dan arsip |
 | Tianfeng | Scholar's River Prefecture | Myriad Ledger Exchange — Wenchuan Office | akademi, pendidikan kultivasi, dan arsip |
 | Tianfeng | Pine Ink Prefecture | Myriad Ledger Exchange — Songmo Office | akademi, pendidikan kultivasi, dan arsip |
-| Tianfeng | Hundred Schools Prefecture | Myriad Ledger Exchange — Baixue Office | akademi, pendidikan kultivasi, dan arsip |
-| Tianfeng | Jade Lecture Prefecture | Myriad Ledger Exchange — Yuyan Office | akademi, pendidikan kultivasi, dan arsip |
+| Tianfeng | Scholar's River Prefecture (former Hundred Schools Prefecture district) | Myriad Ledger Exchange — Baixue Office | akademi, pendidikan kultivasi, dan arsip |
+| Tianfeng | Heavenly Script Prefecture (former Jade Lecture Prefecture district) | Myriad Ledger Exchange — Yuyan Office | akademi, pendidikan kultivasi, dan arsip |
 | Yanling | Red Furnace Prefecture | Myriad Ledger Exchange — Honglu Office | pandai besi, tungku, dan industri spiritual |
 | Yanling | Ashen Peak Prefecture | Myriad Ledger Exchange — Huifeng Office | pandai besi, tungku, dan industri spiritual |
 | Yanling | Molten River Prefecture | Myriad Ledger Exchange — Rongjiang Office | pandai besi, tungku, dan industri spiritual |
 | Yanling | Black Anvil Prefecture | Myriad Ledger Exchange — Heitie Office | pandai besi, tungku, dan industri spiritual |
-| Yanling | Emberstone Prefecture | Myriad Ledger Exchange — Huoshi Office | pandai besi, tungku, dan industri spiritual |
-| Yanling | Flame Basin Prefecture | Myriad Ledger Exchange — Yanpen Office | pandai besi, tungku, dan industri spiritual |
+| Yanling | Red Furnace Prefecture (former Emberstone Prefecture district) | Myriad Ledger Exchange — Huoshi Office | pandai besi, tungku, dan industri spiritual |
+| Yanling | Molten River Prefecture (former Flame Basin Prefecture district) | Myriad Ledger Exchange — Yanpen Office | pandai besi, tungku, dan industri spiritual |
 | Baiyue | Northwatch Prefecture | Myriad Ledger Exchange — Beiguan Office | benteng, jalur militer, dan perbatasan |
 | Baiyue | Iron Pass Prefecture | Myriad Ledger Exchange — Tieguan Office | benteng, jalur militer, dan perbatasan |
 | Baiyue | Stonewall Prefecture | Myriad Ledger Exchange — Shibi Office | benteng, jalur militer, dan perbatasan |
 | Baiyue | Falcon Ridge Prefecture | Myriad Ledger Exchange — Yingshan Office | benteng, jalur militer, dan perbatasan |
-| Baiyue | Storm Banner Prefecture | Myriad Ledger Exchange — Fengqi Office | benteng, jalur militer, dan perbatasan |
+| Baiyue | Northwatch Prefecture (former Storm Banner Prefecture district) | Myriad Ledger Exchange — Fengqi Office | benteng, jalur militer, dan perbatasan |
 | Baiyue | Long Pass Prefecture | Myriad Ledger Exchange — Changguan Office | benteng, jalur militer, dan perbatasan |
-| Baiyue | Pine Shield Prefecture | Myriad Ledger Exchange — Songdun Office | benteng, jalur militer, dan perbatasan |
+| Baiyue | Long Pass Prefecture (former Pine Shield Prefecture district) | Myriad Ledger Exchange — Songdun Office | benteng, jalur militer, dan perbatasan |
 | Xingluo | Eastern Star Prefecture | Myriad Ledger Exchange — Dongxing Office | pelabuhan, perdagangan laut, dan diplomasi |
 | Xingluo | Pearl Harbor Prefecture | Myriad Ledger Exchange — Mingzhu Office | pelabuhan, perdagangan laut, dan diplomasi |
 | Xingluo | Blue Sail Prefecture | Myriad Ledger Exchange — Lanfan Office | pelabuhan, perdagangan laut, dan diplomasi |
 | Xingluo | Tidegate Prefecture | Myriad Ledger Exchange — Chaoguan Office | pelabuhan, perdagangan laut, dan diplomasi |
 | Xingluo | Saltwind Prefecture | Myriad Ledger Exchange — Yanfeng Office | pelabuhan, perdagangan laut, dan diplomasi |
-| Xingluo | Jade Coast Prefecture | Myriad Ledger Exchange — Yuhai Office | pelabuhan, perdagangan laut, dan diplomasi |
-| Xingluo | Far Lantern Prefecture | Myriad Ledger Exchange — Yuandeng Office | pelabuhan, perdagangan laut, dan diplomasi |
-| Xingluo | Dragonwake Prefecture | Myriad Ledger Exchange — Longchao Office | pelabuhan, perdagangan laut, dan diplomasi |
+| Xingluo | Eastern Star Prefecture (former Jade Coast Prefecture district) | Myriad Ledger Exchange — Yuhai Office | pelabuhan, perdagangan laut, dan diplomasi |
+| Xingluo | Tidegate Prefecture (former Far Lantern Prefecture district) | Myriad Ledger Exchange — Yuandeng Office | pelabuhan, perdagangan laut, dan diplomasi |
+| Xingluo | Blue Sail Prefecture (former Dragonwake Prefecture district) | Myriad Ledger Exchange — Longchao Office | pelabuhan, perdagangan laut, dan diplomasi |
 
 **Information-service limits**
 - A report should carry an appropriate confidence label: verified by multiple credible sources, single-source report, rumor, or disputed claim.

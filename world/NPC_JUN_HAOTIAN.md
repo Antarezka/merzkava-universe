@@ -22,7 +22,7 @@
 - **First-contact circumstances:** Belum ditetapkan
 
 ## 3. Capabilities
-- **Spirit Realm / Stage:** Spirit Realm 9 — Spirit Primordial, Middle Stage
+- **Spirit Realm / Stage:** 9 — Spirit Primordial, Middle Stage
 - **Martial Soul:** Golden Heavenly Dragon — Myth Tier
 - **Spirit Rings and abilities:** Refer to the proposed ring configuration in `world/WORLD.md`; details and abilities are not expanded in this profile.
 - **Techniques / combat style:** Belum ditetapkan

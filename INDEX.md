@@ -192,6 +192,12 @@ Regional modules are divided according to the established geography in `world/MA
 - Regional module template — `templates/REGIONAL_MODULE_TEMPLATE.md`
 - NPC profile template — `templates/NPC_PROFILE_TEMPLATE.md`
 
+### Established Imperial Family NPC Profiles
+- Emperor Jun Haotian — `world/NPC_JUN_HAOTIAN.md`
+- Empress Shen Yuehua — `world/NPC_SHEN_YUEHUA.md`
+- Crown Prince Jun Ruiyuan — `world/NPC_JUN_RUIYUAN.md`
+- Princess Jun Yuejin — `world/NPC_JUN_YUEJIN.md`
+
 ### Regional/NPC navigation triggers
 | Situation | Required source |
 |---|---|

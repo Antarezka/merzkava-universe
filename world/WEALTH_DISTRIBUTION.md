@@ -34,7 +34,7 @@ These are accounting allocations, not literal piles of cash. They do not establi
 
 ## 3. Wealth Concentration by Social Holder
 
-This is the primary ownership view of the same global total. The defining feature of the Xuanling economy is **extreme wealth concentration**: a tiny number of rulers, high-tier clans and sects, and major trade institutions control most recorded wealth. The common population collectively holds only a small fraction.
+This is the primary ownership view of the same global total. The defining feature of the Merzkava economy is **extreme wealth concentration**: a tiny number of rulers, high-tier clans and sects, and major trade institutions control most recorded wealth. The common population collectively holds only a small fraction.
 
 | Rank | Primary holder group | Share | Allocated Xuan Gold |
 |---:|---|---:|---:|

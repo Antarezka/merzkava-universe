@@ -51,7 +51,8 @@ Untuk combat, termasuk cakupan aksi, serangan beruntun, multi-hit, damage, perta
 
 ## 5. State, Waktu, dan Konsistensi
 
-- Waktu, timestamp, batas durasi, serta time skip mengikuti gameplay/TIME_AND_ACTION_RULES.md.
+- Waktu, timestamp, batas durasi, serta time skip mengikuti `gameplay/TIME_AND_ACTION_RULES.md`.
+- Satiety, jadwal makan, pengurangan saat terjaga, pengali jam makan terlewat, metabolisme Realm, dan pengubah kondisi tubuh hanya mengikuti `core/HUNGER_AND_METABOLISM.md`. Setiap kali waktu aktif berlalu atau karakter makan, hitung dan perbarui `Satiety: nilai/100` sesuai modul itu. Tidur malam yang dilindungi mengunci Satiety dan boleh melewati batas aksi biasa 3 jam; jangan mengurangi Satiety selama tidur itu.
 - Breakthrough dan Day left mengikuti templates/CHARACTER_PROFILE_TEMPLATE.md serta interval resmi di bestiary/SPIRIT_BEAST_RULES.md. Selesainya jeda waktu saja tidak menjamin breakthrough.
 - HP dan injury adalah state terpisah; gunakan core/HP_SYSTEM.md dan core/INJURY_SYSTEM.md.
 - Sync progress/cap kompatibilitas bukan hal yang sama dengan penguasaan kekuatan ring 100%; ikuti modul Spirit Ring.
@@ -60,7 +61,7 @@ Untuk combat, termasuk cakupan aksi, serangan beruntun, multi-hit, damage, perta
 - Saat menggambarkan NPC, layanan, perumahan, atau dampak uang, gunakan `world/SOCIAL_STRATIFICATION.md` untuk membedakan elite, kelas menengah, rakyat miskin, penghuni kawasan kumuh, dan tunawisma. Jangan anggap kota makmur bebas kemiskinan, dan jangan menganggap kategori-kategori tersebut sebagai pembagian kekayaan tambahan.
 - Jangan menghapus luka, racun, penggunaan sumber daya, kerusakan equipment, utang, atau konsekuensi yang masih berlaku tanpa dasar pemulihan/perubahan yang sah.
 - Jangan mengedit players.md atau file karakter individual di players/ selama gameplay tanpa permintaan eksplisit pemilik repository.
-- Jangan menambah field profil baru atau field terpisah bernama Law/Spirit Rings tanpa persetujuan pemilik.
+- Jangan menambah field profil di luar template canonical tanpa persetujuan pemilik. `Satiety: nilai/100` sudah menjadi field resmi; jangan menambah field terpisah bernama Law/Spirit Rings.
 
 ## 6. Format Jawaban
 

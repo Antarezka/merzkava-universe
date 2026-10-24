@@ -44,3 +44,11 @@ Use `gameplay/TIME_AND_ACTION_RULES.md` for travel-time resolution. Transport ty
 6. Ancient shamanic and monastic mountain communities are world elements, but their names, individual doctrines, and specific factions remain undefined until established.
 
 **Canon boundary:** This module records broad geography and travel concepts, not a complete world map, exhaustive bestiary, ruin catalogue, or transport specification.
+
+## 7. Wanluo Sacred Expanse and Pilgrimage Routes
+
+The Wanluo Sacred Expanse is a broad green plain surrounded by ancient forests and mountain ranges, with the World Knowledge Tower at its central landmark. The exact coordinates, dimensions, sovereignty, and relation to the three major powers remain unconfirmed. Refer to `world/WANLUO_SACRED_EXPANSE.md` for its districts, religious precinct, and governance.
+
+Roads from multiple directions converge on the Tower because generations of pilgrims and other travelers repeatedly used passable routes through mountain passes, valleys, forests, and river crossings. Tracks widened over time and supported rest stops, markets, scholarly institutions, and administrative services. This network was not established all at once by a ruler, and its convergence is not evidence that the Tower supernaturally created the roads.
+
+Do not infer exact route lengths, travel times, safety, or adjacency from this description. Terrain may force roads to curve or pass through dangerous areas. The wider region is open to visitors under local rules, but entry into Wanluo does not imply access to restricted facilities or inner areas of the World Knowledge Tower.

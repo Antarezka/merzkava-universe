@@ -1,7 +1,7 @@
 # Merzkava Universe — Hunger and Metabolism
 
 **Status:** Modul mekanik resmi.  
-**Cakupan:** Satiety, jadwal makan, pengurangan karena waktu aktif, tidur malam, Realm, kondisi tubuh, dan pengubah biologis/supranatural.
+**Cakupan:** Satiety, jadwal makan, pengurangan karena waktu aktif, tidur malam, Spirit Realm, kondisi tubuh, dan pengubah biologis/supranatural.
 
 Modul ini adalah satu-satunya sumber angka untuk Hunger dan Metabolism. Jangan membuat rumus hunger tandingan di modul lain.
 
@@ -41,7 +41,7 @@ Laju dasar menunjukkan waktu aktif yang diperlukan untuk mengurangi 100 Satiety 
 
 | Tingkat tubuh/kultivasi | Waktu aktif per 100 Satiety |
 |---|---:|
-| Mortal (belum memiliki Realm) | 24 jam |
+| Mortal (belum memasuki sembilan Spirit Realm) | 24 jam |
 | Spirit Initiate | 2 hari |
 | Spirit Adept | 4 hari |
 | Spirit Elder | 8 hari |
@@ -52,7 +52,7 @@ Laju dasar menunjukkan waktu aktif yang diperlukan untuk mengurangi 100 Satiety 
 | Spirit Sovereign | 256 hari |
 | Spirit Primordial | 365 hari |
 
-Gunakan Realm yang benar-benar tercatat. Jangan menaikkan tingkat metabolisme hanya karena karakter memiliki Martial Soul langka, ring berusia tinggi, kekayaan, status sosial, atau kekuatan yang belum ditetapkan. Pengaruh khusus harus memenuhi §7.
+Gunakan Spirit Realm yang benar-benar tercatat. Jangan menaikkan tingkat metabolisme hanya karena karakter memiliki Martial Soul langka, ring berusia tinggi, kekayaan, status sosial, atau kekuatan yang belum ditetapkan. Pengaruh khusus harus memenuhi §7.
 
 ## 4. Rumus Pengurangan Satiety
 
@@ -137,7 +137,7 @@ Setiap kali waktu berlalu, makan terjadi, atau kondisi tubuh berubah:
 
 1. Baca timestamp sebelumnya dan tentukan berapa lama karakter benar-benar terjaga.
 2. Kecualikan periode tidur malam yang dilindungi §6; Satiety tetap terkunci selama periode itu.
-3. Tentukan tingkat/Realm yang tercatat dan waktu dasar dari §3.
+3. Tentukan tingkat/Spirit Realm yang tercatat dan waktu dasar dari §3.
 4. Tentukan kondisi tubuh saat periode aktif itu, termasuk kategori kelelahan yang didukung.
 5. Perbarui jumlah jendela makan terlewat jika jendela berakhir saat karakter terjaga dan punya kesempatan makan.
 6. Tentukan pengubah khusus hanya dari aturan resmi atau kejadian yang tercatat.
@@ -146,7 +146,7 @@ Setiap kali waktu berlalu, makan terjadi, atau kondisi tubuh berubah:
 9. Batasi Satiety pada 0–100 dan catat hasil akhirnya di profil.
 10. Jangan mengubah HP, Qi, injury, atau kondisi lain hanya karena Satiety berubah, kecuali sumber resmi lain atau kejadian yang sah menetapkan hubungan itu.
 
-Jika timestamp, Realm, periode tidur, atau kondisi penting tidak diketahui, jangan menebak angka secara diam-diam. Gunakan informasi yang tersedia, tandai nilai yang belum dapat ditentukan, dan minta klarifikasi hanya bila diperlukan untuk menyelesaikan hasil.
+Jika timestamp, Spirit Realm, periode tidur, atau kondisi penting tidak diketahui, jangan menebak angka secara diam-diam. Gunakan informasi yang tersedia, tandai nilai yang belum dapat ditentukan, dan minta klarifikasi hanya bila diperlukan untuk menyelesaikan hasil.
 
 ## 9. Format Profil
 

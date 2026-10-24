@@ -53,6 +53,7 @@ Untuk combat, termasuk cakupan aksi, serangan beruntun, multi-hit, damage, perta
 
 - Waktu, timestamp, batas durasi, serta time skip mengikuti `gameplay/TIME_AND_ACTION_RULES.md`.
 - Satiety, jadwal makan, pengurangan saat terjaga, pengali jam makan terlewat, metabolisme Realm, dan pengubah kondisi tubuh hanya mengikuti `core/HUNGER_AND_METABOLISM.md`. Setiap kali waktu aktif berlalu atau karakter makan, hitung dan perbarui `Satiety: nilai/100` sesuai modul itu. Tidur malam yang dilindungi mengunci Satiety dan boleh melewati batas aksi biasa 3 jam; jangan mengurangi Satiety selama tidur itu.
+- Sifat bawaan tubuh yang sudah tercatat boleh memengaruhi cara lapar, lelah, atau tekanan fisik terlihat dan ditoleransi dalam narasi. Jangan menghapus kebutuhan biologis, memberi kekebalan penuh, atau mengubah angka Satiety tanpa aturan numerik resmi; jangan pula memaksakan gejala standar jika sifat tercatat jelas memengaruhi manifestasinya.
 - Breakthrough dan Day left mengikuti templates/CHARACTER_PROFILE_TEMPLATE.md serta interval resmi di bestiary/SPIRIT_BEAST_RULES.md. Selesainya jeda waktu saja tidak menjamin breakthrough.
 - HP dan injury adalah state terpisah; gunakan core/HP_SYSTEM.md dan core/INJURY_SYSTEM.md.
 - Sync progress/cap kompatibilitas bukan hal yang sama dengan penguasaan kekuatan ring 100%; ikuti modul Spirit Ring.

@@ -131,7 +131,7 @@ Dojo tidak otomatis berada di bawah kendali klan yang namanya serupa. Hubungan f
 
 Title: Emperor of the Golden Dragon Empire
 Martial Soul: Golden Heavenly Dragon
-Spirit Realm: Spirit Realm 9 — Spirit Primordial
+Spirit Realm: 9 — Spirit Primordial
 Stage: Middle
 
 Proposed Spirit Ring Configuration
@@ -243,7 +243,7 @@ Leiyu Clan| Teknik tempur dan kekuatan ofensif
 
 Title: Maharaja of Tianhai Yunzhou
 Martial Soul: Heavenly Sky Whale
-Spirit Realm: Spirit Realm 9 — Spirit Primordial
+Spirit Realm: 9 — Spirit Primordial
 Stage: Early
 
 Proposed Spirit Ring Configuration
@@ -334,7 +334,7 @@ Xuanye Clan| Teknik tempur dan kepentingan strategis
 
 Title: Leluhur Utara of Beiming Gu
 Martial Soul: Blue-Flame Silver Tiger
-Spirit Realm: Spirit Realm 9 — Spirit Primordial
+Spirit Realm: 9 — Spirit Primordial
 Stage: Early
 
 Proposed Spirit Ring Configuration
@@ -353,7 +353,7 @@ Total| 4,250,000 years|
 
 Warna Spirit Ring di atas 499.999 tahun belum ditetapkan dalam aturan warna dunia ini. Jangan menciptakan warna baru sebelum sistem tersebut disahkan.
 
-Leluhur Utara dikenal sebagai penguasa dengan keunggulan besar dalam duel langsung dibandingkan dua penguasa Spirit Realm 9 lainnya, meskipun Spirit Spirit Realm Stage miliknya Early.
+Leluhur Utara dikenal sebagai penguasa dengan keunggulan besar dalam duel langsung dibandingkan dua penguasa lain pada Spirit Realm 9, meskipun Stage miliknya Early.
 
 Keunggulan tersebut merupakan penilaian relatif terhadap kemampuan bertarung individu, bukan jaminan kemenangan dalam semua keadaan.
 
@@ -697,7 +697,7 @@ Catatan yang tidak lengkap harus tetap dianggap tidak lengkap. Dugaan, legenda, 
 
 XII-A. THINKER, KNOWLEDGE EXCHANGE, AND ARTIFICIAL ARTIFACTS
 
-Thinker adalah jalur kemajuan independen yang berfokus pada pengetahuan, material, pola, formulasi, dan pembuatan Artificial Artifact. Thinker memiliki sepuluh tingkatan dan tidak identik dengan Spirit Spirit Realm. Tingkat kultivasi tinggi tidak otomatis menjadikan seseorang Thinker hebat; tingkat Thinker tinggi juga tidak otomatis menjadikan seseorang kultivator kuat. Tingkat Thinker menentukan kemampuan dasar dan batas formulasi normal, tetapi tidak menjamin keberhasilan setiap pengerjaan.
+Thinker adalah jalur kemajuan independen yang berfokus pada pengetahuan, material, pola, formulasi, dan pembuatan Artificial Artifact. Thinker memiliki sepuluh tingkatan dan tidak identik dengan sistem Spirit Realm. Tingkat kultivasi tinggi tidak otomatis menjadikan seseorang Thinker hebat; tingkat Thinker tinggi juga tidak otomatis menjadikan seseorang kultivator kuat. Tingkat Thinker menentukan kemampuan dasar dan batas formulasi normal, tetapi tidak menjamin keberhasilan setiap pengerjaan.
 
 Thinker pertama berasal dari Tianhai Yunzhou. Tianhai menjadi pusat keunggulan pengetahuan Thinker; pengaruhnya mencakup ilmu, budaya, diplomasi, dan persaingan antarkekuatan, bukan hanya kekuatan tempur. Maharaja Tianhai dapat bersaing melalui pengetahuan luar biasa, bukan semata-mata kekuatan pribadi.
 

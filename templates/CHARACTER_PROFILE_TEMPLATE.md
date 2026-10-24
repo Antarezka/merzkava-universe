@@ -25,13 +25,13 @@ Pertahankan nama dan urutan field sesuai `templates/GAMEPLAY_RESPONSE_TEMPLATE.m
 17. `Teknik / Kemampuan`: kemampuan serta rincian Spirit Ring yang dimiliki, dengan fungsi jelas dan sumber yang sah.
 18. `Tujuan Saat Ini`: tujuan karakter yang dinyatakan pemain atau sudah tercatat; jangan mengambil alih keputusan pemain.
 
-## Sumber Currency dan Buku Ekonomi Player
+## Sumber Currency dan Konsistensi Saldo
 
-- Untuk karakter yang memiliki `players/economy/<Nama>.md`, buku ekonomi itu adalah sumber utama saldo Currency dan riwayat transaksi. Profil gameplay hanya menampilkan snapshot saldo setelah resolusi giliran.
-- Saat sesi baru, baca ledger ekonomi setelah membaca snapshot karakter. Salin saldo secara persis ke `Currency (xuan/zun)` dengan format `...xc | ...xs | ...xg | ...zj | ...az`.
-- Jangan memakai kalimat penghasilan/Assets untuk menebak saldo jika saldo ledger sudah ada. Jangan menambah atau mengurangi saldo tanpa transaksi yang didukung kejadian.
-- Jika ledger belum ada, gunakan `templates/PLAYER_ECONOMY_TEMPLATE.md` untuk membuat acuan. Ambil saldo awal dari nilai eksplisit di snapshot/riwayat; jika benar-benar tidak tersedia, gunakan estimasi bootstrap yang diberi label menurut Economy System.
-- Jika transaksi terjadi, catat sebab, waktu, jumlah masuk/keluar, dan saldo sesudah transaksi pada ledger sebelum menampilkan saldo baru di profil. Jika repository tidak bisa ditulis, pertahankan ledger sesi dan jangan mengaku telah menyimpan perubahan ke GitHub.
+- Untuk sesi baru, gunakan saldo eksplisit pada snapshot `players/<Nama>.md`. Untuk sesi berjalan/recall, gunakan Currency pada profil gameplay terakhir lalu terapkan transaksi sah yang terjadi setelahnya.
+- `core/10_ECONOMY_SYSTEM.md` adalah sumber aturan kurs, harga, valuasi, dan transaksi; file itu bukan sumber saldo individual.
+- Salin saldo secara persis ke field `Currency (xuan/zun)` dengan format `...xc | ...xs | ...xg | ...zj | ...az`. Jangan memakai deskripsi penghasilan atau Assets untuk menebak saldo bila saldo sudah tercatat.
+- Jika saldo awal tidak tercatat di snapshot atau riwayat, tetapkan satu estimasi bootstrap yang wajar sesuai latar karakter dan Economy System, lalu tandai sebagai **estimasi saldo awal GM**. Jangan mengarang transaksi masa lalu.
+- Setelah saldo awal ditetapkan, jangan mengundi ulang atau mengubahnya hanya karena giliran baru. Setiap perubahan harus memiliki sebab dan waktu yang jelas, jumlah masuk/keluar yang sesuai dengan aturan ekonomi, serta saldo akhir yang konsisten dengan riwayat gameplay. Profil akhir giliran menampilkan saldo setelah transaksi sah; tidak ada file ledger terpisah yang wajib dibuat.
 
 ## Aturan Pengisian
 

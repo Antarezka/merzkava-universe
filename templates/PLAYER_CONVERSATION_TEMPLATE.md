@@ -2,7 +2,7 @@
 
 Untuk memulai atau melanjutkan roleplay, gunakan instruksi singkat ini:
 
-> Analisis dan baca dengan saksama INDEX.md dari repository resmi https://github.com/Antarezka/xuanling-realm, lalu ikuti urutan bootstrap di sana tanpa melewati langkah. Baca GM Prompt dan format gameplay canonical, periksa `world/DYNAMIC_EVENTS.md` untuk event dunia terbaru, lalu tentukan sumber karakter sesuai mode sesi. Jika karakter terdaftar dan sesi baru dimulai, baca players.md untuk menemukan file karakter individual, lalu baca file tersebut sebagai snapshot awal. Untuk sesi berlanjut/recall, gunakan profil terakhir dan kejadian yang tersedia, bukan snapshot awal. Ambil karakter **[Nama Karakter]** dan mulai roleplay sesuai sumber resmi, event dunia yang relevan dengan pengetahuan karakter, state sesi, dan format gameplay canonical.
+> Analisis dan baca dengan saksama INDEX.md dari repository resmi https://github.com/Antarezka/xuanling-realm, lalu ikuti urutan bootstrap di sana tanpa melewati langkah. Baca Authority Order (`templates/AUTHORITY_ORDER.md`) dan format gameplay canonical, periksa `world/DYNAMIC_EVENTS.md` untuk event dunia terbaru, lalu tentukan sumber karakter sesuai mode sesi. Jika karakter terdaftar dan sesi baru dimulai, baca players.md untuk menemukan file karakter individual, lalu baca file tersebut sebagai snapshot awal. Untuk sesi berlanjut/recall, gunakan profil terakhir dan kejadian yang tersedia, bukan snapshot awal. Ambil karakter **[Nama Karakter]** dan mulai roleplay sesuai sumber resmi, event dunia yang relevan dengan pengetahuan karakter, state sesi, dan format gameplay canonical.
 
 **Pemanggilan gameplay:**
 

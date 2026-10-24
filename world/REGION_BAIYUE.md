@@ -39,6 +39,8 @@ Prefectures and seats:
 
 The administrative atlas is authoritative for names and totals. This regional file is the place to expand individual settlement descriptions, local institutions, officeholders, NPCs, and confirmed local events. Do not infer exact borders or travel times from the jurisdiction list alone.
 
+**Population-facing institutions:** Use `world/GOLDEN_DRAGON_EMPIRE_POPULATION_SERVICES.md` for named Ninefold Concord Bank and Myriad Ledger Exchange branches, Medicine Hall Society service points, foundation academies, and Ordo Suci Tianming public knowledge libraries in this region. The central register governs branch names and service limits.
+
 ## 3. Settlements and Points of Interest
 
 The prefecture seats listed below are established by `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. Detailed districts, neighborhoods, roads, markets, and individual buildings remain to be developed.

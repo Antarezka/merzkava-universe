@@ -33,7 +33,8 @@
 
 | FILE | DESCRIPTION |
 |---|---|
-| [Cosmology Framework](world/COSMOLOGY.md) | Universe scope, main world, divine realms, dimensions, and primordial worlds |\n| [World Overview](world/WORLD.md) | Established main-world foundations and the three major powers |
+| [Cosmology Framework](world/COSMOLOGY.md) | Universe scope, main world, divine realms, dimensions, and primordial worlds |
+| [World Overview](world/WORLD.md) | Established main-world foundations and the three major powers |
 | [Map & Regions](world/MAP_AND_REGIONS.md) | Regional index and geographic knowledge boundaries |
 | [Geography & Travel](world/GEOGRAPHY_AND_TRAVEL.md) | Terrain, transportation, travel, and route information |
 | [Intelligent Peoples](world/INTELLIGENT_PEOPLES.md) | Peoples, traits, and social context |

@@ -34,6 +34,7 @@ Pilih modul berdasarkan aksi, kondisi, dan lokasi saat ini. Jangan membaca atau 
 | Cedera dan pemulihan injury | `core/INJURY_SYSTEM.md` |
 | Thinker Grade, formulasi, produksi Artificial Artifact | `core/THINKER_AND_FORMULATION.md` |
 | Harga, transaksi, kurs, aset, Currency | `core/10_ECONOMY_SYSTEM.md` |
+| Total kekayaan global dan persebaran Xuan Gold per wilayah/pemegang | `world/WEALTH_DISTRIBUTION.md` |
 | Dunia, tokoh, tiga kekuasaan utama, fondasi lore | `world/WORLD.md` |
 | Peta, wilayah, permukiman, rute yang diketahui | `world/MAP_AND_REGIONS.md` |
 | Klan, dojo, sekte, organisasi, Medicine Hall Society | `world/FACTIONS.md` |
@@ -103,5 +104,6 @@ Jika sumber wajib gagal diakses, sebutkan file yang gagal dan jangan mengaku tel
 - `world/HISTORY.md`
 - `world/ARTIFACTS_AND_RELICS.md`
 - `world/ARTIFICIAL_ARTIFACTS.md`
+- `world/WEALTH_DISTRIBUTION.md`
 
 Modul yang disebut tetapi belum tersedia tidak otomatis menjadi sumber resmi. Jangan mengklaim membacanya atau menganggap isinya sudah ditetapkan.

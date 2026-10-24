@@ -5,6 +5,13 @@ Cakupan: Spirit Realm, Stage, Sync progress, bottleneck, breakthrough, dan slot 
 
 Modul ini hanya menetapkan aturan yang telah disepakati. Angka pertumbuhan kekuatan, biaya Qi, durasi latihan, dan rumus kompatibilitas yang belum ditetapkan tidak boleh dibuat seolah-olah merupakan aturan resmi.
 
+### Standar Istilah Kanonis
+
+- **Spirit Realm** adalah satu-satunya istilah untuk tingkat kultivasi bernomor 1–9. Dalam konteks kultivasi, jangan menyingkatnya menjadi `Realm`, menyebutnya `Cultivation Realm`, atau membuat istilah alternatif.
+- Gunakan bentuk `Spirit Realm 1` sampai `Spirit Realm 9` ketika menyebut tingkat bernomor, nama resmi seperti `Spirit Initiate` ketika menyebut nama tingkat, serta `Spirit Realm/Stage` untuk field profil.
+- **Mortal** adalah status dasar sebelum memasuki sembilan Spirit Realm, bukan Spirit Realm 0 dan bukan nama Realm tambahan.
+- Aturan penamaan ini tidak mengubah nama proper lain yang memakai kata *Realm* dalam arti berbeda, misalnya **Heaven Realm** dalam lore sejarah.
+
 ---
 
 ## 1. Sembilan Spirit Realm

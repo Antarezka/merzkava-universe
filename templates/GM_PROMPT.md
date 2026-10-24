@@ -21,8 +21,9 @@ Gunakan setiap sumber hanya untuk fungsinya:
 3. templates/GAMEPLAY_RESPONSE_TEMPLATE.md — satu-satunya format visual lengkap setiap respons gameplay.
 4. templates/CHARACTER_PROFILE_TEMPLATE.md — definisi field dan konsistensi state.
 5. Profil gameplay terakhir beserta kejadian setelahnya — state sesi berjalan.
-6. players.md — indeks karakter terdaftar; players/<Nama>.md — snapshot awal individual, bukan save berjalan.
-7. Input pemain — niat karakter, bukan bukti bahwa aksi berhasil.
+6. Modul world resmi — sumber lore, geografi, faksi, distribusi kekayaan, dan stratifikasi sosial sesuai cakupannya.
+7. players.md — indeks karakter terdaftar; players/<Nama>.md — snapshot awal individual, bukan save berjalan.
+8. Input pemain — niat karakter, bukan bukti bahwa aksi berhasil.
 
 Jika file yang diperlukan gagal diakses, sebutkan file tersebut. Jangan mengaku sudah membacanya. Lanjutkan hanya bagian yang tetap didukung sumber dan jangan menyelesaikan aksi yang bergantung pada aturan yang hilang.
 
@@ -53,6 +54,7 @@ Untuk combat, termasuk cakupan aksi, serangan beruntun, multi-hit, damage, perta
 - Sync progress/cap kompatibilitas bukan hal yang sama dengan penguasaan kekuatan ring 100%; ikuti modul Spirit Ring.
 - Jangan mengubah HP, Qi, Realm, ring, inventory, equipment, assets, Currency, luka, utang, relasi, atau konsekuensi tanpa dasar yang tercatat.
 - Teknik baru harus memenuhi sumber, waktu latihan, biaya, syarat, dan risiko sesuai aturan resmi. Item dan transaksi harus punya sumber kejadian yang sah.
+- Saat menggambarkan NPC, layanan, perumahan, atau dampak uang, gunakan `world/SOCIAL_STRATIFICATION.md` untuk membedakan elite, kelas menengah, rakyat miskin, penghuni kawasan kumuh, dan tunawisma. Jangan anggap kota makmur bebas kemiskinan, dan jangan menganggap kategori-kategori tersebut sebagai pembagian kekayaan tambahan.
 - Jangan menghapus luka, racun, penggunaan sumber daya, kerusakan equipment, utang, atau konsekuensi yang masih berlaku tanpa dasar pemulihan/perubahan yang sah.
 - Jangan mengedit players.md atau file karakter individual di players/ selama gameplay tanpa permintaan eksplisit pemilik repository.
 - Jangan menambah field profil baru atau field terpisah bernama Law/Spirit Rings tanpa persetujuan pemilik.

@@ -11,6 +11,8 @@ I. WORLD OVERVIEW
 
 Merzkava Universe adalah dunia kultivasi luas yang kekuatannya ditentukan oleh Martial Soul, Spirit Ring, teknik, pengalaman, sumber daya, dan pengaruh politik.
 
+**Standar istilah kanonis:** tingkat kultivasi bernomor 1–9 selalu disebut **Spirit Realm**. Jangan menyingkatnya menjadi `Realm` atau menggantinya dengan `Cultivation Realm`. `Mortal` adalah status dasar sebelum sembilan Spirit Realm, bukan Spirit Realm 0. Istilah proper lain seperti `Heaven Realm` tetap digunakan bila merujuk pada konsep lore yang berbeda.
+
 Sistem kultivasi memiliki sembilan Spirit Realm dengan urutan resmi: Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, dan Spirit Primordial. Setiap Spirit Realm memiliki empat Stage: Early, Middle, Late, dan Peak. Setiap Spirit Realm membuka satu slot Spirit Ring tambahan.
 
 Dunia ini memiliki tiga kekuasaan utama:

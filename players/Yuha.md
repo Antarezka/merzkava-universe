@@ -27,13 +27,13 @@
 
 ## Latar Belakang Orisinal (Wajib Dipertahankan Utuh)
 
-Yuha adalah seorang bocah Realm Mortal yang luar biasa tampan dan manis, dibesarkan oleh kakak-kakak perempuan yang tinggal di sebuah paviliun hiburan (bordil). Ia ditemukan di dalam sebuah keranjang dengan balutan kain mahal, ditemani sepuluh giok kecil yang merupakan warisan peninggalan seseorang untuknya di masa depan, tepat empat belas tahun kemudian.
+Yuha adalah seorang bocah Spirit Mortal status yang luar biasa tampan dan manis, dibesarkan oleh kakak-kakak perempuan yang tinggal di sebuah paviliun hiburan (bordil). Ia ditemukan di dalam sebuah keranjang dengan balutan kain mahal, ditemani sepuluh giok kecil yang merupakan warisan peninggalan seseorang untuknya di masa depan, tepat empat belas tahun kemudian.
 
 Yuha memiliki rambut hitam berantakan yang menutupi dahinya, kacamata tipis, serta sepasang mata biru tua menyerupai mata paus surgawi. Di balik penampilannya yang manis dan terkesan biasa, ia memiliki stamina yang sangat ekstrem, jarang merasa lapar, serta indra pergerakan luar biasa yang mampu menangkap dan merespons gerakan secepat suara. Namun, Yuha sama sekali tidak menyadari kemampuan istimewanya tersebut.
 
 Dalam kesehariannya, Yuha sering menjadi sasaran perundungan seorang gadis muda pewaris konsorsium lelang ternama, yang diam-diam sebenarnya menyukainya. Meski begitu, Yuha tidak terlalu memusingkan hal tersebut dan tetap menjalani pekerjaan yang paling disukainya: menjadi pendamping sekaligus teman bicara bagi para putri kekaisaran, sekte-sekte besar, dan kalangan pemerintahan. Pekerjaannya bukan sebagai pengawal atau pelayan, melainkan sebagai seorang escort yang dibayar untuk menemani mereka berbincang, mendengarkan keluh kesah, dan menghabiskan waktu bersama.
 
-Yuha selalu mengenakan hanfu hitam polos berlengan panjang, dilengkapi sebuah tongkat jalan yang menjadi ciri khasnya. Berkat kepribadiannya yang manis dan kemampuannya menjadi teman bicara yang menyenangkan, ia memperoleh bayaran yang cukup besar dari para putri bangsawan tersebut, meskipun dirinya hanyalah seorang pemuda misterius dari Realm Mortal yang belum mengetahui asal-usul maupun potensi sejatinya.
+Yuha selalu mengenakan hanfu hitam polos berlengan panjang, dilengkapi sebuah tongkat jalan yang menjadi ciri khasnya. Berkat kepribadiannya yang manis dan kemampuannya menjadi teman bicara yang menyenangkan, ia memperoleh bayaran yang cukup besar dari para putri bangsawan tersebut, meskipun dirinya hanyalah seorang pemuda misterius dari Spirit Mortal status yang belum mengetahui asal-usul maupun potensi sejatinya.
 
 ## Catatan Canon dan Informasi Khusus GM
 

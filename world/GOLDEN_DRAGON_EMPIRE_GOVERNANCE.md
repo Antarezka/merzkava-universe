@@ -53,13 +53,23 @@ The following portfolio structure is the standard recommended model:
 | Ministry of Personnel | Civil appointments, promotions, transfers, official evaluations, and staffing records |
 | Ministry of Finance | Imperial revenue, public expenditure, tax administration, budgets, and fiscal reports |
 | Ministry of Education and Rites | State academies, official examinations, ceremonies, and public educational standards |
-| Grand Martial Soul Awakening Hall | Specialized institution for coordinating Martial Soul awakening services; detailed internal hierarchy, branches, budget, and reporting chain remain to be established |
+| Grand Martial Soul Awakening Hall | Coordinates Martial Soul awakening services; its allocation responds to confirmed strategically useful awakenings and current government skill shortages; detailed internal hierarchy, branches, budget formula, and reporting chain remain to be established |
 | Ministry of Military Affairs | Central military administration, recruitment records, supplies, and coordination with the command structure; not automatic field command over every unit |
 | Ministry of Justice | Imperial law, courts, legal procedure, appeals, and administration of penalties |
 | Ministry of Public Works | Roads, bridges, canals, flood control, public buildings, and major infrastructure |
 | Imperial Oversight Agency | Audits, misconduct investigations, official complaints, and review of abuse of authority |
 
 The list defines portfolios, not a claim that every ministry already has named ministers, fixed subdivisions, or a fully documented legal code. Those details must be added only when established.
+
+#### 2.3.1 Strategic Awakening Outcomes and Hall Funding
+
+The Grand Martial Soul Awakening Hall's allocation is responsive to the Empire's practical need for capable people, not merely to how rare an awakening is.
+
+- A **strategically useful awakening** is a confirmed Martial Soul whose demonstrated or canonically established function fits a field in which the government currently needs more qualified people. Examples may include medicine, irrigation, construction, material processing, transport and logistics, or another documented shortage. These are illustrative fields, not a closed list.
+- A region with more confirmed awakenings relevant to current government shortages is eligible for a larger Hall allocation in the next applicable funding period; a region with fewer such outcomes may receive less. This makes the budget responsive to regional outcomes and workforce needs.
+- Count only functions that are established, not speculative powers inferred from a Martial Soul's name. A low-rarity or seemingly ordinary Martial Soul can be strategically useful; Myth or Legendary rarity alone does not make an awakening strategically useful.
+- This allocation principle does **not** change awakening rarity odds, mutation odds, or the fairness of the awakening process. Officials must not manipulate results to increase a region's budget.
+- The exact scoring weights by skill, budget amounts, audit period, and allocation formula remain unestablished. Until they are formally defined, the direction of the adjustment is canon, but no exact numeric budget may be invented.
 
 ### 2.4 Regional Governors
 
@@ -182,6 +192,6 @@ The following remain open unless established by a later owner-approved source:
 - Detailed court hierarchy, appeal procedures, police/investigative authority, and emergency powers.
 - Exact army ranks, unit sizes, garrison numbers, and relationships with clan or dojo forces.
 - Any regional exception to the standard hierarchy.
-- The Grand Martial Soul Awakening Hall's internal hierarchy, branch offices, staffing, budget, and detailed reporting chain.
+- The Grand Martial Soul Awakening Hall's internal hierarchy, branch offices, staffing, detailed reporting chain, and the exact scoring weights, audit period, and numeric formula for its outcome-responsive budget (the principle that funding responds to confirmed strategically useful awakenings is established).
 
 The initial territorial names and totals are established by the administrative atlas, while exact geography and current officeholders remain separate facts. Do not use this module to overwrite established characters, clans, dojos, regional identities, or unrelated world lore. When a new fact conflicts with an existing official source, flag the conflict for owner review rather than silently rewriting either source.

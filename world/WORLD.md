@@ -150,6 +150,25 @@ Total| 1,160,000 years|
 
 Konfigurasi ini adalah rancangan kanon awal. Total usia ring bukan ukuran tunggal kekuatan seseorang dan tidak menjamin kemenangan dalam setiap pertarungan.
 
+
+3.6 Imperial Family of Jun
+
+The currently established imperial family consists of Emperor Jun Haotian, Empress Shen Yuehua, Crown Prince Jun Ruiyuan, and Princess Jun Yuejin. Their individual profiles are linked from the Longyuan regional NPC registry.
+
+| Family member | Age | Position | Martial Soul | Tier |
+|---|---:|---|---|---|
+| Jun Haotian (君昊天) | 42 | Emperor | Golden Heavenly Dragon | Myth |
+| Shen Yuehua (沈月华) | 33 | Empress; born into the main branch of the Shen family | Heavenly Crane | Myth |
+| Jun Ruiyuan (君睿渊) | 17 | Eldest child; Crown Prince | Golden Heavenly Qilin | Myth |
+| Jun Yuejin (君月瑾) | 16 | Second child; Princess | Golden Celestial Crane | Myth |
+
+**Confirmed family relationships:** Jun Haotian is married to Shen Yuehua. Jun Ruiyuan is their eldest child and heir to the throne; Jun Yuejin is their second child. Both children are established as inheriting their mother's intelligence and beauty. Their individual personalities, cultivation Realm and Stage, Spirit Rings, techniques, and other abilities remain unestablished unless another official source records them.
+
+**Shen family background through the Empress:** Shen Yuehua belongs to the main branch of the Shen family. The family is known for producing outstanding strategists, maintains hundreds of elite tea-pavilion establishments that serve as gathering places for influential people, and has a specialized intelligence branch as well as its own advanced Thinkers. The Shen family is one of several major parties entrusted with rights and responsibilities in administering the World Knowledge Tower. The Tower is an ancient divine relic from the Early Golden Age and is **not owned by the Shen family**.
+
+The family ages above are the currently selected character ages. The reported childbirth ages for Shen Yuehua (approximately 16 at the birth of Jun Ruiyuan and approximately 17 at the birth of Jun Yuejin) are approximate backstory chronology; exact birthdays and year-by-year age transitions have not been specified.
+
+
 ---
 
 IV. TIANHAI YUNZHOU

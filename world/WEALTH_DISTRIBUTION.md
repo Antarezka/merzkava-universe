@@ -1,7 +1,7 @@
 # Xuanling Realm — Global Xuan Gold Distribution
 
 **Status:** Official economic worldbuilding baseline.
-**Scope:** Estimated distribution of global Xuan Gold wealth by territory and holder/market category.
+**Scope:** Estimated distribution of global Xuan Gold wealth by territory and primary holder group. Social classes and living conditions are defined separately in `world/SOCIAL_STRATIFICATION.md`.
 **Authority:** This module defines global distribution only. Currency exchange rates, pricing, and transactions remain in `core/10_ECONOMY_SYSTEM.md`.
 
 ## 1. Total World Wealth
@@ -52,6 +52,10 @@ This is the primary ownership view of the same global total. The defining featur
 **Total: 400.463.763.789.849 xg (100%).**
 
 The percentages are aggregate accounting shares, not the exact balances of any named ruler, clan, sect, bank, guild, or auction house. The commoner share represents wealth held by the population collectively, not a typical person's personal balance.
+
+### Social classes are not extra wealth categories
+
+The broad social layers—elite, established middle class, lower-income commoners, slum and precarious-housing residents, and homeless or displaced people—are defined in `world/SOCIAL_STRATIFICATION.md`. These layers describe social position and living conditions; they are **not additional ownership shares**. The 1% commoner allocation above remains one aggregate pool. Do not divide it among those layers or add another share without an explicit canon revision.
 
 ### What this inequality looks like in everyday life
 

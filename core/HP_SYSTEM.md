@@ -75,6 +75,8 @@ Batas HP Peak per Spirit Realm:
 
 ## 5. Konsistensi
 
+- Istilah tingkat kultivasi harus selalu ditulis **Spirit Realm**. `Mortal` adalah status sebelum sembilan Spirit Realm, bukan Spirit Realm 0; jangan menggunakan `Realm` sebagai singkatan tingkat kultivasi.
+
 - Gunakan `core/CULTIVATION_SYSTEM.md` untuk memastikan Spirit Realm dan Stage yang sah.
 - Gunakan modul pertarungan resmi jika tersedia untuk menentukan damage, pertahanan, dan hasil pertarungan. Tabel ini sendiri tidak menetapkan angka damage.
 - Gunakan `core/INJURY_SYSTEM.md` untuk progres cedera; jangan memakai laju progres injury sebagai laju pemulihan HP.

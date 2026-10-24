@@ -1,29 +1,29 @@
-# Merzkava Universe — Global Yova Distribution
+# Merzkava Universe — Global Xuan Gold Distribution
 
 **Status:** Official economic worldbuilding baseline.
-**Scope:** Estimated distribution of global Yova wealth by territory and primary holder group. Social classes and living conditions are defined separately in `world/SOCIAL_STRATIFICATION.md`.
+**Scope:** Estimated distribution of global Xuan Gold wealth by territory and primary holder group. Social classes and living conditions are defined separately in `world/SOCIAL_STRATIFICATION.md`.
 **Authority:** This module defines global distribution only. Currency exchange rates, pricing, and transactions remain in `core/10_ECONOMY_SYSTEM.md`.
 
 ## 1. Total World Wealth
 
-**400.463.763.789.849 Yova (yv)** — approximately **400,46 triliun Yova**.
+**400.463.763.789.849 Xuan Gold (xg)** — approximately **400,46 triliun Xuan Gold**.
 
-This is the setting's total accounted wealth pool for this model, not a claim that every unit is a physical coin or that all wealth is liquid and available to spend. It may include currency reserves and financial claims valued in Yova. This figure is not automatically known to ordinary characters.
+This is the setting's total accounted wealth pool for this model, not a claim that every unit is a physical coin or that all wealth is liquid and available to spend. It may include currency reserves and financial claims valued in Xuan Gold. This figure is not automatically known to ordinary characters.
 
-Do not count Xenha or Primordial Xenha a second time on top of this total; use official nominal exchange rates in `core/10_ECONOMY_SYSTEM.md` for conversion.
+Do not count Zun Jade or Ancient Zun a second time on top of this total; use official nominal exchange rates in `core/10_ECONOMY_SYSTEM.md` for conversion.
 
 ## 2. Territorial Distribution
 
 Shares follow the requested priority: Golden Dragon Empire, Tianhai Yunzhou, Beiming Gu, then Lawless Territories.
 
-| Rank | Territory | Share | Allocated Yova |
+| Rank | Territory | Share | Allocated Xuan Gold |
 |---:|---|---:|---:|
-| 1 | Golden Dragon Empire | 45% | 180.208.693.705.432 yv |
-| 2 | Tianhai Yunzhou | 27% | 108.125.216.223.259 yv |
-| 3 | Beiming Gu | 18% | 72.083.477.482.172 yv |
-| 4 | Lawless Territories | 10% | 40.046.376.378.986 yv |
+| 1 | Golden Dragon Empire | 45% | 180.208.693.705.432 xg |
+| 2 | Tianhai Yunzhou | 27% | 108.125.216.223.259 xg |
+| 3 | Beiming Gu | 18% | 72.083.477.482.172 xg |
+| 4 | Lawless Territories | 10% | 40.046.376.378.986 xg |
 
-**Total: 400.463.763.789.849 yv (100%).**
+**Total: 400.463.763.789.849 xg (100%).**
 
 - **Golden Dragon Empire — 45%:** largest concentrated economy, supported by its population, administration, agriculture, inland commerce, industry, clans, and dojos.
 - **Tianhai Yunzhou — 27%:** maritime trade, shipping, sea resources, advanced Thinker knowledge, and cross-regional exchange.
@@ -34,22 +34,22 @@ These are accounting allocations, not literal piles of cash. They do not establi
 
 ## 3. Wealth Concentration by Social Holder
 
-This is the primary ownership view of the same global total. The defining feature of the main-world economy is **extreme wealth concentration**: a tiny number of rulers, high-tier clans and sects, and major trade institutions control most recorded wealth. The common population collectively holds only a small fraction.
+This is the primary ownership view of the same global total. The defining feature of the Xuanling economy is **extreme wealth concentration**: a tiny number of rulers, high-tier clans and sects, and major trade institutions control most recorded wealth. The common population collectively holds only a small fraction.
 
-| Rank | Primary holder group | Share | Allocated Yova |
+| Rank | Primary holder group | Share | Allocated Xuan Gold |
 |---:|---|---:|---:|
-| 1 | Penguasa, keluarga penguasa, dan kas negara | 28% | 112.129.853.861.157 yv |
-| 2 | Klan dan sekte tingkat tinggi | 25% | 100.115.940.947.462 yv |
-| 3 | Serikat dagang besar dan konglomerat lintas wilayah | 18% | 72.083.477.482.172 yv |
-| 4 | Bank dan lembaga keuangan besar | 12% | 48.055.651.654.781 yv |
-| 5 | Organisasi/faksi kuat dan pemilik aset skala besar lain | 7% | 28.032.463.465.289 yv |
-| 6 | Sindikat black market besar | 4% | 16.018.550.551.593 yv |
-| 7 | Pedagang/kultivator independen yang sangat kaya | 2% | 8.009.275.275.796 yv |
-| 8 | Rumah lelang resmi: modal operasional milik rumah lelang | 2% | 8.009.275.275.796 yv |
-| 9 | Rakyat jelata: kekayaan pribadi agregat | 1% | 4.004.637.637.898 yv |
-| 10 | Lelang underworld: modal operasional jaringan lelang | 1% | 4.004.637.637.905 yv |
+| 1 | Penguasa, keluarga penguasa, dan kas negara | 28% | 112.129.853.861.157 xg |
+| 2 | Klan dan sekte tingkat tinggi | 25% | 100.115.940.947.462 xg |
+| 3 | Serikat dagang besar dan konglomerat lintas wilayah | 18% | 72.083.477.482.172 xg |
+| 4 | Bank dan lembaga keuangan besar | 12% | 48.055.651.654.781 xg |
+| 5 | Organisasi/faksi kuat dan pemilik aset skala besar lain | 7% | 28.032.463.465.289 xg |
+| 6 | Sindikat black market besar | 4% | 16.018.550.551.593 xg |
+| 7 | Pedagang/kultivator independen yang sangat kaya | 2% | 8.009.275.275.796 xg |
+| 8 | Rumah lelang resmi: modal operasional milik rumah lelang | 2% | 8.009.275.275.796 xg |
+| 9 | Rakyat jelata: kekayaan pribadi agregat | 1% | 4.004.637.637.898 xg |
+| 10 | Lelang underworld: modal operasional jaringan lelang | 1% | 4.004.637.637.905 xg |
 
-**Total: 400.463.763.789.849 yv (100%).**
+**Total: 400.463.763.789.849 xg (100%).**
 
 The percentages are aggregate accounting shares, not the exact balances of any named ruler, clan, sect, bank, guild, or auction house. The commoner share represents wealth held by the population collectively, not a typical person's personal balance.
 
@@ -59,13 +59,13 @@ The broad social layers—elite, established middle class, lower-income commoner
 
 ### What this inequality looks like in everyday life
 
-- **Commoners:** most day-to-day transactions are in Cova (`cv`) and Mova (`mv`). Even Mova can be important enough to budget carefully. A commoner holding Yova (`yv`) may attract attention, suspicion, envy, or theft risk; it is not a routine pocket coin for ordinary people.
-- **Yova:** 1 yv equals 1,000 mv under the official exchange rate. For many ordinary households, a single Yova coin represents a substantial store of value rather than casual spending money.
-- **Xenha:** 1 Xenha (`xh`) equals 1,000 yv. An ordinary person suddenly producing a Xenha is extraordinary and likely to draw scrutiny. It can trigger rumors about hidden patronage, a windfall, theft, or a dangerous background; it does not automatically prove any one explanation.
+- **Commoners:** most day-to-day transactions are in Xuan Copper (`xc`) and Xuan Silver (`xs`). Even silver can be important enough to budget carefully. A commoner holding Xuan Gold (`xg`) may attract attention, suspicion, envy, or theft risk; it is not a routine pocket coin for ordinary people.
+- **Xuan Gold:** 1 xg equals 100 xs under the official exchange rate. For many ordinary households, a single gold coin represents a substantial store of value rather than casual spending money.
+- **Zun Jade:** 1 Zun Jade (`zj`) equals 1,000 xg. An ordinary person suddenly producing a Zun Jade is extraordinary and likely to draw scrutiny. It can trigger rumors about hidden patronage, a windfall, theft, or a dangerous background; it does not automatically prove any one explanation.
 - **Rulers and elite lineages:** hold concentrated treasuries, estates, tribute, rare assets, and political-economic leverage. Their wealth is often collective or state-controlled, not entirely personal spending money.
 - **High-tier clans and sects:** possess accumulated reserves, territory, businesses, rare materials, and assets built over generations. Their economic power can dwarf that of entire ordinary towns.
 - **Major trade guilds and banks:** control huge flows of capital, credit, deposits, logistics, and access to distant markets. The value they administer is not necessarily all their own equity; use the primary-holder ledger consistently to prevent double counting.
-- **Exceptions:** a poor-looking traveler may be secretly wealthy, and a commoner may inherit or earn a Yova coin. Such exceptions are possible but unusual and should have a credible source; do not treat them as the norm.
+- **Exceptions:** a poor-looking traveler may be secretly wealthy, and a commoner may inherit or earn a gold coin. Such exceptions are possible but unusual and should have a credible source; do not treat them as the norm.
 
 Currency conversion rates do not change because a person is poor. Social inequality is expressed through access, savings, credit, property, opportunities, and risk—not through a different official exchange rate for each social class.
 

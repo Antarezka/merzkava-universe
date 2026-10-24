@@ -33,7 +33,7 @@ Martial Soul adalah bentuk kekuatan utama seseorang. Bentuknya dapat berupa, mis
 
 Awakening Martial Soul berlangsung pada usia empat tahun atau lebih. Awakening mengungkap Martial Soul, tetapi tidak otomatis memberikan Spirit Ring pertama.
 
-Spirit Ring pertama harus diperoleh melalui proses tersendiri yang sah. Jangan memberikan Spirit Ring, kemampuan ring, atau slot yang telah terisi hanya karena karakter sudah mengalami awakening.
+**Mortal adalah status dasar sebelum memasuki sembilan Spirit Realm. Mortal yang telah mengalami Awakening Martial Soul boleh menyerap Spirit Ring pertama; tidak ada syarat Realm atau bottleneck tambahan untuk ring pertama selain Awakening dan persyaratan penyerapan yang memang berlaku.** Awakening saja tidak otomatis memberikan ring: ring tetap harus tersedia melalui proses yang sah dan proses penyerapannya harus benar-benar berhasil. Mortal yang belum Awakening tidak dapat menyerap Spirit Ring pertama.
 
 ## 3. Progres dan Empat Stage
 
@@ -62,7 +62,7 @@ Menerobos hanya dapat dilakukan jika semua syarat berikut terpenuhi:
 
 1. **Bottleneck:** Sync progress berada kurang dari 10 poin persentase di bawah cap kompatibilitas ring aktif.
 2. **Spirit Ring tersedia:** ring berikutnya benar-benar tersedia untuk diserap melalui proses yang sah.
-3. **Item wajib tersedia:** karakter memenuhi persyaratan item yang berlaku untuk Spirit Beast target sesuai `bestiary/SPIRIT_BEAST_RULES.md`. Jika persyaratan item Beast belum ditetapkan, jangan mengarangnya atau menganggapnya tidak ada.
+3. **Item wajib tersedia:** karakter memenuhi persyaratan item yang berlaku untuk Spirit Beast target sesuai `bestiary/SPIRIT_BEAST_RULES.md`. Jika data spesifik belum ada, GM wajib membentuk persyaratan yang sesuai dengan tier Spirit Ring dan jenis Spirit Beast menurut prosedur fallback di `bestiary/SPIRIT_BEAST_RULES.md`; jangan membiarkannya kosong atau menganggap tidak ada syarat.
 4. **Jeda minimum terpenuhi:** waktu sejak Penyerapan Spirit Ring sebelumnya yang berhasil telah mencapai jeda minimum sesuai `bestiary/SPIRIT_BEAST_RULES.md`.
 
 Jeda minimum antar-ring: Ring 1→2 = 2 minggu; Ring 2→3 = 1 bulan; Ring 3→4 = 3 bulan; Ring 4→5 = 6 bulan; Ring 5→6 = 1 tahun; Ring 6→7 = 2 tahun; Ring 7→8 = 3 tahun; Ring 8→9 = 4 tahun.

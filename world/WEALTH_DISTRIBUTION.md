@@ -32,39 +32,52 @@ Shares follow the requested priority: Golden Dragon Empire, Tianhai Yunzhou, Bei
 
 These are accounting allocations, not literal piles of cash. They do not establish the exact treasury balance of a named ruler, bank, guild, faction, or market.
 
-## 3. Distribution by Primary Holder / Market Channel
+## 3. Wealth Concentration by Social Holder
 
-This table is a second view of the **same global total**, divided by primary custodian/accounting channel. Categories are mutually exclusive for this ledger so the same wealth is not counted twice.
+This is the primary ownership view of the same global total. The defining feature of the Xuanling economy is **extreme wealth concentration**: a tiny number of rulers, high-tier clans and sects, and major trade institutions control most recorded wealth. The common population collectively holds only a small fraction.
 
-| Rank | Primary holder / channel | Share | Allocated Xuan Gold |
+| Rank | Primary holder group | Share | Allocated Xuan Gold |
 |---:|---|---:|---:|
-| 1 | Penguasa dan kekayaan negara/kerajaan yang berada di bawah kendali langsung mereka | 30% | 120.139.129.136.954 xg |
-| 2 | Serikat dagang lintas wilayah dan konglomerat perdagangan | 20% | 80.092.752.757.969 xg |
-| 3 | Bank dan lembaga keuangan | 15% | 60.069.564.568.477 xg |
-| 4 | Organisasi, klan, sekte, dan faksi (di luar kategori yang sudah dihitung) | 12% | 48.055.651.654.781 xg |
-| 5 | Black market besar dan jaringan penyelundupan | 6% | 24.027.825.827.390 xg |
-| 6 | Pasar darat | 4% | 16.018.550.551.593 xg |
-| 7 | Rumah lelang resmi dan lelang kelas tinggi | 4% | 16.018.550.551.593 xg |
-| 8 | Pasar laut | 3% | 12.013.912.913.695 xg |
-| 9 | Pasar udara | 3% | 12.013.912.913.695 xg |
-| 10 | Lelang underworld | 3% | 12.013.912.913.702 xg |
+| 1 | Penguasa, keluarga penguasa, dan kas negara | 28% | 112.129.853.861.157 xg |
+| 2 | Klan dan sekte tingkat tinggi | 25% | 100.115.940.947.462 xg |
+| 3 | Serikat dagang besar dan konglomerat lintas wilayah | 18% | 72.083.477.482.172 xg |
+| 4 | Bank dan lembaga keuangan besar | 12% | 48.055.651.654.781 xg |
+| 5 | Organisasi/faksi kuat dan pemilik aset skala besar lain | 7% | 28.032.463.465.289 xg |
+| 6 | Sindikat black market besar | 4% | 16.018.550.551.593 xg |
+| 7 | Pedagang/kultivator independen yang sangat kaya | 2% | 8.009.275.275.796 xg |
+| 8 | Rumah lelang resmi: modal operasional milik rumah lelang | 2% | 8.009.275.275.796 xg |
+| 9 | Rakyat jelata: kekayaan pribadi agregat | 1% | 4.004.637.637.898 xg |
+| 10 | Lelang underworld: modal operasional jaringan lelang | 1% | 4.004.637.637.905 xg |
 
 **Total: 400.463.763.789.849 xg (100%).**
 
-### Interpretation
+The percentages are aggregate accounting shares, not the exact balances of any named ruler, clan, sect, bank, guild, or auction house. The commoner share represents wealth held by the population collectively, not a typical person's personal balance.
 
-- **Rulers and state/royal wealth:** state treasuries, ruling-house assets, sovereign estates, tribute reserves, and wealth directly controlled by rulers. This is the largest single category, but not all of it is personal spending money.
-- **Trade guilds:** major merchant networks, caravans, shipping consortia, wholesalers, and cross-regional trade capital.
-- **Banks and financial institutions:** reserves, deposits, transfers, loans, and trade financing. Wealth is assigned to its primary custodian only once.
-- **Organizations, clans, sects, and factions:** their own treasuries and stored assets, excluding wealth already assigned to rulers, guilds, or banks.
-- **Black markets:** capital held by major illicit trading networks, smugglers, brokers, and concealed exchanges. This does not mean every Lawless Territory faction belongs to a black market.
-- **Land markets:** operating capital in caravan routes, inland wholesalers, city markets, and land-based trade.
-- **Official/high-tier auction houses:** auction-house operating reserves and capital, not the full appraisal value of every item sold.
-- **Sea markets:** port markets, maritime merchants, shipping exchanges, and sea-route trade capital.
-- **Air markets:** aerial routes and markets where such trade is established. Their smaller share reflects a narrower channel, not proof that every aerial good is cheap.
-- **Underworld auctions:** concealed auction circuits and their operating capital, separate from the value of individual items sold.
+### What this inequality looks like in everyday life
 
-## 4. Economic Geography
+- **Commoners:** most day-to-day transactions are in Xuan Copper (`xc`) and Xuan Silver (`xs`). Even silver can be important enough to budget carefully. A commoner holding Xuan Gold (`xg`) may attract attention, suspicion, envy, or theft risk; it is not a routine pocket coin for ordinary people.
+- **Xuan Gold:** 1 xg equals 100 xs under the official exchange rate. For many ordinary households, a single gold coin represents a substantial store of value rather than casual spending money.
+- **Zun Jade:** 1 Zun Jade (`zj`) equals 1,000 xg. An ordinary person suddenly producing a Zun Jade is extraordinary and likely to draw scrutiny. It can trigger rumors about hidden patronage, a windfall, theft, or a dangerous background; it does not automatically prove any one explanation.
+- **Rulers and elite lineages:** hold concentrated treasuries, estates, tribute, rare assets, and political-economic leverage. Their wealth is often collective or state-controlled, not entirely personal spending money.
+- **High-tier clans and sects:** possess accumulated reserves, territory, businesses, rare materials, and assets built over generations. Their economic power can dwarf that of entire ordinary towns.
+- **Major trade guilds and banks:** control huge flows of capital, credit, deposits, logistics, and access to distant markets. The value they administer is not necessarily all their own equity; use the primary-holder ledger consistently to prevent double counting.
+- **Exceptions:** a poor-looking traveler may be secretly wealthy, and a commoner may inherit or earn a gold coin. Such exceptions are possible but unusual and should have a credible source; do not treat them as the norm.
+
+Currency conversion rates do not change because a person is poor. Social inequality is expressed through access, savings, credit, property, opportunities, and risk—not through a different official exchange rate for each social class.
+
+## 4. Markets and Trading Channels (Not Additional Wealth Shares)
+
+Land, sea, and air markets, along with ordinary auctions and underworld auctions, are **transaction channels**, not extra ownership categories. The money and goods passing through them already belong to rulers, guilds, banks, organizations, merchants, or individuals counted above. Do not allocate a separate percentage of the global total to a market channel and then add it to the ownership table.
+
+- **Land markets:** caravan routes, city bazaars, inland wholesalers, rural markets, and overland trade.
+- **Sea markets:** ports, shipping exchanges, maritime merchants, island trade, and sea-route wholesalers.
+- **Air markets:** aerial trade routes and sky markets where such infrastructure exists.
+- **Official and high-tier auctions:** the auction house charges fees and holds operating capital; the full sale value of an item belongs to its seller until the transaction rules record the transfer.
+- **Underworld auctions:** concealed auction circuits may handle rare, illegal, stolen, or politically sensitive goods. Their gross transaction volume is not equivalent to the auction network's own wealth.
+- **Large black markets:** these are primarily networks and operators holding their own capital, not a synonym for all Lawless Territories commerce.
+
+Market size should be described through recorded transaction volume, inventory, fees, and reach when those data exist. Do not invent a market's exact annual turnover or balance from this global ownership table.
+## 5. Economic Geography
 
 1. **Golden Dragon Empire** holds the largest aggregate share and broadest concentration of wealth.
 2. **Tianhai Yunzhou** is second and disproportionately important to maritime and cross-regional exchange.
@@ -73,7 +86,7 @@ This table is a second view of the **same global total**, divided by primary cus
 
 Territorial wealth does not directly determine combat strength, cultivation level, political control, technology, or whether a particular item is available. A region's share does not establish the wealth of every resident.
 
-## 5. GM Rules
+## 6. GM Rules
 
 1. Treat the global total and percentages as the setting's baseline unless the repository owner explicitly revises them.
 2. The territorial table and holder table are two views of the **same total**. Never add the two tables together.
@@ -84,7 +97,7 @@ Territorial wealth does not directly determine combat strength, cultivation leve
 7. Do not invent a named organization's exact balance, a ruler's private fortune, or a specific vault's contents during gameplay. These require an official record or a clearly labeled provisional estimate where bootstrap rules permit one.
 8. Rumors about hidden wealth, black-market reserves, or underworld auction funds are not proof. Character knowledge must have a plausible source.
 
-## 6. Canon Boundaries
+## 7. Canon Boundaries
 
 This module does not establish the exact treasury balance of any named ruler or state; the ownership share of each guild, bank, faction, or auction house; physical coins versus ledger claims; annual income, taxes, debt, inflation, money-supply growth, or minting rates; or the amount held in a particular market, vault, ship, or hidden cache.
 

@@ -186,7 +186,7 @@ Formula kompatibilitas v1:
 
 **Cᵢ = min(100, 0,30Bᵢ + 0,30Mᵢ + 0,25Tᵢ + 0,15Aᵢ)**
 
-Hasil Cᵢ adalah persentase kompatibilitas ring ke-i. Bobot ini merupakan rancangan sistem awal: tubuh dan kecocokan Martial Soul paling berpengaruh, tier Beast berikutnya, lalu cara perolehan. Penyerapan paksa memiliki batas teoretis 97% bahkan ketika faktor lainnya 100%, sehingga sinkronisasi 100% nyaris mustahil; penyerahan sukarela tetap tidak menjamin hasil 100% karena faktor lain dapat lebih rendah. Jangan mengarang nilai input tanpa bukti atau aturan yang dapat diterapkan.
+Hasil Cᵢ adalah **cap kompatibilitas maksimum** ring ke-i, yang dipakai sebagai batas Sync progress pada format `[progres saat ini]%/[Cᵢ]%`; Cᵢ bukan ukuran penguasaan kekuatan ring. Bobot ini merupakan rancangan sistem awal: tubuh dan kecocokan Martial Soul paling berpengaruh, tier Beast berikutnya, lalu cara perolehan. Penyerapan paksa memiliki batas teoretis cap 97% bahkan ketika faktor lainnya 100%. Secara terpisah, sinkronisasi kekuatan 100%—penguasaan penuh kekuatan ring setara dengan penggunaan Spirit Beast asalnya—nyaris mustahil melalui penyerapan paksa. Penyerahan sukarela membuat penguasaan penuh lebih mungkin, tetapi tidak menjaminnya karena faktor lain dapat lebih rendah. Jangan mengarang nilai input tanpa bukti atau aturan yang dapat diterapkan.
 
 ### 6.2. Kompatibilitas keseluruhan semua ring
 

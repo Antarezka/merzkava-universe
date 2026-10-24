@@ -93,6 +93,13 @@ Untuk aksi yang menyentuh beberapa sistem, baca semua modul yang relevan. Contoh
 
 Jika sumber wajib gagal diakses, sebutkan file yang gagal dan jangan mengaku telah membacanya. Jangan menyelesaikan bagian aksi yang bergantung pada aturan yang tidak tersedia.
 
+## Standar Istilah Kultivasi
+
+- Untuk tingkat kultivasi bernomor 1–9, gunakan **Spirit Realm** secara konsisten. Jangan menyingkatnya menjadi `Realm` atau menyebutnya `Cultivation Realm`.
+- Nama tingkat resmi adalah Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, dan Spirit Primordial.
+- **Mortal** adalah status dasar sebelum sembilan Spirit Realm, bukan Spirit Realm 0.
+- Jangan mengubah nama proper lain yang menggunakan kata *Realm* dengan makna berbeda, seperti Heaven Realm dalam sejarah.
+
 ## Sumber Utama dan Batas Tanggung Jawab
 
 - `INDEX.md`: alur dan navigasi.
@@ -218,6 +225,7 @@ Regional modules are divided according to the established geography in `world/MA
 | Character meets an established recurring or major NPC | Read the NPC profile linked from the regional registry and preserve prior continuity |
 | Character meets a new minor NPC | Follow `world/NPC_MANAGEMENT.md` and `templates/AUTHORITY_ORDER.md`; do not invent major secrets or present improvised details as permanent canon |
 | Faction presence, membership, or authority matters | Read `world/FACTIONS.md` and the matching regional module; regional association alone does not prove current control |
+| A character seeks a first or later Spirit Ring through an academy expedition, a Guild party, or a solo hunt | Read `core/SPIRIT_RING_RULES.md`, `core/CULTIVATION_SYSTEM.md`, and `bestiary/SPIRIT_BEAST_RULES.md`; then load the route-specific source (`core/CULTIVATOR_ACADEMIES.md` for an academy Safe Route or `world/SPIRIT_HUNTERS_GUILD.md` for a Guild party) and relevant combat, HP, injury, time, and metabolism modules. Resolve tracking, combat, ring ownership, and absorption as separate steps. |
 | A character seeks any Guild contract, joins a temporary Guild team, accepts escort/cargo/item-search work, seeks a Spirit Beast hunting party, or encounters a Guild bounty notice | Read `world/SPIRIT_HUNTERS_GUILD.md`; also read `core/SPIRIT_RING_RULES.md`, `bestiary/SPIRIT_BEAST_RULES.md`, and relevant combat/HP/injury modules when the contract involves Spirit Beasts or combat |
 | Government office, imperial ministry, or civil-versus-military authority matters in the Golden Dragon Empire | Read `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`, then the matching regional module and any linked NPC profile |
 | A character visits or discusses a Golden Dragon Empire prefecture, county, city, or other administrative unit | Read `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md` and the matching `world/REGION_*.md` module; use the atlas as the single source for jurisdiction names and counts |

@@ -3,7 +3,7 @@
 Status: Modul mekanik resmi; formula v1 untuk kompatibilitas, power scale, dan Qi dirancang dari arahan pemilik proyek.
 Cakupan: usia dan warna Spirit Ring, kemunculan ring, penyerapan, sinkronisasi, power scale, Qi, serta hubungan dengan bottleneck dan breakthrough.
 
-Aturan dalam modul ini harus dipertahankan secara konsisten. Jangan menghapus atau mengganti mekanik yang telah disepakati hanya karena rinciannya tidak tertulis di WORLD.md.
+Aturan dalam modul ini harus dipertahankan secara konsisten. Jangan menghapus atau mengganti mekanik yang telah disepakati hanya karena rinciannya tidak tertulis di WORLD.md. Untuk tingkat kultivasi, gunakan istilah kanonis **Spirit Realm** sebagaimana ditetapkan dalam `core/CULTIVATION_SYSTEM.md`; jangan gunakan `Realm` atau `Cultivation Realm` sebagai istilah singkatan untuk tingkat kultivasi.
 
 ---
 

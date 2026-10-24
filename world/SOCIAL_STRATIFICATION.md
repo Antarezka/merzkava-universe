@@ -1,4 +1,4 @@
-# Xuanling Realm — Social Stratification
+# Merzkava Universe — Social Stratification
 
 **Status:** Official social-worldbuilding baseline.  
 **Scope:** Social classes, economic vulnerability, living conditions, and social mobility.  
@@ -8,7 +8,7 @@ This module defines broad social layers, not a universal legal caste code. A reg
 
 ## 1. Core Principle
 
-Xuanling Realm has **extreme inequality**. Political authority, cultivation strength, family background, land ownership, access to education, connections, and control of resources can reinforce one another. Wealth and social standing overlap, but they are not identical: a powerful cultivator may be poor, while a wealthy merchant may lack combat power.
+Merzkava Universe has **extreme inequality**. Political authority, cultivation strength, family background, land ownership, access to education, connections, and control of resources can reinforce one another. Wealth and social standing overlap, but they are not identical: a powerful cultivator may be poor, while a wealthy merchant may lack combat power.
 
 A prosperous city is not a prosperous life for everyone. Luxury districts, wealthy institutions, busy markets, crowded worker housing, slums, and people sleeping on the street can coexist within the same city.
 
@@ -93,7 +93,7 @@ Movement between layers is possible but unequal and never automatic. Possible ca
 
 ## 6. Regional and Local Variation
 
-The broad layers apply across Xuanling Realm, but their visibility and boundaries vary by region, city, village, port, sect territory, and local law. The Lawless Territories may have different forms of protection and status, but should not be treated as uniformly lawless or uniformly poor.
+The broad layers apply across Merzkava Universe, but their visibility and boundaries vary by region, city, village, port, sect territory, and local law. The Lawless Territories may have different forms of protection and status, but should not be treated as uniformly lawless or uniformly poor.
 
 Do not infer a named city's poverty rate, slum size, homeless population, class percentages, or exact household incomes from its prosperity or territorial wealth share. Those details remain `???` until established by canon or clearly labeled as a local provisional estimate when permitted.
 

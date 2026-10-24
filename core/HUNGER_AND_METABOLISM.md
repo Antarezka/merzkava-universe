@@ -122,7 +122,7 @@ Genetik, garis keturunan, kutukan, berkah langit, konstitusi khusus, Martial Sou
 1. Pastikan sifat atau efek tersebut benar-benar tercatat atau diperoleh melalui kejadian yang sah.
 2. Tentukan apakah efek memengaruhi kebutuhan makan/metabolisme secara eksplisit.
 3. Jika efek menyatakan besaran numerik, gunakan nilai resmi tersebut sebagai pengali `M`.
-4. Jika efek menyatakan dampak tetapi belum memberi angka, catat sebagai efek kualitatif dan jangan menciptakan persentase. Tandai nilai numeriknya sebagai belum ditentukan sampai aturan atau pemilik proyek menetapkannya.
+4. Jika efek menyatakan dampak tetapi belum memberi angka, catat sebagai efek kualitatif dan jangan menciptakan persentase. Tandai nilai numeriknya sebagai belum ditentukan sampai aturan atau pemilik proyek menetapkannya. Sifat bawaan tubuh yang tercatat dapat mengubah cara lapar atau kelelahan terlihat dan ditoleransi dalam narasi, tetapi tidak otomatis mengurangi laju numerik Satiety. Jangan menghapus kebutuhan biologis atau memberi kekebalan penuh tanpa aturan resmi; jangan pula memaksakan gejala yang bertentangan dengan sifat yang sudah ditetapkan.
 5. Jangan menyimpulkan bahwa keturunan kuat otomatis tidak lapar, kutukan otomatis meningkatkan hunger, atau berkah otomatis menurunkan hunger tanpa bukti.
 
 Semua pengubah yang benar-benar independen dapat dikalikan, tetapi:

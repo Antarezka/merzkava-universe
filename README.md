@@ -7,6 +7,8 @@
 - **[templates/PLAYER_CONVERSATION_TEMPLATE.md](templates/PLAYER_CONVERSATION_TEMPLATE.md)** — prompt pemanggilan roleplay.
 - **[world/WORLD.md](world/WORLD.md)** — fondasi lore dunia dan tiga kekuasaan utama.
 - **[world/MAP_AND_REGIONS.md](world/MAP_AND_REGIONS.md)** — regional index dan batas pengetahuan geografis.
+- **[world/GEOGRAPHY_AND_TRAVEL.md](world/GEOGRAPHY_AND_TRAVEL.md)** — geografi fisik, moda transportasi, perjalanan, dan batas informasi rute.
+- **[world/INTELLIGENT_PEOPLES.md](world/INTELLIGENT_PEOPLES.md)** — bangsa berakal, ciri kelompok, dan konteks sosial.
 - **[world/FACTIONS.md](world/FACTIONS.md)** — klan, dojo, sekte, dan organisasi yang tercatat.
 - **[world/HISTORY.md](world/HISTORY.md)** — kronologi dan pencatatan bukti sejarah.
 - **[world/ARTIFACTS_AND_RELICS.md](world/ARTIFACTS_AND_RELICS.md)** — kategori Relic/Ancient Artifact dan provenance.

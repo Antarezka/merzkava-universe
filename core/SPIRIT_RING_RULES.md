@@ -42,12 +42,13 @@ Warna untuk ring berusia 500.000 tahun atau lebih masih **Undefined**. Jangan me
 ## 4. Awakening, Slot, dan Bottleneck
 
 - Awakening Martial Soul berlangsung pada usia empat tahun atau lebih.
-- Awakening tidak otomatis memberikan Spirit Ring pertama; ring pertama harus diperoleh melalui proses tersendiri.
+- Mortal adalah status dasar sebelum sembilan Spirit Realm. Mortal yang telah mengalami Awakening Martial Soul boleh menyerap Spirit Ring pertama; tidak ada syarat Realm atau bottleneck tambahan untuk ring pertama selain Awakening dan persyaratan penyerapan yang memang berlaku.
+- Awakening tidak otomatis memberikan Spirit Ring pertama: ring harus tersedia melalui proses yang sah dan penyerapannya harus benar-benar berhasil. Mortal yang belum Awakening tidak dapat menyerap Spirit Ring pertama.
 - Sistem memiliki sembilan Realm dan satu slot Spirit Ring untuk setiap Realm, sehingga Realm 1 membuka satu slot dan Realm 9 membuka sembilan slot.
 - Urutan Realm: Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, Spirit Primordial.
 - Sync progress selalu dibandingkan dengan cap kompatibilitas ring. Mencapai cap (misalnya `45%/45%`) berarti karakter mencapai batas kompatibilitas normal ring itu; **bukan** berarti cap harus 100%.
 - Penguasaan kekuatan ring 100% adalah konsep terpisah: kekuatan ring dikuasai sepenuhnya, setara dengan saat Spirit Beast asalnya menggunakannya. Jangan samakan penguasaan 100% dengan Sync progress 100% atau dengan cap kompatibilitas. Jangan menganggap penguasaan penuh tercapai hanya karena progress menyentuh cap.
-- Menerobos memerlukan seluruh syarat di `core/CULTIVATION_SYSTEM.md`: bottleneck dalam jarak kurang dari 10 poin persentase dari cap, ring berikutnya tersedia, item wajib untuk Beast target tersedia, dan jeda minimum antar-penyerapan telah terpenuhi.
+- Menerobos setelah ring pertama memerlukan seluruh syarat di `core/CULTIVATION_SYSTEM.md`: bottleneck dalam jarak kurang dari 10 poin persentase dari cap, ring berikutnya tersedia, item wajib untuk Beast target tersedia, dan jeda minimum antar-penyerapan telah terpenuhi. Aturan bottleneck dan jeda ring berikutnya tidak menjadi syarat tambahan untuk penyerapan ring pertama oleh Mortal yang telah Awakening.
 - Penyerapan ring berikutnya menambah jumlah ring hanya jika benar-benar berhasil. Realm baru hanya dicatat setelah seluruh proses breakthrough berhasil.
 - Qi mortal sebelum awakening bernilai 0; setelah awakening tetapi sebelum ring pertama diserap, Qi belum terbentuk.
 ## 5. Penyerapan Spirit Ring, Kultivasi, Sync progress, dan Bottleneck

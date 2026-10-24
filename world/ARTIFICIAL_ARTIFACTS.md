@@ -7,7 +7,7 @@
 
 An Artificial Artifact is manufactured by a Thinker using suitable materials, patterns, and formulations. Artificial Artifacts are distinct from Relics and Ancient Artifacts, which are categorized by their origins.
 
-An artifact's tier is not a cultivation Realm or Spirit Ring tier. A high tier does not automatically mean an artifact is universally useful in combat; the documented function, conditions, limitations, ownership, and actual availability determine its use.
+An artifact's tier is not a Spirit Realm or Spirit Ring tier. A high tier does not automatically mean an artifact is universally useful in combat; the documented function, conditions, limitations, ownership, and actual availability determine its use.
 
 ## 2. Established Technology Context
 
@@ -45,7 +45,7 @@ Only the support function and Tier 9 classification are established. Do not assu
 ## 4. Production Rules — Reference Only
 
 Use `core/THINKER_AND_FORMULATION.md` for all production mechanics. In particular:
-- Thinker Grade and Cultivation Realm progress independently.
+- Thinker Grade and Spirit Realm progress independently.
 - Thinker Grade establishes the normal capability ceiling for artifact production.
 - The baseline success-chance matrix must not be duplicated or altered here.
 - Production requires a suitable formulation, materials, patterns, concentration, mental capability, stamina/energy, and sufficient Thinker Grade.
@@ -58,7 +58,7 @@ This file is a catalog and lore reference, not a second crafting system.
 
 The Formation Engraver is the specialized precision tool used to carve intricate formation patterns into Artificial Artifact base materials. Its general shape resembles a surgical scalpel, with an exceptionally fine working tip. The relationship between smaller patterns and greater technical difficulty is analogous to semiconductor fabrication: miniaturization and pattern density demand greater precision. This is an analogy, not a claim that the artifacts use modern computer-chip technology.
 
-Manufacturing the tool is exceptionally difficult and requires a capable blacksmith/forger with Cultivation Realm 5 or higher and relevant forging ability. The tool is expensive; exact prices, tip dimensions, quality grades, durability, and repair costs remain `???`.
+Manufacturing the tool is exceptionally difficult and requires a capable blacksmith/forger with Spirit Realm 5 or higher and relevant forging ability. The tool is expensive; exact prices, tip dimensions, quality grades, durability, and repair costs remain `???`.
 
 For the authoritative requirements, limitations, and GM rules, see `core/THINKER_AND_FORMULATION.md`, §12. This catalog does not establish a separate crafting system.
 

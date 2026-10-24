@@ -60,13 +60,13 @@ Martial Soul berbentuk hewan dapat mencakup makhluk biasa hingga makhluk mitos d
   - Tianhai Yunzhou — Celestial Whale Martial Soul.
   - Beiming Gu — Blue Flame Silver Tiger Martial Soul.
 - Keberadaan contoh tersebut menjelaskan mengapa Martial Soul Beast tingkat tinggi dipandang istimewa; hal itu tidak berarti setiap Martial Soul Beast langka, setiap pemiliknya akan menjadi penguasa, atau semua Martial Soul Beast memiliki kekuatan setara.
-- Klasifikasi rinci makhluk mitos, peluang munculnya Martial Soul tertentu, tingkat kelangkaan, dan mekanik peringkat Martial Soul belum ditetapkan lengkap. Jangan mengarang peluang awakening atau menetapkan tier hanya dari nama tanpa dasar kanon.
+- Peluang setiap kategori rarity awakening ditetapkan dalam `core/MARTIAL_SOUL_AWAKENING.md`. Namun, peluang munculnya bentuk Martial Soul tertentu, klasifikasi rinci makhluk mitos, dan hubungan antara bentuk tertentu dengan rarity belum ditetapkan. Jangan mengarang peluang berdasarkan jenis, nama, wilayah, atau garis keturunan.
 
 ## 3. Karakteristik dan Klasifikasi
 
 Bentuk, kategori, kualitas, atribut, kemampuan bawaan, kelemahan, dan potensi Martial Soul harus dicatat bila telah ditetapkan melalui sumber resmi atau peristiwa permainan yang sah.
 
-Sistem kategori resmi dan daftar kualitas Martial Soul belum ditetapkan secara lengkap dalam modul ini. Contoh dari genre lain tidak otomatis menjadi kategori resmi Xuanling Realm.
+Kategori rarity awakening resmi—Common, Uncommon, Rare, Epic, Legendary, dan Myth—serta peluang masing-masing ditetapkan dalam `core/MARTIAL_SOUL_AWAKENING.md`. Kategori rarity ini tidak dengan sendirinya menetapkan atribut, kemampuan, statistik, atau hasil pertarungan. Contoh dari genre lain tidak otomatis menjadi kategori resmi Xuanling Realm.
 
 GM tidak boleh menyimpulkan hanya dari nama atau penampilan Martial Soul bahwa ia memiliki atribut, kemampuan pasif, teknik serangan, kemampuan penyembuhan, atau keunggulan tertentu. Kemampuan harus berasal dari deskripsi canon, mekanik resmi, atau hasil yang sah dalam permainan.
 

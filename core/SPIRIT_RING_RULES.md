@@ -33,7 +33,7 @@ Students at an academy that offers practical field instruction can study Spirit 
 
 ### Route B — Temporary Spirit Hunters Guild Party
 
-A person can register for a temporary expedition party through a local Spirit Hunters Guild office when one is available. Parties may be mixed and unpredictable: academy students, younger clan or sect members, independent hunters, half-beasts, people from Lawless Territories, or lower-ranking imperial circles may join. See `world/SPIRIT_HUNTERS_GUILD.md`.
+A person can register for a temporary Spirit Beast hunting party through a local Spirit Hunters Guild office when one is available. The Guild also lists non-hunting contracts—such as escorting, important-cargo transport, and item searches—under its six-tier difficulty system in `world/SPIRIT_HUNTERS_GUILD.md`; those jobs do not themselves provide a Spirit Ring. Parties may be mixed and unpredictable: academy students, younger clan or sect members, independent hunters, half-beasts, people from Lawless Territories, or lower-ranking imperial circles may join. See `world/SPIRIT_HUNTERS_GUILD.md`.
 
 - A temporary roster is flexible, not proof that everyone is trustworthy. Members may have different goals, skills, experience, loyalties, and definitions of a fair reward.
 - Before departure, the party should clarify target, route, roles, signals, emergency plans, and how the ring and other spoils will be distributed. A written or witnessed agreement is useful but does not make betrayal impossible.

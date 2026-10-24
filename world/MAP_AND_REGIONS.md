@@ -1,7 +1,7 @@
 # Xuanling Realm — Map and Regions
 
 **Status:** Regional reference module.  
-**Canon policy:** Established facts are separated from geographic details that still require confirmation. This file organizes known regions; it does not establish precise coordinates, distances, travel times, or borders that have not been defined.
+**Canon policy:** Established facts are separated from geographic details that still require confirmation. This file organizes known regions; it does not establish precise coordinates, distances, travel times, or borders that have not been defined. See `world/GEOGRAPHY_AND_TRAVEL.md` for the broader world layout, wilderness, ruins, and transport; see `world/INTELLIGENT_PEOPLES.md` for the world's diverse peoples.
 
 ## 1. World Map: Current Geographic Model
 
@@ -13,7 +13,7 @@ Xuanling Realm is built around one vast continent with connected seas and mariti
 
 The North is comparatively isolated by terrain and climate. The sea connects distant territories and supports travel, trade, diplomacy, and conflict. Lawless Territories exist outside the direct jurisdiction of the three major powers.
 
-A precise world map, scale, compass bearings between all regions, and verified travel distances have not yet been established. Do not draw conclusions about exact proximity or travel duration from this outline alone.
+Golden Dragon Empire lies in the east, Tianhai Yunzhou floats above the southwestern ocean, and Beiming Gu lies in the north. Large tracts of wilderness and difficult terrain separate the major powers. The sea names remain `???` pending an official naming decision. A precise world map, scale, compass bearings between all regions, and verified travel distances have not yet been established. Do not draw conclusions about exact proximity or travel duration from this outline alone.
 
 ## 2. Golden Dragon Empire — Eastern Regions
 
@@ -117,7 +117,13 @@ Known organizations associated with the area:
 
 The terrain includes snowfields, frozen valleys, conifer forests, and difficult mountains. Exact routes, distances, and current leadership are not yet specified.
 
-## 6. Navigation and Travel Rules
+## 6. Wider Wilderness and Transport
+
+Forests, mountain ranges, ravines, valleys, remote basins, and high ranges rising above the sea of clouds can exist between the major powers. Some remote sky-high mountain communities are associated with ancient shamanic traditions and Buddhist monks; names and specific organizations remain open. Deep, difficult-to-reach wilderness generally tends to hold higher-tier Spirit Beasts, but this is not an absolute rule. Ruins from past eras may occur throughout the world, including in deep ocean trenches.
+
+Horses, trained beasts, and caravans pulled by land beasts are common transport. Some caravans use flying beasts; flying ships require a Tier 5 or higher Artificial Artifact of the Utilities type with a Levitation function. These transport types do not establish exact speed, price, or availability. See `world/GEOGRAPHY_AND_TRAVEL.md` for the full foundation.
+
+## 7. Navigation and Travel Rules
 
 - Use only locations confirmed in official world modules or established through valid gameplay.
 - Do not invent exact distances, travel times, map coordinates, border crossings, or routes when none are documented.
@@ -126,7 +132,7 @@ The terrain includes snowfields, frozen valleys, conifer forests, and difficult 
 - Current control of a location must be based on established canon or recorded events; do not assume a faction controls a place merely because it is associated with that region.
 - If the map lacks a needed detail, mark it unknown or establish it explicitly as provisional before treating it as canon.
 
-## 7. Future Map Data
+## 8. Future Map Data
 
 The following details may be added when confirmed:
 - A world-scale map and orientation.

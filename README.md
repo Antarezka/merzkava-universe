@@ -11,6 +11,8 @@
 - **[world/INTELLIGENT_PEOPLES.md](world/INTELLIGENT_PEOPLES.md)** — bangsa berakal, ciri kelompok, dan konteks sosial.
 - **[world/FACTIONS.md](world/FACTIONS.md)** — klan, dojo, sekte, dan organisasi yang tercatat.
 - **[world/HISTORY.md](world/HISTORY.md)** — kronologi dan pencatatan bukti sejarah.
+- **[world/DYNAMIC_EVENTS.md](world/DYNAMIC_EVENTS.md)** — registry canon event dunia persisten; wajib diperiksa setiap giliran.
+- **[templates/WORLD_EVENT_UPDATE_TEMPLATE.md](templates/WORLD_EVENT_UPDATE_TEMPLATE.md)** — proposal update event dunia untuk ditinjau owner/admin; proposal bukan canon sampai disetujui dan diverifikasi.
 - **[world/ARTIFACTS_AND_RELICS.md](world/ARTIFACTS_AND_RELICS.md)** — kategori Relic/Ancient Artifact dan provenance.
 - **[world/ARTIFICIAL_ARTIFACTS.md](world/ARTIFICIAL_ARTIFACTS.md)** — katalog Artificial Artifact; aturan produksi tetap berada di core system.
 - **[world/WEALTH_DISTRIBUTION.md](world/WEALTH_DISTRIBUTION.md)** — total kekayaan global dan konsentrasi kepemilikan.
@@ -38,10 +40,12 @@
 1. Gunakan `templates/PLAYER_CONVERSATION_TEMPLATE.md` dan trigger `CONVO — [Nama Karakter]`.
 2. Untuk karakter terdaftar dalam sesi baru, baca `players.md`, lalu file individual karakter yang tertaut.
 3. Untuk sesi berlanjut, gunakan profil terakhir dan kejadian setelahnya; jangan menimpa state dengan snapshot awal.
-4. Pada setiap giliran, periksa INDEX dan muat modul relevan. Jika sumber gagal diakses, jangan mengaku telah membacanya.
+4. Pada setiap giliran, ikuti urutan bootstrap di INDEX dan periksa `world/DYNAMIC_EVENTS.md` untuk event aktif yang relevan sebelum memuat modul lain sesuai kebutuhan. Jika sumber gagal diakses, jangan mengaku telah membacanya.
 5. Respons gameplay langsung menggunakan timestamp, narasi, profil, catatan konsistensi, dan `Aksiku : --` sesuai template. MODE: NO STEP berarti tanpa menu pilihan.
 
 Untuk transaksi, kurs, penilaian harga, atau perubahan saldo, gunakan `core/10_ECONOMY_SYSTEM.md` dan catat perubahan yang sah.
+
+Jika aksi gameplay menghasilkan dampak persisten pada dunia bersama, siapkan proposal menggunakan `templates/WORLD_EVENT_UPDATE_TEMPLATE.md`. Hanya owner/admin yang meninjau dan menyimpan perubahan canon ke `world/DYNAMIC_EVENTS.md`; jangan mengklaim event tersimpan sebelum commit diverifikasi.
 
 ## Prinsip proyek
 - Jangan mengarang aturan atau mengklaim membaca file yang tidak tersedia.

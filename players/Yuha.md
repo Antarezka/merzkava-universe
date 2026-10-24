@@ -10,17 +10,18 @@
 - **Nama:** Yuha
 - **Usia:** 14 tahun (tersirat dari petunjuk warisan yang ditinggalkan untuknya tepat empat belas tahun kemudian).
 - **Spirit Realm:** Mortal/0
-- **Sync progress:** ???%/???%
-- **Breakthrough:** ??? | ??? Day left
-- **Martial Soul:** ???
-- **Thinker Grade:** ???
-- **HP:** ???/100
-- **Qi:** ...
-- **Kondisi Tubuh:** ???
+- **Sync progress:** 0%/0% (belum memiliki Spirit Ring aktif; belum ada cap kompatibilitas ring yang ditetapkan).
+- **Breakthrough:** Tidak ada | Belum ditetapkan Day left (belum ada riwayat penyerapan Spirit Ring untuk menghitung jeda).
+- **Martial Soul:** ??? (belum diketahui; jangan ditetapkan sebelum kejadian awakening yang sah).
+- **Thinker Grade:** Belum ditetapkan.
+- **HP:** 100/100 (inisialisasi sesi baru menurut core/HP_SYSTEM.md).
+- **Satiety:** 80/100 (estimasi awal GM untuk sesi baru; perbarui hanya berdasarkan waktu aktif, makanan, dan aturan resmi).
+- **Qi:** 0 (nilai awal numerik belum ditetapkan; jangan mengarang batas maksimum atau pemulihan).
+- **Kondisi Tubuh:** Prima; stamina sangat ekstrem, jarang merasa lapar, dan indra pergerakan luar biasa adalah potensi bawaan pasif yang belum disadari Yuha. Sifat ini tidak memberi kekebalan atau bonus numerik tanpa aturan resmi.
 - **Equipment:** Hanfu hitam polos berlengan panjang; kacamata tipis; tongkat jalan.
 - **Inventory:** Sepuluh giok kecil peninggalan; hanfu hitam polos cadangan sederhana; kantong uang; sisir kayu; kain lap/kain saputangan; botol air kecil; bekal ringan; perlengkapan kebersihan dasar. Semua barang selain sepuluh giok adalah **estimasi awal GM** berdasarkan keseharian dan pekerjaan Yuha. Fungsi khusus dan nilai giok tetap belum diketahui.
 - **Assets:** Memperoleh bayaran yang cukup besar dari pekerjaan sebagai escort/teman bicara bagi para putri bangsawan. **Estimasi awal GM:** tabungan dan uang tunai yang masih tersisa tergolong cukup untuk kebutuhan pribadi sederhana, tetapi bukan kekayaan besar; penghasilan masa lalu tidak dianggap seluruhnya masih tersimpan. Utang besar tidak ditetapkan tanpa bukti.
-- **Currency (xuan/zun):** 18xc | 6xs | 2xg | 0zj | 0az (**estimasi saldo awal GM**; bukan transaksi atau penghasilan baru yang terjadi di awal sesi. Saat ada transaksi, gunakan kurs resmi `core/10_ECONOMY_SYSTEM.md` dan catat perubahan secara eksplisit).
+- **Currency (xuan/zun):** 18xc | 6xs | 2xg | 0zj | 0az (**hasil penetapan acak satu kali untuk saldo awal bootstrap**; dibekukan sebagai saldo awal Yuha, bukan hasil perhitungan dari pekerjaan/Assets dan bukan transaksi masa lalu. Jangan undi ulang saat giliran baru. Saat ada transaksi, gunakan kurs resmi `core/10_ECONOMY_SYSTEM.md` dan catat perubahan secara eksplisit).
 - **Teknik / Kemampuan:** Kemampuan percakapan, mendengarkan, menjaga rahasia percakapan, dan membaca suasana sosial—keterampilan praktis yang masuk akal dari pekerjaannya sebagai pendamping. Stamina ekstrem dan indra gerak luar biasa dicatat sebagai potensi/kondisi bawaan pasif, bukan teknik kultivasi atau jurus tempur yang telah dikuasai.
 - **Tujuan Saat Ini:** Menjalani pekerjaan yang paling disukainya sebagai pendamping dan teman bicara berbayar; asal-usul serta potensi sejatinya masih belum diketahui olehnya.
 

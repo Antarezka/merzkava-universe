@@ -70,7 +70,7 @@ Catat tanggal/waktu penyerapan berhasil, nomor ring, jeda sejak penyerapan sebel
 ## 6. Konsistensi Sumber
 
 - Gunakan `core/SPIRIT_RING_RULES.md` untuk formula kompatibilitas dan aturan ring.
-- Gunakan `core/CULTIVATION_SYSTEM.md` untuk Realm, bottleneck, dan syarat menerobos.
+- Gunakan `core/CULTIVATION_SYSTEM.md` untuk Spirit Realm, bottleneck, dan syarat menerobos.
 - Gunakan `core/HP_SYSTEM.md` dan aturan pertarungan resmi untuk damage HP jika mekanik tersebut tersedia.
 - Gunakan entri Beast yang sah untuk persyaratan item spesifik.
 - Jika aturan penting belum tersedia, nyatakan keterbatasannya dan jangan mengarang fakta canon.

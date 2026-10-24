@@ -11,7 +11,7 @@
 - **Established strengths:** Large population, administration, agriculture, inland trade, industry, cultivation academies, clans, and dojos.
 - **Ruler:** Emperor of the Golden Dragon Empire.
 - **Martial Soul:** Golden Heavenly Dragon.
-- **Spirit Realm:** 9 — Spirit Primordial, Middle Stage.
+- **Spirit Realm:** Spirit Realm 9 — Spirit Primordial, Middle Stage.
 - **Political limits:** Vast territory creates administrative, security, border-control, and corruption challenges. Clan loyalty is not automatically absolute.
 
 ### 1.2 Tianhai Yunzhou
@@ -19,7 +19,7 @@
 - **Established strengths:** Maritime trade, navigation, defense, advanced Thinker knowledge, and a Tier 9 Artificial Artifact that sustains the island.
 - **Ruler:** Maharaja of Tianhai Yunzhou.
 - **Martial Soul:** Heavenly Sky Whale.
-- **Spirit Realm:** 9 — Spirit Primordial, Early Stage.
+- **Spirit Realm:** Spirit Realm 9 — Spirit Primordial, Early Stage.
 - **Political limits:** The island artifact is a strategic asset; its existence does not mean the Maharaja can automatically use all of its functions as personal combat abilities.
 
 ### 1.3 Beiming Gu

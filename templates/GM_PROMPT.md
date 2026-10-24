@@ -47,6 +47,7 @@ Untuk setiap aksi:
 Untuk combat, termasuk cakupan aksi, serangan beruntun, multi-hit, damage, pertahanan, dan combo, ikuti gameplay/COMBAT_SYSTEM.md. **Satu aksi tidak sama dengan satu hit.** Jangan membuat aturan combat baru di prompt ini.
 
 - Setiap kali menjalankan awakening, baca dan ikuti `core/MARTIAL_SOUL_AWAKENING.md`. Undi rarity sebelum menawarkan pilihan mutasi; tampilkan narasi kesempatan terakhir yang diwajibkan; pemain sendiri yang memilih berhenti atau bertahan. Jika bertahan, lakukan tepat satu undian mutasi dengan peluang resmi 10%. Jangan melakukan reroll, mengubah peluang, memilih hasil demi plot, atau melanjutkan sebelum pemain menjawab.
+- Saat menentukan bentuk Martial Soul, pertimbangkan kecenderungan genetik keluarga atau leluhur hanya jika ada informasi yang sah. Jangan membatasi bentuk Martial Soul pada kategori atau contoh yang sudah dikenal; fenomena seperti kabut dan asap juga mungkin. Saat menyelesaikan Spirit Ring, ikuti `core/SPIRIT_RING_RULES.md`: kemampuan dapat menjadi kombinasi baru dari Martial Soul, karakteristik Beast/ring, rumusan, dan sinkronisasi; jangan memaksa hasil ke daftar tipe tertutup atau mengarang efek tanpa dasar.
 
 ## 5. State, Waktu, dan Konsistensi
 

@@ -1,7 +1,7 @@
 # Merzkava Universe — Tianfeng — Scholarly Heights
 
-**Status:** Regional scaffold; owner completion pending.  
-**Canon policy:** This file only carries forward facts already established in `world/MAP_AND_REGIONS.md` and `world/WORLD.md`. All other details remain unconfirmed until the owner adds them.
+**Status:** Regional reference with owner-authorized territorial and settlement additions.  
+**Canon policy:** Established regional identities are preserved; the territorial area, development profile, and four named rural villages below are working additions approved for the current world map. Do not infer unlisted settlements or exact travel distances.
 
 ## 1. Confirmed Foundation
 - **Region / territory:** Tianfeng — Scholarly Heights
@@ -10,8 +10,10 @@
 - **Canonical overview:** `world/MAP_AND_REGIONS.md` and `world/WORLD.md`
 
 ## 2. Geography and Boundaries
-- General position: Only the broad regional context above is established; exact coordinates, boundaries, and distances remain unconfirmed.
-- Terrain / climate: Belum ditetapkan secara terperinci
+- General position: Inner-to-middle belt — education clusters around major seats; rural districts rely on local tutors. Exact coordinates and surveyed borders remain undefined.
+- Approximate territorial area: 1.5 million km² (working estimate; not a surveyed boundary).
+- Development profile: Inner-to-middle belt — education clusters around major seats; rural districts rely on local tutors.
+- Terrain / climate: Broad terrain follows the established regional identity; detailed local conditions remain to be developed
 - Confirmed neighboring regions: Belum ditetapkan
 - Confirmed routes / crossings: Belum ditetapkan
 - Travel distances and durations: Do not infer; follow `world/GEOGRAPHY_AND_TRAVEL.md` and `gameplay/TIME_AND_ACTION_RULES.md`
@@ -36,7 +38,7 @@ Prefectures and seats:
 - Hundred Schools Prefecture — Baixue
 - Jade Lecture Prefecture — Yuyan
 
-The administrative atlas is authoritative for names and totals. This regional file is the place to expand individual settlement descriptions, local institutions, officeholders, NPCs, and confirmed local events. Do not infer exact borders or travel times from the jurisdiction list alone.
+The administrative atlas is authoritative for names, territory estimates, and the selected village list. Four named villages are intentionally maintained for this region; unlisted hamlets may exist but are not individually catalogued. Development and services are strongest near Huanglongcheng and major regional seats, then generally thin with distance, isolation, and difficult terrain. Do not infer exact borders or travel times from the jurisdiction list alone.
 
 **Population-facing institutions:** Use `world/GOLDEN_DRAGON_EMPIRE_POPULATION_SERVICES.md` for named Ninefold Concord Bank and Myriad Ledger Exchange branches and Medicine Hall Society service points. The same register establishes only two boarding academies, both in Huanglongcheng, plus selected Ordo Suci Tianming public libraries; neither academies nor libraries are presumed to exist in every region. The central register governs named locations and service limits.
 
@@ -53,6 +55,17 @@ The prefecture seats listed below are established by `world/GOLDEN_DRAGON_EMPIRE
 | Baixue | City / prefecture seat | Seat of Hundred Schools Prefecture | Imperial civil administration; local detail pending |
 | Yuyan | City / prefecture seat | Seat of Jade Lecture Prefecture | Imperial civil administration; local detail pending |
 
+
+### Named rural villages
+
+These four villages are the region's current named rural locations for roleplay. Their listed roles are broad local character, not proof of a bank, academy, clinic, library, or permanent state office.
+
+| Settlement | Type | Established role | Authority / status |
+|---|---|---|---|
+| Inkstone Village | Rural village | Paper, ink, and copying work | Local community; detailed NPCs and services pending |
+| Crane Rest Village | Rural village | Highland farming and caravan lodging | Local community; detailed NPCs and services pending |
+| Pine Scroll Village | Rural village | Timber and modest manuscript trade | Local community; detailed NPCs and services pending |
+| Cloudstep Village | Rural village | Mountain terrace farming | Local community; detailed NPCs and services pending |
 
 ## 4. Local Society and Daily Life
 - Local demographics and population distribution within settlements: Belum ditetapkan; regional planning total is listed in Section 2A.

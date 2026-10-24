@@ -52,7 +52,7 @@
 
 | FILE | DESCRIPTION |
 |---|---|
-| [Cultivation System](core/CULTIVATION_SYSTEM.md) | Spirit Realms, stages, Sync, bottlenecks, and breakthroughs |
+| [Cultivation System](core/CULTIVATION_SYSTEM.md) | Canonical Spirit Realm names, stages, Sync, bottlenecks, and breakthroughs |
 | [Martial Soul Awakening](core/MARTIAL_SOUL_AWAKENING.md) | Awakening procedure, rarity, and mutations |
 | [Martial Soul](core/MARTIAL_SOUL.md) | Martial Soul forms, traits, and interpretation |
 | [Spirit Ring Rules](core/SPIRIT_RING_RULES.md) | Compatibility, absorption, Qi, PowerScale, and normal ring-acquisition routes |

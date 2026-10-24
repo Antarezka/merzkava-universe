@@ -16,6 +16,29 @@
 - Confirmed routes / crossings: Belum ditetapkan
 - Travel distances and durations: Do not infer; follow `world/GEOGRAPHY_AND_TRAVEL.md` and `gameplay/TIME_AND_ACTION_RULES.md`
 
+## 2A. Administrative Register
+
+- **Regional administrative seat:** Beiguan
+- **Population planning estimate:** 32 juta (part of the Empire-wide 320-million baseline; see the atlas for caveats)
+- **Prefectures:** 7
+- **Counties:** 42 (six per prefecture)
+- **Cities:** 28
+- **Towns:** 150
+- **Townships / districts:** 850
+- **Villages / neighborhoods:** 4,800
+- **Full official register:** `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
+
+Prefectures and seats:
+- Northwatch Prefecture — Beiguan
+- Iron Pass Prefecture — Tieguan
+- Stonewall Prefecture — Shibi
+- Falcon Ridge Prefecture — Yingshan
+- Storm Banner Prefecture — Fengqi
+- Long Pass Prefecture — Changguan
+- Pine Shield Prefecture — Songdun
+
+The administrative atlas is authoritative for names and totals. This regional file is the place to expand individual settlement descriptions, local institutions, officeholders, NPCs, and confirmed local events. Do not infer exact borders or travel times from the jurisdiction list alone.
+
 ## 3. Settlements and Points of Interest
 - Belum ditetapkan
 

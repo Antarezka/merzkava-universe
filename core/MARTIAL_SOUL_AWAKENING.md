@@ -1,4 +1,4 @@
-# Xuanling Realm — Martial Soul Awakening Protocol
+# Merzkava Universe — Martial Soul Awakening Protocol
 
 Status: Modul mekanik resmi.
 Cakupan: penentuan rarity Martial Soul saat awakening, peluang mutasi, pilihan pemain, prosedur resolusi, dan batas perilaku GM.

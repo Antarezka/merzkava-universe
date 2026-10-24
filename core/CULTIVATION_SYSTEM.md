@@ -1,4 +1,4 @@
-# Xuanling Realm — Cultivation System
+# Merzkava Universe — Cultivation System
 
 Status: Modul mekanik resmi.
 Cakupan: Realm, Stage, Sync progress, bottleneck, breakthrough, dan slot Spirit Ring.

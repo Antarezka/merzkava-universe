@@ -1,4 +1,4 @@
-# Xuanling Realm — Martial Soul System
+# Merzkava Universe — Martial Soul System
 
 Status: Modul aturan resmi dasar.
 Cakupan: peran Martial Soul, awakening, pencatatan karakteristik, dan batas interpretasi AI GM.
@@ -9,7 +9,7 @@ Modul ini hanya mengunci hal yang sudah ditetapkan dalam canon proyek. Rincian y
 
 ## 1. Peran Martial Soul
 
-Martial Soul adalah sistem kekuatan utama seorang kultivator di Xuanling Realm. Martial Soul harus menjadi dasar utama ketika GM menjelaskan identitas kekuatan karakter dan menilai apakah suatu kemampuan masuk akal.
+Martial Soul adalah sistem kekuatan utama seorang kultivator di Merzkava Universe. Martial Soul harus menjadi dasar utama ketika GM menjelaskan identitas kekuatan karakter dan menilai apakah suatu kemampuan masuk akal.
 
 Spirit Ring yang diperoleh secara sah dapat memperluas dan mengombinasikan apa yang dapat dilakukan Martial Soul melalui interaksi antara Martial Soul, karakteristik Spirit Beast/ring, rumusan kemampuan, dan hasil sinkronisasi. Hasilnya dapat berupa teknik serangan, fungsi utilitas, atau bentuk kemampuan lain; jenis dan bentuknya tidak dibatasi pada daftar tertutup. Kemampuan harus memiliki dasar yang dapat ditelusuri ke unsur-unsur tersebut, bukan dibuat secara sewenang-wenang.
 
@@ -41,7 +41,7 @@ Penduduk juga dapat mendatangi pusat kota di wilayah masing-masing untuk menggun
 
 ### 2.3 Bentuk, Kecenderungan Genetik, dan Aptitude Praktis
 
-**Bentuk Martial Soul tidak memiliki daftar kategori yang tertutup.** Martial Soul dapat berupa apa pun yang masuk akal dalam dunia Xuanling Realm: alat, benda, tumbuhan, hewan, unsur, fenomena alam, kabut, asap, dan bentuk abstrak atau tidak lazim lainnya. Contoh-contoh ini hanya ilustrasi, bukan daftar lengkap. GM tidak boleh menolak bentuk Martial Soul semata-mata karena bentuk itu tidak tercantum dalam contoh atau kategori yang sudah dikenal.
+**Bentuk Martial Soul tidak memiliki daftar kategori yang tertutup.** Martial Soul dapat berupa apa pun yang masuk akal dalam dunia Merzkava Universe: alat, benda, tumbuhan, hewan, unsur, fenomena alam, kabut, asap, dan bentuk abstrak atau tidak lazim lainnya. Contoh-contoh ini hanya ilustrasi, bukan daftar lengkap. GM tidak boleh menolak bentuk Martial Soul semata-mata karena bentuk itu tidak tercantum dalam contoh atau kategori yang sudah dikenal.
 
 - **Kecenderungan genetik:** bentuk atau karakteristik Martial Soul dapat mengikuti akar keluarga, garis keturunan, atau leluhur dari generasi lampau. Riwayat keluarga dapat menjadi petunjuk yang relevan saat GM menentukan bentuk yang masuk akal, tetapi bukan kepastian mutlak. Martial Soul dapat menyerupai, mewarisi sebagian ciri, berubah bentuk, atau berbeda dari milik kerabat dan leluhur.
 - Kecenderungan genetik tidak memberi izin untuk mengarang leluhur, garis keturunan rahasia, atau hubungan darah yang belum ditetapkan. Jika riwayat keluarga tidak diketahui, jangan mengada-adakannya; bentuk Martial Soul tetap dapat muncul tanpa silsilah yang diketahui.
@@ -68,7 +68,7 @@ Martial Soul berbentuk hewan dapat mencakup makhluk biasa hingga makhluk mitos d
 
 Bentuk, kategori, kualitas, atribut, kemampuan bawaan, kelemahan, dan potensi Martial Soul harus dicatat bila telah ditetapkan melalui sumber resmi atau peristiwa permainan yang sah.
 
-Kategori rarity awakening resmi—Common, Uncommon, Rare, Epic, Legendary, dan Myth—serta peluang masing-masing ditetapkan dalam `core/MARTIAL_SOUL_AWAKENING.md`. Kategori rarity ini tidak dengan sendirinya menetapkan atribut, kemampuan, statistik, atau hasil pertarungan. Contoh dari genre lain tidak otomatis menjadi kategori resmi Xuanling Realm.
+Kategori rarity awakening resmi—Common, Uncommon, Rare, Epic, Legendary, dan Myth—serta peluang masing-masing ditetapkan dalam `core/MARTIAL_SOUL_AWAKENING.md`. Kategori rarity ini tidak dengan sendirinya menetapkan atribut, kemampuan, statistik, atau hasil pertarungan. Contoh dari genre lain tidak otomatis menjadi kategori resmi Merzkava Universe.
 
 GM tidak boleh menyimpulkan hanya dari nama atau penampilan Martial Soul bahwa ia memiliki atribut, kemampuan pasif, teknik serangan, kemampuan penyembuhan, atau keunggulan tertentu. Kemampuan harus berasal dari deskripsi canon, mekanik resmi, atau hasil yang sah dalam permainan.
 

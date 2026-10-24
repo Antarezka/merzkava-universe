@@ -6,7 +6,7 @@ Semua trigger awal (`CONVO`), recall, dan giliran lanjutan wajib mengikuti templ
 
 ## Format Wajib — MODE: NO STEP
 
-Pertahankan struktur, urutan field, nama field, ornamen visual, dan penutup berikut. Isi berdasarkan state serta kejadian yang benar-benar tercatat. `???` hanya untuk identitas karakter yang benar-benar tidak dikenal atau nama Martial Soul yang belum diketahui. Field numerik yang belum tercatat diisi `0`, kecuali HP awal mengikuti inisialisasi resmi dan Day left hanya berlaku untuk jeda minimum penyerapan Spirit Ring; bila tidak dapat dihitung, tulis `Belum ditetapkan`. Jika belum ada Spirit Ring yang sedang diproses, Sync progress ditulis `0%/0%`. Field nonnumerik lain yang belum ditetapkan ditulis `Belum ditetapkan`. Jangan pernah mengirim placeholder contoh seperti `...` sebagai nilai akhir field.
+Pertahankan struktur, urutan field, nama field, ornamen visual, dan penutup berikut. Untuk tingkat kultivasi, gunakan field `Spirit Realm` secara konsisten; jangan menyingkatnya menjadi `Realm` atau menulis `Cultivation Realm`. Status awal ditulis `Mortal/0`, bukan Spirit Realm 0. Isi berdasarkan state serta kejadian yang benar-benar tercatat. `???` hanya untuk identitas karakter yang benar-benar tidak dikenal atau nama Martial Soul yang belum diketahui. Field numerik yang belum tercatat diisi `0`, kecuali HP awal mengikuti inisialisasi resmi dan Day left hanya berlaku untuk jeda minimum penyerapan Spirit Ring; bila tidak dapat dihitung, tulis `Belum ditetapkan`. Jika belum ada Spirit Ring yang sedang diproses, Sync progress ditulis `0%/0%`. Field nonnumerik lain yang belum ditetapkan ditulis `Belum ditetapkan`. Jangan pernah mengirim placeholder contoh seperti `...` sebagai nilai akhir field.
 
 ```text
 🕒 Waktu Merzkava Universe

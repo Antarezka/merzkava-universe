@@ -19,7 +19,7 @@
 - **[world/SOCIAL_STRATIFICATION.md](world/SOCIAL_STRATIFICATION.md)** — elite, kelas menengah, rakyat miskin, slum, tunawisma, dan mobilitas sosial.
 - **[players.md](players.md)** — indeks karakter terdaftar.
 - **[players/Yuha.md](players/Yuha.md)** — snapshot awal karakter Yuha.
-- **[templates/GM_PROMPT.md](templates/GM_PROMPT.md)** — perilaku operasional AI Game Master.
+- **[templates/AUTHORITY_ORDER.md](templates/AUTHORITY_ORDER.md)** — otoritas operasional AI Game Master dan aturan prosedural.
 - **[templates/GAMEPLAY_RESPONSE_TEMPLATE.md](templates/GAMEPLAY_RESPONSE_TEMPLATE.md)** — satu-satunya format visual lengkap untuk respons gameplay.
 - **[templates/CHARACTER_PROFILE_TEMPLATE.md](templates/CHARACTER_PROFILE_TEMPLATE.md)** — definisi field dan konsistensi profil.
 - **[gameplay/TIME_AND_ACTION_RULES.md](gameplay/TIME_AND_ACTION_RULES.md)** — timestamp, batas aksi, tidur malam, dan time skip.

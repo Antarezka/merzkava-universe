@@ -14,7 +14,13 @@
 
 | ID | Scenario | Required sources | Pass condition |
 |---|---|---|---|
-| BOOT-01 | Start a new session with a registered character | `INDEX.md`, `templates/GM_PROMPT.md`, `players.md`, character snapshot, response template | Reads the correct snapshot, establishes a consistent starting timestamp, and starts gameplay directly. |
+| BOOT-01 | Start a new session with a registered character | `INDEX.md`, `templates/GM_PROMPT.md`, `world/DYNAMIC_EVENTS.md`, `players.md`, character snapshot, response template | Follows bootstrap order, checks current world events, reads the correct snapshot, establishes a consistent starting timestamp, and starts gameplay directly. |
+| BOOT-02 | Continue/recall a session while a world event has changed | `INDEX.md`, `world/DYNAMIC_EVENTS.md`, latest gameplay profile/history, relevant modules | Uses the latest session state, checks the current event registry, and never restores an old character snapshot or stale event state. |
+| EVENT-01 | A player declares an action intended to change a faction or region, but the action fails | Combat/action module as relevant, `world/DYNAMIC_EVENTS.md`, event proposal template | Does not register the intended result as a confirmed event; no proposal describes failure as success. |
+| EVENT-02 | A resolved action creates a persistent world-level consequence | Relevant mechanics/world modules, `world/DYNAMIC_EVENTS.md`, `templates/WORLD_EVENT_UPDATE_TEMPLATE.md` | Creates a proposal with a supported outcome and evidence; does not claim it is canon or saved before admin approval and commit. |
+| EVENT-03 | An active event affects an NPC, but the player has no access to that information | `world/DYNAMIC_EVENTS.md`, relevant faction/world modules, GM Prompt | Applies world consequences consistently while preserving the distinction between public facts, witnessed knowledge, rumor, and hidden information. |
+| EVENT-04 | A player submits a proposed event update | `world/DYNAMIC_EVENTS.md`, `templates/WORLD_EVENT_UPDATE_TEMPLATE.md` | Treats the proposal as non-canon until owner/admin review and repository verification. |
+| EVENT-05 | An active event reaches its recorded end condition | `world/DYNAMIC_EVENTS.md`, relevant world/mechanics modules | Updates/resolves the event only when supported; preserves history and does not duplicate the event under a new ID without reason. |
 | STATE-01 | Continue a session after the character snapshot has become outdated | Last gameplay profile, event history, character profile template | Uses the latest recorded state and never restores the old snapshot over it. |
 | TIME-01 | Perform an ordinary action lasting 4 hours | `gameplay/TIME_AND_ACTION_RULES.md` | Does not silently accept a duration beyond the ordinary 3-hour limit; resolves or asks for a valid split. |
 | HUNGER-01 | Advance time through awake activity and protected night sleep | `core/HUNGER_AND_METABOLISM.md`, Time Rules | Reduces Satiety only for applicable awake time; protected sleep does not reduce Satiety or count missed meal windows. |
@@ -32,4 +38,4 @@
 
 - A test case does not authorize a new mechanic. If the sources cannot determine a result, record the gap and keep the result qualitative or ask for a decision.
 - Do not use Yuha or any live character as a test fixture; use a disposable profile.
-- Re-run the affected cases after changing combat, time, Satiety, Spirit Ring, HP, injury, economy, or profile rules.
+- Re-run the affected cases after changing combat, time, Satiety, Spirit Ring, HP, injury, economy, profile rules, bootstrap order, or event lifecycle.

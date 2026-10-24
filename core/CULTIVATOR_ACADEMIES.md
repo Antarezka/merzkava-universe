@@ -60,7 +60,7 @@ Depending on the established curriculum, foundational education may also include
 
 ### 2.8 Supervised Spirit Beast Field Practice
 
-An academy that offers practical Spirit Ring preparation may take students on supervised group expeditions into a selected forest or other wilderness area. This is the academy's **Safe Route** approach: instructors teach theory and field discipline, choose a route according to the students' demonstrated readiness and available hazard information, and supervise the group's attempt to locate or hunt an appropriate Spirit Beast.
+An academy that offers practical Spirit Ring preparation may teach theory first and then take students on supervised group expeditions into a selected forest or other wilderness area. This is the academy's **Safe Route** approach: instructors teach theory and field discipline, choose a route according to the students' demonstrated readiness and available hazard information, and supervise the group's attempt to locate or hunt an appropriate Spirit Beast.
 
 Field preparation may include habitat and track recognition, threat assessment, party coordination, retreat signals, emergency planning, ring compatibility, and the difference between defeating a Beast and successfully absorbing its ring. Actual content depends on the academy and the lessons the student has received.
 

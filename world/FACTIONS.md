@@ -1,4 +1,4 @@
-# Xuanling Realm — Factions and Organizations
+# Merzkava Universe — Factions and Organizations
 
 **Status:** Faction reference module.  
 **Scope:** Established political powers, clans, dojos, and named organizations.  

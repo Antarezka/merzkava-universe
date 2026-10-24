@@ -22,7 +22,7 @@
 - **First-contact circumstances:** Belum ditetapkan
 
 ## 3. Capabilities
-- **Cultivation Realm / stage:** Realm 9 — Spirit Primordial, Middle Stage
+- **Spirit Realm / Stage:** Spirit Realm 9 — Spirit Primordial, Middle Stage
 - **Martial Soul:** Golden Heavenly Dragon — Myth Tier
 - **Spirit Rings and abilities:** Refer to the proposed ring configuration in `world/WORLD.md`; details and abilities are not expanded in this profile.
 - **Techniques / combat style:** Belum ditetapkan
@@ -67,7 +67,7 @@
 - **Related event / history entry:** None established.
 
 ## 8. Canon and Privacy Check
-- **Canon facts and source:** Identity, age, title, Martial Soul, tier, Realm, Stage, and family relationships are owner-established; see `world/WORLD.md`.
+- **Canon facts and source:** Identity, age, title, Martial Soul, tier, Spirit Realm, Stage, and family relationships are owner-established; see `world/WORLD.md`.
 - **GM estimates:** None added.
 - **Provisional details awaiting owner approval:** Unspecified personal details remain unestablished.
 - **Contradictions to resolve:** None known.

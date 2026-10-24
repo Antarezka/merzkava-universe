@@ -140,6 +140,8 @@ Untuk informasi yang belum diketahui karakter atau belum dikonfirmasi oleh sumbe
 
 ## 8. Sumber Terkait dan Konsistensi
 
+Untuk tingkat kultivasi, gunakan istilah kanonis **Spirit Realm**. Jangan menyingkatnya menjadi `Realm` atau menyebutnya `Cultivation Realm`; `Mortal` adalah status dasar sebelum sembilan Spirit Realm, bukan tingkat 0.
+
 Gunakan modul berikut ketika tersedia:
 - `core/CULTIVATION_SYSTEM.md` — Spirit Realm, Stage, progres, bottleneck, dan breakthrough.
 - `core/SPIRIT_RING_RULES.md` — perolehan, penyerapan, usia, sinkronisasi, dan kemampuan Spirit Ring.

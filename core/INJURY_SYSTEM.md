@@ -9,7 +9,7 @@
 - HP yang pulih tidak otomatis menyembuhkan injury. Injury yang sembuh juga tidak otomatis mengisi HP sampai penuh.
 - Setiap injury yang berdampak pada gameplay harus dicatat dengan: nama/jenis, bagian tubuh jika diketahui, kelas injury, kondisi pemicu, metode pemulihan yang dibutuhkan, progres pemulihan, serta efek atau komplikasi yang benar-benar terjadi.
 - Gunakan hanya cedera yang didukung kejadian. Jangan memberi cedera baru hanya untuk menghukum karakter, dan jangan menghapus cedera tanpa alasan pemulihan yang sah.
-- Tingkat keparahan tidak ditentukan dari nama luka saja. Pertimbangkan mekanisme cedera, lokasi, damage yang diterima, kondisi karakter, dan hasil pemeriksaan atau penanganan yang tercatat.
+- Tingkat keparahan tidak ditentukan dari nama luka saja. Pertimbangkan mekanisme cedera, lokasi, damage yang diterima, kondisi karakter, dan hasil pemeriksaan atau penanganan yang tercatat. **Jumlah HP yang hilang saja tidak cukup untuk menentukan kelas injury**: HP adalah dampak umum, sedangkan injury adalah kerusakan tubuh tertentu.
 - Satu kejadian dapat menimbulkan beberapa injury berbeda. Jangan menggabungkan, menggandakan, atau menganggap satu cedera sebagai cedera lain tanpa dasar.
 - Persentase progres adalah **kemajuan pemulihan injury**, bukan HP. Progres 100% berarti injury itu pulih; efek sisa hanya boleh dipertahankan bila sudah tercatat dan memiliki dasar.
 
@@ -63,6 +63,20 @@ Jika seluruh syarat terpenuhi, gunakan laju kolom **Dengan perawatan tepat**. Ji
 - Untuk injury yang mengancam nyawa, jangan memperlakukan tidur atau time skip sebagai pengganti penanganan darurat.
 
 ## 6. Hubungan dengan HP dan Sistem Lain
+
+### Panduan konsekuensi injury dari Combat
+
+Combat menentukan apakah kejadian benar-benar menimbulkan cedera; bagian ini membantu memilih konsekuensi tanpa membuat ambang damage kaku:
+
+- **Benturan atau serangan ringan yang tertahan/teralihkan:** tidak wajib menghasilkan injury. Jika ada cedera yang tampak, gunakan Kelas I bila bukti mendukung.
+- **Serangan bersih yang menembus pertahanan, luka sayat/tusuk yang jelas, atau benturan kuat:** pertimbangkan Kelas I atau II berdasarkan kedalaman, lokasi, dan mekanisme. Jangan otomatis memilih Kelas II hanya karena serangan mengenai target.
+- **Patah tulang, dislokasi, tendon/ligamen rusak, atau kerusakan struktur yang jelas:** Kelas III. Jangan menyimpulkan cedera struktural dari angka damage saja.
+- **Pendarahan internal berat, kerusakan organ, keracunan berat, atau kondisi yang mengancam nyawa:** Kelas IV hanya jika kejadian dan bukti mendukungnya; jangan membuat diagnosis internal hanya karena HP rendah.
+- **Serangan beruntun/combo:** evaluasi tiap hit dan dampak gabungannya. Hit berikutnya dapat memperparah injury yang sudah ada atau menimbulkan injury berbeda jika mekanismenya mendukung; jangan menggandakan injury identik tanpa alasan.
+- **Beda satu Realm:** terapkan aturan khusus di `gameplay/COMBAT_SYSTEM.md`. Itu menetapkan ekspektasi adanya injury setelah hit yang merusak, bukan izin untuk mengarang jenis cedera berat. Jika bukti hanya mendukung cedera ringan, catat Kelas I.
+- **Deviasi penyerapan Spirit Ring:** catat cedera yang ditetapkan dari peristiwa deviasi. Jangan mengubah kategori risiko HP langsung menjadi diagnosis injury tertentu.
+
+Jika bukti belum cukup untuk memilih kelas, catat `injury belum terklasifikasi` dan efek fungsional yang benar-benar terlihat. Klasifikasi dapat diperbarui ketika ada pemeriksaan atau bukti baru.
 
 - Gunakan `core/HP_SYSTEM.md` untuk HP maksimum dan validasi HP.
 - Gunakan `gameplay/COMBAT_SYSTEM.md` untuk damage dan penentuan konsekuensi serangan yang didukung situasi. Combat menentukan kejadian cedera; modul ini menentukan klasifikasi dan pemulihannya.

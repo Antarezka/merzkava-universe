@@ -30,7 +30,7 @@ Examples may include successful merchants, established shopkeepers, master artis
 
 - They may own a home, productive assets, a business, savings, or a reliable source of income.
 - They can afford more choices than poor households, but major illness, debt, business failure, conflict, or loss of a patron can sharply reduce their standing.
-- A stable middle-class household should not automatically be treated as wealthy enough to casually spend Yova.
+- A stable middle-class household should not automatically be treated as wealthy enough to casually spend Xuan Gold.
 
 ### C. Lower-Income Commoners and the Working Poor
 
@@ -38,7 +38,7 @@ Examples may include day laborers, tenant farmers, porters, servants, low-paid w
 
 - Income is often spent on food, rent, clothing, transport, medicine, and family needs.
 - Missed wages, a failed harvest, injury, or sudden fees can cause immediate hardship.
-- Cova and Mova are important in ordinary budgets. A Yova coin may represent substantial savings rather than casual pocket money.
+- Xuan Copper and Xuan Silver are important in ordinary budgets. A Xuan Gold coin may represent substantial savings rather than casual pocket money.
 
 ### D. Slum and Precarious-Housing Residents
 
@@ -73,10 +73,11 @@ A person can be wealthy but socially distrusted, high-ranked but indebted, talen
 
 Use the official exchange rates in `core/10_ECONOMY_SYSTEM.md`; poverty does not create a different exchange rate.
 
-- Cova (`cv`) and Mova (`mv`) are the ordinary working denominations for many commoners.
-- Even Mova may be carefully budgeted by low-income households.
-- Yova (`yv`) is extraordinary money for many ordinary households. Someone openly carrying it may attract attention, envy, suspicion, or theft risk depending on the place and circumstances.
-- One Xenha (`xh`) is worth 1,000 yv under the official rate. An ordinary person suddenly producing one is unusual and may prompt questions or rumors, but it does not prove a specific origin.
+- Xuan Copper (`xc`) and Xuan Silver (`xs`) are the ordinary working denominations for many commoners.
+- Even Xuan Silver may be carefully budgeted by low-income households.
+- Xuan Gold (`xg`) is extraordinary money for many ordinary households. Someone openly carrying it may attract attention, envy, suspicion, or theft risk depending on the place and circumstances.
+- One Zun Jade (`zj`) is worth 1,000 Xuan Gold under the official rate. An ordinary person suddenly producing one is unusual and may prompt questions or rumors, but it does not prove a specific origin.
+- Ancient Zun (`az`) is rarer still; its official exchange rate is 10 Zun Jade for 1 Ancient Zun. Do not treat either high denomination as ordinary spending money.
 - These are social expectations, not absolute prohibitions. Credible exceptions include inheritance, wages from unusual work, rewards, patronage, windfalls, hidden assets, or theft.
 
 Do not invent a typical balance for an entire class unless a separate canon rule establishes it. Character balances must follow their recorded profile and transactions.

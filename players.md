@@ -9,6 +9,7 @@ File ini adalah **indeks karakter terdaftar**, bukan tempat menyimpan perkembang
 - File registry dan file karakter individual adalah data awal statis. Jangan mengeditnya selama gameplay tanpa permintaan eksplisit pemilik repository.
 - Pertahankan latar belakang orisinal karakter. Jangan mengarang rahasia inti, garis keturunan, artefak langka, atau teknik formal tanpa dasar.
 - Untuk karakter yang belum memiliki data praktis, estimasi awal yang wajar harus ditandai sebagai estimasi GM dan tidak boleh disamarkan sebagai canon.
+- Jika snapshot karakter dibuat sebelum field Satiety ditambahkan, jangan menganggap nilainya otomatis 100. Tetapkan nilai awal secara wajar sebagai estimasi GM pada sesi baru, lalu gunakan `core/HUNGER_AND_METABOLISM.md`; jangan mengubah file karakter individual hanya untuk mengisi state sesi.
 
 ## Daftar Karakter
 

@@ -15,12 +15,12 @@ Already established in the repository:
 - **Cultivator Academies** are an established educational concept, but specific institutions, locations, admission rules, fees, and school systems were left undefined.
 - **Ordo Suci Tianming** is a world-spanning religious organization headquartered at the Sanctum of Ten Thousand Vows in Wanluo. Its broad network includes religious houses and observation/assessment facilities; its individual branch names were not specified.
 
-This register fills the missing *institution names and branch locations* for the Empire. All specific branch names, academy names, and their locations below are new worldbuilding additions. They do not imply every village has a branch or that every resident can afford or access every service.
+This register fills selected missing *institution names and locations* for the Empire. Specific branch names, academy names, and locations below are new worldbuilding additions. The academy and library lists are intentionally selective, not a uniform network across the Empire.
 
 ## 2. Population and access principles
 
 - The Empire's **320 million** remains a planning baseline, not a precise census known to every resident. Regional totals and counts remain in the atlas.
-- These institutions are distributed across the **46 prefecture seats** rather than every settlement. A branch in a prefecture seat can serve surrounding counties, towns, and villages; travel time, local capacity, and security still affect access.
+- The bank, information exchange, and Medicine Hall Society have broader service registers; the two academies are both in Huanglongcheng, while only three Ordo public libraries are named here. No institution is presumed to exist in every prefecture or settlement. Travel time, local capacity, and security still affect access.
 - One listed institution does not mean it has unlimited funds, staff, stock, or influence. Branch staffing, opening hours, service fees, individual workers, and local operating conditions remain scene-level details until established.
 - A branch's presence does not mean the governor, prefect, clan, or local military commands it. Institutional governance and civil authority remain separate.
 - The roster names public-facing institutions. Secret facilities, hidden branches, internal ranks, and restricted archives are not added here.
@@ -160,60 +160,25 @@ Medicine Hall Society remains a neutral medical network. This register adds one 
 - Neutrality is a declared institutional principle, not a guarantee that every practitioner is honest or that treatment is free.
 - Special treatments, rare medicines, emergency capacity, prices, and individual doctors must be established in context. Do not infer a cure from the Society's name.
 
-## 6. Cultivator Academies — one named foundation academy per prefecture
+## 6. Cultivator Academies — two central boarding academies
 
-The academies below provide a recognizable local entry point for foundational education. Their existence does not mean admission is automatic, schooling is free, every resident is literate, or every academy has equal resources. Specific fees, age limits, examinations, class sizes, and graduation requirements remain undefined.
+The Golden Dragon Empire has **two named Cultivator Academies established in this register**, both located in **Huanglongcheng, the imperial capital in Longyuan**. They are central institutions rather than a prefecture-by-prefecture school network. Families outside the capital must arrange travel and may face substantial costs or practical barriers; the academies do not imply universal access to formal cultivation education.
 
-| Region | Prefecture | Academy | Regional character |
+| Academy | Location | General focus | Student residence |
 |---|---|---|---|
-| Longyuan | Huanglong Prefecture | Imperial Foundation Academy | istana, administrasi, dan bangsawan |
-| Longyuan | Jade Seal Prefecture | Jade Seal Civic Academy | istana, administrasi, dan bangsawan |
-| Longyuan | Vermilion Gate Prefecture | Vermilion Gate Academy | istana, administrasi, dan bangsawan |
-| Longyuan | Golden Terrace Prefecture | Golden Terrace Academy | istana, administrasi, dan bangsawan |
-| Longyuan | River Crown Prefecture | River Crown Academy | istana, administrasi, dan bangsawan |
-| Longyuan | White Stag Prefecture | White Stag Academy | istana, administrasi, dan bangsawan |
-| Canglan | Qinghe Prefecture | Qinghe River Academy | sungai, irigasi, pertanian, dan pangan |
-| Canglan | Jiangbei Prefecture | Jiangbei Agricultural Academy | sungai, irigasi, pertanian, dan pangan |
-| Canglan | Lianzhou Prefecture | Lianzhou Trade Academy | sungai, irigasi, pertanian, dan pangan |
-| Canglan | Mingchuan Prefecture | Mingchuan Waterworks Academy | sungai, irigasi, pertanian, dan pangan |
-| Canglan | Yunshui Prefecture | Yunshui Life Academy | sungai, irigasi, pertanian, dan pangan |
-| Canglan | Shuangjiang Prefecture | Shuangjiang Navigation Academy | sungai, irigasi, pertanian, dan pangan |
-| Canglan | Lotus Ford Prefecture | Lotus Ford Academy | sungai, irigasi, pertanian, dan pangan |
-| Canglan | Granary Plain Prefecture | Granary Plain Academy | sungai, irigasi, pertanian, dan pangan |
-| Jinyue | Jadevein Prefecture | Jadevein Materials Academy | pertambangan, logam spiritual, dan bahan artefak |
-| Jinyue | Ironcloud Prefecture | Ironcloud Craft Academy | pertambangan, logam spiritual, dan bahan artefak |
-| Jinyue | Deepstone Prefecture | Deepstone Academy | pertambangan, logam spiritual, dan bahan artefak |
-| Jinyue | Goldsand Prefecture | Goldsand Commerce Academy | pertambangan, logam spiritual, dan bahan artefak |
-| Jinyue | Spirit Ore Prefecture | Spirit Ore Foundation Academy | pertambangan, logam spiritual, dan bahan artefak |
-| Tianfeng | Heavenly Script Prefecture | Heavenly Script Academy | akademi, pendidikan kultivasi, dan arsip |
-| Tianfeng | Cloud Summit Prefecture | Cloud Summit Cultivation Academy | akademi, pendidikan kultivasi, dan arsip |
-| Tianfeng | Scholar's River Prefecture | Scholar's River Academy | akademi, pendidikan kultivasi, dan arsip |
-| Tianfeng | Pine Ink Prefecture | Pine Ink Academy | akademi, pendidikan kultivasi, dan arsip |
-| Tianfeng | Hundred Schools Prefecture | Hundred Schools Academy | akademi, pendidikan kultivasi, dan arsip |
-| Tianfeng | Jade Lecture Prefecture | Jade Lecture Academy | akademi, pendidikan kultivasi, dan arsip |
-| Yanling | Red Furnace Prefecture | Red Furnace Craft Academy | pandai besi, tungku, dan industri spiritual |
-| Yanling | Ashen Peak Prefecture | Ashen Peak Academy | pandai besi, tungku, dan industri spiritual |
-| Yanling | Molten River Prefecture | Molten River Academy | pandai besi, tungku, dan industri spiritual |
-| Yanling | Black Anvil Prefecture | Black Anvil Academy | pandai besi, tungku, dan industri spiritual |
-| Yanling | Emberstone Prefecture | Emberstone Academy | pandai besi, tungku, dan industri spiritual |
-| Yanling | Flame Basin Prefecture | Flame Basin Academy | pandai besi, tungku, dan industri spiritual |
-| Baiyue | Northwatch Prefecture | Northwatch Foundation Academy | benteng, jalur militer, dan perbatasan |
-| Baiyue | Iron Pass Prefecture | Iron Pass Academy | benteng, jalur militer, dan perbatasan |
-| Baiyue | Stonewall Prefecture | Stonewall Defense Academy | benteng, jalur militer, dan perbatasan |
-| Baiyue | Falcon Ridge Prefecture | Falcon Ridge Academy | benteng, jalur militer, dan perbatasan |
-| Baiyue | Storm Banner Prefecture | Storm Banner Logistics Academy | benteng, jalur militer, dan perbatasan |
-| Baiyue | Long Pass Prefecture | Long Pass Academy | benteng, jalur militer, dan perbatasan |
-| Baiyue | Pine Shield Prefecture | Pine Shield Academy | benteng, jalur militer, dan perbatasan |
-| Xingluo | Eastern Star Prefecture | Eastern Star Maritime Academy | pelabuhan, perdagangan laut, dan diplomasi |
-| Xingluo | Pearl Harbor Prefecture | Pearl Harbor Academy | pelabuhan, perdagangan laut, dan diplomasi |
-| Xingluo | Blue Sail Prefecture | Blue Sail Navigation Academy | pelabuhan, perdagangan laut, dan diplomasi |
-| Xingluo | Tidegate Prefecture | Tidegate Trade Academy | pelabuhan, perdagangan laut, dan diplomasi |
-| Xingluo | Saltwind Prefecture | Saltwind Academy | pelabuhan, perdagangan laut, dan diplomasi |
-| Xingluo | Jade Coast Prefecture | Jade Coast Academy | pelabuhan, perdagangan laut, dan diplomasi |
-| Xingluo | Far Lantern Prefecture | Far Lantern Academy | pelabuhan, perdagangan laut, dan diplomasi |
-| Xingluo | Dragonwake Prefecture | Dragonwake Maritime Academy | pelabuhan, perdagangan laut, dan diplomasi |
+| Imperial Foundation Academy | Huanglongcheng, Longyuan | Foundational literacy, civic knowledge, cultivation theory, Martial Soul and Spirit Beast fundamentals | Boarding dormitories on campus |
+| Imperial Cultivation Academy | Huanglongcheng, Longyuan | Structured cultivation education and supervised practical foundations for admitted students | Boarding dormitories on campus |
 
-**Common foundational scope**
+### Boarding and admissions
+
+- Both academies operate on a **dormitory-based boarding model**. Enrolled students normally reside on campus during the academic term and follow the academy's schedule and campus rules.
+- Dormitory assignment, room sharing, supervision, meals, leave, visiting hours, discipline, and student safety are administered by each academy. Specific policies have not yet been established.
+- Admission is not automatic. Entrance criteria, age limits, examination formats, tuition, scholarships, living expenses, and available places remain undefined; do not invent them as settled canon.
+- The two academies do not represent the Empire's only possible forms of learning. Family instruction, tutors, local mentors, dojo training, and self-study may exist, but are not equivalent to enrollment in either academy.
+- Their curricula follow core/CULTIVATOR_ACADEMIES.md and the official mechanics modules. Neither academy guarantees awakening, a Spirit Ring, breakthrough, high Realm, or a particular career.
+
+### Common foundational scope
+
 - Basic cultivation concepts and the nine official Spirit Realms.
 - Martial Soul fundamentals and the general purpose of awakening; awakening usually occurs at age four or later, but awakening does not automatically grant a Spirit Ring.
 - Introductory Spirit Beast identification, habitat awareness, danger signs, and basic Spirit Ring theory.
@@ -221,60 +186,21 @@ The academies below provide a recognizable local entry point for foundational ed
 - Basic history, geography, civic knowledge, and the difference between theory and demonstrated skill.
 - Introductory Thinker concepts and Artificial Artifact awareness; this does **not** qualify a student as a Thinker or authorize formulation/manufacturing.
 
-A particular academy may emphasize its region's established focus, but no exclusive technique, rare curriculum, guaranteed breakthrough, or advanced restricted knowledge is implied. Apply `core/CULTIVATOR_ACADEMIES.md` and the official mechanics modules for any gameplay consequence.
+A particular lesson or advanced course must be established from the academy's actual curriculum and official rules. No exclusive technique, rare curriculum, guaranteed breakthrough, or advanced restricted knowledge is implied.
 
-## 7. Ordo Suci Tianming — public knowledge libraries
+## 7. Ordo Suci Tianming — selected public knowledge libraries
 
-The Ordo Suci Tianming, headquartered at the Sanctum of Ten Thousand Vows in Wanluo, maintains one named **Tianming Public Knowledge Library** in each prefectural seat. These are public-facing educational branches of the Ordo, not branches of the World Knowledge Tower and not independent relics. Their purpose is to make reliable foundational knowledge accessible beyond elite academies.
+The Ordo Suci Tianming, headquartered at the Sanctum of Ten Thousand Vows in Wanluo, maintains a **small number of named public knowledge libraries** in the Golden Dragon Empire. This is a selective register, **not** a uniform branch network. Many prefectures, counties, towns, and villages have no established Ordo public library in this canon; local access may instead depend on tutors, private collections, schools, temples, or other institutions that must be established in context.
 
-| Region | Prefecture | Branch library | Responsible organization |
+The libraries listed here are public-facing educational branches of the Ordo, not branches of the World Knowledge Tower and not independent relics.
+
+| Region | Location | Public library | Responsible organization |
 |---|---|---|---|
-| Longyuan | Huanglong Prefecture | Tianming Public Knowledge Library — Huanglongcheng Branch | Ordo Suci Tianming |
-| Longyuan | Jade Seal Prefecture | Tianming Public Knowledge Library — Yuxi Branch | Ordo Suci Tianming |
-| Longyuan | Vermilion Gate Prefecture | Tianming Public Knowledge Library — Zhuque Branch | Ordo Suci Tianming |
-| Longyuan | Golden Terrace Prefecture | Tianming Public Knowledge Library — Jintai Branch | Ordo Suci Tianming |
-| Longyuan | River Crown Prefecture | Tianming Public Knowledge Library — Guanhe Branch | Ordo Suci Tianming |
-| Longyuan | White Stag Prefecture | Tianming Public Knowledge Library — Bailu Branch | Ordo Suci Tianming |
-| Canglan | Qinghe Prefecture | Tianming Public Knowledge Library — Qinghe Branch | Ordo Suci Tianming |
-| Canglan | Jiangbei Prefecture | Tianming Public Knowledge Library — Jiangbei Branch | Ordo Suci Tianming |
-| Canglan | Lianzhou Prefecture | Tianming Public Knowledge Library — Lianzhou Branch | Ordo Suci Tianming |
-| Canglan | Mingchuan Prefecture | Tianming Public Knowledge Library — Mingchuan Branch | Ordo Suci Tianming |
-| Canglan | Yunshui Prefecture | Tianming Public Knowledge Library — Yunshui Branch | Ordo Suci Tianming |
-| Canglan | Shuangjiang Prefecture | Tianming Public Knowledge Library — Shuangjiang Branch | Ordo Suci Tianming |
-| Canglan | Lotus Ford Prefecture | Tianming Public Knowledge Library — Lianjin Branch | Ordo Suci Tianming |
-| Canglan | Granary Plain Prefecture | Tianming Public Knowledge Library — Cangping Branch | Ordo Suci Tianming |
-| Jinyue | Jadevein Prefecture | Tianming Public Knowledge Library — Yumai Branch | Ordo Suci Tianming |
-| Jinyue | Ironcloud Prefecture | Tianming Public Knowledge Library — Tieyun Branch | Ordo Suci Tianming |
-| Jinyue | Deepstone Prefecture | Tianming Public Knowledge Library — Shenshi Branch | Ordo Suci Tianming |
-| Jinyue | Goldsand Prefecture | Tianming Public Knowledge Library — Jinsha Branch | Ordo Suci Tianming |
-| Jinyue | Spirit Ore Prefecture | Tianming Public Knowledge Library — Lingkuang Branch | Ordo Suci Tianming |
-| Tianfeng | Heavenly Script Prefecture | Tianming Public Knowledge Library — Tianshu Branch | Ordo Suci Tianming |
-| Tianfeng | Cloud Summit Prefecture | Tianming Public Knowledge Library — Yunding Branch | Ordo Suci Tianming |
-| Tianfeng | Scholar's River Prefecture | Tianming Public Knowledge Library — Wenchuan Branch | Ordo Suci Tianming |
-| Tianfeng | Pine Ink Prefecture | Tianming Public Knowledge Library — Songmo Branch | Ordo Suci Tianming |
-| Tianfeng | Hundred Schools Prefecture | Tianming Public Knowledge Library — Baixue Branch | Ordo Suci Tianming |
-| Tianfeng | Jade Lecture Prefecture | Tianming Public Knowledge Library — Yuyan Branch | Ordo Suci Tianming |
-| Yanling | Red Furnace Prefecture | Tianming Public Knowledge Library — Honglu Branch | Ordo Suci Tianming |
-| Yanling | Ashen Peak Prefecture | Tianming Public Knowledge Library — Huifeng Branch | Ordo Suci Tianming |
-| Yanling | Molten River Prefecture | Tianming Public Knowledge Library — Rongjiang Branch | Ordo Suci Tianming |
-| Yanling | Black Anvil Prefecture | Tianming Public Knowledge Library — Heitie Branch | Ordo Suci Tianming |
-| Yanling | Emberstone Prefecture | Tianming Public Knowledge Library — Huoshi Branch | Ordo Suci Tianming |
-| Yanling | Flame Basin Prefecture | Tianming Public Knowledge Library — Yanpen Branch | Ordo Suci Tianming |
-| Baiyue | Northwatch Prefecture | Tianming Public Knowledge Library — Beiguan Branch | Ordo Suci Tianming |
-| Baiyue | Iron Pass Prefecture | Tianming Public Knowledge Library — Tieguan Branch | Ordo Suci Tianming |
-| Baiyue | Stonewall Prefecture | Tianming Public Knowledge Library — Shibi Branch | Ordo Suci Tianming |
-| Baiyue | Falcon Ridge Prefecture | Tianming Public Knowledge Library — Yingshan Branch | Ordo Suci Tianming |
-| Baiyue | Storm Banner Prefecture | Tianming Public Knowledge Library — Fengqi Branch | Ordo Suci Tianming |
-| Baiyue | Long Pass Prefecture | Tianming Public Knowledge Library — Changguan Branch | Ordo Suci Tianming |
-| Baiyue | Pine Shield Prefecture | Tianming Public Knowledge Library — Songdun Branch | Ordo Suci Tianming |
-| Xingluo | Eastern Star Prefecture | Tianming Public Knowledge Library — Dongxing Branch | Ordo Suci Tianming |
-| Xingluo | Pearl Harbor Prefecture | Tianming Public Knowledge Library — Mingzhu Branch | Ordo Suci Tianming |
-| Xingluo | Blue Sail Prefecture | Tianming Public Knowledge Library — Lanfan Branch | Ordo Suci Tianming |
-| Xingluo | Tidegate Prefecture | Tianming Public Knowledge Library — Chaoguan Branch | Ordo Suci Tianming |
-| Xingluo | Saltwind Prefecture | Tianming Public Knowledge Library — Yanfeng Branch | Ordo Suci Tianming |
-| Xingluo | Jade Coast Prefecture | Tianming Public Knowledge Library — Yuhai Branch | Ordo Suci Tianming |
-| Xingluo | Far Lantern Prefecture | Tianming Public Knowledge Library — Yuandeng Branch | Ordo Suci Tianming |
-| Xingluo | Dragonwake Prefecture | Tianming Public Knowledge Library — Longchao Branch | Ordo Suci Tianming |
+| Longyuan | Huanglongcheng, imperial capital | Tianming Public Knowledge Library — Huanglongcheng Hall | Ordo Suci Tianming |
+| Tianfeng | Tianshu, regional seat | Tianming Public Knowledge Library — Tianshu Hall | Ordo Suci Tianming |
+| Xingluo | Dongxing, regional seat | Tianming Public Knowledge Library — Dongxing Hall | Ordo Suci Tianming |
+
+These three locations are known public facilities, not proof that every resident can conveniently reach them. No other Ordo public library inside the Empire should be assumed to exist unless it is added to canon. The Ordo's headquarters and other established religious or observation facilities in Wanluo remain distinct from this public-library list.
 
 ### 7.1 Public collection: what ordinary visitors can learn
 
@@ -299,8 +225,8 @@ The basic collection is designed for the general public, including commoners and
 ## 8. Other organizations and existing institutions
 
 - **Five established Golden Dragon Empire dojos:** Golden Dragon Martial Hall, Iron Mountain Dojo, Cloudstep Dojo, Azure River Dojo, and Flameforge Dojo. Their identities remain valid, but this register does not invent extra branches, owners, or formal control by similarly named clans.
-- **Existing clans:** the twelve major clans remain as recorded in `world/FACTIONS.md`. A clan's regional influence does not automatically mean it runs a bank, academy, clinic, library, or local government office.
-- **Ordo Suci Tianming headquarters:** Sanctum of Ten Thousand Vows in Wanluo, separate from the World Knowledge Tower. The 46 public libraries are its Empire network; they do not replace its observation halls, assessment halls, or response facilities.
+- **Existing clans:** the twelve major clans remain as recorded in world/FACTIONS.md. A clan's regional influence does not automatically mean it runs a bank, academy, clinic, library, or local government office.
+- **Ordo Suci Tianming headquarters:** Sanctum of Ten Thousand Vows in Wanluo, separate from the World Knowledge Tower. Its three listed Empire libraries are selective public facilities; they do not replace its observation halls, assessment halls, or response facilities.
 - **Independent learning:** family instruction, village tutors, local mentors, and other routes may exist, but this register does not claim a particular unnamed school or teacher has been established.
 
 ## 9. Canon, scale, and future expansion rules
@@ -308,7 +234,7 @@ The basic collection is designed for the general public, including commoners and
 1. The institution names and branch locations in this file are newly established additions requested for the worldbuilding project.
 2. The administrative atlas controls the official spellings of regions, prefectures, and seats. If a seat is renamed, update this register as well.
 3. A listed branch is a known service point, not proof that it is fully staffed, well-funded, safe, open at the moment of a scene, or able to fulfil every request.
-4. The register names prefecture-seat branches only. It does not claim a bank, academy, Exchange office, clinic, or Ordo library exists in all 368 cities, 1,840 towns, 9,200 township/district offices, or 50,000 villages/neighborhoods.
+4. The bank, Exchange, and Medicine Hall Society lists use prefecture seats as service hubs. Only two academies and three Ordo public libraries are specifically established in this register; it does not claim that those institutions exist in every prefecture, city, town, or village.
 5. Branch managers, academy principals, librarians, physicians, prices, admission rules, branch capacity, and local controversies may be established later through owner-approved NPC profiles or gameplay.
 6. For public knowledge, use `core/CULTIVATION_SYSTEM.md`, `core/MARTIAL_SOUL_AWAKENING.md`, `bestiary/SPIRIT_BEAST_RULES.md`, and `core/THINKER_AND_FORMULATION.md`. If a detail is absent or restricted in those sources, do not invent it as authoritative textbook content.
 

@@ -58,6 +58,16 @@ Foundational history lessons do not automatically qualify a student as a Thinker
 ### 2.7 Other Relevant Knowledge
 Depending on the established curriculum, foundational education may also include geography, Spirit Beast awareness, major factions, travel, and other knowledge relevant to life as a cultivator. Whether a particular academy offers a subject must be established rather than assumed.
 
+### 2.8 Supervised Spirit Beast Field Practice
+
+An academy that offers practical Spirit Ring preparation may take students on supervised group expeditions into a selected forest or other wilderness area. This is the academy's **Safe Route** approach: instructors teach theory and field discipline, choose a route according to the students' demonstrated readiness and available hazard information, and supervise the group's attempt to locate or hunt an appropriate Spirit Beast.
+
+Field preparation may include habitat and track recognition, threat assessment, party coordination, retreat signals, emergency planning, ring compatibility, and the difference between defeating a Beast and successfully absorbing its ring. Actual content depends on the academy and the lessons the student has received.
+
+A Safe Route is a managed-risk training route, not a guarantee of safety. An unexpected Beast, inaccurate report, environmental hazard, separation, injury, or failed hunt remains possible. The academy's presence does not guarantee a rescue squad or medical outcome unless the specific expedition establishes those resources. No student receives an automatic combat bonus, guaranteed ring, improved compatibility, or successful absorption for attending.
+
+Only two specific central boarding academies are currently named in Golden Dragon Empire canon: **Imperial Foundation Academy** and **Imperial Cultivation Academy**, both in Huanglongcheng. Do not assume every academy or institution in the wider world has this field program.
+
 ## 3. ACADEMIES AND SPECIALIST PATHWAYS
 
 - A Cultivator Academy offers broad foundational education.

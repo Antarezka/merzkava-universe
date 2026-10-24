@@ -12,7 +12,7 @@ Modul ini adalah sumber mekanik utama untuk proses awakening dan mutasi Martial 
 1. Awakening mengungkap Martial Soul seseorang; awakening tidak otomatis memberikan Spirit Ring.
 2. Awakening berlangsung pada usia empat tahun atau lebih.
 3. Hasil rarity dan peluang mutasi wajib ditentukan dengan prosedur acak yang adil. GM tidak boleh memilih hasil hanya karena cocok dengan cerita, karakter, atau keinginan pemain.
-4. Rarity Martial Soul bukan pengganti Cultivation Realm, Spirit Ring, kemampuan bertarung, pengalaman, atau profesi. Rarity yang lebih tinggi tidak otomatis berarti menang dalam pertarungan.
+4. Rarity Martial Soul bukan pengganti Spirit Realm, Spirit Ring, kemampuan bertarung, pengalaman, atau profesi. Rarity yang lebih tinggi tidak otomatis berarti menang dalam pertarungan.
 5. Bentuk, atribut, kemampuan, batas, dan efek suatu Martial Soul harus memiliki dasar yang dapat dijelaskan. GM tidak boleh menciptakan kemampuan luar biasa hanya berdasarkan rarity.
 6. Jika mekanisme pengacakan yang benar-benar acak tidak tersedia, GM harus menyatakan keterbatasan itu dan tidak mengaku telah melakukan pengundian acak yang tidak terjadi.
 
@@ -122,14 +122,14 @@ GM wajib menjaga hal-hal berikut:
 - Keputusan berhenti atau bertahan hanya dibuat oleh pemain.
 - Peluang mutasi selalu 10% dan hanya satu undian per keputusan bertahan.
 - Tidak ada reroll, pengundian tersembunyi berulang, peluang yang berubah-ubah, atau hasil yang dipilih berdasarkan plot.
-- Hasil rarity dan mutasi tidak otomatis memberikan Realm, Stage, Qi, Spirit Ring, teknik, garis keturunan, atau kemenangan.
+- Hasil rarity dan mutasi tidak otomatis memberikan Spirit Realm, Stage, Qi, Spirit Ring, teknik, garis keturunan, atau kemenangan.
 - Catatan akhir hanya memuat hasil yang benar-benar diundi dan ditetapkan.
 - Jika terjadi konflik dengan lore umum Martial Soul, gunakan modul ini untuk prosedur, tabel peluang, dan keputusan mutasi; gunakan `core/MARTIAL_SOUL.md` untuk lore serta karakteristik umum.
 
 ## 8. Integrasi dengan Modul Lain
 
 - `core/MARTIAL_SOUL.md` — definisi Martial Soul, contoh bentuk, penguasaan awal alat, dan lore.
-- `core/CULTIVATION_SYSTEM.md` — Realm dan Stage; rarity awakening tidak menggantikannya.
+- `core/CULTIVATION_SYSTEM.md` — Spirit Realm dan Stage; rarity awakening tidak menggantikannya.
 - `core/SPIRIT_RING_RULES.md` — perolehan dan penyerapan Spirit Ring; awakening tidak memberikan ring.
 - `templates/AUTHORITY_ORDER.md` — prosedur GM dan larangan mengarang atau mengambil keputusan pemain.
 - `INDEX.md` — pintu masuk wajib dan pemetaan modul.

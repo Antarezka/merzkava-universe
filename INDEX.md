@@ -124,6 +124,7 @@ Jika sumber wajib gagal diakses, sebutkan file yang gagal dan jangan mengaku tel
 - `INDEX.md`
 - `players.md`
 - `players/Yuha.md`
+- `players/Nafila.md`
 - `templates/AUTHORITY_ORDER.md`
 - `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`
 - `templates/CHARACTER_PROFILE_TEMPLATE.md`

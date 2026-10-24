@@ -76,7 +76,7 @@ Setiap breakthrough juga memerlukan ring berikutnya yang benar-benar tersedia, i
 - Ring 7 → Ring 8: 3 tahun.
 - Ring 8 → Ring 9: 4 tahun.
 
-Jika persyaratan item khusus Beast belum ditetapkan, jangan mengarangnya atau menganggapnya tidak diperlukan. Periksa `bestiary/SPIRIT_BEAST_RULES.md`.
+Jika persyaratan item khusus Beast belum ditetapkan, GM wajib menetapkan requirement sementara yang konkret berdasarkan tier/usia Spirit Ring dan jenis serta karakteristik Spirit Beast target sesuai `bestiary/SPIRIT_BEAST_RULES.md`. Requirement tersebut menjadi syarat breakthrough untuk menyerap Spirit Ring target; jangan membiarkannya kosong atau menganggapnya tidak diperlukan.
 
 Deviasi: makin besar jarak Sync progress dari cap ketika breakthrough dipaksakan, makin tinggi dampaknya. Memaksakan Penyerapan Spirit Ring sebelum jeda minimum juga meningkatkan dampak deviasi. Gunakan formula dan tabel berikut sebagai satu-satunya sumber numerik deviasi.
 

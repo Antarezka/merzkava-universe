@@ -45,7 +45,8 @@ Warna untuk ring berusia 500.000 tahun atau lebih masih **Undefined**. Jangan me
 - Awakening tidak otomatis memberikan Spirit Ring pertama; ring pertama harus diperoleh melalui proses tersendiri.
 - Sistem memiliki sembilan Realm dan satu slot Spirit Ring untuk setiap Realm, sehingga Realm 1 membuka satu slot dan Realm 9 membuka sembilan slot.
 - Urutan Realm: Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, Spirit Primordial.
-- Progres 100% tidak otomatis berarti Sync progress sudah mencapai cap ring; gunakan format progres saat ini/cap ring.
+- Sync progress selalu dibandingkan dengan cap kompatibilitas ring. Mencapai cap (misalnya `45%/45%`) berarti karakter mencapai batas kompatibilitas normal ring itu; **bukan** berarti cap harus 100%.
+- Penguasaan kekuatan ring 100% adalah konsep terpisah: kekuatan ring dikuasai sepenuhnya, setara dengan saat Spirit Beast asalnya menggunakannya. Jangan samakan penguasaan 100% dengan Sync progress 100% atau dengan cap kompatibilitas. Jangan menganggap penguasaan penuh tercapai hanya karena progress menyentuh cap.
 - Menerobos memerlukan seluruh syarat di `core/CULTIVATION_SYSTEM.md`: bottleneck dalam jarak kurang dari 10 poin persentase dari cap, ring berikutnya tersedia, item wajib untuk Beast target tersedia, dan jeda minimum antar-penyerapan telah terpenuhi.
 - Penyerapan ring berikutnya menambah jumlah ring hanya jika benar-benar berhasil. Realm baru hanya dicatat setelah seluruh proses breakthrough berhasil.
 - Qi mortal sebelum awakening bernilai 0; setelah awakening tetapi sebelum ring pertama diserap, Qi belum terbentuk.
@@ -60,7 +61,7 @@ Meditasi atau kegiatan lain bukan Penyerapan Spirit Ring maupun Kultivasi. Kegia
 
 Untuk setiap ring baru, hitung kompatibilitas ring tersebut (`Cᵢ`) menggunakan rumus §6.1. Nilai `Cᵢ` menjadi cap kompatibilitas maksimum bagi Sync progress ring itu. Format wajib: `Sync progress: [progres saat ini]%/[Cᵢ]%`. Contoh `Sync progress: 0%/78%` hanya berlaku jika rumus resmi menghasilkan cap 78%.
 
-Cap dapat berbeda pada setiap ring dan tidak otomatis 100%. Kultivasi dapat menaikkan Sync progress hingga cap, tetapi tidak melewatinya. Jarak dari cap dihitung sebagai cap dikurangi Sync progress saat ini.
+Cap dapat berbeda pada setiap ring dan tidak otomatis 100%. Kultivasi dapat menaikkan Sync progress hingga cap, tetapi tidak melewatinya. Jarak dari cap dihitung sebagai cap dikurangi Sync progress saat ini. Contoh: `Sync progress: 45%/45%` berarti cap tercapai walau angka progresnya bukan 100%. Penguasaan kekuatan ring 100% tetap merupakan konsep terpisah dan berarti kekuatan ring dikuasai sepenuhnya setara dengan penggunaan Spirit Beast asalnya.
 
 Syarat bottleneck untuk menerobos: jarak Sync progress ke cap harus kurang dari 10 poin persentase. Jika jaraknya 10 poin atau lebih, karakter belum memenuhi syarat bottleneck untuk menerobos.
 

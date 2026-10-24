@@ -118,7 +118,8 @@ Penaklukan Spirit Beast dan proses penyerapan Spirit Ring adalah bagian yang ber
 1. Gunakan `world/WORLD.md` sebagai acuan lore dan modul ini untuk mekanik kultivasi yang sudah disepakati.
 2. Gunakan modul ini bersama `core/MARTIAL_SOUL.md` dan `core/SPIRIT_RING_RULES.md`; gunakan `bestiary/SPIRIT_BEAST_RULES.md` ketika file tersebut tersedia.
 3. Gunakan `gameplay/TIME_AND_ACTION_RULES.md` untuk durasi aksi dan Kultivasi; modul tersebut sudah tersedia.
-4. Jangan mengklaim membaca modul yang belum tersedia.
-5. Jangan menciptakan rumus, statistik, peluang, bonus, atau pengecualian baru sebagai canon.
-6. Jika suatu aksi memerlukan aturan rinci yang belum ditetapkan, jelaskan keterbatasannya dan selesaikan hanya bagian yang didukung sumber.
-7. Profil karakter harus mencerminkan Realm, Stage, dan progres. Jangan menambahkan field terpisah untuk Spirit Ring; jumlah slot mengikuti Realm, sementara informasi ring yang telah diperoleh—sumber, usia, warna, kemampuan, dan hasil proses yang diketahui—dicatat dalam bagian Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada. Jangan mengisi slot atau menaikkan Realm tanpa proses yang sah.
+4. Gunakan `core/HUNGER_AND_METABOLISM.md` selama time skip Kultivasi untuk menghitung Satiety pada waktu terjaga. Kecualikan tidur malam yang dilindungi; jangan mengurangi Satiety selama tidur itu.
+5. Jangan mengklaim membaca modul yang belum tersedia.
+6. Jangan menciptakan rumus, statistik, peluang, bonus, atau pengecualian baru sebagai canon.
+7. Jika suatu aksi memerlukan aturan rinci yang belum ditetapkan, jelaskan keterbatasannya dan selesaikan hanya bagian yang didukung sumber.
+8. Profil karakter harus mencerminkan Realm, Stage, dan progres. Jangan menambahkan field terpisah untuk Spirit Ring; jumlah slot mengikuti Realm, sementara informasi ring yang telah diperoleh—sumber, usia, warna, kemampuan, dan hasil proses yang diketahui—dicatat dalam bagian Teknik / Kemampuan atau deskripsi Martial Soul yang sudah ada. Jangan mengisi slot atau menaikkan Realm tanpa proses yang sah.

@@ -74,19 +74,19 @@ The regional identities are:
 - **Baiyue — Frontier Marches:** border defense, fortifications, and military routes.
 - **Xingluo — Eastern Ports:** maritime trade, diplomacy, and sea routes.
 
-These seven regional identities and their administrative seats/counts are established in `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. The names of the current governors and surveyed legal boundaries remain unestablished.
+These seven regional identities and their administrative seats/counts are established in `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. The current named governors are recorded in `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`; surveyed legal boundaries remain unestablished.
 
 ### 2.5 Prefectures
 
 Prefectures coordinate multiple counties or a major urban jurisdiction. Their administration may cover regional transport, public works, revenue collection, inter-county disputes, and implementation of regional orders.
 
-The 46 prefectures and their seat cities are named in `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. Their precise surveyed borders and current prefects remain unestablished.
+The 46 prefectures and their seat cities are named in `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. Their precise surveyed borders are unestablished; all current prefects are listed in `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`.
 
 ### 2.6 Counties
 
 Counties coordinate local civil administration, tax and population registers, courts of first instance where applicable, public works, and relations between settlements.
 
-The atlas establishes 276 counties, six per prefecture, and provides a working name for each county jurisdiction. Precise surveyed borders and current magistrates remain unestablished.
+The atlas establishes 276 counties, six per prefecture, and provides a working name for each county jurisdiction. Precise surveyed borders remain unestablished; all current magistrates are listed in `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`.
 
 ### 2.7 Cities, Towns, Townships, Districts, and Villages
 
@@ -134,7 +134,8 @@ Follow a modular pattern inspired by the organization of Inggo's Core repository
 | Core governance principles, hierarchy, ministries, and civil/military distinction | This file: `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md` |
 | Seven regional identities and broad geographic relationships | `world/WORLD.md` and `world/MAP_AND_REGIONS.md` |
 | Local settlements, jurisdiction, regional offices, local factions, and local NPC registry | The relevant `world/REGION_*.md` file |
-| Full biography and established traits of an important official or recurring NPC | A dedicated `world/NPC_[NAME].md` profile linked from the regional registry |
+| Central ministers, regional governors, all prefects and county magistrates: names, Realm, Martial Soul, background, motivation, and political stance | `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` |
+| Full biography and established traits of an important official or recurring NPC requiring more detail | A dedicated `world/NPC_[NAME].md` profile linked from the regional registry |
 | Clan, dojo, sect, and organization identity or relationships | `world/FACTIONS.md`; use a dedicated module when the institution requires detailed hierarchy or facilities |
 | Confirmed historical appointments, reforms, wars, or past political events | `world/HISTORY.md` |
 | Active or concluded persistent events and their ongoing world effects | `world/DYNAMIC_EVENTS.md`, following the owner-review workflow |

@@ -1,8 +1,8 @@
 # Merzkava Universe — Golden Dragon Empire Governance
 
 **Scope:** Civil administration, imperial institutions, territorial hierarchy, public offices, oversight, and the separate military chain of command.  
-**Status:** Established governance framework for the Golden Dragon Empire. The hierarchy below defines institutional structure, not the names or current holders of every office.  
-**Primary references:** `world/WORLD.md`, `world/MAP_AND_REGIONS.md`, `world/FACTIONS.md`, and the seven regional modules.
+**Status:** Established governance framework, with territorial counts and names maintained in `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. Officeholders are recorded separately when established.  
+**Primary references:** `world/WORLD.md`, `world/MAP_AND_REGIONS.md`, `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`, `world/FACTIONS.md`, and the seven regional modules.
 
 ---
 
@@ -13,7 +13,7 @@
 3. **A noble title, clan affiliation, cultivation Realm, or personal strength does not automatically grant a government office or legal jurisdiction.** Authority must come from a recognized appointment, lawful delegation, or established local arrangement.
 4. Civil administration and military command are distinct chains. A governor is not automatically the commander of every garrison in their territory, and a military commander does not automatically administer civilian affairs.
 5. The seven established regions are geographic and regional identities. They are not, by themselves, a complete list of administrative units or proof of exact borders.
-6. The names below describe the recommended standard institutions of the Empire. The specific officeholders, office counts, local boundaries, legal codes, and exceptions remain undefined until recorded in an official module.
+6. The standard territorial counts and jurisdiction names are recorded in `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. The named units are established; exact map coordinates, surveyed borders, legal codes, and current officeholders remain open unless recorded in the relevant module.
 
 ## 2. Civil Government — From the Center to the Local Level
 
@@ -21,16 +21,16 @@
 Emperor
 └── Imperial Council / Grand Secretariat
     ├── Central Ministries and Imperial Agencies
-    └── Regional Governors (seven regional jurisdictions)
-        └── Prefectures
-            └── Counties
+    └── 7 Regional Governors
+        └── 46 Prefectures
+            └── 276 Counties
                 ├── Cities and Towns
                 └── Townships / District Offices
-                    └── Villages / Neighborhoods
-                        └── Household Register
+                    └── 50,000 Villages / Neighborhoods
+                        └── Household Register (lowest population register)
 ```
 
-This is the standard administrative pattern. It does **not** mean every branch or region must have the same number of offices, nor that every city must sit below a county. A major city may be administered directly at prefectural or central level if an explicit rule is established.
+The Empire's initial administrative register contains **7 regions, 46 prefectures, 276 counties, 368 cities, 1,840 towns, 9,200 township/district offices, and 50,000 villages/neighborhoods**. See the atlas for the regional distribution and named prefectures. A major city may be administered directly at prefectural or central level, so city totals are not a strict additional rung in every county's chain.
 
 ### 2.1 Emperor
 
@@ -74,19 +74,19 @@ The regional identities are:
 - **Baiyue — Frontier Marches:** border defense, fortifications, and military routes.
 - **Xingluo — Eastern Ports:** maritime trade, diplomacy, and sea routes.
 
-These seven regional identities are canon; the assignment of named governors, exact jurisdictional boundaries, administrative seats, and the number of prefectures under each region remain unestablished.
+These seven regional identities and their administrative seats/counts are established in `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. The names of the current governors and surveyed legal boundaries remain unestablished.
 
 ### 2.5 Prefectures
 
 Prefectures coordinate multiple counties or a major urban jurisdiction. Their administration may cover regional transport, public works, revenue collection, inter-county disputes, and implementation of regional orders.
 
-The number, names, borders, seats, and current prefects are not yet specified.
+The 46 prefectures and their seat cities are named in `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. Their precise surveyed borders and current prefects remain unestablished.
 
 ### 2.6 Counties
 
 Counties coordinate local civil administration, tax and population registers, courts of first instance where applicable, public works, and relations between settlements.
 
-The number, names, borders, seats, and current magistrates are not yet specified.
+The atlas establishes 276 counties, six per prefecture, and provides a working name for each county jurisdiction. Precise surveyed borders and current magistrates remain unestablished.
 
 ### 2.7 Cities, Towns, Townships, Districts, and Villages
 
@@ -147,7 +147,7 @@ Do not copy a full ministry description into every regional file. The central go
 
 ### 5.2 Required Fields for a Future Administrative Unit
 
-When the owner defines a prefecture, county, city, town, district, or village, record as much of the following as is confirmed:
+When adding detail to an already registered prefecture, county, city, town, district, or village, record as much of the following as is confirmed:
 
 - Official name and administrative type.
 - Parent jurisdiction and governing authority.
@@ -163,22 +163,22 @@ Do not fill unknown fields with invented names, numbers, borders, or officeholde
 
 ### 5.3 Expansion Order
 
-1. Keep this central hierarchy stable before naming lower-level units.
-2. Define Longyuan's central institutions and capital-area administration in its regional module.
-3. Expand each of the other six regional modules according to its established identity and needs; do not force equal numbers of prefectures, counties, cities, or villages.
-4. Add individual NPC profiles only when important officials are actually established.
-5. Update `INDEX.md`, `README.md`, `world/MAP_AND_REGIONS.md`, and `world/WORLD.md` when a confirmed addition changes navigation or shared canon.
+1. Treat the atlas as the single source for administrative names and totals.
+2. Expand Longyuan's capital districts and local institutions in its regional module.
+3. Expand the other six regional modules according to their established identities and recorded settlement totals.
+4. Add individual NPC profiles when important officials are named.
+5. When an administrative unit changes, update the atlas first, then synchronize the regional module and `world/MAP_AND_REGIONS.md`.
 
 ## 6. Canon Boundaries and Open Decisions
 
 The following remain open unless established by a later owner-approved source:
 
-- Exact number, names, boundaries, and seats of prefectures and counties.
-- The empire's formal capital-city name and detailed capital administration, except where another canon source establishes them.
+- Exact surveyed boundaries and coordinates of prefectures, counties, and the imperial capital.
+- Detailed capital districts and the current holders of central and regional offices.
 - Ministers, council members, governors, prefects, county magistrates, and their current terms.
 - Formal noble ranks, succession law, appointment procedures, taxation law, and civil-service examinations beyond the broad portfolio above.
 - Detailed court hierarchy, appeal procedures, police/investigative authority, and emergency powers.
 - Exact army ranks, unit sizes, garrison numbers, and relationships with clan or dojo forces.
 - Any regional exception to the standard hierarchy.
 
-Do not use this module to overwrite established characters, clans, dojos, regional identities, or unrelated world lore. When a new fact conflicts with an existing official source, flag the conflict for owner review rather than silently rewriting either source.
+The initial territorial names and totals are established by the administrative atlas, while exact geography and current officeholders remain separate facts. Do not use this module to overwrite established characters, clans, dojos, regional identities, or unrelated world lore. When a new fact conflicts with an existing official source, flag the conflict for owner review rather than silently rewriting either source.

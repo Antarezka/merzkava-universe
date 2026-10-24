@@ -38,7 +38,9 @@ Pertahankan nama dan urutan field sesuai `templates/GAMEPLAY_RESPONSE_TEMPLATE.m
 - Jangan menambah field terpisah untuk **Spirit Rings** atau **Law** tanpa persetujuan pemilik. Jumlah slot mengikuti Realm; rincian ring masuk ke **Teknik / Kemampuan** atau deskripsi Martial Soul.
 - Gunakan profil gameplay terakhir ditambah kejadian yang benar-benar terjadi. Jangan menganggap HP penuh, mengisi ulang sumber daya, mengubah saldo, atau menghapus konsekuensi tanpa sebab yang sah.
 - Estimasi praktis untuk karakter baru hanya boleh digunakan bila wajar dan harus diberi label estimasi GM. Jangan mengarang rahasia besar, garis keturunan, artefak langka, atau teknik formal.
-- Gunakan `???` untuk fakta yang belum diketahui atau tidak dapat ditetapkan secara bertanggung jawab. Jangan mengganti ketidakpastian dengan tebakan.
+- `???` hanya boleh digunakan untuk **identitas karakter yang benar-benar tidak dikenal** atau **nama Martial Soul yang belum diketahui**. Jangan gunakan `???` pada field lain.
+- Field numerik yang belum tercatat diisi `0`, bukan `???`. Pengecualian hanya bila angka tersebut punya makna mekanik khusus yang akan menjadi klaim palsu jika dipaksa menjadi nol; gunakan `Belum ditetapkan` untuk field seperti `Day left` jika timestamp/riwayat yang dibutuhkan tidak tersedia.
+- Field nonnumerik lain yang belum ditetapkan ditulis `Belum ditetapkan`; gunakan `Tidak ada` hanya jika memang diketahui tidak ada. Jangan menebak atau menciptakan fakta.
 - HP dan injury adalah state terpisah: `core/HP_SYSTEM.md` mengatur HP, sedangkan `core/INJURY_SYSTEM.md` mengatur klasifikasi dan progres pemulihan cedera.
 - Satiety dan metabolisme hanya mengikuti `core/HUNGER_AND_METABOLISM.md`. Tidur malam yang dilindungi mengunci Satiety, tetapi tidak otomatis memulihkan HP, Qi, atau injury.
 - Profil adalah snapshot state setelah giliran, bukan pengganti narasi kejadian atau riwayat transaksi.
@@ -49,5 +51,5 @@ Pertahankan nama dan urutan field sesuai `templates/GAMEPLAY_RESPONSE_TEMPLATE.m
 - Gunakan selisih waktu dunia yang tercatat, bukan jumlah giliran atau waktu nyata.
 - Bulatkan sisa durasi positif ke atas dalam satuan 24 jam: 1 jam tersisa = `1 Day left`, 24 jam = `1 Day left`, 25 jam = `2 Day left`. Ini hitung mundur durasi, bukan hitungan pergantian tanggal kalender.
 - Tulis `0 Day left` hanya ketika jeda minimum benar-benar terpenuhi. Nilai nol bukan jaminan breakthrough atau penyerapan ring sah/berhasil.
-- Jika timestamp, jumlah ring, atau riwayat penyerapan tidak diketahui atau bertentangan, gunakan `??? Day left`.
+- Jika timestamp, jumlah ring, atau riwayat penyerapan tidak diketahui atau bertentangan, tulis `Belum ditetapkan Day left`; jangan tulis `??? Day left`, dan jangan menulis `0 Day left` karena nol berarti jeda minimum benar-benar terpenuhi.
 - Hitung ulang hanya ketika timestamp dunia atau informasi riwayat yang sah berubah. Pergantian giliran saja tidak mengurangi nilai.

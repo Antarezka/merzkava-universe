@@ -94,6 +94,7 @@ Untuk combat, termasuk cakupan aksi, serangan beruntun, multi-hit, damage, perta
 - `Day left` hanya menghitung jeda minimum antarpenyerapan Spirit Ring yang berhasil, bukan timer umum breakthrough kultivasi. Ikuti `templates/CHARACTER_PROFILE_TEMPLATE.md` serta interval resmi di `bestiary/SPIRIT_BEAST_RULES.md`. Selesainya jeda waktu saja tidak menjamin breakthrough atau penyerapan ring berhasil.
 - HP dan injury adalah state terpisah; gunakan core/HP_SYSTEM.md dan core/INJURY_SYSTEM.md.
 - Sync progress/cap kompatibilitas bukan hal yang sama dengan penguasaan kekuatan ring 100%; ikuti modul Spirit Ring.
+- Untuk tingkat kultivasi, selalu gunakan istilah kanonis **Spirit Realm**; jangan menyingkatnya menjadi `Realm` atau menggantinya dengan `Cultivation Realm`. Mortal adalah status dasar, bukan Spirit Realm 0.
 - Jangan mengubah HP, Qi, Spirit Realm, ring, inventory, equipment, assets, Currency, luka, utang, relasi, atau konsekuensi tanpa dasar yang tercatat.
 - Teknik baru harus memenuhi sumber, waktu latihan, biaya, syarat, dan risiko sesuai aturan resmi. Item dan transaksi harus punya sumber kejadian yang sah.
 - Perjalanan menggunakan `world/GEOGRAPHY_AND_TRAVEL.md` untuk moda transportasi, batas perjalanan, dan detail geografi; gunakan `world/MAP_AND_REGIONS.md` untuk wilayah serta rute yang benar-benar diketahui. Jangan menyimpulkan jarak atau waktu tempuh yang belum didukung sumber.

@@ -11,7 +11,7 @@ I. WORLD OVERVIEW
 
 Merzkava Universe adalah dunia kultivasi luas yang kekuatannya ditentukan oleh Martial Soul, Spirit Ring, teknik, pengalaman, sumber daya, dan pengaruh politik.
 
-Sistem kultivasi memiliki sembilan Realm dengan urutan resmi: Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, dan Spirit Primordial. Setiap Realm memiliki empat Stage: Early, Middle, Late, dan Peak. Setiap Realm membuka satu slot Spirit Ring tambahan.
+Sistem kultivasi memiliki sembilan Spirit Realm dengan urutan resmi: Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, dan Spirit Primordial. Setiap Spirit Realm memiliki empat Stage: Early, Middle, Late, dan Peak. Setiap Spirit Realm membuka satu slot Spirit Ring tambahan.
 
 Dunia ini memiliki tiga kekuasaan utama:
 
@@ -131,7 +131,7 @@ Dojo tidak otomatis berada di bawah kendali klan yang namanya serupa. Hubungan f
 
 Title: Emperor of the Golden Dragon Empire
 Martial Soul: Golden Heavenly Dragon
-Cultivation Realm: Realm 9 — Spirit Primordial
+Spirit Realm: Spirit Realm 9 — Spirit Primordial
 Stage: Middle
 
 Proposed Spirit Ring Configuration
@@ -162,7 +162,7 @@ The currently established imperial family consists of Emperor Jun Haotian, Empre
 | Jun Ruiyuan (君睿渊) | 17 | Eldest child; Crown Prince | Golden Heavenly Qilin | Myth |
 | Jun Yuejin (君月瑾) | 16 | Second child; Princess | Golden Celestial Crane | Myth |
 
-**Confirmed family relationships:** Jun Haotian is married to Shen Yuehua. Jun Ruiyuan is their eldest child and heir to the throne; Jun Yuejin is their second child. Both children are established as inheriting their mother's intelligence and beauty. Their individual personalities, cultivation Realm and Stage, Spirit Rings, techniques, and other abilities remain unestablished unless another official source records them.
+**Confirmed family relationships:** Jun Haotian is married to Shen Yuehua. Jun Ruiyuan is their eldest child and heir to the throne; Jun Yuejin is their second child. Both children are established as inheriting their mother's intelligence and beauty. Their individual personalities, Spirit Realm and Stage, Spirit Rings, techniques, and other abilities remain unestablished unless another official source records them.
 
 **Shen family background through the Empress:** Shen Yuehua belongs to the main branch of the Shen family. The family is known for producing outstanding strategists, maintains hundreds of elite tea-pavilion establishments that serve as gathering places for influential people, and has a specialized intelligence branch as well as its own advanced Thinkers. The Shen family is one of several major parties entrusted with rights and responsibilities in administering the World Knowledge Tower. The Tower is an ancient divine relic from the Early Golden Age and is **not owned by the Shen family**.
 
@@ -243,7 +243,7 @@ Leiyu Clan| Teknik tempur dan kekuatan ofensif
 
 Title: Maharaja of Tianhai Yunzhou
 Martial Soul: Heavenly Sky Whale
-Cultivation Realm: Realm 9 — Spirit Primordial
+Spirit Realm: Spirit Realm 9 — Spirit Primordial
 Stage: Early
 
 Proposed Spirit Ring Configuration
@@ -334,7 +334,7 @@ Xuanye Clan| Teknik tempur dan kepentingan strategis
 
 Title: Leluhur Utara of Beiming Gu
 Martial Soul: Blue-Flame Silver Tiger
-Cultivation Realm: Realm 9 — Spirit Primordial
+Spirit Realm: Spirit Realm 9 — Spirit Primordial
 Stage: Early
 
 Proposed Spirit Ring Configuration
@@ -353,7 +353,7 @@ Total| 4,250,000 years|
 
 Warna Spirit Ring di atas 499.999 tahun belum ditetapkan dalam aturan warna dunia ini. Jangan menciptakan warna baru sebelum sistem tersebut disahkan.
 
-Leluhur Utara dikenal sebagai penguasa dengan keunggulan besar dalam duel langsung dibandingkan dua penguasa Realm 9 lainnya, meskipun Realm Stage miliknya Early.
+Leluhur Utara dikenal sebagai penguasa dengan keunggulan besar dalam duel langsung dibandingkan dua penguasa Spirit Realm 9 lainnya, meskipun Spirit Spirit Realm Stage miliknya Early.
 
 Keunggulan tersebut merupakan penilaian relatif terhadap kemampuan bertarung individu, bukan jaminan kemenangan dalam semua keadaan.
 
@@ -361,7 +361,7 @@ Keunggulan tersebut merupakan penilaian relatif terhadap kemampuan bertarung ind
 
 VI. COMPARATIVE POWER AND POLITICAL BALANCE
 
-Ketiga penguasa berada di Realm 9 — Spirit Primordial, tetapi mereka tidak setara dalam seluruh aspek pertarungan.
+Ketiga penguasa berada di Spirit Realm 9 — Spirit Primordial, tetapi mereka tidak setara dalam seluruh aspek pertarungan.
 
 Faktor yang dapat memengaruhi hasil duel meliputi:
 
@@ -697,7 +697,7 @@ Catatan yang tidak lengkap harus tetap dianggap tidak lengkap. Dugaan, legenda, 
 
 XII-A. THINKER, KNOWLEDGE EXCHANGE, AND ARTIFICIAL ARTIFACTS
 
-Thinker adalah jalur kemajuan independen yang berfokus pada pengetahuan, material, pola, formulasi, dan pembuatan Artificial Artifact. Thinker memiliki sepuluh tingkatan dan tidak identik dengan Realm kultivasi. Tingkat kultivasi tinggi tidak otomatis menjadikan seseorang Thinker hebat; tingkat Thinker tinggi juga tidak otomatis menjadikan seseorang kultivator kuat. Tingkat Thinker menentukan kemampuan dasar dan batas formulasi normal, tetapi tidak menjamin keberhasilan setiap pengerjaan.
+Thinker adalah jalur kemajuan independen yang berfokus pada pengetahuan, material, pola, formulasi, dan pembuatan Artificial Artifact. Thinker memiliki sepuluh tingkatan dan tidak identik dengan Spirit Spirit Realm. Tingkat kultivasi tinggi tidak otomatis menjadikan seseorang Thinker hebat; tingkat Thinker tinggi juga tidak otomatis menjadikan seseorang kultivator kuat. Tingkat Thinker menentukan kemampuan dasar dan batas formulasi normal, tetapi tidak menjamin keberhasilan setiap pengerjaan.
 
 Thinker pertama berasal dari Tianhai Yunzhou. Tianhai menjadi pusat keunggulan pengetahuan Thinker; pengaruhnya mencakup ilmu, budaya, diplomasi, dan persaingan antarkekuatan, bukan hanya kekuatan tempur. Maharaja Tianhai dapat bersaing melalui pengetahuan luar biasa, bukan semata-mata kekuatan pribadi.
 

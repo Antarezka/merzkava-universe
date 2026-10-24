@@ -1,4 +1,4 @@
-# Xuanling Realm — World Event Update Proposal
+# Merzkava Universe — World Event Update Proposal
 
 Use this template when a gameplay outcome has a persistent effect on the shared world and someone wants to submit it for repository review.
 

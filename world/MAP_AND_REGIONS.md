@@ -1,11 +1,11 @@
-# Xuanling Realm — Map and Regions
+# Merzkava Universe — Map and Regions
 
 **Status:** Regional reference module.  
 **Canon policy:** Established facts are separated from geographic details that still require confirmation. This file organizes known regions; it does not establish precise coordinates, distances, travel times, or borders that have not been defined. See `world/GEOGRAPHY_AND_TRAVEL.md` for the broader world layout, wilderness, ruins, and transport; see `world/INTELLIGENT_PEOPLES.md` for the world's diverse peoples.
 
 ## 1. World Map: Current Geographic Model
 
-Xuanling Realm is built around one vast continent with connected seas and maritime routes. The current world foundation identifies three major powers:
+Merzkava Universe is built around one vast continent with connected seas and maritime routes. The current world foundation identifies three major powers:
 
 1. **Golden Dragon Empire** — eastern imperial power.
 2. **Tianhai Yunzhou** — maritime power centered on a giant floating island.

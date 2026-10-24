@@ -61,15 +61,30 @@ The following portfolio structure is the standard recommended model:
 
 The list defines portfolios, not a claim that every ministry already has named ministers, fixed subdivisions, or a fully documented legal code. Those details must be added only when established.
 
-#### 2.3.1 Strategic Awakening Outcomes and Hall Funding
+#### 2.3.1 Imperial Strategic Awakening and Workforce Program
 
-The Grand Martial Soul Awakening Hall's allocation is responsive to the Empire's practical need for capable people, not merely to how rare an awakening is.
+The Empire runs a centrally funded program through the **Grand Martial Soul Awakening Hall**, coordinated with the Ministry of Finance and the Ministry of Education and Rites. Its purpose is to identify confirmed Martial Soul functions that answer documented imperial workforce shortages and connect suitable people with training, public service, or relevant occupations. Awakening remains a public service; the program does not change rarity odds or guarantee employment, academy admission, income, or a particular career.
 
-- A **strategically useful awakening** is a confirmed Martial Soul whose demonstrated or canonically established function fits a field in which the government currently needs more qualified people. Examples may include medicine, irrigation, construction, material processing, transport and logistics, or another documented shortage. These are illustrative fields, not a closed list.
-- A region with more confirmed awakenings relevant to current government shortages is eligible for a larger Hall allocation in the next applicable funding period; a region with fewer such outcomes may receive less. This makes the budget responsive to regional outcomes and workforce needs.
-- Count only functions that are established, not speculative powers inferred from a Martial Soul's name. A low-rarity or seemingly ordinary Martial Soul can be strategically useful; Myth or Legendary rarity alone does not make an awakening strategically useful.
-- This allocation principle does **not** change awakening rarity odds, mutation odds, or the fairness of the awakening process. Officials must not manipulate results to increase a region's budget.
-- The exact scoring weights by skill, budget amounts, audit period, and allocation formula remain unestablished. Until they are formally defined, the direction of the adjustment is canon, but no exact numeric budget may be invented.
+**Central allocation rule**
+
+- The central government sets the total program envelope, the funding period, the national shortage priorities, and the allocation to each region. Regional governments do not independently set their own share or replace the central formula with local economic conditions.
+- The formula below is the default canon for this program. Let **B** be the total central budget for a funding period and **Sᵣ** be a region's verified Strategic Awakening Score.
+- **Regional allocation = (20% × B ÷ 7) + (80% × B × Sᵣ ÷ ΣS)**, where ΣS is the sum of all seven regions' scores. If every region's score is zero, the performance pool is held for central review rather than divided using invented scores.
+- The equal base portion keeps essential public awakening services operating in every region. The performance portion rewards verified outcomes that answer current imperial shortages. A region with a higher verified score receives a larger performance allocation; its local wealth, tax revenue, resident status, and raw rarity distribution do not directly increase the score.
+- **Strategic Awakening Score:** count each distinct, verified awakening once, then multiply it by the centrally published priority weight for its confirmed function. The central priority schedule reflects documented shortages and may change between funding periods. A person cannot be counted twice for the same awakening, and rarity alone earns no points. Exact priority weights and the size of the total budget are set in the central funding order for each period, not improvised by a regional official or GM.
+- A strategically useful awakening means that the Martial Soul's demonstrated or canonically established function fits a field in which the Empire has a documented shortage—such as medicine, irrigation, construction, material processing, transport, logistics, or another field named in the current central priority schedule. A simple or low-rarity Martial Soul may qualify; Myth or Legendary rarity alone does not.
+- The program may fund outreach, safe awakening facilities, assessment of confirmed practical aptitude, training referrals, and approved service placements. Funding must not be used to raise rarity odds, force mutation decisions, or promise a guaranteed outcome.
+- The Hall submits outcome reports and a budget request; regional offices provide supporting records; the Ministry of Finance calculates and releases allocations under the central rule. The Ministry of Education and Rites coordinates relevant public education and ceremony standards. The Imperial Oversight Agency may inspect suspected manipulation or diversion under the oversight framework.
+- Program records must support verification of counted outcomes and expenditure. This is a program-specific audit trail, **not** a declaration that a universal national registry or mandatory citizen certificate exists.
+
+**Integrity risks and corruption**
+
+The system creates incentives that can be abused. Plausible misconduct includes inflating the number of strategic awakenings, misclassifying ordinary outcomes to fit a priority field, counting the same person twice, fabricating training or placement records, bribing assessors, diverting outreach funds, steering contracts to allies, demanding kickbacks, or suppressing a region's valid results to shift funds elsewhere. Such conduct is a possible event, not an assumption that every official is corrupt.
+
+Controls include cross-checking outcome records, sampling local cases, comparing claimed results with actual service or training evidence, reviewing expenditure, and referring suspicious discrepancies for investigation. The Ministry of Finance may withhold or recover disputed program payments pending review; the Imperial Oversight Agency may investigate suspected abuse within its established remit. Officials, noble houses, clans, and local elites can attempt to influence these controls, so oversight is not a guarantee that corruption is eliminated. Specific penalties, investigator appointment rules, and appeal procedures remain governed by the wider legal framework and are not invented here.
+
+This funding rule does not change awakening rarity odds, mutation odds, or the fairness of the awakening process. Officials must not manipulate results to increase a region's score.
+
 
 ### 2.4 Regional Governors
 
@@ -192,6 +207,6 @@ The following remain open unless established by a later owner-approved source:
 - Detailed court hierarchy, appeal procedures, police/investigative authority, and emergency powers.
 - Exact army ranks, unit sizes, garrison numbers, and relationships with clan or dojo forces.
 - Any regional exception to the standard hierarchy.
-- The Grand Martial Soul Awakening Hall's internal hierarchy, branch offices, staffing, detailed reporting chain, and the exact scoring weights, audit period, and numeric formula for its outcome-responsive budget (the principle that funding responds to confirmed strategically useful awakenings is established).
+- The Grand Martial Soul Awakening Hall's internal hierarchy, branch offices, staffing, and full reporting chain. The central allocation principle and default formula are established; the central funding order still sets each period's total budget, priority weights, and funding dates. Specific penalties, investigator appointment rules, and appeal procedures remain open under the wider legal framework.
 
 The initial territorial names and totals are established by the administrative atlas, while exact geography and current officeholders remain separate facts. Do not use this module to overwrite established characters, clans, dojos, regional identities, or unrelated world lore. When a new fact conflicts with an existing official source, flag the conflict for owner review rather than silently rewriting either source.

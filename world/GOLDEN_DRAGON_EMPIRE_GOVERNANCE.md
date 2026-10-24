@@ -22,15 +22,15 @@ Emperor
 └── Imperial Council / Grand Secretariat
     ├── Central Ministries and Imperial Agencies
     └── 7 Regional Governors
-        └── 46 Prefectures
-            └── 276 Counties
+        └── 33 Prefectures
+            └── 268 Counties
                 ├── Cities and Towns
                 └── Townships / District Offices (number not established)
                     └── Named villages / neighborhoods in the official atlas
                         └── Household Register (lowest population register)
 ```
 
-The administrative atlas establishes **7 regions, 46 prefectures, 276 counties, 368 cities, and 1,840 towns** as the current planning register. The atlas names **four roleplay-anchor villages per region (28 total)**; this is not a census of every village or neighborhood. The previous totals of 9,200 township/district offices and 50,000 villages/neighborhoods are not current canon and must not be reused. The number of township/district offices remains unestablished. See the atlas for regional distribution and named prefectures. A major city may be administered directly at prefectural or central level, so city totals are not a strict additional rung in every county's chain.
+The administrative atlas establishes **7 regions, 33 prefectures, 268 counties, 361 cities, and 1,838 towns** as the current planning register. It names **22 roleplay-anchor villages across the seven regions**; this is not a census of every village or neighborhood. The previous totals of 9,200 township/district offices and 50,000 villages/neighborhoods are not current canon and must not be reused. The number of township/district offices remains unestablished. Thirteen prefectures were consolidated into surviving prefectures in the same region; their former seats remain subordinate cities or local administrative centers where listed. Eight county jurisdictions were merged or retired, and their former magistrates were reassigned to circuit liaison duties. A major city may be administered directly at prefectural or central level, so city totals are not a strict additional rung in every county's chain.
 
 ### 2.1 Emperor
 
@@ -111,13 +111,13 @@ These seven regional identities and their administrative seats/counts are establ
 
 Prefectures coordinate multiple counties or a major urban jurisdiction. Their administration may cover regional transport, public works, revenue collection, inter-county disputes, and implementation of regional orders.
 
-The 46 prefectures and their seat cities are named in `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. Their precise surveyed borders are unestablished; all current prefects are listed in `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`.
+The 33 surviving prefectures and their seat cities are named in `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. Their precise surveyed borders are unestablished; current prefects and reassigned regional officers are listed in `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`.
 
 ### 2.6 Counties
 
 Counties coordinate local civil administration, tax and population registers, courts of first instance where applicable, public works, and relations between settlements.
 
-The atlas establishes 276 counties, six per prefecture, and provides a working name for each county jurisdiction. Precise surveyed borders remain unestablished; all current magistrates are listed in `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`.
+The atlas establishes 268 county jurisdictions redistributed among 33 surviving prefectures and provides a working name for each county seat. Precise surveyed borders remain unestablished; current magistrates and reassigned circuit liaison officers are listed in `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`.
 
 ### 2.7 Cities, Towns, Townships, Districts, and Villages
 

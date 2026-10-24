@@ -29,7 +29,7 @@ Pilih modul berdasarkan aksi, kondisi, dan lokasi saat ini. Jangan membaca atau 
 | Akademi kultivator dan pendidikan dasar | `core/CULTIVATOR_ACADEMIES.md` |
 | Prosedur awakening, tabel rarity, undian dan keputusan mutasi Martial Soul | `core/MARTIAL_SOUL_AWAKENING.md` |
 | Lore, bentuk, karakteristik, dan interpretasi Martial Soul | `core/MARTIAL_SOUL.md` |
-| Spirit Ring, kompatibilitas, penyerapan, Qi, PowerScale | `core/SPIRIT_RING_RULES.md` |
+| Spirit Ring, kompatibilitas, penyerapan, kombinasi kemampuan, Qi, PowerScale | `core/SPIRIT_RING_RULES.md` |
 | Spirit Beast, syarat ring, jeda minimum, deviasi | `bestiary/SPIRIT_BEAST_RULES.md` |
 | Combat, serangan beruntun, multi-hit, combo, damage, pertahanan | `gameplay/COMBAT_SYSTEM.md` |
 | HP | `core/HP_SYSTEM.md` |

@@ -1,4 +1,4 @@
-# Xuanling Realm — Canonical Gameplay Response Template
+# Merzkava Universe — Canonical Gameplay Response Template
 
 Status: **Satu-satunya sumber resmi untuk bentuk, urutan, nama field, dan sekat visual setiap balasan gameplay.**
 

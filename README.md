@@ -25,7 +25,10 @@
 - **[core/HUNGER_AND_METABOLISM.md](core/HUNGER_AND_METABOLISM.md)** — Satiety, jadwal makan, metabolisme Realm, dan pengaruh kondisi tubuh.
 - **[core/HP_SYSTEM.md](core/HP_SYSTEM.md)** dan **[core/INJURY_SYSTEM.md](core/INJURY_SYSTEM.md)** — HP, klasifikasi cedera, dan pemulihan.
 - **[core/CULTIVATION_SYSTEM.md](core/CULTIVATION_SYSTEM.md)** — Realm, Stage, Sync, bottleneck, breakthrough.
-- **[core/MARTIAL_SOUL.md](core/MARTIAL_SOUL.md)** — awakening dan Martial Soul.
+- **[core/CULTIVATOR_ACADEMIES.md](core/CULTIVATOR_ACADEMIES.md)** — akademi dan pendidikan kultivator.
+- **[core/10_ECONOMY_SYSTEM.md](core/10_ECONOMY_SYSTEM.md)** — harga, transaksi, kurs, aset, dan Currency.
+- **[core/MARTIAL_SOUL_AWAKENING.md](core/MARTIAL_SOUL_AWAKENING.md)** — prosedur awakening, rarity, dan keputusan mutasi.
+- **[core/MARTIAL_SOUL.md](core/MARTIAL_SOUL.md)** — bentuk, sifat, dan interpretasi Martial Soul.
 - **[core/SPIRIT_RING_RULES.md](core/SPIRIT_RING_RULES.md)** — Spirit Ring, kompatibilitas, penyerapan, Qi, PowerScale.
 - **[core/THINKER_AND_FORMULATION.md](core/THINKER_AND_FORMULATION.md)** — Thinker Grade dan aturan produksi Artificial Artifact.
 

@@ -34,6 +34,27 @@ The original material cannot be reproduced from a known later source, and people
 
 Do not invent additional abilities, cultivation effects, crafting uses, or ways to manufacture either currency.
 
+## 1.1 Martial Soul Awakening Service Fees (Golden Dragon Empire)
+
+The following standard charges apply per individual receiving an awakening service through the Golden Dragon Empire's **Grand Martial Soul Awakening Hall**. They are separate from ordinary market prices and use the official currency rates in §1.
+
+| Charge | Standard amount | Rule |
+|---|---:|---|
+| Awakening service fee | **3 xg, 25 xs** | Charged once per individual |
+| Imperial service tax | **8% of the awakening service fee** | Calculated on the service fee only; documentation and token charges are not included in the taxable base |
+| Documentation and official record | **15 xs** | One set per individual awakening |
+| Awakening proof token | **10 xs** | One official token issued after the awakening is recorded |
+
+At the official rate of 100 xs = 1 xg, the service fee is 325 xs and its 8% tax is 26 xs. The standard total is therefore **3 xg, 76 xs per individual**, including the 15 xs documentation charge and 10 xs token charge.
+
+- The proof token is an official, durable physical token issued against the individual's awakening record. It serves as practical evidence that the person has completed awakening and helps streamline applications for basic employment and education. Employers and educational institutions may verify the token and its supporting record.
+- The token proves completion and identity linkage only; it does not guarantee a job, admission, a scholarship, a particular salary, or any special treatment based on rarity. It does not itself prove combat strength, cultivation talent, or a right to a government post.
+- The documentation records the individual's identity as provided/verified, awakening date and place, issuing authority, and a unique token/record identifier, plus the confirmed awakening result needed for official verification. Do not invent additional mandatory identity documents or a universal public database beyond this service record.
+- The standard fee applies to each individual. Any exemption, hardship waiver, or government-funded subsidy must be explicitly authorized under a program or local rule; do not assume it is automatic. A village outreach visit can reduce travel burden but does not by itself waive the service fee.
+- Do not charge the same individual the initial documentation or token fee twice for the same awakening. Replacement-token charges, correction fees, late penalties, and fees in other territories are not established by this rule.
+- These charges do not change rarity odds, mutation odds, or the outcome of awakening. Paying more, using a city facility, or obtaining a token does not improve the result.
+- For gameplay transactions, record the service fee, tax, documentation, and token as distinct ledger entries or clearly itemized components of one fully itemized transaction. Record the actual payer and recipient where known; do not deduct the charge from a character's Wallet unless the payment occurred and was recorded.
+
 ## 2. Nine Item-Quality Tiers
 
 Quality tier and scarcity are separate variables. A high-quality item is not automatically scarce, and a common-quality item can become scarce due to seasonal conditions or disrupted supply.

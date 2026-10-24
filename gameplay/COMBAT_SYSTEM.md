@@ -86,12 +86,12 @@ Round final damage up to a whole HP; a successful damaging hit deals at least 1 
 
 A lower-Realm fighter can defeat a higher-Realm opponent when the recorded situation and relevant advantages support it; Realm alone is not an automatic result.
 
-When the combatants differ by **one Realm**, a damaging hit from the higher-Realm combatant is expected to cause injury to the lower-Realm combatant. Record the injury supported by the event and classify it using `core/INJURY_SYSTEM.md`. Avoiding injury requires clear evidence of an overall advantage that addresses all three:
+When the combatants differ by **one Realm**, a damaging hit from the higher-Realm combatant is expected to cause at least a light injury to the lower-Realm combatant. Record the injury supported by the event and classify it using `core/INJURY_SYSTEM.md`. This is an injury expectation, not a rule that every hit causes a severe or different injury. Injury severity depends on the attack mechanism, hit location, defense, actual circumstances, and documented effects—not HP loss alone. Avoiding injury requires clear evidence of an overall advantage that addresses all three:
 1. Better equipment readiness.
 2. More usable Qi/energy for the relevant action.
 3. A meaningful Spirit Ring age/quality or relevant ability advantage.
 
-Tactics and technique may contribute, but do not silently replace all three conditions. If the evidence is incomplete, apply at least a light injury and scale severity to the actual event. Do not extrapolate this rule into an invented universal multiplier for larger Realm gaps.
+Tactics and technique may contribute, but do not silently replace all three conditions. If the evidence is incomplete, apply at least a light injury and scale severity to the actual event. For all combat, use these cues rather than fixed HP thresholds: superficial bruising/abrasion or mild strain may support Class I; a deep wound, moderate sprain/burn, or tissue tear may support Class II; a clearly established fracture, dislocation, or major tendon/ligament damage supports Class III; a life-threatening wound, severe internal bleeding, organ damage, or severe poisoning supports Class IV only when the event supports that conclusion. If evidence is insufficient, mark the injury unclassified rather than inventing a diagnosis. For combos, assess each hit and their cumulative consequences; a later hit may worsen an existing injury or create another injury only when its mechanism supports that result. Do not infer injury class from damage numbers alone. Do not extrapolate the one-Realm rule into an invented universal multiplier for larger Realm gaps.
 
 ## 7. PowerScale, Spirit Rings, and Thinker
 

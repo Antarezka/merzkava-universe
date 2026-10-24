@@ -144,4 +144,4 @@ The destination examples carry the same source-scarcity surcharge for illustrati
 
 ## 8. Global Wealth Distribution
 
-The world-level baseline total and its territorial and holder-channel allocations are defined in `world/WEALTH_DISTRIBUTION.md`. That module provides two views of the same 400.463.763.789.849 xg total; never add the two tables together. This module remains the authority for exchange rates, prices, scarcity, transactions, and character currency balances. The global wealth tables do not establish the exact balance of any named character or organization.
+The world-level baseline total and its territorial and social-holder allocations are defined in `world/WEALTH_DISTRIBUTION.md`. The territorial table and social-holder table are two views of the same 400.463.763.789.849 xg total; never add them together. Land, sea, air markets and auction circuits are transaction channels, not additional ownership shares. This module remains the authority for exchange rates, prices, scarcity, transactions, and character currency balances. The global wealth tables do not establish the exact balance of any named character or organization.

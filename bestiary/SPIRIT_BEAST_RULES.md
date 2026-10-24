@@ -48,13 +48,7 @@ Syarat bottleneck hanya terpenuhi jika Gap kurang dari 10 poin persentase. Gap y
 
 Semakin besar Gap di dalam rentang yang diizinkan, semakin tinggi tingkat deviasi. Jika Gap nol atau sangat kecil, jangan menyimpulkan deviasi pasti nol; periksa juga jeda minimum, item, toleransi tubuh, dan syarat resmi lainnya.
 
-Setiap deviasi wajib mencatat:
-1. Tingkat deviasi: ringan, sedang, atau berat.
-2. Dampak pada cap kompatibilitas maksimum ring berikutnya: cap berkurang dan nilai cap baru harus dicatat.
-3. Damage HP: hitung hanya menggunakan aturan damage/HP resmi yang tersedia. Jika jumlah numeriknya tidak dapat ditentukan dari aturan, jangan mengarang angka; nyatakan damage belum dapat dihitung.
-4. Cedera dan kondisi tubuh: jelaskan dampak konkret yang sesuai tingkat deviasi dan keadaan karakter, lalu pertahankan dampaknya dalam profil sampai pulih secara sah.
-
-Persentase deviasi adalah 1–100% dan formula kehilangan HP dasar menyesuaikan HP maksimum karakter serta nomor ring: pada deviasi 100%, Ring 1 mengurangi 30% HP maksimum dan Ring 9 mengurangi 60%, dengan kenaikan bertahap di antaranya. Formula, pengali saat proses dipaksakan, dan kategori risiko ditentukan hanya oleh `core/SPIRIT_RING_RULES.md` §5. Kategori risiko tetap ditentukan dari poin HP yang benar-benar hilang, bukan langsung dari persentase deviasi. Jangan menduplikasi atau mengganti tabel/formula di modul ini. Ikuti alur GM di modul Spirit Ring, lalu catat kehilangan HP aktual, kategori risiko, pengurangan cap kompatibilitas ring berikutnya, dan cedera. Pengurangan cap dan durasi pemulihan masih belum memiliki formula numerik.
+Setiap deviasi wajib dicatat sesuai `core/SPIRIT_RING_RULES.md` §5, yang merupakan satu-satunya sumber formula numerik untuk deviasi. Catat tingkat deviasi, dampak pada cap ring berikutnya, kehilangan HP aktual, kategori risiko, cedera, dan kondisi tubuh. Jangan menyalin atau menghitung ulang formula di modul bestiary. Pengurangan cap kompatibilitas dan durasi pemulihan masih belum memiliki formula numerik. Cedera yang timbul harus diklasifikasikan dan dipulihkan menurut `core/INJURY_SYSTEM.md`; kategori risiko HP bukan diagnosis cedera.
 
 ## 5. Catatan Setelah Proses
 

@@ -31,13 +31,13 @@ Tiga jendela makan harian:
 - Satu **porsi makan standar** memulihkan **34 Satiety**. Cukup untuk membuat tiga porsi sehari secara teori memulihkan 102 poin sebelum batas maksimum 100 diterapkan.
 - Porsi kecil/camilan memulihkan 10 poin; porsi besar memulihkan 50 poin. Gunakan nilai ini hanya bila jenis dan jumlah makanan mendukung kategori tersebut.
 - Satiety dari makanan ditambahkan ke nilai sekarang dan dibatasi maksimum 100. Makan tidak otomatis mengisi ke 100 jika porsinya tidak cukup.
-- Makan di luar jendela tetap memulihkan Satiety sesuai porsi, tetapi tidak menghapus status jam makan yang sudah terlewat sebelumnya.
+- Makan di luar jendela tetap memulihkan Satiety sesuai porsi. Setelah makanan yang layak benar-benar dikonsumsi, hitungan beruntun jam makan terlewat direset; riwayat jendela yang sebelumnya terlewat tidak dihapus dari catatan kejadian.
 - Jam makan yang terlewat dihitung saat jendela berakhir tanpa karakter makan, **hanya jika karakter terjaga dan punya kesempatan wajar untuk makan**. Jendela yang berlalu saat tidur tidak dihitung sebagai jam makan terlewat.
 - Jika karakter tidak punya akses makanan atau tidak bisa makan karena situasi, jangan menganggap ia sengaja melewatkan makan; catat keadaan itu dan terapkan pengali jam makan terlewat hanya sesuai ketentuan di §5.
 
 ## 3. Laju Dasar Menurut Tingkat
 
-Laju dasar menunjukkan waktu aktif yang diperlukan untuk mengurangi 100 Satiety dari penuh ke 0, sebelum pengubah kondisi, aktivitas, dan jam makan terlewat diterapkan.
+Laju dasar menunjukkan waktu aktif yang diperlukan untuk mengurangi 100 Satiety dari penuh ke 0, sebelum pengubah kondisi tubuh, jam makan terlewat, dan efek khusus yang sah diterapkan.
 
 | Tingkat tubuh/kultivasi | Waktu aktif per 100 Satiety |
 |---|---:|
@@ -62,7 +62,7 @@ Gunakan satu rumus:
 
 - `Jam aktif berlalu`: waktu dunia yang benar-benar berlalu saat karakter terjaga, bukan waktu nyata dan bukan durasi tidur malam yang dilindungi §6.
 - `Waktu dasar`: nilai dari tabel §3 yang dikonversi ke jam.
-- `M`: hasil perkalian pengubah kondisi tubuh, aktivitas, jam makan terlewat, dan keunggulan/kelemahan khusus yang sudah terbukti.
+- `M`: hasil perkalian pengubah kondisi tubuh yang tercantum di §7, pengali jam makan terlewat di §5, dan pengubah khusus yang sudah ditetapkan secara sah. Aktivitas tidak memiliki pengali terpisah; aktivitas hanya memengaruhi Satiety melalui kondisi tubuh yang benar-benar ditimbulkannya atau efek khusus resmi.
 - Hitung pengurangan secara presisi dan bulatkan hasil akhir ke **0,1 Satiety**. Simpan nilai presisi tersebut untuk perhitungan berikutnya; jangan membulatkan berulang kali setiap menit.
 - Pengurangan aktual dibatasi pada Satiety yang tersedia. Satiety tidak pernah kurang dari 0.
 - Jika tidak ada waktu aktif yang berlalu, tidak ada pengurangan karena waktu.
@@ -92,7 +92,7 @@ Hitung jumlah jendela makan yang terlewat secara beruntun saat karakter terjaga 
 Tidur malam normal adalah kebutuhan biologis dan pengecualian resmi dari batas durasi aksi biasa.
 
 - Ketika karakter mulai tidur malam, catat nilai Satiety terakhir sebagai nilai terkunci.
-- Selama tidur malam normal, **Satiety tidak berkurang**. Jangan menerapkan pengurangan waktu aktif, pengali kondisi tubuh, aktivitas, atau jam makan terlewat selama periode tidur yang dilindungi.
+- Selama tidur malam normal, **Satiety tidak berkurang**. Jangan menerapkan pengurangan waktu aktif, pengali kondisi tubuh, atau jam makan terlewat selama periode tidur yang dilindungi.
 - Ketika karakter bangun, lanjutkan perhitungan dari nilai Satiety yang terkunci dan mulai menghitung waktu aktif kembali dari waktu bangun.
 - Tidur malam boleh melewati batas aksi biasa 3 jam dalam `gameplay/TIME_AND_ACTION_RULES.md`; jangan memaksa pemain membagi tidur normal menjadi aksi tiga jam.
 - Tidur tidak otomatis memulihkan Satiety, HP, Qi, atau injury. Tidur hanya mengunci pengurangan Satiety selama periode tidur normal; pemulihan sistem lain mengikuti aturan masing-masing.

@@ -13,9 +13,11 @@ File ini adalah **indeks karakter terdaftar**, bukan tempat menyimpan perkembang
 
 ## Daftar Karakter
 
+Saat bootstrap karakter terdaftar, gunakan tautan **RAW** untuk mengambil isi file individual secara langsung dan utuh. Jangan mengandalkan cuplikan tabel atau hanya membaca bagian profil ringkas.
+
 | Karakter | File karakter | Status |
 |---|---|---|
-| Yuha | [players/Yuha.md](players/Yuha.md) | Snapshot awal terdaftar |
+| Yuha | [players/Yuha.md](players/Yuha.md) · [RAW](https://raw.githubusercontent.com/Antarezka/xuanling-realm/refs/heads/main/players/Yuha.md?v=1) | Snapshot awal terdaftar |
 
 ## Menambahkan Karakter
 Buat satu file individual di folder `players/` untuk setiap karakter, lalu tambahkan satu entri ke tabel di atas. Gunakan `templates/CHARACTER_PROFILE_TEMPLATE.md` untuk definisi field dan `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` untuk format gameplay.

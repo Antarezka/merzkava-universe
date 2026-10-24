@@ -10,6 +10,7 @@ Cakupan: HP maksimum berdasarkan Spirit Realm dan Stage, format HP, serta pencat
 - HP ditulis sebagai **HP saat ini / HP maksimum**, misalnya `HP: 100/100`.
 - HP maksimum ditentukan oleh Realm dan Stage pada tabel resmi di bawah.
 - HP saat ini berubah hanya karena kejadian gameplay yang sah, misalnya menerima damage atau pemulihan yang memiliki dasar. Naik Realm atau Stage menaikkan batas maksimum sesuai tabel, tetapi **tidak otomatis memulihkan HP saat ini hingga penuh**.
+- **Jika HP saat ini mencapai 0, karakter mati.** Kematian bersifat permanen kecuali mekanik resmi yang sudah ditetapkan secara eksplisit menyatakan sebaliknya. HP 0 bukan sekadar pingsan atau kondisi sekarat; jangan mengubahnya menjadi status lain tanpa dasar mekanik resmi.
 - **Modul ini belum menetapkan laju numerik pemulihan HP umum.** Istirahat, tidur, makanan, obat, tabib, teknik, atau artefak tidak boleh diberi angka pemulihan HP tanpa aturan atau efek terdokumentasi. GM boleh mencatat pemulihan naratif yang jelas didukung sumber/kejadian, tetapi tidak boleh mengarang angka atau durasi sebagai aturan resmi.
 - Progres pemulihan injury di `core/INJURY_SYSTEM.md` hanya memulihkan cedera yang dicatat; progres tersebut tidak mengisi HP. Sebaliknya, HP yang pulih tidak otomatis mengurangi progres injury.
 - Jangan menciptakan damage, pemulihan, bonus HP, atau pengecualian yang tidak didukung mekanik resmi.

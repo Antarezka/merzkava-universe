@@ -63,7 +63,6 @@ Pilih modul berdasarkan aksi, kondisi, dan lokasi saat ini. Jangan membaca atau 
 | HP | `core/HP_SYSTEM.md` |
 | Cedera dan pemulihan injury | `core/INJURY_SYSTEM.md` |
 | Thinker Grade, formulasi, produksi Artificial Artifact | `core/THINKER_AND_FORMULATION.md` |
-| Uji integrasi manual lintas sistem (bukan sumber mekanik baru) | `tests/INTEGRATION_TEST_CHECKLIST.md` |
 | Harga, transaksi, kurs, aset, Currency | `core/10_ECONOMY_SYSTEM.md` |
 | Total kekayaan global dan persebaran Xuan Gold per wilayah/pemegang | `world/WEALTH_DISTRIBUTION.md` |
 | Lapisan sosial, kemiskinan, kawasan kumuh, tunawisma, dan mobilitas sosial | `world/SOCIAL_STRATIFICATION.md` |
@@ -128,7 +127,6 @@ Jika sumber wajib gagal diakses, sebutkan file yang gagal dan jangan mengaku tel
 - `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`
 - `templates/CHARACTER_PROFILE_TEMPLATE.md`
 - `templates/PLAYER_CONVERSATION_TEMPLATE.md`
-- `tests/INTEGRATION_TEST_CHECKLIST.md`
 - `core/CULTIVATION_SYSTEM.md`
 - `core/CULTIVATOR_ACADEMIES.md`
 - `core/MARTIAL_SOUL.md`

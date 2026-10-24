@@ -235,15 +235,13 @@ Each region retains the identity already established in `world/WORLD.md`. The pr
 1. **Development follows proximity to the imperial center.** Huanglongcheng and the Longyuan core have the most complete roads, civil offices, schools, medical care, markets, skilled services, and public infrastructure. Access and quality generally decline with distance from the capital and major regional seats.
 2. **Outer regions are not uniformly prosperous.** Remote counties and villages may rely on family networks, local artisans, village elders, travelling healers, caravan traders, and community labor. Government services may be infrequent, understaffed, delayed, or absent. A wealthy port, mine, or furnace district can still exist inside a region with neglected hinterlands.
 3. **Centralization is a gradient, not a hard border.** A regional seat or major trade route can be comparatively prosperous even far from Huanglongcheng, while isolated settlements near the center may remain poor. Do not assume every resident experiences the region's average wealth or service access.
-
-
-4. **Huanglongcheng** is the newly established imperial capital and seat of the central government in Longyuan. It is not a new eighth region.
-5. Each regional governor oversees the region's prefectures. Each prefecture coordinates its six counties; each county coordinates its registered cities/towns and township/district offices. Local arrangements may vary when a major city is directly administered at a higher level.
-6. County names use the prefecture seat plus a directional or landmark designation to create a complete working register without inventing detailed local lore for every unit. These may be refined later if a regional module develops a better-supported settlement.
-4. The atlas catalogues only four named rural villages per region at present. These are the main rural locations intended for ordinary roleplay, not a census of every hamlet or farmstead in the Empire. Do not generate hundreds or thousands of named villages by default; add another only when a scene or owner request needs it, and record it in the matching regional module.
-7. Official positions are separate from clan influence and noble status. A clan's specialization does not prove that it governs the matching region or prefecture.
-8. Military garrisons and fortresses are recorded separately from civilian administrative totals. Baiyue has a greater frontier-defense focus, but the number and names of individual garrisons must be recorded in its regional module when developed.
-9. If a later event changes borders, a prefecture seat, or the count of a jurisdiction, update this atlas first, then synchronize the affected regional module and `world/MAP_AND_REGIONS.md`.
+4. **Huanglongcheng** is the imperial capital and seat of the central government in Longyuan. It is not an eighth region.
+5. Each regional governor oversees the region's prefectures. Each prefecture coordinates its six counties; each county coordinates its registered cities and towns. Local arrangements may vary when a major city is directly administered at a higher level.
+6. County names use the prefecture seat plus a directional or landmark designation to create a working jurisdiction register without inventing detailed lore for every unit. These may be refined later if a regional module develops a better-supported settlement.
+7. The atlas currently catalogues only four named rural villages per region. These are the main rural locations intended for ordinary roleplay, not a census of every hamlet or farmstead in the Empire. Do not generate hundreds or thousands of named villages by default; add another only when a scene or owner request needs it, and record it in the matching regional module.
+8. Official positions are separate from clan influence and noble status. A clan's specialization does not prove that it governs the matching region or prefecture.
+9. Military garrisons and fortresses are recorded separately from civilian administrative totals. Baiyue has a greater frontier-defense focus, but the number and names of individual garrisons must be recorded in its regional module when developed.
+10. If a later event changes borders, a prefecture seat, or the count of a jurisdiction, update this atlas first, then synchronize the affected regional module and `world/MAP_AND_REGIONS.md`.
 
 ## 4. Naming Logic by Region
 

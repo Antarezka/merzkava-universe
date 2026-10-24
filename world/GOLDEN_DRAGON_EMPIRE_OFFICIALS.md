@@ -6,7 +6,7 @@
 
 ## 1. Power ceiling and canon rules
 
-- Emperor Jun Haotian remains the highest sovereign and is Spirit Realm 9 — Spirit Primordial, Middle Stage. **No official in this roster exceeds Spirit Realm 8 — Spirit Sovereign.**
+- Emperor Jun Haotian remains the highest sovereign and is at Spirit Realm 9 — Spirit Primordial, Middle Stage. **No official in this roster exceeds Spirit Realm 8 — Spirit Sovereign.**
 - Regional governors are powerful political actors, not independent sovereigns. Their cultivation does not automatically give them military command.
 - Spirit Realm and Stage indicate cultivation only; they do not guarantee victory. Martial Souls below are individual identities, not claims that the bearer has every possible ability associated with the creature or object.
 - **Political disposition is a tendency, not a fixed alliance or proof of clan membership.** No character is automatically a secret ally, enemy, corrupt official, or loyalist beyond the traits written here.

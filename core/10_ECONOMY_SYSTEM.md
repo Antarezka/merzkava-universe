@@ -91,7 +91,7 @@ The following multipliers are the default quality-price multipliers. Tier 1 is t
 | Tier 8 | Peak quality: extraordinary quality | ×6.60 |
 | Tier 9 | Legendary quality: highest category in this classification | ×8.50 |
 
-These are economic quality categories, not cultivation realms, Spirit Beast tiers, Spirit Ring tiers, or automatic measures of combat power. Tier 9 does not automatically mean the item is scarce or unique.
+These are economic quality categories, not Spirit Realms, Spirit Beast tiers, Spirit Ring tiers, or automatic measures of combat power. Tier 9 does not automatically mean the item is scarce or unique.
 
 An item’s base price is specific to its type, size, condition, freshness, function, and region of origin. Items of the same quality tier can have different base prices.
 

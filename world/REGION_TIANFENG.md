@@ -1,7 +1,7 @@
 # Merzkava Universe — Tianfeng — Scholarly Heights
 
 **Status:** Regional reference with owner-authorized territorial and settlement additions.  
-**Canon policy:** Established regional identities are preserved; the territorial area, development profile, and four named rural villages below are working additions approved for the current world map. Do not infer unlisted settlements or exact travel distances.
+**Canon policy:** Established regional identities are preserved; the territorial area, development profile, and selected named rural villages below are working additions approved for the current world map. Do not infer unlisted settlements or exact travel distances.
 
 ## 1. Confirmed Foundation
 - **Region / territory:** Tianfeng — Scholarly Heights
@@ -22,11 +22,11 @@
 
 - **Regional administrative seat:** Tianshu
 - **Population planning estimate:** 40 juta (part of the Empire-wide 320-million baseline; see the atlas for caveats)
-- **Prefectures:** 6
-- **Counties:** 36 (six per prefecture)
-- **Cities:** 60
+- **Prefectures:** 4
+- **Counties:** 35 (redistributed after prefecture consolidation)
+- **Cities:** 59
 - **Towns:** 240
-- **Named rural villages listed in this atlas:** 4
+- **Named rural villages listed in this atlas:** 3
 - **Other rural settlements:** Unenumerated; do not generate or count thousands of named villages by default
 - **Full official register:** `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
 
@@ -35,10 +35,8 @@ Prefectures and seats:
 - Cloud Summit Prefecture — Yunding
 - Scholar's River Prefecture — Wenchuan
 - Pine Ink Prefecture — Songmo
-- Hundred Schools Prefecture — Baixue
-- Jade Lecture Prefecture — Yuyan
 
-The administrative atlas is authoritative for names, territory estimates, and the selected village list. Four named villages are intentionally maintained for this region; unlisted hamlets may exist but are not individually catalogued. Development and services are strongest near Huanglongcheng and major regional seats, then generally thin with distance, isolation, and difficult terrain. Do not infer exact borders or travel times from the jurisdiction list alone.
+The administrative atlas is authoritative for names, territory estimates, and the selected village list. The listed named villages are maintained as roleplay locations for this region; unlisted hamlets may exist but are not individually catalogued. Development and services are strongest near Huanglongcheng and major regional seats, then generally thin with distance, isolation, and difficult terrain. Do not infer exact borders or travel times from the jurisdiction list alone.
 
 **Population-facing institutions:** Use `world/GOLDEN_DRAGON_EMPIRE_POPULATION_SERVICES.md` for named Ninefold Concord Bank and Myriad Ledger Exchange branches and Medicine Hall Society service points. The same register establishes only two boarding academies, both in Huanglongcheng, plus selected Ordo Suci Tianming public libraries; neither academies nor libraries are presumed to exist in every region. The central register governs named locations and service limits.
 
@@ -52,19 +50,18 @@ The prefecture seats listed below are established by `world/GOLDEN_DRAGON_EMPIRE
 | Yunding | City / prefecture seat | Seat of Cloud Summit Prefecture | Imperial civil administration; local detail pending |
 | Wenchuan | City / prefecture seat | Seat of Scholar's River Prefecture | Imperial civil administration; local detail pending |
 | Songmo | City / prefecture seat | Seat of Pine Ink Prefecture | Imperial civil administration; local detail pending |
-| Baixue | City / prefecture seat | Seat of Hundred Schools Prefecture | Imperial civil administration; local detail pending |
-| Yuyan | City / prefecture seat | Seat of Jade Lecture Prefecture | Imperial civil administration; local detail pending |
+| Baixue | City / consolidated administrative center | Former seat of Hundred Schools Prefecture; now administered under Wenchuan | Local civil administration; not an independent prefectural seat |
+| Yuyan | City / consolidated administrative center | Former seat of Jade Lecture Prefecture; now administered under Tianshu | Local civil administration; not an independent prefectural seat |
 
 
 ### Named rural villages
 
-These four villages are the region's current named rural locations for roleplay. Their listed roles are broad local character, not proof of a bank, academy, clinic, library, or permanent state office.
+These listed villages are the region's current named rural locations for roleplay. Their listed roles are broad local character, not proof of a bank, academy, clinic, library, or permanent state office.
 
 | Settlement | Type | Established role | Authority / status |
 |---|---|---|---|
 | Inkstone Village | Rural village | Paper, ink, and copying work | Local community; detailed NPCs and services pending |
 | Crane Rest Village | Rural village | Highland farming and caravan lodging | Local community; detailed NPCs and services pending |
-| Pine Scroll Village | Rural village | Timber and modest manuscript trade | Local community; detailed NPCs and services pending |
 | Cloudstep Village | Rural village | Mountain terrace farming | Local community; detailed NPCs and services pending |
 
 ## 4. Local Society and Daily Life

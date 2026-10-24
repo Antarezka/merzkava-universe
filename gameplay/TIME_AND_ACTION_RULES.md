@@ -75,10 +75,10 @@ If any condition is not met or cannot be verified, apply the ordinary-action lim
 
 ## 8. Breakthrough Day left Display
 
-When filling the character profile field `Breakthrough: ... | ... Day left`, calculate `Day left` from the last successful Spirit Ring absorption timestamp and the minimum interval for the next ring in `bestiary/SPIRIT_BEAST_RULES.md`.
+When filling the character profile field `Breakthrough: ... | ... Day left`, use the number of successfully absorbed rings to select the next transition interval (for example, Ring 1 → Ring 2), then calculate `Day left` from the last successful Spirit Ring absorption timestamp and the minimum interval in `bestiary/SPIRIT_BEAST_RULES.md`.
 
 - Use elapsed in-world time from recorded timestamps, not the number of turns or real-world time.
-- If positive time remains, round up to the next whole calendar day. For example, 1 hour remaining = 1 Day left; 24 hours remaining = 1 Day left; 25 hours remaining = 2 Day left.
+- If positive time remains, round up to the next whole 24-hour unit. For example, 1 hour remaining = 1 Day left; 24 hours remaining = 1 Day left; 25 hours remaining = 2 Day left. This is a duration countdown, not a count of calendar-date changes.
 - Display `0 Day left` only when the minimum interval has actually elapsed.
 - If the previous successful absorption, ring number, or required timestamp is unknown or conflicting, display `??? Day left`; do not assume zero.
 - Recalculate only when recorded in-world time or valid history changes. A new turn by itself does not reduce the value.

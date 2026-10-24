@@ -73,7 +73,7 @@ Combat menentukan apakah kejadian benar-benar menimbulkan cedera; bagian ini mem
 - **Patah tulang, dislokasi, tendon/ligamen rusak, atau kerusakan struktur yang jelas:** Kelas III. Jangan menyimpulkan cedera struktural dari angka damage saja.
 - **Pendarahan internal berat, kerusakan organ, keracunan berat, atau kondisi yang mengancam nyawa:** Kelas IV hanya jika kejadian dan bukti mendukungnya; jangan membuat diagnosis internal hanya karena HP rendah.
 - **Serangan beruntun/combo:** evaluasi tiap hit dan dampak gabungannya. Hit berikutnya dapat memperparah injury yang sudah ada atau menimbulkan injury berbeda jika mekanismenya mendukung; jangan menggandakan injury identik tanpa alasan.
-- **Beda satu Realm:** terapkan aturan khusus di `gameplay/COMBAT_SYSTEM.md`. Itu menetapkan ekspektasi adanya injury setelah hit yang merusak, bukan izin untuk mengarang jenis cedera berat. Jika bukti hanya mendukung cedera ringan, catat Kelas I.
+- **Beda satu Spirit Realm:** terapkan aturan khusus di `gameplay/COMBAT_SYSTEM.md`. Itu menetapkan ekspektasi adanya injury setelah hit yang merusak, bukan izin untuk mengarang jenis cedera berat. Jika bukti hanya mendukung cedera ringan, catat Kelas I.
 - **Deviasi penyerapan Spirit Ring:** catat cedera yang ditetapkan dari peristiwa deviasi. Jangan mengubah kategori risiko HP langsung menjadi diagnosis injury tertentu.
 
 Jika bukti belum cukup untuk memilih kelas, catat `injury belum terklasifikasi` dan efek fungsional yang benar-benar terlihat. Klasifikasi dapat diperbarui ketika ada pemeriksaan atau bukti baru.

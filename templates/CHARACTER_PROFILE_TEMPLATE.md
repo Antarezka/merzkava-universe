@@ -1,25 +1,29 @@
 # Xuanling Realm — Character Profile Field Definitions
 
-**Format visual lengkap setiap balasan gameplay hanya bersumber dari `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`.** File ini mendefinisikan arti field dan konsistensi state, bukan membuat format output kedua.
+**File ini mendefinisikan arti field dan konsistensi state. Bentuk visual lengkap, urutan field, ornamen, dan penutup setiap balasan gameplay hanya ditentukan oleh `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`.**
 
 ## Field Profil Resmi
 
-Pertahankan nama dan urutan field yang ditetapkan di `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`:
+Pertahankan nama dan urutan field sesuai `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`:
 
-- `Nama`, `Usia`: identitas karakter dan usia yang tercatat.
-- `Spirit Realm`: Realm/Stage dan progres yang sesuai sistem resmi.
-- `Sync progress`: progres saat ini dibandingkan dengan cap kompatibilitas ring saat ini. Cap tidak selalu 100%; misalnya `45%/45%` berarti cap telah tercapai. Ini bukan penguasaan penuh atas kekuatan ring.
-- `Breakthrough`: status bottleneck/proses menerobos berdasarkan Realm/Stage, Sync progress terhadap cap, ketersediaan ring berikutnya, item wajib, jeda minimum, dan seluruh syarat resmi lainnya.
-- `Day left`: sisa durasi sampai jeda minimum antarpenyerapan Spirit Ring berikutnya terpenuhi. Pilih interval berdasarkan jumlah ring yang telah berhasil diserap (misalnya Ring 1 → Ring 2), lalu hitung dari timestamp dunia penyerapan terakhir yang berhasil menurut `bestiary/SPIRIT_BEAST_RULES.md`.
-- `Martial Soul`: Martial Soul karakter sesuai sumber resmi dan riwayat.
-- `Thinker Grade`: grade yang sudah ditetapkan oleh mekanik/riwayat.
-- `HP`: current HP dan maksimum HP mengikuti `core/HP_SYSTEM.md`.
-- `Satiety`: nilai kenyang 0–100 mengikuti `core/HUNGER_AND_METABOLISM.md`; bukan HP atau Qi.
-- `Qi`: nilai/state Qi yang benar-benar ditetapkan oleh sumber resmi dan riwayat; jangan mengarang batas atau pemulihan.
-- `Kondisi Tubuh`: kondisi fisik yang didukung kejadian dan mekanik, termasuk cedera yang relevan.
-- `Equipment`, `Inventory`, `Assets`, `Currency`: state aktual berdasarkan profil terakhir dan kejadian/transaksi tercatat.
-- `Teknik / Kemampuan`: kemampuan serta rincian Spirit Ring yang dimiliki, dengan fungsi jelas dan sumber yang sah.
-- `Tujuan Saat Ini`: tujuan karakter yang dinyatakan pemain atau sudah tercatat; jangan mengambil alih keputusan pemain.
+1. `Nama`: nama karakter yang tercatat.
+2. `Usia`: usia karakter yang tercatat.
+3. `Spirit Realm`: Realm/Stage dan progres sesuai sistem resmi.
+4. `Sync progress`: progres saat ini dibandingkan dengan cap kompatibilitas ring saat ini. Cap tidak selalu 100%; misalnya `45%/45%` berarti cap telah tercapai. Ini bukan penguasaan penuh atas kekuatan ring.
+5. `Breakthrough`: status bottleneck/proses menerobos berdasarkan Realm/Stage, Sync progress terhadap cap, ketersediaan ring berikutnya, item wajib, jeda minimum, dan seluruh syarat resmi lainnya.
+6. `Day left`: sisa durasi sampai jeda minimum antarpenyerapan Spirit Ring berikutnya terpenuhi. Pilih interval berdasarkan jumlah ring yang telah berhasil diserap, lalu hitung dari timestamp dunia penyerapan terakhir yang berhasil menurut `bestiary/SPIRIT_BEAST_RULES.md`.
+7. `Martial Soul`: Martial Soul karakter sesuai sumber resmi dan riwayat.
+8. `Thinker Grade`: grade yang sudah ditetapkan oleh mekanik/riwayat.
+9. `HP`: current HP dan maksimum HP mengikuti `core/HP_SYSTEM.md`.
+10. `Satiety`: nilai kenyang 0–100 mengikuti `core/HUNGER_AND_METABOLISM.md`; bukan HP atau Qi. Format tampilan wajib `Satiety: nilai/100`.
+11. `Qi`: nilai/state Qi yang benar-benar ditetapkan oleh sumber resmi dan riwayat; jangan mengarang batas atau pemulihan.
+12. `Kondisi Tubuh`: kondisi fisik yang didukung kejadian dan mekanik, termasuk cedera yang relevan.
+13. `Equipment`: perlengkapan yang sedang dimiliki/digunakan sesuai state.
+14. `Inventory`: barang bawaan yang tercatat.
+15. `Assets`: aset yang tercatat selain rincian mata uang yang ditampilkan pada field Currency.
+16. `Currency (xuan/zun)`: saldo mata uang sesuai sistem ekonomi dan transaksi tercatat. Pertahankan format canonical: `...xc | ...xs | ...xg | ...zj | ...az`; jangan mengarang kurs atau saldo.
+17. `Teknik / Kemampuan`: kemampuan serta rincian Spirit Ring yang dimiliki, dengan fungsi jelas dan sumber yang sah.
+18. `Tujuan Saat Ini`: tujuan karakter yang dinyatakan pemain atau sudah tercatat; jangan mengambil alih keputusan pemain.
 
 ## Aturan Pengisian
 
@@ -30,6 +34,7 @@ Pertahankan nama dan urutan field yang ditetapkan di `templates/GAMEPLAY_RESPONS
 - HP dan injury adalah state terpisah: `core/HP_SYSTEM.md` mengatur HP, sedangkan `core/INJURY_SYSTEM.md` mengatur klasifikasi dan progres pemulihan cedera.
 - Satiety dan metabolisme hanya mengikuti `core/HUNGER_AND_METABOLISM.md`. Tidur malam yang dilindungi mengunci Satiety, tetapi tidak otomatis memulihkan HP, Qi, atau injury.
 - Profil adalah snapshot state setelah giliran, bukan pengganti narasi kejadian atau riwayat transaksi.
+- Jangan mengubah, menghilangkan, atau memindahkan field maupun mengubah ornamen visual yang ditetapkan oleh `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` tanpa persetujuan pemilik repository.
 
 ## Perhitungan Day left
 

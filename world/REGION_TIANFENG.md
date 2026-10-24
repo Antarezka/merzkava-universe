@@ -39,12 +39,18 @@ Prefectures and seats:
 The administrative atlas is authoritative for names and totals. This regional file is the place to expand individual settlement descriptions, local institutions, officeholders, NPCs, and confirmed local events. Do not infer exact borders or travel times from the jurisdiction list alone.
 
 ## 3. Settlements and Points of Interest
-- Belum ditetapkan
 
-For each settlement or site, fill in details only when confirmed:
-| Name | Type | Description | Authority / control | Source / status |
-|---|---|---|---|---|
-| Belum ditetapkan | — | — | — | — |
+The prefecture seats listed below are established by `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. Detailed districts, neighborhoods, roads, markets, and individual buildings remain to be developed.
+
+| Settlement | Type | Established role | Authority / status |
+|---|---|---|---|
+| Tianshu | City / prefecture seat | Seat of Heavenly Script Prefecture | Imperial civil administration; local detail pending |
+| Yunding | City / prefecture seat | Seat of Cloud Summit Prefecture | Imperial civil administration; local detail pending |
+| Wenchuan | City / prefecture seat | Seat of Scholar's River Prefecture | Imperial civil administration; local detail pending |
+| Songmo | City / prefecture seat | Seat of Pine Ink Prefecture | Imperial civil administration; local detail pending |
+| Baixue | City / prefecture seat | Seat of Hundred Schools Prefecture | Imperial civil administration; local detail pending |
+| Yuyan | City / prefecture seat | Seat of Jade Lecture Prefecture | Imperial civil administration; local detail pending |
+
 
 ## 4. Local Society and Daily Life
 - Peoples and population: Belum ditetapkan

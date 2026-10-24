@@ -14,6 +14,7 @@ Pertahankan nama dan urutan field yang ditetapkan di `templates/GAMEPLAY_RESPONS
 - `Martial Soul`: Martial Soul karakter sesuai sumber resmi dan riwayat.
 - `Thinker Grade`: grade yang sudah ditetapkan oleh mekanik/riwayat.
 - `HP`: current HP dan maksimum HP mengikuti `core/HP_SYSTEM.md`.
+- `Satiety`: nilai kenyang 0–100 mengikuti `core/HUNGER_AND_METABOLISM.md`; bukan HP atau Qi.
 - `Qi`: nilai/state Qi yang benar-benar ditetapkan oleh sumber resmi dan riwayat; jangan mengarang batas atau pemulihan.
 - `Kondisi Tubuh`: kondisi fisik yang didukung kejadian dan mekanik, termasuk cedera yang relevan.
 - `Equipment`, `Inventory`, `Assets`, `Currency`: state aktual berdasarkan profil terakhir dan kejadian/transaksi tercatat.
@@ -27,6 +28,7 @@ Pertahankan nama dan urutan field yang ditetapkan di `templates/GAMEPLAY_RESPONS
 - Estimasi praktis untuk karakter baru hanya boleh digunakan bila wajar dan harus diberi label estimasi GM. Jangan mengarang rahasia besar, garis keturunan, artefak langka, atau teknik formal.
 - Gunakan `???` untuk fakta yang belum diketahui atau tidak dapat ditetapkan secara bertanggung jawab. Jangan mengganti ketidakpastian dengan tebakan.
 - HP dan injury adalah state terpisah: `core/HP_SYSTEM.md` mengatur HP, sedangkan `core/INJURY_SYSTEM.md` mengatur klasifikasi dan progres pemulihan cedera.
+- Satiety dan metabolisme hanya mengikuti `core/HUNGER_AND_METABOLISM.md`. Tidur malam yang dilindungi mengunci Satiety, tetapi tidak otomatis memulihkan HP, Qi, atau injury.
 - Profil adalah snapshot state setelah giliran, bukan pengganti narasi kejadian atau riwayat transaksi.
 
 ## Perhitungan Day left

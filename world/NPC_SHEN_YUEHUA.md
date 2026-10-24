@@ -22,7 +22,7 @@
 - **First-contact circumstances:** Belum ditetapkan
 
 ## 3. Capabilities
-- **Cultivation Realm / stage:** Belum ditetapkan
+- **Spirit Realm / Stage:** Belum ditetapkan
 - **Martial Soul:** Heavenly Crane — Myth Tier
 - **Spirit Rings and abilities:** Belum ditetapkan
 - **Techniques / combat style:** Belum ditetapkan

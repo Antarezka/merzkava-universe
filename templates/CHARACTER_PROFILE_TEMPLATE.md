@@ -8,9 +8,9 @@ Pertahankan nama dan urutan field sesuai `templates/GAMEPLAY_RESPONSE_TEMPLATE.m
 
 1. `Nama`: nama karakter yang tercatat.
 2. `Usia`: usia karakter yang tercatat.
-3. `Spirit Realm`: Realm/Stage dan progres sesuai sistem resmi.
+3. `Spirit Realm`: Spirit Realm/Stage dan progres sesuai sistem resmi.
 4. `Sync progress`: progres saat ini dibandingkan dengan cap kompatibilitas ring saat ini. Cap tidak selalu 100%; misalnya `45%/45%` berarti cap telah tercapai. Ini bukan penguasaan penuh atas kekuatan ring. Jika karakter belum memiliki Spirit Ring yang sedang diproses, tampilkan `0%/0%` dan jelaskan bahwa belum ada cap kompatibilitas aktif; jangan gunakan `???`.
-5. `Breakthrough`: status bottleneck/proses menerobos berdasarkan Realm/Stage, Sync progress terhadap cap, ketersediaan ring berikutnya, item wajib, jeda minimum, dan seluruh syarat resmi lainnya.
+5. `Breakthrough`: status bottleneck/proses menerobos berdasarkan Spirit Realm/Stage, Sync progress terhadap cap, ketersediaan ring berikutnya, item wajib, jeda minimum, dan seluruh syarat resmi lainnya.
 6. `Day left`: pengecualian field hitung-mundur yang hanya berlaku untuk jeda minimum antarpenyerapan Spirit Ring. Ini bukan timer umum untuk breakthrough kultivasi, latihan, atau aktivitas lain. Pilih interval berdasarkan jumlah ring yang telah berhasil diserap, lalu hitung dari timestamp dunia penyerapan terakhir yang berhasil menurut `bestiary/SPIRIT_BEAST_RULES.md`. Jika belum ada penyerapan ring yang relevan atau data waktunya tidak tersedia, tulis `Belum ditetapkan Day left`; jangan memaksakan `0` karena angka itu menyatakan jeda minimum sudah terpenuhi.
 7. `Martial Soul`: Martial Soul karakter sesuai sumber resmi dan riwayat.
 8. `Thinker Grade`: grade yang sudah ditetapkan oleh mekanik/riwayat.
@@ -35,7 +35,7 @@ Pertahankan nama dan urutan field sesuai `templates/GAMEPLAY_RESPONSE_TEMPLATE.m
 
 ## Aturan Pengisian
 
-- Jangan menambah field terpisah untuk **Spirit Rings** atau **Law** tanpa persetujuan pemilik. Jumlah slot mengikuti Realm; rincian ring masuk ke **Teknik / Kemampuan** atau deskripsi Martial Soul.
+- Jangan menambah field terpisah untuk **Spirit Rings** atau **Law** tanpa persetujuan pemilik. Jumlah slot mengikuti Spirit Realm; rincian ring masuk ke **Teknik / Kemampuan** atau deskripsi Martial Soul.
 - Gunakan profil gameplay terakhir ditambah kejadian yang benar-benar terjadi. Jangan menganggap HP penuh, mengisi ulang sumber daya, mengubah saldo, atau menghapus konsekuensi tanpa sebab yang sah.
 - Estimasi praktis untuk karakter baru hanya boleh digunakan bila wajar dan harus diberi label estimasi GM. Jangan mengarang rahasia besar, garis keturunan, artefak langka, atau teknik formal.
 - `???` hanya boleh digunakan untuk **identitas karakter yang benar-benar tidak dikenal** atau **nama Martial Soul yang belum diketahui**. Jangan gunakan `???` pada field lain.

@@ -1,4 +1,4 @@
-# Xuanling Realm — Artificial Artifacts
+# Merzkava Universe — Artificial Artifacts
 
 **Status:** Artificial Artifact reference and catalog.  
 **Mechanics authority:** `core/THINKER_AND_FORMULATION.md` remains the sole source for Thinker progression, production requirements, and the official baseline success-chance matrix. This file organizes known artifacts and their documented functions.

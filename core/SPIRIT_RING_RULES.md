@@ -17,6 +17,48 @@ Spirit Ring diperoleh melalui Spirit Beast dan proses perolehan yang sah.
 - Mengalahkan Beast memunculkan ring, tetapi tidak berarti karakter otomatis berhasil menyerapnya.
 - Kemampuan hasil penyerapan harus memiliki dasar pada interaksi Martial Soul pemilik, karakteristik Spirit Beast/ring, rumusan kemampuan, dan hasil sinkronisasi yang benar-benar terjadi. Ring tidak harus sekadar menyalin kemampuan Beast secara mentah: interaksi itu dapat membentuk kombinasi baru yang sesuai dengan apa yang sudah dapat dilakukan Martial Soul. Jangan mengarang kemampuan tanpa dasar yang dapat ditelusuri.
 
+## 1.1 Normal Routes for Obtaining a Spirit Ring
+
+After a character has awakened their Martial Soul, a first Spirit Ring may be pursued through one of three broad routes. These are ways to find and hunt a suitable Spirit Beast; they do **not** replace the official compatibility, absorption, breakthrough, or time rules elsewhere in this module.
+
+### Route A — Academy Supervised Field Expedition (Safe Route)
+
+Students at an academy that offers practical field instruction can study Spirit Ring theory before being deployed in a group to a designated forest or other wilderness area. A **Safe Route** is a route selected and supervised by the academy for the students' demonstrated readiness, known hazards, and the intended training objective.
+
+- Preparation may cover Spirit Beast signs and habitats, assessing known species and likely danger, team positioning, retreat signals, basic combat coordination, emergency response, ring compatibility, and the distinction between defeating a Beast and absorbing its ring.
+- The instructor or expedition leader selects the area and objective according to the students' actual preparation and the information available. A Safe Route should reduce avoidable exposure; it is not a guarantee that the route is harmless, the target is present, or every encounter is within the group's ability.
+- The academy may provide supervision, guidance, and a planned withdrawal route, but do not invent an always-present rescue team, automatic medical protection, or guaranteed evacuation unless the actual expedition establishes it.
+- Academy students do not automatically receive a Spirit Beast, a particular ring age, a successful hunt, a compatibility bonus, or a guaranteed successful absorption. Attendance grants no unrecorded combat skill or immunity.
+- Only the two central boarding academies currently named in Golden Dragon Empire canon are established as specific institutions: Imperial Foundation Academy and Imperial Cultivation Academy, both in Huanglongcheng. Other academies, local branches, and their field programs must be established through canon or events rather than assumed.
+
+### Route B — Temporary Spirit Hunters Guild Party
+
+A person can register for a temporary expedition party through a local Spirit Hunters Guild office when one is available. Parties may be mixed and unpredictable: academy students, younger clan or sect members, independent hunters, half-beasts, people from Lawless Territories, or lower-ranking imperial circles may join. See `world/SPIRIT_HUNTERS_GUILD.md`.
+
+- A temporary roster is flexible, not proof that everyone is trustworthy. Members may have different goals, skills, experience, loyalties, and definitions of a fair reward.
+- Before departure, the party should clarify target, route, roles, signals, emergency plans, and how the ring and other spoils will be distributed. A written or witnessed agreement is useful but does not make betrayal impossible.
+- Watch for suspicious conduct, including attempts to isolate a member, hide route information, manipulate target selection, change reward terms, or steer the party into an unexplained danger. These are warning signs, not proof of guilt by themselves.
+- Credibly established serious misconduct can lead to Guild blacklisting. Severe cases may receive a Guild **Deadpool Notice**, a bounty contract specifying live capture or permission for lethal force. It is not automatically lawful or enforceable everywhere, and it must not be issued as a proven conviction on an unsupported accusation.
+- A Guild party may be more capable through cooperation, but coordination can fail. The Guild does not guarantee the team's strength, the target's presence, the hunt's success, the ownership of the ring, or safe absorption.
+
+### Route C — Solo Hunt
+
+A character may hunt alone without an academy supervisor, group support, a Guild party, or a guaranteed rescue route.
+
+- This is generally the least forgiving route because the character must handle tracking, scouting, combat, escape, injuries, supplies, and the aftermath alone. The actual danger still depends on the habitat, target, preparation, equipment, character abilities, and available information.
+- Solo hunting is not automatically impossible for an average person, nor automatically feasible for a powerful cultivator. Determine feasibility from the character's recorded capabilities and the target's established or reasonably inferred threat; do not grant a victory merely because the player chooses to hunt alone.
+- Deep or difficult-to-reach wilderness tends to contain higher-tier Spirit Beasts, but this is a tendency, not a universal law. A familiar route can still be dangerous, and a remote route does not guarantee a valuable Beast.
+- Do not add a new universal success percentage or difficulty score. Resolve actual encounters using `gameplay/COMBAT_SYSTEM.md`; use the official PowerScale/Qi, HP, and Injury rules. If critical target information is unknown, keep that uncertainty in the encounter rather than inventing exact odds.
+- A character can decide to retreat. Whether escape is possible depends on distance, terrain, the Beast's abilities, injuries, pursuit, and other actual circumstances; retreat is not an automatic reset or guaranteed safety.
+
+### Shared Rule — Hunt Difficulty Is Not Absorption Difficulty
+
+1. **Finding and identifying a target:** use established habitat information, field signs, reports, and the character's actual knowledge. Treat uncertain age, tier, temperament, and numbers as uncertain.
+2. **Hunting/defeating it:** use the official combat system, including PowerScale, readiness, hit chance, damage, defense, and injury. A higher-tier or older Beast may be beyond the party's ability; do not turn that into an arbitrary numeric penalty.
+3. **Obtaining the ring:** after a Spirit Beast is defeated, its Spirit Ring may appear above the body. This does not automatically settle who owns it if the party has a valid prior agreement or a dispute arises.
+4. **Absorbing the ring:** calculate the candidate ring's compatibility using §6.1 and the official factors B, M, T, and A. Defeating the Beast does not raise compatibility automatically. The method of acquisition factor is 100 only for a genuine voluntary handover by the Spirit Beast, and 80 for forced absorption, as already defined in §6.1.
+5. **Consequences:** if absorption fails or causes deviation, apply the existing ring, HP, injury, and cultivation rules. Do not invent a new failure probability or erase consequences because the character used an academy or guild route.
+
 ## 2. Usia Spirit Ring dan Toleransi Tubuh
 
 Tidak ada batas usia Spirit Ring yang mutlak hanya berdasarkan angka usia atau Realm. Rekomendasi usia ring harus mempertimbangkan toleransi tubuh, kompatibilitas, dan keadaan kultivator.

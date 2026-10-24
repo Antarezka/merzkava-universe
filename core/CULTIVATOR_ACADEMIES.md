@@ -13,11 +13,11 @@ An academy is a broad educational route; it is not automatically a sect, a dojo,
 The following are recognized areas of foundational instruction. This list establishes subject areas, not a fixed timetable or a requirement that every academy teaches every topic in the same way.
 
 ### 2.1 Cultivation Fundamentals
-- Basic understanding of cultivation, Cultivation Realms, and the general process of developing one's strength.
+- Basic understanding of cultivation, Spirit Realms, and the general process of developing one's strength.
 - Introductory knowledge of Martial Souls and their relevance to a cultivator.
 - Other foundational concepts required to understand a cultivator's development.
 
-Advanced methods, breakthrough guarantees, or Realm-specific techniques are not implied by basic instruction.
+Advanced methods, breakthrough guarantees, or Spirit Spirit-Realm-specific techniques are not implied by basic instruction.
 
 ### 2.2 Physical Training
 - General physical conditioning, stamina, coordination, and bodily readiness.
@@ -73,7 +73,7 @@ Only two specific central boarding academies are currently named in Golden Drago
 - A Cultivator Academy offers broad foundational education.
 - A specialist institution, dojo, organization, or mentor may offer narrower or more advanced instruction.
 - Thinker education and access to specialized equipment, including a Formation Engraver, are not automatically included in ordinary academy education.
-- An academy may provide a pathway toward further study, but attendance alone does not confer Thinker Grade, Cultivation Realm advancement, combat mastery, or access to restricted knowledge.
+- An academy may provide a pathway toward further study, but attendance alone does not confer Thinker Grade, Spirit Realm advancement, combat mastery, or access to restricted knowledge.
 
 Specific institutions, their reputations, locations, admissions, costs, and teaching standards remain undefined until established.
 
@@ -101,7 +101,7 @@ When education matters in gameplay:
 
 ## 6. RELATED SOURCES
 
-- `core/CULTIVATION_SYSTEM.md` — cultivation progression and Realms.
+- `core/CULTIVATION_SYSTEM.md` — cultivation progression and Spirit Realms.
 - `core/MARTIAL_SOUL.md` — Martial Soul rules.
 - `core/SPIRIT_RING_RULES.md` — Spirit Ring mechanics and absorption.
 - `bestiary/SPIRIT_BEAST_RULES.md` — Spirit Beast requirements and related rules.

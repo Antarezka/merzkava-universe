@@ -1,8 +1,8 @@
-# Xuanling Realm — Official Index
+# Merzkava Universe — Official Index
 
-INDEX ini adalah **pintu masuk tunggal** untuk memulai, melanjutkan, dan menjalankan roleplay Xuanling Realm. Ikuti prosedur bootstrap dan navigasi modul di bawah. Jangan menggandakan aturan mekanik atau format respons lengkap ke file lain.
+INDEX ini adalah **pintu masuk tunggal** untuk memulai, melanjutkan, dan menjalankan roleplay Merzkava Universe. Kosmologi mencakup dunia utama, alam dewa, dimensi, dan dunia primordial. Modul `world/WORLD.md` tetap menjadi sumber lore dunia utama yang sudah ada; jangan menganggap semua kategori kosmologi sudah memiliki lore lengkap. Ikuti prosedur bootstrap dan navigasi modul di bawah. Jangan menggandakan aturan mekanik atau format respons lengkap ke file lain.
 
-Repository resmi: https://github.com/Antarezka/xuanling-realm
+Repository resmi: https://github.com/Antarezka/merzkava-universe
 
 ## 0. Prosedur Bootstrap (WAJIB)
 
@@ -66,7 +66,7 @@ Pilih modul berdasarkan aksi, kondisi, dan lokasi saat ini. Jangan membaca atau 
 | Harga, transaksi, kurs, aset, Currency | `core/10_ECONOMY_SYSTEM.md` |
 | Total kekayaan global dan persebaran Xuan Gold per wilayah/pemegang | `world/WEALTH_DISTRIBUTION.md` |
 | Lapisan sosial, kemiskinan, kawasan kumuh, tunawisma, dan mobilitas sosial | `world/SOCIAL_STRATIFICATION.md` |
-| Dunia, tokoh, tiga kekuasaan utama, fondasi lore | `world/WORLD.md` |
+| Struktur kosmos: dunia utama, alam dewa, dimensi, dunia primordial | `world/COSMOLOGY.md` |\n| Dunia utama, tokoh, tiga kekuasaan utama, fondasi lore | `world/WORLD.md` |
 | Peta, wilayah, permukiman, rute yang diketahui | `world/MAP_AND_REGIONS.md` |
 | Geografi fisik, perjalanan, moda transportasi, dan batas pengetahuan rute | `world/GEOGRAPHY_AND_TRAVEL.md` |
 | Bangsa berakal, ciri kelompok, dan konteks perlakuan sosial | `world/INTELLIGENT_PEOPLES.md` |
@@ -140,7 +140,7 @@ Jika sumber wajib gagal diakses, sebutkan file yang gagal dan jangan mengaku tel
 - `bestiary/SPIRIT_BEAST_RULES.md`
 - `gameplay/COMBAT_SYSTEM.md`
 - `gameplay/TIME_AND_ACTION_RULES.md`
-- `world/WORLD.md`
+- `world/COSMOLOGY.md`\n- `world/WORLD.md`
 - `world/MAP_AND_REGIONS.md`
 - `world/GEOGRAPHY_AND_TRAVEL.md`
 - `world/INTELLIGENT_PEOPLES.md`

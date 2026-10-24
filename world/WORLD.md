@@ -133,7 +133,7 @@ Dojo tidak otomatis berada di bawah kendali klan yang namanya serupa. Hubungan f
 
 Title: Emperor of the Golden Dragon Empire
 Martial Soul: Golden Heavenly Dragon
-Spirit Realm: 9 — Spirit Primordial
+Spirit Realm 9 — Spirit Primordial
 Stage: Middle
 
 Proposed Spirit Ring Configuration
@@ -245,7 +245,7 @@ Leiyu Clan| Teknik tempur dan kekuatan ofensif
 
 Title: Maharaja of Tianhai Yunzhou
 Martial Soul: Heavenly Sky Whale
-Spirit Realm: 9 — Spirit Primordial
+Spirit Realm 9 — Spirit Primordial
 Stage: Early
 
 Proposed Spirit Ring Configuration
@@ -336,7 +336,7 @@ Xuanye Clan| Teknik tempur dan kepentingan strategis
 
 Title: Leluhur Utara of Beiming Gu
 Martial Soul: Blue-Flame Silver Tiger
-Spirit Realm: 9 — Spirit Primordial
+Spirit Realm 9 — Spirit Primordial
 Stage: Early
 
 Proposed Spirit Ring Configuration

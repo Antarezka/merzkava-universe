@@ -99,7 +99,7 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for named NPC profiles. Do not reveal hi
 
 | Name / public identity | Location | Role | Public traits | Profile link / source |
 |---|---|---|---|---|
-| Jun Haotian (君昊天) | Longyuan; exact residence unconfirmed | Emperor of the Golden Dragon Empire | Golden Heavenly Dragon, Myth Tier; Realm 9 — Spirit Primordial, Middle Stage; age 42 | [NPC profile](NPC_JUN_HAOTIAN.md); `world/WORLD.md` |
+| Jun Haotian (君昊天) | Longyuan; exact residence unconfirmed | Emperor of the Golden Dragon Empire | Golden Heavenly Dragon, Myth Tier; Spirit Realm 9 — Spirit Primordial, Middle Stage; age 42 | [NPC profile](NPC_JUN_HAOTIAN.md); `world/WORLD.md` |
 | Shen Yuehua (沈月华) | Longyuan; exact residence unconfirmed | Empress; main-branch member of the Shen family | Heavenly Crane, Myth Tier; age 33; noted for her family's strategic, elite tea-pavilion, intelligence, and Thinker traditions | [NPC profile](NPC_SHEN_YUEHUA.md) |
 | Jun Ruiyuan (君睿渊) | Longyuan; exact residence unconfirmed | Crown Prince; eldest child | Golden Heavenly Qilin, Myth Tier; age 17 | [NPC profile](NPC_JUN_RUIYUAN.md) |
 | Jun Yuejin (君月瑾) | Longyuan; exact residence unconfirmed | Imperial Princess; second child | Golden Celestial Crane, Myth Tier; age 16 | [NPC profile](NPC_JUN_YUEJIN.md) |

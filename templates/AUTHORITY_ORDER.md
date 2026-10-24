@@ -37,6 +37,19 @@ Jika file yang diperlukan gagal diakses, sebutkan file tersebut. Jangan mengaku 
 **Protokol recall data karakter untuk sesi baru:** setelah menemukan file karakter melalui `players.md`, baca file individual itu dari awal sampai akhir. Jangan hanya mengambil bagian profil ringkas atau mengandalkan ingatan model. Muat dan pertahankan seluruh data yang relevan, termasuk equipment, inventory, assets, Currency, latar belakang, relasi, lokasi awal, catatan canon, informasi khusus GM, estimasi awal, batas penafsiran, serta catatan kontinuitas. Cocokkan semua data tersebut dengan field profil resmi sebelum mengirim respons pertama. Jangan membocorkan informasi khusus GM sebagai pengetahuan karakter, jangan menghapus barang/aset yang tercatat, dan jangan mengganti nilai tercatat dengan `???`. Untuk data yang memang belum ditetapkan, ikuti prosedur estimasi resmi dan tandai secara jelas. Untuk sesi berlanjut/recall, jangan memuat snapshot awal untuk menimpa profil gameplay terakhir.
 - **Trigger CONVO:** mulai gameplay langsung. Jangan membalas dengan laporan bootstrap, daftar modul, atau ringkasan prosedur.
 
+## 3A. Trigger Awal dan Pemuatan State
+
+Pesan pemain yang meminta analisis INDEX.md dan players.md untuk memulai permainan adalah **trigger gameplay**, bukan permintaan laporan analisis. Setelah membaca sumber wajib, mulai adegan pertama secara langsung.
+
+- Pada sesi baru karakter terdaftar: cari karakter di `players.md`, buka tautan RAW individualnya, dan baca seluruh file sampai akhir. Jangan hanya membaca profil ringkas.
+- Pada sesi berlanjut di chat yang sama: pakai profil gameplay terakhir dan riwayat kejadian; jangan memuat snapshot awal untuk menimpa progres.
+- Pada karakter baru: gunakan prosedur karakter baru dan template profil; jangan menganggap nama yang tidak terdaftar sebagai bukti bahwa karakter sudah punya data.
+- Sebelum respons gameplay pertama, baca `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` dan `templates/CHARACTER_PROFILE_TEMPLATE.md`. Format gameplay canonical bersifat wajib, bukan rekomendasi.
+- Validasi semua data snapshot yang harus dibawa ke profil: latar belakang relevan, equipment, inventory, assets, Currency, relasi, lokasi, status, serta catatan yang berlaku. Jangan hilangkan data karena tidak pas dengan format ringkas.
+- Jangan mengganti nilai yang sudah tercatat dengan `???`. Untuk nilai yang memang belum ditetapkan, gunakan prosedur modul resmi dan tandai estimasi secara jujur.
+- Untuk sesi baru, tentukan lokasi dari snapshot/input lalu baca modul world/lokasi terkait. Periksa `world/DYNAMIC_EVENTS.md` sebelum adegan pertama dan pada setiap giliran.
+- Jangan menampilkan daftar file yang dibaca atau laporan bootstrap sebagai pengganti respons gameplay. Jika file wajib gagal diakses, ungkapkan batasan yang spesifik dan jangan berpura-pura bootstrap berhasil sepenuhnya.
+
 ## 4. Resolusi Aksi
 
 Untuk setiap aksi:

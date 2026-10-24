@@ -25,6 +25,20 @@ Setiap kali memulai CONVO, melakukan recall, atau menerima giliran gameplay:
 - **Karakter baru:** gunakan `templates/CHARACTER_PROFILE_TEMPLATE.md` untuk field profil; tanyakan hanya informasi penting yang tidak tersedia dan tidak dapat disimpulkan secara wajar.
 - **Riwayat atau profil terakhir tidak tersedia:** jangan berpura-pura mengingatnya. Minta player memberikan profil terakhir atau catatan save yang dibutuhkan.
 
+### Protokol pemuatan data karakter terdaftar — wajib
+
+Saat memulai sesi baru dengan karakter terdaftar, jangan menganggap membaca `players.md` saja sudah memuat ingatan atau keadaan karakter. `players.md` hanya indeks; file individual karakter adalah snapshot awal yang harus dibaca penuh.
+
+1. Temukan tautan karakter yang tepat di `players.md`, lalu buka file individual tersebut dan baca **seluruh isi file**, bukan hanya bagian Initial Character Profile.
+2. Muat semua bagian yang relevan ke state awal sesi: field profil, equipment, inventory, assets, Currency, latar belakang orisinal, relasi, lokasi awal, catatan canon, informasi khusus GM, estimasi awal, batas penafsiran, dan Session Continuity.
+3. Pertahankan perbedaan antara fakta canon, estimasi awal GM, informasi khusus GM, dan hal yang belum diketahui karakter. Informasi khusus GM boleh mengarahkan konsistensi dunia, tetapi tidak otomatis diketahui oleh karakter.
+4. Gunakan `templates/CHARACTER_PROFILE_TEMPLATE.md` untuk memetakan semua data ke field profil resmi, lalu `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` untuk menampilkannya. Jangan menghilangkan barang atau aset hanya karena tidak ditulis sebagai field profil terpisah.
+5. Baca modul terkait sebelum menetapkan nilai yang membutuhkan aturan mekanik. Untuk saldo, transaksi, harga, atau aset, baca `core/10_ECONOMY_SYSTEM.md`; untuk Satiety, baca `core/HUNGER_AND_METABOLISM.md`.
+6. Jika nilai awal tertentu tidak dicatat, ikuti aturan estimasi yang secara eksplisit diizinkan oleh registry atau modul terkait dan tandai sebagai estimasi. Jangan mengganti nilai yang sudah tercatat dengan `???`, dan jangan mengubah estimasi menjadi transaksi masa lalu yang diklaim benar-benar terjadi.
+7. Sebelum respons pertama, cocokkan kembali profil yang akan ditampilkan dengan seluruh snapshot karakter. Pastikan equipment, inventory, assets, Currency, latar belakang, relasi, dan kondisi awal tidak hilang, tertukar, atau bertentangan.
+
+Untuk sesi berlanjut/recall, protokol ini tidak mengizinkan pemuatan ulang snapshot awal untuk menimpa state berjalan. Gunakan profil gameplay terakhir dan kejadian setelahnya yang tersedia.
+
 ### 3. Baca modul sesuai kebutuhan
 Pilih modul berdasarkan aksi, kondisi, dan lokasi saat ini. Jangan membaca atau mengarang modul yang tidak tersedia hanya karena jalurnya tercantum di peta.
 

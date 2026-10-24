@@ -15,6 +15,8 @@ Spirit Ring yang diperoleh secara sah dapat memberikan kemampuan khusus sesuai a
 
 ## 2. Awakening
 
+Prosedur mekanis resmi awakening, tabel rarity, peluang mutasi, pilihan pemain, dan resolusi acak diatur oleh `core/MARTIAL_SOUL_AWAKENING.md`. GM wajib membaca dan mengikuti modul tersebut setiap kali menjalankan awakening. Modul ini menjelaskan lore dan prinsip umum; modul awakening adalah otoritas untuk peluang serta urutan prosedur.
+
 - Awakening membuka atau mengungkap Martial Soul karakter.
 - Awakening berlangsung pada usia empat tahun atau lebih.
 - Awakening tidak otomatis memberikan Spirit Ring.
@@ -93,11 +95,12 @@ Jika sistem mekanik yang diperlukan belum tersedia, GM boleh mencatat tindakan d
 
 ## 6. Mutasi dan Evolusi
 
-Mutasi, evolusi, variasi langka, atau perubahan Martial Soul tidak boleh diberikan secara otomatis hanya karena karakter berlatih, mencapai Realm tertentu, berada dalam bahaya, atau membutuhkan kekuatan baru.
+Mutasi Martial Soul pada saat awakening wajib mengikuti `core/MARTIAL_SOUL_AWAKENING.md`, yang menetapkan peluang, urutan pengundian, keputusan pemain, dan batas resolusi GM.
 
-Aturan lengkap tentang mutasi dan evolusi Martial Soul belum ditetapkan dalam modul ini. Karena itu, GM tidak boleh menentukan peluang, pemicu, tingkatan, atau hasil mutasi/evolusi sebagai mekanik resmi sebelum ada aturan canon yang menyatakannya.
-
-Aturan mutasi atau evolusi Spirit Beast, apabila ditetapkan dalam modul bestiary, berlaku untuk Spirit Beast sesuai ruang lingkupnya dan tidak otomatis berlaku untuk Martial Soul.
+- Jangan memberikan mutasi otomatis hanya karena karakter berlatih, mencapai Realm tertentu, berada dalam bahaya, atau membutuhkan kekuatan baru.
+- Jangan mengubah peluang atau hasil mutasi yang telah diundi, dan jangan melakukan reroll.
+- Mekanik mutasi/evolusi setelah awakening, pemicu alternatif, daftar hasil, statistik, serta efek numerik yang belum ditetapkan tetap tidak boleh dikarang.
+- Aturan mutasi atau evolusi Spirit Beast dalam modul bestiary berlaku untuk Spirit Beast sesuai ruang lingkupnya dan tidak otomatis berlaku untuk Martial Soul.
 
 ## 7. Catatan Karakter Wajib
 

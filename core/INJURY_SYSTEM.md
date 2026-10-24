@@ -1,4 +1,4 @@
-# Xuanling Realm — Injury System
+# Merzkava Universe — Injury System
 
 **Status:** Mekanik resmi injury v1.  
 **Cakupan:** klasifikasi cedera, syarat pemulihan, progres pemulihan, dan hubungan injury dengan HP.

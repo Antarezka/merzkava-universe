@@ -23,7 +23,7 @@
 - First-contact circumstances:
 
 ## 3. Capabilities
-- Cultivation Realm / stage:
+- Spirit Realm / Stage:
 - Martial Soul:
 - Spirit Rings and abilities (if applicable):
 - Techniques / combat style:

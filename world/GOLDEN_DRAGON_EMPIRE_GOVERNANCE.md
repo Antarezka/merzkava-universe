@@ -10,7 +10,7 @@
 
 1. The Emperor is the highest sovereign authority of the Golden Dragon Empire.
 2. The Empire is too large to be governed personally by the Emperor alone; administration depends on central institutions, regional governors, local officials, and public offices.
-3. **A noble title, clan affiliation, cultivation Realm, or personal strength does not automatically grant a government office or legal jurisdiction.** Authority must come from a recognized appointment, lawful delegation, or established local arrangement.
+3. **A noble title, clan affiliation, Spirit Realm, or personal strength does not automatically grant a government office or legal jurisdiction.** Authority must come from a recognized appointment, lawful delegation, or established local arrangement.
 4. Civil administration and military command are distinct chains. A governor is not automatically the commander of every garrison in their territory, and a military commander does not automatically administer civilian affairs.
 5. The seven established regions are geographic and regional identities. They are not, by themselves, a complete list of administrative units or proof of exact borders.
 6. The standard territorial counts and jurisdiction names are recorded in `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. The named units are established; exact map coordinates, surveyed borders, legal codes, and current officeholders remain open unless recorded in the relevant module.
@@ -165,7 +165,7 @@ Follow a modular pattern inspired by the organization of Inggo's Core repository
 | Core governance principles, hierarchy, ministries, and civil/military distinction | This file: `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md` |
 | Seven regional identities and broad geographic relationships | `world/WORLD.md` and `world/MAP_AND_REGIONS.md` |
 | Local settlements, jurisdiction, regional offices, local factions, and local NPC registry | The relevant `world/REGION_*.md` file |
-| Central ministers, regional governors, all prefects and county magistrates: names, Realm, Martial Soul, background, motivation, and political stance | `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` |
+| Central ministers, regional governors, all prefects and county magistrates: names, Spirit Realm, Martial Soul, background, motivation, and political stance | `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` |
 | Full biography and established traits of an important official or recurring NPC requiring more detail | A dedicated `world/NPC_[NAME].md` profile linked from the regional registry |
 | Clan, dojo, sect, and organization identity or relationships | `world/FACTIONS.md`; use a dedicated module when the institution requires detailed hierarchy or facilities |
 | Confirmed historical appointments, reforms, wars, or past political events | `world/HISTORY.md` |

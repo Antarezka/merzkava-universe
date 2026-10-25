@@ -105,10 +105,6 @@ Administrative routes are trunks, not a guarantee that every settlement connects
 - **Baiyue:** roads converge on patrol posts and passes; Frontier–Maritime Relay is a staged land/sea link, not a direct road.
 - **Xingluo:** coastal sailing legs and port roads connect hubs; some villages require small boats and tide-safe landings.
 
-## 5A. Premium Destinations and Visitor Economy
-
-Regional modules establish seven distinct premium destinations: Taman Cermin Giok (Longyuan), Paviliun Seribu Lampion Sungai (Canglan), Galeri Urat Giok (Jinyue), Teras Sembilan Tinta (Tianfeng), Paviliun Burung Phoenix Besi (Yanling), Pondok Panorama Gerbang Utara (Baiyue), and Pulau Mahkota Mutiara (Xingluo). They serve elite visitors, patrons, collectors, scholars, or diplomatic guests, but remain subject to law, weather, permits, and safety restrictions. Luxury services are concentrated, not present in every village.
-
 ## 5. Thirty-Four Named Rural Villages
 
 These are the thirteen individually named rural villages in the compact official register. All have local communities and ordinary residents, but a village is not presumed to have a bank, academy, clinic, library, or permanent state office unless a regional module confirms one.
@@ -151,6 +147,10 @@ These are the thirteen individually named rural villages in the compact official
 | Tideglass Village | Xingluo | Sea glass, salt, tide watching | Small-boat village |
 
 The nine other entries from the former village list are not destroyed or depopulated. They are retained as local settlements/hamlets but are no longer part of the thirteen-entry named-village register. Do not imply that the administrative reduction physically removed them.
+
+## 5A. Premium Destinations and Visitor Economy
+
+Regional modules establish seven distinct premium destinations: Taman Cermin Giok (Longyuan), Paviliun Seribu Lampion Sungai (Canglan), Galeri Urat Giok (Jinyue), Teras Sembilan Tinta (Tianfeng), Paviliun Burung Phoenix Besi (Yanling), Pondok Panorama Gerbang Utara (Baiyue), and Pulau Mahkota Mutiara (Xingluo). They serve elite visitors, patrons, collectors, scholars, or diplomatic guests, but remain subject to law, weather, permits, and safety restrictions. Luxury services are concentrated, not present in every village.
 
 ## 6. NPC and Officeholder Continuity
 

@@ -114,33 +114,25 @@ This registry is the canonical index for major and recurring Tianhai NPCs. Each 
 
 The canonical roster for the Maharaja's court, civil administration, military/security, seven districts, twelve clan heads, five dojo masters, and Thinker institutions is `../regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`. Keep public information, NPC knowledge, mistaken beliefs, player-character knowledge, and GM-only secrets separate. Check `world/NPC_MANAGEMENT.md` and `templates/NPC_PROFILE_TEMPLATE.md`.
 
-## 10. Canonical Ruling Family and Great Tianhai War
+## 10. Ruling Family and Great Tianhai War — Canon References
 
-These details are owner-approved canon. Full biographies are maintained in the linked NPC profiles.
+The following table is a relationship and navigation summary, not a second set of NPC biographies. Each detailed profile in the regional NPC directory is the single canonical full profile.
 
-### Maharaja Ji Haoyuan
-- Maharaja of Tianhai Yunzhou and a visionary leader.
-- Martial Soul: Heavenly Sky Whale. Spirit Realm 9 — Spirit Primordial, Early Stage. Thinker Grade 10.
-- The Tier 9 Artificial Artifact sustaining the floating island was created by one of his ancestors, not Ji Haoyuan. His Thinker Grade 10 makes him capable of creating Artificial Artifacts, but no specific personal creation is established.
-- Full profile: `../regions/tianhai-yunzhou/npcs/JI_HAOYUAN.md`.
+| NPC | Established relationship / role | Canonical full profile |
+|---|---|---|
+| Ji Haoyuan | Maharaja of Tianhai Yunzhou; husband of Bai Xuanyin; father of the twins | [Ji Haoyuan](../regions/tianhai-yunzhou/npcs/JI_HAOYUAN.md) |
+| Bai Xuanyin | Deceased heroine; wife of Ji Haoyuan; mother of the twins; Thinker Grade 10 and Artificial Artifact creator | [Bai Xuanyin](../regions/tianhai-yunzhou/npcs/BAI_XUANYIN.md) |
+| Ji Zhaoning | Elder twin princess; has not undergone Martial Soul Awakening; Thinker Grade not established | [Ji Zhaoning](../regions/tianhai-yunzhou/npcs/JI_ZHAONING.md) |
+| Ji Ningzhao | Younger twin princess; awakened at Spirit Realm 3 — Spirit Elder, Early Stage | [Ji Ningzhao](../regions/tianhai-yunzhou/npcs/JI_NINGZHAO.md) |
 
-### Bai Xuanyin — revered heroine of Tianhai
-- Ji Haoyuan's wife and the mother of their twin daughters. She died during the Great Tianhai War and is greatly honored as a hero.
-- Spirit Realm 7 — Spirit Emperor; Thinker Grade 10. Her Stage, Martial Soul, and Spirit Rings are not established.
-- She created a weapon-type Artificial Artifact described by the owner as the strongest weapon-type Artificial Artifact in the world. Its name, tier, specifications, and current custodian are unknown. She also created Artificial Artifact armor still used by Tianhai soldiers and contributed to Tianhai's giant protective dome. Exact artifact names, tiers, and technical details remain unspecified.
-- Full profile: `../regions/tianhai-yunzhou/npcs/BAI_XUANYIN.md`.
+### Great Tianhai War — retained regional canon
 
-### Twin daughters
-- Ji Zhaoning and Ji Ningzhao are twin daughters of Ji Haoyuan and Bai Xuanyin. Both are 16, have golden eyes, and possess extraordinary intelligence.
-- **Ji Zhaoning, elder twin:** Has not undergone Martial Soul Awakening because she has been busy developing her Thinker Grade and Thinker abilities. Her actual Thinker Grade is not established. Full profile: `../regions/tianhai-yunzhou/npcs/JI_ZHAONING.md`.
-- **Ji Ningzhao, younger twin:** Awakened; Spirit Realm 3 — Spirit Elder, Early Stage. Martial Soul: **Canglan Shenhua (沧澜神花), Bunga Ilahi Ombak Biru**. Specific powers, rarity, Spirit Rings, and techniques remain unspecified. Full profile: `../regions/tianhai-yunzhou/npcs/JI_NINGZHAO.md`.
-
-### The Great Tianhai War
 - Three Tier 9 Demonic Beasts sought to invade and devastate Tianhai. Tianhai fought against the invasion, and Bai Xuanyin died during the war.
-- Her artifact contributions remain in use by Tianhai's soldiers and defenses, including armor and the giant protective dome.
-- Not established: exact date, duration, battlefield, identities of the three beasts, detailed battle sequence, full outcome, exact circumstances of Bai Xuanyin's death, and the name/tier/specifications of her greatest weapon.
+- Bai Xuanyin's artifact legacy includes weaponry, armor used by Tianhai soldiers, and contributions to the giant protective dome. The artifact details and all unestablished specifications remain governed by her canonical profile and the relevant artifact modules.
+- The exact date, duration, battlefield, identities of the three beasts, detailed battle sequence, full outcome, precise circumstances of Bai Xuanyin's death, and the name/tier/specifications of her greatest weapon remain unestablished.
 
 ### Canonical Thinker distribution notes
+
 - **Tianhai Yunzhou:** Four Thinker Grade 10 individuals in total, including Ji Haoyuan. Grade 10 is the highest Thinker Grade and its requirements are extraordinary.
 - **Golden Dragon Empire:** One Thinker Grade 9 and six Thinker Grade 8 individuals. Counts for other grades are not established.
 - **Beiming Gu:** Two Thinker Grade 9 individuals; other Thinkers are described as Grade 4 and Grade 5, but exact counts for those grades are not established.

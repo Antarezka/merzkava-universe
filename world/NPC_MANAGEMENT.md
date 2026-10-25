@@ -56,7 +56,7 @@ A detailed profile has exactly one canonical home. Regional, settlement, institu
 
 ### C. Where detailed profiles live
 
-Canonical full profiles for the currently established named NPCs have been relocated into `regions/golden-dragon-empire/npcs/` and `regions/tianhai-yunzhou/npcs/`. The old `world/NPC_<NAME>.md` paths are compatibility pointers only; edit the regional canonical file, not the pointer. These folders are staging locations inside the central repository, not separate GitHub repositories. Do not create a second profile merely because a local table is missing.
+Canonical full profiles for established named NPCs are maintained in `regions/golden-dragon-empire/npcs/`, `regions/tianhai-yunzhou/npcs/`, and `regions/beiming-gu/npcs/`. The Beiming Gu canonical profiles are Beiming Han, Beiming Xenhwa, and Beiming Jingheng. Verify each legacy `world/NPC_<NAME>.md` file before treating it as a compatibility pointer; edit the regional canonical profile when migration is confirmed. These folders are staging locations inside the central repository, not separate GitHub repositories. Do not create a second profile merely because a local table is missing.
 
 For each future verified major-power repository, use:
 - `npcs/REGISTRY.md` — local directory grouped by region/settlement and role, with one row per important or recurring NPC.

@@ -93,7 +93,23 @@ The Frontier–Maritime Circuit is a coordination arrangement, not proof of a di
 
 These names establish recognized administrative corridors, not guaranteed safety, permanent road quality, exact distances, or travel times. Regional modules and the geography/travel source may add confirmed segments and hazards without changing the administrative counts.
 
-## 5. Thirteen Named Rural Villages
+## 4A. Regional and Local Route Logic
+
+Administrative routes are trunks, not a guarantee that every settlement connects directly to every other settlement. Follow the route graphs in each regional module. Local links may require a transfer at a village, ferry, caravan junction, mountain pass, or port. River depth, tides, seasonal floods, snow, landslides, patrol restrictions, and cargo type can close routes. A traveler must follow connected legs; same-region status does not mean direct access.
+
+- **Longyuan:** Imperial Dragon Road links Huanglongcheng and Yuxi; spurs run through Foxbridge and Stone Mill, while Plum Lantern branches from the Zhuque road.
+- **Canglan:** Twin River Route connects Qinghe and Jiangbei by river; canals and embankments require transfers.
+- **Jinyue:** Ore Vein Road carries heavy cargo; mountain villages connect through caravan junctions.
+- **Tianfeng:** Cloudstep Scholar Road links Tianshu and Yunding; upland villages require pack trails.
+- **Yanling:** Furnace Supply Road links Honglu and Huifeng; fuel, kiln, and waterwheel villages use separate industrial spurs.
+- **Baiyue:** roads converge on patrol posts and passes; Frontier–Maritime Relay is a staged land/sea link, not a direct road.
+- **Xingluo:** coastal sailing legs and port roads connect hubs; some villages require small boats and tide-safe landings.
+
+## 5A. Premium Destinations and Visitor Economy
+
+Regional modules establish seven distinct premium destinations: Taman Cermin Giok (Longyuan), Paviliun Seribu Lampion Sungai (Canglan), Galeri Urat Giok (Jinyue), Teras Sembilan Tinta (Tianfeng), Paviliun Burung Phoenix Besi (Yanling), Pondok Panorama Gerbang Utara (Baiyue), and Pulau Mahkota Mutiara (Xingluo). They serve elite visitors, patrons, collectors, scholars, or diplomatic guests, but remain subject to law, weather, permits, and safety restrictions. Luxury services are concentrated, not present in every village.
+
+## 5. Thirty-Four Named Rural Villages
 
 These are the thirteen individually named rural villages in the compact official register. All have local communities and ordinary residents, but a village is not presumed to have a bank, academy, clinic, library, or permanent state office unless a regional module confirms one.
 
@@ -112,6 +128,27 @@ These are the thirteen individually named rural villages in the compact official
 | Watchfire Village | Baiyue | Roadside farming near a patrol route | Local community; village leadership/NPCs not individually established |
 | Stonegate Village | Baiyue | Passage guides and pack animals | Local community; village leadership/NPCs not individually established |
 | Salt Lantern Village | Xingluo | Salt pans and coastal fishing | Local community; village leadership/NPCs not individually established |
+| Foxbridge Village | Longyuan | Bridge hamlet for carts and small cargo | Local exploration village |
+| Plum Lantern Village | Longyuan | Fruit orchards, spring lodging, lantern festival | Local exploration village |
+| Stone Mill Village | Longyuan | Grain milling and cart-wheel repair | Local exploration village |
+| Lotus Weir Village | Canglan | Lotus plots, water vegetables, fish ponds | Canal-access village |
+| Three Reeds Village | Canglan | Mats, rope, and boat repairs | Small-canal village |
+| Rice Bell Village | Canglan | Community granary and harvest market | Tanggway-access village |
+| Copper Bell Village | Jinyue | Small smelting and mining-tool repair | Mountain supply village |
+| Deep Jade Village | Jinyue | Stone sorting and jade carving | Mountain-track village |
+| Ash Mule Village | Jinyue | Pack animals and mineral freight | Caravan junction village |
+| Paper Crane Village | Tianfeng | Paper, ink, bookbinding, copying | Upland craft village |
+| Cloud Ladder Village | Tianfeng | Highland tea and mountain lodging | Pack-trail village |
+| Scholar's Rest Village | Tianfeng | Scribes, guides, examination lodging | Seasonal visitor village |
+| Kilnside Village | Yanling | Heat-resistant bricks and kiln work | Industrial supply village |
+| Red Ember Village | Yanling | Charcoal and measured fuel supply | Forest supply village |
+| Waterwheel Village | Yanling | Waterwheel maintenance and cooling channels | Streamside craft village |
+| Pine Watch Village | Baiyue | Forest guides, regulated timber, road-post repairs | Patrol-route village |
+| Wolf Pass Village | Baiyue | Caravan lodging and pack animals | Mountain-pass village |
+| Cold Spring Village | Baiyue | Spring water, dried food, patrol rest stop | Footpath village |
+| Pearl Shoal Village | Xingluo | Shellfish, dried fish, net making | Coastal boat-access village |
+| Wind Sail Village | Xingluo | Sails, ropes, wind guides | Coastal craft village |
+| Tideglass Village | Xingluo | Sea glass, salt, tide watching | Small-boat village |
 
 The nine other entries from the former village list are not destroyed or depopulated. They are retained as local settlements/hamlets but are no longer part of the thirteen-entry named-village register. Do not imply that the administrative reduction physically removed them.
 
@@ -139,8 +176,8 @@ The nine other entries from the former village list are not destroyed or depopul
 
 ## 8. Canon and Conflict Rules
 
-1. This atlas is authoritative for seven regions, twelve prefectures, six county circuits, and thirteen named villages.
+1. This atlas is authoritative for seven regions, twelve prefectures, six county circuits, and 34 named rural-village exploration anchors.
 2. MAP_AND_REGIONS.md, GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md, the seven regional modules, GOLDEN_DRAGON_EMPIRE_OFFICIALS.md, and GOLDEN_DRAGON_EMPIRE_POPULATION_SERVICES.md must align with this register.
-3. The old counts—33 prefectures, 268 counties, 361 cities, 1,838 towns, 22 named villages, 9,200 township/district offices, and 50,000 villages/neighborhoods—are superseded.
+3. The old counts—33 prefectures, 268 counties, 361 cities, 1,838 towns, 22 named villages, 9,200 township/district offices, and 50,000 villages/neighborhoods—are superseded. The current 34 named rural villages are exploration anchors, not a claim that the Empire has only 34 rural communities.
 4. Never invent settlement destruction, population loss, NPC death, reassignment, borders, routes, or service branches to explain the simplified count.
 5. Preserve established character and world facts while applying this administrative structure; mark unresolved current office/location details for owner review.

@@ -2,7 +2,7 @@
 
 **Status:** Owner-authorized canonical administrative register.
 **Scope:** Seven major regions, twelve prefectures, six county circuits, and thirteen named rural villages.
-**Population baseline:** 320 million across approximately 12.8 million km². Population and area figures are planning estimates, not surveyed census/boundary claims.
+**Population baseline:** approximately 320 million. The Empire's working area estimate is approximately 12.8 million km², derived from the population scale, productive land, settlement spacing, transport corridors, and extensive mountain/frontier/wild areas. This is a planning model, not a surveyed census or boundary claim; regional average density is not the same as city density.
 **Authority:** This file is the single source for administrative counts, names, and parent relationships.
 
 ## 1. Empire-wide Structure
@@ -20,18 +20,33 @@ The former register of 33 prefectures, 268 counties, 361 cities, 1,838 towns, an
 
 ## 2. Seven Major Regions
 
-| Region | Regional seat | Population estimate | Area estimate | Core identity | Prefectures |
+| Region | Regional seat | Population estimate | Area estimate | Approx. average density | Core identity | Prefectures |
 |---|---|---:|---:|---|---:|
-| Longyuan | Huanglongcheng | 44 million | 1.4 million km² | Imperial court, ministries, nobles, politics | 2 |
-| Canglan | Qinghe | 64 million | 2.1 million km² | Agriculture, irrigation, river transport | 2 |
-| Jinyue | Yumai | 32 million | 1.6 million km² | Mines, spiritual metals, artifact materials | 2 |
-| Tianfeng | Tianshu | 40 million | 1.5 million km² | Academies, cultivation education, knowledge | 2 |
-| Yanling | Honglu | 36 million | 1.8 million km² | Furnaces, smithing, spiritual forging | 2 |
-| Baiyue | Beiguan | 32 million | 2.4 million km² | Frontier defense, fortifications, military routes | 1 |
-| Xingluo | Dongxing | 72 million | 2.0 million km² | Ports, maritime trade, diplomacy | 1 |
-| **Total** | — | **320 million** | **12.8 million km²** | — | **12** |
+| Longyuan | Huanglongcheng | 44 million | 1.4 million km² | ~31/km² | Imperial court, ministries, nobles, politics | 2 |
+| Canglan | Qinghe | 64 million | 2.1 million km² | ~30/km² | Agriculture, irrigation, river transport | 2 |
+| Jinyue | Yumai | 32 million | 1.6 million km² | ~20/km² | Mines, spiritual metals, artifact materials | 2 |
+| Tianfeng | Tianshu | 40 million | 1.5 million km² | ~27/km² | Academies, cultivation education, knowledge | 2 |
+| Yanling | Honglu | 36 million | 1.8 million km² | ~20/km² | Furnaces, smithing, spiritual forging | 2 |
+| Baiyue | Beiguan | 32 million | 2.4 million km² | ~13/km² | Frontier defense, fortifications, military routes | 1 |
+| Xingluo | Dongxing | 72 million | 2.0 million km² | ~36/km² | Ports, maritime trade, diplomacy | 1 |
+| **Total** | — | **320 million** | **12.8 million km²** | **25/km²** | — | **12** |
 
-Regional seats remain regional centers and are not automatically separate prefectures or counties.
+Regional seats remain regional centers and are not automatically separate prefectures or counties. The average densities above are broad regional averages across cities, farmland, settlements, transport corridors, mountains, and wilderness; they do not imply evenly spread population. Most residents cluster around cities, river valleys, farms, mines, industrial basins, ports, and guarded roads.
+
+### 2.1 Population rhythm and route density
+
+Use the following as a default scene guide, not a rigid timetable. Density changes by route type, season, weather, local events, security, and current story conditions. The GM may adjust it when the scene gives a reason.
+
+| Local time | Main urban roads and market streets | Regional roads / caravan routes | Remote roads and frontier tracks |
+|---|---|---|---|
+| 05:00–07:00 | Low to moderate; vendors setting up, laborers and deliveries arriving | Low to moderate; early carts and caravans depart | Low; patrols, farmers, hunters, and occasional travelers |
+| 07:00–09:00 | High to very high near gates, markets, docks, and schools | Moderate to high near towns and junctions | Low to moderate on established routes |
+| 09:00–15:00 | Moderate; trade, errands, public business, and deliveries | Moderate; main travel and freight movement | Low to moderate; mostly purposeful travel |
+| 15:00–19:00 | High to very high near markets, gates, docks, and residential districts | Moderate to high as workers return and caravans seek lodging | Low to moderate; daylight-dependent traffic |
+| 19:00–23:00 | Moderate in commercial quarters, low in ordinary streets; night markets vary | Low to moderate near inns and relay stations | Low; occasional patrols, messengers, or travelers |
+| 23:00–05:00 | Low, except guarded gates, night markets, docks, and entertainment quarters | Low; scheduled couriers or protected caravans only | Very low; isolated traffic and patrols, with greater exposure to hazards |
+
+**Quick scale:** very low = rare passers-by; low = occasional individuals or small groups; moderate = regular movement with gaps; high = steady two-way flow; very high = congestion, queues, and delays. Market days, festivals, military movements, disasters, Spirit Beast alerts, rain, flooding, snow, and port arrivals can override the baseline. Density describes traffic, not safety or social status.
 
 ## 3. Twelve Prefectures
 

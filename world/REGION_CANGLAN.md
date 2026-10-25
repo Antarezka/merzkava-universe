@@ -27,7 +27,7 @@
 - **County circuit:** Riverlands Circuit
 - **Cities:** Not separately counted in the simplified register; former seats remain settlements or service hubs.
 - **Small towns:** Not a separate official administrative tier.
-- **Named rural villages listed in this atlas:** 2
+- **Named rural villages listed in this atlas:** 5
 - **Other rural settlements:** Unenumerated; do not generate or count thousands of named villages by default
 - **Full official register:** `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
 
@@ -69,9 +69,6 @@ This is the region's compact named village roster. Other former village names re
 |---|---|---|---|
 | Reedbank Village | Rural village | Riverbank farming and reedcraft | Local community; detailed NPCs and services pending |
 | Fish Lantern Village | Rural village | Fishing, nets, and river trade | Local community; detailed NPCs and services pending |
-| Lotus Weir Village | Rural village | pematang teratai, sayuran air, tambak ikan | perahu kanal dari Qinghe; jalan putus saat banjir |
-| Three Reeds Village | Rural village | anyaman tikar, tali, perbaikan perahu | kanal kecil dari Reedbank; perlu perahu |
-| Rice Bell Village | Rural village | lumbung komunal, penggilingan padi, pasar panen | tanggul menuju Jiangbei; rawan tergenang |
 | Lotus Weir Village | Rural village | pematang teratai, sayuran air, tambak ikan | perahu kanal dari Qinghe; jalan putus saat banjir |
 | Three Reeds Village | Rural village | anyaman tikar, tali, perbaikan perahu | kanal kecil dari Reedbank; perlu perahu |
 | Rice Bell Village | Rural village | lumbung komunal, penggilingan padi, pasar panen | tanggul menuju Jiangbei; rawan tergenang |

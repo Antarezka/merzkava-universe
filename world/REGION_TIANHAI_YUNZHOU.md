@@ -224,4 +224,52 @@ When adding routes, verify terrain, vertical movement across the floating island
 - [x] Establish an initial partial route network with intermediate transport constraints; exact distances and travel times remain unset.
 - [x] Establish Tianhai's Artificial Artifact-powered automated transit and refined liquefied-energy trade advantage.
 - [x] Establish the Cangqiong Sky Transit Terminal and two inter-power energy-aircraft corridors with owner-approved round-trip fares.
+- [x] Establish initial Spirit Hunters Guild contract desks, independent trade associations, and Medicine Hall Society service points without inventing staff, prices, or new routes.
 - [ ] Reconcile approved additions with `world/WORLD.md`, `world/MAP_AND_REGIONS.md`, `world/FACTIONS.md`, `INDEX.md`, and relevant NPC profiles.
+
+## 14. Guild, Trade, and Medical Service Networks
+
+These are owner-approved initial service placements. They establish local institutional presence only; they do not establish new roads, exact travel times, branch staffing, fees, exclusive jurisdiction, or guaranteed service availability. Route access must still be checked against the confirmed route network and current events.
+
+### 14.1 Spirit Hunters Guild
+
+The Spirit Hunters Guild is a contract-and-jobs organization, not a hunting-only body and not Tianhai's police force. Its initial Tianhai network consists of:
+
+- **Main contract office — Haiyue Market:** contract registration, job boards, verification of completion evidence, and matching temporary parties when suitable people are available.
+- **Harbor contract desk — Cangqiong Harbor:** shipping escorts, cargo protection, missing cargo/item searches, route reconnaissance, rescue support, and Spirit Beast-related contracts where locally justified.
+- **Freight and expedition desk — Westwake Anchorage:** short-term cargo, provisioning, escort, and expedition support for people operating through the harbor's outer service area.
+- **Outer-water notice point — Pearlstep Landing:** limited contract notices and referrals for small-vessel transfer, courier work, and maritime searches. It is not a full branch with guaranteed staff at all times.
+
+These are local service points under the same broad Guild concept. Do not infer uniform authority over Tianhai's military, harbor customs, clans, or Lawless Territories. Local contracts, rewards, staff, and operating hours are set by the scene or a later approved source.
+
+### 14.2 Independent trade associations
+
+Tianhai's trade associations are merchant and professional bodies, not a single monopoly or a branch of the Golden Dragon Empire's government. They coordinate commercial interests while the Maharaja's civil administration retains its established public responsibilities.
+
+| Association | Primary service area | Established remit | Boundary |
+|---|---|---|---|
+| **Haiyue Merchants' Association** | Haiyue Market | Merchant representation, commodity-quality disputes, bulk-order coordination, commercial notices, and introductions between buyers and sellers | Does not set universal prices, own Haiyue Market, or replace government revenue/customs offices |
+| **Cangqiong Shipowners and Freight Union** | Cangqiong Harbor and Westwake Anchorage | Freight coordination, cargo-handling standards, berth-service negotiations, crew referrals, and shipping-risk information | Does not control all ships, guarantee safe passage, or command harbor/security personnel |
+| **Linggong Artisans' Trade Association** | Linggong District, with commercial contacts at Haiyue Market | Links workshops and buyers, coordinates material specifications, bulk procurement, and repair-service referrals for craft and Artificial Artifact industries | Does not control the Tianhai Thinker Institute, certify every artifact, or grant Thinker Grade |
+| **Misty Shoals Fishers and Pilots Association** | Participating fishing and pilot communities in Misty Shoals | Shares practical fishing-market information, pilot availability, local-weather observations, and requests for supplies or repairs | Does not certify every route as safe or establish a permanent settlement/route where none is recorded |
+
+The associations may cooperate, compete, disagree over standards, or represent different members' interests. Their existence does not establish exclusive membership, fixed fees, exact prices, a unified leadership, or guaranteed agreement with one another. Any specific dispute or alliance must be established in play or a later owner-approved source.
+
+### 14.3 Medicine Hall Society and independent healers
+
+Medicine Hall Society maintains a neutral medical network in Tianhai, serving residents, sailors, ship crews, cultivators, workshop workers, and people injured in maritime or industrial accidents. Its initial service points are:
+
+- **Haiyue Market:** general consultations, medicine sourcing, and referrals for residents and visiting merchants.
+- **Cangqiong Harbor:** treatment and triage for sailors, cargo crews, and injuries associated with harbor work or voyages.
+- **Northwatch Quay:** practical first aid and referrals for patrol families, signal keepers, rescue crews, and small-boat workers.
+- **Westwake Anchorage:** treatment referrals for stevedores, ship-repair crews, and cargo workers.
+- **Bluefin Cove:** a small local medical contact for fishing families and residents of the outer waters; advanced treatment may require referral elsewhere.
+- **Pearlstep Landing:** a limited medical contact/referral point for travelers and small-vessel transfers, with availability dependent on local staffing and conditions.
+
+The Society's network is neutral in intent, not a promise of free treatment, unlimited supplies, perfect secrecy, or immunity from political pressure. Independent healers, family practitioners, and local herbalists may work outside the Society. Do not assume every healer is a member or that every listed point has a senior physician present at all times.
+
+### 14.4 Canon boundaries
+
+- The network above does not add or imply a branch of the **Grand Martial Soul Awakening Hall** in Tianhai. That institution's current canon remains centralized in the Golden Dragon Empire; its Tianhai status requires a separate owner decision.
+- Do not infer new routes between these points. Use `world/LOCATION_AND_ROUTE_NETWORK.md`, this module's confirmed route tables, `world/GEOGRAPHY_AND_TRAVEL.md`, and current events.
+- Do not invent named branch managers, doctors, guildmasters, association chairs, fees, prices, staffing levels, or office schedules as established canon.

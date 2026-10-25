@@ -1,7 +1,7 @@
-# Tianhai Yunzhou — Regional Staging Index
+# Tianhai Yunzhou — Regional Index
 
-**Scope:** Regional staging area for canon owned by Tianhai Yunzhou.
-**Status:** NPC profiles and the authoritative power-structure roster have been relocated here. This folder is inside `Antarezka/merzkava-universe`; it is not yet a separate GitHub repository. Do not claim the separate regional repository is created until it exists and is linked from the central INDEX.
+**Scope:** Navigation index for Tianhai Yunzhou canon and NPC references within `Antarezka/merzkava-universe`.
+**Status:** This is the permanent in-repository regional directory under the current architecture, not a staging area for an external repository. Regional facts remain in `world/REGION_TIANHAI_YUNZHOU.md` and its linked canonical modules; NPC registries and profiles are linked below.
 
 ## NPC loading order
 

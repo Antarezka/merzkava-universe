@@ -189,6 +189,7 @@ Jika sumber wajib gagal diakses, sebutkan file yang gagal dan jangan mengaku tel
 - `world/FACTIONS.md`
 - `world/SPIRIT_HUNTERS_GUILD.md`
 - `world/HISTORY.md`
+- `world/RUINED_ARCHIVER.md`
 - `world/DYNAMIC_EVENTS.md`
 - `templates/WORLD_EVENT_UPDATE_TEMPLATE.md`
 - `world/ARTIFACTS_AND_RELICS.md`

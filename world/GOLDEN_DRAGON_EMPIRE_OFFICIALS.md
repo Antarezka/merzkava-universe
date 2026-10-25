@@ -79,13 +79,15 @@ These 21 officers remain active after administrative consolidation. They are not
 |---|---|---|---|---|---|
 | Huanglong Prefecture — Huanglongcheng | Qin Yunsheng | Golden Wheat Spirit | Spirit Realm 6 — Spirit Ancestor, Early Stage | reformis dan pro-rakyat | berasal dari keluarga pejabat kecil dan naik lewat ujian administrasi; ingin memperluas pengaruh kantor dan anggaran wilayah. |
 | Jade Seal Prefecture — Yuxi | Qin Qingyuan | White Reed Deer | Spirit Realm 6 — Spirit Ancestor, Middle Stage | pragmatis, condong ke stabilitas takhta | dididik di akademi daerah, lalu bertugas di beberapa kantor perbatasan; ingin mengamankan jalur pangan dan perdagangan. |
-| Vermilion Gate Prefecture — Zhuque | Qin Jingtao | Blueglass Butterfly | Spirit Realm 6 — Spirit Ancestor, Late Stage | netral dan sangat prosedural | anak tabib desa yang menganggap kesehatan rakyat sebagai bagian dari ketahanan negara; ingin meninggalkan administrasi yang lebih bersih. |
-| Golden Terrace Prefecture — Jintai | Qin Tinglan | Jade Scale Serpent | Spirit Realm 6 — Spirit Ancestor, Peak Stage | dekat dengan kepentingan saudagar | berasal dari keluarga petani yang berhasil menyekolahkan anaknya ke ibu kota; ingin memperluas pengaruh kantor dan anggaran wilayah. |
-| River Crown Prefecture — Guanhe | Qin Yuchun | River Pearl Shell | Spirit Realm 6 — Spirit Ancestor, Early Stage | konservatif dan menghormati bangsawan | pernah mengatur perbaikan jalan setelah banjir dan mengutamakan manfaat jangka panjang; ingin mengamankan jalur pangan dan perdagangan. |
+| Local administrator — former Vermilion Gate Prefecture — Zhuque (seat retained) | Qin Jingtao | Blueglass Butterfly | Spirit Realm 6 — Spirit Ancestor, Late Stage | netral dan sangat prosedural | anak tabib desa yang menganggap kesehatan rakyat sebagai bagian dari ketahanan negara; ingin meninggalkan administrasi yang lebih bersih. |
+| Local administrator — former Golden Terrace Prefecture — Jintai (seat retained) | Qin Tinglan | Jade Scale Serpent | Spirit Realm 6 — Spirit Ancestor, Peak Stage | dekat dengan kepentingan saudagar | berasal dari keluarga petani yang berhasil menyekolahkan anaknya ke ibu kota; ingin memperluas pengaruh kantor dan anggaran wilayah. |
+| Local administrator — former River Crown Prefecture — Guanhe (seat retained) | Qin Yuchun | River Pearl Shell | Spirit Realm 6 — Spirit Ancestor, Early Stage | konservatif dan menghormati bangsawan | pernah mengatur perbaikan jalan setelah banjir dan mengutamakan manfaat jangka panjang; ingin mengamankan jalur pangan dan perdagangan. |
 
-#### County magistrates
+#### Retained local administrators (former county jurisdictions)
 
-| County jurisdiction / seat | Name | Martial Soul | Spirit Realm / Stage | Political stance | Background and agenda |
+The locality names in the first column are historical jurisdiction labels from the superseded 268-county register, not active county offices. These NPCs remain in the world and are retained as local magistrates, registry officers, judicial clerks, settlement administrators, or circuit deputies according to their existing skills and local needs. Their current exact appointment is not individually reassigned by this table; do not describe them as heads of 268 active counties.
+
+| Former county jurisdiction / locality | Name | Martial Soul | Spirit Realm / Stage | Political stance | Background and agenda |
 |---|---|---|---|---|---|
 | Huanglongcheng-Dong'an | Yue Haoran | Red Furnace Bear | Spirit Realm 3 — Spirit Elder, Early Stage | reformis dan pro-rakyat | berasal dari keluarga pejabat kecil dan naik lewat ujian administrasi; menyelesaikan sengketa warga sebelum membesar. |
 | Huanglongcheng-Xi'an | Yue Yunhe | Copperhorn Ox | Spirit Realm 3 — Spirit Elder, Late Stage | netral dan sangat prosedural | anak tabib desa yang menganggap kesehatan rakyat sebagai bagian dari ketahanan negara; menjaga akses air, jalan, dan pasar tetap terbuka. |
@@ -131,10 +133,10 @@ These 21 officers remain active after administrative consolidation. They are not
 |---|---|---|---|---|---|
 | Qinghe Prefecture — Qinghe | Qin Yongning | Mountain Bell | Spirit Realm 6 — Spirit Ancestor, Peak Stage | populis, mendengar keluhan rakyat kecil | dididik di akademi daerah, lalu bertugas di beberapa kantor perbatasan; ingin memperluas pengaruh kantor dan anggaran wilayah. |
 | Jiangbei Prefecture — Jiangbei | Qin Xingzhou | Cloudmirror Crane | Spirit Realm 6 — Spirit Ancestor, Early Stage | loyalis istana, namun menolak perintah ilegal | anak tabib desa yang menganggap kesehatan rakyat sebagai bagian dari ketahanan negara; ingin mengamankan jalur pangan dan perdagangan. |
-| Lianzhou Prefecture — Lianzhou | Qin Zhenhua | Flamecrest Falcon | Spirit Realm 6 — Spirit Ancestor, Middle Stage | berhati-hati dan gemar menyeimbangkan faksi | berasal dari keluarga petani yang berhasil menyekolahkan anaknya ke ibu kota; ingin meninggalkan administrasi yang lebih bersih. |
-| Mingchuan Prefecture — Mingchuan | Qin Shengyu | Golden Wheat Spirit | Spirit Realm 6 — Spirit Ancestor, Late Stage | berpihak pada pembangunan dan kesejahteraan | pernah mengatur perbaikan jalan setelah banjir dan mengutamakan manfaat jangka panjang; ingin memperluas pengaruh kantor dan anggaran wilayah. |
-| Yunshui Prefecture — Yunshui | Han Haoran | White Reed Deer | Spirit Realm 6 — Spirit Ancestor, Peak Stage | reformis dan pro-rakyat | pernah menolak tekanan keluarga kaya dalam perkara warisan, lalu dipindahkan ke jabatan baru; ingin mengamankan jalur pangan dan perdagangan. |
-| Shuangjiang Prefecture — Shuangjiang | Han Mingxuan | Blueglass Butterfly | Spirit Realm 6 — Spirit Ancestor, Early Stage | pragmatis, condong ke stabilitas takhta | mantan pengelola lumbung yang terkenal teliti saat bencana pangan; ingin meninggalkan administrasi yang lebih bersih. |
+| Local administrator — former Lianzhou Prefecture — Lianzhou (seat retained) | Qin Zhenhua | Flamecrest Falcon | Spirit Realm 6 — Spirit Ancestor, Middle Stage | berhati-hati dan gemar menyeimbangkan faksi | berasal dari keluarga petani yang berhasil menyekolahkan anaknya ke ibu kota; ingin meninggalkan administrasi yang lebih bersih. |
+| Local administrator — former Mingchuan Prefecture — Mingchuan (seat retained) | Qin Shengyu | Golden Wheat Spirit | Spirit Realm 6 — Spirit Ancestor, Late Stage | berpihak pada pembangunan dan kesejahteraan | pernah mengatur perbaikan jalan setelah banjir dan mengutamakan manfaat jangka panjang; ingin memperluas pengaruh kantor dan anggaran wilayah. |
+| Local administrator — former Yunshui Prefecture — Yunshui (seat retained) | Han Haoran | White Reed Deer | Spirit Realm 6 — Spirit Ancestor, Peak Stage | reformis dan pro-rakyat | pernah menolak tekanan keluarga kaya dalam perkara warisan, lalu dipindahkan ke jabatan baru; ingin mengamankan jalur pangan dan perdagangan. |
+| Local administrator — former Shuangjiang Prefecture — Shuangjiang (seat retained) | Han Mingxuan | Blueglass Butterfly | Spirit Realm 6 — Spirit Ancestor, Early Stage | pragmatis, condong ke stabilitas takhta | mantan pengelola lumbung yang terkenal teliti saat bencana pangan; ingin meninggalkan administrasi yang lebih bersih. |
 
 #### County magistrates
 
@@ -196,8 +198,8 @@ These 21 officers remain active after administrative consolidation. They are not
 |---|---|---|---|---|---|
 | Jadevein Prefecture — Yumai | Han Shuying | Sapphire Minnow | Spirit Realm 5 — Spirit King, Early Stage | berorientasi pada pertahanan wilayah | pernah mengatur perbaikan jalan setelah banjir dan mengutamakan manfaat jangka panjang; ingin meninggalkan administrasi yang lebih bersih. |
 | Ironcloud Prefecture — Tieyun | Han Zhaolin | Mountain Bell | Spirit Realm 5 — Spirit King, Middle Stage | condong ke akademisi dan meritokrasi | pernah menolak tekanan keluarga kaya dalam perkara warisan, lalu dipindahkan ke jabatan baru; ingin memperluas pengaruh kantor dan anggaran wilayah. |
-| Goldsand Prefecture — Jinsha | Han Chengzhi | Flamecrest Falcon | Spirit Realm 5 — Spirit King, Peak Stage | loyalis istana, namun menolak perintah ilegal | pernah menyaksikan sengketa tanah berkepanjangan, sehingga menekankan pencatatan bukti; ingin meninggalkan administrasi yang lebih bersih. |
-| Spirit Ore Prefecture — Lingkuang | Han Yucheng | Golden Wheat Spirit | Spirit Realm 5 — Spirit King, Early Stage | berhati-hati dan gemar menyeimbangkan faksi | pernah bertugas mengawasi jalur dagang dan memahami praktik pungutan liar; ingin memperluas pengaruh kantor dan anggaran wilayah. |
+| Local administrator — former Goldsand Prefecture — Jinsha (seat retained) | Han Chengzhi | Flamecrest Falcon | Spirit Realm 5 — Spirit King, Peak Stage | loyalis istana, namun menolak perintah ilegal | pernah menyaksikan sengketa tanah berkepanjangan, sehingga menekankan pencatatan bukti; ingin meninggalkan administrasi yang lebih bersih. |
+| Local administrator — former Spirit Ore Prefecture — Lingkuang (seat retained) | Han Yucheng | Golden Wheat Spirit | Spirit Realm 5 — Spirit King, Early Stage | berhati-hati dan gemar menyeimbangkan faksi | pernah bertugas mengawasi jalur dagang dan memahami praktik pungutan liar; ingin memperluas pengaruh kantor dan anggaran wilayah. |
 
 #### County magistrates
 
@@ -241,8 +243,8 @@ These 21 officers remain active after administrative consolidation. They are not
 |---|---|---|---|---|---|
 | Heavenly Script Prefecture — Tianshu | Han Zhenyu | White Reed Deer | Spirit Realm 6 — Spirit Ancestor, Late Stage | pragmatis, condong ke stabilitas takhta | pernah mengatur perbaikan jalan setelah banjir dan mengutamakan manfaat jangka panjang; ingin mengamankan jalur pangan dan perdagangan. |
 | Cloud Summit Prefecture — Yunding | Han Yueqin | Blueglass Butterfly | Spirit Realm 6 — Spirit Ancestor, Peak Stage | netral dan sangat prosedural | pernah menolak tekanan keluarga kaya dalam perkara warisan, lalu dipindahkan ke jabatan baru; ingin meninggalkan administrasi yang lebih bersih. |
-| Scholar's River Prefecture — Wenchuan | Han Jingheng | Jade Scale Serpent | Spirit Realm 6 — Spirit Ancestor, Early Stage | dekat dengan kepentingan saudagar | mantan pengelola lumbung yang terkenal teliti saat bencana pangan; ingin memperluas pengaruh kantor dan anggaran wilayah. |
-| Pine Ink Prefecture — Songmo | Han Sheng'an | River Pearl Shell | Spirit Realm 6 — Spirit Ancestor, Middle Stage | konservatif dan menghormati bangsawan | pernah menyaksikan sengketa tanah berkepanjangan, sehingga menekankan pencatatan bukti; ingin mengamankan jalur pangan dan perdagangan. |
+| Local administrator — former Scholar's River Prefecture — Wenchuan (seat retained) | Han Jingheng | Jade Scale Serpent | Spirit Realm 6 — Spirit Ancestor, Early Stage | dekat dengan kepentingan saudagar | mantan pengelola lumbung yang terkenal teliti saat bencana pangan; ingin memperluas pengaruh kantor dan anggaran wilayah. |
+| Local administrator — former Pine Ink Prefecture — Songmo (seat retained) | Han Sheng'an | River Pearl Shell | Spirit Realm 6 — Spirit Ancestor, Middle Stage | konservatif dan menghormati bangsawan | pernah menyaksikan sengketa tanah berkepanjangan, sehingga menekankan pencatatan bukti; ingin mengamankan jalur pangan dan perdagangan. |
 
 #### County magistrates
 
@@ -292,8 +294,8 @@ These 21 officers remain active after administrative consolidation. They are not
 |---|---|---|---|---|---|
 | Red Furnace Prefecture — Honglu | Han Qinghe | Cloudmirror Crane | Spirit Realm 7 — Spirit Emperor, Middle Stage | loyalis istana, namun menolak perintah ilegal | pernah menolak tekanan keluarga kaya dalam perkara warisan, lalu dipindahkan ke jabatan baru; ingin mengamankan jalur pangan dan perdagangan. |
 | Ashen Peak Prefecture — Huifeng | Han Xuefeng | Flamecrest Falcon | Spirit Realm 7 — Spirit Emperor, Late Stage | berhati-hati dan gemar menyeimbangkan faksi | mantan pengelola lumbung yang terkenal teliti saat bencana pangan; ingin meninggalkan administrasi yang lebih bersih. |
-| Molten River Prefecture — Rongjiang | Han Lingyun | Golden Wheat Spirit | Spirit Realm 7 — Spirit Emperor, Peak Stage | berpihak pada pembangunan dan kesejahteraan | pernah menyaksikan sengketa tanah berkepanjangan, sehingga menekankan pencatatan bukti; ingin memperluas pengaruh kantor dan anggaran wilayah. |
-| Black Anvil Prefecture — Heitie | Han Yanzhao | White Reed Deer | Spirit Realm 7 — Spirit Emperor, Early Stage | reformis dan pro-rakyat | pernah bertugas mengawasi jalur dagang dan memahami praktik pungutan liar; ingin mengamankan jalur pangan dan perdagangan. |
+| Local administrator — former Molten River Prefecture — Rongjiang (seat retained) | Han Lingyun | Golden Wheat Spirit | Spirit Realm 7 — Spirit Emperor, Peak Stage | berpihak pada pembangunan dan kesejahteraan | pernah menyaksikan sengketa tanah berkepanjangan, sehingga menekankan pencatatan bukti; ingin memperluas pengaruh kantor dan anggaran wilayah. |
+| Local administrator — former Black Anvil Prefecture — Heitie (seat retained) | Han Yanzhao | White Reed Deer | Spirit Realm 7 — Spirit Emperor, Early Stage | reformis dan pro-rakyat | pernah bertugas mengawasi jalur dagang dan memahami praktik pungutan liar; ingin mengamankan jalur pangan dan perdagangan. |
 
 #### County magistrates
 
@@ -342,9 +344,9 @@ These 21 officers remain active after administrative consolidation. They are not
 | Prefecture / seat | Name | Martial Soul | Spirit Realm / Stage | Political stance | Background and agenda |
 |---|---|---|---|---|---|
 | Northwatch Prefecture — Beiguan | Han Qingyuan | River Pearl Shell | Spirit Realm 5 — Spirit King, Early Stage | tegas terhadap korupsi tetapi kompromistis dalam politik | mantan pengelola lumbung yang terkenal teliti saat bencana pangan; ingin mengamankan jalur pangan dan perdagangan. |
-| Iron Pass Prefecture — Tieguan | Han Jingtao | Sapphire Minnow | Spirit Realm 5 — Spirit King, Middle Stage | berorientasi pada pertahanan wilayah | pernah menyaksikan sengketa tanah berkepanjangan, sehingga menekankan pencatatan bukti; ingin meninggalkan administrasi yang lebih bersih. |
-| Stonewall Prefecture — Shibi | Han Tinglan | Mountain Bell | Spirit Realm 5 — Spirit King, Late Stage | condong ke akademisi dan meritokrasi | pernah bertugas mengawasi jalur dagang dan memahami praktik pungutan liar; ingin memperluas pengaruh kantor dan anggaran wilayah. |
-| Falcon Ridge Prefecture — Yingshan | Han Yuchun | Cloudmirror Crane | Spirit Realm 5 — Spirit King, Peak Stage | populis, mendengar keluhan rakyat kecil | dibina seorang mentor hukum yang mengajarkannya membedakan hukum dan kehendak elite; ingin mengamankan jalur pangan dan perdagangan. |
+| Local administrator — former Iron Pass Prefecture — Tieguan (seat retained) | Han Jingtao | Sapphire Minnow | Spirit Realm 5 — Spirit King, Middle Stage | berorientasi pada pertahanan wilayah | pernah menyaksikan sengketa tanah berkepanjangan, sehingga menekankan pencatatan bukti; ingin meninggalkan administrasi yang lebih bersih. |
+| Local administrator — former Stonewall Prefecture — Shibi (seat retained) | Han Tinglan | Mountain Bell | Spirit Realm 5 — Spirit King, Late Stage | condong ke akademisi dan meritokrasi | pernah bertugas mengawasi jalur dagang dan memahami praktik pungutan liar; ingin memperluas pengaruh kantor dan anggaran wilayah. |
+| Local administrator — former Falcon Ridge Prefecture — Yingshan (seat retained) | Han Yuchun | Cloudmirror Crane | Spirit Realm 5 — Spirit King, Peak Stage | populis, mendengar keluhan rakyat kecil | dibina seorang mentor hukum yang mengajarkannya membedakan hukum dan kehendak elite; ingin mengamankan jalur pangan dan perdagangan. |
 | Long Pass Prefecture — Changguan | Han Yongning | Golden Wheat Spirit | Spirit Realm 5 — Spirit King, Middle Stage | berhati-hati dan gemar menyeimbangkan faksi | dibesarkan di keluarga pengangkut barang sungai; memahami beban pajak dan logistik; ingin memperluas pengaruh kantor dan anggaran wilayah. |
 
 #### County magistrates
@@ -400,10 +402,10 @@ These 21 officers remain active after administrative consolidation. They are not
 | Prefecture / seat | Name | Martial Soul | Spirit Realm / Stage | Political stance | Background and agenda |
 |---|---|---|---|---|---|
 | Eastern Star Prefecture — Dongxing | Han Zhenhua | Blueglass Butterfly | Spirit Realm 6 — Spirit Ancestor, Early Stage | netral dan sangat prosedural | pernah bertugas mengawasi jalur dagang dan memahami praktik pungutan liar; ingin meninggalkan administrasi yang lebih bersih. |
-| Pearl Harbor Prefecture — Mingzhu | Han Shengyu | Jade Scale Serpent | Spirit Realm 6 — Spirit Ancestor, Middle Stage | dekat dengan kepentingan saudagar | dibina seorang mentor hukum yang mengajarkannya membedakan hukum dan kehendak elite; ingin memperluas pengaruh kantor dan anggaran wilayah. |
-| Blue Sail Prefecture — Lanfan | Su Haoran | River Pearl Shell | Spirit Realm 6 — Spirit Ancestor, Late Stage | konservatif dan menghormati bangsawan | dibesarkan dekat garnisun, tetapi memilih jalur sipil dan menjaga batas dengan militer; ingin mengamankan jalur pangan dan perdagangan. |
-| Tidegate Prefecture — Chaoguan | Su Mingxuan | Sapphire Minnow | Spirit Realm 6 — Spirit Ancestor, Peak Stage | tegas terhadap korupsi tetapi kompromistis dalam politik | dibesarkan di keluarga pengangkut barang sungai; memahami beban pajak dan logistik; ingin meninggalkan administrasi yang lebih bersih. |
-| Saltwind Prefecture — Yanfeng | Su Jingyu | Mountain Bell | Spirit Realm 6 — Spirit Ancestor, Early Stage | berorientasi pada pertahanan wilayah | berasal dari keluarga pengrajin; menaruh perhatian pada standar kerja dan harga bahan; ingin memperluas pengaruh kantor dan anggaran wilayah. |
+| Local administrator — former Pearl Harbor Prefecture — Mingzhu (seat retained) | Han Shengyu | Jade Scale Serpent | Spirit Realm 6 — Spirit Ancestor, Middle Stage | dekat dengan kepentingan saudagar | dibina seorang mentor hukum yang mengajarkannya membedakan hukum dan kehendak elite; ingin memperluas pengaruh kantor dan anggaran wilayah. |
+| Local administrator — former Blue Sail Prefecture — Lanfan (seat retained) | Su Haoran | River Pearl Shell | Spirit Realm 6 — Spirit Ancestor, Late Stage | konservatif dan menghormati bangsawan | dibesarkan dekat garnisun, tetapi memilih jalur sipil dan menjaga batas dengan militer; ingin mengamankan jalur pangan dan perdagangan. |
+| Local administrator — former Tidegate Prefecture — Chaoguan (seat retained) | Su Mingxuan | Sapphire Minnow | Spirit Realm 6 — Spirit Ancestor, Peak Stage | tegas terhadap korupsi tetapi kompromistis dalam politik | dibesarkan di keluarga pengangkut barang sungai; memahami beban pajak dan logistik; ingin meninggalkan administrasi yang lebih bersih. |
+| Local administrator — former Saltwind Prefecture — Yanfeng (seat retained) | Su Jingyu | Mountain Bell | Spirit Realm 6 — Spirit Ancestor, Early Stage | berorientasi pada pertahanan wilayah | berasal dari keluarga pengrajin; menaruh perhatian pada standar kerja dan harga bahan; ingin memperluas pengaruh kantor dan anggaran wilayah. |
 
 #### County magistrates
 
@@ -460,7 +462,7 @@ These 21 officers remain active after administrative consolidation. They are not
 
 - **Emperor and central offices:** all seven central heads hold delegated portfolios; disagreement over methods is possible, but none is above the Emperor's sovereignty. The Ministry of Military Affairs administers and coordinates military matters; field command remains with the separate High Command.
 - **Governors and prefects:** governors coordinate policy across their region. Prefects may resist a governor's proposal through lawful reports or petitions, but do not automatically command the regional military.
-- **Prefects and magistrates:** prefects review cross-county matters and local administration; magistrates manage county-level civil work. Their political differences may produce negotiation, audits, obstruction, or cooperation depending on the facts and evidence.
+- **Prefectural and local administrators:** the twelve active prefects coordinate their prefectures. The six county-circuit offices coordinate cross-prefecture services. Former prefects and former county magistrates remain NPCs in subordinate, advisory, local, or former-office roles; their political differences may produce negotiation, audits, obstruction, or cooperation depending on facts and evidence.
 - **Faction ties:** the roster deliberately does not assign every official to a clan. Shared region, Martial Soul motif, or professional focus is not evidence of kinship or secret allegiance. Specific clan ties must be added only if separately established.
 - **Public accountability:** reformist or pro-people officials can still make mistakes or pursue self-interest; conservative or pro-stability officials are not automatically villains. NPC behavior should follow their written motives, available information, and consequences.
 - **Administrative names:** the atlas remains authoritative for the seven regions, 33 prefectures, and 268 county jurisdictions. If a seat or jurisdiction is renamed, update this roster and the atlas together.

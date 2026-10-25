@@ -22,7 +22,7 @@
 ## 2A. Administrative Register
 
 - **Regional administrative seat:** Honglu
-- **Population planning estimate:** 36 juta (part of the Golden Dragon Empire-wide 320-million baseline; see the atlas for caveats)
+- **Population planning estimate:** 36 juta (part of the Golden Dragon Empire's 320-million population baseline; see the atlas for caveats)
 - **Prefectures:** 2
 - **County circuit:** Furnace Mountains Circuit
 - **Cities:** Not separately counted in the simplified register; former seats remain settlements or service hubs.

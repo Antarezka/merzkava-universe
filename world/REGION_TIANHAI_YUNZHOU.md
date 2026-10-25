@@ -106,13 +106,37 @@ This registry is the canonical index for major and recurring Tianhai NPCs. Creat
 
 When creating family, court, clan, or institutional NPCs, keep public information, the NPC's own knowledge, mistaken beliefs, player-character knowledge, and GM-only secrets separate. Check `world/NPC_MANAGEMENT.md` and `templates/NPC_PROFILE_TEMPLATE.md`.
 
-## 10. Current Situations and Events
+## 10. Provisional Owner Discussion Notes — NOT CANON
+
+**Status:** Working notes saved at the owner's request for continuity. These details are proposals under discussion, not established canon. Do not use them as confirmed world facts in gameplay or other canon modules until the owner explicitly approves them.
+
+### Maharaja candidate: Ji Haoyuan
+
+- **Candidate name:** Ji Haoyuan. Not canon-approved.
+- **Proposed core temperament:** Visionary leader.
+- **Proposed Thinker Grade:** Grade 10, the highest Thinker Grade; reaching it requires exceptionally demanding qualifications.
+- **Tianhai distribution under discussion:** Four Thinker Grade 10 individuals in Tianhai Yunzhou, including Ji Haoyuan if this character concept is retained.
+- **Floating-island support artifact:** The artifact was created by the Maharaja's ancestor, not by Ji Haoyuan. As a Thinker Grade 10, Ji Haoyuan is nevertheless capable of creating Artificial Artifacts himself. No specific artifact he has created, nor equivalence with the ancestral island-support artifact, has been established.
+- **Leadership direction:** Visionary. Other personality details, family, spouse, children, succession, age, appearance, history, relationships, and specific inventions remain undecided.
+
+### Thinker distribution by power — provisional discussion figures
+
+| Power | Thinker distribution under discussion | Notes |
+|---|---|---|
+| Tianhai Yunzhou | 4 Thinker Grade 10 | Grade 10 is the highest grade and has exceptionally demanding requirements. |
+| Golden Dragon Empire | 1 Thinker Grade 9; 6 Thinker Grade 8 | Counts for other grades have not been specified. |
+| Beiming Gu | 2 Thinker Grade 9; others currently described as Grade 4 and Grade 5 | Exact counts by grade remain unspecified. |
+| Lawless Territories | At least a known presence of Thinker Grade 9; total number unknown | Exact count and distribution remain unknown. |
+
+These figures are saved as provisional owner discussion notes only. Do not silently promote them into `world/WORLD.md`, `core/THINKER_AND_FORMULATION.md`, rankings, institutional rosters, or other canon files before explicit approval.
+
+## 11. Current Situations and Events
 
 - **Local conflicts, succession disputes, active investigations, wars, and current officeholders:** Not established.
 - Check `world/DYNAMIC_EVENTS.md` for active shared-world events; do not create persistent events in this regional module.
 - Persistent consequences require the official event/history process and owner approval.
 
-## 11. Confirmed Routes and Location Network
+## 12. Confirmed Routes and Location Network
 
 Use `world/LOCATION_AND_ROUTE_NETWORK.md` for the canonical route format and validation procedure. No exact internal district-to-district connections, island routes, port links, or travel durations are confirmed by this module.
 
@@ -122,7 +146,7 @@ Use `world/LOCATION_AND_ROUTE_NETWORK.md` for the canonical route format and val
 
 When adding routes, verify terrain, vertical movement across the floating island, transport availability, intermediate locations, access restrictions, economic rationale, and current events. Do not infer that every district or settlement connects directly to every other one.
 
-## 12. Owner Completion Checklist
+## 13. Owner Completion Checklist
 
 - [ ] Establish the Maharaja's personal name and canonical NPC profile.
 - [ ] Add the ruling family and family relationships after owner confirmation.

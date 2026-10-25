@@ -101,34 +101,41 @@ This registry is the canonical index for major and recurring Tianhai NPCs. Creat
 
 | Public name / identity | Location | Role | Affiliation | Profile / source | Status |
 |---|---|---|---|---|---|
-| Maharaja of Tianhai Yunzhou (personal name TBD) | Yunxiao Terrace — district function established; personal whereabouts not independently confirmed | Ruler | Tianhai Yunzhou | `world/WORLD.md`; full NPC profile pending | Established title and capabilities; identity details pending |
-| Other NPCs | Not established | Not established | Not established | — | Pending owner development |
+| Ji Haoyuan | Yunxiao Terrace official quarter; whereabouts unconfirmed | Maharaja; visionary leader | Tianhai Yunzhou; ruling Ji family | `world/NPC_JI_HAOYUAN.md` | Canon; living |
+| Bai Xuanyin | Deceased; died during Great Tianhai War | Thinker Grade 10; revered heroine and artifact creator | Tianhai Yunzhou; Ji family by marriage | `world/NPC_BAI_XUANYIN.md` | Canon; deceased |
+| Ji Zhaoning | Whereabouts unconfirmed | Elder twin princess; focused on Thinker development; not awakened | Ruling Ji family | `world/NPC_JI_ZHAONING.md` | Canon; living, age 16 |
+| Ji Ningzhao | Whereabouts unconfirmed | Younger twin princess; awakened cultivator | Ruling Ji family | `world/NPC_JI_NINGZHAO.md` | Canon; living, age 16; Spirit Realm 3 Early Stage |
 
 When creating family, court, clan, or institutional NPCs, keep public information, the NPC's own knowledge, mistaken beliefs, player-character knowledge, and GM-only secrets separate. Check `world/NPC_MANAGEMENT.md` and `templates/NPC_PROFILE_TEMPLATE.md`.
 
-## 10. Provisional Owner Discussion Notes — NOT CANON
+## 10. Canonical Ruling Family and Great Tianhai War
 
-**Status:** Working notes saved at the owner's request for continuity. These details are proposals under discussion, not established canon. Do not use them as confirmed world facts in gameplay or other canon modules until the owner explicitly approves them.
+These details are owner-approved canon. Full biographies are maintained in the linked NPC profiles.
 
-### Maharaja candidate: Ji Haoyuan
+### Maharaja Ji Haoyuan
+- Maharaja of Tianhai Yunzhou and a visionary leader.
+- Martial Soul: Heavenly Sky Whale. Spirit Realm 9 — Spirit Primordial, Early Stage. Thinker Grade 10.
+- The Tier 9 Artificial Artifact sustaining the floating island was created by one of his ancestors, not Ji Haoyuan. His Thinker Grade 10 makes him capable of creating Artificial Artifacts, but no specific personal creation is established.
+- Full profile: `world/NPC_JI_HAOYUAN.md`.
 
-- **Candidate name:** Ji Haoyuan. Not canon-approved.
-- **Proposed core temperament:** Visionary leader.
-- **Proposed Thinker Grade:** Grade 10, the highest Thinker Grade; reaching it requires exceptionally demanding qualifications.
-- **Tianhai distribution under discussion:** Four Thinker Grade 10 individuals in Tianhai Yunzhou, including Ji Haoyuan if this character concept is retained.
-- **Floating-island support artifact:** The artifact was created by the Maharaja's ancestor, not by Ji Haoyuan. As a Thinker Grade 10, Ji Haoyuan is nevertheless capable of creating Artificial Artifacts himself. No specific artifact he has created, nor equivalence with the ancestral island-support artifact, has been established.
-- **Leadership direction:** Visionary. Other personality details, family, spouse, children, succession, age, appearance, history, relationships, and specific inventions remain undecided.
+### Bai Xuanyin — revered heroine of Tianhai
+- Ji Haoyuan's wife and the mother of their twin daughters. She died during the Great Tianhai War and is greatly honored as a hero.
+- Spirit Realm 7 — Spirit Emperor; Thinker Grade 10. Her Stage, Martial Soul, and Spirit Rings are not established.
+- She created a weapon-type Artificial Artifact described by the owner as the strongest weapon-type Artificial Artifact in the world. Its name, tier, specifications, and current custodian are unknown. She also created Artificial Artifact armor still used by Tianhai soldiers and contributed to Tianhai's giant protective dome. Exact artifact names, tiers, and technical details remain unspecified.
+- Full profile: `world/NPC_BAI_XUANYIN.md`.
 
-### Thinker distribution by power — provisional discussion figures
+### Twin daughters
+- Ji Zhaoning and Ji Ningzhao are twin daughters of Ji Haoyuan and Bai Xuanyin. Both are 16, have golden eyes, and possess extraordinary intelligence.
+- **Ji Zhaoning, elder twin:** Has not undergone Martial Soul Awakening because she has been busy developing her Thinker Grade and Thinker abilities. Her actual Thinker Grade is not established. Full profile: `world/NPC_JI_ZHAONING.md`.
+- **Ji Ningzhao, younger twin:** Awakened; Spirit Realm 3 — Spirit Elder, Early Stage. Martial Soul: **Canglan Shenhua (沧澜神花), Bunga Ilahi Ombak Biru**. Specific powers, rarity, Spirit Rings, and techniques remain unspecified. Full profile: `world/NPC_JI_NINGZHAO.md`.
 
-| Power | Thinker distribution under discussion | Notes |
-|---|---|---|
-| Tianhai Yunzhou | 4 Thinker Grade 10 | Grade 10 is the highest grade and has exceptionally demanding requirements. |
-| Golden Dragon Empire | 1 Thinker Grade 9; 6 Thinker Grade 8 | Counts for other grades have not been specified. |
-| Beiming Gu | 2 Thinker Grade 9; others currently described as Grade 4 and Grade 5 | Exact counts by grade remain unspecified. |
-| Lawless Territories | At least a known presence of Thinker Grade 9; total number unknown | Exact count and distribution remain unknown. |
+### The Great Tianhai War
+- Three Tier 9 Demonic Beasts sought to invade and devastate Tianhai. Tianhai fought against the invasion, and Bai Xuanyin died during the war.
+- Her artifact contributions remain in use by Tianhai's soldiers and defenses, including armor and the giant protective dome.
+- Not established: exact date, duration, battlefield, identities of the three beasts, detailed battle sequence, full outcome, exact circumstances of Bai Xuanyin's death, and the name/tier/specifications of her greatest weapon.
 
-These figures are saved as provisional owner discussion notes only. Do not silently promote them into `world/WORLD.md`, `core/THINKER_AND_FORMULATION.md`, rankings, institutional rosters, or other canon files before explicit approval.
+### Thinker distribution notes
+Previously discussed counts for Thinker Grades across Tianhai Yunzhou, Golden Dragon Empire, Beiming Gu, and the Lawless Territories remain discussion-only, not canon.
 
 ## 11. Current Situations and Events
 
@@ -148,8 +155,8 @@ When adding routes, verify terrain, vertical movement across the floating island
 
 ## 13. Owner Completion Checklist
 
-- [ ] Establish the Maharaja's personal name and canonical NPC profile.
-- [ ] Add the ruling family and family relationships after owner confirmation.
+- [x] Establish the Maharaja's personal name and canonical NPC profile.
+- [x] Add the ruling family and family relationships after owner confirmation.
 - [ ] Build the court and official roster without inventing unsupported offices.
 - [ ] Develop the twelve clans' leaders, family structures, and relationships.
 - [ ] Establish Thinker academies, research bodies, workshops, and teaching pathways.

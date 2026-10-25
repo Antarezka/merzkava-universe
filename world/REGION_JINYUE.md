@@ -27,7 +27,7 @@
 - **County circuit:** Mineral Lands Circuit
 - **Cities:** Not separately counted in the simplified register; former seats remain settlements or service hubs.
 - **Small towns:** Not a separate official administrative tier.
-- **Named rural villages listed in this atlas:** 5
+- **Official named rural villages in this region:** 2
 - **Other rural settlements:** Unenumerated; do not generate or count thousands of named villages by default
 - **Full official register:** `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
 
@@ -58,17 +58,17 @@ The official prefecture seats are only those listed in `world/GOLDEN_DRAGON_EMPI
 | Lingkuang | City / settlement hub | Lingkuang remains a mining and materials hub under Ironcloud Prefecture | Imperial civil administration; local detail pending |
 
 
-### Named rural villages
+### Official Villages and Other Local Settlements
 
-This is the region's compact named village roster. Other former village names remain local settlements or hamlets unless separately promoted back into the official thirteen-village register. Village status does not imply permanent public services or a named leader.
+Only 2 villages are part of the Empire's official thirteen-village register in this region. Other named places listed below are hamlets/local settlements, not additional official villages. Their local functions and route connections remain usable, but they must not be counted as official villages. Permanent public services or named leaders are not implied.
 
 | Settlement | Type | Established role | Authority / status |
 |---|---|---|---|
 | Orebrook Village | Rural village | Ore sorting and mule-cart supply | Local community; detailed NPCs and services pending |
 | Jade Hollow Village | Rural village | Small-scale stone and jade work | Local community; detailed NPCs and services pending |
-| Copper Bell Village | Rural village | peleburan kecil dan perbaikan alat tambang | tanjakan ke Ironcloud; gerobak berat perlu hewan penarik |
-| Deep Jade Village | Rural village | pemilah batu dan pengrajin ukiran | jalur pegunungan dari Yumai; kabut menutup lintasan |
-| Ash Mule Village | Rural village | kandang hewan angkut, pandai besi, gudang mineral | simpang karavan Lingkuang–Orebrook |
+| Copper Bell Hamlet | Hamlet / local settlement | peleburan kecil dan perbaikan alat tambang | tanjakan ke Ironcloud; gerobak berat perlu hewan penarik |
+| Deep Jade Hamlet | Hamlet / local settlement | pemilah batu dan pengrajin ukiran | jalur pegunungan dari Yumai; kabut menutup lintasan |
+| Ash Mule Hamlet | Hamlet / local settlement | kandang hewan angkut, pandai besi, gudang mineral | simpang karavan Lingkuang–Orebrook |
 ## 4. Local Society and Daily Life
 
 - Penambang, pemilah bijih, pengangkut, pemahat, pandai besi, pemeriksa keselamatan, dan keluarga pekerja mendominasi kota industri. Pergantian sif mengatur keramaian.

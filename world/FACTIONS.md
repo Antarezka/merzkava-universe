@@ -82,7 +82,7 @@ The following twelve clans and their spheres of influence are established in `wo
 | Shuijing Clan | Materials processing and craftsmanship |
 | Leiyu Clan | Combat techniques and offensive power |
 
-Clan leaders, family trees, heirs, territories, membership, internal branches, formal rivalries, alliances, and marriage ties remain unestablished unless confirmed in a dedicated source or owner-approved NPC profile.
+The current clan heads are listed in `world/NPC_TIANHAI_POWER_STRUCTURE.md`. Family trees, heirs, territories, membership, internal branches, formal rivalries, alliances, and marriage ties remain unestablished unless confirmed in a dedicated source or owner-approved NPC profile.
 
 ### Dojos
 
@@ -92,7 +92,7 @@ Clan leaders, family trees, heirs, territories, membership, internal branches, f
 - **Azure Sail Dojo:** Movement, coordination, and sailing-related techniques.
 - **Deepwater Dojo:** Durability and techniques adapted to aquatic conditions.
 
-Current masters, instructors, students, property ownership, clan ties, and formal political status remain unconfirmed. A dojo's name alone does not establish a relationship to a similarly named clan or to the ruling family.
+The five current dojo masters are listed in `world/NPC_TIANHAI_POWER_STRUCTURE.md`. Other instructors, students, property ownership, clan ties, and formal political status remain unconfirmed. A dojo's name alone does not establish a relationship to a similarly named clan or to the ruling family.
 
 ## 5. Beiming Gu Clans and Dojos
 

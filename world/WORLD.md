@@ -59,17 +59,17 @@ III. GOLDEN DRAGON EMPIRE
 
 Golden Dragon Empire adalah kekaisaran besar di wilayah timur. Kekuatannya bersumber dari pemerintahan terpusat, populasi besar, pertanian, perdagangan darat, industri, akademi kultivasi, serta jaringan klan dan dojo.
 
-Kaisar merupakan penguasa tertinggi kekaisaran. Namun, wilayah yang luas membuat pelaksanaan kekuasaan bergantung pada pejabat, gubernur, komandan, klan, dan lembaga lokal.
+Kaisar merupakan penguasa tertinggi Golden Dragon Empire. Namun, wilayah yang luas membuat pelaksanaan kekuasaan bergantung pada pejabat, gubernur, komandan, klan, dan lembaga lokal.
 
 Tidak semua klan memiliki loyalitas mutlak kepada takhta. Kepentingan keluarga, persaingan politik, sumber daya, dan ambisi individu dapat memengaruhi hubungan mereka dengan istana.
 
-Kekaisaran memiliki kapasitas produksi dan mobilisasi yang besar, tetapi luasnya wilayah juga menimbulkan tantangan administrasi, keamanan, korupsi, serta pengendalian perbatasan.
+Golden Dragon Empire memiliki kapasitas produksi dan mobilisasi yang besar, tetapi luasnya wilayah juga menimbulkan tantangan administrasi, keamanan, korupsi, serta pengendalian perbatasan.
 
 3.2 Seven Imperial Regions
 
 1. Longyuan — Imperial Heartland
 
-Pusat pemerintahan, administrasi kekaisaran, kediaman bangsawan, dan institusi politik utama.
+Pusat pemerintahan, administrasi Golden Dragon Empire, kediaman bangsawan, dan institusi politik utama.
 
 2. Canglan — Riverlands
 
@@ -99,7 +99,7 @@ Pembagian ini merupakan kerangka geografis awal. Kota, kabupaten, desa, dan jalu
 
 3.3 Imperial Clans
 
-Kekaisaran memiliki banyak keluarga dan klan. Dua belas klan berikut merupakan kelompok penting dalam fondasi awal dunia, bukan keseluruhan klan yang ada.
+Golden Dragon Empire memiliki banyak keluarga dan klan. Dua belas klan berikut merupakan kelompok penting dalam fondasi awal dunia, bukan keseluruhan klan yang ada.
 
 Klan| Bidang pengaruh utama
 Jinlong Clan| Keluarga elite dan hubungan dengan kekuasaan pusat
@@ -113,7 +113,7 @@ Shenmu Clan| Sumber daya alam dan ramuan
 Heiyu Clan| Intelijen dan jaringan rahasia
 Zhenhai Clan| Pertahanan pesisir
 Qingluan Clan| Diplomasi dan hubungan antarkeluarga
-Longxi Clan| Kepentingan wilayah barat kekaisaran
+Longxi Clan| Kepentingan wilayah barat Golden Dragon Empire
 
 Fungsi di atas menggambarkan spesialisasi atau pengaruh yang dikenal. Fungsi tersebut tidak berarti seluruh anggota klan memiliki profesi, kemampuan, atau loyalitas yang identik.
 
@@ -754,7 +754,7 @@ Thinker adalah jalur kemajuan independen yang berfokus pada pengetahuan, materia
 
 Thinker pertama berasal dari Tianhai Yunzhou. Tianhai Yunzhou menjadi pusat keunggulan pengetahuan Thinker; pengaruhnya mencakup ilmu, budaya, diplomasi, dan persaingan antarkekuatan, bukan hanya kekuatan tempur. Maharaja Tianhai Yunzhou dapat bersaing melalui pengetahuan luar biasa, bukan semata-mata kekuatan pribadi.
 
-Golden Dragon Empire relatif terbuka terhadap pertukaran pengetahuan dan interaksi dengan pihak luar. Pertukaran Tianhai Yunzhou–Kekaisaran dapat menyebarkan ilmu dan memengaruhi hubungan budaya maupun politik. Namun, penyebaran pengetahuan tidak otomatis menyamakan kemampuan produksi: tingkat Thinker, ketersediaan material, dan penguasaan formulasi tetap membatasi hasil.
+Golden Dragon Empire relatif terbuka terhadap pertukaran pengetahuan dan interaksi dengan pihak luar. Pertukaran Tianhai Yunzhou–Golden Dragon Empire dapat menyebarkan ilmu dan memengaruhi hubungan budaya maupun politik. Namun, penyebaran pengetahuan tidak otomatis menyamakan kemampuan produksi: tingkat Thinker, ketersediaan material, dan penguasaan formulasi tetap membatasi hasil.
 
 Beiming Gu dan wilayah utara relatif terisolasi. Iklim dingin membantu mempertahankan material kuno. Eksplorasi utara berpotensi menemukan sumber daya yang sangat lengkap, terutama material untuk pengukiran formasi Artificial Artifact. Material ini strategis bagi perkembangan teknologi, tetapi ketersediaannya tidak menjamin keberhasilan tanpa pengetahuan, formulasi yang sesuai, dan kemampuan pengolahan.
 

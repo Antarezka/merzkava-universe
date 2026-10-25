@@ -52,7 +52,7 @@ The following portfolio structure is the standard recommended model:
 | Ministry of Personnel | Civil appointments, promotions, transfers, official evaluations, and staffing records |
 | Ministry of Finance | Imperial revenue, public expenditure, tax administration, budgets, and fiscal reports |
 | Ministry of Education and Rites | State academies, official examinations, ceremonies, and public educational standards |
-| Grand Martial Soul Awakening Hall | Coordinates Martial Soul awakening services; its allocation responds to confirmed strategically useful awakenings and current government skill shortages; detailed internal hierarchy, branches, budget formula, and reporting chain remain to be established |
+| Grand Martial Soul Awakening Hall | Centralized imperial institution coordinating Martial Soul awakening, strategic workforce priorities, and the biennial subsidized public-awakening visits; it dispatches designated officials to villages rather than maintaining an assumed permanent branch in every locality |
 | Ministry of Military Affairs | Central military administration, recruitment records, supplies, and coordination with the command structure; not automatic field command over every unit |
 | Ministry of Justice | Imperial law, courts, legal procedure, appeals, and administration of penalties |
 | Ministry of Public Works | Roads, bridges, canals, flood control, public buildings, and major infrastructure |

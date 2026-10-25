@@ -270,6 +270,6 @@ The Society's network is neutral in intent, not a promise of free treatment, unl
 
 ### 14.4 Canon boundaries
 
-- The network above does not add or imply a branch of the **Grand Martial Soul Awakening Hall** in Tianhai. That institution's current canon remains centralized in the Golden Dragon Empire; its Tianhai status requires a separate owner decision.
+- **Grand Martial Soul Awakening Hall:** Tianhai Yunzhou has exactly one Hall, located at its established principal civilizational center. It is the Tianhai-level institution, not a branch network; no second Hall is implied in other districts, ports, or settlements. Its exact local staffing, fees, and operating arrangements remain subject to this region's other confirmed sources and later canon.
 - Do not infer new routes between these points. Use `world/LOCATION_AND_ROUTE_NETWORK.md`, this module's confirmed route tables, `world/GEOGRAPHY_AND_TRAVEL.md`, and current events.
 - Do not invent named branch managers, doctors, guildmasters, association chairs, fees, prices, staffing levels, or office schedules as established canon.

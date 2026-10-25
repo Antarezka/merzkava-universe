@@ -15,7 +15,7 @@ Pertahankan nama dan urutan field sesuai `templates/GAMEPLAY_RESPONSE_TEMPLATE.m
 7. `Martial Soul`: Martial Soul karakter sesuai sumber resmi dan riwayat.
 8. `Thinker Grade`: grade yang sudah ditetapkan oleh mekanik/riwayat.
 9. `HP`: current HP dan maksimum HP mengikuti `core/HP_SYSTEM.md`.
-10. `Satiety`: nilai kenyang 0–100 mengikuti `core/HUNGER_AND_METABOLISM.md`; bukan HP atau Qi. Format tampilan wajib `Satiety: nilai/100`.
+10. `Satiety`: nilai kenyang 0–100 mengikuti `core/HUNGER_AND_METABOLISM.md`; bukan HP atau Qi. Format tampilan wajib `Satiety: nilai/100`. Jika snapshot awal dibuat sebelum field ini ditambahkan, tetapkan estimasi awal GM yang wajar saat bootstrap sesi baru berdasarkan modul tersebut; jangan otomatis memakai 0 atau 100, jangan menyimpulkan kekebalan/metabolisme khusus tanpa sumber, dan jangan mengubah snapshot hanya untuk mengisi state sesi.
 11. `Qi`: nilai/state Qi yang benar-benar ditetapkan oleh sumber resmi dan riwayat; jangan mengarang batas atau pemulihan.
 12. `Kondisi Tubuh`: kondisi fisik yang didukung kejadian dan mekanik, termasuk cedera yang relevan.
 13. `Equipment`: perlengkapan yang sedang dimiliki/digunakan sesuai state.

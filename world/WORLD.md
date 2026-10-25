@@ -179,11 +179,11 @@ IV. TIANHAI YUNZHOU
 
 Tianhai Yunzhou merupakan kekuasaan maritim yang berpusat di sebuah pulau raksasa terapung. Pulau tersebut dipertahankan oleh artefak buatan tingkat Tier 9 yang berfungsi menopang keberadaan pulau.
 
-Artefak tersebut adalah hasil rekayasa, bukan otomatis peninggalan peradaban kuno. Artefak Tier 9 itu dibuat oleh leluhur Maharaja Ji Haoyuan dan menggunakan sistem energi cair hasil pemurnian batu/logam pembawa energi yang didatangkan dari wilayah kekuasaan lain. Tianhai memonopoli teknologi pemurnian dan distribusi energi cair yang kompatibel, menjadikannya sumber kekayaan dan daya tawar utama dalam kerja sama antarwilayah. Bahan mentahnya bukan monopoli Tianhai. Mekanisme internal artefak Tier 9, formulasi energi yang terperinci, konsumsi, cadangan, kelemahan, serta prosedur pemeliharaannya tetap belum diketahui.
+Artefak tersebut adalah hasil rekayasa, bukan otomatis peninggalan peradaban kuno. Artefak Tier 9 itu dibuat oleh leluhur Maharaja Ji Haoyuan dan menggunakan sistem energi cair hasil pemurnian batu/logam pembawa energi yang didatangkan dari wilayah kekuasaan lain. Tianhai Yunzhou memonopoli teknologi pemurnian dan distribusi energi cair yang kompatibel, menjadikannya sumber kekayaan dan daya tawar utama dalam kerja sama antarwilayah. Bahan mentahnya bukan monopoli Tianhai Yunzhou. Mekanisme internal artefak Tier 9, formulasi energi yang terperinci, konsumsi, cadangan, kelemahan, serta prosedur pemeliharaannya tetap belum diketahui.
 
 Kekuasaan Tianhai Yunzhou berpusat pada Maharaja dan struktur pemerintahan yang menopang pelayaran, perdagangan, pertahanan, serta pengelolaan wilayah pulau.
 
-Posisi maritim memberikan akses ke perdagangan laut dan sumber daya kepulauan. Kota-kota intinya memiliki karakter modern dengan kereta otomatis dan utilitas yang digerakkan Artificial Artifact menggunakan energi cair hasil pemurnian khusus. Tianhai menukar energi olahan, keahlian Thinker, layanan logistik, dan teknologi dengan batu/logam pembawa energi dari kekuasaan lain. Karena itu, keamanan jalur pelayaran, pasokan bahan mentah, fasilitas pemurnian, serta pemeliharaan artefak merupakan kepentingan strategis.
+Posisi maritim memberikan akses ke perdagangan laut dan sumber daya kepulauan. Kota-kota intinya memiliki karakter modern dengan kereta otomatis dan utilitas yang digerakkan Artificial Artifact menggunakan energi cair hasil pemurnian khusus. Tianhai Yunzhou menukar energi olahan, keahlian Thinker, layanan logistik, dan teknologi dengan batu/logam pembawa energi dari kekuasaan lain. Karena itu, keamanan jalur pelayaran, pasokan bahan mentah, fasilitas pemurnian, serta pemeliharaan artefak merupakan kepentingan strategis.
 
 4.2 Major Districts
 
@@ -217,7 +217,7 @@ Kawasan pertahanan, pengawasan jalur laut, pelatihan pasukan, dan koordinasi kea
 
 Wilayah luar yang mencakup pulau-pulau kecil, perairan berkabut, jalur navigasi, dan daerah penjelajahan.
 
-4.3 Tianhai Clans
+4.3 Tianhai Yunzhou Clans
 
 Klan| Bidang pengaruh utama
 Haiyuan Clan| Pelayaran dan urusan maritim
@@ -233,7 +233,7 @@ Mingzhu Clan| Komoditas bernilai tinggi
 Shuijing Clan| Pengolahan bahan dan kerajinan
 Leiyu Clan| Teknik tempur dan kekuatan ofensif
 
-4.4 Tianhai Dojos
+4.4 Tianhai Yunzhou Dojos
 
 1. Skywhale Dojo — pelatihan bela diri dan pengembangan kekuatan.
 2. Tidal Current Dojo — aliran gerakan, pertahanan, dan adaptasi.
@@ -243,7 +243,7 @@ Leiyu Clan| Teknik tempur dan kekuatan ofensif
 
 4.5 Empat Area Pulau, Akademi, dan Institusi Thinker
 
-Pulau utama Tianhai dibagi secara regional menjadi empat area besar: Utara, Selatan, Barat, dan Timur. Pembagian arah ini merupakan lapisan geografis, bukan empat negara atau pengganti tujuh distrik. Tianji Core berada di pusat pulau, sementara Misty Shoals membentuk sabuk maritim luar.
+Pulau utama Tianhai Yunzhou dibagi secara regional menjadi empat area besar: Utara, Selatan, Barat, dan Timur. Pembagian arah ini merupakan lapisan geografis, bukan empat negara atau pengganti tujuh distrik. Tianji Core berada di pusat pulau, sementara Misty Shoals membentuk sabuk maritim luar.
 
 - **Utara:** Xuanchao Ward dan pendekatan utara; basis utama Canglong Clan, Xuanchao Clan, dan Leiyu Clan.
 - **Selatan:** Yunxiao Terrace dan Linggong District; basis utama Tianjing Clan, Shuijing Clan, dan Yunzhou Clan.
@@ -252,9 +252,9 @@ Pulau utama Tianhai dibagi secara regional menjadi empat area besar: Utara, Sela
 
 Basis utama tidak berarti kepemilikan eksklusif atas seluruh area. Rincian batas, jalan, lingkungan, dan rute tetap mengikuti modul regional serta jaringan rute resmi.
 
-Tianhai memiliki empat Cultivator Academies:
+Tianhai Yunzhou memiliki empat Cultivator Academies:
 1. **Beichen Cultivator Academy** — Utara; kesiapan, kewaspadaan ancaman, dan latihan pertahanan.
-2. **Tianlan Supreme Academy** — Selatan; akademi paling unggul dan prestisius di Tianhai, dengan pengajaran fleksibel, pembelajaran praktis intensif, serta jalur kuat menuju pendidikan Thinker tingkat lanjut.
+2. **Tianlan Supreme Academy** — Selatan; akademi paling unggul dan prestisius di Tianhai Yunzhou, dengan pengajaran fleksibel, pembelajaran praktis intensif, serta jalur kuat menuju pendidikan Thinker tingkat lanjut.
 3. **Cangfan Maritime Academy** — Barat; navigasi, kehidupan maritim, kerja tim, dan persiapan perjalanan.
 4. **Haiyue Academy** — Timur; pemecahan masalah terapan, literasi perdagangan, sumber daya, dan kerajinan khusus.
 
@@ -270,7 +270,7 @@ The Maharaja is **Ji Haoyuan**, a visionary leader. His canonical profile is mai
 - Thinker Grade 10.
 - The Tier 9 Artificial Artifact supporting the floating island was created by one of his ancestors, not by Ji Haoyuan himself.
 
-His wife, **Bai Xuanyin**, was a Thinker Grade 10 and Spirit Realm 7 — Spirit Emperor. She died during the Great Tianhai War, when three Tier 9 Demonic Beasts sought to invade and devastate Tianhai. She is revered as a great heroine. Her weapon-type Artificial Artifact is described as the strongest of its type in the world; she also created Artificial Artifact armor still used by Tianhai soldiers and contributed to the giant protective dome shielding Tianhai. Her full profile is `regions/tianhai-yunzhou/npcs/BAI_XUANYIN.md`. Names and specifications of these artifacts, the identities of the three beasts, and the exact chronology of the war remain unspecified.
+His wife, **Bai Xuanyin**, was a Thinker Grade 10 and Spirit Realm 7 — Spirit Emperor. She died during the Great Tianhai War, when three Tier 9 Demonic Beasts sought to invade and devastate Tianhai Yunzhou. She is revered as a great heroine. Her weapon-type Artificial Artifact is described as the strongest of its type in the world; she also created Artificial Artifact armor still used by Tianhai Yunzhou soldiers and contributed to the giant protective dome shielding Tianhai Yunzhou. Her full profile is `regions/tianhai-yunzhou/npcs/BAI_XUANYIN.md`. Names and specifications of these artifacts, the identities of the three beasts, and the exact chronology of the war remain unspecified.
 
 Their twin daughters are **Ji Zhaoning** and **Ji Ningzhao**, both 16, golden-eyed, and exceptionally intelligent.
 - Ji Zhaoning, the elder twin, has not undergone Martial Soul Awakening because she has focused on developing her Thinker Grade and Thinker abilities. Her actual Thinker Grade is not yet established. Profile: `regions/tianhai-yunzhou/npcs/JI_ZHAONING.md`.
@@ -278,7 +278,7 @@ Their twin daughters are **Ji Zhaoning** and **Ji Ningzhao**, both 16, golden-ey
 
 The regional module `world/REGION_TIANHAI_YUNZHOU.md` records the canonical family details and the known boundaries of the Great Tianhai War. Do not infer unstated artifact specifications, war chronology, hidden motives, or abilities.
 
-The canonical Tianhai court, civil administration, military/security, district administrators, clan heads, dojo masters, and Thinker institution roster is maintained in `regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`. Its roster establishes role-appropriate Spirit Realm levels and requires named recurring/major officeholders to be Thinkers, normally Grade 3–7; Thinker Grade 8+ remains exceptional. This roster does not imply that every resident is a Thinker.
+The canonical Tianhai Yunzhou court, civil administration, military/security, district administrators, clan heads, dojo masters, and Thinker institution roster is maintained in `regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`. Its roster establishes role-appropriate Spirit Realm levels and requires named recurring/major officeholders to be Thinkers, normally Grade 3–7; Thinker Grade 8+ remains exceptional. This roster does not imply that every resident is a Thinker.
 
 **Canonical Thinker Grade distribution currently established:**
 - Tianhai Yunzhou: four Thinker Grade 10 individuals, including Ji Haoyuan.
@@ -624,7 +624,7 @@ Tianhai Yunzhou memiliki jaringan layanan Medicine Hall Society yang melayani pe
 
 Para tabib di kawasan ini menangani cedera pertempuran, penyakit selama perjalanan, racun makhluk laut, dan dampak lingkungan atau pekerjaan yang berbahaya. Ketersediaan obat dan bahan ramuan dapat berbeda menurut lokasi dan kondisi perdagangan. Tabib independen, praktisi keluarga, dan ahli herbal lokal tetap dapat bekerja di luar Society.
 
-Tianhai juga memiliki beberapa asosiasi dagang independen: Haiyue Merchants' Association di Haiyue Market, Cangqiong Shipowners and Freight Union di kawasan Cangqiong Harbor/Westwake Anchorage, Linggong Artisans' Trade Association di Linggong District dengan kontak komersial di Haiyue Market, serta Misty Shoals Fishers and Pilots Association di komunitas nelayan dan pemandu setempat. Mereka mewakili kepentingan pedagang dan profesi, mengoordinasikan pesanan atau layanan, dan berbagi informasi komersial; mereka tidak menetapkan semua harga, tidak menggantikan kewenangan pemerintah Tianhai, dan tidak membentuk satu monopoli dagang.
+Tianhai Yunzhou juga memiliki beberapa asosiasi dagang independen: Haiyue Merchants' Association di Haiyue Market, Cangqiong Shipowners and Freight Union di kawasan Cangqiong Harbor/Westwake Anchorage, Linggong Artisans' Trade Association di Linggong District dengan kontak komersial di Haiyue Market, serta Misty Shoals Fishers and Pilots Association di komunitas nelayan dan pemandu setempat. Mereka mewakili kepentingan pedagang dan profesi, mengoordinasikan pesanan atau layanan, dan berbagi informasi komersial; mereka tidak menetapkan semua harga, tidak menggantikan kewenangan pemerintah Tianhai Yunzhou, dan tidak membentuk satu monopoli dagang.
 
 Spirit Hunters Guild juga memiliki titik kontrak di Haiyue Market, Cangqiong Harbor, dan Westwake Anchorage, serta titik pemberitahuan/rujukan terbatas di Pearlstep Landing. Layanannya mencakup berbagai kontrak dan pekerjaan, bukan hanya perburuan Spirit Beast. Kehadiran kantor atau titik layanan tidak menjadikan Guild polisi umum, tidak memberinya kendali atas otoritas pelabuhan, dan tidak menjamin setiap kontrak atau layanan selalu tersedia.
 
@@ -752,9 +752,9 @@ XII-A. THINKER, KNOWLEDGE EXCHANGE, AND ARTIFICIAL ARTIFACTS
 
 Thinker adalah jalur kemajuan independen yang berfokus pada pengetahuan, material, pola, formulasi, dan pembuatan Artificial Artifact. Thinker memiliki sepuluh tingkatan dan tidak identik dengan sistem Spirit Realm. Tingkat kultivasi tinggi tidak otomatis menjadikan seseorang Thinker hebat; tingkat Thinker tinggi juga tidak otomatis menjadikan seseorang kultivator kuat. Tingkat Thinker menentukan kemampuan dasar dan batas formulasi normal, tetapi tidak menjamin keberhasilan setiap pengerjaan.
 
-Thinker pertama berasal dari Tianhai Yunzhou. Tianhai menjadi pusat keunggulan pengetahuan Thinker; pengaruhnya mencakup ilmu, budaya, diplomasi, dan persaingan antarkekuatan, bukan hanya kekuatan tempur. Maharaja Tianhai dapat bersaing melalui pengetahuan luar biasa, bukan semata-mata kekuatan pribadi.
+Thinker pertama berasal dari Tianhai Yunzhou. Tianhai Yunzhou menjadi pusat keunggulan pengetahuan Thinker; pengaruhnya mencakup ilmu, budaya, diplomasi, dan persaingan antarkekuatan, bukan hanya kekuatan tempur. Maharaja Tianhai Yunzhou dapat bersaing melalui pengetahuan luar biasa, bukan semata-mata kekuatan pribadi.
 
-Golden Dragon Empire relatif terbuka terhadap pertukaran pengetahuan dan interaksi dengan pihak luar. Pertukaran Tianhai–Kekaisaran dapat menyebarkan ilmu dan memengaruhi hubungan budaya maupun politik. Namun, penyebaran pengetahuan tidak otomatis menyamakan kemampuan produksi: tingkat Thinker, ketersediaan material, dan penguasaan formulasi tetap membatasi hasil.
+Golden Dragon Empire relatif terbuka terhadap pertukaran pengetahuan dan interaksi dengan pihak luar. Pertukaran Tianhai Yunzhou–Kekaisaran dapat menyebarkan ilmu dan memengaruhi hubungan budaya maupun politik. Namun, penyebaran pengetahuan tidak otomatis menyamakan kemampuan produksi: tingkat Thinker, ketersediaan material, dan penguasaan formulasi tetap membatasi hasil.
 
 Beiming Gu dan wilayah utara relatif terisolasi. Iklim dingin membantu mempertahankan material kuno. Eksplorasi utara berpotensi menemukan sumber daya yang sangat lengkap, terutama material untuk pengukiran formasi Artificial Artifact. Material ini strategis bagi perkembangan teknologi, tetapi ketersediaannya tidak menjamin keberhasilan tanpa pengetahuan, formulasi yang sesuai, dan kemampuan pengolahan.
 

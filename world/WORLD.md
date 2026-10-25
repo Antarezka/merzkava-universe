@@ -241,7 +241,28 @@ Leiyu Clan| Teknik tempur dan kekuatan ofensif
 4. Azure Sail Dojo — pergerakan, koordinasi, dan teknik yang berkaitan dengan pelayaran.
 5. Deepwater Dojo — ketahanan dan teknik yang menyesuaikan kondisi perairan.
 
-4.5 Maharaja and Ruling Family
+4.5 Empat Area Pulau, Akademi, dan Institusi Thinker
+
+Pulau utama Tianhai dibagi secara regional menjadi empat area besar: Utara, Selatan, Barat, dan Timur. Pembagian arah ini merupakan lapisan geografis, bukan empat negara atau pengganti tujuh distrik. Tianji Core berada di pusat pulau, sementara Misty Shoals membentuk sabuk maritim luar.
+
+- **Utara:** Xuanchao Ward dan pendekatan utara; basis utama Canglong Clan, Xuanchao Clan, dan Leiyu Clan.
+- **Selatan:** Yunxiao Terrace dan Linggong District; basis utama Tianjing Clan, Shuijing Clan, dan Yunzhou Clan.
+- **Barat:** Cangqiong Harbor dan akses maritim barat; basis utama Haiyuan Clan, Lingfan Clan, dan Bihai Clan.
+- **Timur:** Haiyue Market dan pendekatan komersial timur; basis utama Yunhai Clan, Haijing Clan, dan Mingzhu Clan.
+
+Basis utama tidak berarti kepemilikan eksklusif atas seluruh area. Rincian batas, jalan, lingkungan, dan rute tetap mengikuti modul regional serta jaringan rute resmi.
+
+Tianhai memiliki empat Cultivator Academies:
+1. **Beichen Cultivator Academy** — Utara; kesiapan, kewaspadaan ancaman, dan latihan pertahanan.
+2. **Tianlan Supreme Academy** — Selatan; akademi paling unggul dan prestisius di Tianhai, dengan pengajaran fleksibel, pembelajaran praktis intensif, serta jalur kuat menuju pendidikan Thinker tingkat lanjut.
+3. **Cangfan Maritime Academy** — Barat; navigasi, kehidupan maritim, kerja tim, dan persiapan perjalanan.
+4. **Haiyue Academy** — Timur; pemecahan masalah terapan, literasi perdagangan, sumber daya, dan kerajinan khusus.
+
+Keempatnya tetap mengajarkan dasar Martial Soul, Spirit Realm, Spirit Ring, Spirit Beast, persiapan praktik, dan pengetahuan kultivator lain. Metode mereka lebih fleksibel dibandingkan akademi pusat Golden Dragon Empire yang ortodoks, tetapi fleksibilitas tidak menghapus persyaratan mekanik atau menjamin hasil kultivasi. Rincian penerimaan dan kurikulum penuh belum ditetapkan.
+
+**Tianhai Thinker Institute** adalah satu-satunya institusi tingkat tinggi yang diketahui memiliki cakupan riset Thinker seluas ini. Institusi ini meneliti pengembangan Formation Engraver, bahan, metode formulasi dan pencampuran, ukiran formasi rumit untuk Artificial Artifact Tier 6 ke atas, serta optimasi teknik pengukiran dan produksi untuk Tier 5 ke bawah. Keberadaan institut tidak menjamin keberhasilan pengerjaan dan tidak menggantikan mekanik resmi Thinker. Detail kanon: `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md`.
+
+4.6 Maharaja and Ruling Family
 
 The Maharaja is **Ji Haoyuan**, a visionary leader. His canonical profile is maintained in `world/NPC_JI_HAOYUAN.md`.
 - Martial Soul: Heavenly Sky Whale.

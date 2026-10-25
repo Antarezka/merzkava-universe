@@ -16,7 +16,7 @@
 - Development profile: Outer resource belt — mining towns prosper while remote valleys remain underserved.
 - Terrain / climate: Broad terrain follows the established regional identity; detailed local conditions remain to be developed
 - Confirmed neighboring regions: Belum ditetapkan
-- Confirmed routes / crossings: Belum ditetapkan
+- Confirmed routes / crossings: Ore Vein Road links Yumai and Tieyun; mine spurs and local routes remain unspecified.
 - Travel distances and durations: Do not infer; follow `world/GEOGRAPHY_AND_TRAVEL.md` and `gameplay/TIME_AND_ACTION_RULES.md`
 
 ## 2A. Administrative Register
@@ -51,9 +51,9 @@ The official prefecture seats are only those listed in `world/GOLDEN_DRAGON_EMPI
 
 | Settlement | Type | Established role | Authority / status |
 |---|---|---|---|
-| Yumai | City / prefecture seat | Seat of Jadevein Prefecture | Imperial civil administration; local detail pending |
-| Tieyun | City / prefecture seat | Seat of Ironcloud Prefecture | Imperial civil administration; local detail pending |
-| Shenshi | City / consolidated administrative center | Former prefectural seat; Shenshi remains a settlement under Ironcloud Prefecture | Local civil administration; not an independent prefectural seat |
+| Yumai | City / official prefecture seat | Seat of Jadevein Prefecture | Imperial civil administration; local detail pending |
+| Tieyun | City / official prefecture seat | Seat of Ironcloud Prefecture | Imperial civil administration; local detail pending |
+| Shenshi | City / settlement and service hub | Former prefectural seat; Shenshi remains a settlement under Ironcloud Prefecture | Local civil administration; not an independent prefectural seat |
 | Jinsha | City / settlement hub | Jinsha remains a mining and trade city under Jadevein Prefecture | Imperial civil administration; local detail pending |
 | Lingkuang | City / settlement hub | Lingkuang remains a mining and materials hub under Ironcloud Prefecture | Imperial civil administration; local detail pending |
 

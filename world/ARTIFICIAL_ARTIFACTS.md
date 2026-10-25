@@ -121,3 +121,15 @@ For the authoritative requirements, limitations, and GM rules, see `core/THINKER
 - **Current location:** Several established service corridors within Tianhai Yunzhou; exact engine models and station inventory are not fully catalogued.
 - **Creator / Thinker:** Not established.
 - **History:** Established as a core part of Tianhai's modern urban transport infrastructure. Do not infer exact speed, capacity, fares, frequency, or safety guarantees without a specific route record.
+
+
+### AAF-004 — Tianhai Long-Distance Liquefied-Energy Passenger Aircraft
+- **Tier:** Exact tier is not established; the transport class uses Artificial Artifact propulsion designed for long-distance passenger service.
+- **Type / function:** High-capacity long-distance passenger aircraft operated through Tianhai's Cangqiong Sky Transit Terminal. It carries more passengers per journey than an ordinary Qi-powered flying ship.
+- **Energy source:** Tianhai-refined liquefied energy derived from imported energy-bearing stone/metal ores, held in a compatible dedicated energy vessel.
+- **Propulsion distinction:** Uses an Artificial Artifact engine powered by liquefied energy; it does not use cultivator Qi as its primary propulsion source and is not simply a renamed conventional flying ship.
+- **Established service corridors:** Longyuan Sky Transit Terminal in the Golden Dragon Empire ↔ Cangqiong Sky Transit Terminal in Tianhai; Beiming Heartland Sky Transit Terminal in Beiming Gu ↔ Cangqiong Sky Transit Terminal in Tianhai.
+- **Approved passenger fare:** 25 xc per passenger for a round trip on this service. A comparable round trip on an ordinary Qi-powered flying ship costs 86 xc per passenger. These are approved fare baselines; extraordinary disruptions, special classes, cargo charges, taxes, or discounts are not established.
+- **Operating limits:** Requires dedicated aircraft, compatible liquefied energy, trained crew and technicians, maintenance, passenger processing, and an operating transit terminal. Flights may be suspended by weather, security, maintenance, or fuel-supply disruption.
+- **Unknown details:** Exact tier, aircraft model, seating capacity, speed, travel time, timetable, fleet size, ticket class structure, operators/owners, maintenance cycle, and emergency procedures remain unestablished.
+- **Canon boundary:** The existence of the transport class, two corridors, comparative capacity, energy source, and round-trip fares is established. Do not invent precise specifications or assume routes to other cities exist.

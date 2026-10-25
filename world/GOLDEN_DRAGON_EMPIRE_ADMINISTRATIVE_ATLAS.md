@@ -105,11 +105,11 @@ Administrative routes are trunks, not a guarantee that every settlement connects
 - **Baiyue:** roads converge on patrol posts and passes; Frontier–Maritime Relay is a staged land/sea link, not a direct road.
 - **Xingluo:** coastal sailing legs and port roads connect hubs; some villages require small boats and tide-safe landings.
 
-## 5. Official Village Register and Supplementary Exploration Anchors
+## 5. Official Village Register and Other Local Settlements
 
-This section lists 34 named rural-village exploration anchors. The first 13 rows are the canonical compact register of officially counted named rural villages; that official count remains 13. The 21 additional rows are supplementary local exploration anchors, not an expansion of the official administrative register. The former 22-village list had nine entries beyond the 13-entry register; those communities remain as local settlements/hamlets, but this atlas does not yet map those nine legacy entries to specific names in the supplementary list. Do not assume which rows correspond to them until reconciled. All listed places have local communities and ordinary residents, but a village is not presumed to have a bank, academy, clinic, library, or permanent state office unless a regional module confirms one.
+This section records exactly 13 officially counted named rural villages, followed by 21 separately named hamlets/local settlements. Only the first 13 rows belong to the official named-village register. The 21 additional places are not villages in the current administrative register; their former village-style labels have been normalized to hamlets/local settlements to preserve useful local geography and route continuity without expanding the official count. The nine entries retained from the former 22-village register are not individually mapped to specific hamlets here; do not guess which ones they are. All places have local communities, but permanent public services must be confirmed by a regional module.
 
-| Village | Region | Established role | Civic status |
+| Place | Region | Established role | Civic status |
 |---|---|---|---|
 | Dragonwell Village | Longyuan | Farming and cart-road services | Local community; village leadership/NPCs not individually established |
 | Willowbend Village | Longyuan | Canal-side farming and ferry families | Local community; village leadership/NPCs not individually established |
@@ -124,29 +124,29 @@ This section lists 34 named rural-village exploration anchors. The first 13 rows
 | Watchfire Village | Baiyue | Roadside farming near a patrol route | Local community; village leadership/NPCs not individually established |
 | Stonegate Village | Baiyue | Passage guides and pack animals | Local community; village leadership/NPCs not individually established |
 | Salt Lantern Village | Xingluo | Salt pans and coastal fishing | Local community; village leadership/NPCs not individually established |
-| Foxbridge Village | Longyuan | Bridge hamlet for carts and small cargo | Local exploration village |
-| Plum Lantern Village | Longyuan | Fruit orchards, spring lodging, lantern festival | Local exploration village |
-| Stone Mill Village | Longyuan | Grain milling and cart-wheel repair | Local exploration village |
-| Lotus Weir Village | Canglan | Lotus plots, water vegetables, fish ponds | Canal-access village |
-| Three Reeds Village | Canglan | Mats, rope, and boat repairs | Small-canal village |
-| Rice Bell Village | Canglan | Community granary and harvest market | Tanggway-access village |
-| Copper Bell Village | Jinyue | Small smelting and mining-tool repair | Mountain supply village |
-| Deep Jade Village | Jinyue | Stone sorting and jade carving | Mountain-track village |
-| Ash Mule Village | Jinyue | Pack animals and mineral freight | Caravan junction village |
-| Paper Crane Village | Tianfeng | Paper, ink, bookbinding, copying | Upland craft village |
-| Cloud Ladder Village | Tianfeng | Highland tea and mountain lodging | Pack-trail village |
-| Scholar's Rest Village | Tianfeng | Scribes, guides, examination lodging | Seasonal visitor village |
-| Kilnside Village | Yanling | Heat-resistant bricks and kiln work | Industrial supply village |
-| Red Ember Village | Yanling | Charcoal and measured fuel supply | Forest supply village |
-| Waterwheel Village | Yanling | Waterwheel maintenance and cooling channels | Streamside craft village |
-| Pine Watch Village | Baiyue | Forest guides, regulated timber, road-post repairs | Patrol-route village |
-| Wolf Pass Village | Baiyue | Caravan lodging and pack animals | Mountain-pass village |
-| Cold Spring Village | Baiyue | Spring water, dried food, patrol rest stop | Footpath village |
-| Pearl Shoal Village | Xingluo | Shellfish, dried fish, net making | Coastal boat-access village |
-| Wind Sail Village | Xingluo | Sails, ropes, wind guides | Coastal craft village |
-| Tideglass Village | Xingluo | Sea glass, salt, tide watching | Small-boat village |
+| Foxbridge Hamlet | Longyuan | Bridge hamlet for carts and small cargo | Local exploration village |
+| Plum Lantern Hamlet | Longyuan | Fruit orchards, spring lodging, lantern festival | Local exploration village |
+| Stone Mill Hamlet | Longyuan | Grain milling and cart-wheel repair | Local exploration village |
+| Lotus Weir Hamlet | Canglan | Lotus plots, water vegetables, fish ponds | Canal-access village |
+| Three Reeds Hamlet | Canglan | Mats, rope, and boat repairs | Small-canal village |
+| Rice Bell Hamlet | Canglan | Community granary and harvest market | Tanggway-access village |
+| Copper Bell Hamlet | Jinyue | Small smelting and mining-tool repair | Mountain supply village |
+| Deep Jade Hamlet | Jinyue | Stone sorting and jade carving | Mountain-track village |
+| Ash Mule Hamlet | Jinyue | Pack animals and mineral freight | Caravan junction village |
+| Paper Crane Hamlet | Tianfeng | Paper, ink, bookbinding, copying | Upland craft village |
+| Cloud Ladder Hamlet | Tianfeng | Highland tea and mountain lodging | Pack-trail village |
+| Scholar's Rest Hamlet | Tianfeng | Scribes, guides, examination lodging | Seasonal visitor village |
+| Kilnside Hamlet | Yanling | Heat-resistant bricks and kiln work | Industrial supply village |
+| Red Ember Hamlet | Yanling | Charcoal and measured fuel supply | Forest supply village |
+| Waterwheel Hamlet | Yanling | Waterwheel maintenance and cooling channels | Streamside craft village |
+| Pine Watch Hamlet | Baiyue | Forest guides, regulated timber, road-post repairs | Patrol-route village |
+| Wolf Pass Hamlet | Baiyue | Caravan lodging and pack animals | Mountain-pass village |
+| Cold Spring Hamlet | Baiyue | Spring water, dried food, patrol rest stop | Footpath village |
+| Pearl Shoal Hamlet | Xingluo | Shellfish, dried fish, net making | Coastal boat-access village |
+| Wind Sail Hamlet | Xingluo | Sails, ropes, wind guides | Coastal craft village |
+| Tideglass Hamlet | Xingluo | Sea glass, salt, tide watching | Small-boat village |
 
-The nine other entries from the former 22-village list are not destroyed or depopulated. They remain local settlements/hamlets outside the 13-entry official named-village register. Their identities are not mapped to individual rows in the supplementary exploration-anchor list yet; do not guess which entries they are. Do not imply that the administrative reduction physically removed them.
+The nine other entries from the former 22-village list are not destroyed or depopulated. They remain local settlements/hamlets outside the 13-entry official named-village register. Their individual identities remain unresolved; do not guess which entries they are. Do not imply that the administrative reduction physically removed them.
 
 ## 5A. Premium Destinations and Visitor Economy
 
@@ -176,8 +176,8 @@ Regional modules establish seven distinct premium destinations: Taman Cermin Gio
 
 ## 8. Canon and Conflict Rules
 
-1. This atlas is authoritative for seven regions, twelve prefectures, six county circuits, and the 13-village official named register. The separate 34-entry exploration-anchor list is a supplementary roleplay navigation aid, not a replacement for the official village count.
+1. This atlas is authoritative for seven regions, twelve prefectures, six county circuits, and the 13-village official named register. The separate hamlet/local-settlement entries are supplementary roleplay navigation aids, not part of the official village count.
 2. MAP_AND_REGIONS.md, GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md, the seven regional modules, GOLDEN_DRAGON_EMPIRE_OFFICIALS.md, and GOLDEN_DRAGON_EMPIRE_POPULATION_SERVICES.md must align with this register.
-3. The old counts—33 prefectures, 268 counties, 361 cities, 1,838 towns, 22 officially counted named villages, 9,200 township/district offices, and 50,000 villages/neighborhoods—are superseded. The 34 entries in Section 5 are named exploration anchors, not a claim that the Empire has only 34 rural communities and not a change to the 13-village official register.
+3. The old counts—33 prefectures, 268 counties, 361 cities, 1,838 towns, 22 officially counted named villages, 9,200 township/district offices, and 50,000 villages/neighborhoods—are superseded. The additional hamlet/local-settlement entries in Section 5 are not part of the 13-village official register.
 4. Never invent settlement destruction, population loss, NPC death, reassignment, borders, routes, or service branches to explain the simplified count.
 5. Preserve established character and world facts while applying this administrative structure; mark unresolved current office/location details for owner review.

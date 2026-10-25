@@ -136,13 +136,13 @@ The Guild is not a unified government or universal police force. Do not assume a
 
 ## 7. Lawless Territory Organizations
 
-Lawless Territories are not a single faction or unified state. The following groups are known by association with their respective areas; exact headquarters, leaders, membership, territory, and current alliances are not established here.
+Lawless Territories are not a single faction or unified state. The following groups are known by association with their respective areas; exact headquarters, leaders, membership, territory, and current alliances are not established here. The detailed service economy and neutral refuge network are recorded in world/LAWLESS_TERRITORIES.md.
 
 ### Ashen Borderlands
 - **Blood Vow Sect:** Blood oaths, contracts, and high-risk cultivation methods.
 - **Ashen Bone Hall:** Body techniques and unconventional cultivation; some members pursue dangerous experimentation.
-- **Black Scripture Sect:** Collection of forbidden techniques, seized texts, and restricted knowledge. Its holdings are not automatically complete or correct.
-- **Hollow Fang Alliance:** A shifting alliance of aggressive cultivators, bounty hunters, and local factions, not a stable single sect.
+- **Black Scripture Sect:** Collection of forbidden techniques, seized texts, and restricted knowledge. It also operates appraisal services in parts of the Lawless Territories. Appraisers may deliberately exploit a customer's ignorance, but deception is a risk rather than a universal trait of every appraiser. Its holdings are not automatically complete or correct.
+- **Hollow Fang Alliance:** A shifting alliance of aggressive cultivators, bounty hunters, and local factions, not a stable single sect. Some associated venues operate illegal sparring arenas with betting and prizes that can exceed those offered at sanctioned arenas in the three major powers; prize quality and availability vary by event.
 
 ### Black Tide Expanse
 - **Dreadtide Sect:** Combat and cultivation adapted to maritime conditions, pressure, and surprise attacks.
@@ -154,7 +154,7 @@ Lawless Territories are not a single faction or unified state. The following gro
 - **Frozen Blood Sect:** Cold-energy and blood-based cultivation methods considered dangerous by many orthodox groups.
 - **Black Frost Palace:** Fortified organization associated with freezing techniques, strong defense, and secrecy.
 - **Corpse Lantern Sect:** Study of corpses, death energy, and remains of life; practices are taboo in many places.
-- **Silent Maw Hall:** Small groups specializing in ambush, assassination, and techniques that suppress sound or presence.
+- **Silent Maw Hall:** A discreet broker network connecting clients with independent assassins affiliated with the Hall. The Hall itself is an intermediary, not an organization whose members are automatically the assassins carrying out contracts. Its service follows a code of ethics; the standard revenue split is 60% to the intermediary and 40% to the contracted assassin. Individual assassin identities, contract details, and code enforcement remain compartmentalized. Concealment and low-profile operations support its brokerage work.
 
 ## 8. Medicine Hall Society
 

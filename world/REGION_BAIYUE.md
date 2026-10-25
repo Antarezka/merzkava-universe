@@ -1,7 +1,7 @@
 # Merzkava Universe — Baiyue — Frontier Marches
 
 **Status:** Regional reference with owner-authorized territorial and settlement additions.  
-**Canon policy:** Established regional identities are preserved; the territorial area, development profile, and selected named rural villages below are working additions approved for the current world map. Do not infer unlisted settlements or exact travel distances.
+**Canon policy:** Established regional identities and named places are preserved. Administrative counts and parent jurisdictions follow `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. Regional area and average density are provisional population-based estimates, not surveyed boundaries or uniform settlement density. Do not infer unlisted named settlements or exact travel distances.
 
 ## 1. Confirmed Foundation
 - **Region / territory:** Baiyue — Frontier Marches
@@ -11,7 +11,8 @@
 
 ## 2. Geography and Boundaries
 - General position: Frontier periphery — vast distances, sparse civilian services, stronger focus on roads and defense. Exact coordinates and surveyed borders remain undefined.
-- Approximate territorial area: 2.4 million km² (working estimate; not a surveyed boundary).
+- Approximate territorial area: 2.4 million km² (provisional estimate derived from the regional population allocation, productive land, terrain, settlement spacing, and wilderness; not a surveyed boundary).
+- Approximate regional average density: ~13 people/km²; population is concentrated around the principal cities, productive corridors, and connected settlements rather than evenly spread.
 - Development profile: Frontier periphery — vast distances, sparse civilian services, stronger focus on roads and defense.
 - Terrain / climate: Broad terrain follows the established regional identity; detailed local conditions remain to be developed
 - Confirmed neighboring regions: Belum ditetapkan
@@ -39,19 +40,23 @@ The administrative atlas is authoritative for names, territory estimates, and th
 
 **Population-facing institutions:** Use `world/GOLDEN_DRAGON_EMPIRE_POPULATION_SERVICES.md` for named Ninefold Concord Bank and Myriad Ledger Exchange branches and Medicine Hall Society service points. The same register establishes only two boarding academies, both in Huanglongcheng, plus selected Ordo Suci Tianming public libraries; neither academies nor libraries are presumed to exist in every region. The central register governs named locations and service limits.
 
+### Route activity and crowd density
+
+Use the shared time-of-day guide in `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md` for ordinary traffic. Apply it to this region according to its character: urban gates, markets, and main commercial streets become busiest around 07:00–09:00 and 15:00–19:00; the region's established main route (Frontier–Maritime Relay (Beiguan ↔ Dongxing; staged courier and authorized land/sea transfers, not a direct road)) has regular but uneven traffic; remote spurs, mine roads, mountain tracks, and rural paths are usually much quieter. This is a flexible RP baseline, not a fixed schedule. Market days, harvests, exams, furnace incidents, storms, military alerts, Spirit Beast activity, and arriving ships or caravans may sharply change density. Do not invent exact travel durations or imply that every road is safe or paved.
+
 ## 3. Settlements and Points of Interest
 
-The prefecture seats listed below are established by `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. Detailed districts, neighborhoods, roads, markets, and individual buildings remain to be developed.
+The official prefecture seats are only those listed in `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. Older city names below remain inhabited settlements and service hubs; they are not extra prefectures. Detailed districts, neighborhoods, minor roads, markets, and individual buildings remain open for RP.
 
 | Settlement | Type | Established role | Authority / status |
 |---|---|---|---|
 | Beiguan | City / prefecture seat | Seat of Northwatch Prefecture | Imperial civil administration; local detail pending |
-| Tieguan | City / prefecture seat | Seat of Iron Pass Prefecture | Imperial civil administration; local detail pending |
-| Shibi | City / prefecture seat | Seat of Stonewall Prefecture | Imperial civil administration; local detail pending |
-| Yingshan | City / prefecture seat | Seat of Falcon Ridge Prefecture | Imperial civil administration; local detail pending |
-| Fengqi | City / consolidated administrative center | Former seat of Storm Banner Prefecture; now administered under Beiguan | Local civil administration; not an independent prefectural seat |
-| Changguan | City / prefecture seat | Seat of Long Pass Prefecture | Imperial civil administration; local detail pending |
-| Songdun | City / consolidated administrative center | Former seat of Pine Shield Prefecture; now administered under Changguan | Local civil administration; not an independent prefectural seat |
+| Tieguan | City / settlement hub | Tieguan remains a fortified settlement under Northwatch Prefecture | Imperial civil administration; local detail pending |
+| Shibi | City / settlement hub | Shibi remains a fortified settlement under Northwatch Prefecture | Imperial civil administration; local detail pending |
+| Yingshan | City / settlement hub | Yingshan remains a frontier settlement under Northwatch Prefecture | Imperial civil administration; local detail pending |
+| Fengqi | City / consolidated administrative center | Former prefectural seat; Fengqi remains a settlement under Northwatch Prefecture | Local civil administration; not an independent prefectural seat |
+| Changguan | City / settlement hub | Changguan remains a fortified settlement under Northwatch Prefecture | Imperial civil administration; local detail pending |
+| Songdun | City / consolidated administrative center | Former prefectural seat; Songdun remains a settlement under Northwatch Prefecture | Local civil administration; not an independent prefectural seat |
 
 
 ### Named rural villages
@@ -102,7 +107,7 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for named NPC profiles. Do not reveal hi
 - Persistent consequences: Record only through the official event/history process
 
 ## 10. Travel and GM Constraints
-- Confirmed routes: Belum ditetapkan
+- Confirmed routes: Frontier–Maritime Relay (Beiguan ↔ Dongxing; staged land/sea relay, not a direct road)
 - Transport available: Only when established in canon
 - Do not infer coordinates, adjacency, exact travel time, current faction control, or hidden NPC lore.
 - If a detail is missing, leave it unconfirmed until the owner fills it in.

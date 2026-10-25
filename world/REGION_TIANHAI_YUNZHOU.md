@@ -19,8 +19,8 @@
 - **General position:** The southwestern ocean; the territory is centered on a giant floating island.
 - **Exact coordinates, borders, scale, neighboring islands, and distances:** Not established.
 - **Sea name:** Not yet officially named.
-- **Routes to other powers and ports:** Do not assume direct connections or travel durations. Verify through `world/LOCATION_AND_ROUTE_NETWORK.md`, `world/GEOGRAPHY_AND_TRAVEL.md`, and `gameplay/TIME_AND_ACTION_RULES.md`.
-- **Sea access:** Maritime routes are strategically important, but no specific route, ship schedule, blockade, or current control is established by this module.
+- **Routes to other powers and ports:** Two inter-power Artificial Artifact air-transit corridors are established below: one from Longyuan in the Golden Dragon Empire and one from Beiming Heartland in Beiming Gu to Tianhai's Cangqiong Sky Transit Terminal. Their exact coordinates, distances, and travel times remain unknown. Verify route access and disruptions through `world/LOCATION_AND_ROUTE_NETWORK.md`, `world/GEOGRAPHY_AND_TRAVEL.md`, and `gameplay/TIME_AND_ACTION_RULES.md`.
+- **Sea access:** Maritime routes remain strategically important, but these air-transit corridors do not establish specific sea routes, ship schedules, blockades, or current control.
 
 ## 3. Established Major Districts
 
@@ -36,7 +36,7 @@ These seven districts are established in `world/WORLD.md`. Their exact boundarie
 | Xuanchao Ward | Defense, maritime-route monitoring, force training, and security coordination; northern area | Command structure, units, ranks, and current deployments remain unconfirmed |
 | Misty Shoals | Seventh district: outer maritime zone encompassing small islands, misty waters, navigation routes, and exploration areas; not a fifth cardinal area of the main island | Does not establish exact island names, the district's precise span, safe passages, or which sites are settled |
 
-Do not treat these seven district names as a complete map of every settlement or as proof that all districts are directly connected by roads. Movement may require stairs, lifts, docks, boats, controlled passages, or other infrastructure, but specific systems must be established before they are treated as canon.
+Do not treat these seven district names as a complete map of every settlement or as proof that all districts are directly connected by roads. Movement may require stairs, lifts, docks, boats, controlled passages, or other infrastructure. The local corridors in §12.2 and the Cangqiong Sky Transit Terminal in §12.3 are established exceptions; unlisted connections remain unknown.
 
 ## 4. Local Society and Daily Life
 
@@ -167,6 +167,7 @@ Use `world/LOCATION_AND_ROUTE_NETWORK.md` for the canonical route format and val
 | Bluefin Cove | A small inhabited shore in Misty Shoals | Fishing, shell and marine-goods processing, pilot families, and seasonal repair of shallow-draft boats | Harbor buyers, salt, medicines, storm warnings, safe routes through shoals |
 | Pearlstep Landing | Eastern maritime approach serving Haiyue Market | Small-vessel transfer point for high-value goods, interpreters, brokers, and inspectors; access depends on weather and customs checks | Cargo manifests, secure storage, trusted couriers, sea-route access |
 | Windglass Islet | Misty Shoals, remote outer islet | Sparse pilot huts and a navigation beacon maintained by rotating crews; not a large town and not continuously staffed | Spare beacon parts, food deliveries, trained pilots, calm-weather access |
+| Cangqiong Sky Transit Terminal | Dedicated passenger-transit area beside the Cangqiong Harbor logistics zone; western area | Check-in, passenger processing, baggage handling, safety inspections, ticketing, waiting halls, and loading platforms for long-distance Artificial Artifact energy-aircraft; separate from ordinary ship docks | Stable liquefied-energy supply, trained crews and technicians, maintenance, customs/security coordination, passenger services |
 
 These are established regional settlements/anchors for exploration. They do not imply exact population totals, permanent presence of every listed occupation, named individual shopkeepers, or safety at all times. The outer settlements remain dependent on irregular marine supply and weather-sensitive access.
 
@@ -184,12 +185,16 @@ These are established regional settlements/anchors for exploration. They do not 
 | Haiyue Market → Pearlstep Landing | Market road to an inspected coastal transfer pier | None recorded | Customs and cargo checks; small vessels only | High-value goods, brokers, manifests | Not set | Established route; exact duration unknown |
 | Pearlstep Landing → Bluefin Cove | Scheduled small-vessel route when conditions permit | None recorded | Weather and shoal navigation; service can be suspended | Seafood, local crafts, passengers, supply deliveries | Not set | Established conditional route; exact duration unknown |
 | Bluefin Cove → Windglass Islet | Pilot boat route | None recorded | Requires a qualified local pilot; no guaranteed daily service | Beacon maintenance, exploration, emergency support | Not set | Established conditional route; exact duration unknown |
+| Longyuan Sky Transit Terminal (Golden Dragon Empire) → Cangqiong Sky Transit Terminal | Dedicated long-distance Artificial Artifact energy-aircraft | Direct corridor; no intermediate stop established | Requires a valid ticket, safety checks, compatible fuel supply, and an operating aircraft; service may be suspended for maintenance, weather, security, or supply disruptions | Passenger travel, official delegations, trade personnel, and light baggage between the Empire and Tianhai | Not set | Established inter-power corridor; exact duration and schedule unknown |
+| Beiming Heartland Sky Transit Terminal (Beiming Gu) → Cangqiong Sky Transit Terminal | Dedicated long-distance Artificial Artifact energy-aircraft | Direct corridor; no intermediate stop established | Requires a valid ticket, safety checks, compatible fuel supply, and an operating aircraft; mountain weather, security, maintenance, or supply disruptions may suspend service | Passenger travel, traders, technical specialists, and official delegations between Beiming Gu and Tianhai | Not set | Established inter-power corridor; exact duration and schedule unknown |
 
 **Non-connectivity rule:** This is a partial network, not a ring road. No direct connection is established between every district or village. For example, Reedmist Fishing Village is reached by boat from Northwatch Quay; Windglass Islet is reached through Bluefin Cove with a pilot boat; there is no established direct train between Misty Shoals and the main island. Additional paths must be discovered or formally added, not assumed.
 
 ### 12.3 Artificial Artifact transport and energy
 
-Tianhai uses Artificial Artifacts not only for specialist manufacturing but also for public infrastructure and transport. The most visible system is an automated train network on dedicated guideways: its engine is an Artificial Artifact, the train follows a prepared route without a conventional animal or human pulling it, and its propulsion is supplied by a specialized energy vessel containing refined liquefied energy. Operators and technicians still inspect guideways, manage stations, load cargo, and maintain the system; “automated” does not mean maintenance-free or universally accessible.
+Tianhai uses Artificial Artifacts not only for specialist manufacturing but also for public infrastructure and transport. The most visible urban system is an automated train network on dedicated guideways: its engine is an Artificial Artifact, the train follows a prepared route without a conventional animal or human pulling it, and its propulsion is supplied by a specialized energy vessel containing refined liquefied energy. Operators and technicians still inspect guideways, manage stations, load cargo, and maintain the system; “automated” does not mean maintenance-free or universally accessible.
+
+For inter-power travel, Tianhai also operates a distinct class of high-capacity long-distance energy-aircraft through the Cangqiong Sky Transit Terminal. These are Artificial Artifact-powered passenger transports that use Tianhai-refined liquefied energy, not the Qi propulsion used by conventional flying ships. They are designed to carry more passengers per journey than an ordinary Qi-powered flying ship and run on the two established corridors from Longyuan Sky Transit Terminal in the Golden Dragon Empire and Beiming Heartland Sky Transit Terminal in Beiming Gu. The standard round-trip passenger fare is **25 xc** on this dedicated energy-aircraft service, compared with **86 xc** for an ordinary Qi-powered flying ship on a comparable inter-power journey. The fare is per passenger for the return journey, not per aircraft. Exact seating capacity, speed, flight duration, timetable, fleet size, and ownership arrangements remain unestablished.
 
 The liquefied energy is produced by Tianhai-controlled refining Artificial Artifacts from specific energy-bearing stone/metal ores imported from other territories. The raw ore itself is not a Tianhai-exclusive natural resource. Tianhai's competitive advantage is its specialized refining apparatus, technical knowledge, safe containment, and distribution network. Compatible engines and utility artifacts elsewhere may use the refined energy only if designed for it; no universal compatibility is implied.
 
@@ -198,7 +203,7 @@ The Tier 9 island-support Artificial Artifact uses this energy system at strateg
 ### 12.4 Route and exploration rules
 
 - Use only listed route edges for known travel. If a route is absent, treat it as unknown or an exploration opportunity.
-- No exact distance, duration, fare, train frequency, capacity, ore volume, energy price, or settlement population is established here.
+- Exact distances, durations, flight schedules, train frequency, seating capacity, ore volume, and energy prices remain unestablished. The approved inter-power return fares are an exception: 25 xc per passenger on Tianhai's liquefied-energy aircraft service and 86 xc per passenger on a comparable ordinary Qi-powered flying ship; see `core/10_ECONOMY_SYSTEM.md`.
 - Route and transit access can be interrupted by weather, security inspection, maintenance, shortages, political tension, or recorded events.
 - Villages have different supply needs and cannot all access every market directly. Intermediate transport creates opportunities for brokers, local pilots, repairers, tolls, delays, and rumors, but these consequences must arise from the scene rather than being automatic.
 - New locations, routes, current incidents, and lasting changes must be reconciled with `world/LOCATION_AND_ROUTE_NETWORK.md`, `world/MAP_AND_REGIONS.md`, `world/DYNAMIC_EVENTS.md`, and `INDEX.md` as appropriate.
@@ -218,4 +223,5 @@ When adding routes, verify terrain, vertical movement across the floating island
 - [x] Establish initial district-level settlements, daily-life roles, services, resource needs, and local markets.
 - [x] Establish an initial partial route network with intermediate transport constraints; exact distances and travel times remain unset.
 - [x] Establish Tianhai's Artificial Artifact-powered automated transit and refined liquefied-energy trade advantage.
+- [x] Establish the Cangqiong Sky Transit Terminal and two inter-power energy-aircraft corridors with owner-approved round-trip fares.
 - [ ] Reconcile approved additions with `world/WORLD.md`, `world/MAP_AND_REGIONS.md`, `world/FACTIONS.md`, `INDEX.md`, and relevant NPC profiles.

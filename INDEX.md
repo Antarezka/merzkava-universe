@@ -181,6 +181,7 @@ Jika sumber wajib gagal diakses, sebutkan file yang gagal dan jangan mengaku tel
 - `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`
 - `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
 - `world/MAP_AND_REGIONS.md`
+- `world/LAWLESS_TERRITORIES.md`
 - `world/GEOGRAPHY_AND_TRAVEL.md`
 - `world/WANLUO_SACRED_EXPANSE.md`
 - `world/INTELLIGENT_PEOPLES.md`
@@ -245,6 +246,7 @@ The three major powers are **Golden Dragon Empire, Tianhai Yunzhou, and Beiming 
 - Ashen Borderlands — `world/REGION_ASHEN_BORDERLANDS.md`
 - Black Tide Expanse — `world/REGION_BLACK_TIDE_EXPANSE.md`
 - Nine Frost Wastes — `world/REGION_NINE_FROST_WASTES.md`
+- **Lawless Territories master reference** (underground economy, organizations' service roles, neutral refuge, Dead Zone, food scarcity, elite auctions) — `world/LAWLESS_TERRITORIES.md`
 
 ### NPC modules and templates
 - NPC management rules — `world/NPC_MANAGEMENT.md`
@@ -316,7 +318,7 @@ If a required file cannot be fetched, name the missing source and limit the answ
 ### Regional/NPC navigation triggers
 | Situation | Required source |
 |---|---|
-| Character is in or traveling to one of the named regions | Fetch the matching `world/REGION_*.md` module, plus `world/MAP_AND_REGIONS.md` / `world/GEOGRAPHY_AND_TRAVEL.md` as needed |
+| Character is in or traveling to one of the named regions | Fetch the matching `world/REGION_*.md` module, plus `world/MAP_AND_REGIONS.md` / `world/GEOGRAPHY_AND_TRAVEL.md` as needed; for any Lawless Territories scene, also fetch `world/LAWLESS_TERRITORIES.md` |
 | Character enters a settlement listed in a regional module | Read that region's settlement and NPC registry; do not assume undocumented shops, residents, or authorities exist |
 | Character meets an established recurring or major NPC | Read the NPC profile linked from the regional registry and preserve prior continuity |
 | Character meets a new minor NPC | Follow `world/NPC_MANAGEMENT.md` and `templates/AUTHORITY_ORDER.md`; do not invent major secrets or present improvised details as permanent canon |

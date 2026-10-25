@@ -31,8 +31,9 @@
 - Do not infer private motives or decisions from his title alone.
 
 ## 5. Knowledge Boundaries
-- Specific knowledge inventory, mistaken beliefs, and secrets: Not established.
-- His own experiences and information actually received govern what he knows.
+- Specific knowledge inventory and mistaken beliefs beyond the established events below: Not fully itemized.
+- **GM-sensitive history:** He personally served as an active World Knowledge Tower member during the world-calamity incursion. His duty kept him away from Tianhai Yunzhou during the Great Tianhai War and Bai Xuanyin's death. He continued the urgent containment obligations until the immediate threat had been suppressed and the remaining Demonic Beasts were scattered across the world, then ceased active service and returned home. Do not invent the exact moment he received the news, private reactions, or later Tower membership status beyond this established withdrawal from active service.
+- His experiences and information actually received govern what he knows.
 
 ## 6. Relationships
 | Person | Relationship | Status |

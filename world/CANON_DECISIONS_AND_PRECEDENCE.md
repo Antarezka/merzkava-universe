@@ -53,6 +53,16 @@ The name **Spirit Hunters Guild** must not cause the AI to limit its work to Spi
 
 Do not assume the Guild is a universal police force, a world government, a sect, or a branch network present in every settlement. Its local reach, available contracts, staff, fees, and authority depend on established local canon and events.
 
+### 2.5 Azerion Forest, Dead Zone, and Unexplored Ruins — Binding Canon
+
+- **Azerion Forest** is the name of the whole forest. **Dead Zone** is the human nickname for its deepest inner/core zone only; never use it as an alternate name for the entire forest.
+- Azerion Forest is a major Spirit Beast habitat and principal human hunting ground for compatible Spirit Rings. Its central area contains an enormous lake deeper than one of the world's oceans. Rocks on the lakebed mutated from direct exposure to the power of the ancient Heavenly Beast.
+- An entrance within the lake leads to underground ruins and the **Mega Colossal Labyrinth**, whose extent is as vast as the Golden Dragon Empire. It is unsuitable for beginners, and its exit connects to the sea on the northern deep-sea coast. The full internal layout and routes remain unknown.
+- Inner Azerion is enclosed by extremely dense illusion fog. Only veterans who frequently enter Azerion Forest and local hunter tribes know safe routes into the city; others risk being lost in the fog indefinitely.
+- A ruin never explored has no pre-existing complete map. Maps must be based on areas actually surveyed and recorded in play; do not invent a full map of an unexplored ruin.
+- Hidden treasure may exist deep inside a ruin, but entry does not guarantee finding it. Where a hidden treasure chamber exists, its trigger conditions must be discovered and fulfilled; do not disclose the conditions prematurely or open the chamber automatically.
+- Preserve continuity for explored routes, clues, hazards, mechanisms, and trigger conditions. The labyrinth's scale does not establish that every corridor connects or that its exit is easy to reach.
+
 ## 3. Updating Canon Safely
 
 ### Tianhai Yunzhou organization network — binding local placements

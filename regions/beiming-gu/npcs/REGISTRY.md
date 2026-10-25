@@ -1,7 +1,7 @@
 # Beiming Gu — NPC Registry
 
 **Scope:** Navigation directory for established recurring/major NPCs whose canonical home or affiliation is Beiming Gu.
-**Status:** Three previously established major NPCs plus 12 clan heads and 5 dojo masters are registered below (20 profiles total).
+**Status:** Four established major NPCs plus 12 clan heads and 5 dojo masters are registered below (21 profiles total).
 **Local pattern:** central INDEX → relevant Beiming Gu regional module → local NPC table → canonical profile.
 **Staging note:** This file lives in the central repository under `regions/beiming-gu/` because a separate regional repository has not been verified. This is an in-repo staging location, not a claim that a separate repository has been created.
 
@@ -12,6 +12,7 @@
 | Beiming Han | Leluhur Utara; highest known figure of Beiming Gu; strongest Spirit Primordial cultivator of the current era | Beiming Gu affiliation; exact whereabouts unknown | [BEIMING_HAN.md](BEIMING_HAN.md) |
 | Beiming Xenhwa | 17-year-old half-beast; white nine-tailed fox; adoptive daughter of Beiming Han | Beiming Gu affiliation; exact whereabouts unknown | [BEIMING_XENHWA.md](BEIMING_XENHWA.md) |
 | Beiming Jingheng | 17-year-old human; adoptive son of Beiming Han | Beiming Gu affiliation; exact whereabouts unknown; secret criminal connection is GM-sensitive | [BEIMING_JINGHENG.md](BEIMING_JINGHENG.md) |
+| Beiming Nerva | Beiming Han's older biological sister; Spirit Realm 8; Thinker Grade 9; Martial Soul Kartikeya (Myth Tier) | True age mysterious; sometimes disguises herself as a student at Beichen Cultivator Academy; identity is GM-sensitive | [BEIMING_NERVA.md](BEIMING_NERVA.md) |
 
 ## Clan roster — 12 clans
 
@@ -40,7 +41,7 @@
 | Silent Snow Dojo | Mo Xueyan | Dojo master; Thinker Grade 4 | [SILENT_SNOW_DOJO_MASTER.md](SILENT_SNOW_DOJO_MASTER.md) |
 | Ironroot Dojo | Tie Song | Dojo master; Thinker Grade 2 | [IRONROOT_DOJO_MASTER.md](IRONROOT_DOJO_MASTER.md) |
 
-**Roster scope:** one named head for each of the 12 established clans and one named master for each of the 5 established dojos. This does not establish exclusive territory, automatic clan-dojo ties, family trees, alliances, or ownership of other institutions.
+**Roster scope:** one named head for each of the 12 established clans and one named master for each of the 5 established dojos. Beiming Gu's two established Thinker Grade 9 individuals are now identified in the registry as Beiming Xuanyu and Beiming Nerva. This does not establish exclusive territory, automatic clan-dojo ties, family trees, alliances, or ownership of other institutions.
 
 ## Registry rules
 

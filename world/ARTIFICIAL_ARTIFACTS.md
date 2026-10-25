@@ -14,8 +14,10 @@ An artifact's tier is not a Spirit Realm or Spirit Ring tier. A high tier does n
 ### 2.1 Tianhai Yunzhou
 - The first Thinkers originated in Tianhai Yunzhou.
 - Tianhai is a major center of Thinker knowledge and formulation development.
-- A Tier 9 Artificial Artifact sustains the giant floating island at the center of Tianhai Yunzhou.
-- The island artifact's maker, materials, energy source, internal mechanism, maintenance, and weaknesses remain unknown.
+- A Tier 9 Artificial Artifact sustains the giant floating island at the center of Tianhai Yunzhou; its established power source is Tianhai-refined liquefied energy derived from specific imported energy-bearing stone/metal ores.
+- Tianhai uses dedicated Artificial Artifact refining systems to process the ores and has a strategic monopoly on this refining method and the resulting standardized energy medium. The ore deposits themselves lie in other territories; named mines, contracts, exact chemical/spiritual composition, yields, prices, and reserve capacity remain unestablished.
+- Tianhai also operates automated trains and other modern urban utilities powered by compatible Artificial Artifact engines using the refined liquefied energy. The technology is advanced but depends on maintenance, infrastructure, containment, trained personnel, and supply continuity.
+- The island artifact's exact materials, internal mechanism, fuel consumption, maintenance procedure, redundancy, and weaknesses remain unknown.
 
 ### 2.2 Golden Dragon Empire
 The Empire participates in knowledge exchange with Tianhai Yunzhou. This can spread ideas and technology, but does not automatically give all Thinkers the same skill, materials, or production capability.
@@ -34,7 +36,7 @@ The northern region contains ancient materials and resources that may be useful 
 - **Maker:** ???
 - **Materials:** ???
 - **Formulation:** ???
-- **Energy source:** ???
+- **Energy source:** Tianhai-refined liquefied energy derived from specific energy-bearing stone/metal ores imported from other territories; precise formulation and consumption are restricted/unknown.
 - **Activation procedure:** ???
 - **Maintenance:** ???
 - **Weaknesses:** ???
@@ -99,3 +101,23 @@ For the authoritative requirements, limitations, and GM rules, see `core/THINKER
 - `core/10_ECONOMY_SYSTEM.md` — currency and crafting restrictions.
 - `gameplay/COMBAT_SYSTEM.md` — documented artifact effects used during combat.
 - `world/WORLD.md` — established political and geographic context.
+
+### AAF-002 — Tianhai Liquefied-Energy Refining Apparatus
+- **Tier:** Varies by facility; exact tiers not established.
+- **Type / function:** Processes specific imported energy-bearing stone/metal ores into a stable liquefied energy medium for compatible Artificial Artifact engines.
+- **Creator / Thinker:** Not established; the refining tradition is maintained by Tianhai specialists and the Tianhai Thinker Institute.
+- **Materials:** Imported energy-bearing ore plus facility-specific components; exact recipes and ratios are restricted/unknown.
+- **Energy source:** Raw energy-bearing ore is the feedstock; processing requires a functioning refining apparatus and trained operators.
+- **Operating limits:** Only suitable ore classes and compatible apparatus can be processed. Not every stone or metal can be refined, and the resulting energy is not automatically compatible with every artifact.
+- **Strategic status:** Tianhai controls the known industrial refining method and distribution standards, giving it a major export advantage. This is a monopoly over the established refining capability, not ownership of every source of raw ore.
+- **Current location:** Tianhai Yunzhou; individual facilities and their security arrangements are not catalogued here.
+- **Weaknesses / failure conditions:** Supply interruption, apparatus damage, contamination, containment failure, and loss of specialist operators can reduce output. Exact failure modes remain unknown.
+
+### AAF-003 — Automated Guideway Train Engine
+- **Tier:** Not established as one universal tier; individual engines must be catalogued separately when their tier is known.
+- **Type / function:** Propels a train along a dedicated guideway and supports automated movement between registered stations.
+- **Energy source:** Compatible Tianhai-refined liquefied energy held in a purpose-built energy vessel.
+- **Operating limits:** Requires a prepared guideway, functioning stations/signals, inspection, maintenance, and a compatible engine. Automated operation does not mean maintenance-free operation or universal passenger access.
+- **Current location:** Several established service corridors within Tianhai Yunzhou; exact engine models and station inventory are not fully catalogued.
+- **Creator / Thinker:** Not established.
+- **History:** Established as a core part of Tianhai's modern urban transport infrastructure. Do not infer exact speed, capacity, fares, frequency, or safety guarantees without a specific route record.

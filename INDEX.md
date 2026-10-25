@@ -194,7 +194,7 @@ Modul yang disebut tetapi belum tersedia tidak otomatis menjadi sumber resmi. Ja
 
 ## 3. Regional Modules and NPC References
 
-The three canonical repository boundaries are **Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu**. The subregions listed below are geographic modules inside those powers—not separate repository boundaries. Until the three destination repositories are verified and migration is complete, the paths below are the central repository's legacy canon and remain the available references. Do not invent missing canon from scaffold headings. For an NPC, use `world/NPC_MANAGEMENT.md` and `templates/NPC_PROFILE_TEMPLATE.md`; after migration, the relevant power's own NPC registry will be the local entry point and the full profile will live in that same power repository.
+The three canonical repository boundaries are **Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu**. The subregions listed below are geographic modules inside those powers—not separate repository boundaries. Canonical full NPC profiles have now been relocated into in-repository staging folders under `regions/<power>/npcs/`, with registries for all three powers; the old `world/NPC_*.md` paths are compatibility pointers. These folders are not separate GitHub repositories: destination repository creation/URLs remain unverified. Do not invent missing canon from scaffold headings. For NPC handling, use `world/NPC_MANAGEMENT.md`, the relevant regional module, the regional NPC registry, and `templates/NPC_PROFILE_TEMPLATE.md`.
 
 ### Golden Dragon Empire
 - Empire-wide civil and military governance — `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`
@@ -221,11 +221,11 @@ The three canonical repository boundaries are **Golden Dragon Empire, Tianhai Yu
 - Tianhai Yunzhou — `world/REGION_TIANHAI_YUNZHOU.md`
 - Tianhai Spirit Hunters Guild offices, independent trade associations, and Medicine Hall Society service points — `world/REGION_TIANHAI_YUNZHOU.md` and `world/FACTIONS.md`
 - Four cardinal areas, twelve clan placements, four Cultivator Academies, and the exclusive high-level Thinker Institute — `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md`
-- Tianhai court, civil/military officials, district administrators, clan heads, dojo masters, Thinker institutions — `world/NPC_TIANHAI_POWER_STRUCTURE.md`
-- Maharaja Ji Haoyuan — `world/NPC_JI_HAOYUAN.md`
-- Bai Xuanyin, revered Tianhai heroine — `world/NPC_BAI_XUANYIN.md`
-- Ji Zhaoning, elder twin princess — `world/NPC_JI_ZHAONING.md`
-- Ji Ningzhao, younger twin princess — `world/NPC_JI_NINGZHAO.md`
+- Tianhai court, civil/military officials, district administrators, clan heads, dojo masters, Thinker institutions — `regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`
+- Maharaja Ji Haoyuan — `regions/tianhai-yunzhou/npcs/JI_HAOYUAN.md`
+- Bai Xuanyin, revered Tianhai heroine — `regions/tianhai-yunzhou/npcs/BAI_XUANYIN.md`
+- Ji Zhaoning, elder twin princess — `regions/tianhai-yunzhou/npcs/JI_ZHAONING.md`
+- Ji Ningzhao, younger twin princess — `regions/tianhai-yunzhou/npcs/JI_NINGZHAO.md`
 
 ### Beiming Gu
 - Beiming Heartland — `world/REGION_BEIMING_HEARTLAND.md`
@@ -247,10 +247,10 @@ The three canonical repository boundaries are **Golden Dragon Empire, Tianhai Yu
 - NPC profile template — `templates/NPC_PROFILE_TEMPLATE.md`
 
 ### Established Imperial Family NPC Profiles
-- Emperor Jun Haotian — `world/NPC_JUN_HAOTIAN.md`
-- Empress Shen Yuehua — `world/NPC_SHEN_YUEHUA.md`
-- Crown Prince Jun Ruiyuan — `world/NPC_JUN_RUIYUAN.md`
-- Princess Jun Yuejin — `world/NPC_JUN_YUEJIN.md`
+- Emperor Jun Haotian — `regions/golden-dragon-empire/npcs/JUN_HAOTIAN.md`
+- Empress Shen Yuehua — `regions/golden-dragon-empire/npcs/SHEN_YUEHUA.md`
+- Crown Prince Jun Ruiyuan — `regions/golden-dragon-empire/npcs/JUN_RUIYUAN.md`
+- Princess Jun Yuejin — `regions/golden-dragon-empire/npcs/JUN_YUEJIN.md`
 
 
 

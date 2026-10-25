@@ -87,6 +87,6 @@ Use `world/LOCATION_AND_ROUTE_NETWORK.md` for the canonical route format and tra
 
 | Origin | Destination | Route / transport | Intermediate stops | Access / constraints | Trade / social function | Travel time / source | Canon status |
 |---|---|---|---|---|---|---|---|
-| Beiming Heartland Sky Transit Terminal | Cangqiong Sky Transit Terminal, Tianhai Yunzhou | Tianhai long-distance liquefied-energy passenger aircraft | Direct service corridor; intermediate stops not established | Service runs 05:00–21:00 local terminal time; standard round trip 25 xc per passenger; service details and exact schedule unknown | Inter-power passenger transit | See `world/GEOGRAPHY_AND_TRAVEL.md` and `core/10_ECONOMY_SYSTEM.md` | Confirmed |
+| Beiming Heartland Sky Transit Terminal | Cangqiong Sky Transit Terminal, Tianhai Yunzhou | Tianhai Yunzhou long-distance liquefied-energy passenger aircraft | Direct service corridor; intermediate stops not established | Service runs 05:00–21:00 local terminal time; standard round trip 25 xc per passenger; service details and exact schedule unknown | Inter-power passenger transit | See `world/GEOGRAPHY_AND_TRAVEL.md` and `core/10_ECONOMY_SYSTEM.md` | Confirmed |
 
 When adding a route, verify geography, terrain, transport availability, intermediate locations, local economic rationale, access restrictions, and current events. Resolve travel duration only through `gameplay/TIME_AND_ACTION_RULES.md`.

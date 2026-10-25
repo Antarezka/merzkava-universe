@@ -36,7 +36,7 @@ Prefectures and seats:
 
 Former prefectural seats retained as cities/local service hubs: Mingzhu, Lanfan, Chaoguan, and Yanfeng. They are not active prefectures.
 
-The administrative atlas is authoritative for names, territory estimates, and the selected village list. The listed named villages are maintained as roleplay locations for this region; unlisted hamlets may exist but are not individually catalogued. Development and services are strongest near this region's regional seat and major settlements, then generally thin with distance, isolation, and difficult terrain. Do not infer exact borders or travel times from the jurisdiction list alone.
+The administrative atlas is authoritative for names, territory estimates, and the selected village list. The listed named villages are maintained as roleplay exploration anchors for this region; unlisted hamlets may exist but are not individually catalogued. Development and services are strongest near this region's regional seat and major settlements, then generally thin with distance, isolation, and difficult terrain. Do not infer exact borders or travel times from the jurisdiction list alone.
 
 **Population-facing institutions:** Use `world/GOLDEN_DRAGON_EMPIRE_POPULATION_SERVICES.md` for named Ninefold Concord Bank and Myriad Ledger Exchange branches and Medicine Hall Society service points. The same register establishes only two boarding academies, both in Huanglongcheng, plus selected Ordo Suci Tianming public libraries; neither academies nor libraries are presumed to exist in every region. The central register governs named locations and service limits.
 
@@ -67,30 +67,41 @@ This is the region's compact named village roster. Other former village names re
 | Settlement | Type | Established role | Authority / status |
 |---|---|---|---|
 | Salt Lantern Village | Rural village | Salt pans and coastal fishing | Local community; detailed NPCs and services pending |
+| Pearl Shoal Village | Rural village | kerang, ikan kering, pembuat jaring | perahu pesisir dari Dongxing; pendaratan ikut pasang |
+| Wind Sail Village | Rural village | layar, tali kapal, pemandu angin | jalur pesisir dari Lanfan; barang berat via kapal |
+| Tideglass Village | Rural village | kaca laut, garam, pengamatan pasang | perahu kecil dari Chaoguan; badai memaksa putar |
 ## 4. Local Society and Daily Life
-- Local demographics and population distribution within settlements: Belum ditetapkan; regional planning total is listed in Section 2A.
-- Social structure and customs: Belum ditetapkan
-- Language and local etiquette: Belum ditetapkan
-- Ordinary occupations and services: Belum ditetapkan
+
+- Awak kapal, nelayan, pembuat layar, buruh dermaga, pengolah garam, saudagar, pemandu laut, dan pekerja gudang mengatur kehidupan. Pasang, musim angin, dan kedatangan kapal menentukan jam kerja.
+- Kapten tepercaya dan kontrak tepat waktu dihargai, tetapi kabar pelabuhan cepat bercampur rumor. Pemilik kapal besar mampu menyewa dermaga premium; nelayan kecil bergantung pada pantai dan hak tambat.
+
 
 ## 5. Economy and Resources
-- Main livelihoods: Belum ditetapkan
-- Known resources: Belum ditetapkan
-- Markets, prices, and trade flows: Refer to `core/10_ECONOMY_SYSTEM.md`; regional specifics pending
+
+- **Kekuatan:** pelayaran, ikan, garam, kerang, kaca laut, pembuatan layar, pergudangan, asuransi kargo, dan diplomasi.
+- Pearl Shoal memasok restoran Dongxing; Wind Sail membuat layar; Tideglass memasok garam/kaca laut; Lanfan dan Mingzhu menangani kargo besar.
+- **Destinasi elit:** Pulau Mahkota Mutiara lepas pantai Dongxing menawarkan vila, jamuan laut, kapal pribadi, dan lelang kerang premium. Akses bergantung cuaca, pasang, dan izin tambat; bukan zona bebas hukum.
+- Risiko: monopoli dermaga, manifes palsu, penyelundupan, pembajakan oportunis, dan mutiara palsu.
+
 
 ## 6. Cultivation, Martial Souls, Spirit Beasts, and Thinkers
-- Local traditions / institutions: Belum ditetapkan
-- Academies, dojos, or training locations: Belum ditetapkan
-- Spirit Beast habitats and confirmed species: Refer to `bestiary/SPIRIT_BEAST_RULES.md`; regional entries pending
-- Thinker workshops / artifact facilities: Belum ditetapkan
-- Do not invent local power rankings, special rules, or rare abilities.
+
+- Lokasi eksplorasi: mercusuar tua dekat Tideglass, kapal karam dekat Pearl Shoal, gua pasang yang terbuka saat surut, dan gudang bea lama di luar Chaoguan.
+- Arus balik, karang, badai, kabut, dan klaim kepemilikan atas barang karam membuat ekspedisi berisiko.
+
 
 ## 7. Factions and Local Authority
-- Refer to `world/FACTIONS.md`; region-specific presence and control pending
+
+- Political tendencies follow `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`; inclination is not proof of secret faction membership.
+
+### Regional business and community networks
+- **Serikat Kapten Bintang Timur** berbagi laporan cuaca; **Perhimpunan Pedagang Dermaga** menegosiasikan tarif dan slot tambat; **Koperasi Nelayan Pearl Shoal** mengatur penjualan hasil laut.
+- Restoran elit membeli hasil laut premium, pembuat layar bergantung pada kapal, dan buruh gudang dapat menahan kargo lewat aksi bersama. Konflik berpusat pada akses dermaga.
 
 | Name | Type | Role / influence | Confirmed relationship or control | Canon source |
 |---|---|---|---|---|
-| See `GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` | Current civil officeholders | Governor, prefect, and retained regional/circuit officers | Central roster is authoritative; exact local assignments remain unconfirmed where not listed | `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` |
+| See `GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` | Current civil officeholders | Governor, prefects, retained regional/circuit officers | Central roster is authoritative | `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` |
+
 
 ## 8. Regional NPC Registry
 
@@ -108,15 +119,23 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPC
 | Cui Qinghe | Xingluo; exact assignment unconfirmed | Frontier–Maritime Circuit liaison officer |Spirit Realm 4 — Spirit Monarch, Early Stage; reformis dan pro-rakyat; Orientasi rakyat: sangat tinggi; penegakan hukum 2/5 — lunak-moderat, mediasi dan peringatan lebih dahulu| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
 
 ## 9. Current Situations and Events
-- Local conflicts: Belum ditetapkan
-- Active world events: Check `world/DYNAMIC_EVENTS.md`; do not create events here
-- Persistent consequences: Record only through the official event/history process
+
+- **Kecil — Kait Tiram (8–16):** pencopet, penipu timbang ikan, dan pencuri tali di dermaga.
+- **Menengah — Bendera Pucat (20–50):** penyelundup memakai kapal nelayan dan manifes ganda.
+- **Besar — Kartel Tiga Dermaga:** jaringan saudagar, gudang, dan pengawal bayaran yang mengatur slot sandar serta menekan pesaing; bukan semua pedagang terlibat.
+- Gubernur Zhenhai Haixiu (Spirit Realm 5) menolak monopoli, tetapi perdagangan adalah urat nadi wilayah. Audit manifes dan perlindungan kapten kecil lebih efektif daripada duel terbuka.
+
+**GM encounter rule:** groups are established threats, not a schedule forcing every group to attack every session. Randomize the lead, rumor, victim, patrol, or opportunity; scale encounters to local conditions. Activity shifts after arrests, weather, shortages, and patrol pressure. Do not decide guilt solely from appearance or origin.
+
 
 ## 10. Travel and GM Constraints
-- Confirmed routes: Frontier–Maritime Relay (Dongxing ↔ Beiguan; staged land/sea relay, not a direct road); local coastal routes remain vessel-specific
-- Transport available: Only when established in canon
-- Do not infer coordinates, adjacency, exact travel time, current faction control, or hidden NPC lore.
-- If a detail is missing, leave it unconfirmed until the owner fills it in.
+
+- Coastal Sail Route menghubungkan Dongxing ↔ Mingzhu ↔ Lanfan lewat kapal. Jalan pelabuhan menghubungkan Dongxing dengan Chaoguan dan Yanfeng.
+- Pearl Shoal dicapai dengan perahu pesisir, Wind Sail dari Lanfan, Tideglass dengan perahu kecil dari Chaoguan saat pasang aman. Ke Baiyue perlu Frontier–Maritime Relay dan perpindahan moda; badai dapat membatalkan kapal.
+
+- Treat routes as a connected graph: destinations require listed connected legs or a newly recorded path.
+- Do not invent exact distances or travel times without travel rules, transport mode, and weather support.
+
 
 ## 11. Owner Completion Checklist
 - [ ] Add geography and confirmed routes

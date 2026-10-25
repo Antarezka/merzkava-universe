@@ -1,12 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-labelledby="title desc">
   <title id="title">Merzkava Universe genre tags</title>
   <desc id="desc">Three separate colorful panels form descending stairs. A dotted curved trail runs above the staircase. Transparent background matches GitHub.</desc>
-  <g fill="none" stroke="#151515" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".8">
-    <path d="M40 30 C72 0 112 0 139 24 S190 43 220 23 S272 5 298 27 S335 44 365 24 S417 7 443 30 S470 63 481 91 C489 111 487 118 500 119" stroke-dasharray="3 8"/>
-    <path d="M497 119 C523 93 554 96 578 117 S625 139 651 119 S688 99 708 125 C726 148 708 174 721 194 S750 213 775 211" stroke-dasharray="3 8"/>
-    <path d="M765 198 L777 211 L762 218"/>
-    <path d="M120 38 l-11 9 M196 46 l-10 8 M269 35 l-10 7 M345 39 l-10 7 M437 47 l-8 9 M544 111 l-8 6 M624 136 l-8 7 M697 151 l-7 9" stroke-width="2"/>
-  </g>
   <g>
   <g>
     <rect x="148" y="42" width="322" height="82" rx="3" fill="#151515"/>

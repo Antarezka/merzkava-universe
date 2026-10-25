@@ -1,13 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="88" viewBox="0 0 960 88" role="img" aria-labelledby="title desc">
-  <title id="title">Merzkava Universe genre tags</title>
-  <desc id="desc">Eastern Fantasy, Cultivation, and World in Motion in orange, yellow, and coral panels with black lettering.</desc>
-  <rect x="4" y="4" width="304" height="80" rx="3" fill="#151515"/>
-  <rect x="10" y="10" width="292" height="68" rx="2" fill="#FFB36B"/>
-  <text x="156" y="52" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="800" text-anchor="middle" letter-spacing="1" fill="#151515">EASTERN FANTASY</text>
-  <rect x="328" y="4" width="304" height="80" rx="3" fill="#151515"/>
-  <rect x="334" y="10" width="292" height="68" rx="2" fill="#FFE066"/>
-  <text x="480" y="52" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="800" text-anchor="middle" letter-spacing="1" fill="#151515">CULTIVATION</text>
-  <rect x="652" y="4" width="304" height="80" rx="3" fill="#151515"/>
-  <rect x="658" y="10" width="292" height="68" rx="2" fill="#F25C54"/>
-  <text x="804" y="52" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="800" text-anchor="middle" letter-spacing=".5" fill="#151515">WORLD IN MOTION</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
+  <title id="title">Merzkava Universe genre staircase</title>
+  <desc id="desc">Three colorful stair-step panels for Eastern Fantasy, Cultivation, and World in Motion, with bouncing balls rolling down a curved path. Black text on orange and yellow, white text on coral.</desc>
+  <rect width="960" height="300" fill="#FFFFFF"/>
+  <path d="M112 46 C170 16 206 22 239 54 S291 87 337 93 S402 111 446 144 S504 165 555 178 S632 201 692 230" fill="none" stroke="#151515" stroke-width="3" stroke-dasharray="5 8" stroke-linecap="round" opacity=".55"/>
+  <path d="M676 214 L696 233 L699 207" fill="none" stroke="#151515" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <g>
+    <path d="M64 99 L64 77 L76 65 L88 77 L88 99" fill="none" stroke="#151515" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="76" cy="54" r="15" fill="#FFE066" stroke="#151515" stroke-width="4"/>
+    <circle cx="71" cy="49" r="4" fill="#FFFFFF" opacity=".9"/>
+    <path d="M51 49 L42 45 M54 38 L49 31" stroke="#151515" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="280" cy="61" r="13" fill="#FFB36B" stroke="#151515" stroke-width="4"/>
+    <circle cx="276" cy="57" r="3.5" fill="#FFFFFF" opacity=".9"/>
+    <path d="M261 51 L252 46 M260 62 L250 63" stroke="#151515" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="420" cy="116" r="11" fill="#F25C54" stroke="#151515" stroke-width="4"/>
+    <circle cx="417" cy="112" r="3" fill="#FFFFFF" opacity=".9"/>
+    <path d="M403 108 L395 103 M402 118 L393 120" stroke="#151515" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="548" cy="164" r="9" fill="#FFE066" stroke="#151515" stroke-width="3.5"/>
+    <circle cx="545" cy="161" r="2.5" fill="#FFFFFF" opacity=".9"/>
+    <path d="M534 157 L527 153 M534 166 L526 168" stroke="#151515" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <g>
+    <rect x="42" y="101" width="298" height="76" rx="3" fill="#151515"/>
+    <rect x="49" y="108" width="284" height="62" rx="2" fill="#FFB36B"/>
+    <text x="191" y="146" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="800" text-anchor="middle" letter-spacing=".7" fill="#151515">EASTERN FANTASY</text>
+    <path d="M42 177 H340 V190 H353" fill="none" stroke="#151515" stroke-width="7" stroke-linejoin="miter"/>
+  </g>
+  <g>
+    <rect x="326" y="163" width="298" height="76" rx="3" fill="#151515"/>
+    <rect x="333" y="170" width="284" height="62" rx="2" fill="#FFE066"/>
+    <text x="475" y="208" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800" text-anchor="middle" letter-spacing="1" fill="#151515">CULTIVATION</text>
+    <path d="M326 239 H624 V252 H637" fill="none" stroke="#151515" stroke-width="7" stroke-linejoin="miter"/>
+  </g>
+  <g>
+    <rect x="610" y="225" width="308" height="65" rx="3" fill="#151515"/>
+    <rect x="617" y="232" width="294" height="51" rx="2" fill="#F25C54"/>
+    <text x="764" y="263" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="800" text-anchor="middle" letter-spacing=".4" fill="#FFFFFF">WORLD IN MOTION</text>
+  </g>
+  <g fill="#151515" opacity=".7">
+    <path d="M122 88 q8 -7 16 0" fill="none" stroke="#151515" stroke-width="2" stroke-linecap="round"/>
+    <path d="M296 86 q7 -6 14 0" fill="none" stroke="#151515" stroke-width="2" stroke-linecap="round"/>
+    <path d="M436 138 q6 -5 12 0" fill="none" stroke="#151515" stroke-width="2" stroke-linecap="round"/>
+  </g>
 </svg>

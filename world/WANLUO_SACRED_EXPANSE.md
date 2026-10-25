@@ -99,9 +99,11 @@ Its established design mandate includes:
 
 - Spiritual guidance, religious observances, and care for its own sacred sites.
 - Receiving, recording, and verifying reports of unusual phenomena.
+- Maintaining an early-warning network so the world can detect dangerous anomalies before they escalate into existential threats.
 - Monitoring high-level anomalies, walking calamities, and threats that may endanger the world's continued survival.
-- Assessing threat reports and coordinating information or responses with capable parties when warranted.
-- Maintaining records and an early-warning network through its regional branches.
+- Operating Ruined Archiver, its specialist branch for collecting, registering, verifying, and preserving intelligence from Golden Age Ruined.
+- Assessing threat reports and coordinating information or responses with the World Knowledge Tower and its alliance of elite envoys from Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu.
+- Maintaining confidential records and regional early-warning channels.
 
 The organization is not omniscient and cannot automatically defeat every threat. Reports require verification; distance, delayed communication, political interests, limited resources, and uncertainty can affect its response. A religious interpretation is not automatically proof of a phenomenon's cause.
 

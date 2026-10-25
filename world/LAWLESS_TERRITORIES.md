@@ -92,10 +92,11 @@ The **Wayfarer Hearth Network** is a loose, neutral network of outcasts and fugi
 
 ## 4. Azerion Forest and Inner Azerion
 
-**Azerion Forest** is the established name of the world's vast, dangerous, mist-shrouded forest previously referred to in existing records as the **Dead Zone**. “Dead Zone” remains a legacy/common label in older accounts for this forest; it is not a separate forest. Azerion Forest crosses territorial boundaries and extends from the Lawless Territories into the territory of the **Golden Dragon Empire**.
+**Azerion Forest** is a vast, dangerous forest and a major habitat for Spirit Beasts. It is one of the principal hunting grounds where humans seek Spirit Beasts for compatible Spirit Rings. The forest crosses territorial boundaries and extends from the Lawless Territories into the territory of the **Golden Dragon Empire**. **Dead Zone** is not another name for the whole forest: humans use that name for its deepest inner/core zone, which they know to avoid.
 
 - The easiest known entrance is located in the Lawless Territories.
-- Fog, dangerous terrain, uncertain visibility, and the forest's scale make travel and exploration hazardous. Exact boundaries, mapped routes, distances, ecology, and ordinary encounter rates remain unestablished.
+- The forest's scale, dangerous terrain, and uncertain visibility make travel and exploration hazardous. In its central area lies an enormous lake deeper than one of the world's oceans. Rocks on the lakebed have mutated after direct exposure to the power of the ancient Heavenly Beast. The lake contains an entrance to ruins whose underground passages lead into the **Mega Colossal Labyrinth**; its extent is as vast as the Golden Dragon Empire. The labyrinth is not suitable for beginners, and its exit connects to the sea along the northern deep-sea coast. Exact dimensions, corridors, internal geography, safe routes, and travel duration remain unknown.
+- The deepest inner/core zone is known among humans as the **Dead Zone**. Humans know not to enter it; this label applies to that core zone, not to Azerion Forest as a whole.
 - In the deepest part of the forest dwells an ancient **Heavenly Beast rank 9**: a colossal dragon with a deer-like head, enormous beautifully branching antlers, and deep-blue eyes. Its personal name, detailed abilities, disposition, exact location, and history beyond the wound described below remain unknown.
 - The beast left a scar on **Beiming Han, the Leluhur Utara of Beiming Gu**, in the distant past. This is a restricted historical fact, not common public knowledge.
 
@@ -103,7 +104,7 @@ The **Wayfarer Hearth Network** is a loose, neutral network of outcasts and fugi
 
 **Inner Azerion** is a large, prosperous, well-structured city in the northern part of Azerion Forest. Half-beast people run the city's economic life. The city is concealed behind an extremely dense **illusion fog**, making it very difficult to find from outside. Its exact coordinates, routes, government structure, population, leadership, districts, and founding history remain unspecified.
 
-- **Concealment and access:** The illusion fog hides the city and makes approaching it difficult. Do not assume a traveler can find Inner Azerion merely by entering Azerion Forest or following an ordinary map.
+- **Concealment and access:** The city is enclosed by extremely dense illusion fog. Only veterans who frequently enter Azerion Forest and the local hunter tribes living there know safe routes into Inner Azerion. Others risk becoming lost in the illusion fog indefinitely. Do not assume a traveler can find the city merely by entering the forest or following an ordinary map.
 - **Attitude toward humans:** The city is deeply unwelcoming to humans in general, but it does not automatically seek conflict with a human who is an established **Spirit Realm** expert simply for being human. This is not a guarantee of safety or special privileges.
 - **Non-awakened humans:** A human who has not awakened is in extreme danger inside the city. Do not treat entry by a non-awakened human as an ordinary or safe visit.
 - **Treatment of half-beast people:** The city's people are generally welcoming toward their own kind. Its internal economy is accessible and relatively affordable for half-beast residents and customers.
@@ -111,6 +112,16 @@ The **Wayfarer Hearth Network** is a loose, neutral network of outcasts and fugi
 - **Slave market:** A slave market operates in Inner Azerion. Its precise scale, rules, inventory, ownership, and relationship to the city's authorities remain undefined. Its existence does not establish that every half-beast resident supports slavery or that every market transaction involves half-beast people.
 
 Inner Azerion's concealed location and hostile attitude toward non-awakened humans are separate risks: finding the city does not guarantee safe entry, and being a Spirit Realm expert does not automatically reveal the illusion or grant unrestricted access.
+
+### 4.2 Lake Ruins and the Mega Colossal Labyrinth
+
+The central lake of Azerion Forest contains an entrance to ancient ruins. The entrance leads into underground passages and then the **Mega Colossal Labyrinth**, whose overall extent is as vast as the Golden Dragon Empire. The labyrinth is a long-form exploration site, not a beginner dungeon. Its exit connects to the sea along the northern deep-sea coast.
+
+- The lakebed's sea rocks have mutated through direct exposure to the power of the ancient Heavenly Beast. Do not assume every rock has identical properties or invent specific effects without discovery or an authoritative rule.
+- **No map exists for the unexplored labyrinth.** Do not generate, display, or treat a complete internal map as already known. A map can only reflect routes actually surveyed and recorded in play.
+- The labyrinth's full layout, passage connections, hazards, mechanisms, and history are not yet established. Its enormous scale does not prove that every corridor is connected, that the exit is easy to reach, or that the whole structure has been mapped.
+- A hidden treasure reward lies in the deepest part, but entering the ruins or reaching deep areas does not guarantee finding it. A particular condition must be discovered and met to trigger the opening of the treasure chamber. The trigger's nature is undisclosed until found through valid exploration; do not reveal it prematurely or award the treasure merely because a character entered the ruin.
+- Treat discoveries, mapped segments, clues, failed attempts, and triggered mechanisms consistently once established. Do not retroactively change a discovered route or secretly change a treasure condition to force a desired outcome.
 
 ### Restricted knowledge and NPC continuity
 
@@ -126,6 +137,6 @@ Do not disclose this history through ordinary public exposition or make unrelate
 - Always consult this file alongside the matching world/REGION_*.md, world/MAP_AND_REGIONS.md, world/FACTIONS.md, and world/GEOGRAPHY_AND_TRAVEL.md when a Lawless Territories scene depends on these facts.
 - Do not treat the three regional frameworks as one contiguous state or assume direct routes between all settlements.
 - Do not assume all residents are criminals, all appraisers lie, all assassins are Silent Maw Hall members, or all auctions contain every listed item category.
-- Do not assume the Wayfarer Hearth Network can protect everyone or that the Dead Zone's Heavenly Beast can be located, provoked, defeated, or escaped automatically.
+- Do not assume the Wayfarer Hearth Network can protect everyone or that the Heavenly Beast in Azerion Forest's deepest core can be located, provoked, defeated, or escaped automatically. Do not use “Dead Zone” as a synonym for the entire forest.
 - Resolve money, item ownership, injuries, travel time, combat, and Spirit Ring absorption through their respective official mechanics.
 - Preserve uncertainty where the canon above leaves details open.

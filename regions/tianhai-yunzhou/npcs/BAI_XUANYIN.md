@@ -12,7 +12,7 @@
 - Current status: Deceased; died during the Great Tianhai War.
 
 ## 2. Public Profile
-Bai Xuanyin is greatly respected in Tianhai Yunzhou as a heroic figure. Three Tier 9 Demonic Beasts sought to invade and devastate Tianhai Yunzhou; she died during the war against this invasion. Her artifact contributions continue to be used by Tianhai Yunzhou's armed forces and defenses.
+Bai Xuanyin is greatly respected in Tianhai Yunzhou as a heroic figure. She died during the Great Tianhai War, which was one major front of an apocalyptic, world-spanning incursion: extreme anomalies had opened gates to other worlds, allowing Demonic Beasts of tiers 7–9 to descend across the world. Three Tier 9 Demonic Beasts specifically sought to invade and devastate Tianhai Yunzhou. Ji Haoyuan was away serving as an active World Knowledge Tower member during the catastrophe. Her artifact contributions continue to be used by Tianhai Yunzhou's armed forces and defenses.
 
 ## 3. Capabilities
 - Spirit Realm: Spirit Realm 7 — Spirit Emperor; Stage not established.

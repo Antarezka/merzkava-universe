@@ -162,7 +162,11 @@ The Medicine Hall Society is a neutral medical network spread across the world. 
 
 The Society's neutral intent does not guarantee that neutrality can never be violated, that every point is fully staffed, or that treatment is free. Independent healers, family practitioners, and local herbalists may work outside the Society. Do not assume every healer belongs to it.
 
-## 8. Faction Interaction Rules
+## 8. Hidden Mountain Traditions
+
+Two established hidden groups dwell among remote peaks above the sea of clouds, beyond the ordinary reach of the three major powers: the Ancient Shamanism clan/sect and a separate Buddhist clan. They are not listed as ordinary regional factions because their precise mountain locations and routes are not established. Their canon hierarchy, Martial Souls, philosophies, and encounter constraints are maintained in [`world/ANCIENT_SHAMANISM_AND_BUDDHIST_CLANS.md`](ANCIENT_SHAMANISM_AND_BUDDHIST_CLANS.md). Do not invent a formal name for the Buddhist clan, a precise headcount for it, additional leaders, or political allegiance.
+
+## 9. Faction Interaction Rules
 
 - Do not invent faction membership, rank, secret identity, alliance, feud, or current orders as established fact.
 - Faction descriptions are general tendencies and areas of influence, not rules that every member behaves identically.

@@ -27,7 +27,7 @@
 - **County circuit:** Riverlands Circuit
 - **Cities:** Not separately counted in the simplified register; former seats remain settlements or service hubs.
 - **Small towns:** Not a separate official administrative tier.
-- **Named rural villages listed in this atlas:** 5
+- **Official named rural villages in this region:** 2
 - **Other rural settlements:** Unenumerated; do not generate or count thousands of named villages by default
 - **Full official register:** `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
 
@@ -61,17 +61,17 @@ The official prefecture seats are only those listed in `world/GOLDEN_DRAGON_EMPI
 | Cangping | City / settlement and service hub | Former prefectural seat; Cangping remains a settlement under Qinghe Prefecture | Local civil administration; not an independent prefectural seat |
 
 
-### Named rural villages
+### Official Villages and Other Local Settlements
 
-This is the region's compact named village roster. Other former village names remain local settlements or hamlets unless separately promoted back into the official thirteen-village register. Village status does not imply permanent public services or a named leader.
+Only 2 villages are part of the Empire's official thirteen-village register in this region. Other named places listed below are hamlets/local settlements, not additional official villages. Their local functions and route connections remain usable, but they must not be counted as official villages. Permanent public services or named leaders are not implied.
 
 | Settlement | Type | Established role | Authority / status |
 |---|---|---|---|
 | Reedbank Village | Rural village | Riverbank farming and reedcraft | Local community; detailed NPCs and services pending |
 | Fish Lantern Village | Rural village | Fishing, nets, and river trade | Local community; detailed NPCs and services pending |
-| Lotus Weir Village | Rural village | pematang teratai, sayuran air, tambak ikan | perahu kanal dari Qinghe; jalan putus saat banjir |
-| Three Reeds Village | Rural village | anyaman tikar, tali, perbaikan perahu | kanal kecil dari Reedbank; perlu perahu |
-| Rice Bell Village | Rural village | lumbung komunal, penggilingan padi, pasar panen | tanggul menuju Jiangbei; rawan tergenang |
+| Lotus Weir Hamlet | Hamlet / local settlement | pematang teratai, sayuran air, tambak ikan | perahu kanal dari Qinghe; jalan putus saat banjir |
+| Three Reeds Hamlet | Hamlet / local settlement | anyaman tikar, tali, perbaikan perahu | kanal kecil dari Reedbank; perlu perahu |
+| Rice Bell Hamlet | Hamlet / local settlement | lumbung komunal, penggilingan padi, pasar panen | tanggul menuju Jiangbei; rawan tergenang |
 ## 4. Local Society and Daily Life
 
 - Petani padi, pengelola tanggul, nelayan, tukang perahu, pedagang gabah, dan buruh dermaga menjadi tulang punggung wilayah. Hidup mengikuti musim air dan panen.

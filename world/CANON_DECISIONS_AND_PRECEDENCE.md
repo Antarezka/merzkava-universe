@@ -55,6 +55,17 @@ Do not assume the Guild is a universal police force, a world government, a sect,
 
 ## 3. Updating Canon Safely
 
+### Tianhai organization network — binding local placements
+
+The following local service network is established in `world/REGION_TIANHAI_YUNZHOU.md` and must be used consistently by `world/WORLD.md`, `world/FACTIONS.md`, and `INDEX.md`:
+
+- Spirit Hunters Guild: main contract office at Haiyue Market; harbor contract desk at Cangqiong Harbor; freight/expedition desk at Westwake Anchorage; limited notice/referral point at Pearlstep Landing.
+- Independent trade associations: Haiyue Merchants' Association; Cangqiong Shipowners and Freight Union; Linggong Artisans' Trade Association; Misty Shoals Fishers and Pilots Association. Their remits are local and professional; none is a universal monopoly, government ministry, customs authority, or harbor-security command.
+- Medicine Hall Society: service points at Haiyue Market, Cangqiong Harbor, Northwatch Quay, Westwake Anchorage, Bluefin Cove, and Pearlstep Landing. Independent healers may operate outside the Society; membership, full staffing, free treatment, and guaranteed supplies must not be assumed.
+- These placements do not establish new travel routes, exact prices/fees, named officeholders, permanent staffing at every point, or exclusive jurisdiction. Use the regional route tables and current events before resolving travel or availability.
+
+**Grand Martial Soul Awakening Hall boundary:** the established institution remains centralized in the Golden Dragon Empire. No Tianhai branch is established by the local network above. Do not silently reinterpret the Guild, trade associations, or Medicine Hall Society as an Awakening Hall, and do not create a Tianhai branch of the imperial Hall unless the owner explicitly confirms that canon change. If the owner's phrase “Aula Agung” refers to a different Tianhai institution rather than the Grand Martial Soul Awakening Hall, identify that institution separately before editing its status.
+
 When new information is added:
 
 - Read this file and the relevant authoritative module first.

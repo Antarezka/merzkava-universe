@@ -82,7 +82,7 @@ The following twelve clans and their spheres of influence are established in `wo
 | Shuijing Clan | Materials processing and craftsmanship |
 | Leiyu Clan | Combat techniques and offensive power |
 
-The current clan heads are listed in `world/NPC_TIANHAI_POWER_STRUCTURE.md`. Principal areas are recorded in `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md`: Canglong, Xuanchao, and Leiyu in the North; Tianjing, Shuijing, and Yunzhou in the South; Haiyuan, Lingfan, and Bihai in the West; Yunhai, Haijing, and Mingzhu in the East. This is not exclusive territory ownership. Family trees, heirs, membership, internal branches, formal rivalries, alliances, and marriage ties remain unestablished unless confirmed in a dedicated source or owner-approved NPC profile.
+The current clan heads are listed in `../regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`. Principal areas are recorded in `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md`: Canglong, Xuanchao, and Leiyu in the North; Tianjing, Shuijing, and Yunzhou in the South; Haiyuan, Lingfan, and Bihai in the West; Yunhai, Haijing, and Mingzhu in the East. This is not exclusive territory ownership. Family trees, heirs, membership, internal branches, formal rivalries, alliances, and marriage ties remain unestablished unless confirmed in a dedicated source or owner-approved NPC profile.
 
 ### Cultivator Academies and Thinker Institute
 
@@ -98,7 +98,7 @@ The Tianhai Thinker Institute is the world's sole established high-level institu
 - **Azure Sail Dojo:** Movement, coordination, and sailing-related techniques.
 - **Deepwater Dojo:** Durability and techniques adapted to aquatic conditions.
 
-The five current dojo masters are listed in `world/NPC_TIANHAI_POWER_STRUCTURE.md`. Other instructors, students, property ownership, clan ties, and formal political status remain unconfirmed. A dojo's name alone does not establish a relationship to a similarly named clan or to the ruling family.
+The five current dojo masters are listed in `../regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`. Other instructors, students, property ownership, clan ties, and formal political status remain unconfirmed. A dojo's name alone does not establish a relationship to a similarly named clan or to the ruling family.
 
 ## 5. Beiming Gu Clans and Dojos
 

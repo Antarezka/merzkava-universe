@@ -132,7 +132,11 @@ The Heavenly Beast's role in Beiming Han's scar is known only to a very small nu
 
 Do not disclose this history through ordinary public exposition or make unrelated NPCs aware of it without a credible in-world discovery. The reason Xenhwa knows, the exact date and circumstances of the encounter, the scar's exact location, and the beast's name are deliberately unspecified.
 
-## 5. Canon and GM Guardrails
+## 5. Historical Exploitation During the World-Calamity Incursion
+
+Some high-level criminal organizations based in the Lawless Territories exploited the chaos during the ancient world-calamity incursion. This is an established broad historical fact, but the specific organizations, methods, targets, victims, and outcomes have not yet been developed. Do not invent them as fixed canon; keep those details open for future worldbuilding.
+
+## 6. Canon and GM Guardrails
 
 - Always consult this file alongside the matching world/REGION_*.md, world/MAP_AND_REGIONS.md, world/FACTIONS.md, and world/GEOGRAPHY_AND_TRAVEL.md when a Lawless Territories scene depends on these facts.
 - Do not treat the three regional frameworks as one contiguous state or assume direct routes between all settlements.

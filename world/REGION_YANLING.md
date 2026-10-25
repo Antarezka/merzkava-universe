@@ -37,7 +37,7 @@ Prefectures and seats:
 
 Former prefectural seats retained as cities/local service hubs: Rongjiang and Heitie. They are not active prefectures.
 
-The administrative atlas is authoritative for names, territory estimates, and the selected village list. The listed named villages are maintained as roleplay locations for this region; unlisted hamlets may exist but are not individually catalogued. Development and services are strongest near this region's regional seat and major settlements, then generally thin with distance, isolation, and difficult terrain. Do not infer exact borders or travel times from the jurisdiction list alone.
+The administrative atlas is authoritative for names, territory estimates, and the selected village list. The listed named villages are maintained as roleplay exploration anchors for this region; unlisted hamlets may exist but are not individually catalogued. Development and services are strongest near this region's regional seat and major settlements, then generally thin with distance, isolation, and difficult terrain. Do not infer exact borders or travel times from the jurisdiction list alone.
 
 **Population-facing institutions:** Use `world/GOLDEN_DRAGON_EMPIRE_POPULATION_SERVICES.md` for named Ninefold Concord Bank and Myriad Ledger Exchange branches and Medicine Hall Society service points. The same register establishes only two boarding academies, both in Huanglongcheng, plus selected Ordo Suci Tianming public libraries; neither academies nor libraries are presumed to exist in every region. The central register governs named locations and service limits.
 
@@ -67,30 +67,41 @@ This is the region's compact named village roster. Other former village names re
 |---|---|---|---|
 | Ashbrook Village | Rural village | Water access and furnace supplies | Local community; detailed NPCs and services pending |
 | Ember Hollow Village | Rural village | Kiln work and fuel gathering | Local community; detailed NPCs and services pending |
+| Kilnside Village | Rural village | bata tahan panas, genteng, pekerja tungku | jalur bahan bakar dari Honglu |
+| Red Ember Village | Rural village | arang dan bahan bakar terukur | jalur hutan ke Huifeng; ditutup saat risiko kebakaran |
+| Waterwheel Village | Rural village | perawatan roda air dan saluran pendingin | jalur sungai kecil ke Rongjiang; memutar untuk Heitie |
 ## 4. Local Society and Daily Life
-- Local demographics and population distribution within settlements: Belum ditetapkan; regional planning total is listed in Section 2A.
-- Social structure and customs: Belum ditetapkan
-- Language and local etiquette: Belum ditetapkan
-- Ordinary occupations and services: Belum ditetapkan
+
+- Pandai besi, pekerja tungku, pengangkut bahan bakar, tukang batu, inspektur, dan keluarga buruh mengatur kehidupan. Sif malam menjaga pasar makanan tetap buka.
+- Bengkel dinilai berdasarkan mutu, keselamatan, dan ketepatan pengiriman. Keluarga buruh tinggal dekat tempat kerja, sehingga kecelakaan berdampak luas; klinik luka bakar dan pemasok alat pelindung penting.
+
 
 ## 5. Economy and Resources
-- Main livelihoods: Belum ditetapkan
-- Known resources: Belum ditetapkan
-- Markets, prices, and trade flows: Refer to `core/10_ECONOMY_SYSTEM.md`; regional specifics pending
+
+- **Kekuatan:** penempaan, alat kerja, suku cadang, keramik tahan panas, roda air, tungku, bahan bakar, dan komponen artefak.
+- Kilnside memasok bata; Red Ember arang bersertifikat; Waterwheel memperbaiki pendingin; Rongjiang dan Heitie mengirim barang jadi.
+- **Destinasi elit:** Paviliun Burung Phoenix Besi di Honglu memamerkan karya tempa, melelang pesanan khusus, dan mengadakan demonstrasi tertutup; pengunjung tak boleh memasuki tungku aktif tanpa izin/perlindungan.
+- Risiko: bahan bakar ilegal, cap mutu palsu, sabotase, kebakaran, dan kecelakaan yang ditutupi.
+
 
 ## 6. Cultivation, Martial Souls, Spirit Beasts, and Thinkers
-- Local traditions / institutions: Belum ditetapkan
-- Academies, dojos, or training locations: Belum ditetapkan
-- Spirit Beast habitats and confirmed species: Refer to `bestiary/SPIRIT_BEAST_RULES.md`; regional entries pending
-- Thinker workshops / artifact facilities: Belum ditetapkan
-- Do not invent local power rankings, special rules, or rare abilities.
+
+- Lokasi eksplorasi: tungku terbengkalai pascakebakaran, saluran pendingin lama, terowongan arang, dan gudang cetakan rusak antara Kilnside dan Rongjiang.
+- Panas, asap, runtuhan, percikan logam, serta air tercemar adalah bahaya. Keahlian artefak bukan otomatis kemampuan tempur.
+
 
 ## 7. Factions and Local Authority
-- Refer to `world/FACTIONS.md`; region-specific presence and control pending
+
+- Political tendencies follow `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`; inclination is not proof of secret faction membership.
+
+### Regional business and community networks
+- **Serikat Bengkel Yanling** membantu bengkel kecil berbagi bahan/pesanan; **Konsorsium Tungku Merah** memegang kontrak besar; **Perhimpunan Penguji Cap Besi** memeriksa mutu.
+- Desa bahan bakar bergantung pada bengkel, bengkel pada roda air dan bata, sedangkan serikat mencegah pesanan besar menghabiskan semua bahan lokal.
 
 | Name | Type | Role / influence | Confirmed relationship or control | Canon source |
 |---|---|---|---|---|
-| See `GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` | Current civil officeholders | Named governor, prefects, and county magistrates | Roster is authoritative for names and dispositions | `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` |
+| See `GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` | Current civil officeholders | Governor, prefects, retained regional/circuit officers | Central roster is authoritative | `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` |
+
 
 ## 8. Regional NPC Registry
 
@@ -107,15 +118,23 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPC
 | Xie Xingzhou | Yanling; exact assignment unconfirmed | Furnace Mountains Circuit liaison officer |Spirit Realm 3 — Spirit Elder, Late Stage; berhati-hati dan menyeimbangkan faksi; Orientasi rakyat: sangat tinggi; penegakan hukum 2/5 — lunak-moderat, mediasi dan peringatan lebih dahulu| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
 
 ## 9. Current Situations and Events
-- Local conflicts: Belum ditetapkan
-- Active world events: Check `world/DYNAMIC_EVENTS.md`; do not create events here
-- Persistent consequences: Record only through the official event/history process
+
+- **Kecil — Bara Curian (6–15):** pencuri arang dan suku cadang gudang malam.
+- **Menengah — Cap Retak (20–40):** pemalsu cap mutu dan sabotir kontrak.
+- **Besar — Sindikat Tungku Gelap:** pemilik tungku ilegal, penimbun bahan bakar, dan pengawal bayaran yang dapat memicu kebakaran serta menekan saksi.
+- Gubernur Yanling Zhenyu (Spirit Realm 6) tegas soal keselamatan, tetapi penutupan tungku mengancam nafkah buruh; sindikat mengeksploitasi dilema itu.
+
+**GM encounter rule:** groups are established threats, not a schedule forcing every group to attack every session. Randomize the lead, rumor, victim, patrol, or opportunity; scale encounters to local conditions. Activity shifts after arrests, weather, shortages, and patrol pressure. Do not decide guilt solely from appearance or origin.
+
 
 ## 10. Travel and GM Constraints
-- Confirmed routes: Furnace Spine Road (Honglu ↔ Huifeng); local routes remain unspecified
-- Transport available: Only when established in canon
-- Do not infer coordinates, adjacency, exact travel time, current faction control, or hidden NPC lore.
-- If a detail is missing, leave it unconfirmed until the owner fills it in.
+
+- Furnace Supply Road menghubungkan Honglu ↔ Huifeng. Jalur desa: Honglu → Kilnside → Rongjiang; Red Ember bercabang ke jalan hutan menuju Huifeng; Waterwheel memakai jalur sungai kecil dan memutar ke jalan utama untuk Heitie.
+- Kebakaran, inspeksi, atau kerusakan roda air dapat mengalihkan kargo ke jalur gunung yang lebih lambat.
+
+- Treat routes as a connected graph: destinations require listed connected legs or a newly recorded path.
+- Do not invent exact distances or travel times without travel rules, transport mode, and weather support.
+
 
 ## 11. Owner Completion Checklist
 - [ ] Add geography and confirmed routes

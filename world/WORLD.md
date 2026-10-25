@@ -257,6 +257,8 @@ Their twin daughters are **Ji Zhaoning** and **Ji Ningzhao**, both 16, golden-ey
 
 The regional module `world/REGION_TIANHAI_YUNZHOU.md` records the canonical family details and the known boundaries of the Great Tianhai War. Do not infer unstated artifact specifications, war chronology, hidden motives, or abilities.
 
+The canonical Tianhai court, civil administration, military/security, district administrators, clan heads, dojo masters, and Thinker institution roster is maintained in `world/NPC_TIANHAI_POWER_STRUCTURE.md`. Its roster establishes role-appropriate Spirit Realm levels and requires named recurring/major officeholders to be Thinkers, normally Grade 3–7; Thinker Grade 8+ remains exceptional. This roster does not imply that every resident is a Thinker.
+
 **Canonical Thinker Grade distribution currently established:**
 - Tianhai Yunzhou: four Thinker Grade 10 individuals, including Ji Haoyuan.
 - Golden Dragon Empire: one Thinker Grade 9 and six Thinker Grade 8 individuals; other grade counts are not established.

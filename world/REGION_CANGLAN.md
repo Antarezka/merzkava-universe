@@ -22,11 +22,11 @@
 
 - **Regional administrative seat:** Qinghe
 - **Population planning estimate:** 64 juta (part of the Empire-wide 320-million baseline; see the atlas for caveats)
-- **Prefectures:** 6
-- **Counties:** 47 (redistributed after prefecture consolidation)
-- **Cities:** 54
-- **Towns:** 399
-- **Named rural villages listed in this atlas:** 3
+- **Prefectures:** 2
+- **County circuit:** Riverlands Circuit
+- **Cities:** Not separately counted in the simplified register; former seats remain settlements or service hubs.
+- **Small towns:** Not a separate official administrative tier.
+- **Named rural villages listed in this atlas:** 2
 - **Other rural settlements:** Unenumerated; do not generate or count thousands of named villages by default
 - **Full official register:** `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
 
@@ -60,14 +60,12 @@ The prefecture seats listed below are established by `world/GOLDEN_DRAGON_EMPIRE
 
 ### Named rural villages
 
-These listed villages are the region's current named rural locations for roleplay. Their listed roles are broad local character, not proof of a bank, academy, clinic, library, or permanent state office.
+This is the region's compact named village roster. Other former village names remain local settlements or hamlets unless separately promoted back into the official thirteen-village register. Village status does not imply permanent public services or a named leader.
 
 | Settlement | Type | Established role | Authority / status |
 |---|---|---|---|
 | Reedbank Village | Rural village | Riverbank farming and reedcraft | Local community; detailed NPCs and services pending |
 | Fish Lantern Village | Rural village | Fishing, nets, and river trade | Local community; detailed NPCs and services pending |
-| Green Dike Village | Rural village | Levee maintenance and rice cultivation | Local community; detailed NPCs and services pending |
-
 ## 4. Local Society and Daily Life
 - Local demographics and population distribution within settlements: Belum ditetapkan; regional planning total is listed in Section 2A.
 - Social structure and customs: Belum ditetapkan

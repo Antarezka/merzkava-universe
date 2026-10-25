@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1120" viewBox="0 0 960 1120" role="img" aria-labelledby="title desc">
+  <title id="title">Merzkava Universe — The Noticeboard</title>
+  <desc id="desc">Six colorful framed panels introducing the world, hidden places, the cost of power, thinkers, the living calendar, and rumors.</desc>
+  <rect width="960" height="1120" fill="#F6F1E8"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="34" y="28" width="892" height="94" rx="3" fill="#8A8D91"/>
+    <path d="M34 28H926V122H34Z" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+    <text x="62" y="61" fill="#FFFFFF" font-size="17" font-weight="700" letter-spacing="3">MERZKAVA UNIVERSE / FIELD NOTES</text>
+    <text x="62" y="99" fill="#FFFFFF" font-size="32" font-weight="900" letter-spacing="1">THE NOTICEBOARD</text>
+    <rect x="34" y="145" width="892" height="224" rx="3" fill="#FFB36B"/>
+    <rect x="34" y="145" width="892" height="48" fill="#8A8D91"/>
+    <path d="M34 145H926V369H34Z" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+    <text x="58" y="176" fill="#FFFFFF" font-size="18" font-weight="700" letter-spacing="1.5">01 / THE WORLD</text>
+    <text x="60" y="235" fill="#FFFFFF" font-size="34" font-weight="900">THREE POWERS.</text>
+    <text x="60" y="276" fill="#FFFFFF" font-size="34" font-weight="900">DIFFERENT AMBITIONS.</text>
+    <text x="60" y="322" fill="#FFFFFF" font-size="19">One world does not mean one way to live.</text>
+
+    <rect x="34" y="393" width="426" height="202" rx="3" fill="#FFE066"/>
+    <rect x="34" y="393" width="426" height="44" fill="#F25C54"/>
+    <path d="M34 393H460V595H34Z" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+    <text x="54" y="422" fill="#FFFFFF" font-size="16" font-weight="800" letter-spacing="1">02 / BEYOND THE MAP</text>
+    <text x="56" y="476" fill="#FFFFFF" font-size="23" font-weight="900">SOME PLACES</text>
+    <text x="56" y="505" fill="#FFFFFF" font-size="23" font-weight="900">STAY HIDDEN.</text>
+    <text x="56" y="548" fill="#FFFFFF" font-size="16">Not every road welcomes you.</text>
+
+    <rect x="482" y="393" width="444" height="202" rx="3" fill="#F25C54"/>
+    <rect x="482" y="393" width="444" height="44" fill="#8A8D91"/>
+    <path d="M482 393H926V595H482Z" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+    <text x="502" y="422" fill="#FFFFFF" font-size="16" font-weight="800" letter-spacing="1">03 / POWER HAS A PRICE</text>
+    <text x="504" y="476" fill="#FFFFFF" font-size="25" font-weight="900">STRENGTH OPENS</text>
+    <text x="504" y="506" fill="#FFFFFF" font-size="25" font-weight="900">DOORS.</text>
+    <text x="504" y="548" fill="#FFFFFF" font-size="16">It cannot undo every mistake.</text>
+
+    <rect x="34" y="619" width="892" height="156" rx="3" fill="#8A8D91"/>
+    <rect x="34" y="619" width="892" height="43" fill="#FFB36B"/>
+    <path d="M34 619H926V775H34Z" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+    <text x="58" y="647" fill="#FFFFFF" font-size="17" font-weight="800" letter-spacing="1.2">04 / ANOTHER KIND OF GENIUS</text>
+    <text x="58" y="706" fill="#FFFFFF" font-size="27" font-weight="900">NOT EVERY BREAKTHROUGH BEGINS WITH CULTIVATION.</text>
+    <text x="58" y="744" fill="#FFFFFF" font-size="18">Some are built by the hands—and minds—of makers.</text>
+
+    <rect x="34" y="799" width="546" height="182" rx="3" fill="#FFB36B"/>
+    <rect x="34" y="799" width="546" height="43" fill="#F25C54"/>
+    <path d="M34 799H580V981H34Z" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+    <text x="56" y="827" fill="#FFFFFF" font-size="16" font-weight="800" letter-spacing="1">05 / A WORLD IN MOTION</text>
+    <text x="56" y="881" fill="#FFFFFF" font-size="26" font-weight="900">THE CALENDAR</text>
+    <text x="56" y="912" fill="#FFFFFF" font-size="26" font-weight="900">DOESN'T WAIT.</text>
+    <text x="56" y="950" fill="#FFFFFF" font-size="16">Trade, festivals, and rivalries continue.</text>
+
+    <rect x="602" y="799" width="324" height="182" rx="3" fill="#FFE066"/>
+    <rect x="602" y="799" width="324" height="43" fill="#8A8D91"/>
+    <path d="M602 799H926V981H602Z" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+    <text x="622" y="827" fill="#FFFFFF" font-size="16" font-weight="800" letter-spacing="1">06 / FIELD WARNING</text>
+    <text x="622" y="881" fill="#FFFFFF" font-size="26" font-weight="900">RUMORS</text>
+    <text x="622" y="912" fill="#FFFFFF" font-size="26" font-weight="900">≠ TRUTH</text>
+    <text x="622" y="950" fill="#FFFFFF" font-size="16">Look closer. Ask twice.</text>
+
+    <rect x="34" y="1005" width="892" height="83" rx="3" fill="#F25C54"/>
+    <path d="M34 1005H926V1088H34Z" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+    <text x="58" y="1040" fill="#FFFFFF" font-size="17" font-weight="800" letter-spacing="2">LOOK CLOSER</text>
+    <text x="58" y="1067" fill="#FFFFFF" font-size="20" font-weight="900">YOUR NEXT LEAD IS IN THE ARCHIVE →</text>
+  </g>
+</svg>

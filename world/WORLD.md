@@ -353,7 +353,7 @@ Lembah terpencil yang menampung permukiman kecil, tempat pertapaan, dan jalur te
 
 Kawasan mineral, bahan baku, serta bengkel dan tempat pengolahan sederhana.
 
-5.3 Beiming Clans
+5.3 Beiming Gu Clans
 
 Klan| Bidang pengaruh utama
 Beiming Clan| Keluarga penguasa dan kepentingan pusat
@@ -369,7 +369,7 @@ Minghu Clan| Pengintaian dan jalur terpencil
 Binghe Clan| Jalur sungai dan transportasi lokal
 Xuanye Clan| Teknik tempur dan kepentingan strategis
 
-5.4 Beiming Dojos
+5.4 Beiming Gu Dojos
 
 1. Blue-Flame Dojo — teknik yang berkaitan dengan api biru.
 2. Frostpeak Dojo — ketahanan dan pertarungan di lingkungan dingin.

@@ -81,7 +81,7 @@ Wilayah kaya mineral, logam spiritual, pertambangan, serta bahan baku artefak da
 
 4. Tianfeng — Scholarly Heights
 
-Pusat akademi, pendidikan kultivasi, pelatihan murid, dan pertukaran pengetahuan.
+Pusat tradisi keilmuan, pengembangan talenta, literasi, dan pertukaran pengetahuan. Tianfeng menjadi sumber siswa berbakat bagi dua akademi kultivasi pusat di Huanglongcheng; bukan lokasi akademi kultivator ketiga atau jaringan akademi regional.
 
 5. Yanling — Volcanic Mountains
 

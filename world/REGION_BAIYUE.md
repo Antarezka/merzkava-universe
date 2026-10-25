@@ -27,7 +27,7 @@
 - **County circuit:** Frontier–Maritime Circuit
 - **Cities:** Not separately counted in the simplified register; former seats remain settlements or service hubs.
 - **Small towns:** Not a separate official administrative tier.
-- **Named rural villages listed in this atlas:** 5
+- **Official named rural villages in this region:** 2
 - **Other rural settlements:** Unenumerated; do not generate or count thousands of named villages by default
 - **Full official register:** `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
 
@@ -59,17 +59,17 @@ The official prefecture seats are only those listed in `world/GOLDEN_DRAGON_EMPI
 | Songdun | City / settlement and service hub | Former prefectural seat; Songdun remains a settlement under Northwatch Prefecture | Local civil administration; not an independent prefectural seat |
 
 
-### Named rural villages
+### Official Villages and Other Local Settlements
 
-This is the region's compact named village roster. Other former village names remain local settlements or hamlets unless separately promoted back into the official thirteen-village register. Village status does not imply permanent public services or a named leader.
+Only 2 villages are part of the Empire's official thirteen-village register in this region. Other named places listed below are hamlets/local settlements, not additional official villages. Their local functions and route connections remain usable, but they must not be counted as official villages. Permanent public services or named leaders are not implied.
 
 | Settlement | Type | Established role | Authority / status |
 |---|---|---|---|
 | Watchfire Village | Rural village | Roadside farming near a patrol route | Local community; detailed NPCs and services pending |
 | Stonegate Village | Rural village | Passage guides and pack animals | Local community; detailed NPCs and services pending |
-| Pine Watch Village | Rural village | pemandu hutan, kayu terukur, perbaikan pos | jalur hutan dari Beiguan; zona patroli bisa butuh izin |
-| Wolf Pass Village | Rural village | penginapan karavan dan hewan beban | jalur sempit menuju Tieguan; rawan longsor/salju |
-| Cold Spring Village | Rural village | mata air, makanan awetan, tempat istirahat patroli | jalur kaki dari Yingshan; bukan jalur kereta |
+| Pine Watch Hamlet | Hamlet / local settlement | pemandu hutan, kayu terukur, perbaikan pos | jalur hutan dari Beiguan; zona patroli bisa butuh izin |
+| Wolf Pass Hamlet | Hamlet / local settlement | penginapan karavan dan hewan beban | jalur sempit menuju Tieguan; rawan longsor/salju |
+| Cold Spring Hamlet | Hamlet / local settlement | mata air, makanan awetan, tempat istirahat patroli | jalur kaki dari Yingshan; bukan jalur kereta |
 ## 4. Local Society and Daily Life
 
 - Keluarga penjaga jalan, petani tahan dingin, pemburu legal, penginapan karavan, pemandu lintasan, dan pemasok garnisun tinggal berjauhan. Musim dingin membuat perjalanan jadi persoalan logistik.

@@ -1,6 +1,6 @@
 # Merzkava Universe — Ashen Borderlands
 
-**Status:** Regional scaffold; owner completion pending.  
+**Status:** Partially developed regional canon; some geographic and local details remain unconfirmed.  
 **Canon policy:** This file only carries forward facts already established in `world/MAP_AND_REGIONS.md` and `world/WORLD.md`. All other details remain unconfirmed until the owner adds them.
 
 ## 1. Confirmed Foundation
@@ -72,6 +72,12 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for named NPC profiles. Do not reveal hi
 - Transport available: Only when established in canon
 - Do not infer coordinates, adjacency, exact travel time, current faction control, or hidden NPC lore.
 - If a detail is missing, leave it unconfirmed until the owner fills it in.
+
+
+
+## Lawless Territories Canon Addendum
+
+Shared details for the underground economy, Silent Maw Hall's assassin brokerage, Black Scripture Sect appraisal services, Hollow Fang Alliance sparring venues, elite auctions, people-smuggling, the Wayfarer Hearth Network, food scarcity, and the Dead Zone are centralized in world/LAWLESS_TERRITORIES.md. Read that module for any scene involving those services. The region's association list does not establish which organization controls an individual settlement, road, or venue.
 
 ## 11. Owner Completion Checklist
 - [ ] Add geography and confirmed routes

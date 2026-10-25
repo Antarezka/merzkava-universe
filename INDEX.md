@@ -194,6 +194,7 @@ Regional modules are divided according to the established geography in `world/MA
 
 ### Tianhai Yunzhou
 - Tianhai Yunzhou — `world/REGION_TIANHAI_YUNZHOU.md`
+- Tianhai court, civil/military officials, district administrators, clan heads, dojo masters, Thinker institutions — `world/NPC_TIANHAI_POWER_STRUCTURE.md`
 - Maharaja Ji Haoyuan — `world/NPC_JI_HAOYUAN.md`
 - Bai Xuanyin, revered Tianhai heroine — `world/NPC_BAI_XUANYIN.md`
 - Ji Zhaoning, elder twin princess — `world/NPC_JI_ZHAONING.md`

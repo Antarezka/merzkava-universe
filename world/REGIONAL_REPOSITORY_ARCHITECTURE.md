@@ -21,7 +21,7 @@ The central repository owns:
 - `templates/AUTHORITY_ORDER.md` and global GM/navigation procedures.
 - Global world canon, shared mechanics, common templates, and cross-power rules.
 - Cross-region references, global history/events, and rules that apply across multiple powers.
-- Temporary legacy regional/NPC files until migration is complete and verified.
+- Temporary legacy regional files, plus compatibility pointers at old `world/NPC_*.md` paths. Canonical named NPC profiles have been staged under `regions/<power>/npcs/`; these folders remain inside the central repo until separate regional repositories are created and verified.
 
 The central repository is the navigation hub, not the long-term home of detailed local NPC profiles after migration.
 
@@ -86,10 +86,10 @@ Do not fetch every NPC profile for an ordinary scene. Load all relevant regional
 A design document does not itself create regional repositories or migrate files.
 
 Until each destination repository URL and its contents are verified:
-- Treat existing `world/REGION_*.md`, `world/NPC_*.md`, and region-specific governance/institution files in the central repo as legacy canon.
-- Do not delete, overwrite, or claim those files have been moved.
-- Do not invent destination URLs.
-- Do not claim the three-repository separation is complete.
+- Treat existing `world/REGION_*.md` and region-specific governance/institution files in the central repo as regional canon still awaiting repository migration.
+- Canonical named NPC profiles already staged under `regions/golden-dragon-empire/npcs/` and `regions/tianhai-yunzhou/npcs/` are the authoritative full profiles; old `world/NPC_*.md` files are compatibility pointers.
+- Do not delete or overwrite the regional source modules, invent destination URLs, or claim the three-repository separation is complete.
+- The current in-repo staging step is not a substitute for creating and verifying the three destination repositories.
 
 For each power, migrate and verify one coherent set:
 1. Create/verify that power's repository and local `INDEX.md`.

@@ -50,9 +50,9 @@ For any gameplay scene, lore answer, audit, or repository edit involving **Golde
 - Until the three repositories are verified and migrated, use the corresponding legacy modules in the central repo as temporary sources: `world/CANON_DECISIONS_AND_PRECEDENCE.md`, `world/MAP_AND_REGIONS.md`, `world/WORLD.md`, and the exact regional module.
 - Then load the relevant authority for government, faction, institution, service, economy, or NPC. For travel, verify the route and any intermediate transfers; never assume a direct connection.
 - Do not transfer administrative counts, government structures, institutions, or social rules from one power to another without explicit supporting canon.
-- Beiming regional files marked as scaffolds remain incomplete by design. Treat missing settlements, routes, administration, prices, customs, and NPCs as unconfirmed, not as an invitation to invent permanent canon.
+- Beiming Gu regional files marked as scaffolds remain incomplete by design. Treat missing settlements, routes, administration, prices, customs, and NPCs as unconfirmed, not as an invitation to invent permanent canon.
 - Tianhai facts must follow its own regional and linked institutional/governance references; do not automatically apply Golden Dragon Empire rules there.
-- For settlement counts, only the Golden Dragon Empire has the explicit binding baseline of 13 official villages and 21 separately classified named hamlets in its canonical atlas. Do not apply those figures to Tianhai Yunzhou or Beiming.
+- For settlement counts, only the Golden Dragon Empire has the explicit binding baseline of 13 official villages and 21 separately classified named hamlets in its canonical atlas. Do not apply those figures to Tianhai Yunzhou or Beiming Gu.
 - If any required source cannot be accessed, say which one and do not claim the relevant canon check is complete. Never claim to have read a file that was not fetched.
 
 ## 3. Mode Sesi

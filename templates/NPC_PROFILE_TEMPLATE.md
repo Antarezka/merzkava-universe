@@ -74,3 +74,12 @@ Use the official numbered form `Spirit Realm N — Spirit [tier], [stage] Stage`
 - Provisional details awaiting owner approval:
 - Contradictions to resolve:
 - Do not invent secret lineage, rare abilities, relationships, crimes, or past events and present them as canon.
+
+
+## Profile consistency notes
+
+- The current location is the last confirmed location, not a guarantee of continuous presence.
+- Keep public facts, NPC knowledge, mistaken beliefs, player-character knowledge, and GM-only secrets separate.
+- Define independent goals and constraints; NPC choices must not exist solely to help or obstruct the player.
+- Record only confirmed state changes and include cause/time when known. Do not claim off-screen simulation without an established procedure.
+- Regional registries should link to this one canonical profile rather than copying its biography.

@@ -7,9 +7,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ![Merzkava Universe — warm orange, black, yellow, coral and white title banner](assets/merzkava-header.svg)
 
-![EASTERN FANTASY](https://img.shields.io/badge/EASTERN_FANTASY-151515?style=for-the-badge&labelColor=FFB36B)
-![CULTIVATION](https://img.shields.io/badge/CULTIVATION-151515?style=for-the-badge&labelColor=FFE066)
-![WORLD IN MOTION](https://img.shields.io/badge/WORLD_IN_MOTION-FFFFFF?style=for-the-badge&labelColor=F25C54)
+![Eastern Fantasy, Cultivation, and World in Motion colorful black-framed tags in orange, yellow, and coral](assets/world-tags.svg)
 
 ### A WORLD THAT DOESN'T WAIT FOR YOU.
 

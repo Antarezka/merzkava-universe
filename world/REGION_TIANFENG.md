@@ -27,7 +27,7 @@
 - **County circuit:** Scholarly Heights Circuit
 - **Cities:** Not separately counted in the simplified register; former seats remain settlements or service hubs.
 - **Small towns:** Not a separate official administrative tier.
-- **Named rural villages listed in this atlas:** 5
+- **Official named rural villages in this region:** 2
 - **Other rural settlements:** Unenumerated; do not generate or count thousands of named villages by default
 - **Full official register:** `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
 
@@ -59,17 +59,17 @@ The official prefecture seats are only those listed in `world/GOLDEN_DRAGON_EMPI
 | Yuyan | City / settlement and service hub | Former prefectural seat; Yuyan remains a settlement under Heavenly Script Prefecture | Local civil administration; not an independent prefectural seat |
 
 
-### Named rural villages
+### Official Villages and Other Local Settlements
 
-This is the region's compact named village roster. Other former village names remain local settlements or hamlets unless separately promoted back into the official thirteen-village register. Village status does not imply permanent public services or a named leader.
+Only 2 villages are part of the Empire's official thirteen-village register in this region. Other named places listed below are hamlets/local settlements, not additional official villages. Their local functions and route connections remain usable, but they must not be counted as official villages. Permanent public services or named leaders are not implied.
 
 | Settlement | Type | Established role | Authority / status |
 |---|---|---|---|
 | Inkstone Village | Rural village | Paper, ink, and copying work | Local community; detailed NPCs and services pending |
 | Crane Rest Village | Rural village | Highland farming and caravan lodging | Local community; detailed NPCs and services pending |
-| Paper Crane Village | Rural village | kertas, tinta, penjilidan, salinan naskah | jalur menanjak dari Tianshu; gerobak kecil |
-| Cloud Ladder Village | Rural village | teh dataran tinggi dan penginapan pendaki | tangga batu/jalur bagal dari Yunding |
-| Scholar's Rest Village | Rural village | juru tulis lepas, pemandu arsip, rumah singgah ujian | cabang Wenchuan; ramai saat musim ujian |
+| Paper Crane Hamlet | Hamlet / local settlement | kertas, tinta, penjilidan, salinan naskah | jalur menanjak dari Tianshu; gerobak kecil |
+| Cloud Ladder Hamlet | Hamlet / local settlement | teh dataran tinggi dan penginapan pendaki | tangga batu/jalur bagal dari Yunding |
+| Scholar's Rest Hamlet | Hamlet / local settlement | juru tulis lepas, pemandu arsip, rumah singgah ujian | cabang Wenchuan; ramai saat musim ujian |
 ## 4. Local Society and Daily Life
 
 - Pelajar, tutor, cendekiawan, penyalin, penjilid buku, petani teh, pembawa pesan, pemandu gunung, serta keluarga yang mendukung pendidikan membentuk masyarakat. Musim ujian dan seleksi beasiswa—termasuk bagi calon siswa yang akan berangkat ke Huanglongcheng—dapat menaikkan harga kamar dan makanan.

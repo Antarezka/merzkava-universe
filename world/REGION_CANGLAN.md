@@ -37,7 +37,7 @@ Prefectures and seats:
 
 Former prefectural seats retained as cities/local service hubs: Lianzhou, Mingchuan, Yunshui, and Shuangjiang. They are not active prefectures.
 
-The administrative atlas is authoritative for names, territory estimates, and the selected village list. The listed named villages are maintained as roleplay locations for this region; unlisted hamlets may exist but are not individually catalogued. Development and services are strongest near this region's regional seat and major settlements, then generally thin with distance, isolation, and difficult terrain. Do not infer exact borders or travel times from the jurisdiction list alone.
+The administrative atlas is authoritative for names, territory estimates, and the selected village list. The listed named villages are maintained as roleplay exploration anchors for this region; unlisted hamlets may exist but are not individually catalogued. Development and services are strongest near this region's regional seat and major settlements, then generally thin with distance, isolation, and difficult terrain. Do not infer exact borders or travel times from the jurisdiction list alone.
 
 **Population-facing institutions:** Use `world/GOLDEN_DRAGON_EMPIRE_POPULATION_SERVICES.md` for named Ninefold Concord Bank and Myriad Ledger Exchange branches and Medicine Hall Society service points. The same register establishes only two boarding academies, both in Huanglongcheng, plus selected Ordo Suci Tianming public libraries; neither academies nor libraries are presumed to exist in every region. The central register governs named locations and service limits.
 
@@ -69,30 +69,40 @@ This is the region's compact named village roster. Other former village names re
 |---|---|---|---|
 | Reedbank Village | Rural village | Riverbank farming and reedcraft | Local community; detailed NPCs and services pending |
 | Fish Lantern Village | Rural village | Fishing, nets, and river trade | Local community; detailed NPCs and services pending |
+| Lotus Weir Village | Rural village | pematang teratai, sayuran air, tambak ikan | perahu kanal dari Qinghe; jalan putus saat banjir |
+| Three Reeds Village | Rural village | anyaman tikar, tali, perbaikan perahu | kanal kecil dari Reedbank; perlu perahu |
+| Rice Bell Village | Rural village | lumbung komunal, penggilingan padi, pasar panen | tanggul menuju Jiangbei; rawan tergenang |
 ## 4. Local Society and Daily Life
-- Local demographics and population distribution within settlements: Belum ditetapkan; regional planning total is listed in Section 2A.
-- Social structure and customs: Belum ditetapkan
-- Language and local etiquette: Belum ditetapkan
-- Ordinary occupations and services: Belum ditetapkan
+
+- Petani padi, pengelola tanggul, nelayan, tukang perahu, pedagang gabah, dan buruh dermaga menjadi tulang punggung wilayah. Jadwal hidup mengikuti musim air dan panen.
+- Desa mengadakan kerja bersama memperbaiki tanggul; pemilik gudang dan pemberi pinjaman punya daya tawar besar saat panen buruk. Perahu feri, rumah makan dermaga, penginapan saudagar, dan tabib umum lebih lazim daripada bengkel artefak.
+
 
 ## 5. Economy and Resources
-- Main livelihoods: Belum ditetapkan
-- Known resources: Belum ditetapkan
-- Markets, prices, and trade flows: Refer to `core/10_ECONOMY_SYSTEM.md`; regional specifics pending
+
+- **Kekuatan:** beras, ikan air tawar, sayuran air, anyaman, tali, gudang, dan angkutan sungai.
+- Rice Bell memasok gabah ke Jiangbei; Three Reeds membuat tali untuk kapal; Lotus Weir menjual hasil kebun air ke Qinghe. Gudang yang membeli panen di muka memberi modal cepat tetapi dapat menjerat petani dalam utang.
+- **Destinasi elit:** Paviliun Seribu Lampion Sungai menawarkan makan malam perahu, taman air, musik, dan penginapan kanal; tur dibatalkan saat banjir atau arus berbahaya.
+- Risiko: manipulasi timbangan, pengoplosan gabah, pemerasan dermaga, monopoli gudang, sabotase tanggul.
+
 
 ## 6. Cultivation, Martial Souls, Spirit Beasts, and Thinkers
-- Local traditions / institutions: Belum ditetapkan
-- Academies, dojos, or training locations: Belum ditetapkan
-- Spirit Beast habitats and confirmed species: Refer to `bestiary/SPIRIT_BEAST_RULES.md`; regional entries pending
-- Thinker workshops / artifact facilities: Belum ditetapkan
-- Do not invent local power rankings, special rules, or rare abilities.
+
+- Lokasi eksplorasi: gudang gabah tua di jalur banjir, kanal tertutup di balik Three Reeds, tanggul runtuh antara Lotus Weir dan Rice Bell, serta dermaga karam yang terlihat saat surut.
+- Arus, lumpur, kabut, dan jembatan bambu adalah bahaya nyata; spesies Spirit Beast harus mengikuti bestiary.
+
 
 ## 7. Factions and Local Authority
-- Refer to `world/FACTIONS.md`; region-specific presence and control pending
+
+- Gubernur dan pejabat mengikuti kecenderungan dalam `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`; kecenderungan politik bukan bukti keanggotaan faksi rahasia.
+- **Relasi usaha dan komunitas:**
+  - **Koperasi Lumbung Riverlands** mengatur simpanan dan distribusi; **Serikat Kapal Qinghe** mengatur jadwal sandar; **Rumah Dagang Tiga Timbangan** memberi pinjaman panen.
+  - Serikat kapal membutuhkan tali Three Reeds, lumbung membeli gabah Rice Bell, dan wisata membeli ikan dari nelayan. Konflik muncul saat kapal besar diprioritaskan atau pinjaman dipakai untuk menekan petani.
 
 | Name | Type | Role / influence | Confirmed relationship or control | Canon source |
 |---|---|---|---|---|
-| See `GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` | Current civil officeholders | Named governor, prefects, and county magistrates | Roster is authoritative for names and dispositions | `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` |
+| See `GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` | Current civil officeholders | Governor, prefects, and retained regional/circuit officers | Central roster is authoritative | `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` |
+
 
 ## 8. Regional NPC Registry
 
@@ -109,15 +119,24 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPC
 | Pei Jianing | Canglan; exact assignment unconfirmed | Riverlands Circuit liaison officer |Spirit Realm 4 — Spirit Monarch, Middle Stage; pragmatis, condong ke stabilitas takhta; Orientasi rakyat: sangat tinggi; penegakan hukum 2/5 — lunak-moderat, mediasi dan peringatan lebih dahulu| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
 
 ## 9. Current Situations and Events
-- Local conflicts: Belum ditetapkan
-- Active world events: Check `world/DYNAMIC_EVENTS.md`; do not create events here
-- Persistent consequences: Record only through the official event/history process
+
+- **Kecil — Pengait Dermaga (8–15):** pencopet dan pemalak pasar ikan.
+- **Menengah — Perahu Kabut (25–50):** penyelundup kanal yang memakai tanda gudang palsu, paling aktif saat banjir atau pemeriksaan ketat.
+- **Besar — Jaringan Timbangan Gelap:** penimbang dan gudang korup menahan gabah untuk menaikkan harga; pengaruhnya logistik/utang, bukan pasukan terbuka.
+- Gubernur Cangyue Yunhe (Spirit Realm 5) kuat bernegosiasi dan menginspeksi gudang, tetapi bergantung pada pejabat serta pemilik kapal; wilayah air luas menyulitkan penegakan.
+
+**GM encounter rule:** these groups are established regional threats, not a schedule forcing every group to attack every session. Randomize the lead, rumor, victim, patrol, and opportunity; scale encounters to player information and local conditions. Crime activity shifts after arrests, weather, shortages, or patrol pressure. Do not decide guilt solely from appearance or origin.
+
 
 ## 10. Travel and GM Constraints
-- Confirmed routes: Twin River Route (Qinghe ↔ Jiangbei); other local routes remain unspecified
-- Transport available: Only when established in canon
-- Do not infer coordinates, adjacency, exact travel time, current faction control, or hidden NPC lore.
-- If a detail is missing, leave it unconfirmed until the owner fills it in.
+
+- Twin River Route menghubungkan Qinghe ↔ Jiangbei lewat sungai utama. Jalur tanggul: Qinghe → Reedbank → Rice Bell → Jiangbei.
+- Jalur kanal: Qinghe → Lotus Weir → Three Reeds memakai perahu kecil; Fish Lantern melayani feri lokal. Banjir memutus jalan darat, sedangkan musim kering membatasi kapal besar.
+
+- Treat routes as a connected graph: destinations require listed connected legs or a newly established path explicitly recorded in canon.
+- Do not invent exact distances or travel times without travel rules, mode, and weather support.
+- Local incidents should fit the region: paperwork/pungli (Longyuan), water levels/cargo (Canglan), mine safety/closures (Jinyue), fog/document fraud (Tianfeng), fire/industrial freight (Yanling), patrol permits/weather (Baiyue), tides/manifests/storms (Xingluo).
+
 
 ## 11. Owner Completion Checklist
 - [ ] Add geography and confirmed routes

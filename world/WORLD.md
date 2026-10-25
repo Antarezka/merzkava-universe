@@ -270,11 +270,11 @@ The Maharaja is **Ji Haoyuan**, a visionary leader. His canonical profile is mai
 - Thinker Grade 10.
 - The Tier 9 Artificial Artifact supporting the floating island was created by one of his ancestors, not by Ji Haoyuan himself.
 
-His wife, **Bai Xuanyin**, was a Thinker Grade 10 and Spirit Realm 7 — Spirit Emperor. She died during the Great Tianhai War, when three Tier 9 Demonic Beasts sought to invade and devastate Tianhai. She is revered as a great heroine. Her weapon-type Artificial Artifact is described as the strongest of its type in the world; she also created Artificial Artifact armor still used by Tianhai soldiers and contributed to the giant protective dome shielding Tianhai. Her full profile is `world/NPC_BAI_XUANYIN.md`. Names and specifications of these artifacts, the identities of the three beasts, and the exact chronology of the war remain unspecified.
+His wife, **Bai Xuanyin**, was a Thinker Grade 10 and Spirit Realm 7 — Spirit Emperor. She died during the Great Tianhai War, when three Tier 9 Demonic Beasts sought to invade and devastate Tianhai. She is revered as a great heroine. Her weapon-type Artificial Artifact is described as the strongest of its type in the world; she also created Artificial Artifact armor still used by Tianhai soldiers and contributed to the giant protective dome shielding Tianhai. Her full profile is `regions/tianhai-yunzhou/npcs/BAI_XUANYIN.md`. Names and specifications of these artifacts, the identities of the three beasts, and the exact chronology of the war remain unspecified.
 
 Their twin daughters are **Ji Zhaoning** and **Ji Ningzhao**, both 16, golden-eyed, and exceptionally intelligent.
-- Ji Zhaoning, the elder twin, has not undergone Martial Soul Awakening because she has focused on developing her Thinker Grade and Thinker abilities. Her actual Thinker Grade is not yet established. Profile: `world/NPC_JI_ZHAONING.md`.
-- Ji Ningzhao, the younger twin, has awakened and reached Spirit Realm 3 — Spirit Elder, Early Stage. Her Martial Soul is **Canglan Shenhua (沧澜神花), Bunga Ilahi Ombak Biru**. Its specific powers and rarity are not established. Profile: `world/NPC_JI_NINGZHAO.md`.
+- Ji Zhaoning, the elder twin, has not undergone Martial Soul Awakening because she has focused on developing her Thinker Grade and Thinker abilities. Her actual Thinker Grade is not yet established. Profile: `regions/tianhai-yunzhou/npcs/JI_ZHAONING.md`.
+- Ji Ningzhao, the younger twin, has awakened and reached Spirit Realm 3 — Spirit Elder, Early Stage. Her Martial Soul is **Canglan Shenhua (沧澜神花), Bunga Ilahi Ombak Biru**. Its specific powers and rarity are not established. Profile: `regions/tianhai-yunzhou/npcs/JI_NINGZHAO.md`.
 
 The regional module `world/REGION_TIANHAI_YUNZHOU.md` records the canonical family details and the known boundaries of the Great Tianhai War. Do not infer unstated artifact specifications, war chronology, hidden motives, or abilities.
 

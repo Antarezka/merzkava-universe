@@ -32,7 +32,7 @@
 
 ## 5. Knowledge Boundaries
 - Specific knowledge inventory and mistaken beliefs beyond the established events below: Not fully itemized.
-- **GM-sensitive history:** He personally served as an active World Knowledge Tower member during the world-calamity incursion. His duty kept him away from Tianhai Yunzhou during the Great Tianhai War and Bai Xuanyin's death. He continued the urgent containment obligations until the immediate threat had been suppressed and the remaining Demonic Beasts were scattered across the world, then ceased active service and returned home. Do not invent the exact moment he received the news, private reactions, or later Tower membership status beyond this established withdrawal from active service.
+- **GM-sensitive history:** He personally served as an active World Knowledge Tower member during the world-calamity incursion. His duty kept him away from Tianhai Yunzhou during the Great Tianhai War and Bai Xuanyin's death. He learned of her death while still serving and resolved to end active service, but continued the urgent containment obligations until the immediate threat had been suppressed and the remaining Demonic Beasts were scattered across the world; only then did he return home. Do not invent the exact moment he received the news, private reactions, or later Tower membership status beyond this established withdrawal from active service.
 - His experiences and information actually received govern what he knows.
 
 ## 6. Relationships

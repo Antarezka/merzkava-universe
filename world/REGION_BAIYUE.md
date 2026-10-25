@@ -32,10 +32,8 @@
 
 Prefectures and seats:
 - Northwatch Prefecture — Beiguan
-- Iron Pass Prefecture — Tieguan
-- Stonewall Prefecture — Shibi
-- Falcon Ridge Prefecture — Yingshan
-- Long Pass Prefecture — Changguan
+
+Former prefectural seats retained as cities/local service hubs: Tieguan, Shibi, Yingshan, and Changguan. They are not active prefectures.
 
 The administrative atlas is authoritative for names, territory estimates, and the selected village list. The listed named villages are maintained as roleplay locations for this region; unlisted hamlets may exist but are not individually catalogued. Development and services are strongest near Huanglongcheng and major regional seats, then generally thin with distance, isolation, and difficult terrain. Do not infer exact borders or travel times from the jurisdiction list alone.
 

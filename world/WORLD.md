@@ -37,7 +37,7 @@ Bentang alam luas di antara kekuasaan utama mencakup hutan, pegunungan, jurang, 
 
 II. WORLD POPULATION
 
-Angka berikut merupakan estimasi populasi awal untuk konsistensi worldbuilding, bukan hasil sensus yang diketahui setiap karakter.
+Angka berikut merupakan estimasi populasi awal untuk konsistensi worldbuilding, bukan hasil sensus yang diketahui setiap karakter. Untuk Golden Dragon Empire, populasi menjadi dasar perkiraan luas wilayah: atlas memperkirakan sekitar 11.86 juta km² memakai asumsi kepadatan berbeda sesuai pertanian, kota/pelabuhan, industri, perbatasan, dan alam liar. Luas serta kepadatan tersebut tetap estimasi worldbuilding, bukan data survei.
 
 Kekuasaan| Estimasi populasi
 Golden Dragon Empire| 320 juta

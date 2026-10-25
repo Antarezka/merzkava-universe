@@ -91,11 +91,32 @@ Use one record per event. Preserve these fields; write `???` when the source gen
 
 ## 8. Canonical Event Registry
 
-No dynamic event is registered as canon until a reviewed record is added below.
+Recurring festivals and other standing calendar observances are recorded separately from one-off active incidents. A recurring event can be canon even when the next edition's exact date, host, or attendance has not yet been established.
+
+### 8A. Recurring Canonical World Events
+
+#### WDE-0001 — Festival Tiga Kekuasaan
+
+- **Status:** ACTIVE — recurring world observance.
+- **First Occurred:** ???; the historical first edition has not been established.
+- **Last Updated:** Canon established by repository owner; see current repository commit history.
+- **Location / Scope:** Hosted in turn by one of the three major powers: Golden Dragon Empire, Tianhai Yunzhou, or Beiming Gu. Each edition takes place in the host power's designated festival grounds / central public square. The exact venue must follow established regional geography; do not invent a permanent venue before it is established.
+- **Schedule:** Every six in-world months (twice per in-world year). The event is not monthly. The host rotates among the three powers; do not assume the first host, the next host, or a fixed rotation order unless an established calendar, prior edition, or owner decision confirms it.
+- **Purpose:** Strengthen peaceful relations among the three powers, support cultural exchange, encourage trade and mutual understanding, and let visitors encounter a broad but general view of the wider world.
+- **Participants and representation:** Each of the three powers is represented, alongside delegates and participants from its known sects, clans, factions, dojos, institutions, and other established groups. Representatives of hidden mountain factions may attend if their existence and access to the festival are known/discovered in the story. Do not assume every faction sends a delegate to every edition without evidence, and do not expose secret groups or identities to characters who have not discovered them.
+- **Cultural and trade grounds:** Stalls and displays may feature each power's characteristic textiles and crafts, locally produced goods, Artificial Artifacts, engravers and their work, catalogs of Spirit Beasts known to occur specifically in each power's territory, regional foods, clothing, appearance, customs, and other established cultural differences. Demonstrations must respect actual lore and the knowledge of the people presenting it; catalogs are not proof that every beast can be found everywhere.
+- **Combat exchange:** Friendly sparring is a headline attraction. Killing is forbidden. Designated referees and festival security supervise matches and intervene to stop lethal escalation. The rules and consequences of any incident follow established combat, injury, law, and faction modules; the festival does not grant plot armor or make serious misconduct consequence-free.
+- **Cultural performances:** Each power presents characteristic dances and other established performing arts as a friendly showcase of regional beauty and identity. Do not invent a supposedly ancient or official dance tradition as established canon unless a source or later owner-approved detail supports it.
+- **Night Lantern Festival:** A night-time lantern release is a major tradition for couples and is also open as a personal act of prayer, goodwill, or hope for any wish. Do not assume every participant is romantically paired or that a wish produces supernatural effects.
+- **Security and social tension:** The festival is intended to be peaceful, not unrealistically free of conflict. Small and medium crimes, prejudice, misunderstandings, trade disputes, rivalry, and tension among visitors who reject differences may occur when supported by the scene. A major incident is possible only when its trigger and escalation are established. Do not force a crime into every edition or every player's scene; resolve incidents using the relevant official modules and register persistent consequences only after valid resolution.
+- **GM use:** This is a recurring, optional world-facing opportunity to introduce general lore, cultural variety, regional goods, combat philosophies, and inter-power relationships naturally—especially when a player has stayed in one region for a long time. The GM may surface relevant invitations, rumors, travel opportunities, or consequences through the world and NPC agendas, but must not force attendance, dump all world lore at once, or treat knowledge presented at the festival as automatically known by every character.
+- **Duration / End Condition:** Recurs every six in-world months; each edition ends according to its established schedule and events. The observance itself remains ongoing.
+- **Evidence / Related Modules:** Owner-confirmed canon; `world/WORLD.md`, `world/MAP_AND_REGIONS.md`, `world/GEOGRAPHY_AND_TRAVEL.md`, the relevant `world/REGION_*.md` modules, `world/FACTIONS.md`, `core/THINKER_AND_FORMULATION.md`, `world/ARTIFICIAL_ARTIFACTS.md`, `bestiary/SPIRIT_BEAST_RULES.md`, `gameplay/COMBAT_SYSTEM.md`, `core/INJURY_SYSTEM.md`, and `gameplay/TIME_AND_ACTION_RULES.md`.
+- **Continuity Notes:** The next host, exact date, exact venue, festival duration, detailed match rules, and specific performances/booths remain unassigned until supported by the established calendar, regional canon, prior editions, or a later owner decision. Do not fabricate these as fixed facts.
 
 ### Active Events
 
-_No active dynamic events registered yet._
+_No one-off active dynamic incidents registered yet._
 
 ### Resolved / Historical Events
 

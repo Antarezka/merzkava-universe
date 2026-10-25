@@ -132,6 +132,8 @@ The Spirit Hunters Guild is a broad contract-and-jobs Guild, not an organization
 
 The Guild is not a unified government or universal police force. Do not assume a branch, legal jurisdiction, permanent membership, uniform rules, or ability to enforce a bounty everywhere. Local presence and influence must follow canon or events.
 
+**Established Tianhai presence:** `world/REGION_TIANHAI_YUNZHOU.md` establishes a main contract office at Haiyue Market, a harbor contract desk at Cangqiong Harbor, a freight/expedition desk at Westwake Anchorage, and a limited notice/referral point at Pearlstep Landing. These are service points, not proof of uniform jurisdiction, permanent staffing, or authority over Tianhai's government, military, customs, or Lawless Territories.
+
 ## 7. Lawless Territory Organizations
 
 Lawless Territories are not a single faction or unified state. The following groups are known by association with their respective areas; exact headquarters, leaders, membership, territory, and current alliances are not established here.
@@ -156,9 +158,9 @@ Lawless Territories are not a single faction or unified state. The following gro
 
 ## 8. Medicine Hall Society
 
-The Medicine Hall Society is described as a neutral medical network spread across the world. Its detailed hierarchy, named branches, leadership, rules of neutrality, fees, and relationship to the three powers have not yet been established.
+The Medicine Hall Society is a neutral medical network spread across the world. Its overall hierarchy, world leadership, and universal fee schedule remain unestablished. The central headquarters is in the Golden Dragon Empire; the Society also has an established Tianhai service network, detailed in `world/REGION_TIANHAI_YUNZHOU.md`, with points at Haiyue Market, Cangqiong Harbor, Northwatch Quay, Westwake Anchorage, Bluefin Cove, and Pearlstep Landing.
 
-Do not assume every healer belongs to the Society, that its neutrality can never be violated, or that it offers free treatment.
+The Society's neutral intent does not guarantee that neutrality can never be violated, that every point is fully staffed, or that treatment is free. Independent healers, family practitioners, and local herbalists may work outside the Society. Do not assume every healer belongs to it.
 
 ## 8. Faction Interaction Rules
 
@@ -181,3 +183,15 @@ Its headquarters is the **Sanctum of Ten Thousand Vows**, a dedicated religious 
 The organization maintains a broad network of temples and religious houses, observation halls, assessment halls, response orders, and regional coordination centers. These are functional categories, not confirmed proper names of specific branches. Named leaders, formal ranks, doctrine, rituals, fees, membership rules, and individual combat capabilities remain unestablished.
 
 The organization is not omniscient and does not automatically defeat every threat. Reports must be verified, and response can be affected by distance, delayed information, political interests, and limited resources. Its religious standing does not grant it ownership of the World Knowledge Tower or absolute civil authority over Wanluo.
+
+
+## 10. Tianhai Trade Associations
+
+Tianhai has several independent trade and professional associations. They represent member interests and coordinate commercial services; they are not a single monopoly, government ministry, or authority over customs and harbor security. Their established local remits are:
+
+- **Haiyue Merchants' Association** — Haiyue Market; merchant representation, commodity-quality disputes, bulk orders, commercial notices, and buyer/seller introductions.
+- **Cangqiong Shipowners and Freight Union** — Cangqiong Harbor and Westwake Anchorage; freight coordination, cargo-handling standards, berth-service negotiations, crew referrals, and shipping-risk information.
+- **Linggong Artisans' Trade Association** — Linggong District, with commercial contacts at Haiyue Market; workshop-buyer links, material specifications, bulk procurement, and repair referrals for craft and Artificial Artifact industries.
+- **Misty Shoals Fishers and Pilots Association** — participating fishing and pilot communities in Misty Shoals; market information, pilot availability, local-weather observations, and supply/repair requests.
+
+These associations may compete or cooperate. Their exact leaders, membership rules, fees, prices, exclusive rights, and formal agreements remain unspecified. The Tianhai-specific locations and service boundaries are maintained in `world/REGION_TIANHAI_YUNZHOU.md`.

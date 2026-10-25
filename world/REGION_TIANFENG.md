@@ -37,7 +37,7 @@ Prefectures and seats:
 
 Former prefectural seats retained as cities/local service hubs: Wenchuan and Songmo. They are not active prefectures.
 
-The administrative atlas is authoritative for names, territory estimates, and the selected village list. The listed named villages are maintained as roleplay locations for this region; unlisted hamlets may exist but are not individually catalogued. Development and services are strongest near this region's regional seat and major settlements, then generally thin with distance, isolation, and difficult terrain. Do not infer exact borders or travel times from the jurisdiction list alone.
+The administrative atlas is authoritative for names, territory estimates, and the selected village list. The listed named villages are maintained as roleplay exploration anchors for this region; unlisted hamlets may exist but are not individually catalogued. Development and services are strongest near this region's regional seat and major settlements, then generally thin with distance, isolation, and difficult terrain. Do not infer exact borders or travel times from the jurisdiction list alone.
 
 **Population-facing institutions:** Use `world/GOLDEN_DRAGON_EMPIRE_POPULATION_SERVICES.md` for named Ninefold Concord Bank and Myriad Ledger Exchange branches and Medicine Hall Society service points. The same register establishes only two boarding academies, both in Huanglongcheng, plus selected Ordo Suci Tianming public libraries; neither academies nor libraries are presumed to exist in every region. The central register governs named locations and service limits.
 
@@ -67,30 +67,41 @@ This is the region's compact named village roster. Other former village names re
 |---|---|---|---|
 | Inkstone Village | Rural village | Paper, ink, and copying work | Local community; detailed NPCs and services pending |
 | Crane Rest Village | Rural village | Highland farming and caravan lodging | Local community; detailed NPCs and services pending |
+| Paper Crane Village | Rural village | kertas, tinta, penjilidan, salinan naskah | jalur menanjak dari Tianshu; gerobak kecil |
+| Cloud Ladder Village | Rural village | teh dataran tinggi dan penginapan pendaki | tangga batu/jalur bagal dari Yunding |
+| Scholar's Rest Village | Rural village | juru tulis lepas, pemandu arsip, rumah singgah ujian | cabang Wenchuan; ramai saat musim ujian |
 ## 4. Local Society and Daily Life
-- Local demographics and population distribution within settlements: Belum ditetapkan; regional planning total is listed in Section 2A.
-- Social structure and customs: Belum ditetapkan
-- Language and local etiquette: Belum ditetapkan
-- Ordinary occupations and services: Belum ditetapkan
+
+- Pelajar, guru, penyalin, penjilid buku, petani teh, pembawa pesan, pemandu gunung, dan keluarga pekerja akademi membentuk masyarakat. Musim ujian menaikkan harga kamar dan makanan.
+- Debat dan reputasi akademik penting, tetapi akses pendidikan tetap dipengaruhi uang, rekomendasi, dan waktu luang. Rumah salin, kedai teh, penginapan belajar, dan penjual alat tulis menjadi usaha utama.
+
 
 ## 5. Economy and Resources
-- Main livelihoods: Belum ditetapkan
-- Known resources: Belum ditetapkan
-- Markets, prices, and trade flows: Refer to `core/10_ECONOMY_SYSTEM.md`; regional specifics pending
+
+- **Kekuatan:** pendidikan, kertas, tinta, buku, arsip, teh dataran tinggi, alat tulis, penerjemah, dan penginapan ujian.
+- Paper Crane memasok kertas ke Wenchuan; Cloud Ladder memasok teh ke Tianshu; Scholar's Rest menyediakan kamar serta juru tulis bagi peserta ujian.
+- **Destinasi elit:** Teras Sembilan Tinta dekat Yunding adalah retret pegunungan bagi kolektor buku, kaligrafer, dan keluarga kaya. Arsip resmi tidak boleh dibawa keluar tanpa izin.
+- Risiko: ijazah palsu, pencurian manuskrip, perdagangan jawaban ujian, dan murid terjerat utang sponsor.
+
 
 ## 6. Cultivation, Martial Souls, Spirit Beasts, and Thinkers
-- Local traditions / institutions: Belum ditetapkan
-- Academies, dojos, or training locations: Belum ditetapkan
-- Spirit Beast habitats and confirmed species: Refer to `bestiary/SPIRIT_BEAST_RULES.md`; regional entries pending
-- Thinker workshops / artifact facilities: Belum ditetapkan
-- Do not invent local power rankings, special rules, or rare abilities.
+
+- Lokasi eksplorasi: observatorium lama di Cloud Ladder, perpustakaan cabang tertutup dekat Wenchuan, jalur batu berprasasti rusak, dan rumah singgah yang menyimpan peta tua.
+- Kabut, tebing, jembatan tali, serta dokumen palsu adalah bahaya; temuan naskah perlu autentikasi.
+
 
 ## 7. Factions and Local Authority
-- Refer to `world/FACTIONS.md`; region-specific presence and control pending
+
+- Political tendencies follow `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`; inclination is not proof of secret faction membership.
+
+### Regional business and community networks
+- **Perhimpunan Penyalin Tianfeng** menjaga standar salinan; **Dewan Sponsor Akademi** mendanai beasiswa namun dapat memengaruhi penelitian; **Koperasi Teh Awan** memasok kedai dan penginapan.
+- Akademi membutuhkan kertas, penginapan bergantung musim ujian, sponsor mencari pengaruh melalui beasiswa. Konflik biasanya soal akses dan reputasi.
 
 | Name | Type | Role / influence | Confirmed relationship or control | Canon source |
 |---|---|---|---|---|
-| See `GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` | Current civil officeholders | Named governor, prefects, and county magistrates | Roster is authoritative for names and dispositions | `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` |
+| See `GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` | Current civil officeholders | Governor, prefects, retained regional/circuit officers | Central roster is authoritative | `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` |
+
 
 ## 8. Regional NPC Registry
 
@@ -107,15 +118,23 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPC
 | Xie Zhenyu | Tianfeng; exact assignment unconfirmed | Scholarly Heights Circuit liaison officer |Spirit Realm 4 — Spirit Monarch, Middle Stage; loyalis istana, menolak perintah ilegal; Orientasi rakyat: sedang; penegakan hukum 3/5 — moderat dan prosedural| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
 
 ## 9. Current Situations and Events
-- Local conflicts: Belum ditetapkan
-- Active world events: Check `world/DYNAMIC_EVENTS.md`; do not create events here
-- Persistent consequences: Record only through the official event/history process
+
+- **Kecil — Kertas Bayangan (5–12):** penjual catatan palsu dan rekomendasi akademi palsu.
+- **Menengah — Kafilah Naskah (15–35):** pencuri serta pedagang gelap manuskrip di jalur gunung.
+- **Besar — Jaringan Ujian Bocor:** perantara, penyalin, dan sponsor korup memperjualbelikan soal; kekuatannya sosial/finansial, bukan pasukan.
+- Gubernur Yunlan Qinglan (Spirit Realm 5) mendorong meritokrasi dan perlindungan pelapor, tetapi bukti tersebar dan sponsor berpengaruh.
+
+**GM encounter rule:** groups are established threats, not a schedule forcing every group to attack every session. Randomize the lead, rumor, victim, patrol, or opportunity; scale encounters to local conditions. Activity shifts after arrests, weather, shortages, and patrol pressure. Do not decide guilt solely from appearance or origin.
+
 
 ## 10. Travel and GM Constraints
-- Confirmed routes: Cloudstep Scholar Road (Tianshu ↔ Yunding); local routes remain unspecified
-- Transport available: Only when established in canon
-- Do not infer coordinates, adjacency, exact travel time, current faction control, or hidden NPC lore.
-- If a detail is missing, leave it unconfirmed until the owner fills it in.
+
+- Cloudstep Scholar Road menghubungkan Tianshu ↔ Yunding. Jalur desa: Tianshu → Paper Crane → Scholar's Rest → Wenchuan; Cloud Ladder dicapai dari jalur bagal bercabang dekat Yunding.
+- Buku bernilai tinggi dibawa kelompok kecil. Kabut/longsor dapat menutup jalan; tidak semua jalur gunung berakhir di kota.
+
+- Treat routes as a connected graph: destinations require listed connected legs or a newly recorded path.
+- Do not invent exact distances or travel times without travel rules, transport mode, and weather support.
+
 
 ## 11. Owner Completion Checklist
 - [ ] Add geography and confirmed routes

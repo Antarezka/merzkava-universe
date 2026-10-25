@@ -28,13 +28,13 @@ These seven districts are established in `world/WORLD.md`. Their exact boundarie
 
 | District | Established function | Canon boundary |
 |---|---|---|
-| Yunxiao Terrace | Government quarter, official residence, and Maharaja's administrative center | Does not establish the names or holders of individual offices |
-| Tianji Core | Area associated with the floating island's support system | The core may be access-restricted; access rules and operators are not yet defined |
-| Cangqiong Harbor | Main harbor for ships, sailing, logistics, and movement of goods | Specific docks, fleets, routes, and harbor officials are not yet defined |
-| Haiyue Market | Trade, commodity exchange, specialist markets, and high-value transactions | Individual markets, merchants, prices, and guilds remain to be established |
-| Linggong District | Craftspeople, engineers, artifact assemblers, and manufacturing | Specific workshops, Thinker institutions, production capacity, and ownership remain unconfirmed |
-| Xuanchao Ward | Defense, maritime-route monitoring, force training, and security coordination | Command structure, units, ranks, and current deployments remain unconfirmed |
-| Misty Shoals | Outer zone encompassing small islands, misty waters, navigation routes, and exploration areas | Does not establish exact island names, safe passages, or which sites are settled |
+| Yunxiao Terrace | Government quarter, official residence, and Maharaja's administrative center; south-central area | Does not establish the names or holders of individual offices |
+| Tianji Core | Central area associated with the floating island's support system | The core may be access-restricted; access rules and operators are not yet defined |
+| Cangqiong Harbor | Main harbor for ships, sailing, logistics, and movement of goods; western area | Specific docks, fleets, routes, and harbor officials are not yet defined |
+| Haiyue Market | Trade, commodity exchange, specialist markets, and high-value transactions; eastern area | Individual markets, merchants, prices, and guilds remain to be established |
+| Linggong District | Craftspeople, engineers, artifact assemblers, and manufacturing; southern area | Specific workshops, production capacity, and ownership remain unconfirmed; the high-level Thinker Institute's remit is defined in `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md` |
+| Xuanchao Ward | Defense, maritime-route monitoring, force training, and security coordination; northern area | Command structure, units, ranks, and current deployments remain unconfirmed |
+| Misty Shoals | Outer zone encompassing small islands, misty waters, navigation routes, and exploration areas; outer maritime belt | Does not establish exact island names, safe passages, or which sites are settled |
 
 Do not treat these seven district names as a complete map of every settlement or as proof that all districts are directly connected by roads. Movement may require stairs, lifts, docks, boats, controlled passages, or other infrastructure, but specific systems must be established before they are treated as canon.
 
@@ -58,7 +58,8 @@ Do not treat these seven district names as a complete map of every settlement or
 - **Thinker progression:** Independent of Spirit Realm cultivation; use `core/THINKER_AND_FORMULATION.md` as the mechanics authority.
 - **Known artifact:** Tier 9 Artificial Artifact supporting the floating island. Refer to `world/ARTIFICIAL_ARTIFACTS.md`; no additional functions may be inferred.
 - **Five established dojos:** Skywhale, Tidal Current, Stormwake, Azure Sail, and Deepwater Dojos. Their established training specializations are listed in `world/FACTIONS.md`.
-- **Thinker institution:** Tianhai Thinker Institute, its rector, formulation examiners, materials/provenance, applied research, artifact quality inspection, workshop safety, and Thinker credential records are established in `world/NPC_TIANHAI_POWER_STRUCTURE.md`. Detailed admissions, full curriculum, public ranking systems, licensing rules, and the full institution network remain unspecified.
+- **Four Cultivator Academies:** Beichen Cultivator Academy (North), Tianlan Supreme Academy (South; the most outstanding), Cangfan Maritime Academy (West), and Haiyue Academy (East). All teach foundational Martial Soul, Spirit Realm, Spirit Ring, Spirit Beast, combat, and related knowledge through more flexible methods than the Golden Dragon Empire's orthodox central academies. See `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md`; admissions and detailed curricula remain unspecified.
+- **High-level Thinker institution:** Tianhai Thinker Institute is the world's only established institution at this level and breadth of Thinker research. Its remit includes Formation Engraver development, materials research, formulation/mixing methods, complex formation engraving for Tier 6+, and optimization of engraving/production methods for Tier 5 and below. Its officeholders are listed in `world/NPC_TIANHAI_POWER_STRUCTURE.md`; mechanics remain governed by `core/THINKER_AND_FORMULATION.md`.
 - **Spirit Beast habitats and species:** Refer to `bestiary/SPIRIT_BEAST_RULES.md`; local species and hunting grounds remain unconfirmed.
 - Do not invent local power rankings, unique cultivation rules, artifact exceptions, or guaranteed production success.
 
@@ -81,7 +82,7 @@ The following twelve clans and their broad spheres of influence are listed in `w
 | Shuijing Clan | Materials processing and craftsmanship |
 | Leiyu Clan | Combat techniques and offensive power |
 
-**Not established:** clan leaders, family trees, heirship, clan territories, membership counts, internal branches, formal rivalries, alliances, marriage ties, and specific relations with the Maharaja. These must be added consistently as the owner develops the NPC roster.
+**Established principal areas:** Canglong, Xuanchao, and Leiyu in the North; Tianjing, Shuijing, and Yunzhou in the South; Haiyuan, Lingfan, and Bihai in the West; Yunhai, Haijing, and Mingzhu in the East. These are principal bases/traditional presences, not exclusive ownership of an entire area. Family trees, heirship, membership counts, internal branches, formal rivalries, alliances, marriage ties, and specific relations with the Maharaja remain unspecified.
 
 ## 8. Established Dojos
 
@@ -164,7 +165,8 @@ When adding routes, verify terrain, vertical movement across the floating island
 - [x] Establish the twelve clan heads and five dojo masters.
 - [x] Establish the initial Thinker institution and artifact quality-control roster.
 - [ ] Develop the clans' family structures and relationships.
-- [ ] Detail academy admissions, full curricula, workshop licensing, and teaching pathways.
+- [ ] Detail academy admissions, fees, examinations, full curricula, and teaching pathways.
+- [x] Establish the four cardinal areas, principal clan distribution, four academies, and the exclusive high-level Thinker Institute.
 - [ ] Develop district-level daily life, settlements, services, resources, and markets.
 - [ ] Establish confirmed route links and transport between districts and outer islands.
 - [ ] Reconcile approved additions with `world/WORLD.md`, `world/MAP_AND_REGIONS.md`, `world/FACTIONS.md`, `INDEX.md`, and relevant NPC profiles.

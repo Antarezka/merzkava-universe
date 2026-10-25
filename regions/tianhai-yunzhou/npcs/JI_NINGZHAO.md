@@ -30,8 +30,8 @@ Her specific knowledge, mistaken beliefs, and secrets are not established. Her k
 ## 6. Relationships
 | Person | Relationship | Status |
 |---|---|---|
-| Ji Haoyuan | Father | Living; Maharaja of Tianhai |
-| Bai Xuanyin | Mother | Deceased; revered Tianhai heroine |
+| Ji Haoyuan | Father | Living; Maharaja of Tianhai Yunzhou |
+| Bai Xuanyin | Mother | Deceased; revered Tianhai Yunzhou heroine |
 | Ji Zhaoning | Elder twin sister | Living; age 16; not awakened and focused on Thinker development |
 
 ## 7. State and Continuity

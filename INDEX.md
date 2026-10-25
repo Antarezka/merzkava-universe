@@ -291,7 +291,7 @@ If a required source cannot be fetched, state which source is unavailable and do
 
 ### Mandatory Territorial Canon Load Path — All Major Powers
 
-This workflow applies to **all three major powers**—Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu—and to the Lawless Territories whenever they are involved. It applies to gameplay, lore questions, audits, and repository edits. Do not apply the Golden Dragon Empire's administrative counts or settlement classifications to Tianhai Yunzhou or Beiming.
+This workflow applies to **all three major powers**—Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu—and to the Lawless Territories whenever they are involved. It applies to gameplay, lore questions, audits, and repository edits. Do not apply the Golden Dragon Empire's administrative counts or settlement classifications to Tianhai Yunzhou or Beiming Gu.
 
 Before narrating a location, describing its government/economy/customs, creating a settlement or NPC, counting local institutions, or changing regional files, follow this path:
 

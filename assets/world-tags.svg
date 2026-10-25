@@ -1,20 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-labelledby="title desc">
-  <title id="title">Merzkava Universe genre tags</title>
-  <desc id="desc">Three colorful text panels arranged as descending stairs. No balls, dots, trail, or decorative motion marks. Transparent background.</desc>
-  <g>
-  <g>
-    <rect x="148" y="42" width="322" height="82" rx="3" fill="#151515"/>
-    <rect x="155" y="49" width="308" height="68" rx="2" fill="#FFB36B"/>
-    <text x="309" y="89" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="800" text-anchor="middle" letter-spacing=".7" fill="#151515">EASTERN FANTASY</text>
-  </g>
-  <g>
-    <rect x="348" y="137" width="300" height="82" rx="3" fill="#151515"/>
-    <rect x="355" y="144" width="286" height="68" rx="2" fill="#FFE066"/>
-    <text x="498" y="184" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800" text-anchor="middle" letter-spacing="1" fill="#151515">CULTIVATION</text>
-  </g>
-  <g>
-    <rect x="526" y="232" width="376" height="82" rx="3" fill="#151515"/>
-    <rect x="533" y="239" width="362" height="68" rx="2" fill="#F25C54"/>
-    <text x="714" y="279" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="800" text-anchor="middle" letter-spacing=".5" fill="#FFFFFF">WORLD IN MOTION</text>
+  <title id="title">Merzkava Universe staircase genre tags</title>
+  <desc id="desc">Only three colorful text panels arranged as descending stairs. Transparent background. No balls, dots, trails, or other decorations.</desc>
+  <g transform="translate(-77 -27) scale(1.15)">
+    <g>
+      <rect x="148" y="42" width="322" height="82" rx="3" fill="#151515"/>
+      <rect x="155" y="49" width="308" height="68" rx="2" fill="#FFB36B"/>
+      <text x="309" y="89" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="800" text-anchor="middle" letter-spacing=".7" fill="#151515">EASTERN FANTASY</text>
+    </g>
+    <g>
+      <rect x="348" y="137" width="300" height="82" rx="3" fill="#151515"/>
+      <rect x="355" y="144" width="286" height="68" rx="2" fill="#FFE066"/>
+      <text x="498" y="184" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800" text-anchor="middle" letter-spacing="1" fill="#151515">CULTIVATION</text>
+    </g>
+    <g>
+      <rect x="526" y="232" width="376" height="82" rx="3" fill="#151515"/>
+      <rect x="533" y="239" width="362" height="68" rx="2" fill="#F25C54"/>
+      <text x="714" y="279" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="800" text-anchor="middle" letter-spacing=".5" fill="#FFFFFF">WORLD IN MOTION</text>
+    </g>
   </g>
 </svg>

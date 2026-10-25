@@ -1,6 +1,6 @@
 # Merzkava Universe — Spirit Hunters Guild
 
-**Status:** Official organization concept and operating rules established by this module.  
+**Status:** Official organization concept and operating rules established by this module. The name is retained, but the Guild's scope is broader than Spirit Beast hunting; see `world/CANON_DECISIONS_AND_PRECEDENCE.md` for binding continuity rules.  
 **Scope:** General Guild contracts and jobs, six difficulty tiers, temporary party registration, Spirit Beast expeditions, member misconduct, blacklisting, and Guild bounty/Deadpool notices.  
 **Mechanical authority:** `core/SPIRIT_RING_RULES.md`, `bestiary/SPIRIT_BEAST_RULES.md`, `gameplay/COMBAT_SYSTEM.md`, `core/HP_SYSTEM.md`, and `core/INJURY_SYSTEM.md` remain authoritative for their respective mechanics.
 
@@ -8,7 +8,7 @@
 
 ## 1. Purpose and Reach
 
-The **Spirit Hunters Guild** is a flexible contract and expedition organization, not a service limited to hunting Spirit Beasts. Depending on local demand and the office's reach, its board may list escort assignments, transport of important cargo, searches for specific items, reconnaissance, retrieval, protection, verified information gathering, Spirit Beast tracking/hunting, and other clearly described work. It gives people without academy, clan, sect, or powerful-household connections a way to find paid work and temporary companions. A contract's exact scope, reward, deadline, risks, and proof of completion must be stated or established in play.
+The **Spirit Hunters Guild** is a broad contract-and-jobs Guild whose established name must not be interpreted literally as a hunting-only organization. It is a flexible contract and expedition organization, not a service limited to hunting Spirit Beasts. Depending on local demand and the office's reach, its board may list escort assignments, transport of important cargo, searches for specific items, reconnaissance, retrieval, protection, verified information gathering, Spirit Beast tracking/hunting, and other clearly described work. It gives people without academy, clan, sect, or powerful-household connections a way to find paid work and temporary companions. A contract's exact scope, reward, deadline, risks, and proof of completion must be stated or established in play.
 
 The Guild is not a world government, a universal police force, or a guarantee of safety. Its offices, reach, reputation, staff, fees, membership rules, and authority vary by location unless established by a local canon entry or an actual event. Do not assume a branch exists in every city or village.
 

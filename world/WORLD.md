@@ -628,7 +628,7 @@ Tianhai juga memiliki beberapa asosiasi dagang independen: Haiyue Merchants' Ass
 
 Spirit Hunters Guild juga memiliki titik kontrak di Haiyue Market, Cangqiong Harbor, dan Westwake Anchorage, serta titik pemberitahuan/rujukan terbatas di Pearlstep Landing. Layanannya mencakup berbagai kontrak dan pekerjaan, bukan hanya perburuan Spirit Beast. Kehadiran kantor atau titik layanan tidak menjadikan Guild polisi umum, tidak memberinya kendali atas otoritas pelabuhan, dan tidak menjamin setiap kontrak atau layanan selalu tersedia.
 
-Rincian fungsi dan batas setiap titik layanan dijabarkan dalam `world/REGION_TIANHAI_YUNZHOU.md`. Jaringan lokal ini tidak menetapkan cabang Aula Agung Kebangkitan Martial Soul di Tianhai; status lembaga tersebut tetap mengikuti keputusan canon khususnya.
+Rincian fungsi dan batas setiap titik layanan dijabarkan dalam `world/REGION_TIANHAI_YUNZHOU.md`. Tianhai Yunzhou juga memiliki tepat satu Aula Agung Kebangkitan Martial Soul di pusat peradaban utamanya, sebagaimana masing-masing dari tiga kekuasaan utama memiliki satu Aula pada pusat peradabannya sendiri. Aula ini bukan jaringan cabang di seluruh kota atau distrik.
 
 5.4 Tabib keliling
 

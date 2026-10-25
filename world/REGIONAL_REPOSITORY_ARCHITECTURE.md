@@ -87,7 +87,7 @@ A design document does not itself create regional repositories or migrate files.
 
 Until each destination repository URL and its contents are verified:
 - Treat existing `world/REGION_*.md` and region-specific governance/institution files in the central repo as regional canon still awaiting repository migration.
-- Canonical named NPC profiles already staged under `regions/golden-dragon-empire/npcs/` and `regions/tianhai-yunzhou/npcs/` are the authoritative full profiles; old `world/NPC_*.md` files are compatibility pointers.
+- Canonical named NPC profiles are staged under `regions/golden-dragon-empire/npcs/`, `regions/tianhai-yunzhou/npcs/`, and `regions/beiming-gu/npcs/`; the Beiming Gu profiles cover Beiming Han, Beiming Xenhwa, and Beiming Jingheng. Verify each old `world/NPC_*.md` file before treating it as a compatibility pointer.
 - Do not delete or overwrite the regional source modules, invent destination URLs, or claim the three-repository separation is complete.
 - The current in-repo staging step is not a substitute for creating and verifying the three destination repositories.
 

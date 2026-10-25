@@ -16,7 +16,7 @@
 - Development profile: Outer industrial belt — major furnaces are prosperous; isolated settlements receive fewer services.
 - Terrain / climate: Broad terrain follows the established regional identity; detailed local conditions remain to be developed
 - Confirmed neighboring regions: Belum ditetapkan
-- Confirmed routes / crossings: Belum ditetapkan
+- Confirmed routes / crossings: Furnace Spine Road links Honglu and Huifeng; industrial spurs and safe passage vary with furnace/volcanic conditions.
 - Travel distances and durations: Do not infer; follow `world/GEOGRAPHY_AND_TRAVEL.md` and `gameplay/TIME_AND_ACTION_RULES.md`
 
 ## 2A. Administrative Register
@@ -51,12 +51,12 @@ The official prefecture seats are only those listed in `world/GOLDEN_DRAGON_EMPI
 
 | Settlement | Type | Established role | Authority / status |
 |---|---|---|---|
-| Honglu | City / prefecture seat | Seat of Red Furnace Prefecture | Imperial civil administration; local detail pending |
-| Huifeng | City / prefecture seat | Seat of Ashen Peak Prefecture | Imperial civil administration; local detail pending |
+| Honglu | City / official prefecture seat | Seat of Red Furnace Prefecture | Imperial civil administration; local detail pending |
+| Huifeng | City / official prefecture seat | Seat of Ashen Peak Prefecture | Imperial civil administration; local detail pending |
 | Rongjiang | City / settlement hub | Rongjiang remains an industrial city under Red Furnace Prefecture | Imperial civil administration; local detail pending |
 | Heitie | City / settlement hub | Heitie remains a forging and industry city under Ashen Peak Prefecture | Imperial civil administration; local detail pending |
-| Huoshi | City / consolidated administrative center | Former prefectural seat; Huoshi remains a settlement under Red Furnace Prefecture | Local civil administration; not an independent prefectural seat |
-| Yanpen | City / consolidated administrative center | Former prefectural seat; Yanpen remains a settlement under Red Furnace Prefecture | Local civil administration; not an independent prefectural seat |
+| Huoshi | City / settlement and service hub | Former prefectural seat; Huoshi remains a settlement under Red Furnace Prefecture | Local civil administration; not an independent prefectural seat |
+| Yanpen | City / settlement and service hub | Former prefectural seat; Yanpen remains a settlement under Red Furnace Prefecture | Local civil administration; not an independent prefectural seat |
 
 
 ### Named rural villages

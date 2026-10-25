@@ -10,6 +10,8 @@ Use one central hub and **exactly three canonical regional repositories**, one f
 2. **Tianhai Yunzhou**
 3. **Beiming Gu**
 
+These are the exact canonical names established by `world/WORLD.md`. Use them consistently in indexes, repository descriptions, routing instructions, and regional ownership fields. Do not replace them with translated names or invent alternate formal names.
+
 Do not create a fourth, separate global NPC repository or one repository per subregion.
 
 ## 1. Responsibility boundaries

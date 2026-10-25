@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Use one central hub and **exactly three canonical regional repositories**, one for each major power. The navigation pattern is: central INDEX → the correct regional module → local geography/settlement and NPC table → detailed NPC profile only when needed.
+Use one central hub and **exactly three canonical regional repositories**, one for each major power. The navigation pattern is inspired by a repository: central INDEX → the correct regional module → local geography/settlement and NPC table → detailed NPC profile only when needed.
 
 **“Region” here means a major power—not an individual province, valley, city, or village.** The three repository boundaries are exactly the names established by `world/WORLD.md`:
 

@@ -235,6 +235,7 @@ The three canonical repository boundaries are **Golden Dragon Empire, Tianhai Yu
 - Stonegate March — `world/REGION_STONEGATE_MARCH.md`
 - Hollowmoon Valley — `world/REGION_HOLLOWMOON_VALLEY.md`
 - Ironroot Reach — `world/REGION_IRONROOT_REACH.md`
+- Beiming Gu NPC profiles — `regions/beiming-gu/npcs/BEIMING_HAN.md`, `regions/beiming-gu/npcs/BEIMING_XENHWA.md`, and `regions/beiming-gu/npcs/BEIMING_JINGHENG.md`
 
 ### Lawless Territories
 - Ashen Borderlands — `world/REGION_ASHEN_BORDERLANDS.md`

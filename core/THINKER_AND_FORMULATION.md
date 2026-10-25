@@ -8,7 +8,7 @@
 - Thinker progression is separate from Spirit Realm cultivation. It concerns knowledge, materials, formulations, patterns, and artifact-making processes.
 - Thinkers use metals, stone, special materials, patterns, and complex formulations to produce Artificial Artifacts.
 - Spirit Realm progression and Thinker Grade progress independently. High cultivation does not automatically make someone a great Thinker, and high Thinker Grade does not automatically make someone a powerful cultivator.
-- The first Thinkers originated in Tianhai Yunzhou. The world's strongest Thinkers emerge from this knowledge tradition; Tianhai's advantage includes exceptional knowledge, not only combat strength.
+- The first Thinkers originated in Tianhai Yunzhou. The world's strongest Thinkers emerge from this knowledge tradition; Tianhai Yunzhou's advantage includes exceptional knowledge, not only combat strength.
 - Thinker Grade determines the normal baseline capability and formulation ceiling. It does not guarantee success in every attempt.
 
 ## 2. THREE DISTINCT ARTIFACT ORIGINS
@@ -31,12 +31,12 @@ These categories are distinct by origin and must not be treated as interchangeab
 ### 3.1 Tianhai Yunzhou
 - Origin of the first Thinkers and a major center of Thinker knowledge.
 - The Tianhai Maharaja can compete through exceptional knowledge, not solely personal combat strength.
-- Thinker knowledge is one source of Tianhai's cultural influence.
+- Thinker knowledge is one source of Tianhai Yunzhou's cultural influence.
 - Knowledge and formulation development may become channels for cultural exchange, diplomacy, and rivalry.
 
 ### 3.2 Golden Dragon Empire
 - The Empire is comparatively open to knowledge exchange and interaction with outside powers.
-- Exchanges between Tianhai and the Empire are important routes for the spread of knowledge and cultural influence.
+- Exchanges between Tianhai Yunzhou and the Golden Dragon Empire are important routes for the spread of knowledge and cultural influence.
 - Exchange may affect diplomacy and relations as well as technology.
 - The spread of knowledge does not automatically give every party equal production capability. Thinker skill, materials, and formulation mastery remain limiting factors.
 
@@ -150,7 +150,7 @@ Artificial Artifact technology may advance through:
 - Mastery of more complex patterns.
 - New production methods, only after they are established as official lore.
 
-Knowledge exchange between Tianhai and the Golden Dragon Empire may open paths for scientific development. Ancient materials in the North may support research and formation engraving. Knowledge spreading does not automatically make all civilizations equally capable; Thinker skill, materials, and formulation mastery remain limiting factors.
+Knowledge exchange between Tianhai Yunzhou and the Golden Dragon Empire may open paths for scientific development. Ancient materials in the North may support research and formation engraving. Knowledge spreading does not automatically make all civilizations equally capable; Thinker skill, materials, and formulation mastery remain limiting factors.
 
 Mechanics for refining formulations, breakthroughs, or technologies beyond normal limits must be documented before the GM treats them as canon.
 

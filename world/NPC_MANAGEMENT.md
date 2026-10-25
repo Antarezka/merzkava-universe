@@ -5,11 +5,12 @@
 
 ## 1. Sources of truth and file structure
 
-- Target architecture: `world/REGIONAL_REPOSITORY_ARCHITECTURE.md`. The central repository is the global navigation hub; each verified regional repository owns that region's detailed NPC registry and local canon.
-- Once a region's repository URL is verified and registered in `INDEX.md`, its regional registry is the first stop for NPCs currently present in that region, local authority, settlement context, and local encounter possibilities.
-- `templates/NPC_PROFILE_TEMPLATE.md` is the canonical format for a major or recurring NPC's full profile; regional repositories should use this standard or link back to it.
-- A full profile lives in one canonical file. Regional registries and faction files link to it instead of duplicating the biography.
-- Migration safety: until a destination repository is verified and its content is checked, the existing `world/REGION_*.md` and `world/NPC_*.md` files remain legacy canon in the central repository. Do not delete, overwrite, or claim to have moved them.
+- Target architecture: `world/REGIONAL_REPOSITORY_ARCHITECTURE.md`. There are exactly three regional repositories, one for each major power: Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu. The central repo is the global navigation hub.
+- Do not create a separate repository for each province, valley, city, or village, and do not create a separate global NPC repository. NPCs belong in the repository of their canonical home/affiliation among the three powers.
+- After a power's repository URL is verified and registered in the central `INDEX.md`, that repository's NPC registry is the first stop for NPCs in its territory, local authority, settlement context, and local encounters.
+- `templates/NPC_PROFILE_TEMPLATE.md` is the canonical format for a major or recurring NPC's full profile; the three regional repositories should use this standard or link back to it.
+- A full profile lives in one canonical file. Local registries, settlement files, and faction files link to it instead of duplicating the biography.
+- Migration safety: until the three destination repositories are verified and their contents checked, the existing `world/REGION_*.md` and `world/NPC_*.md` files remain legacy canon in the central repository. Do not delete, overwrite, or claim to have moved them.
 - `world/FACTIONS.md` and dedicated faction modules define organization-level structure and confirmed membership.
 - `world/DYNAMIC_EVENTS.md` records persistent changes; `world/HISTORY.md` records confirmed historical changes where appropriate.
 - `world/LOCATION_AND_ROUTE_NETWORK.md` defines route modeling and travel checks.

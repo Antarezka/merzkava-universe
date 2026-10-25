@@ -6,7 +6,7 @@
 
 ## 1. Purpose and Historical Reason
 
-Ruined Archiver is a specialist branch of Ordo Suci Tianming. It exists because the Ordo's world-survival mandate is to help the world detect dangerous anomalies as early as possible. The ancient world-cal amity incursion proved that an anomaly can deviate far beyond safe limits, open a gate to another world, and allow catastrophic Demonic Beasts to descend. A Golden Age Ruined may contain traces, mechanisms, entities, or anomalies connected to such dangers, so even a seemingly ordinary expedition can contribute to the world's early-warning network.
+Ruined Archiver is a specialist branch of Ordo Suci Tianming. It exists because the Ordo's world-survival mandate is to help the world detect dangerous anomalies as early as possible. The ancient world-calamity incursion proved that an anomaly can deviate far beyond safe limits, open a gate to another world, and allow catastrophic Demonic Beasts to descend. A Golden Age Ruined may contain traces, mechanisms, entities, or anomalies connected to such dangers, so even a seemingly ordinary expedition can contribute to the world's early-warning network.
 
 Ruined Archiver does not assume that every Ruined contains an anomaly or that every anomaly is apocalyptic. It collects evidence, verifies reports, preserves uncertainty, and escalates credible warning signs to the Ordo's assessment channels and, when warranted, the World Knowledge Tower alliance.
 

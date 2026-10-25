@@ -13,6 +13,35 @@
 | Beiming Xenhwa | 17-year-old half-beast; white nine-tailed fox; adoptive daughter of Beiming Han | Beiming Gu affiliation; exact whereabouts unknown | [BEIMING_XENHWA.md](BEIMING_XENHWA.md) |
 | Beiming Jingheng | 17-year-old human; adoptive son of Beiming Han | Beiming Gu affiliation; exact whereabouts unknown; secret criminal connection is GM-sensitive | [BEIMING_JINGHENG.md](BEIMING_JINGHENG.md) |
 
+## Clan roster — 12 clans
+
+| Clan | Canonical roster NPC | Role / Thinker Grade | Profile |
+|---|---|---|---|
+| Beiming Clan | Beiming Xuanyu | Clan head; Thinker Grade 9 | [BEIMING_XUANYU.md](BEIMING_XUANYU.md) |
+| Xuanbing Clan | Xuanbing Lingsu | Clan head; Thinker Grade 4 | [XUANBING_LINGSU.md](XUANBING_LINGSU.md) |
+| Yinshan Clan | Yinshan Qiaofeng | Clan head; Thinker Grade 3 | [YINSHAN_QIAOFENG.md](YINSHAN_QIAOFENG.md) |
+| Cangxue Clan | Cangxue Tielan | Clan head; Thinker Grade 2 | [CANGXUE_TIELAN.md](CANGXUE_TIELAN.md) |
+| Hanyue Clan | Hanyue Mingzhao | Clan head; Thinker Grade 4 | [HANYUE_MINGZHAO.md](HANYUE_MINGZHAO.md) |
+| Lingfeng Clan | Lingfeng Yujin | Clan head; Thinker Grade 3 | [LINGFENG_YUJIN.md](LINGFENG_YUJIN.md) |
+| Xuansong Clan | Xuansong Qinghe | Clan head; Thinker Grade 2 | [XUANSONG_QINGHE.md](XUANSONG_QINGHE.md) |
+| Yaochi Clan | Yaochi Suwen | Clan head; Thinker Grade 4 | [YAOCHI_SUWEN.md](YAOCHI_SUWEN.md) |
+| Tieshi Clan | Tieshi Beiyue | Clan head; Thinker Grade 3 | [TIESHI_BEIYUE.md](TIESHI_BEIYUE.md) |
+| Minghu Clan | Minghu Yanshu | Clan head; Thinker Grade 2 | [MINGHU_YANSHU.md](MINGHU_YANSHU.md) |
+| Binghe Clan | Binghe Chuanliu | Clan head; Thinker Grade 3 | [BINGHE_CHUANLIU.md](BINGHE_CHUANLIU.md) |
+| Xuanye Clan | Xuanye Zhenbei | Clan head; Thinker Grade 4 | [XUANYE_ZHENBEI.md](XUANYE_ZHENBEI.md) |
+
+## Dojo roster — 5 dojos
+
+| Dojo | Canonical roster NPC | Role / Thinker Grade | Profile |
+|---|---|---|---|
+| Blue-Flame Dojo | Lan Feng | Dojo master; Thinker Grade 5 | [BLUE_FLAME_DOJO_MASTER.md](BLUE_FLAME_DOJO_MASTER.md) |
+| Frostpeak Dojo | Shuang Yue | Dojo master; Thinker Grade 3 | [FROSTPEAK_DOJO_MASTER.md](FROSTPEAK_DOJO_MASTER.md) |
+| Silver Tiger Dojo | Bai Yushen | Dojo master; Thinker Grade 2 | [SILVER_TIGER_DOJO_MASTER.md](SILVER_TIGER_DOJO_MASTER.md) |
+| Silent Snow Dojo | Mo Xueyan | Dojo master; Thinker Grade 4 | [SILENT_SNOW_DOJO_MASTER.md](SILENT_SNOW_DOJO_MASTER.md) |
+| Ironroot Dojo | Tie Song | Dojo master; Thinker Grade 2 | [IRONROOT_DOJO_MASTER.md](IRONROOT_DOJO_MASTER.md) |
+
+**Roster scope:** one named head for each of the 12 established clans and one named master for each of the 5 established dojos. This does not establish exclusive territory, automatic clan-dojo ties, family trees, alliances, or ownership of other institutions.
+
 ## Registry rules
 
 - Add only NPCs supported by a canonical source or explicitly owner-approved.

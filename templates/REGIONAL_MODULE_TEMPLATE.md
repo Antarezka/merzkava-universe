@@ -52,7 +52,11 @@
 | Belum ditetapkan | — | — | — | — |
 
 ## 8. Regional NPC Registry
-Use `templates/NPC_PROFILE_TEMPLATE.md` for named NPCs. Do not assume every settlement has every service or faction.
+List **important and recurring NPCs only**: regional leaders, active local officeholders, faction leaders, and characters with lasting story relevance. Ordinary residents, passers-by, shop workers, and other background population do not each need a permanent profile; portray them situationally under `world/NPC_MANAGEMENT.md`.
+
+For Golden Dragon Empire regions, consult `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` as the canonical source for governors, active prefects, and retained regional/circuit officers. The regional registry should cross-reference the key names relevant to that region without creating extra administrative offices or duplicating their full biographies. Mark exact locations or assignments as unconfirmed when the canon does not specify them.
+
+Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPCs. Link to the single canonical profile when one exists; otherwise link to the authoritative roster/source. Do not reveal hidden identities before a credible in-world discovery.
 
 | NPC name / public identity | Location | Role | Publicly known details | Profile / canon source |
 |---|---|---|---|---|

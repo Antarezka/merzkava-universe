@@ -99,11 +99,11 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPC
 
 | Name / public identity | Location | Role | Public traits | Profile link / source |
 |---|---|---|---|---|
-| Baihu Xuefeng | Beiguan; exact office location unconfirmed | Regional Governor | Spirit Realm 8 — Spirit Sovereign, Peak Stage; berorientasi pada pertahanan dan berhati-hati terhadap penyalahgunaan darurat militer | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
-| Han Qingyuan | Beiguan | Prefect, Northwatch Prefecture | Spirit Realm 5 — Spirit King, Early Stage; tegas terhadap korupsi, kompromistis secara politik | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
-| Han Zhongyi | Baiyue; exact assignment unconfirmed | Regional consolidation officer (former Storm Banner Prefecture) | Spirit Realm 5 — Spirit King, Early Stage; loyalis istana, menolak perintah ilegal | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
-| Han Xingzhou | Baiyue; exact assignment unconfirmed | Regional consolidation officer (former Pine Shield Prefecture) | Spirit Realm 5 — Spirit King, Late Stage; berpihak pada pembangunan dan kesejahteraan | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
-| Duan Qinghe | Baiyue; exact assignment unconfirmed | Frontier–Maritime Circuit liaison officer | Spirit Realm 4 — Spirit Monarch, Peak Stage; berpihak pada pembangunan dan kesejahteraan | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Baihu Xuefeng | Beiguan; exact office location unconfirmed | Regional Governor |Spirit Realm 6 — Spirit Ancestor, Peak Stage; berorientasi pada pertahanan dan berhati-hati terhadap penyalahgunaan darurat militer; Orientasi rakyat: tinggi; penegakan hukum 5/5 — paling keras pada ancaman keamanan dan pelanggaran berat| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Han Qingyuan | Beiguan | Prefect, Northwatch Prefecture |Spirit Realm 5 — Spirit King, Early Stage; tegas terhadap korupsi, kompromistis secara politik; Orientasi rakyat: sedang; penegakan hukum 3/5 — moderat dan prosedural| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Han Zhongyi | Baiyue; exact assignment unconfirmed | Regional consolidation officer (former Storm Banner Prefecture) |Spirit Realm 4 — Spirit Monarch, Early Stage; loyalis istana, menolak perintah ilegal; Orientasi rakyat: tinggi; penegakan hukum 4/5 — keras pada korupsi dan pelanggaran berulang| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Han Xingzhou | Baiyue; exact assignment unconfirmed | Regional consolidation officer (former Pine Shield Prefecture) |Spirit Realm 4 — Spirit Monarch, Late Stage; berpihak pada pembangunan dan kesejahteraan; Orientasi rakyat: sangat tinggi; penegakan hukum 2/5 — lunak-moderat, mediasi dan peringatan lebih dahulu| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Duan Qinghe | Baiyue; exact assignment unconfirmed | Frontier–Maritime Circuit liaison officer |Spirit Realm 4 — Spirit Monarch, Peak Stage; berpihak pada pembangunan dan kesejahteraan; Orientasi rakyat: sangat tinggi; penegakan hukum 2/5 — lunak-moderat, mediasi dan peringatan lebih dahulu| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
 
 ## 9. Current Situations and Events
 - Local conflicts: Belum ditetapkan

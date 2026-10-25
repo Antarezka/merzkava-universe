@@ -16,9 +16,11 @@ This is a relative geographic framework, not a scaled map. Exact coordinates, di
 
 The spaces between major powers include forests, mountain ranges, deep ravines, valleys, remote basins, and high mountain ranges whose summits rise above the sea of clouds. These remote peaks shelter two distinct, exceptionally secluded traditions: the Ancient Shamanism clan/sect and a Buddhist clan. Their established lore, known hierarchy, powers, and encounter boundaries are recorded in `world/ANCIENT_SHAMANISM_AND_BUDDHIST_CLANS.md`. Exact mountain names, coordinates, and routes remain unestablished; do not place either group inside one of the three major powers without canon support.
 
-## 3. Spirit Beast Habitats
+## 3. Spirit Beast Habitats and Azerion Forest
 
 Forests and other wild territories contain Spirit Beasts. As a general ecological pattern, deeper and harder-to-reach areas tend to contain higher-tier beasts because they are less accessible and more dangerous. This is a tendency, not a guarantee: a high-tier beast may roam outward, and an accessible area is not automatically safe. Do not invent a beast's exact tier or location without evidence, a bestiary entry, or a permitted provisional encounter design.
+
+**Azerion Forest** is one of the world's largest, dangerous, mist-shrouded forests. It extends from the Lawless Territories into Golden Dragon Empire territory; older records may call it the **Dead Zone**. Its northern part contains **Inner Azerion**, a hidden city of half-beast people concealed by exceptionally dense illusion fog. See world/LAWLESS_TERRITORIES.md for the city's established social and economic conditions. Do not invent exact coordinates, routes, boundaries, or a way to bypass its illusion fog.
 
 ## 4. Ancient Ruins
 

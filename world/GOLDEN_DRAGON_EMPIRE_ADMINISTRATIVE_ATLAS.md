@@ -25,7 +25,7 @@ The former register of 33 prefectures, 268 counties, 361 cities, 1,838 towns, an
 | Longyuan | Huanglongcheng | 44 million | 1.26 million km² | ~35/km² | Imperial court, ministries, nobles, politics | 2 |
 | Canglan | Qinghe | 64 million | 1.42 million km² | ~45/km² | Agriculture, irrigation, river transport | 2 |
 | Jinyue | Yumai | 32 million | 1.78 million km² | ~18/km² | Mines, spiritual metals, artifact materials | 2 |
-| Tianfeng | Tianshu | 40 million | 1.33 million km² | ~30/km² | Academies, cultivation education, knowledge | 2 |
+| Tianfeng | Tianshu | 40 million | 1.33 million km² | ~30/km² | Scholarly traditions, talent development, knowledge exchange | 2 |
 | Yanling | Honglu | 36 million | 1.80 million km² | ~20/km² | Furnaces, smithing, spiritual forging | 2 |
 | Baiyue | Beiguan | 32 million | 2.67 million km² | ~12/km² | Frontier defense, fortifications, military routes | 1 |
 | Xingluo | Dongxing | 72 million | 1.60 million km² | ~45/km² | Ports, maritime trade, diplomacy | 1 |
@@ -76,7 +76,7 @@ A county circuit is a broad administrative-service jurisdiction coordinating two
 | Imperial Heartland Circuit | Huanglongcheng | Huanglong, Jade Seal | Imperial records, petitions, capital roads |
 | Riverlands Circuit | Qinghe | Qinghe, Jiangbei | Irrigation, river transport, granaries |
 | Mineral Lands Circuit | Yumai | Jadevein, Ironcloud | Mining rights, ore routes, material levies |
-| Scholarly Heights Circuit | Tianshu | Heavenly Script, Cloud Summit | Academies, examinations, archives |
+| Scholarly Heights Circuit | Tianshu | Heavenly Script, Cloud Summit | Scholarly traditions, examinations, archives, and student travel |
 | Furnace Mountains Circuit | Honglu | Red Furnace, Ashen Peak | Forges, fuel routes, worker safety |
 | Frontier–Maritime Circuit | Beiguan | Northwatch, Eastern Star | Cross-region logistics, frontier and port coordination |
 
@@ -87,7 +87,7 @@ The Frontier–Maritime Circuit is a coordination arrangement, not proof of a di
 | Imperial Dragon Road | Huanglongcheng ↔ Yuxi | Main overland administrative and courier route | Established as a named route; exact distance and travel time unestablished |
 | Twin River Route | Qinghe ↔ Jiangbei | River transport and levee/granary inspection corridor | Established as a named route; navigability varies by season until specified |
 | Ore Vein Road | Yumai ↔ Tieyun | Ore caravans, mine administration, spiritual-material freight | Established as a named route; local safety varies |
-| Cloudstep Scholar Road | Tianshu ↔ Yunding | Academy, examination, archive, and mountain-caravan route | Established as a named route; exact pass conditions unestablished |
+| Cloudstep Scholar Road | Tianshu ↔ Yunding | Scholar, examination-travel, archive, and mountain-caravan route to the central academies in Huanglongcheng | Established as a named route; exact pass conditions unestablished |
 | Furnace Spine Road | Honglu ↔ Huifeng | Furnace supply, fuel, metal, and worker transport | Established as a named route; hazards may vary with volcanic activity |
 | Frontier–Maritime Relay | Beiguan ↔ Eastern Star | Official dispatch via staged couriers and authorized sea/land transfers | Established as an administrative relay, **not** a single direct road; exact route legs and travel time remain unestablished |
 

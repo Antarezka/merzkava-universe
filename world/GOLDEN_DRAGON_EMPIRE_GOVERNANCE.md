@@ -114,14 +114,14 @@ The 12 active prefectures and their seat cities are named in `world/GOLDEN_DRAGO
 
 ### 2.6 Counties
 
-Counties coordinate local civil administration, tax and population registers, courts of first instance where applicable, public works, and relations between settlements.
+County circuits coordinate local civil administration, tax and population registers, courts of first instance where applicable, public works, and relations between settlements. They are broad service jurisdictions, not an additional layer of individual counties.
 
 The atlas establishes six broad county circuits, each coordinating two prefectures; their hubs and responsibilities are listed in the atlas. Precise surveyed borders remain unestablished; current magistrates and reassigned circuit liaison officers are listed in `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`.
 
 ### 2.7 Cities, Towns, Townships, Districts, and Villages
 
-- **Cities:** major population, trade, administrative, craft, or military centers. Their administrative rank depends on a formally established jurisdiction.
-- **Towns:** smaller urban settlements and market centers, commonly attached to a county unless explicitly granted a higher status.
+- **Cities:** major population, trade, administrative, craft, or military centers. Their status as settlements does not automatically make them separate administrative tiers.
+- **Towns and market settlements:** smaller urban places within a prefecture or service circuit. They do not imply a separate county tier; local administration follows the current atlas and any explicitly established appointment.
 - **Townships / District Offices:** local offices that coordinate multiple villages or neighborhoods, or administer a defined urban district.
 - **Villages / Neighborhoods:** the closest ordinary civil administration to residents, responsible for local registers, public notices, basic communal matters, and forwarding petitions or reports.
 - **Household Register:** the lowest population-registration unit, recording a household and its recognized members. It is a registry unit, **not a separate government tier** and not proof that every household has an official ruler.

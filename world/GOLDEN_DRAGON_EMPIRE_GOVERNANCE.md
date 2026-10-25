@@ -33,7 +33,7 @@ The administrative atlas establishes **7 regions, 12 prefectures, 6 county circu
 
 ### 2.1 Emperor
 
-The Emperor is the supreme sovereign of the Golden Dragon Empire. The currently established ruler is **Jun Haotian (君昊天)**; see `world/NPC_JUN_HAOTIAN.md` and `world/WORLD.md`.
+The Emperor is the supreme sovereign of the Golden Dragon Empire. The currently established ruler is **Jun Haotian (君昊天)**; see `../regions/golden-dragon-empire/npcs/JUN_HAOTIAN.md` and `world/WORLD.md`.
 
 The Emperor's established sovereignty does not mean every local decision is personally made by him. Day-to-day governance is carried out through institutions and appointed officials.
 

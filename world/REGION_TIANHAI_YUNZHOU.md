@@ -1,6 +1,6 @@
 # Merzkava Universe — Tianhai Yunzhou — Floating Maritime Power
 
-**Status:** Regional reference; detailed NPC and institutional expansion pending owner approval.  
+**Status:** Regional reference; core ruling-family NPCs and the Great Tianhai War are established canon.  
 **Canon policy:** This module consolidates established information from `world/WORLD.md`, `world/MAP_AND_REGIONS.md`, and `world/FACTIONS.md`. Blank details remain unconfirmed; proposals are not canon until approved by the owner.
 
 ## 1. Confirmed Foundation

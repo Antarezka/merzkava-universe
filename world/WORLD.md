@@ -620,9 +620,15 @@ Keberadaan balai utama tidak berarti seluruh tabib di dunia berada di bawah kend
 
 5.3 Komunitas Tianhai Yunzhou
 
-Tianhai Yunzhou memiliki komunitas Medicine Hall Society yang melayani penduduk pulau, pelaut, awak kapal, kultivator, dan korban kecelakaan laut.
+Tianhai Yunzhou memiliki jaringan layanan Medicine Hall Society yang melayani penduduk pulau, pelaut, awak kapal, kultivator, pekerja pelabuhan, dan korban kecelakaan laut maupun industri. Titik layanan awal yang telah ditetapkan berada di Haiyue Market, Cangqiong Harbor, Northwatch Quay, Westwake Anchorage, Bluefin Cove, dan Pearlstep Landing. Titik-titik ini memiliki cakupan dan ketersediaan yang berbeda; daftar tersebut tidak menjamin setiap tempat selalu memiliki tabib senior, persediaan lengkap, atau layanan gratis.
 
-Para tabib di kawasan ini perlu menangani cedera akibat pertempuran, penyakit selama perjalanan, racun makhluk laut, serta dampak lingkungan yang berbahaya. Ketersediaan obat dan bahan ramuan dapat berbeda menurut lokasi dan kondisi perdagangan.
+Para tabib di kawasan ini menangani cedera pertempuran, penyakit selama perjalanan, racun makhluk laut, dan dampak lingkungan atau pekerjaan yang berbahaya. Ketersediaan obat dan bahan ramuan dapat berbeda menurut lokasi dan kondisi perdagangan. Tabib independen, praktisi keluarga, dan ahli herbal lokal tetap dapat bekerja di luar Society.
+
+Tianhai juga memiliki beberapa asosiasi dagang independen: Haiyue Merchants' Association di Haiyue Market, Cangqiong Shipowners and Freight Union di kawasan Cangqiong Harbor/Westwake Anchorage, Linggong Artisans' Trade Association di Linggong District dengan kontak komersial di Haiyue Market, serta Misty Shoals Fishers and Pilots Association di komunitas nelayan dan pemandu setempat. Mereka mewakili kepentingan pedagang dan profesi, mengoordinasikan pesanan atau layanan, dan berbagi informasi komersial; mereka tidak menetapkan semua harga, tidak menggantikan kewenangan pemerintah Tianhai, dan tidak membentuk satu monopoli dagang.
+
+Spirit Hunters Guild juga memiliki titik kontrak di Haiyue Market, Cangqiong Harbor, dan Westwake Anchorage, serta titik pemberitahuan/rujukan terbatas di Pearlstep Landing. Layanannya mencakup berbagai kontrak dan pekerjaan, bukan hanya perburuan Spirit Beast. Kehadiran kantor atau titik layanan tidak menjadikan Guild polisi umum, tidak memberinya kendali atas otoritas pelabuhan, dan tidak menjamin setiap kontrak atau layanan selalu tersedia.
+
+Rincian fungsi dan batas setiap titik layanan dijabarkan dalam `world/REGION_TIANHAI_YUNZHOU.md`. Jaringan lokal ini tidak menetapkan cabang Aula Agung Kebangkitan Martial Soul di Tianhai; status lembaga tersebut tetap mengikuti keputusan canon khususnya.
 
 5.4 Tabib keliling
 

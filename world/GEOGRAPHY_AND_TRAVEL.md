@@ -33,6 +33,10 @@ More than one thousand **Ruined**—ruins from the ancient Golden Age—are scat
 - Such a chamber opens only when its specific trigger conditions are discovered and fulfilled. Those conditions may be unknown at the outset; do not reveal them without earned in-world evidence or trigger the chamber automatically just because the character reaches the final room.
 - Exploration should preserve continuity: once a route, clue, hazard, mechanism, or condition has been discovered and recorded, do not secretly alter it to force success or failure. Keep confirmed facts distinct from a character's hypotheses and unverified rumors.
 - A ruin may still be empty, inaccessible, dangerous, or unrewarding. These rules establish an exploration framework, not a guarantee that every ruin contains a treasure chamber.
+- Ruined may be fully or partly mapped. A mapped site can serve as a training ground for exploration enthusiasts and early Spirit Realm experts only when its actual hazards and access conditions make that reasonable; mapped status does not mean safe.
+- Some mapped Ruined have already had their hidden treasure chamber or principal rewards exhausted. They may still contain ordinary finds or provide exploration practice, and may be used for Spirit Beast hunting where the local ecology supports it.
+- A site's map status, remaining-reward status, hazard status, and anomaly status are distinct. A site with exhausted treasure can still contain an anomaly; an unexplored site is not automatically the most dangerous.
+- Ruined Archiver pays for reliable information about mapped, unmapped, or unexplored Ruined, even when an expedition finds no treasure. For registration, map verification, advance payment, balance payment, and confidentiality, use world/RUINED_ARCHIVER.md.
 
 ## 5. Common Transportation
 

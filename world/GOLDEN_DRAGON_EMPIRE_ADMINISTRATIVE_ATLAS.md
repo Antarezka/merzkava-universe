@@ -5,7 +5,7 @@
 **Population baseline:** approximately 320 million. The Golden Dragon Empire's working area estimate is approximately 11.86 million km², estimated from the 320-million population baseline using region-specific average-density assumptions based on agricultural productivity, urban/port concentration, industrial settlement, frontier buffers, and wilderness. These density assumptions are planning inputs, not measured census data. This is a planning model, not a surveyed census or boundary claim; regional average density is not the same as city density.
 **Authority:** This file is the single source for administrative counts, names, and parent relationships.
 
-## 1. Golden Dragon Empire-wide Structure
+## 1. Structure of the Golden Dragon Empire
 
 | Tier | Official count | Rule |
 |---|---:|---|

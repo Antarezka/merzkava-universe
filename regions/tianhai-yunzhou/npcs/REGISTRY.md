@@ -1,7 +1,7 @@
 # Tianhai Yunzhou — NPC Registry
 
 **Scope:** Established recurring/major NPCs and recognized officeholders in Tianhai Yunzhou.
-**Local pattern:** central INDEX → Tianhai regional module → local NPC table → canonical profile.
+**Local pattern:** central INDEX → Tianhai Yunzhou regional module → local NPC table → canonical profile.
 **Staging note:** These files currently live in the central repository under `regions/tianhai-yunzhou/` because no separate regional repository is connected/verified in this session. This is an in-repo relocation, not a claim that a separate repository has been created.
 
 ## Ruling family and established historical figure

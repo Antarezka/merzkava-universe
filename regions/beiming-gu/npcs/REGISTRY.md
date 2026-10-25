@@ -1,7 +1,7 @@
 # Beiming Gu — NPC Registry
 
 **Scope:** Navigation directory for established recurring/major NPCs whose canonical home or affiliation is Beiming Gu.
-**Status:** Three owner-approved NPC profiles are registered below.
+**Status:** Three previously established major NPCs plus 12 clan heads and 5 dojo masters are registered below (20 profiles total).
 **Local pattern:** central INDEX → relevant Beiming Gu regional module → local NPC table → canonical profile.
 **Staging note:** This file lives in the central repository under `regions/beiming-gu/` because a separate regional repository has not been verified. This is an in-repo staging location, not a claim that a separate repository has been created.
 

@@ -183,6 +183,10 @@ The Golden Dragon Empire has **two named Cultivator Academies established in thi
 | Imperial Foundation Academy | Huanglongcheng, Longyuan | Foundational literacy, civic knowledge, cultivation theory, Martial Soul and Spirit Beast fundamentals | Boarding dormitories on campus |
 | Imperial Cultivation Academy | Huanglongcheng, Longyuan | Structured cultivation education and supervised practical foundations for admitted students | Boarding dormitories on campus |
 
+### Binding academy placement note
+
+The two named academies in Huanglongcheng are the Empire's only established Cultivator Academies. Tianfeng's identity as the Scholarly Heights and a source of talented people does not establish an academy there; gifted students may travel from Tianfeng and other regions to the two central academies. Do not add academy branches or regional academies unless the owner explicitly revises this canon.
+
 ### Boarding and admissions
 
 - Both academies operate on a **dormitory-based boarding model**. Enrolled students normally reside on campus during the academic term and follow the academy's schedule and campus rules.
@@ -236,23 +240,27 @@ The basic collection is designed for the general public, including commoners and
 - The libraries teach concepts, not automatic abilities. Reading about a Spirit Beast does not make a reader able to defeat it; learning the names of the Spirit Realms does not grant cultivation; reading Thinker theory does not confer Thinker expertise.
 - The Ordo's religious authority does not give it ownership of local civil administration or of the World Knowledge Tower.
 
-## 8. Other organizations and existing institutions
+## 8. Grand Martial Soul Awakening Hall — public service note
+
+The Grand Martial Soul Awakening Hall is a centralized imperial institution, not a network of permanent branches assumed to exist in every region. Generally once every two years after New Year, designated officials/practitioners travel on scheduled public visits to villages according to local quotas and schedules. The Imperial subsidy covers the service fee, service tax, and documentation; each recipient pays only the 10 xs proof-token fee. If the recipient cannot afford that token fee, follow the existing external-lender/debt-note rules. Do not invent additional charges or charge the recipient for costs already subsidized. Exact fees and records are governed by `core/10_ECONOMY_SYSTEM.md` and `core/MARTIAL_SOUL_AWAKENING.md`. The public visit does not imply a permanent Hall branch or guarantee that every village is visited on the same date.
+
+## 9. Other organizations and existing institutions
 
 - **Five established Golden Dragon Empire dojos:** Golden Dragon Martial Hall, Iron Mountain Dojo, Cloudstep Dojo, Azure River Dojo, and Flameforge Dojo. Their identities remain valid, but this register does not invent extra branches, owners, or formal control by similarly named clans.
 - **Existing clans:** the twelve major clans remain as recorded in world/FACTIONS.md. A clan's regional influence does not automatically mean it runs a bank, academy, clinic, library, or local government office.
 - **Ordo Suci Tianming headquarters:** Sanctum of Ten Thousand Vows in Wanluo, separate from the World Knowledge Tower. Its three listed Empire libraries are selective public facilities; they do not replace its observation halls, assessment halls, or response facilities.
 - **Independent learning:** family instruction, village tutors, local mentors, and other routes may exist, but this register does not claim a particular unnamed school or teacher has been established.
 
-## 9. Canon, scale, and future expansion rules
+## 10. Canon, scale, and future expansion rules
 
 1. The institution names and branch locations in this file are newly established additions requested for the worldbuilding project.
 2. The administrative atlas controls the official spellings of regions, prefectures, and seats. If a seat is renamed, update this register as well.
 3. A listed branch is a known service point, not proof that it is fully staffed, well-funded, safe, open at the moment of a scene, or able to fulfil every request.
 4. The bank, Exchange, and Medicine Hall Society lists use prefecture seats as service hubs. Only two academies and three Ordo public libraries are specifically established in this register; it does not claim that those institutions exist in every prefecture, city, town, or village.
 5. Branch managers, academy principals, librarians, physicians, prices, admission rules, branch capacity, and local controversies may be established later through owner-approved NPC profiles or gameplay.
-6. For public knowledge, use `core/CULTIVATION_SYSTEM.md`, `core/MARTIAL_SOUL_AWAKENING.md`, `bestiary/SPIRIT_BEAST_RULES.md`, and `core/THINKER_AND_FORMULATION.md`. If a detail is absent or restricted in those sources, do not invent it as authoritative textbook content.
+7. For public knowledge, use `core/CULTIVATION_SYSTEM.md`, `core/MARTIAL_SOUL_AWAKENING.md`, `bestiary/SPIRIT_BEAST_RULES.md`, and `core/THINKER_AND_FORMULATION.md`. If a detail is absent or restricted in those sources, do not invent it as authoritative textbook content.
 
-## 10. Related sources
+## 11. Related sources
 
 - Population and regional identities: `world/WORLD.md`, `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
 - Organizations: `world/FACTIONS.md`

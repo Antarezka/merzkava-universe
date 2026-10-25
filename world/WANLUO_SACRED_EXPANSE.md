@@ -141,8 +141,9 @@ The organization operates through a broad network rather than relying solely on 
 - **Assessment halls:** Check information and forward cases requiring specialist review.
 - **Response orders:** Conduct field assignments within their capability and authority.
 - **Regional coordination centers:** Connect branches and coordinate cross-regional responses.
+- **Ruined Archiver branches:** A named Ordo branch with a branch in every city. It specializes in Ruined expedition registration, map and report verification, fair compensation, official exploration records, and confidential anomaly intelligence. Its detailed operating rules are in world/RUINED_ARCHIVER.md.
 
-Branch names, leaders, rank structure, doctrine, ritual specifics, fees, formal membership requirements, and combat capabilities have not yet been established. Do not invent these as fixed canon during gameplay.
+Ruined Archiver members wear matching light-brown uniforms. Its internal rank names and staffing structure remain unspecified. Other branch names, leaders, rank structure, doctrine, ritual specifics, fees, formal membership requirements, and combat capabilities remain unestablished unless recorded in a specific authority file.
 
 ## 8. Lore and GM Consistency Rules
 

@@ -7,7 +7,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ![Merzkava Universe — warm orange, black, yellow, coral and white title banner](assets/merzkava-header.svg)
 
-![Eastern Fantasy, Cultivation, and World in Motion arranged as descending staircase panels with bouncing balls and a curved trail](assets/world-staircase.svg)
+![Eastern Fantasy, Cultivation, and World in Motion arranged as descending staircase panels with bouncing balls and a curved trail](assets/world-tags.svg)
 
 ### A WORLD THAT DOESN'T WAIT FOR YOU.
 

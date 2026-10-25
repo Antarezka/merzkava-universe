@@ -19,7 +19,7 @@ Struktur wilayah yang dimaksud adalah **tepat tiga kekuasaan besar**, bukan satu
 - `merzkava-universe` tetap menjadi repo pusat: indeks global, aturan/mekanik lintas wilayah, template, canon global, dan tautan ke tiga repo kekuasaan besar.
 - Pola navigasi mengikuti `world/REGIONAL_REPOSITORY_ARCHITECTURE.md` dan pendekatan hub-and-spoke: INDEX pusat → repo kekuasaan yang sesuai → INDEX lokal → modul lokasi/permukiman dan registry NPC → profil NPC relevan.
 - Jangan membuat atau menebak URL repositori. Tautan harus mengarah ke repositori nyata dan diverifikasi sebelum dipakai.
-- **Status implementasi:** profil lengkap NPC yang sudah terverifikasi kini berada di folder staging `regions/golden-dragon-empire/npcs/`, `regions/tianhai-yunzhou/npcs/`, dan `regions/beiming-gu/npcs/`, masing-masing dengan INDEX/registry sesuai struktur regional. Beiming Gu kini memiliki 20 profil kanonis: Beiming Han, Beiming Xenhwa, Beiming Jingheng, satu kepala untuk masing-masing dari 12 klan, dan satu master untuk masing-masing dari 5 dojo. Daftar lengkap: `regions/beiming-gu/npcs/REGISTRY.md`. Path lama `world/NPC_*.md` tetap harus diperlakukan sesuai isi aktualnya; jangan menganggap semua path lama sudah menjadi pointer tanpa memverifikasinya. Ketiga folder staging masih berada di repo pusat karena repositori GitHub wilayah terpisah belum tersedia/terverifikasi; jangan mengklaim pemisahan tiga repo sudah selesai.
+- **Status implementasi:** profil lengkap NPC yang sudah terverifikasi kini berada di folder staging `regions/golden-dragon-empire/npcs/`, `regions/tianhai-yunzhou/npcs/`, dan `regions/beiming-gu/npcs/`, masing-masing dengan INDEX/registry sesuai struktur regional. Beiming Gu kini memiliki 21 profil kanonis: Beiming Han, Beiming Xenhwa, Beiming Jingheng, Beiming Nerva, satu kepala untuk masing-masing dari 12 klan, dan satu master untuk masing-masing dari 5 dojo. Beiming Nerva adalah Thinker Grade 9 kedua yang sebelumnya belum teridentifikasi. Daftar lengkap: `regions/beiming-gu/npcs/REGISTRY.md`. Path lama `world/NPC_*.md` tetap harus diperlakukan sesuai isi aktualnya; jangan menganggap semua path lama sudah menjadi pointer tanpa memverifikasinya. Ketiga folder staging masih berada di repo pusat karena repositori GitHub wilayah terpisah belum tersedia/terverifikasi; jangan mengklaim pemisahan tiga repo sudah selesai.
 
 ## 0. Prosedur Bootstrap (WAJIB)
 
@@ -235,7 +235,7 @@ The three canonical repository boundaries are **Golden Dragon Empire, Tianhai Yu
 - Stonegate March — `world/REGION_STONEGATE_MARCH.md`
 - Hollowmoon Valley — `world/REGION_HOLLOWMOON_VALLEY.md`
 - Ironroot Reach — `world/REGION_IRONROOT_REACH.md`
-- Beiming Gu NPC registry and full roster — `regions/beiming-gu/npcs/REGISTRY.md`; established profiles: `regions/beiming-gu/npcs/BEIMING_HAN.md`, `regions/beiming-gu/npcs/BEIMING_XENHWA.md`, `regions/beiming-gu/npcs/BEIMING_JINGHENG.md`; clan/dojo roster profiles are linked from the registry.
+- Beiming Gu NPC registry and full roster — `regions/beiming-gu/npcs/REGISTRY.md`; established profiles: `regions/beiming-gu/npcs/BEIMING_HAN.md`, `regions/beiming-gu/npcs/BEIMING_XENHWA.md`, `regions/beiming-gu/npcs/BEIMING_JINGHENG.md`, `regions/beiming-gu/npcs/BEIMING_NERVA.md`; clan/dojo roster profiles are linked from the registry.
 
 ### Lawless Territories
 - Ashen Borderlands — `world/REGION_ASHEN_BORDERLANDS.md`

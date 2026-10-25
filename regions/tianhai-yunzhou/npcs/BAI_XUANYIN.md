@@ -6,13 +6,13 @@
 
 ## 1. Identity
 - Full name: Bai Xuanyin
-- Role: Thinker, Artificial Artifact creator, wartime contributor, and revered heroine of Tianhai.
+- Role: Thinker, Artificial Artifact creator, wartime contributor, and revered heroine of Tianhai Yunzhou.
 - Family: Wife of Ji Haoyuan; mother of twin daughters Ji Zhaoning and Ji Ningzhao.
 - Age, species, appearance, burial place, and memorial location: Not established.
 - Current status: Deceased; died during the Great Tianhai War.
 
 ## 2. Public Profile
-Bai Xuanyin is greatly respected in Tianhai as a heroic figure. Three Tier 9 Demonic Beasts sought to invade and devastate Tianhai; she died during the war against this invasion. Her artifact contributions continue to be used by Tianhai's armed forces and defenses.
+Bai Xuanyin is greatly respected in Tianhai Yunzhou as a heroic figure. Three Tier 9 Demonic Beasts sought to invade and devastate Tianhai Yunzhou; she died during the war against this invasion. Her artifact contributions continue to be used by Tianhai Yunzhou's armed forces and defenses.
 
 ## 3. Capabilities
 - Spirit Realm: Spirit Realm 7 — Spirit Emperor; Stage not established.
@@ -20,8 +20,8 @@ Bai Xuanyin is greatly respected in Tianhai as a heroic figure. Three Tier 9 Dem
 - Martial Soul, Spirit Rings, techniques, and combat style: Not established.
 - Artifact legacy:
   - Created a weapon-type Artificial Artifact described by the owner as the strongest weapon-type Artificial Artifact in the world.
-  - Created Artificial Artifact armor that remains in use by Tianhai soldiers.
-  - Contributed to the giant protective dome that shields Tianhai.
+  - Created Artificial Artifact armor that remains in use by Tianhai Yunzhou soldiers.
+  - Contributed to the giant protective dome that shields Tianhai Yunzhou.
 - The weapon's name, tier, technical specifications, and current custodian are not established. The names, tiers, and precise technical details of the armor and dome are also not established.
 - Mechanics sources: core/THINKER_AND_FORMULATION.md; world/ARTIFICIAL_ARTIFACTS.md; core/CULTIVATION_SYSTEM.md.
 
@@ -37,7 +37,7 @@ Her historical knowledge and beliefs are not itemized. Events after her death we
 | Ji Haoyuan | Husband | Living Maharaja |
 | Ji Zhaoning | Eldest twin daughter | Living; age 16 |
 | Ji Ningzhao | Younger twin daughter | Living; age 16 |
-| Tianhai armed forces | Her artifact legacy remains in use | Ongoing legacy |
+| Tianhai Yunzhou armed forces | Her artifact legacy remains in use | Ongoing legacy |
 
 ## 7. State and Continuity
 - Current status: Deceased during the Great Tianhai War.

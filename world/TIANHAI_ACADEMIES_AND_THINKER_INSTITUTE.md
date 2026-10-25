@@ -6,16 +6,16 @@
 
 ## 1. Four cardinal areas of the floating island
 
-For regional planning, the main island is divided into four broad directional areas: **North, South, West, and East**. These are large geographic/cultural areas, not separate countries or independent jurisdictions. The seven districts remain the formal district structure; cardinal areas and districts are different layers of the map.
+For regional planning, the main island is divided into exactly four broad directional areas: **North, South, West, and East**. These are large geographic/cultural areas, not separate countries or independent jurisdictions. The seven districts remain the formal district structure and are a different layer of the map. Neither the central location of a landmark nor a maritime district creates a fifth cardinal area.
 
-| Area | District placement | General character |
+| Cardinal area | Districts and placement | General character |
 |---|---|---|
-| North | Xuanchao Ward; northern approaches and patrol-facing parts of Misty Shoals | Security, maritime surveillance, defensive preparation, and access to outer waters |
+| North | Xuanchao Ward; the northern approaches to the island | Security, maritime surveillance, defensive preparation, and monitoring access to outer waters |
 | South | Yunxiao Terrace and Linggong District | Government, major learning institutions, crafts, advanced workshops, and Thinker development |
 | West | Cangqiong Harbor; western-facing maritime access | Shipping, fleet logistics, sailors, navigation, and the movement of people and cargo |
 | East | Haiyue Market; eastern-facing commercial approaches | Trade, specialist markets, high-value goods, information exchange, and commercial services |
-| Central core | Tianji Core | The floating island's support-system area; it is centrally situated and is not treated as one of the four cardinal areas |
-| Outer maritime belt | Misty Shoals | Outer islands, misty waters, navigation routes, and exploration areas; it may span more than one directional approach |
+
+**Tianji Core** is the centrally situated district associated with the floating island's support system. “Central” describes its position and function, not a fifth directional division; it sits within the four-area geographic framework. **Misty Shoals** is the seventh district, an outer maritime zone of small islands, misty waters, navigation routes, and exploration areas. It is not a fifth land area of the main island and may involve routes approaching different sides of the island. Its precise geographic span and safe passages remain undefined.
 
 This is a regional framework, not a detailed street map. Exact borders, elevation, neighborhoods, transit links, and travel times remain undefined until entered in the route network. Do not assume every district is directly connected to every other district.
 

@@ -33,8 +33,8 @@ Her specific knowledge, mistaken beliefs, and secrets are not established. Her k
 ## 6. Relationships
 | Person | Relationship | Status |
 |---|---|---|
-| Ji Haoyuan | Father | Living; Maharaja of Tianhai |
-| Bai Xuanyin | Mother | Deceased; revered Tianhai heroine |
+| Ji Haoyuan | Father | Living; Maharaja of Tianhai Yunzhou |
+| Bai Xuanyin | Mother | Deceased; revered Tianhai Yunzhou heroine |
 | Ji Ningzhao | Younger twin sister | Living; age 16; awakened at Spirit Realm 3 Early Stage |
 
 ## 7. State and Continuity

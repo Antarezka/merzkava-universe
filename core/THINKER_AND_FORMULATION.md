@@ -35,7 +35,7 @@ These categories are distinct by origin and must not be treated as interchangeab
 - Knowledge and formulation development may become channels for cultural exchange, diplomacy, and rivalry.
 
 ### 3.2 Golden Dragon Empire
-- The Empire is comparatively open to knowledge exchange and interaction with outside powers.
+- The Golden Dragon Empire is comparatively open to knowledge exchange and interaction with outside powers.
 - Exchanges between Tianhai Yunzhou and the Golden Dragon Empire are important routes for the spread of knowledge and cultural influence.
 - Exchange may affect diplomacy and relations as well as technology.
 - The spread of knowledge does not automatically give every party equal production capability. Thinker skill, materials, and formulation mastery remain limiting factors.

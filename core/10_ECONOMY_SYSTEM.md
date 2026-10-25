@@ -139,6 +139,22 @@ A destination market may also adjust prices because of:
 
 Do not assume that a farther region must always have the highest price. A safe, efficient sea route or abundant destination stock can make an item cheaper there than in another region.
 
+## 5.1 Approved Inter-Power Passenger Transit Fares
+
+The following owner-approved fares are fixed baseline prices for the named transport services. They are per passenger for the complete round trip, not one-way and not per aircraft.
+
+| Service | Round-trip fare per passenger | Power source / service |
+|---|---:|---|
+| Tianhai long-distance liquefied-energy passenger aircraft | 25 xc | Tianhai-refined liquefied energy; dedicated corridors between Longyuan Sky Transit Terminal, Beiming Heartland Sky Transit Terminal, and Cangqiong Sky Transit Terminal |
+| Comparable ordinary Qi-powered flying ship | 86 xc | Qi propulsion; ordinary inter-power flying-ship service |
+
+Rules:
+- The Tianhai energy-aircraft service has greater passenger capacity per journey than an ordinary Qi-powered flying ship.
+- These prices apply to the established comparable inter-power passenger journey and the full return trip. Do not interpret them as one-way fares.
+- The 25 xc fare is supported by Tianhai's specialized energy-refining and distribution advantage; it does not imply that other powers can freely manufacture the same fuel or operate compatible aircraft.
+- Exact flight durations, schedules, seating capacity, cargo rates, premium classes, taxes, and disruption surcharges remain unestablished. Do not invent them as fixed canon.
+- Refer to `world/REGION_TIANHAI_YUNZHOU.md`, `world/GEOGRAPHY_AND_TRAVEL.md`, and `world/ARTIFICIAL_ARTIFACTS.md` for route and technology details.
+
 ## 6. Unified Pricing Formula
 
 Use the following formula when the necessary inputs are available:

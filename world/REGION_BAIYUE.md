@@ -36,7 +36,7 @@ Prefectures and seats:
 
 Former prefectural seats retained as cities/local service hubs: Tieguan, Shibi, Yingshan, and Changguan. They are not active prefectures.
 
-The administrative atlas is authoritative for names, territory estimates, and the selected village list. The listed named villages are maintained as roleplay locations for this region; unlisted hamlets may exist but are not individually catalogued. Development and services are strongest near this region's regional seat and major settlements, then generally thin with distance, isolation, and difficult terrain. Do not infer exact borders or travel times from the jurisdiction list alone.
+The administrative atlas is authoritative for names, territory estimates, and the selected village list. The listed named villages are maintained as roleplay exploration anchors for this region; unlisted hamlets may exist but are not individually catalogued. Development and services are strongest near this region's regional seat and major settlements, then generally thin with distance, isolation, and difficult terrain. Do not infer exact borders or travel times from the jurisdiction list alone.
 
 **Population-facing institutions:** Use `world/GOLDEN_DRAGON_EMPIRE_POPULATION_SERVICES.md` for named Ninefold Concord Bank and Myriad Ledger Exchange branches and Medicine Hall Society service points. The same register establishes only two boarding academies, both in Huanglongcheng, plus selected Ordo Suci Tianming public libraries; neither academies nor libraries are presumed to exist in every region. The central register governs named locations and service limits.
 
@@ -67,30 +67,41 @@ This is the region's compact named village roster. Other former village names re
 |---|---|---|---|
 | Watchfire Village | Rural village | Roadside farming near a patrol route | Local community; detailed NPCs and services pending |
 | Stonegate Village | Rural village | Passage guides and pack animals | Local community; detailed NPCs and services pending |
+| Pine Watch Village | Rural village | pemandu hutan, kayu terukur, perbaikan pos | jalur hutan dari Beiguan; zona patroli bisa butuh izin |
+| Wolf Pass Village | Rural village | penginapan karavan dan hewan beban | jalur sempit menuju Tieguan; rawan longsor/salju |
+| Cold Spring Village | Rural village | mata air, makanan awetan, tempat istirahat patroli | jalur kaki dari Yingshan; bukan jalur kereta |
 ## 4. Local Society and Daily Life
-- Local demographics and population distribution within settlements: Belum ditetapkan; regional planning total is listed in Section 2A.
-- Social structure and customs: Belum ditetapkan
-- Language and local etiquette: Belum ditetapkan
-- Ordinary occupations and services: Belum ditetapkan
+
+- Keluarga penjaga jalan, petani tahan dingin, pemburu legal, penginapan karavan, pemandu lintasan, dan pemasok garnisun tinggal berjauhan. Musim dingin membuat perjalanan jadi persoalan logistik.
+- Warga menghargai kabar akurat dan bantuan timbal balik. Pemeriksaan militer memperlambat perdagangan, tetapi patroli juga melindungi jalan. Obat, garam, dan alat lebih mahal di desa terpencil.
+
 
 ## 5. Economy and Resources
-- Main livelihoods: Belum ditetapkan
-- Known resources: Belum ditetapkan
-- Markets, prices, and trade flows: Refer to `core/10_ECONOMY_SYSTEM.md`; regional specifics pending
+
+- **Kekuatan:** logistik pertahanan, hewan beban, kulit/wol olahan, kayu terukur, daging awetan, dan pemanduan lintasan.
+- Pine Watch memasok kayu dan pemandu; Wolf Pass mengelola hewan beban; Cold Spring menyediakan tempat istirahat dan makanan awetan. Kontrak garnisun memberi pasar stabil, tetapi pembayaran terlambat dapat memukul desa.
+- **Destinasi elit:** Pondok Panorama Gerbang Utara dekat Beiguan menawarkan pemandangan benteng, jamuan hangat, dan tur sejarah berkawal; akses benteng aktif serta zona latihan dibatasi.
+- Risiko: pencurian muatan, penjualan perlengkapan militer, izin palsu, pemerasan karavan.
+
 
 ## 6. Cultivation, Martial Souls, Spirit Beasts, and Thinkers
-- Local traditions / institutions: Belum ditetapkan
-- Academies, dojos, or training locations: Belum ditetapkan
-- Spirit Beast habitats and confirmed species: Refer to `bestiary/SPIRIT_BEAST_RULES.md`; regional entries pending
-- Thinker workshops / artifact facilities: Belum ditetapkan
-- Do not invent local power rankings, special rules, or rare abilities.
+
+- Lokasi eksplorasi: menara sinyal runtuh, pos patroli lama, jembatan batu ambles, dan jalur hutan antara Pine Watch dan Wolf Pass.
+- Badai, hipotermia, longsor, jalur sempit, serta zona patroli berizin adalah risiko. Status reruntuhan harus diperiksa.
+
 
 ## 7. Factions and Local Authority
-- Refer to `world/FACTIONS.md`; region-specific presence and control pending
+
+- Political tendencies follow `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`; inclination is not proof of secret faction membership.
+
+### Regional business and community networks
+- **Perhimpunan Pemandu Lintasan** menjaga pengetahuan jalan; **Koperasi Pasokan Garnisun** mengoordinasikan makanan, kayu, dan hewan beban; **Rumah Singgah Gerbang Utara** melayani pejabat dan tamu diplomatik.
+- Pemandu bergantung pada pos; garnisun pada koperasi; penyelundup mencoba memaksa warga atau memakai rute lokal tanpa izin.
 
 | Name | Type | Role / influence | Confirmed relationship or control | Canon source |
 |---|---|---|---|---|
-| See `GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` | Current civil officeholders | Named governor, prefects, and county magistrates | Roster is authoritative for names and dispositions | `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` |
+| See `GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` | Current civil officeholders | Governor, prefects, retained regional/circuit officers | Central roster is authoritative | `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` |
+
 
 ## 8. Regional NPC Registry
 
@@ -106,15 +117,23 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPC
 | Duan Qinghe | Baiyue; exact assignment unconfirmed | Frontier–Maritime Circuit liaison officer |Spirit Realm 4 — Spirit Monarch, Peak Stage; berpihak pada pembangunan dan kesejahteraan; Orientasi rakyat: sangat tinggi; penegakan hukum 2/5 — lunak-moderat, mediasi dan peringatan lebih dahulu| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
 
 ## 9. Current Situations and Events
-- Local conflicts: Belum ditetapkan
-- Active world events: Check `world/DYNAMIC_EVENTS.md`; do not create events here
-- Persistent consequences: Record only through the official event/history process
+
+- **Kecil — Sepatu Salju (5–12):** pencuri perlengkapan dan pemalak karavan di jalan sekunder.
+- **Menengah — Serigala Abu (20–45):** penyergap dan penyelundup yang memakai lintasan hutan.
+- **Besar:** tidak ada sindikat yang menguasai Beiguan terbuka; ancaman serius adalah jaringan penjualan perlengkapan/informasi patroli dengan bantuan oknum.
+- Gubernur Baihu Xuefeng (Spirit Realm 6) mampu mengoordinasikan patroli dan operasi lintasan, tetapi berhati-hati terhadap penyalahgunaan darurat militer. Medan luas membuat kriminal berpindah jalur saat satu lintasan ditutup.
+
+**GM encounter rule:** groups are established threats, not a schedule forcing every group to attack every session. Randomize the lead, rumor, victim, patrol, or opportunity; scale encounters to local conditions. Activity shifts after arrests, weather, shortages, and patrol pressure. Do not decide guilt solely from appearance or origin.
+
 
 ## 10. Travel and GM Constraints
-- Confirmed routes: Frontier–Maritime Relay (Beiguan ↔ Dongxing; staged land/sea relay, not a direct road)
-- Transport available: Only when established in canon
-- Do not infer coordinates, adjacency, exact travel time, current faction control, or hidden NPC lore.
-- If a detail is missing, leave it unconfirmed until the owner fills it in.
+
+- Jalan darat Beiguan → Pine Watch → Wolf Pass → Tieguan; cabang Yingshan → Cold Spring hanya jalur kaki.
+- Frontier–Maritime Relay ke Dongxing adalah koneksi bertahap darat/laut, bukan jalan lurus. Konvoi berat memakai jalan patroli; cuaca dan izin dapat memaksa putar balik.
+
+- Treat routes as a connected graph: destinations require listed connected legs or a newly recorded path.
+- Do not invent exact distances or travel times without travel rules, transport mode, and weather support.
+
 
 ## 11. Owner Completion Checklist
 - [ ] Add geography and confirmed routes

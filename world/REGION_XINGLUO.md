@@ -145,3 +145,14 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPC
 - [ ] Add daily life, economy, and resources
 - [ ] Add local cultivation / Spirit Beast / Thinker details
 - [ ] Reconcile confirmed additions with `world/MAP_AND_REGIONS.md`, `world/WORLD.md`, and `INDEX.md`
+
+
+## Location Network and Confirmed Routes
+
+Use `world/LOCATION_AND_ROUTE_NETWORK.md` for the canonical route format and travel-validation procedure. This section records only confirmed or owner-approved provisional connections; blank or unlisted connections remain unknown. Do not infer direct access, exact distances, or travel times from regional proximity or jurisdiction.
+
+| Origin | Destination | Route / transport | Intermediate stops | Access / constraints | Trade / social function | Travel time / source | Canon status |
+|---|---|---|---|---|---|---|---|
+| Belum ditetapkan | Belum ditetapkan | Belum ditetapkan | — | Belum ditetapkan | Belum ditetapkan | Unknown | Not established |
+
+When adding a route, verify geography, terrain, transport availability, intermediate locations, local economic rationale, access restrictions, and current events. Resolve travel duration only through `gameplay/TIME_AND_ACTION_RULES.md`.

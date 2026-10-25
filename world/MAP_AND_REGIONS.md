@@ -45,9 +45,8 @@ Tianhai Yunzhou is centered on a giant floating island sustained by a Tier 9 Art
 
 The following regional and clan information is established in `world/WORLD.md`:
 
-- **Shuijing Clan:** materials processing and craftsmanship.
-- **Leiyu Clan:** combat techniques and offensive power.
-- **Tianhai Dojos:** Skywhale Dojo, Tidal Current Dojo, Stormwake Dojo, Azure Sail Dojo, Deepwater Dojo.
+- **Twelve established clans:** Haiyuan (sailing and maritime affairs), Tianjing (administration and central interests), Yunhai (trade and transportation), Canglong (combat and defense), Bihai (coastal resources), Xuanchao (security and maritime surveillance), Lingfan (navigation and expeditions), Haijing (information and port relations), Yunzhou (main-island interests), Mingzhu (high-value commodities), Shuijing (materials processing and craftsmanship), and Leiyu (combat techniques and offense). Their spheres are broad influence areas, not proof of exclusive territorial control, fixed clan membership, or automatic subordination to the Maharaja.
+- **Five established dojos:** Skywhale, Tidal Current, Stormwake, Azure Sail, and Deepwater. Their current leaders, membership, and formal political relationships remain unconfirmed.
 
 The floating island's precise coordinates, internal district map, neighboring island routes, and artifact maintenance sites are not yet defined. Do not invent these as settled canon.
 

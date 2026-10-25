@@ -174,7 +174,7 @@ Follow a modular pattern inspired by the organization of a repository: one navig
 
 ### 5.1 Record One Fact at Its Authoritative Source
 
-Do not copy a full ministry description into every regional file. The central governance module defines the Golden Dragon Empire-wide structure; a regional file records only local implementation, confirmed officeholders, local jurisdictions, and relevant exceptions. Other files should link to the authoritative source instead of silently creating competing versions.
+Do not copy a full ministry description into every regional file. The central governance module defines the structure of the Golden Dragon Empire; a regional file records only local implementation, confirmed officeholders, local jurisdictions, and relevant exceptions. Other files should link to the authoritative source instead of silently creating competing versions.
 
 ### 5.2 Required Fields for a Future Administrative Unit
 

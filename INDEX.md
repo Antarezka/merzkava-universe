@@ -4,14 +4,20 @@ INDEX ini adalah **pintu masuk tunggal** untuk memulai, melanjutkan, dan menjala
 
 Repository resmi: https://github.com/Antarezka/merzkava-universe
 
-## Regional Repository Architecture — Mandatory
+## Struktur Repositori Wilayah — WAJIB
 
-The target architecture is **one central index plus separate canonical regional repositories**. Follow `world/REGIONAL_REPOSITORY_ARCHITECTURE.md` for ownership boundaries, NPC registry rules, regional layout, and safe migration.
+Struktur wilayah yang dimaksud adalah **tepat tiga kekuasaan besar**, bukan satu repo untuk setiap provinsi, kawasan, kota, atau desa:
 
-- `merzkava-universe` remains the global hub for `INDEX.md`, `templates/AUTHORITY_ORDER.md`, global canon/mechanics, and verified links to regional repositories.
-- Each region's repository is the canonical source for its local geography, settlements, NPC registry, and detailed NPC profiles.
-- A region link must be verified before the AI uses it as a source or migrates any canon. Never guess repository names or URLs.
-- **Migration status:** regional repository URLs have not yet been verified in this connected GitHub view. Therefore the existing `world/REGION_*.md` and `world/NPC_*.md` files listed below remain legacy canon until their destinations are verified and content is safely migrated. Do not claim that regional separation is complete, and do not delete or overwrite those files yet.
+1. **Kekaisaran Naga Emas (Golden Dragon Empire)** — satu repositori untuk seluruh wilayah kekaisaran, seluruh subwilayah/permukiman di dalamnya, pemerintahan, faksi, jalur, serta NPC yang berasal atau bernaung di sana.
+2. **Tianhai Yunzhou (Tianhai)** — satu repositori untuk seluruh Tianhai, termasuk kawasan, kota terapung, akademi, institut, jalur transit, faksi, serta NPC Tianhai.
+3. **Beiming Gu** — satu repositori untuk seluruh Beiming Gu, termasuk kawasan-kawasannya, permukiman, jalur darat/laut, faksi, serta NPC Beiming Gu.
+
+**Subwilayah bukan repositori tersendiri.** Kota/desa/kawasan dan NPC ditempatkan di dalam repositori kekuasaan besarnya masing-masing. NPC disimpan di repositori wilayah asal/afiliasi kanonisnya, bukan di repositori NPC global terpisah.
+
+- `merzkava-universe` tetap menjadi repo pusat: indeks global, aturan/mekanik lintas wilayah, template, canon global, dan tautan ke tiga repo kekuasaan besar.
+- Pola navigasi mengikuti `world/REGIONAL_REPOSITORY_ARCHITECTURE.md` dan pendekatan hub-and-spoke `inggo-alvn/Core`: INDEX pusat → repo kekuasaan yang sesuai → INDEX lokal → modul lokasi/permukiman dan registry NPC → profil NPC relevan.
+- Jangan membuat atau menebak URL repositori. Tautan harus mengarah ke repositori nyata dan diverifikasi sebelum dipakai.
+- **Status implementasi:** dokumen pusat sudah direvisi agar mengikuti struktur tiga kekuasaan besar. URL ketiga repo wilayah belum dapat diverifikasi dari repositori yang terhubung pada sesi ini, jadi pemindahan file kanonis belum dilakukan. File `world/REGION_*.md` dan `world/NPC_*.md` yang ada masih menjadi sumber legacy sementara; jangan menghapus atau menimpanya sebelum tujuan dan isi hasil migrasi diverifikasi.
 
 ## 0. Prosedur Bootstrap (WAJIB)
 
@@ -186,7 +192,7 @@ Modul yang disebut tetapi belum tersedia tidak otomatis menjadi sumber resmi. Ja
 
 ## 3. Regional Modules and NPC References
 
-Regional modules are divided according to the established geography in `world/MAP_AND_REGIONS.md`. They are **owner-fillable scaffolds**, not a license for the GM to invent missing canon. Fetch the module matching the character's current location or intended destination; fetch `world/NPC_MANAGEMENT.md` when creating, meeting, or continuing an important NPC. Use `templates/NPC_PROFILE_TEMPLATE.md` for a full NPC profile and link it from the regional registry.
+The three canonical repository boundaries are **Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu**. The subregions listed below are geographic modules inside those powers—not separate repository boundaries. Until the three destination repositories are verified and migration is complete, the paths below are the central repository's legacy canon and remain the available references. Do not invent missing canon from scaffold headings. For an NPC, use `world/NPC_MANAGEMENT.md` and `templates/NPC_PROFILE_TEMPLATE.md`; after migration, the relevant power's own NPC registry will be the local entry point and the full profile will live in that same power repository.
 
 ### Golden Dragon Empire
 - Empire-wide civil and military governance — `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`

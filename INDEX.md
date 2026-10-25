@@ -246,7 +246,7 @@ The three major powers are **Golden Dragon Empire, Tianhai Yunzhou, and Beiming 
 - Ashen Borderlands — `world/REGION_ASHEN_BORDERLANDS.md`
 - Black Tide Expanse — `world/REGION_BLACK_TIDE_EXPANSE.md`
 - Nine Frost Wastes — `world/REGION_NINE_FROST_WASTES.md`
-- **Lawless Territories master reference** (underground economy, organizations' service roles, neutral refuge, Azerion Forest/older Dead Zone name, hidden Inner Azerion city and half-beast economy, illusion fog, human access risks, slave market, food scarcity, elite auctions) — `world/LAWLESS_TERRITORIES.md`
+- **Lawless Territories master reference** (underground economy, organizations' service roles, neutral refuge, Azerion Forest, Dead Zone as the deepest core only, central lake and Mega Colossal Labyrinth, unexplored-ruin map/hidden-treasure rules, hidden Inner Azerion city and half-beast economy, illusion fog, human access risks, slave market, food scarcity, elite auctions) — `world/LAWLESS_TERRITORIES.md`
 
 ### NPC modules and templates
 - NPC management rules — `world/NPC_MANAGEMENT.md`

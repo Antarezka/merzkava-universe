@@ -80,7 +80,7 @@ Use this format:
 - **Participants:** Tianhai Yunzhou and three Tier 9 Demonic Beasts; their identities are unknown.
 - **What is established:** The three beasts attempted to enter and devastate Tianhai. Tianhai resisted. Bai Xuanyin, Spirit Realm 7 and Thinker Grade 10, died during the war and is revered as a great heroine. Her major Artificial Artifact contributions include the world's strongest known weapon-type Artificial Artifact, armor still used by Tianhai soldiers, and contributions to Tianhai's giant protective dome.
 - **Consequences:** Bai Xuanyin's death and heroic legacy are established; her armor and contributions to Tianhai's defenses remain in use.
-- **Sources / evidence:** world/REGION_TIANHAI_YUNZHOU.md; world/NPC_BAI_XUANYIN.md.
+- **Sources / evidence:** world/REGION_TIANHAI_YUNZHOU.md; ../regions/tianhai-yunzhou/npcs/BAI_XUANYIN.md.
 - **What remains unknown:** Date, duration, battle sequence, identities of the three beasts, full outcome, exact circumstances of Bai Xuanyin's death, and names, tiers, specifications, and custodians of the artifacts.
 
 ## 5. Timeline Rules for the GM

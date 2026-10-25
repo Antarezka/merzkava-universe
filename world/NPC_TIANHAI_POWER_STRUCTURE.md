@@ -129,7 +129,7 @@ Dojos are training institutions, not automatically branches of the military or s
 
 ## 9. Thinker institutions and artifact quality control
 
-The institutions below establish a basic public structure for Tianhai's Thinker tradition. They do not imply that Tianhai monopolizes Thinker knowledge or that every workshop can produce high-tier artifacts.
+The Tianhai Thinker Institute is the world's only established institution at this level and breadth of Thinker research. Its exclusive institutional remit covers Formation Engraver development, materials research, formulation and mixing methods, complex formation engraving for Tier 6+, and optimization of engraving and production techniques for Tier 5 and below. It is a research and standards center, not a guarantee of production success; the official Thinker Grade and formulation mechanics still apply. Other regions may have Thinkers, workshops, schools, or research groups, but no equivalent institution is established. The four Cultivator Academies are listed in `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md`.
 
 | NPC | Office / responsibility | Spirit Realm / Stage | Thinker Grade |
 |---|---|---|---:|

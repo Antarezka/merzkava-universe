@@ -65,7 +65,18 @@ A county circuit is a broad administrative-service jurisdiction coordinating two
 | Furnace Mountains Circuit | Honglu | Red Furnace, Ashen Peak | Forges, fuel routes, worker safety |
 | Frontier–Maritime Circuit | Beiguan | Northwatch, Eastern Star | Cross-region logistics, frontier and port coordination |
 
-The Frontier–Maritime Circuit is a coordination arrangement, not proof of a direct road or short travel time between Baiyue and Xingluo. Routes, borders, and travel durations remain unestablished unless confirmed in geography or regional modules.
+The Frontier–Maritime Circuit is a coordination arrangement, not proof of a direct road or short travel time between Baiyue and Xingluo. The administrative route framework is:
+
+| Route | Connection | Mode / purpose | Status |
+|---|---|---|---|
+| Imperial Dragon Road | Huanglongcheng ↔ Yuxi | Main overland administrative and courier route | Established as a named route; exact distance and travel time unestablished |
+| Twin River Route | Qinghe ↔ Jiangbei | River transport and levee/granary inspection corridor | Established as a named route; navigability varies by season until specified |
+| Ore Vein Road | Yumai ↔ Tieyun | Ore caravans, mine administration, spiritual-material freight | Established as a named route; local safety varies |
+| Cloudstep Scholar Road | Tianshu ↔ Yunding | Academy, examination, archive, and mountain-caravan route | Established as a named route; exact pass conditions unestablished |
+| Furnace Spine Road | Honglu ↔ Huifeng | Furnace supply, fuel, metal, and worker transport | Established as a named route; hazards may vary with volcanic activity |
+| Frontier–Maritime Relay | Beiguan ↔ Eastern Star | Official dispatch via staged couriers and authorized sea/land transfers | Established as an administrative relay, **not** a single direct road; exact route legs and travel time remain unestablished |
+
+These names establish recognized administrative corridors, not guaranteed safety, permanent road quality, exact distances, or travel times. Regional modules and the geography/travel source may add confirmed segments and hazards without changing the administrative counts.
 
 ## 5. Thirteen Named Rural Villages
 
@@ -101,6 +112,11 @@ The nine other entries from the former village list are not destroyed or depopul
 
 - Residents continue living in cities, market settlements, villages, hamlets, farms, ports, mines, academies, estates, and other established places. An unlisted place is not assumed empty or nonexistent.
 - Household registers remain population-record units, not a separate government tier.
+- **Ordinary imperial resident:** a person living under the Empire's civil jurisdiction; this status does not by itself confer noble rank, office, wealth, or cultivation level.
+- **Household-registered resident:** a resident recorded in a household register for a recognized locality. Registration supports taxation, petitions, family records, and access to applicable public services; exact legal procedures remain subject to the wider law canon.
+- **Temporary resident / traveler:** a person staying away from their registered home or passing through a locality. Temporary presence does not automatically transfer household registration or confer local office.
+- **Unregistered, displaced, or undocumented person:** do not assume they are criminals or stateless. Their specific rights, registration process, and access to services depend on established law and local circumstances; details remain open until formally defined.
+- Administrative consolidation alone does not change any resident's registration, legal status, rights, obligations, taxes, property, or social standing.
 - Local heads, representatives, clerks, and magistrates may exist, but names and appointment procedures must be established in a regional or NPC module.
 - Banks, medicine halls, academies, libraries, information exchanges, and government offices exist only where confirmed by the population-services register or a regional module. Do not place a branch in every prefecture or village by default.
 - Administrative links establish responsibility, not physical adjacency, roads, exact distances, safe passage, or travel times.

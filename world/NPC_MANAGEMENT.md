@@ -1,7 +1,7 @@
 # Merzkava Universe — NPC Management and Continuity
 
 **Status:** Canonical GM operating guidance.
-**Purpose:** Keep NPCs easy to find by location, consistent with world canon, and independent in their motives. Follow the established regional-module pattern: central INDEX → relevant regional module → location/faction NPC table → detailed profile only when needed.
+**Purpose:** Keep NPCs easy to find by location, consistent with world canon, and independent in their motives. Follow the regional-module pattern: central INDEX → relevant regional module → location/faction NPC table → detailed profile only when needed.
 
 ## 1. One navigation path
 
@@ -31,7 +31,7 @@ The central repository is currently the global navigation hub and temporary home
 
 **Migration safety:** existing `world/REGION_*.md`, `world/NPC_*.md`, and other regional canon files remain valid legacy sources until each migration is verified. Do not delete, overwrite, or claim they have moved just because the target architecture is documented.
 
-## 3. NPC structure — regional module pattern
+## 3. NPC structure
 
 ### A. Local NPC tables live beside their location
 
@@ -61,7 +61,7 @@ Canonical full profiles for established named NPCs are maintained in `regions/go
 For each future verified major-power repository, use:
 - `npcs/REGISTRY.md` — local directory grouped by region/settlement and role, with one row per important or recurring NPC.
 - `npcs/<NPC_Name>.md` — one detailed canonical profile when the NPC needs one.
-- Regional and settlement files — local NPC tables and links to detailed profiles, following the regional-module pattern.
+- Regional and settlement files — local NPC tables and links to detailed profiles, following the same pattern.
 
 The local registry and location tables must link to the same canonical profile. They must not duplicate the biography.
 

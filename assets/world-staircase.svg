@@ -1,25 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-labelledby="title desc">
   <title id="title">Merzkava Universe bouncing staircase</title>
-  <desc id="desc">Three separate black-framed panels arranged as descending stairs: Eastern Fantasy, Cultivation, and World in Motion. Large ball-like dots follow a curved dashed path down the outside of the stairs and bounce between levels.</desc>
-  <rect width="960" height="360" fill="#FFFFFF"/>
-  <g fill="none" stroke="#151515" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M52 30 C88 4 122 15 122 43 S84 69 105 91 S160 110 186 132 S219 155 248 172 S280 194 310 215 S340 240 370 258 S401 284 430 307" stroke-dasharray="4 8" opacity=".65"/>
-    <path d="M415 295 L430 307 L433 287"/>
-    <path d="M79 67 q-15 9 -22 22 M94 104 q-13 10 -19 22 M154 145 q-12 9 -16 18 M216 184 q-12 9 -16 18 M279 227 q-12 9 -16 18 M340 270 q-10 7 -14 15" opacity=".65"/>
+  <desc id="desc">Three separate colorful panels form descending stairs. Large ball-like dots and a curved dotted trail bounce above the top edge of each step. The background is transparent to match GitHub.</desc>
+  <g fill="none" stroke="#151515" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".8">
+    <path d="M40 30 C72 0 112 0 139 24 S190 43 220 23 S272 5 298 27 S335 44 365 24 S417 7 443 30 S470 63 481 91 C489 111 487 118 500 119" stroke-dasharray="3 8"/>
+    <path d="M497 119 C523 93 554 96 578 117 S625 139 651 119 S688 99 708 125 C726 148 708 174 721 194 S750 213 775 211" stroke-dasharray="3 8"/>
+    <path d="M765 198 L777 211 L762 218"/>
+    <path d="M120 38 l-11 9 M196 46 l-10 8 M269 35 l-10 7 M345 39 l-10 7 M437 47 l-8 9 M544 111 l-8 6 M624 136 l-8 7 M697 151 l-7 9" stroke-width="2"/>
   </g>
   <g>
-    <circle cx="64" cy="34" r="15" fill="#FFE066" stroke="#151515" stroke-width="4"/>
-    <circle cx="59" cy="29" r="4" fill="#FFFFFF"/>
-    <circle cx="112" cy="88" r="12" fill="#FFB36B" stroke="#151515" stroke-width="4"/>
-    <circle cx="108" cy="84" r="3.5" fill="#FFFFFF"/>
-    <circle cx="191" cy="136" r="11" fill="#F25C54" stroke="#151515" stroke-width="4"/>
-    <circle cx="187" cy="132" r="3" fill="#FFFFFF"/>
-    <circle cx="252" cy="176" r="10" fill="#FFE066" stroke="#151515" stroke-width="3.5"/>
-    <circle cx="249" cy="173" r="2.8" fill="#FFFFFF"/>
-    <circle cx="315" cy="219" r="9" fill="#FFB36B" stroke="#151515" stroke-width="3.5"/>
-    <circle cx="312" cy="216" r="2.5" fill="#FFFFFF"/>
-    <circle cx="375" cy="263" r="8" fill="#F25C54" stroke="#151515" stroke-width="3"/>
-    <circle cx="372" cy="260" r="2.2" fill="#FFFFFF"/>
+    <circle cx="64" cy="21" r="16" fill="#FFE066" stroke="#151515" stroke-width="4"/>
+    <circle cx="59" cy="16" r="4.5" fill="#FFFFFF"/>
+    <circle cx="220" cy="23" r="12" fill="#FFB36B" stroke="#151515" stroke-width="4"/>
+    <circle cx="216" cy="19" r="3.5" fill="#FFFFFF"/>
+    <circle cx="366" cy="24" r="10" fill="#F25C54" stroke="#151515" stroke-width="3.5"/>
+    <circle cx="362" cy="20" r="3" fill="#FFFFFF"/>
+    <circle cx="490" cy="119" r="15" fill="#FFE066" stroke="#151515" stroke-width="4"/>
+    <circle cx="485" cy="114" r="4" fill="#FFFFFF"/>
+    <circle cx="625" cy="126" r="11" fill="#FFB36B" stroke="#151515" stroke-width="3.5"/>
+    <circle cx="621" cy="122" r="3" fill="#FFFFFF"/>
+    <circle cx="720" cy="194" r="14" fill="#F25C54" stroke="#151515" stroke-width="4"/>
+    <circle cx="715" cy="189" r="4" fill="#FFFFFF"/>
   </g>
   <g>
     <rect x="148" y="42" width="322" height="82" rx="3" fill="#151515"/>
@@ -35,13 +35,5 @@
     <rect x="526" y="232" width="376" height="82" rx="3" fill="#151515"/>
     <rect x="533" y="239" width="362" height="68" rx="2" fill="#F25C54"/>
     <text x="714" y="279" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="800" text-anchor="middle" letter-spacing=".5" fill="#FFFFFF">WORLD IN MOTION</text>
-  </g>
-  <g fill="none" stroke="#151515" stroke-width="4" stroke-linecap="round">
-    <path d="M160 128 H470 V137" opacity=".8"/>
-    <path d="M360 223 H648 V232" opacity=".8"/>
-  </g>
-  <g fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1">
-    <text x="46" y="345">BOUNCE</text>
-    <text x="870" y="345" text-anchor="end">FOLLOW THE FALL</text>
   </g>
 </svg>

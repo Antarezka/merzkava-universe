@@ -27,7 +27,7 @@
 - **County circuit:** Frontier–Maritime Circuit
 - **Cities:** Not separately counted in the simplified register; former seats remain settlements or service hubs.
 - **Small towns:** Not a separate official administrative tier.
-- **Named rural villages listed in this atlas:** 1
+- **Official named rural villages in this region:** 1
 - **Other rural settlements:** Unenumerated; do not generate or count thousands of named villages by default
 - **Full official register:** `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
 
@@ -60,16 +60,16 @@ The official prefecture seats are only those listed in `world/GOLDEN_DRAGON_EMPI
 | Longchao | City / settlement and service hub | Former prefectural seat; Longchao remains a port settlement under Eastern Star Prefecture | Local civil administration; not an independent prefectural seat |
 
 
-### Named rural villages
+### Official Villages and Other Local Settlements
 
-This is the region's compact named village roster. Other former village names remain local settlements or hamlets unless separately promoted back into the official thirteen-village register. Village status does not imply permanent public services or a named leader.
+Only 1 village is part of the Empire's official thirteen-village register in this region. Other named places listed below are hamlets/local settlements, not additional official villages. Their local functions and route connections remain usable, but they must not be counted as official villages. Permanent public services or named leaders are not implied.
 
 | Settlement | Type | Established role | Authority / status |
 |---|---|---|---|
 | Salt Lantern Village | Rural village | Salt pans and coastal fishing | Local community; detailed NPCs and services pending |
-| Pearl Shoal Village | Rural village | kerang, ikan kering, pembuat jaring | perahu pesisir dari Dongxing; pendaratan ikut pasang |
-| Wind Sail Village | Rural village | layar, tali kapal, pemandu angin | jalur pesisir dari Lanfan; barang berat via kapal |
-| Tideglass Village | Rural village | kaca laut, garam, pengamatan pasang | perahu kecil dari Chaoguan; badai memaksa putar |
+| Pearl Shoal Hamlet | Hamlet / local settlement | kerang, ikan kering, pembuat jaring | perahu pesisir dari Dongxing; pendaratan ikut pasang |
+| Wind Sail Hamlet | Hamlet / local settlement | layar, tali kapal, pemandu angin | jalur pesisir dari Lanfan; barang berat via kapal |
+| Tideglass Hamlet | Hamlet / local settlement | kaca laut, garam, pengamatan pasang | perahu kecil dari Chaoguan; badai memaksa putar |
 ## 4. Local Society and Daily Life
 
 - Awak kapal, nelayan, pembuat layar, buruh dermaga, pengolah garam, saudagar, pemandu laut, dan pekerja gudang mengatur kehidupan. Pasang, musim angin, dan kedatangan kapal menentukan jam kerja.

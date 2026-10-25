@@ -3,7 +3,7 @@ MERZKAVA UNIVERSE — WORLD LORE & POLITICAL ATLAS
 «Document Type: Core Worldbuilding
 Status: Canon Foundation
 Scope: World Powers, Territories, Factions, Political Relations, Medicine Hall Society, Population, and Ruling Powers
-Related Modules: "world/MAP_AND_REGIONS.md", "world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md", "world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md", "world/FACTIONS.md", "world/HISTORY.md", "world/ARTIFACTS_AND_RELICS.md", "world/ARTIFICIAL_ARTIFACTS.md", "world/SOCIAL_STRATIFICATION.md", "world/WEALTH_DISTRIBUTION.md", "world/GEOGRAPHY_AND_TRAVEL.md", "world/WANLUO_SACRED_EXPANSE.md", "world/INTELLIGENT_PEOPLES.md", "core/CULTIVATION_SYSTEM.md", "core/MARTIAL_SOUL.md", "core/SPIRIT_RING_RULES.md", "bestiary/SPIRIT_BEAST_RULES.md". WORLD.md remains the primary source for established world lore; each related module handles its stated scope. A listed path does not override the module itself or turn provisional details into confirmed canon.»
+Related Modules: "world/MAP_AND_REGIONS.md", "world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md", "world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md", "world/FACTIONS.md", "world/ANCIENT_SHAMANISM_AND_BUDDHIST_CLANS.md", "world/HISTORY.md", "world/ARTIFACTS_AND_RELICS.md", "world/ARTIFICIAL_ARTIFACTS.md", "world/SOCIAL_STRATIFICATION.md", "world/WEALTH_DISTRIBUTION.md", "world/GEOGRAPHY_AND_TRAVEL.md", "world/WANLUO_SACRED_EXPANSE.md", "world/INTELLIGENT_PEOPLES.md", "core/CULTIVATION_SYSTEM.md", "core/MARTIAL_SOUL.md", "core/SPIRIT_RING_RULES.md", "bestiary/SPIRIT_BEAST_RULES.md". WORLD.md remains the primary source for established world lore; each related module handles its stated scope. A listed path does not override the module itself or turn provisional details into confirmed canon.»
 
 ---
 
@@ -31,7 +31,7 @@ Dunia ini tidak memiliki satu kekuatan yang mampu mengendalikan semua pihak. Per
 
 Manusia bukan satu-satunya kaum berakal di Merzkava Universe. Beragam kaum dan garis keturunan hidup di dunia ini, termasuk manusia berfitur rubah, wyvern, laut, sayap kupu-kupu, unsur api, dan banyak bentuk lain. Sebagian menghadapi diskriminasi atau eksploitasi, sementara kelompok ortodoks, heterodoks, demonic, maupun independen tertentu dapat menerima atau melindungi mereka. Rincian kaum dan perlakuan sosial mengikuti `world/INTELLIGENT_PEOPLES.md`.
 
-Bentang alam luas di antara kekuasaan utama mencakup hutan, pegunungan, jurang, lembah, dan puncak-puncak yang menembus lautan awan. Reruntuhan masa lampau dapat tersebar di daratan maupun palung samudra. Orientasi dunia, habitat liar, dan transportasi mengikuti `world/GEOGRAPHY_AND_TRAVEL.md` serta `world/MAP_AND_REGIONS.md`.
+Bentang alam luas di antara kekuasaan utama mencakup hutan, pegunungan, jurang, lembah, dan puncak-puncak yang menembus lautan awan. Reruntuhan masa lampau dapat tersebar di daratan maupun palung samudra. Orientasi dunia, habitat liar, dan transportasi mengikuti `world/GEOGRAPHY_AND_TRAVEL.md` serta `world/MAP_AND_REGIONS.md`. Dua kelompok tersembunyi juga tinggal di puncak terpencil di atas lautan awan: klan/sekte Ancient Shamanism dan klan Buddhis yang terpisah. Hierarki, Martial Soul, filosofi, dan batas pengetahuan mereka ditetapkan dalam `world/ANCIENT_SHAMANISM_AND_BUDDHIST_CLANS.md`; jangan mengarang koordinat atau hubungan politik mereka.
 
 ---
 
@@ -789,6 +789,7 @@ Berkas| Isi utama
 "world/MAP_AND_REGIONS.md" dan "world/GEOGRAPHY_AND_TRAVEL.md"| Peta, geografi, jarak, rute perjalanan, iklim, transportasi, dan lokasi penting
 "world/INTELLIGENT_PEOPLES.md"| Kaum berakal, garis keturunan, dan perlakuan sosial
 "world/FACTIONS.md"| Sekte, klan, organisasi, pemimpin, hierarki, hubungan, dan konflik
+"world/ANCIENT_SHAMANISM_AND_BUDDHIST_CLANS.md"| Lore kanonis dua kelompok tersembunyi di puncak lautan awan
 `core/10_ECONOMY_SYSTEM.md`| Mata uang resmi Xuan, kurs, harga, kualitas barang, kelangkaan, distribusi, pasar, dan transaksi
 "core/CULTIVATION_SYSTEM.md", "core/MARTIAL_SOUL.md", dan "core/SPIRIT_RING_RULES.md"| Sistem kultivasi, Martial Soul, Spirit Ring, breakthrough, dan batas kemampuan
 "bestiary/SPIRIT_BEAST_RULES.md"| Jenis Spirit Beast, habitat, usia, kemampuan, mutasi, dan evolusi

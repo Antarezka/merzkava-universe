@@ -24,7 +24,7 @@ Forests and other wild territories contain Spirit Beasts. As a general ecologica
 
 ## 4. Ancient Ruins
 
-Ruins from past eras are scattered throughout the world, including remote wilderness, mountain regions, and deep ocean trenches. Their age, creators, contents, dangers, and historical significance vary and may be unknown. A ruin's existence does not guarantee that treasure remains, that it is accessible, or that its history is understood.
+More than one thousand **Ruined**—ruins from the ancient Golden Age—are scattered throughout the world, including remote wilderness, mountain regions, and deep ocean trenches. Their locations, conditions, contents, dangers, and degree of exploration vary; many are not publicly listed. Other kinds of ruins may exist, but do not automatically classify every ruin as a Golden Age Ruined without supporting evidence. A Ruined's existence does not guarantee that treasure remains, that it is accessible, or that its history is understood. Consult world/RUINED_ARCHIVER.md for the specialist branch that registers expeditions and verifies Ruined intelligence.
 
 ### 4.1 Unexplored Ruins: Maps, Discoveries, and Hidden Rewards
 

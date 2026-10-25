@@ -16,7 +16,7 @@
 - Development profile: Core — highest state presence and densest infrastructure.
 - Terrain / climate: Broad terrain follows the established regional identity; detailed local conditions remain to be developed
 - Confirmed neighboring regions: Belum ditetapkan
-- Confirmed routes / crossings: Belum ditetapkan
+- Confirmed routes / crossings: Imperial Dragon Road links Huanglongcheng and Yuxi; other local roads remain unspecified.
 - Travel distances and durations: Do not infer; follow `world/GEOGRAPHY_AND_TRAVEL.md` and `gameplay/TIME_AND_ACTION_RULES.md`
 
 ## 2A. Administrative Register
@@ -51,12 +51,12 @@ The official prefecture seats are only those listed in `world/GOLDEN_DRAGON_EMPI
 
 | Settlement | Type | Established role | Authority / status |
 |---|---|---|---|
-| Huanglongcheng | City / prefecture seat | Imperial capital and seat of Huanglong Prefecture | Imperial civil administration; local detail pending |
-| Yuxi | City / prefecture seat | Seat of Jade Seal Prefecture | Imperial civil administration; local detail pending |
+| Huanglongcheng | City / official prefecture seat | Imperial capital and seat of Huanglong Prefecture | Imperial civil administration; local detail pending |
+| Yuxi | City / official prefecture seat | Seat of Jade Seal Prefecture | Imperial civil administration; local detail pending |
 | Zhuque | City / settlement hub | Zhuque is an established city under Huanglong Prefecture | Imperial civil administration; local detail pending |
 | Jintai | City / settlement hub | Jintai is an established city in Jade Seal Prefecture | Imperial civil administration; local detail pending |
 | Guanhe | City / settlement hub | Guanhe is an established city under Huanglong Prefecture | Imperial civil administration; local detail pending |
-| Bailu | City / consolidated administrative center | Former prefectural seat; remains a settlement under Jade Seal Prefecture | Local civil administration; not an independent prefectural seat |
+| Bailu | City / settlement and service hub | Former prefectural seat; remains a settlement under Jade Seal Prefecture | Local civil administration; not an independent prefectural seat |
 
 
 ### Named rural villages

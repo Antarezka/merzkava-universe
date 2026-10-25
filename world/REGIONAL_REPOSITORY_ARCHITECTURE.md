@@ -21,7 +21,7 @@ The central repository owns:
 - `templates/AUTHORITY_ORDER.md` and global GM/navigation procedures.
 - Global world canon, shared mechanics, common templates, and cross-power rules.
 - Cross-region references, global history/events, and rules that apply across multiple powers.
-- Temporary legacy regional files, plus compatibility pointers at old `world/NPC_*.md` paths. Canonical named NPC profiles have been staged under `regions/<power>/npcs/`; these folders remain inside the central repo until separate regional repositories are created and verified.
+- Temporary legacy regional files and old `world/NPC_*.md` paths. Treat each old NPC path as a legacy source unless its actual contents have been inspected and confirmed to be a compatibility pointer. Canonical named NPC profiles are staged under `regions/<power>/npcs/`; these folders remain inside the central repo until separate regional repositories are created and verified.
 
 The central repository is the navigation hub, not the long-term home of detailed local NPC profiles after migration.
 

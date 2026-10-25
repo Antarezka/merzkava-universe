@@ -5,7 +5,7 @@
 **Canon status:** Owner-approved canon. This file is the authoritative full profile for Beiming Nerva. Her true age and the full limits of her abilities remain deliberately mysterious.
 
 ## 1. Identity
-- Full name: Beiming Nerva (北冥涅尔瓦; Chinese-character rendering is provisional and may be replaced by the owner's preferred spelling).
+- Full name: Beiming Nerva; Chinese-character rendering not established.
 - Family: Older biological sister of Beiming Han; she is older than him despite having the biological appearance of an eighteen-year-old.
 - True age: Unknown / mysterious.
 - Biological age / apparent age: Approximately 18 years old.

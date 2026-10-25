@@ -27,7 +27,7 @@
 - **County circuit:** Furnace Mountains Circuit
 - **Cities:** Not separately counted in the simplified register; former seats remain settlements or service hubs.
 - **Small towns:** Not a separate official administrative tier.
-- **Named rural villages listed in this atlas:** 5
+- **Official named rural villages in this region:** 2
 - **Other rural settlements:** Unenumerated; do not generate or count thousands of named villages by default
 - **Full official register:** `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
 
@@ -59,17 +59,17 @@ The official prefecture seats are only those listed in `world/GOLDEN_DRAGON_EMPI
 | Yanpen | City / settlement and service hub | Former prefectural seat; Yanpen remains a settlement under Red Furnace Prefecture | Local civil administration; not an independent prefectural seat |
 
 
-### Named rural villages
+### Official Villages and Other Local Settlements
 
-This is the region's compact named village roster. Other former village names remain local settlements or hamlets unless separately promoted back into the official thirteen-village register. Village status does not imply permanent public services or a named leader.
+Only 2 villages are part of the Empire's official thirteen-village register in this region. Other named places listed below are hamlets/local settlements, not additional official villages. Their local functions and route connections remain usable, but they must not be counted as official villages. Permanent public services or named leaders are not implied.
 
 | Settlement | Type | Established role | Authority / status |
 |---|---|---|---|
 | Ashbrook Village | Rural village | Water access and furnace supplies | Local community; detailed NPCs and services pending |
 | Ember Hollow Village | Rural village | Kiln work and fuel gathering | Local community; detailed NPCs and services pending |
-| Kilnside Village | Rural village | bata tahan panas, genteng, pekerja tungku | jalur bahan bakar dari Honglu |
-| Red Ember Village | Rural village | arang dan bahan bakar terukur | jalur hutan ke Huifeng; ditutup saat risiko kebakaran |
-| Waterwheel Village | Rural village | perawatan roda air dan saluran pendingin | jalur sungai kecil ke Rongjiang; memutar untuk Heitie |
+| Kilnside Hamlet | Hamlet / local settlement | bata tahan panas, genteng, pekerja tungku | jalur bahan bakar dari Honglu |
+| Red Ember Hamlet | Hamlet / local settlement | arang dan bahan bakar terukur | jalur hutan ke Huifeng; ditutup saat risiko kebakaran |
+| Waterwheel Hamlet | Hamlet / local settlement | perawatan roda air dan saluran pendingin | jalur sungai kecil ke Rongjiang; memutar untuk Heitie |
 ## 4. Local Society and Daily Life
 
 - Pandai besi, pekerja tungku, pengangkut bahan bakar, tukang batu, inspektur, dan keluarga buruh mengatur kehidupan. Sif malam menjaga pasar makanan tetap buka.

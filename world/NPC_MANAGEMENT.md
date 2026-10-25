@@ -1,80 +1,104 @@
 # Merzkava Universe — NPC Management and Continuity
 
 **Status:** Canonical GM operating guidance.
-**Purpose:** Keep NPCs locally grounded, independent, consistent, and navigable without turning every passer-by into a permanent character record.
+**Purpose:** Keep NPCs easy to find by location, consistent with world canon, and independent in their motives. Follow the regional-module pattern used by [inggo-alvn/Core](https://github.com/inggo-alvn/Core): central INDEX → relevant regional module → location/faction NPC table → detailed profile only when needed.
 
-## 1. Sources of truth and file structure
+## 1. One navigation path
 
-- Target architecture: `world/REGIONAL_REPOSITORY_ARCHITECTURE.md`. There are exactly three regional repositories, one for each major power: Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu. These exact names follow `world/WORLD.md`; do not create alternate formal names in registries or ownership labels. The central repo is the global navigation hub.
-- Do not create a separate repository for each province, valley, city, or village, and do not create a separate global NPC repository. NPCs belong in the repository of their canonical home/affiliation among the three powers.
-- After a power's repository URL is verified and registered in the central `INDEX.md`, that repository's NPC registry is the first stop for NPCs in its territory, local authority, settlement context, and local encounters.
-- `templates/NPC_PROFILE_TEMPLATE.md` is the canonical format for a major or recurring NPC's full profile; the three regional repositories should use this standard or link back to it.
-- A full profile lives in one canonical file. Local registries, settlement files, and faction files link to it instead of duplicating the biography.
-- Migration safety: until the three destination repositories are verified and their contents checked, the existing `world/REGION_*.md` and `world/NPC_*.md` files remain legacy canon in the central repository. Do not delete, overwrite, or claim to have moved them.
-- `world/FACTIONS.md` and dedicated faction modules define organization-level structure and confirmed membership.
-- `world/DYNAMIC_EVENTS.md` records persistent changes; `world/HISTORY.md` records confirmed historical changes where appropriate.
-- `world/LOCATION_AND_ROUTE_NETWORK.md` defines route modeling and travel checks.
-- Gameplay continuity in the current conversation is not automatically saved to GitHub. Never claim a persistent update without a verified repository commit.
+For NPC lookup, creation, auditing, or gameplay, follow this order:
 
-## 2. NPC tiers and when to create a profile
+1. Read the central `INDEX.md` and `templates/AUTHORITY_ORDER.md`.
+2. Read `world/WORLD.md` to confirm the exact canonical major-power names.
+3. Identify the NPC's established home/affiliation or the scene's location.
+4. Open the relevant regional/settlement module and inspect the NPC table for that location, settlement, institution, or faction.
+5. Follow the link to a detailed NPC profile only when one exists and is relevant.
+6. Check authoritative official/faction rosters, route modules, `world/DYNAMIC_EVENTS.md`, or `world/HISTORY.md` when needed.
+7. If a source does not establish a fact, label it unknown. Never invent a path, name, role, affiliation, ability, or destination repository.
 
-**Background NPC:** A situational resident, vendor, porter, guard, traveler, customer, or passer-by. Portray them as needed. Keep details proportionate; do not create a permanent profile unless they become recurring or materially important.
+The regional module's NPC table is the first lookup point for local NPCs. Do not make the player or GM hunt across unrelated files to discover which NPCs belong to a place.
 
-**Recurring NPC:** A person who returns, has an ongoing relationship with the player, holds a continuing local role, or is likely to matter later. Record them in the regional registry and create one full profile when continuity, motives, capabilities, or relationships need persistent tracking.
+## 2. Regional boundaries and canon
 
-**Major NPC:** A ruler, senior official, faction leader, prominent expert, powerful opponent, or person whose decisions have lasting consequences. Use a full profile and link it from the region and relevant faction records.
+There are exactly three major-power regions, using the names exactly as written in `world/WORLD.md`:
 
-**Unidentified person:** Use a public description or role until the character has a credible in-world way to learn their name. A name in a file does not mean the player-character knows it or that the NPC is present.
+1. **Golden Dragon Empire**
+2. **Tianhai Yunzhou**
+3. **Beiming Gu**
 
-## 3. Regional placement and local realism
+Do not create alternate formal names, a fourth global NPC repository, or a separate repository for every province, city, or village.
 
-1. Check the current region's settlement table, NPC registry, local authorities, and known route network.
-2. Check relevant faction and official rosters before inventing an officeholder or organization member.
-3. Match occupation, resources, influence, and services to the settlement. A remote village should not automatically have elite healers, advanced Thinker workshops, major academies, or capital-level public services.
-4. Place people where their work, responsibilities, relationships, and access make sense. Do not make all NPCs appear at the player's convenience.
-5. Regional presence does not establish faction control over every settlement in that region.
-6. A name in a reference file does not mean the NPC is physically present, available, or known to the player.
+The central repository is currently the global navigation hub and temporary home of legacy regional/NPC canon until the regional destination repositories are verified. The intended long-term arrangement is one repository per major power. A region's own NPC registry becomes the authoritative directory once that destination is verified and linked from the central INDEX.
 
-## 4. Minimum agency record
+**Migration safety:** existing `world/REGION_*.md`, `world/NPC_*.md`, and other regional canon files remain valid legacy sources until each migration is verified. Do not delete, overwrite, or claim they have moved just because the target architecture is documented.
 
-For each recurring or major NPC, establish where canon supports it: current role/location/affiliation/public identity; public personality; immediate and long-term goals; knowledge sources and limits; resources, authority, relationships, and constraints; reasons to cooperate, bargain, refuse, deceive, flee, or fight; behavioral boundaries; current status and last confirmed interaction.
+## 3. NPC structure — follow the Inggo regional-module pattern
 
-NPCs have their own goals and can act off-screen only when world state, timeline, and available information justify it. Do not claim a fully simulated daily schedule or unseen action without a defined procedure or recorded event.
+### A. Local NPC tables live beside their location
 
-## 5. Knowledge separation
+In each regional module, group NPCs under the appropriate existing location, settlement, institution, or faction heading. Keep each table close to the place or organization it describes instead of collecting every local NPC into an unrelated global list.
 
-Keep **public knowledge**, **NPC knowledge**, **NPC beliefs that may be wrong**, **player-character knowledge**, **GM-only information**, and **unconfirmed proposals** distinct. Never leak a hidden identity, secret lineage, rare ability, secret affiliation, crime, relationship, or past event merely because it appears in an NPC profile. Give meaningful secrets a plausible discovery path where appropriate.
+Recommended table fields:
 
-## 6. Capability and terminology consistency
-
-- Use official cultivation, Martial Soul, Spirit Ring, Thinker, combat, HP, injury, and time modules to resolve capabilities.
-- Use `Spirit Realm N — Spirit [official tier], [stage] Stage` for the nine numbered cultivation tiers. `Mortal` is a pre-Spirit-Realm status, not Spirit Realm 0.
-- Do not assign a power level, technique, Spirit Ring, artifact, title, or capability that changes an outcome unless a canon source or owner-approved addition supports it.
-- Political tendencies, public-service orientation, and law-enforcement strictness are separate dimensions; do not treat one as proof of secret faction membership or automatic misconduct.
-- Do not inflate every NPC's power or make every NPC hostile, helpful, omniscient, or equally important.
-
-## 7. Regional NPC registry format
-
-List important and recurring NPCs only. Use one row per individual and link to their one canonical full profile or authoritative roster.
-
-| Public name / identity | Current location | Role | Affiliation | Public traits / goal | Profile or canon source | Status |
+| NPC / public identity | Role | Age | Capability / official tier | Signature technique or approach | Public traits / behavior | Canon source / profile |
 |---|---|---|---|---|---|---|
-| Belum ditetapkan | Belum ditetapkan | Belum ditetapkan | Belum ditetapkan | Belum ditetapkan | — | Not established |
+| Not established | Not established | Not established | Not established | Not established | Not established | Link to canon source if one exists |
 
-Do not duplicate biographies. If an officeholder is defined by a canonical imperial roster, cross-reference it and record only the region-relevant presence or assignment. If the exact assignment is unknown, say so rather than creating an office.
+Use only fields that make sense for the NPC. For a non-cultivator, say so instead of inventing a tier or technique. Use official capability terminology and mechanics from the relevant world modules.
 
-## 8. Relationships and continuity
+### B. Detailed profiles are for continuity, not for every passer-by
 
-- Record meaningful relationships with their basis: shared event, family tie, employment, debt, rivalry, agreement, or witnessed action.
-- Change a relationship only after a scene or confirmed event gives a reason.
-- Record important changes with cause, time, involved parties, and consequences.
-- Keep current whereabouts and injuries aligned with the latest confirmed scene.
-- If a character leaves a region, update active scene state; do not erase their canonical home or affiliation.
-- Persistent canon updates require the owner's approved workflow and a verified commit.
+- **Background NPC:** situational resident, vendor, guard, porter, traveler, customer, or passer-by. Usually keep them in the local scene; no permanent profile is required.
+- **Recurring NPC:** returns, has an ongoing relationship, or holds a continuing role. Include them in the relevant local table; create or retain a detailed profile when continuity needs it.
+- **Major NPC:** ruler, senior official, faction leader, prominent expert, powerful opponent, or person whose decisions have lasting consequences. Keep a local table entry and link to one detailed canonical profile or authoritative roster.
+- **Unidentified person:** show only a credible public description or role until the character learns their identity in-world.
 
-## 9. Improvisation boundary
+A detailed profile has exactly one canonical home. Regional, settlement, institution, and faction modules link to it; they do not copy its full biography. A local table entry is a locator/summary, not a second full profile.
+
+### C. Where detailed profiles live
+
+For the current central repository, preserve existing `world/NPC_<NAME>.md` files as legacy canonical profiles until a verified migration occurs. Do not create a second profile for an NPC merely because their local table is missing.
+
+For each future verified major-power repository, use:
+- `npcs/REGISTRY.md` — local directory grouped by region/settlement and role, with one row per important or recurring NPC.
+- `npcs/<NPC_Name>.md` — one detailed canonical profile when the NPC needs one.
+- Regional and settlement files — local NPC tables and links to detailed profiles, following the Inggo pattern.
+
+The local registry and location tables must link to the same canonical profile. They must not duplicate the biography.
+
+## 4. Canonical profile template
+
+Use `templates/NPC_PROFILE_TEMPLATE.md` for detailed recurring/major NPC profiles. Keep public identity, motivations, supported capabilities, knowledge boundaries, relationships, last-confirmed status, and source modules distinct. Do not invent secret lineage, rare abilities, affiliations, crimes, offices, or relationships and present them as canon.
+
+## 5. Local placement and realism
+
+1. Check the location/settlement description, its local NPC table, relevant official rosters, faction membership, and known routes.
+2. Match occupation, resources, authority, and services to the settlement. A remote village does not automatically have capital-level services or elite experts.
+3. An NPC's presence in a regional module does not prove they are physically present in the current scene, available to meet, or known to the player.
+4. An NPC's temporary location change does not automatically change their canonical home or move their profile to another repository.
+5. Regional presence does not establish that a faction controls every settlement in that region.
+6. If an officeholder or faction member is established by an authoritative roster, reference it instead of inventing a conflicting holder.
+
+## 6. Agency and knowledge boundaries
+
+For recurring/major NPCs, establish where canon supports it: role and affiliation; public personality; immediate and long-term goals; knowledge sources and limits; resources, relationships, and constraints; reasons to cooperate, bargain, refuse, deceive, flee, or fight; behavioral boundaries; and current status/last confirmed interaction.
+
+NPCs have their own goals. They are not automatically friendly, hostile, omniscient, or available whenever the player wants them. Do not claim a fully simulated daily schedule or unseen action without an established procedure or recorded event.
+
+Keep separate public knowledge, what the NPC actually knows, beliefs that may be wrong, player-character knowledge, GM-only information, and proposals awaiting owner confirmation. A secret in a profile is not automatically known to the player.
+
+## 7. Relationships and continuity
+
+- Record meaningful relationships with their basis: witnessed event, family tie, employment, debt, rivalry, agreement, or other confirmed cause.
+- Change a relationship only after a scene or confirmed event justifies it.
+- Record important persistent changes with cause, time, involved parties, and consequences.
+- Keep whereabouts and injuries aligned with the latest confirmed scene.
+- Record persistent world consequences in `world/DYNAMIC_EVENTS.md` and/or `world/HISTORY.md` when appropriate.
+- Gameplay continuity in the current conversation is not automatically saved to GitHub.
+
+## 8. Controlled additions and migration
 
 - Minor situational details may be improvised only within the latitude allowed by `templates/AUTHORITY_ORDER.md`.
-- Do not promote improvised names, prices, shops, authorities, routes, or relationships into established canon without approval when they affect persistent world structure.
-- If a missing fact matters to a major decision, mark it unknown or ask the owner rather than guessing.
-- Proposed additions must be labeled **Proposal — pending owner confirmation**.
+- Do not promote improvised NPC names, prices, shops, authorities, routes, or relationships into established canon without approval when they affect persistent world structure.
+- Mark unapproved additions **Proposal — pending owner confirmation**.
+- Before migrating a region, verify its destination repository and contents, preserve established NPC/location data, build the regional registry, check profile links and duplicates, then update the central INDEX and navigation rules.
+- Never claim a persistent repository update without a verified commit.

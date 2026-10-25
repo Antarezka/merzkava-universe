@@ -72,36 +72,40 @@ This is the region's compact named village roster. Other former village names re
 | Lotus Weir Village | Rural village | pematang teratai, sayuran air, tambak ikan | perahu kanal dari Qinghe; jalan putus saat banjir |
 | Three Reeds Village | Rural village | anyaman tikar, tali, perbaikan perahu | kanal kecil dari Reedbank; perlu perahu |
 | Rice Bell Village | Rural village | lumbung komunal, penggilingan padi, pasar panen | tanggul menuju Jiangbei; rawan tergenang |
+| Lotus Weir Village | Rural village | pematang teratai, sayuran air, tambak ikan | perahu kanal dari Qinghe; jalan putus saat banjir |
+| Three Reeds Village | Rural village | anyaman tikar, tali, perbaikan perahu | kanal kecil dari Reedbank; perlu perahu |
+| Rice Bell Village | Rural village | lumbung komunal, penggilingan padi, pasar panen | tanggul menuju Jiangbei; rawan tergenang |
 ## 4. Local Society and Daily Life
 
-- Petani padi, pengelola tanggul, nelayan, tukang perahu, pedagang gabah, dan buruh dermaga menjadi tulang punggung wilayah. Jadwal hidup mengikuti musim air dan panen.
-- Desa mengadakan kerja bersama memperbaiki tanggul; pemilik gudang dan pemberi pinjaman punya daya tawar besar saat panen buruk. Perahu feri, rumah makan dermaga, penginapan saudagar, dan tabib umum lebih lazim daripada bengkel artefak.
+- Petani padi, pengelola tanggul, nelayan, tukang perahu, pedagang gabah, dan buruh dermaga menjadi tulang punggung wilayah. Hidup mengikuti musim air dan panen.
+- Desa bergotong royong memperbaiki tanggul; pemilik gudang dan pemberi pinjaman punya daya tawar besar saat panen buruk. Perahu feri, rumah makan dermaga, penginapan saudagar, dan tabib umum lazim.
 
 
 ## 5. Economy and Resources
 
 - **Kekuatan:** beras, ikan air tawar, sayuran air, anyaman, tali, gudang, dan angkutan sungai.
-- Rice Bell memasok gabah ke Jiangbei; Three Reeds membuat tali untuk kapal; Lotus Weir menjual hasil kebun air ke Qinghe. Gudang yang membeli panen di muka memberi modal cepat tetapi dapat menjerat petani dalam utang.
+- Rice Bell memasok gabah ke Jiangbei; Three Reeds membuat tali kapal; Lotus Weir menjual hasil kebun air ke Qinghe. Gudang yang membeli panen di muka memberi modal cepat tetapi bisa menjerat petani dalam utang.
 - **Destinasi elit:** Paviliun Seribu Lampion Sungai menawarkan makan malam perahu, taman air, musik, dan penginapan kanal; tur dibatalkan saat banjir atau arus berbahaya.
-- Risiko: manipulasi timbangan, pengoplosan gabah, pemerasan dermaga, monopoli gudang, sabotase tanggul.
+- Risiko: timbangan palsu, pengoplosan gabah, pemerasan dermaga, monopoli gudang, sabotase tanggul.
 
 
 ## 6. Cultivation, Martial Souls, Spirit Beasts, and Thinkers
 
 - Lokasi eksplorasi: gudang gabah tua di jalur banjir, kanal tertutup di balik Three Reeds, tanggul runtuh antara Lotus Weir dan Rice Bell, serta dermaga karam yang terlihat saat surut.
-- Arus, lumpur, kabut, dan jembatan bambu adalah bahaya nyata; spesies Spirit Beast harus mengikuti bestiary.
+- Arus, lumpur, kabut, dan jembatan bambu rapuh adalah bahaya; spesies Spirit Beast harus mengikuti bestiary.
 
 
 ## 7. Factions and Local Authority
 
-- Gubernur dan pejabat mengikuti kecenderungan dalam `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`; kecenderungan politik bukan bukti keanggotaan faksi rahasia.
-- **Relasi usaha dan komunitas:**
-  - **Koperasi Lumbung Riverlands** mengatur simpanan dan distribusi; **Serikat Kapal Qinghe** mengatur jadwal sandar; **Rumah Dagang Tiga Timbangan** memberi pinjaman panen.
-  - Serikat kapal membutuhkan tali Three Reeds, lumbung membeli gabah Rice Bell, dan wisata membeli ikan dari nelayan. Konflik muncul saat kapal besar diprioritaskan atau pinjaman dipakai untuk menekan petani.
+- Political tendencies and governor limits follow `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`; political leaning is not proof of secret faction membership.
+
+### Regional business and community networks
+- **Koperasi Lumbung Riverlands** mengatur distribusi; **Serikat Kapal Qinghe** mengatur sandar; **Rumah Dagang Tiga Timbangan** memberi pinjaman panen.
+- Serikat kapal butuh tali Three Reeds, lumbung membeli gabah Rice Bell, wisata membeli ikan. Konflik muncul saat kapal besar diprioritaskan atau pinjaman dipakai menekan petani.
 
 | Name | Type | Role / influence | Confirmed relationship or control | Canon source |
 |---|---|---|---|---|
-| See `GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` | Current civil officeholders | Governor, prefects, and retained regional/circuit officers | Central roster is authoritative | `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` |
+| See `GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` | Current civil officeholders | Governor, prefects, retained regional/circuit officers | Central roster is authoritative | `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` |
 
 
 ## 8. Regional NPC Registry
@@ -122,20 +126,19 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPC
 
 - **Kecil — Pengait Dermaga (8–15):** pencopet dan pemalak pasar ikan.
 - **Menengah — Perahu Kabut (25–50):** penyelundup kanal yang memakai tanda gudang palsu, paling aktif saat banjir atau pemeriksaan ketat.
-- **Besar — Jaringan Timbangan Gelap:** penimbang dan gudang korup menahan gabah untuk menaikkan harga; pengaruhnya logistik/utang, bukan pasukan terbuka.
+- **Besar — Jaringan Timbangan Gelap:** penimbang dan gudang korup menahan gabah untuk menaikkan harga; pengaruhnya logistik dan utang, bukan pasukan terbuka.
 - Gubernur Cangyue Yunhe (Spirit Realm 5) kuat bernegosiasi dan menginspeksi gudang, tetapi bergantung pada pejabat serta pemilik kapal; wilayah air luas menyulitkan penegakan.
 
-**GM encounter rule:** these groups are established regional threats, not a schedule forcing every group to attack every session. Randomize the lead, rumor, victim, patrol, and opportunity; scale encounters to player information and local conditions. Crime activity shifts after arrests, weather, shortages, or patrol pressure. Do not decide guilt solely from appearance or origin.
+**GM encounter rule:** groups are established regional threats, not a schedule forcing every group to attack each session. Randomize the lead, rumor, victim, patrol, or opportunity; scale encounters to local conditions. Activity shifts after arrests, weather, shortages, and patrol pressure. Do not decide guilt solely from appearance or origin.
 
 
 ## 10. Travel and GM Constraints
 
-- Twin River Route menghubungkan Qinghe ↔ Jiangbei lewat sungai utama. Jalur tanggul: Qinghe → Reedbank → Rice Bell → Jiangbei.
-- Jalur kanal: Qinghe → Lotus Weir → Three Reeds memakai perahu kecil; Fish Lantern melayani feri lokal. Banjir memutus jalan darat, sedangkan musim kering membatasi kapal besar.
+- Twin River Route menghubungkan Qinghe ↔ Jiangbei lewat sungai. Jalur tanggul: Qinghe → Reedbank → Rice Bell → Jiangbei.
+- Kanal: Qinghe → Lotus Weir → Three Reeds dengan perahu kecil; Fish Lantern melayani feri lokal. Banjir memutus jalan darat, musim kering membatasi kapal besar.
 
-- Treat routes as a connected graph: destinations require listed connected legs or a newly established path explicitly recorded in canon.
-- Do not invent exact distances or travel times without travel rules, mode, and weather support.
-- Local incidents should fit the region: paperwork/pungli (Longyuan), water levels/cargo (Canglan), mine safety/closures (Jinyue), fog/document fraud (Tianfeng), fire/industrial freight (Yanling), patrol permits/weather (Baiyue), tides/manifests/storms (Xingluo).
+- Treat routes as a connected graph: destinations require listed connected legs or a newly recorded path.
+- Do not invent exact distances or travel times without travel rules, transport mode, and weather support.
 
 
 ## 11. Owner Completion Checklist

@@ -37,7 +37,7 @@ Prefectures and seats:
 
 Former prefectural seats retained as cities/local service hubs: Zhuque, Jintai, and Guanhe. They are not active prefectures.
 
-The administrative atlas is authoritative for names, territory estimates, and the selected village list. The listed named villages are maintained as roleplay locations for this region; unlisted hamlets may exist but are not individually catalogued. Development and services are strongest near this region's regional seat and major settlements, then generally thin with distance, isolation, and difficult terrain. Do not infer exact borders or travel times from the jurisdiction list alone.
+The administrative atlas is authoritative for names, territory estimates, and the selected village list. The listed named villages are maintained as roleplay exploration anchors for this region; unlisted hamlets may exist but are not individually catalogued. Development and services are strongest near this region's regional seat and major settlements, then generally thin with distance, isolation, and difficult terrain. Do not infer exact borders or travel times from the jurisdiction list alone.
 
 **Population-facing institutions:** Use `world/GOLDEN_DRAGON_EMPIRE_POPULATION_SERVICES.md` for named Ninefold Concord Bank and Myriad Ledger Exchange branches and Medicine Hall Society service points. The same register establishes only two boarding academies, both in Huanglongcheng, plus selected Ordo Suci Tianming public libraries; neither academies nor libraries are presumed to exist in every region. The central register governs named locations and service limits.
 
@@ -67,30 +67,41 @@ This is the region's compact named village roster. Other former village names re
 |---|---|---|---|
 | Dragonwell Village | Rural village | Rural farming and cart-road services | Local community; detailed NPCs and services pending |
 | Willowbend Village | Rural village | Canal-side farming and ferry families | Local community; detailed NPCs and services pending |
+| Foxbridge Village | Rural village | jembatan tua dan pengangkutan barang kecil | simpang gerobak dan sungai dangkal |
+| Plum Lantern Village | Rural village | kebun buah, penginapan musim semi, festival lentera | jalan cabang dari Zhuque |
+| Stone Mill Village | Rural village | penggilingan gandum dan bengkel roda gerobak | jalur ke Jintai; licin saat hujan |
 ## 4. Local Society and Daily Life
-- Local demographics and population distribution within settlements: Belum ditetapkan; regional planning total is listed in Section 2A.
-- Social structure and customs: Belum ditetapkan
-- Language and local etiquette: Belum ditetapkan
-- Ordinary occupations and services: Belum ditetapkan
+
+- Pejabat, bangsawan, pegawai arsip, saudagar, buruh angkut, penyewa lahan, dan petani hidup berdampingan dengan kesenjangan kekayaan yang nyata.
+- Huanglongcheng mengikuti ritme kantor, sidang, gerbang, dan pasar; desa mengikuti musim tanam, penggilingan, serta konvoi. Pengaduan tertulis dan saksi penting di kota, sedangkan reputasi keluarga masih berpengaruh di desa.
+- Layanan lebih cepat dekat ibu kota; warga luar kota harus mengeluarkan ongkos untuk dokumen atau pengadilan. Penginapan murah, rumah makan, penyalin, dan kusir adalah usaha umum.
+
 
 ## 5. Economy and Resources
-- Main livelihoods: Belum ditetapkan
-- Known resources: Belum ditetapkan
-- Markets, prices, and trade flows: Refer to `core/10_ECONOMY_SYSTEM.md`; regional specifics pending
+
+- **Kekuatan:** konsumsi istana, administrasi, pengolahan pangan, percetakan dokumen, barang mewah, dan transportasi darat.
+- Foxbridge mengantar hasil tani ke gudang kota; Stone Mill memasok tepung dan memperbaiki gerobak; Plum Lantern menjual buah serta suvenir festival. Kontrak istana menguntungkan usaha besar, tender terbuka memberi peluang usaha kecil.
+- **Destinasi elit:** Taman Cermin Giok, taman lanskap dengan jamuan puisi, seni, dan paviliun privat bagi bangsawan/saudagar; tetap tunduk pada hukum dan bisa dibatasi saat acara negara.
+- Risiko: pungutan liar, pemalsuan dokumen, penipuan kontrak, pencurian barang mewah.
+
 
 ## 6. Cultivation, Martial Souls, Spirit Beasts, and Thinkers
-- Local traditions / institutions: Belum ditetapkan
-- Academies, dojos, or training locations: Belum ditetapkan
-- Spirit Beast habitats and confirmed species: Refer to `bestiary/SPIRIT_BEAST_RULES.md`; regional entries pending
-- Thinker workshops / artifact facilities: Belum ditetapkan
-- Do not invent local power rankings, special rules, or rare abilities.
+
+- Lokasi eksplorasi: gudang kanal terbengkalai dekat Foxbridge, jalur kurir lama antara Guanhe dan Stone Mill, serta lorong air di kebun tua Plum Lantern. Tidak ada artefak langka yang dijamin.
+- Layanan Thinker dan penyalin kontrak terkonsentrasi di kota; jangan otomatis menempatkan fasilitas kelas tinggi di desa.
+
 
 ## 7. Factions and Local Authority
-- Refer to `world/FACTIONS.md`; region-specific presence and control pending
+
+- Gubernur dan pejabat mengikuti kecenderungan dalam `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`; kecenderungan politik bukan bukti keanggotaan faksi rahasia.
+- **Relasi usaha dan komunitas:**
+  - **Perhimpunan Pengangkut Gerbang Timur** menghubungkan desa, gudang, dan pasar; mereka bisa memperlambat distribusi saat tarif diperselisihkan.
+  - **Lingkar Jamuan Cermin Giok** mempertemukan bangsawan, seniman, dan investor; akses sosial bukan kekebalan hukum. Penggilingan desa memasok pasar dan pengelola taman elit, sehingga kontrak eksklusif bisa memicu protes pedagang kecil.
 
 | Name | Type | Role / influence | Confirmed relationship or control | Canon source |
 |---|---|---|---|---|
-| See `GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` | Current civil officeholders | Named governor, prefects, and county magistrates | Roster is authoritative for names and dispositions | `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` |
+| See `GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` | Current civil officeholders | Governor, prefects, and retained regional/circuit officers | Central roster is authoritative | `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` |
+
 
 ## 8. Regional NPC Registry
 
@@ -110,15 +121,24 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPC
 | Jun Yuejin (君月瑾) | Longyuan; exact residence unconfirmed | Imperial Princess; second child | Golden Celestial Crane, Myth Tier; age 16 | [Canonical roster/profile](NPC_JUN_YUEJIN.md) |
 
 ## 9. Current Situations and Events
-- Local conflicts: Belum ditetapkan
-- Active world events: Check `world/DYNAMIC_EVENTS.md`; do not create events here
-- Persistent consequences: Record only through the official event/history process
+
+- **Kecil — Tikus Segel (5–12 orang):** pemalsu kuitansi dan pencuri paket di gerbang/penginapan murah.
+- **Menengah — Gerobak Hitam (20–40):** penyelundup barang mewah yang memakai jalan desa dan menyuap petugas tertentu.
+- **Besar:** tidak ada sindikat terbuka yang menguasai ibu kota; risiko utamanya jaringan patronase yang melindungi pelaku kecil.
+- Gubernur Xuanyuan Haoran (Spirit Realm 6) kuat dalam audit dan koordinasi, tetapi tidak omnipresent. Ia membuka kanal pengaduan dan mengirim pemeriksa; penutupan mata oleh pejabat lokal menjadi titik rawan.
+
+**GM encounter rule:** these groups are established regional threats, not a schedule forcing every group to attack every session. Randomize the lead, rumor, victim, patrol, and opportunity; scale encounters to player information and local conditions. Crime activity shifts after arrests, weather, shortages, or patrol pressure. Do not decide guilt solely from appearance or origin.
+
 
 ## 10. Travel and GM Constraints
-- Confirmed routes: Imperial Dragon Road (Huanglongcheng ↔ Yuxi); local routes remain unspecified
-- Transport available: Only when established in canon
-- Do not infer coordinates, adjacency, exact travel time, current faction control, or hidden NPC lore.
-- If a detail is missing, leave it unconfirmed until the owner fills it in.
+
+- Imperial Dragon Road menghubungkan Huanglongcheng ↔ Yuxi. Rute desa: Huanglongcheng → Foxbridge → Stone Mill → Jintai. Plum Lantern dicapai dari cabang jalan Zhuque, bukan langsung dari semua kota.
+- Kanal kecil membawa barang dengan perahu dangkal musiman. Konvoi resmi lebih aman namun lambat; jalan desa lebih murah tetapi rawan pungli dan hujan.
+
+- Treat routes as a connected graph: destinations require listed connected legs or a newly established path explicitly recorded in canon.
+- Do not invent exact distances or travel times without travel rules, mode, and weather support.
+- Local incidents should fit the region: paperwork/pungli (Longyuan), water levels/cargo (Canglan), mine safety/closures (Jinyue), fog/document fraud (Tianfeng), fire/industrial freight (Yanling), patrol permits/weather (Baiyue), tides/manifests/storms (Xingluo).
+
 
 ## 11. Owner Completion Checklist
 - [ ] Add geography and confirmed routes

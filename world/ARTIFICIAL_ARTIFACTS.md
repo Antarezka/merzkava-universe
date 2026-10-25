@@ -44,6 +44,17 @@ The northern region contains ancient materials and resources that may be useful 
 
 Only the support function and Tier 9 classification are established. Do not assume this artifact grants the Maharaja personal combat abilities or can be operated by an arbitrary Thinker.
 
+### AAF-006 — Emergency Area-Concealment Artifact
+- **Tier:** Tier 8.
+- **Category:** Artificial Artifact; mass-produced wartime emergency concealment device.
+- **Historical context:** Deployed during the ancient world-calamity incursion when Demonic Beasts of tiers 7–9 descended across the world.
+- **Documented function:** Once activated, it conceals a vast area and disguises the life within it, reducing the chance that invading Demonic Beasts will identify and target that area. It did not guarantee protection, and many areas remained exposed to attacks.
+- **Activation and lifespan:** One use only. The artifact destroys itself after activation and cannot be reused; this defect is part of its historical design.
+- **Design origin:** The design framework originated with Bai Xuanyin, the late wife of Maharaja Ji Haoyuan and a Thinker Grade 10. A different Thinker Grade 10 in Tianhai Yunzhou copied that framework imperfectly. The mass-produced artifacts were several tiers lower in quality than a perfect reproduction of Bai Xuanyin's framework would have been. No perfect reproduction was achieved.
+- **Deployment:** The devices were produced at scale. Thinkers from across the world, including most of Tianhai Yunzhou's Thinkers, traveled to many regions to activate them. Their effort saved many populated areas, but not every area was protected from the rampage of Tier 8–9 Demonic Beasts.
+- **Historical legacy:** The artifact and its deployment are taught in academies as part of the world-calamity history, with Bai Xuanyin remembered as one of the great heroes who died during the catastrophe.
+- **Unknown details:** Original framework's tier, the identity of the Tianhai Thinker Grade 10 who copied it, the number of artifacts made and activated, the exact radius and duration, materials, activation method, and complete technical formulation remain unspecified.
+
 ## 4. Production Rules — Reference Only
 
 Use `core/THINKER_AND_FORMULATION.md` for all production mechanics. In particular:

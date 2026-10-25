@@ -1,34 +1,19 @@
 <!-- MERZKAVA UNIVERSE | PUBLIC NOTICEBOARD
-LIGHT ORANGE EDITION
-Primary: #FFB36B | Neutral gray: #8A8D91 | Paper: #FFFFFF
-Accents: #FFE066 (warm yellow) | #F25C54 (coral red)
-Text on gray panels: white. Teasers only; deep lore stays in the archive.
+Palette: orange #FFB36B + black #151515; white paper #FFFFFF with black type.
+Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in the archive.
 -->
 
 <div align="center">
 
-![MERZKAVA / ORANGE](https://img.shields.io/badge/MERZKAVA-FFB36B?style=for-the-badge&labelColor=8A8D91)
-![FIELD NOTES](https://img.shields.io/badge/FIELD_NOTES-FFE066?style=for-the-badge&labelColor=8A8D91)
-![VOL 01](https://img.shields.io/badge/VOL._01-F25C54?style=for-the-badge&labelColor=8A8D91)
+![Merzkava Universe — warm orange, black, yellow, coral and white title banner](assets/merzkava-header.svg)
 
-<pre>
-███╗   ███╗███████╗██████╗ ███████╗██╗  ██╗ █████╗ ██╗   ██╗ █████╗
-████╗ ████║██╔════╝██╔══██╗╚══███╔╝██║ ██╔╝██╔══██╗██║   ██║██╔══██╗
-██╔████╔██║█████╗  ██████╔╝  ███╔╝ █████╔╝ ███████║██║   ██║███████║
-██║╚██╔╝██║██╔══╝  ██╔══██╗ ███╔╝  ██╔═██╗ ██╔══██║╚██╗ ██╔╝██╔══██║
-██║ ╚═╝ ██║███████╗██║  ██║███████╗██║  ██╗██║  ██║ ╚████╔╝ ██║  ██║
-╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝
-</pre>
-
-# MERZKAVA UNIVERSE
+![EASTERN FANTASY](https://img.shields.io/badge/EASTERN_FANTASY-151515?style=for-the-badge&labelColor=FFB36B)
+![CULTIVATION](https://img.shields.io/badge/CULTIVATION-151515?style=for-the-badge&labelColor=FFE066)
+![WORLD IN MOTION](https://img.shields.io/badge/WORLD_IN_MOTION-FFFFFF?style=for-the-badge&labelColor=F25C54)
 
 ### A WORLD THAT DOESN'T WAIT FOR YOU.
 
 **THREE GREAT POWERS · COUNTLESS PATHS · NO GUARANTEED ENDING**
-
-![EASTERN FANTASY](https://img.shields.io/badge/EASTERN_FANTASY-FFB36B?style=flat-square&labelColor=8A8D91)
-![CULTIVATION](https://img.shields.io/badge/CULTIVATION-FFE066?style=flat-square&labelColor=8A8D91)
-![WORLD IN MOTION](https://img.shields.io/badge/WORLD_IN_MOTION-F25C54?style=flat-square&labelColor=8A8D91)
 
 *An invitation to look closer. Not a map of everything you'll find.*
 
@@ -36,13 +21,13 @@ Text on gray panels: white. Teasers only; deep lore stays in the archive.
 
 ---
 
-## ▰ THE NOTICEBOARD
+![THE NOTICEBOARD](https://img.shields.io/badge/THE_NOTICEBOARD-FFFFFF?style=for-the-badge&labelColor=151515)
 
 ![Merzkava Universe colorful noticeboard: six framed panels introducing the world, hidden places, the cost of power, thinkers, the living calendar, and rumors](assets/noticeboard.svg)
 
 ---
 
-## ▰ NOTES LEFT ON THE BOARD
+![NOTES LEFT ON THE BOARD](https://img.shields.io/badge/NOTES_LEFT_ON_THE_BOARD-151515?style=for-the-badge&labelColor=FFB36B)
 
 <details>
 <summary><strong>✦ A gathering shared by three great powers</strong></summary>
@@ -69,9 +54,9 @@ Characters have their own priorities. Opportunities can pass, relationships can 
 
 <div align="center">
 
-![LOOK CLOSER](https://img.shields.io/badge/LOOK_CLOSER-FFB36B?style=for-the-badge&labelColor=8A8D91)
-![FOLLOW THE TRAIL](https://img.shields.io/badge/FOLLOW_THE_TRAIL-FFE066?style=for-the-badge&labelColor=8A8D91)
-![OPEN THE ARCHIVE](https://img.shields.io/badge/OPEN_THE_ARCHIVE-F25C54?style=for-the-badge&labelColor=8A8D91)
+![LOOK CLOSER](https://img.shields.io/badge/LOOK_CLOSER-151515?style=for-the-badge&labelColor=FFB36B)
+![FOLLOW THE TRAIL](https://img.shields.io/badge/FOLLOW_THE_TRAIL-151515?style=for-the-badge&labelColor=FFE066)
+![OPEN THE ARCHIVE](https://img.shields.io/badge/OPEN_THE_ARCHIVE-FFFFFF?style=for-the-badge&labelColor=F25C54)
 
 ### YOUR NEXT LEAD
 
@@ -83,7 +68,7 @@ Characters have their own priorities. Opportunities can pass, relationships can 
 
 **INVESTIGATION FILE // MERZKAVA UNIVERSE**
 
-<sub>LIGHT ORANGE EDITION · #FFB36B / #8A8D91 / #FFFFFF / #FFE066 / #F25C54</sub>
+<sub>LIGHT ORANGE EDITION · ORANGE + BLACK · WHITE PAPER · YELLOW + CORAL ACCENTS</sub>
 
 *The first impression is rarely the whole story.*
 

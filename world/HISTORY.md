@@ -74,14 +74,15 @@ Use this format:
 ```
 
 ### HIST-001 — The Great Tianhai War
-- **Date / period:** Unknown.
-- **Location:** Tianhai Yunzhou; exact locations unknown.
-- **Status:** Confirmed event; chronology and details incomplete.
-- **Participants:** Tianhai Yunzhou and three Tier 9 Demonic Beasts; their identities are unknown.
-- **What is established:** The three beasts attempted to enter and devastate Tianhai Yunzhou. Tianhai Yunzhou resisted. Bai Xuanyin, Spirit Realm 7 and Thinker Grade 10, died during the war and is revered as a great heroine. Her major Artificial Artifact contributions include the world's strongest known weapon-type Artificial Artifact, armor still used by Tianhai Yunzhou soldiers, and contributions to Tianhai Yunzhou's giant protective dome.
-- **Consequences:** Bai Xuanyin's death and heroic legacy are established; her armor and contributions to Tianhai Yunzhou's defenses remain in use.
-- **Sources / evidence:** world/REGION_TIANHAI_YUNZHOU.md; ../regions/tianhai-yunzhou/npcs/BAI_XUANYIN.md.
-- **What remains unknown:** Date, duration, battle sequence, identities of the three beasts, full outcome, exact circumstances of Bai Xuanyin's death, and names, tiers, specifications, and custodians of the artifacts.
+- **Date / period:** Unknown; occurred in the distant past.
+- **Location:** A world-spanning incursion; one major battle was fought to defend Tianhai Yunzhou.
+- **Status:** Confirmed historical catastrophe; exact chronology and many battle details remain unknown.
+- **Participants:** World Knowledge Tower and its active members; Ordo Suci Tianming; representatives and forces from the three major powers; Beiming Han; multiple Demonic Beasts of tiers 7–9. Three Tier 9 Demonic Beasts specifically attempted to invade and devastate Tianhai Yunzhou; their identities remain unknown.
+- **What is established:** Anomalies that deviated far beyond safe limits caused gates to other worlds to open, with the sky acting as a passage through which Demonic Beasts of tiers 7–9 descended across the world. The resulting incursion became an apocalyptic-scale threat. The World Knowledge Tower and its allies worked to contain the disaster. Beiming Han intervened and helped turn the tide. The Maharaja of Tianhai Yunzhou at the time, Ji Haoyuan, was an active World Knowledge Tower member and was away fulfilling that duty during the catastrophe. His wife, Bai Xuanyin (Spirit Realm 7, Thinker Grade 10), died in the Great Tianhai War. She is revered as a great heroine. Her major Artificial Artifact contributions include the world's strongest known weapon-type Artificial Artifact, armor still used by Tianhai Yunzhou soldiers, and contributions to Tianhai Yunzhou's giant protective dome.
+- **Aftermath:** The immediate apocalyptic threat was suppressed, but surviving or remaining Demonic Beasts became scattered across the world. Ji Haoyuan completed the urgent obligations of his Tower service through the containment period, then ceased active service and returned to Tianhai Yunzhou after learning of Bai Xuanyin's death. Beiming Han subdued one Demonic Beast from this calamity; after its mind was purified, its existence rose to become a Heavenly Beast. It later dwelled deep in Azerion Forest. The ancient Heavenly Beast's power mutated rocks at the bottom of Azerion's central lake.
+- **Institutional consequence:** The catastrophe established the need for a lasting early-warning arrangement: Ordo Suci Tianming works with the World Knowledge Tower and an alliance of elite envoys from Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu. The Ordo's Ruined Archiver branch gathers and verifies intelligence from Golden Age Ruined because an anomaly hidden inside a ruin may become a world-level threat if left undiscovered.
+- **Sources / evidence:** world/FACTIONS.md; world/WANLUO_SACRED_EXPANSE.md; world/REGION_TIANHAI_YUNZHOU.md; regions/tianhai-yunzhou/npcs/JI_HAOYUAN.md; regions/tianhai-yunzhou/npcs/BAI_XUANYIN.md; regions/beiming-gu/npcs/BEIMING_HAN.md; world/LAWLESS_TERRITORIES.md.
+- **What remains unknown:** Exact date and duration; the full count and identities of the invading beasts; the exact sequence of battles; the formal name and complete roster of the Tower alliance; the complete list of anomalies that opened the gates; the precise moment Ji Haoyuan learned of Bai Xuanyin's death; and the name and further capabilities of the Demonic Beast that became the Heavenly Beast.
 
 ## 5. Timeline Rules for the GM
 

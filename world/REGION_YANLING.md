@@ -11,8 +11,8 @@
 
 ## 2. Geography and Boundaries
 - General position: Outer industrial belt — major furnaces are prosperous; isolated settlements receive fewer services. Exact coordinates and surveyed borders remain undefined.
-- Approximate territorial area: 1.8 million km² (provisional estimate derived from the regional population allocation, productive land, terrain, settlement spacing, and wilderness; not a surveyed boundary).
-- Approximate regional average density: ~20 people/km²; population is concentrated around the principal cities, productive corridors, and connected settlements rather than evenly spread.
+- Approximate territorial area: 1.80 million km² (provisional estimate calculated from the regional population allocation and a density assumption reflecting this region's character; not a surveyed boundary).
+- Approximate regional average density: ~20 people/km²; this is the planning assumption used to estimate area, not a measured census. Population is concentrated around principal cities, productive corridors, and connected settlements rather than evenly spread.
 - Development profile: Outer industrial belt — major furnaces are prosperous; isolated settlements receive fewer services.
 - Terrain / climate: Broad terrain follows the established regional identity; detailed local conditions remain to be developed
 - Confirmed neighboring regions: Belum ditetapkan
@@ -37,7 +37,7 @@ Prefectures and seats:
 
 Former prefectural seats retained as cities/local service hubs: Rongjiang and Heitie. They are not active prefectures.
 
-The administrative atlas is authoritative for names, territory estimates, and the selected village list. The listed named villages are maintained as roleplay locations for this region; unlisted hamlets may exist but are not individually catalogued. Development and services are strongest near Huanglongcheng and major regional seats, then generally thin with distance, isolation, and difficult terrain. Do not infer exact borders or travel times from the jurisdiction list alone.
+The administrative atlas is authoritative for names, territory estimates, and the selected village list. The listed named villages are maintained as roleplay locations for this region; unlisted hamlets may exist but are not individually catalogued. Development and services are strongest near this region's regional seat and major settlements, then generally thin with distance, isolation, and difficult terrain. Do not infer exact borders or travel times from the jurisdiction list alone.
 
 **Population-facing institutions:** Use `world/GOLDEN_DRAGON_EMPIRE_POPULATION_SERVICES.md` for named Ninefold Concord Bank and Myriad Ledger Exchange branches and Medicine Hall Society service points. The same register establishes only two boarding academies, both in Huanglongcheng, plus selected Ordo Suci Tianming public libraries; neither academies nor libraries are presumed to exist in every region. The central register governs named locations and service limits.
 
@@ -45,7 +45,7 @@ The administrative atlas is authoritative for names, territory estimates, and th
 
 ### Route activity and crowd density
 
-Use the shared time-of-day guide in `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md` for ordinary traffic. Apply it to this region according to its character: urban gates, markets, and main commercial streets become busiest around 07:00–09:00 and 15:00–19:00; the region's established main route, Furnace Spine Road has regular but uneven traffic; remote spurs, mine roads, mountain tracks, and rural paths are usually much quieter. This is a flexible RP baseline, not a fixed schedule. Market days, harvests, exams, furnace incidents, storms, military alerts, Spirit Beast activity, and arriving ships or caravans may sharply change density. Do not invent exact travel durations or imply that every road is safe or paved.
+Use the shared time-of-day guide in `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md` for ordinary traffic. Apply it to this region according to its character: urban gates, markets, and main commercial streets become busiest around 07:00–09:00 and 15:00–19:00; the region's established main route, Furnace Spine Road has regular but uneven traffic; remote spurs, mine roads, mountain tracks, and rural paths are usually much quieter. This is a flexible RP baseline, not a fixed schedule. Market days, harvests, exams, industrial incidents, storms, military alerts, Spirit Beast activity, and arriving ships or caravans may sharply change density. Do not invent exact travel durations or imply that every road is safe or paved.
 
 The official prefecture seats are only those listed in `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. Older city names below remain inhabited settlements and service hubs; they are not extra prefectures. Detailed districts, neighborhoods, minor roads, markets, and individual buildings remain open for RP.
 

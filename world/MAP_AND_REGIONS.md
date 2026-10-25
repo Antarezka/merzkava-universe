@@ -68,7 +68,7 @@ The North's harsh climate and difficult access contribute to its isolation. Spec
 
 ## 5. Lawless Territories
 
-Lawless Territories are not one unified country. They include communities and groups outside the direct jurisdiction of the three major powers. Some areas are dangerous, but the term does not mean every settlement lacks local laws or ordinary residents. Their established underground economy, neutral refuge network, poor agricultural soil, illegal arenas, elite auctions, cross-border smuggling, and Dead Zone forest are documented in world/LAWLESS_TERRITORIES.md. The Dead Zone's easiest known approach lies in Lawless Territories, while the forest extends into Golden Dragon Empire territory; the official full name of the imperial-side forest is not confirmed in the current repository.
+Lawless Territories are not one unified country. They include communities and groups outside the direct jurisdiction of the three major powers. Some areas are dangerous, but the term does not mean every settlement lacks local laws or ordinary residents. Their established underground economy, neutral refuge network, poor agricultural soil, illegal arenas, elite auctions, cross-border smuggling, and Azerion Forest are documented in world/LAWLESS_TERRITORIES.md. Azerion Forest's easiest known entrance lies in the Lawless Territories, while the forest extends into Golden Dragon Empire territory. Its northern region contains Inner Azerion, a prosperous hidden city run economically by half-beast people and concealed by dense illusion fog; access, human treatment, price differences, and its slave market are defined in the Lawless Territories module.
 
 ### 5.1 Ashen Borderlands
 

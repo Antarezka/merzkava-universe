@@ -22,7 +22,7 @@
 ## 2A. Administrative Register
 
 - **Regional administrative seat:** Beiguan
-- **Population planning estimate:** 32 juta (part of the Golden Dragon Empire-wide 320-million baseline; see the atlas for caveats)
+- **Population planning estimate:** 32 juta (part of the Golden Dragon Empire's 320-million population baseline; see the atlas for caveats)
 - **Prefectures:** 1
 - **County circuit:** Frontier–Maritime Circuit
 - **Cities:** Not separately counted in the simplified register; former seats remain settlements or service hubs.

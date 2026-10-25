@@ -21,15 +21,15 @@ The Empire's seven major regions are established in `world/WORLD.md`:
 
 | Region | Population estimate | Approx. area | Average density | Development/access tier | Administrative seat | Prefectures | County circuit | Use in play |
 |---|---:|---|---|---:|---|---|
-| Longyuan | 44 million | 1.4 million km² | ~31/km² | Core — strongest state presence | Huanglongcheng | 2 | Imperial Heartland Circuit | Court, ministries, nobles |
-| Canglan | 64 million | 2.1 million km² | ~30/km² | Riverlands — productive corridors, uneven rural services | Qinghe | 2 | Riverlands Circuit | Agriculture, irrigation, trade |
-| Jinyue | 32 million | 1.6 million km² | ~20/km² | Mineral belt — mines and artifact materials | Yumai | 2 | Mineral Lands Circuit | Mining, spiritual metals |
-| Tianfeng | 40 million | 1.5 million km² | ~27/km² | Scholarly heights — academies around major seats | Tianshu | 2 | Scholarly Heights Circuit | Education and knowledge |
-| Yanling | 36 million | 1.8 million km² | ~20/km² | Furnace belt — industrial hubs and remote communities | Honglu | 2 | Furnace Mountains Circuit | Smithing and spiritual forging |
-| Baiyue | 32 million | 2.4 million km² | ~13/km² | Frontier — long distances and defense routes | Beiguan | 1 | Frontier–Maritime Circuit | Fortifications and border defense |
-| Xingluo | 72 million | 2.0 million km² | ~36/km² | Maritime belt — ports and coastal trade | Dongxing | 1 | Frontier–Maritime Circuit | Ports, diplomacy, sea routes |
+| Longyuan | 44 million | 1.26 million km² | ~35/km² | Core — strongest state presence | Huanglongcheng | 2 | Imperial Heartland Circuit | Court, ministries, nobles |
+| Canglan | 64 million | 1.42 million km² | ~45/km² | Riverlands — productive corridors, uneven rural services | Qinghe | 2 | Riverlands Circuit | Agriculture, irrigation, trade |
+| Jinyue | 32 million | 1.78 million km² | ~18/km² | Mineral belt — mines and artifact materials | Yumai | 2 | Mineral Lands Circuit | Mining, spiritual metals |
+| Tianfeng | 40 million | 1.33 million km² | ~30/km² | Scholarly heights — academies around major seats | Tianshu | 2 | Scholarly Heights Circuit | Education and knowledge |
+| Yanling | 36 million | 1.80 million km² | ~20/km² | Furnace belt — industrial hubs and remote communities | Honglu | 2 | Furnace Mountains Circuit | Smithing and spiritual forging |
+| Baiyue | 32 million | 2.67 million km² | ~12/km² | Frontier — long distances and defense routes | Beiguan | 1 | Frontier–Maritime Circuit | Fortifications and border defense |
+| Xingluo | 72 million | 1.60 million km² | ~45/km² | Maritime belt — ports and coastal trade | Dongxing | 1 | Frontier–Maritime Circuit | Ports, diplomacy, sea routes |
 
-These are regional identities, not a complete list of settlements. Population is the starting scale for the working area estimate; area is then adjusted for productive farmland, urban concentration, terrain, wilderness, strategic buffer zones, and route spacing. The 12.8 million km² Empire-wide figure is a provisional worldbuilding estimate, not a surveyed border. Average density is a regional average only; most residents cluster in settlement belts and along usable transport corridors. The named prefectures, county circuits, selected rural villages, and route-density guide are listed in `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`; each region's module retains its established local places. Exact boundaries, routes, and travel durations remain unspecified unless a later official source establishes them. The Empire-wide civil and military hierarchy is defined in `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`.
+These are regional identities, not a complete list of settlements. Population is the starting scale for the working area estimate; regional average-density assumptions reflect productive farmland, urban/port concentration, terrain, wilderness, strategic buffer zones, and route spacing. The 11.86 million km² Empire-wide figure is a provisional estimate calculated from the population baseline and regional density assumptions, not a surveyed border. Average density is a regional average only; most residents cluster in settlement belts and along usable transport corridors. The named prefectures, county circuits, selected rural villages, and route-density guide are listed in `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`; each region's module retains its established local places. Exact boundaries, routes, and travel durations remain unspecified unless a later official source establishes them. The Empire-wide civil and military hierarchy is defined in `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`.
 
 ### 2.1 Imperial centralization and rural access
 

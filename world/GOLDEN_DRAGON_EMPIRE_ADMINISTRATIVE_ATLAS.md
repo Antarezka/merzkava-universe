@@ -14,7 +14,7 @@
 | County circuits | 6 | Broad service jurisdictions, each coordinating two prefectures |
 | Cities | Not separately counted | Existing named urban places remain settlements/service hubs |
 | Small towns | No separate tier | Market settlements are described by function, not counted as a tier |
-| Named rural villages | 13 | Compact roleplay roster, not a census of all rural communities |
+| Official named rural-village register | 13 | Compact canonical roster; the separate exploration-anchor list is broader and does not change this official count |
 
 The former register of 33 prefectures, 268 counties, 361 cities, 1,838 towns, and 22 named villages is superseded and must not be reused. The seven major regions and their established identities remain unchanged. Removing an administrative rank does not erase a settlement, NPC, or community.
 
@@ -105,9 +105,9 @@ Administrative routes are trunks, not a guarantee that every settlement connects
 - **Baiyue:** roads converge on patrol posts and passes; Frontier–Maritime Relay is a staged land/sea link, not a direct road.
 - **Xingluo:** coastal sailing legs and port roads connect hubs; some villages require small boats and tide-safe landings.
 
-## 5. Thirty-Four Named Rural Villages
+## 5. Official Village Register and Supplementary Exploration Anchors
 
-These are the thirteen individually named rural villages in the compact official register. All have local communities and ordinary residents, but a village is not presumed to have a bank, academy, clinic, library, or permanent state office unless a regional module confirms one.
+This section lists 34 named rural-village exploration anchors. The first 13 rows are the canonical compact register of officially counted named rural villages; that official count remains 13. The 21 additional rows are supplementary local exploration anchors, not an expansion of the official administrative register. The former 22-village list had nine entries beyond the 13-entry register; those communities remain as local settlements/hamlets, but this atlas does not yet map those nine legacy entries to specific names in the supplementary list. Do not assume which rows correspond to them until reconciled. All listed places have local communities and ordinary residents, but a village is not presumed to have a bank, academy, clinic, library, or permanent state office unless a regional module confirms one.
 
 | Village | Region | Established role | Civic status |
 |---|---|---|---|
@@ -146,7 +146,7 @@ These are the thirteen individually named rural villages in the compact official
 | Wind Sail Village | Xingluo | Sails, ropes, wind guides | Coastal craft village |
 | Tideglass Village | Xingluo | Sea glass, salt, tide watching | Small-boat village |
 
-The nine other entries from the former village list are not destroyed or depopulated. They are retained as local settlements/hamlets but are no longer part of the thirteen-entry named-village register. Do not imply that the administrative reduction physically removed them.
+The nine other entries from the former 22-village list are not destroyed or depopulated. They remain local settlements/hamlets outside the 13-entry official named-village register. Their identities are not mapped to individual rows in the supplementary exploration-anchor list yet; do not guess which entries they are. Do not imply that the administrative reduction physically removed them.
 
 ## 5A. Premium Destinations and Visitor Economy
 
@@ -176,8 +176,8 @@ Regional modules establish seven distinct premium destinations: Taman Cermin Gio
 
 ## 8. Canon and Conflict Rules
 
-1. This atlas is authoritative for seven regions, twelve prefectures, six county circuits, and 34 named rural-village exploration anchors.
+1. This atlas is authoritative for seven regions, twelve prefectures, six county circuits, and the 13-village official named register. The separate 34-entry exploration-anchor list is a supplementary roleplay navigation aid, not a replacement for the official village count.
 2. MAP_AND_REGIONS.md, GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md, the seven regional modules, GOLDEN_DRAGON_EMPIRE_OFFICIALS.md, and GOLDEN_DRAGON_EMPIRE_POPULATION_SERVICES.md must align with this register.
-3. The old counts—33 prefectures, 268 counties, 361 cities, 1,838 towns, 22 named villages, 9,200 township/district offices, and 50,000 villages/neighborhoods—are superseded. The current 34 named rural villages are exploration anchors, not a claim that the Empire has only 34 rural communities.
+3. The old counts—33 prefectures, 268 counties, 361 cities, 1,838 towns, 22 officially counted named villages, 9,200 township/district offices, and 50,000 villages/neighborhoods—are superseded. The 34 entries in Section 5 are named exploration anchors, not a claim that the Empire has only 34 rural communities and not a change to the 13-village official register.
 4. Never invent settlement destruction, population loss, NPC death, reassignment, borders, routes, or service branches to explain the simplified count.
 5. Preserve established character and world facts while applying this administrative structure; mark unresolved current office/location details for owner review.

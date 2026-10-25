@@ -40,6 +40,7 @@
 | Bai Xuanyin | Wife | Deceased; died during the Great Tianhai War |
 | Ji Zhaoning | Eldest twin daughter | Living; age 16; not awakened |
 | Ji Ningzhao | Younger twin daughter | Living; age 16; awakened |
+| Beiming Nerva | Good friend | Mutual friendship with Beiming Nerva of Beiming Gu; details of how they met and private arrangements remain unspecified |
 
 ## 7. State and Continuity
 - Current status: Living Maharaja.

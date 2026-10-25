@@ -32,7 +32,7 @@ His specific immediate goals, long-term plans, fears, and private priorities bey
 ## 5. Knowledge Boundaries
 His complete knowledge and beliefs are not itemized. Do not treat his rank as proof that he knows every secret or event. His older sister Beiming Nerva is established canon; what Han knows about her disguises, private activities, or secrets is not separately established.
 
-**GM-sensitive hidden history:** Beiming Han bears a scar left by an ancient Heavenly Beast rank 9 deep within the Dead Zone. The beast is a colossal dragon with a deer-like head, huge branching antlers, and deep-blue eyes. The date, exact circumstances, scar location, beast's name, and further capabilities remain unknown. Only a very small number of people know the truth; Beiming Xenhwa is among them. This is not ordinary public knowledge and must not be revealed without a justified in-world discovery.
+**GM-sensitive hidden history:** Beiming Han bears a scar left by an ancient Heavenly Beast rank 9 deep within Azerion Forest (called the Dead Zone in older records). The beast is a colossal dragon with a deer-like head, huge branching antlers, and deep-blue eyes. The date, exact circumstances, scar location, beast's name, and further capabilities remain unknown. Only a very small number of people know the truth; Beiming Xenhwa is among them. This is not ordinary public knowledge and must not be revealed without a justified in-world discovery.
 
 ## 6. Relationships
 | Person / group | Relationship | Current status / basis |

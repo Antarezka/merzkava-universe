@@ -4,6 +4,15 @@ INDEX ini adalah **pintu masuk tunggal** untuk memulai, melanjutkan, dan menjala
 
 Repository resmi: https://github.com/Antarezka/merzkava-universe
 
+## Regional Repository Architecture — Mandatory
+
+The target architecture is **one central index plus separate canonical regional repositories**. Follow `world/REGIONAL_REPOSITORY_ARCHITECTURE.md` for ownership boundaries, NPC registry rules, regional layout, and safe migration.
+
+- `merzkava-universe` remains the global hub for `INDEX.md`, `templates/AUTHORITY_ORDER.md`, global canon/mechanics, and verified links to regional repositories.
+- Each region's repository is the canonical source for its local geography, settlements, NPC registry, and detailed NPC profiles.
+- A region link must be verified before the AI uses it as a source or migrates any canon. Never guess repository names or URLs.
+- **Migration status:** regional repository URLs have not yet been verified in this connected GitHub view. Therefore the existing `world/REGION_*.md` and `world/NPC_*.md` files listed below remain legacy canon until their destinations are verified and content is safely migrated. Do not claim that regional separation is complete, and do not delete or overwrite those files yet.
+
 ## 0. Prosedur Bootstrap (WAJIB)
 
 Saat pemain memakai trigger awal yang merujuk INDEX.md dan players.md, perlakukan pesan itu sebagai perintah untuk menginisialisasi gameplay — bukan permintaan untuk sekadar menganalisis atau merangkum tautan.

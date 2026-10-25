@@ -29,12 +29,12 @@ These seven districts are established in `world/WORLD.md`. Their exact boundarie
 | District | Established function | Canon boundary |
 |---|---|---|
 | Yunxiao Terrace | Government quarter, official residence, and Maharaja's administrative center; south-central area | Does not establish the names or holders of individual offices |
-| Tianji Core | Central area associated with the floating island's support system | The core may be access-restricted; access rules and operators are not yet defined |
+| Tianji Core | Centrally situated district associated with the floating island's support system; a central landmark within the four-area map, not a fifth cardinal area | The core may be access-restricted; access rules and operators are not yet defined |
 | Cangqiong Harbor | Main harbor for ships, sailing, logistics, and movement of goods; western area | Specific docks, fleets, routes, and harbor officials are not yet defined |
 | Haiyue Market | Trade, commodity exchange, specialist markets, and high-value transactions; eastern area | Individual markets, merchants, prices, and guilds remain to be established |
 | Linggong District | Craftspeople, engineers, artifact assemblers, and manufacturing; southern area | Specific workshops, production capacity, and ownership remain unconfirmed; the high-level Thinker Institute's remit is defined in `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md` |
 | Xuanchao Ward | Defense, maritime-route monitoring, force training, and security coordination; northern area | Command structure, units, ranks, and current deployments remain unconfirmed |
-| Misty Shoals | Outer zone encompassing small islands, misty waters, navigation routes, and exploration areas; outer maritime belt | Does not establish exact island names, safe passages, or which sites are settled |
+| Misty Shoals | Seventh district: outer maritime zone encompassing small islands, misty waters, navigation routes, and exploration areas; not a fifth cardinal area of the main island | Does not establish exact island names, the district's precise span, safe passages, or which sites are settled |
 
 Do not treat these seven district names as a complete map of every settlement or as proof that all districts are directly connected by roads. Movement may require stairs, lifts, docks, boats, controlled passages, or other infrastructure, but specific systems must be established before they are treated as canon.
 

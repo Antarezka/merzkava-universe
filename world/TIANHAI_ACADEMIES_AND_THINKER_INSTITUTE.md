@@ -42,14 +42,14 @@ Clan members, branch residences, businesses, and representatives may operate out
 
 ## 3. Four Cultivator Academies
 
-Tianhai has **four established Cultivator Academies**, one associated with each cardinal area. All four teach the foundational subjects relevant to a cultivator, including Martial Souls, Spirit Realms, Spirit Rings, Spirit Beasts, practical preparation, combat fundamentals, and relevant world knowledge. Their curricula may also introduce the social impact and basic history of Artificial Artifacts, but ordinary academy study does not itself confer Thinker Grade or formulation mastery.
+Tianhai Yunzhou has **four established Cultivator Academies**, one associated with each cardinal area. All four teach the foundational subjects relevant to a cultivator, including Martial Souls, Spirit Realms, Spirit Rings, Spirit Beasts, practical preparation, combat fundamentals, and relevant world knowledge. Their curricula may also introduce the social impact and basic history of Artificial Artifacts, but ordinary academy study does not itself confer Thinker Grade or formulation mastery.
 
-Tianhai's academies are more flexible in teaching methods than the orthodox central academies of the Golden Dragon Empire. Flexibility means that instructors may adapt lesson sequence, practical exercises, mentoring, and learning paths to student aptitude and circumstances. It does **not** mean that an academy may ignore established cultivation requirements, guarantee Spirit Ring absorption, award unearned mastery, or bypass the official combat and Thinker mechanics.
+Tianhai Yunzhou's academies are more flexible in teaching methods than the orthodox central academies of the Golden Dragon Empire. Flexibility means that instructors may adapt lesson sequence, practical exercises, mentoring, and learning paths to student aptitude and circumstances. It does **not** mean that an academy may ignore established cultivation requirements, guarantee Spirit Ring absorption, award unearned mastery, or bypass the official combat and Thinker mechanics.
 
 | Cardinal area | Academy | Standing and focus |
 |---|---|---|
 | North | **Beichen Cultivator Academy** | Emphasizes disciplined readiness, threat awareness, defensive practice, and preparation for maritime and environmental hazards. |
-| South | **Tianlan Supreme Academy** | **The most outstanding and prestigious of Tianhai's four academies.** Its strength lies in its breadth of instruction, flexible teaching, intensive practical study, and strong pathway toward advanced Thinker education. It is highly competitive in developing students with the aptitude and preparation to pursue high Thinker Grades; admission or attendance does not guarantee a high grade. |
+| South | **Tianlan Supreme Academy** | **The most outstanding and prestigious of Tianhai Yunzhou's four academies.** Its strength lies in its breadth of instruction, flexible teaching, intensive practical study, and strong pathway toward advanced Thinker education. It is highly competitive in developing students with the aptitude and preparation to pursue high Thinker Grades; admission or attendance does not guarantee a high grade. |
 | West | **Cangfan Maritime Academy** | Emphasizes navigation awareness, maritime life, movement, teamwork, and practical preparation for travel and sea-related risks. |
 | East | **Haiyue Academy** | Emphasizes commercial-world literacy, applied problem-solving, resource awareness, and the relationship between cultivation, trade, and specialist craft. |
 
@@ -59,7 +59,7 @@ The Tianlan Supreme Academy is the leading academy overall; that reputation does
 
 ## 4. Tianhai Thinker Institute — exclusive high-level research institution
 
-The **Tianhai Thinker Institute** is Tianhai's exclusive high-level institution devoted to research across the Thinker discipline. It is the world's sole institution established at this level and breadth of specialization; other regions may still have individual Thinkers, workshops, schools, or research groups, but no second institution of equivalent scope is established in canon.
+The **Tianhai Thinker Institute** is Tianhai Yunzhou's exclusive high-level institution devoted to research across the Thinker discipline. It is the world's sole institution established at this level and breadth of specialization; other regions may still have individual Thinkers, workshops, schools, or research groups, but no second institution of equivalent scope is established in canon.
 
 Its remit includes:
 

@@ -15,6 +15,17 @@ Apply these rules before inventing, narrating, or updating world facts:
 6. **Keep confirmed facts distinct from proposals, estimates, rumors, and unresolved details.** Do not silently promote a suggestion or a plausible extrapolation into binding canon.
 7. **When editing, update all dependent references.** If a final decision changes, revise the authoritative module first, then synchronize summaries, indexes, regional modules, and templates. Do not leave stale contradictory text behind.
 
+## 1A. Binding Territorial Loading Rules — All Major Powers
+
+These rules apply to Golden Dragon Empire, Tianhai Yunzhou, Beiming Gu, and—where relevant—the Lawless Territories:
+
+1. Before narrating local facts, answering a lore question, auditing a region, or editing regional data, follow the `Mandatory Territorial Canon Load Path — All Major Powers` in `INDEX.md`. Read the current canonical sources relevant to the task; prior memory or summaries do not replace them.
+2. The relevant regional module governs established local facts within its scope, alongside any more specific binding canon. Read linked authority files for government, institutions, factions, economy/services, routes, and established NPCs when those subjects matter.
+3. Never transfer a power's administrative structure, counts, institutional network, customs, prices, or social rules to another power by analogy. A fact confirmed for Golden Dragon Empire is not automatically true of Tianhai or Beiming, and vice versa.
+4. Regional modules explicitly marked as scaffolds or owner-fillable are incomplete by design. Treat blank/pending fields as unconfirmed. Do not present invented settlements, routes, officials, prices, customs, institutions, or NPCs as already established canon. Any new permanent detail must follow the owner's approval/canon workflow.
+5. Travel connections must be verified from `world/LOCATION_AND_ROUTE_NETWORK.md` plus the relevant origin/destination regional modules and `world/GEOGRAPHY_AND_TRAVEL.md`. A missing route is not proof of a direct connection and is not proof that travel is impossible.
+6. If a required source cannot be accessed, disclose the missing source and limit claims accordingly. Never claim to have read or reconciled files that were not actually fetched.
+
 ## 2. Binding Decisions — Golden Dragon Empire
 
 ### 2.1 Exactly Two Cultivator Academies

@@ -38,6 +38,7 @@
 | [Map & Regions](world/MAP_AND_REGIONS.md) | Regional index and geographic knowledge boundaries |
 | [Regional Architecture](world/REGIONAL_REPOSITORY_ARCHITECTURE.md) | How the three major powers are organized inside this single repository |
 | [Geography & Travel](world/GEOGRAPHY_AND_TRAVEL.md) | Terrain, transportation, travel, and route information |
+| [Ruined Archiver](world/RUINED_ARCHIVER.md) | Ordo branch for Ruined expeditions, maps, compensation, confidential records, and anomaly early warning |
 | [Ancient Shamanism & Buddhist Clans](world/ANCIENT_SHAMANISM_AND_BUDDHIST_CLANS.md) | Two hidden mountain traditions, their established hierarchies, powers, and lore |
 | [Wanluo Sacred Expanse](world/WANLUO_SACRED_EXPANSE.md) | World Knowledge Tower region, pilgrimage roads, districts, and Ordo Suci Tianming |
 | [Intelligent Peoples](world/INTELLIGENT_PEOPLES.md) | Peoples, traits, and social context |

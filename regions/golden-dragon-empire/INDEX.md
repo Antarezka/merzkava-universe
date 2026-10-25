@@ -5,11 +5,11 @@
 
 ## NPC loading order
 
-1. Read the central [INDEX](../../../INDEX.md), [Authority Order](../../../templates/AUTHORITY_ORDER.md), and [NPC Management](../../../world/NPC_MANAGEMENT.md).
-2. Read the relevant regional module; for the imperial family, start with [Longyuan](../../../world/REGION_LONGYUAN.md).
+1. Read the central [INDEX](../../INDEX.md), [Authority Order](../../templates/AUTHORITY_ORDER.md), and [NPC Management](../../world/NPC_MANAGEMENT.md).
+2. Read the relevant regional module; for the imperial family, start with [Longyuan](../../world/REGION_LONGYUAN.md).
 3. Check the [NPC Registry](npcs/REGISTRY.md).
 4. Open only the canonical detailed profile relevant to the scene.
-5. For government officeholders, cross-check [Golden Dragon Empire governance](../../../world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md) and the relevant official roster.
+5. For government officeholders, cross-check [Golden Dragon Empire governance](../../world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md) and the relevant official roster.
 
 ## Canonical NPC files
 

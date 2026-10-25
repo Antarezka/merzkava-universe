@@ -1,7 +1,7 @@
 # Beiming Gu — Regional Staging Index
 
 **Scope:** Regional staging area for canon owned by Beiming Gu.
-**Status:** The registry contains three pre-existing owner-approved profiles plus a new roster of 12 clan heads and 5 dojo masters (20 canonical profiles total). This folder is inside `Antarezka/merzkava-universe`, not a separate GitHub repository.
+**Status:** The registry contains four established major NPC profiles plus 12 clan heads and 5 dojo masters (21 canonical profiles total). This folder is inside `Antarezka/merzkava-universe`, not a separate GitHub repository.
 
 ## NPC loading order
 
@@ -17,6 +17,7 @@
 - [Beiming Han](npcs/BEIMING_HAN.md)
 - [Beiming Xenhwa](npcs/BEIMING_XENHWA.md)
 - [Beiming Jingheng](npcs/BEIMING_JINGHENG.md)
+- [Beiming Nerva — Beiming Han's older sister; Thinker Grade 9](npcs/BEIMING_NERVA.md)
 - [Beiming Xuanyu — Beiming Clan head, Thinker Grade 9](npcs/BEIMING_XUANYU.md)
 
 ## Canon safeguards

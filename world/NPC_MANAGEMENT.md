@@ -5,7 +5,7 @@
 
 ## 1. Sources of truth and file structure
 
-- Target architecture: `world/REGIONAL_REPOSITORY_ARCHITECTURE.md`. There are exactly three regional repositories, one for each major power: Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu. The central repo is the global navigation hub.
+- Target architecture: `world/REGIONAL_REPOSITORY_ARCHITECTURE.md`. There are exactly three regional repositories, one for each major power: Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu. These exact names follow `world/WORLD.md`; do not create alternate formal names in registries or ownership labels. The central repo is the global navigation hub.
 - Do not create a separate repository for each province, valley, city, or village, and do not create a separate global NPC repository. NPCs belong in the repository of their canonical home/affiliation among the three powers.
 - After a power's repository URL is verified and registered in the central `INDEX.md`, that repository's NPC registry is the first stop for NPCs in its territory, local authority, settlement context, and local encounters.
 - `templates/NPC_PROFILE_TEMPLATE.md` is the canonical format for a major or recurring NPC's full profile; the three regional repositories should use this standard or link back to it.

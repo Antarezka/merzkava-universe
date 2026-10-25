@@ -106,6 +106,8 @@ Only 2 villages are part of the Empire's official thirteen-village register in t
 
 ## 8. Regional NPC Registry
 
+**Canonical profile directory:** [Golden Dragon Empire NPC Registry](../regions/golden-dragon-empire/npcs/REGISTRY.md). This local table remains the scene-level lookup for Longyuan; the registry is the broader roster directory.
+
 **Current civil officeholders:** The central roster `GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` is authoritative for appointments, backgrounds, motivations, Martial Souls, cultivation, and political dispositions. This regional registry lists key recurring officeholders and major NPCs for quick scene loading; it does not create extra administrative tiers. Legacy/local administrators not listed here remain in the central roster and should only be used when relevant to the scene.
 Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPCs. Do not reveal hidden identities before a credible in-world discovery.
 
@@ -116,10 +118,10 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPC
 | Qin Qingyuan | Yuxi | Prefect, Jade Seal Prefecture |Spirit Realm 4 — Spirit Monarch, Middle Stage; pragmatis, menjaga stabilitas takhta; Orientasi rakyat: sedang–rendah; penegakan hukum 3/5 — moderat dan prosedural| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
 | Qin Zhongyi | Longyuan; exact assignment unconfirmed | Regional consolidation officer (former White Stag Prefecture) |Spirit Realm 5 — Spirit King, Middle Stage; tegas terhadap korupsi, kompromistis secara politik; Orientasi rakyat: tinggi; penegakan hukum 3/5 — moderat dan prosedural| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
 | Yue Qinghe | Longyuan; exact assignment unconfirmed | Imperial Heartland Circuit liaison officer |Spirit Realm 3 — Spirit Elder, Late Stage; berorientasi pada pertahanan wilayah; Orientasi rakyat: tinggi; penegakan hukum 3/5 — moderat dan prosedural| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
-| Jun Haotian (君昊天) | Longyuan; exact residence unconfirmed | Emperor of the Golden Dragon Empire | Golden Heavenly Dragon, Myth Tier; Spirit Realm 9 — Spirit Primordial, Middle Stage; age 42 | [Canonical roster/profile](NPC_JUN_HAOTIAN.md) |
-| Shen Yuehua (沈月华) | Longyuan; exact residence unconfirmed | Empress; main-branch member of the Shen family | Heavenly Crane, Myth Tier; age 33; noted for her family's strategic tea-pavilion, intelligence, and Thinker traditions | [Canonical roster/profile](NPC_SHEN_YUEHUA.md) |
-| Jun Ruiyuan (君睿渊) | Longyuan; exact residence unconfirmed | Crown Prince; eldest child | Golden Heavenly Qilin, Myth Tier; age 17 | [Canonical roster/profile](NPC_JUN_RUIYUAN.md) |
-| Jun Yuejin (君月瑾) | Longyuan; exact residence unconfirmed | Imperial Princess; second child | Golden Celestial Crane, Myth Tier; age 16 | [Canonical roster/profile](NPC_JUN_YUEJIN.md) |
+| Jun Haotian (君昊天) | Longyuan; exact residence unconfirmed | Emperor of the Golden Dragon Empire | Golden Heavenly Dragon, Myth Tier; Spirit Realm 9 — Spirit Primordial, Middle Stage; age 42 | [Canonical roster/profile](../regions/golden-dragon-empire/npcs/JUN_HAOTIAN.md) |
+| Shen Yuehua (沈月华) | Longyuan; exact residence unconfirmed | Empress; main-branch member of the Shen family | Heavenly Crane, Myth Tier; age 33; noted for her family's strategic tea-pavilion, intelligence, and Thinker traditions | [Canonical roster/profile](../regions/golden-dragon-empire/npcs/SHEN_YUEHUA.md) |
+| Jun Ruiyuan (君睿渊) | Longyuan; exact residence unconfirmed | Crown Prince; eldest child | Golden Heavenly Qilin, Myth Tier; age 17 | [Canonical roster/profile](../regions/golden-dragon-empire/npcs/JUN_RUIYUAN.md) |
+| Jun Yuejin (君月瑾) | Longyuan; exact residence unconfirmed | Imperial Princess; second child | Golden Celestial Crane, Myth Tier; age 16 | [Canonical roster/profile](../regions/golden-dragon-empire/npcs/JUN_YUEJIN.md) |
 
 ## 9. Current Situations and Events
 

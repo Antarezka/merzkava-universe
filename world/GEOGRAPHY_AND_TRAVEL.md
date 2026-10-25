@@ -20,11 +20,19 @@ The spaces between major powers include forests, mountain ranges, deep ravines, 
 
 Forests and other wild territories contain Spirit Beasts. As a general ecological pattern, deeper and harder-to-reach areas tend to contain higher-tier beasts because they are less accessible and more dangerous. This is a tendency, not a guarantee: a high-tier beast may roam outward, and an accessible area is not automatically safe. Do not invent a beast's exact tier or location without evidence, a bestiary entry, or a permitted provisional encounter design.
 
-**Azerion Forest** is one of the world's largest, dangerous, mist-shrouded forests. It extends from the Lawless Territories into Golden Dragon Empire territory; older records may call it the **Dead Zone**. Its northern part contains **Inner Azerion**, a hidden city of half-beast people concealed by exceptionally dense illusion fog. See world/LAWLESS_TERRITORIES.md for the city's established social and economic conditions. Do not invent exact coordinates, routes, boundaries, or a way to bypass its illusion fog.
+**Azerion Forest** is a vast, dangerous forest that extends from the Lawless Territories into Golden Dragon Empire territory. It is a paradise for Spirit Beasts and a major human hunting ground for finding compatible Spirit Rings. Humans call the deepest inner/core zone the **Dead Zone** and know not to enter it; Dead Zone is not another name for the entire forest. In the forest's central area lies an enormous lake deeper than one of the world's oceans. Its lakebed rocks mutated after direct exposure to the power of the ancient Heavenly Beast. An entrance in the lake leads to underground ruins and the **Mega Colossal Labyrinth**, whose extent is as vast as the Golden Dragon Empire and whose exit connects to the sea along the northern deep-sea coast. The labyrinth is not suitable for beginners. The northern forest also contains **Inner Azerion**, a hidden half-beast city enclosed by extremely dense illusion fog. Only veterans who frequently enter the forest and local hunter tribes know safe routes into the city; others risk being lost in the fog indefinitely. See `world/LAWLESS_TERRITORIES.md` for full canon.
 
 ## 4. Ancient Ruins
 
 Ruins from past eras are scattered throughout the world, including remote wilderness, mountain regions, and deep ocean trenches. Their age, creators, contents, dangers, and historical significance vary and may be unknown. A ruin's existence does not guarantee that treasure remains, that it is accessible, or that its history is understood.
+
+### 4.1 Unexplored Ruins: Maps, Discoveries, and Hidden Rewards
+
+- A ruin that has never been explored has no existing complete internal map. Do not fabricate or present a complete map as known before characters survey it. Maps may be built only from areas actually explored and recorded.
+- Entering a ruin does not guarantee that a character will find its hidden treasure, even if they explore for a long time or reach a deep section. Some ruins contain a concealed treasure chamber in their deepest reaches.
+- Such a chamber opens only when its specific trigger conditions are discovered and fulfilled. Those conditions may be unknown at the outset; do not reveal them without earned in-world evidence or trigger the chamber automatically just because the character reaches the final room.
+- Exploration should preserve continuity: once a route, clue, hazard, mechanism, or condition has been discovered and recorded, do not secretly alter it to force success or failure. Keep confirmed facts distinct from a character's hypotheses and unverified rumors.
+- A ruin may still be empty, inaccessible, dangerous, or unrewarding. These rules establish an exploration framework, not a guarantee that every ruin contains a treasure chamber.
 
 ## 5. Common Transportation
 
@@ -44,7 +52,7 @@ Use `gameplay/TIME_AND_ACTION_RULES.md` for travel-time resolution. Transport ty
 1. Use this module together with `world/MAP_AND_REGIONS.md`; do not invent precise coordinates or distances.
 2. Keep sea names `???` until the world owner names them.
 3. Treat higher-tier beast density in remote wilderness as a tendency, not an absolute rule.
-4. Ruins may contain records, dangers, empty chambers, or nothing recoverable; do not presume rewards.
+4. Unexplored ruins have no pre-existing complete map. Keep maps limited to surveyed areas. Hidden treasure chambers, where present, require discovery and fulfillment of their trigger conditions; entry alone never guarantees treasure.
 5. Do not treat flying ships or energy-aircraft as common household transport. Their existence depends on the specified technology, documented corridor, and passenger access.
 6. Tianhai Yunzhou's automated trains, long-distance liquefied-energy aircraft, and refined-energy network are regional technologies; do not automatically place them in other powers or assume compatibility with arbitrary artifacts. The two named inter-power corridors are approved exceptions to the otherwise unknown route network.
 7. The Ancient Shamanism clan/sect and the separate Buddhist clan are established hidden groups. Use `world/ANCIENT_SHAMANISM_AND_BUDDHIST_CLANS.md` for their canon. Do not invent their exact mountain coordinates, additional members, names, techniques, or connections beyond that file.

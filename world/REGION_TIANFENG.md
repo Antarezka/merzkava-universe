@@ -6,14 +6,14 @@
 ## 1. Confirmed Foundation
 - **Region / territory:** Tianfeng — Scholarly Heights
 - **Power / jurisdiction context:** Golden Dragon Empire
-- **Established identity:** Academies, cultivation education, and knowledge exchange.
+- **Established identity:** Scholarly traditions, talent development, literacy, archives, and knowledge exchange. Tianfeng is a source of gifted students for the two central Cultivator Academies in Huanglongcheng; no Cultivator Academy is established in Tianfeng.
 - **Canonical overview:** `world/MAP_AND_REGIONS.md` and `world/WORLD.md`
 
 ## 2. Geography and Boundaries
-- General position: Inner-to-middle belt — education clusters around major seats; rural districts rely on local tutors. Exact coordinates and surveyed borders remain undefined.
+- General position: Inner-to-middle belt — scholarly activity, tutoring, and informal learning cluster around major seats; rural districts rely on local tutors. Exact coordinates and surveyed borders remain undefined. No regional Cultivator Academy is established here.
 - Approximate territorial area: 1.33 million km² (provisional estimate calculated from the regional population allocation and a density assumption reflecting this region's character; not a surveyed boundary).
 - Approximate regional average density: ~30 people/km²; this is the planning assumption used to estimate area, not a measured census. Population is concentrated around principal cities, productive corridors, and connected settlements rather than evenly spread.
-- Development profile: Inner-to-middle belt — education clusters around major seats; rural districts rely on local tutors.
+- Development profile: Inner-to-middle belt — scholarly activity, literacy services, and informal learning cluster around major seats; rural districts rely on local tutors.
 - Terrain / climate: Broad terrain follows the established regional identity; detailed local conditions remain to be developed
 - Confirmed neighboring regions: Belum ditetapkan
 - Confirmed routes / crossings: Cloudstep Scholar Road links Tianshu and Yunding; branch roads and mountain-pass conditions remain unspecified.
@@ -72,13 +72,13 @@ This is the region's compact named village roster. Other former village names re
 | Scholar's Rest Village | Rural village | juru tulis lepas, pemandu arsip, rumah singgah ujian | cabang Wenchuan; ramai saat musim ujian |
 ## 4. Local Society and Daily Life
 
-- Pelajar, guru, penyalin, penjilid buku, petani teh, pembawa pesan, pemandu gunung, dan keluarga pekerja akademi membentuk masyarakat. Musim ujian menaikkan harga kamar dan makanan.
+- Pelajar, tutor, cendekiawan, penyalin, penjilid buku, petani teh, pembawa pesan, pemandu gunung, serta keluarga yang mendukung pendidikan membentuk masyarakat. Musim ujian dan seleksi beasiswa—termasuk bagi calon siswa yang akan berangkat ke Huanglongcheng—dapat menaikkan harga kamar dan makanan.
 - Debat dan reputasi akademik penting, tetapi akses pendidikan tetap dipengaruhi uang, rekomendasi, dan waktu luang. Rumah salin, kedai teh, penginapan belajar, dan penjual alat tulis menjadi usaha utama.
 
 
 ## 5. Economy and Resources
 
-- **Kekuatan:** pendidikan, kertas, tinta, buku, arsip, teh dataran tinggi, alat tulis, penerjemah, dan penginapan ujian.
+- **Kekuatan:** tradisi keilmuan, literasi, kertas, tinta, buku, arsip, teh dataran tinggi, alat tulis, penerjemah, tutor, dan penginapan ujian.
 - Paper Crane memasok kertas ke Wenchuan; Cloud Ladder memasok teh ke Tianshu; Scholar's Rest menyediakan kamar serta juru tulis bagi peserta ujian.
 - **Destinasi elit:** Teras Sembilan Tinta dekat Yunding adalah retret pegunungan bagi kolektor buku, kaligrafer, dan keluarga kaya. Arsip resmi tidak boleh dibawa keluar tanpa izin.
 - Risiko: ijazah palsu, pencurian manuskrip, perdagangan jawaban ujian, dan murid terjerat utang sponsor.
@@ -95,8 +95,8 @@ This is the region's compact named village roster. Other former village names re
 - Political tendencies follow `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`; inclination is not proof of secret faction membership.
 
 ### Regional business and community networks
-- **Perhimpunan Penyalin Tianfeng** menjaga standar salinan; **Dewan Sponsor Akademi** mendanai beasiswa namun dapat memengaruhi penelitian; **Koperasi Teh Awan** memasok kedai dan penginapan.
-- Akademi membutuhkan kertas, penginapan bergantung musim ujian, sponsor mencari pengaruh melalui beasiswa. Konflik biasanya soal akses dan reputasi.
+- **Perhimpunan Penyalin Tianfeng** menjaga standar salinan; **Dewan Sponsor Akademi** mendanai beasiswa bagi talenta, termasuk calon siswa yang menempuh pendidikan di dua akademi pusat Huanglongcheng, namun dapat memengaruhi penelitian; **Koperasi Teh Awan** memasok kedai dan penginapan.
+- Pelajar dan peserta ujian membutuhkan kertas serta tempat tinggal; penginapan bergantung pada musim ujian, sementara sponsor mencari pengaruh melalui beasiswa. Konflik biasanya soal akses, reputasi, dan kesempatan belajar—bukan bukti adanya akademi kultivator di Tianfeng.
 
 | Name | Type | Role / influence | Confirmed relationship or control | Canon source |
 |---|---|---|---|---|

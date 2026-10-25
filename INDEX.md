@@ -8,6 +8,8 @@ Repository resmi: https://github.com/Antarezka/merzkava-universe
 
 Saat pemain memakai trigger awal yang merujuk INDEX.md dan players.md, perlakukan pesan itu sebagai perintah untuk menginisialisasi gameplay — bukan permintaan untuk sekadar menganalisis atau merangkum tautan.
 
+**Aturan canon final:** jika ada keputusan owner yang sudah ditetapkan atau konflik antara file, baca `world/CANON_DECISIONS_AND_PRECEDENCE.md` bersama sumber khusus topik. File yang baru ditambahkan tidak otomatis mengalahkan keputusan final yang lebih lama; selaraskan informasi baru dengan canon yang berlaku kecuali owner secara eksplisit merevisinya.
+
 1. **Baca seluruh INDEX.md ini terlebih dahulu.** Gunakan direktori dan aturan navigasi di bawah untuk menemukan sumber resmi; jangan mengandalkan ingatan bebas jika sumber repository dapat diakses.
 2. **Fetch dan baca `templates/AUTHORITY_ORDER.md` sebelum memutuskan atau menarasikan hasil gameplay.** File ini menetapkan perilaku GM, anti-cheat, mode sesi, dan resolusi aksi.
 3. **Kenali apakah sesi baru atau berlanjut dari pesan pemain dan riwayat chat yang tersedia.** Jangan menganggap semua penyebutan nama karakter sebagai jenis sesi yang sama:

@@ -13,7 +13,7 @@
 - **Spirit Realm benchmark:** Use the same practical band as the Golden Dragon Empire's named civil administration: ordinary administrators and officeholders generally Spirit Realm 3–6. Senior military, security, and high-risk command roles may reach Spirit Realm 7. Spirit Realm 8–9 is not assigned to ordinary officeholders; the Maharaja's established Spirit Realm 9 remains an exceptional ruler-level case.
 - **Stages:** Every named character's Stage is included where assigned. The listed realm is the character's current established capability, not an automatic promotion from office.
 - **Existing canon is preserved:** Ji Haoyuan is Thinker Grade 10 and Spirit Realm 9 — Spirit Primordial, Early Stage. Bai Xuanyin was Thinker Grade 10 and Spirit Realm 7 — Spirit Emperor; she is deceased. Ji Zhaoning has not awakened and her Thinker Grade is still unestablished; Ji Ningzhao is awakened at Spirit Realm 3 — Spirit Elder, Early Stage. These established family exceptions are not rewritten to fit the standard roster.
-- **Grade 8+:** The high-grade elite is deliberately small. Existing canon records four Thinker Grade 10 individuals associated with Tianhai's Thinker tradition, including Ji Haoyuan; Bai Xuanyin is a confirmed Grade 10 historical figure. Do not assume the other Grade 10 identities, present status, or exact count of living Grade 10s without a later owner decision.
+- **Grade 8+:** The high-grade elite is deliberately small. Existing canon records four Thinker Grade 10 individuals associated with Tianhai Yunzhou's Thinker tradition, including Ji Haoyuan; Bai Xuanyin is a confirmed Grade 10 historical figure. Do not assume the other Grade 10 identities, present status, or exact count of living Grade 10s without a later owner decision.
 - **No invented private secrets:** Role, public working remit, Spirit Realm, and Thinker Grade are roster facts. Personal secrets, hidden loyalties, exact Spirit Rings, artifact recipes, crimes, and private family relationships remain unspecified unless separately recorded.
 - **NPC profile policy:** This roster is the canonical source for these office appointments and core capability fields. If an NPC becomes a major recurring story character, create a full profile using `templates/NPC_PROFILE_TEMPLATE.md` and link it here.
 
@@ -29,7 +29,7 @@ Maharaja Ji Haoyuan
 │   ├── Cangqiong Harbor administration
 │   ├── Fleet logistics and navigation safety
 │   └── Sea-route surveillance and rescue
-├── Tianhai Defense Command
+├── Tianhai Yunzhou Defense Command
 │   ├── Floating-island perimeter and protective systems
 │   ├── Island garrison and emergency response
 │   └── Outer-island / shoal patrol coordination
@@ -39,7 +39,7 @@ Maharaja Ji Haoyuan
 └── Thinker institutions, workshops, and artifact quality oversight
 ```
 
-This is a functional structure for Tianhai's governing sphere. It does not mean every branch has unlimited jurisdiction, every clan answers to every office, or civilian officials automatically command military units. The Maharaja's lawful appointments and established mandates govern actual authority.
+This is a functional structure for Tianhai Yunzhou's governing sphere. It does not mean every branch has unlimited jurisdiction, every clan answers to every office, or civilian officials automatically command military units. The Maharaja's lawful appointments and established mandates govern actual authority.
 
 ## 3. Ruling family — existing canon
 
@@ -71,7 +71,7 @@ These are civil appointments. None automatically commands the navy, garrison, or
 
 | NPC | Office / responsibility | Spirit Realm / Stage | Thinker Grade |
 |---|---|---|---:|
-| Canglong Beichen | Commander of Tianhai Defense; strategic readiness and force coordination | Spirit Realm 7 — Spirit Emperor, Early Stage | 5 |
+| Canglong Beichen | Commander of Tianhai Yunzhou Defense; strategic readiness and force coordination | Spirit Realm 7 — Spirit Emperor, Early Stage | 5 |
 | Xuanchao Lie | Chief of Maritime Surveillance; sea-route threat monitoring | Spirit Realm 6 — Spirit Ancestor, Middle Stage | 5 |
 | Leiyu Zhenfeng | Commander of Rapid Response; interception and emergency reinforcement | Spirit Realm 6 — Spirit Ancestor, Early Stage | 4 |
 | Haiyuan Qishan | Harbor Fleet Commander; escort schedules and fleet deployment | Spirit Realm 6 — Spirit Ancestor, Middle Stage | 4 |
@@ -165,7 +165,7 @@ Operational positions below are part of the formal structure but are intentional
 - Thinker institutions may employ laboratory assistants, apprentices, material graders, and workshop technicians.
 - Clans and dojos may have deputies, elders, instructors, students, and branch representatives.
 
-All **named recurring or major officeholders** added later must be Thinkers. Unless the owner explicitly approves an exception, keep their Thinker Grade between 3 and 7 and their Spirit Realm within the role-appropriate range. Unnamed ordinary residents are not presumed to be Thinkers merely because they live in Tianhai.
+All **named recurring or major officeholders** added later must be Thinkers. Unless the owner explicitly approves an exception, keep their Thinker Grade between 3 and 7 and their Spirit Realm within the role-appropriate range. Unnamed ordinary residents are not presumed to be Thinkers merely because they live in Tianhai Yunzhou.
 
 ## 11. Authority, knowledge, and conflict rules
 

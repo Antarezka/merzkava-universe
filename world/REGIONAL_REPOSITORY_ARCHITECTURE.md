@@ -6,8 +6,8 @@ Use one central hub and **exactly three canonical regional repositories**, one f
 
 **“Region” here means a major power—not an individual province, valley, city, or village.** The three repository boundaries are:
 
-1. **Golden Dragon Empire / Kekaisaran Naga Emas**
-2. **Tianhai Yunzhou / Tianhai**
+1. **Golden Dragon Empire**
+2. **Tianhai Yunzhou**
 3. **Beiming Gu**
 
 Do not create a fourth, separate global NPC repository or one repository per subregion.

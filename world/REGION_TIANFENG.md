@@ -16,7 +16,7 @@
 - Development profile: Inner-to-middle belt — education clusters around major seats; rural districts rely on local tutors.
 - Terrain / climate: Broad terrain follows the established regional identity; detailed local conditions remain to be developed
 - Confirmed neighboring regions: Belum ditetapkan
-- Confirmed routes / crossings: Belum ditetapkan
+- Confirmed routes / crossings: Cloudstep Scholar Road links Tianshu and Yunding; branch roads and mountain-pass conditions remain unspecified.
 - Travel distances and durations: Do not infer; follow `world/GEOGRAPHY_AND_TRAVEL.md` and `gameplay/TIME_AND_ACTION_RULES.md`
 
 ## 2A. Administrative Register
@@ -51,12 +51,12 @@ The official prefecture seats are only those listed in `world/GOLDEN_DRAGON_EMPI
 
 | Settlement | Type | Established role | Authority / status |
 |---|---|---|---|
-| Tianshu | City / prefecture seat | Seat of Heavenly Script Prefecture | Imperial civil administration; local detail pending |
-| Yunding | City / prefecture seat | Seat of Cloud Summit Prefecture | Imperial civil administration; local detail pending |
+| Tianshu | City / official prefecture seat | Seat of Heavenly Script Prefecture | Imperial civil administration; local detail pending |
+| Yunding | City / official prefecture seat | Seat of Cloud Summit Prefecture | Imperial civil administration; local detail pending |
 | Wenchuan | City / settlement hub | Wenchuan remains an academic and archive city under Heavenly Script Prefecture | Imperial civil administration; local detail pending |
 | Songmo | City / settlement hub | Songmo remains a scholarly settlement under Cloud Summit Prefecture | Imperial civil administration; local detail pending |
-| Baixue | City / consolidated administrative center | Former prefectural seat; Baixue remains a settlement under Heavenly Script Prefecture | Local civil administration; not an independent prefectural seat |
-| Yuyan | City / consolidated administrative center | Former prefectural seat; Yuyan remains a settlement under Heavenly Script Prefecture | Local civil administration; not an independent prefectural seat |
+| Baixue | City / settlement and service hub | Former prefectural seat; Baixue remains a settlement under Heavenly Script Prefecture | Local civil administration; not an independent prefectural seat |
+| Yuyan | City / settlement and service hub | Former prefectural seat; Yuyan remains a settlement under Heavenly Script Prefecture | Local civil administration; not an independent prefectural seat |
 
 
 ### Named rural villages

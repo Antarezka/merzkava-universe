@@ -1,7 +1,7 @@
 # Golden Dragon Empire — Named Civil Officials and Political Dispositions
 
 **Status:** Owner-authorized canonical NPC roster.  
-**Scope:** Seven central portfolio heads, seven regional governors, 33 prefects and 268 county magistrates, with 13 former prefects and 8 former county magistrates reassigned to consolidated regional/circuit posts.  
+**Scope:** Seven central portfolio heads, seven regional governors, twelve active prefectural offices, and the retained named roster of former prefects and county magistrates during administrative consolidation.  
 **Authority:** Use with `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md` and `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. Territorial names and counts remain governed by the atlas.
 
 ## 1. Power ceiling and canon rules
@@ -11,7 +11,7 @@
 - Spirit Realm and Stage indicate cultivation only; they do not guarantee victory. Martial Souls below are individual identities, not claims that the bearer has every possible ability associated with the creature or object.
 - **Political disposition is a tendency, not a fixed alliance or proof of clan membership.** No character is automatically a secret ally, enemy, corrupt official, or loyalist beyond the traits written here.
 - Each short background, motivation, Martial Soul, Spirit Realm, and stance below is established as a new worldbuilding addition. Private secrets, exact Spirit Rings, combat techniques, family trees, and crimes are not invented by this roster.
-- Central officials: portfolios follow the existing governance file. County magistrates use the county-seat working names in the atlas.
+- Central officials: portfolios follow the existing governance file. Active prefectural and county-circuit offices follow the simplified atlas. Legacy officials remain NPCs; where their former jurisdiction was removed, treat their current office as pending reconciliation unless a reassignment is explicitly recorded.
 
 ## 2. Central government
 
@@ -37,7 +37,9 @@
 | Baiyue (Beiguan) | Baihu Xuefeng | Frostpine Wolf | Spirit Realm 8 — Spirit Sovereign, Peak Stage | berorientasi pada pertahanan; sangat berhati-hati terhadap faksi luar dan penyalahgunaan darurat militer | pernah mengelola suplai benteng perbatasan; memandang diplomasi dan logistik sama pentingnya dengan kekuatan senjata; menjaga kepentingan regional sambil mempertahankan jalur laporan langsung ke takhta. |
 | Xingluo (Dongxing) | Zhenhai Haixiu | Tidecaller Eel | Spirit Realm 8 — Spirit Sovereign, Early Stage | pro-perdagangan maritim, namun menolak monopoli satu keluarga atas pelabuhan | memulai karier di kantor bea pelabuhan dan memahami diplomasi, pelayaran, serta risiko kartel perdagangan; menjaga kepentingan regional sambil mempertahankan jalur laporan langsung ke takhta. |
 
-## 4. Prefects and county magistrates
+## 4. Prefectural Officials and Retained Local Administrators
+
+**Administrative revision:** only twelve prefectures and six county circuits remain in the active register. Names below remain character records, not proof that every former office still exists. Former prefects whose jurisdictions were consolidated remain NPCs and may serve as deputies, inspectors, clerks, commissioners, or former officeholders. Former county magistrates remain NPCs and may serve as local magistrates, circuit deputies, registry officers, judicial clerks, or settlement administrators. Do not erase biographies or invent reassignment, promotion, demotion, death, or political change. If an individual's current position is not reconciled, mark it **pending reconciliation**.
 
 The register names the current 33 prefects and 268 county magistrates. Thirteen former prefects whose jurisdictions were consolidated remain named as regional coordination officers; eight former county magistrates from merged county jurisdictions remain named as circuit liaison officers. Their original backgrounds, Martial Souls, cultivation, and political dispositions are preserved. A political inclination is not formal faction membership.
 

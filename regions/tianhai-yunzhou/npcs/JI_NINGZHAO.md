@@ -27,6 +27,8 @@ Specific current goals, long-term plans, fears, values, and personal boundaries 
 ## 5. Knowledge Boundaries
 Her specific knowledge, mistaken beliefs, and secrets are not established. Her knowledge depends on her own experiences and information received.
 
+- Her mother, Bai Xuanyin, died during the Great Tianhai War, which was one front of the ancient world-calamity incursion. Her father was away serving as an active World Knowledge Tower member during the catastrophe and returned only after completing urgent containment duties. What detailed accounts of the wider incursion she personally knows, and her private response to these events, remain unspecified.
+
 ## 6. Relationships
 | Person | Relationship | Status |
 |---|---|---|

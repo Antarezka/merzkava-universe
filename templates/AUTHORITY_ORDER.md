@@ -39,6 +39,18 @@ Whenever a scene, question, count, or repository edit involves a Golden Dragon E
 
 Binding count: **13 official named villages** and **21 separately classified named hamlets/local settlements**. Only entries classified as official villages in the atlas count toward 13. A hamlet is not an official village. Do not silently promote, remove, merge, rename, or reclassify a settlement; obtain explicit owner approval and synchronize every affected canonical reference first. If a required file cannot be fetched, disclose that and do not claim the check is complete.
 
+## 2B. Mandatory Territorial Canon Loading — All Major Powers
+
+For any gameplay scene, lore answer, audit, or repository edit involving **Golden Dragon Empire, Tianhai Yunzhou, or Beiming Gu**, follow the full `Mandatory Territorial Canon Load Path — All Major Powers` in `INDEX.md` before narrating or editing. Apply the same regional-source discipline to the Lawless Territories when relevant.
+
+- Load `world/CANON_DECISIONS_AND_PRECEDENCE.md`, `world/MAP_AND_REGIONS.md`, `world/WORLD.md`, and the exact regional module for the place involved.
+- Then load the relevant linked authority for government, faction, institution, service, economy, or NPC. For travel, verify the route in the network and origin/destination modules; never assume a direct connection.
+- Do not transfer administrative counts, government structures, institutions, or social rules from one power to another without explicit supporting canon.
+- Beiming regional files marked as scaffolds remain incomplete by design. Treat missing settlements, routes, administration, prices, customs, and NPCs as unconfirmed, not as an invitation to invent permanent canon.
+- Tianhai facts must follow its own regional and linked institutional/governance references; do not automatically apply Golden Dragon Empire rules there.
+- For settlement counts, only the Golden Dragon Empire has the explicit binding baseline of 13 official villages and 21 separately classified named hamlets in its canonical atlas. Do not apply those figures to Tianhai or Beiming.
+- If any required source cannot be accessed, say which one and do not claim the relevant canon check is complete. Never claim to have read a file that was not fetched.
+
 ## 3. Mode Sesi
 
 - **Karakter terdaftar, sesi baru:** baca players.md untuk menemukan file karakter individual, lalu ambil snapshot awal dari players/<Nama>.md. Gunakan modul yang diperlukan untuk kondisi dan aksi awal. Jangan menciptakan riwayat sebelum sesi.

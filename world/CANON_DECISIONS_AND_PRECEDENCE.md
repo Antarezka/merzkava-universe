@@ -61,3 +61,10 @@ When new information is added:
 - The two central academies and educational limits: `core/CULTIVATOR_ACADEMIES.md`
 - Guild contract scope and operating rules: `world/SPIRIT_HUNTERS_GUILD.md`
 - Organization overview: `world/FACTIONS.md`
+
+### 2.X Official Villages and Local Settlements — Binding Count
+
+The Golden Dragon Empire has exactly **13 officially registered named rural villages**. The canonical names, classification, and regional distribution are governed by `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. The atlas separately lists **21 named hamlets/local settlements**; these support local exploration and geography but are not official villages and must not be included in the official-village count.
+
+All seven `world/REGION_*.md` modules must remain consistent with the atlas. When an older or secondary file uses a conflicting count or classification, do not treat the larger list, newer timestamp, or a heading as authority. Preserve useful local places under their correct settlement status and correct the inconsistent reference. Only an explicit owner-approved canon revision may change the official count or promote a hamlet to an official village; such a revision must update the atlas first and synchronize every affected regional module, INDEX routing note, and dependent reference. Until then, **13 official villages + 21 separately classified named hamlets/local settlements** is the binding baseline.
+

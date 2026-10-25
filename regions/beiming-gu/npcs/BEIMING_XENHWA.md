@@ -29,7 +29,9 @@ Her specific long-term goals, fears, personal plans, and ordinary daily agenda a
 ## 5. Knowledge Boundaries
 Her sensitive senses detected Beiming Jingheng's approach during the established nighttime incident. Do not extend this into omniscience or claim she can detect everything without a relevant cause.
 
-**GM-sensitive knowledge:** Beiming Xenhwa is among the very few who know that Beiming Han's scar was left long ago by an ancient Heavenly Beast rank 9 in Azerion Forest (within the deepest core zone humans call the Dead Zone): a colossal dragon with a deer-like head, enormous branching antlers, and deep-blue eyes. The circumstances that gave her this knowledge, the exact date, and the beast's name are not established. Do not invent how she learned it or reveal that she knows this unless a scene or source makes it appropriate.
+**GM-sensitive knowledge:** Beiming Xenhwa is among the very few who know that Beiming Han's scar was left by a rank-9 Heavenly Beast in Azerion Forest's Dead Zone: a colossal dragon with a deer-like head, enormous branching antlers, and deep-blue eyes. The beast was originally a Demonic Beast that descended during the ancient world-calamity incursion; Beiming Han subdued it and purified its mind, after which its existence rose to become a Heavenly Beast. The exact date, beast's name, and full purification process remain unknown. Do not reveal this history through ordinary public dialogue or narration unless the character's knowledge and the scene justify it.
+
+**GM-sensitive family history:** Xenhwa is the daughter of Beiming Han's close friend, a white nine-tailed fox woman who died during the same catastrophe. Beiming Han rescued Xenhwa and later adopted her. Her mother's personal name, exact death circumstances, and the details of the rescue remain unestablished. This is not common public knowledge; do not disclose it to characters who have no credible way to know it.
 
 ## 6. Relationships
 | Person / group | Relationship | Current status / basis |

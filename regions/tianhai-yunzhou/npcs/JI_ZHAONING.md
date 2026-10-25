@@ -30,6 +30,8 @@ Ji Zhaoning is the elder twin daughter of Maharaja Ji Haoyuan and the late Bai X
 ## 5. Knowledge Boundaries
 Her specific knowledge, mistaken beliefs, and secrets are not established. Her knowledge depends on her own studies and information received.
 
+- Her mother, Bai Xuanyin, died during the Great Tianhai War, which was one front of the ancient world-calamity incursion. Her father was away serving as an active World Knowledge Tower member during the catastrophe and returned only after completing urgent containment duties. What detailed accounts of the wider incursion she personally knows, and her private response to these events, remain unspecified.
+
 ## 6. Relationships
 | Person | Relationship | Status |
 |---|---|---|

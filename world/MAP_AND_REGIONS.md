@@ -17,7 +17,7 @@ Golden Dragon Empire lies in the east, Tianhai Yunzhou floats above the southwes
 
 ## 2. Golden Dragon Empire — Eastern Regions
 
-The Empire's seven major regions are established in `world/WORLD.md`:
+The Golden Dragon Empire's seven major regions are established in `world/WORLD.md`:
 
 | Region | Population estimate | Approx. area | Average density | Development/access tier | Administrative seat | Prefectures | County circuit | Use in play |
 |---|---:|---|---|---:|---|---|

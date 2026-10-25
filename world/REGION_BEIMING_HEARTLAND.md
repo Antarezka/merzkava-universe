@@ -50,6 +50,8 @@ For each settlement or site, fill in details only when confirmed:
 | Belum ditetapkan | — | — | — | — |
 
 ## 8. Regional NPC Registry
+
+Canonical character reference: `world/NPC_BEIMING_FAMILY.md` records Beiming Han, Beiming Xenhwa, Beiming Jingheng, and their confirmed incident. Their exact residence or current placement within Beiming Gu is not established by that profile; do not infer a specific settlement.
 Use `templates/NPC_PROFILE_TEMPLATE.md` for named NPC profiles. Do not reveal hidden identities before a credible in-world discovery.
 
 | Name / public identity | Location | Role | Public traits | Profile link / source |

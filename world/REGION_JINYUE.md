@@ -28,7 +28,7 @@
 - **Cities:** Not separately counted in the simplified register; former seats remain settlements or service hubs.
 - **Small towns:** Not a separate official administrative tier.
 - **Official named rural villages in this region:** 2
-- **Other rural settlements:** Unenumerated; do not generate or count thousands of named villages by default
+- **Other rural settlements:** Additional named hamlets/local settlements are listed separately below; all other rural settlements remain unenumerated
 - **Full official register:** `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
 
 Prefectures and seats:

@@ -46,13 +46,14 @@ Binding count: **13 official named villages** and **21 separately classified nam
 For any gameplay scene, lore answer, audit, or repository edit involving **Golden Dragon Empire, Tianhai Yunzhou, or Beiming Gu**, follow the full `Mandatory Territorial Canon Load Path — All Major Powers` in `INDEX.md` before narrating or editing. Apply the same regional-source discipline to the Lawless Territories when relevant.
 
 - Resolve which of the three major powers owns the location: Golden Dragon Empire, Tianhai Yunzhou, or Beiming Gu. These are in-repo regional folders, not separate GitHub repositories.
-- Read the relevant regional INDEX and exact local settlement/area module from `regions/<power>/` within `Antarezka/merzkava-universe`. Use that power's NPC registry for broader roster checks and open the canonical NPC profile from the same in-repo regional folder when relevant.
+- Use the central `INDEX.md` to locate the exact canonical `world/REGION_*.md` module for the scene; this is the primary regional source for established location and settlement context. Use `regions/<power>/INDEX.md` and `regions/<power>/npcs/REGISTRY.md` for NPC navigation and broader roster checks, then open only the canonical NPC profile relevant to the scene. Do not assume settlement/area modules live under `regions/<power>/` unless the index explicitly links them there.
 - Use `world/CANON_DECISIONS_AND_PRECEDENCE.md`, `world/MAP_AND_REGIONS.md`, `world/WORLD.md`, and the exact regional/world modules as applicable. There is no external-repository migration step.
 - Then load the relevant authority for government, faction, institution, service, economy, or NPC. For travel, verify the route and any intermediate transfers; never assume a direct connection.
 - Do not transfer administrative counts, government structures, institutions, or social rules from one power to another without explicit supporting canon.
 - Beiming Gu regional files marked as scaffolds remain incomplete by design. Treat missing settlements, routes, administration, prices, customs, and NPCs as unconfirmed, not as an invitation to invent permanent canon.
 - Tianhai Yunzhou facts must follow its own regional and linked institutional/governance references; do not automatically apply Golden Dragon Empire rules there.
 - For settlement counts, only the Golden Dragon Empire has the explicit binding baseline of 13 official villages and 21 separately classified named hamlets in its canonical atlas. Do not apply those figures to Tianhai Yunzhou or Beiming Gu.
+- Load only the sources relevant to the current question or scene; the full territorial path is a routing checklist, not an instruction to read every region and every NPC profile on every turn. Read all seven Golden Dragon Empire regional modules only for empire-wide counts, cross-region audits, or roster edits as specified in `INDEX.md`.
 - If any required source cannot be accessed, say which one and do not claim the relevant canon check is complete. Never claim to have read a file that was not fetched.
 
 ## 3. Mode Sesi
@@ -74,7 +75,7 @@ Pesan pemain yang meminta analisis INDEX.md dan players.md untuk memulai permain
 - Sebelum respons gameplay pertama, baca `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` dan `templates/CHARACTER_PROFILE_TEMPLATE.md`. Format gameplay canonical bersifat wajib, bukan rekomendasi.
 - Validasi semua data snapshot yang harus dibawa ke profil: latar belakang relevan, equipment, inventory, `Assets Bangunan`, Currency, relasi, lokasi, status, serta catatan yang berlaku. Jangan hilangkan data karena tidak pas dengan format ringkas.
 - Jangan mengganti nilai yang sudah tercatat dengan `???`. Untuk nilai yang memang belum ditetapkan, gunakan prosedur modul resmi dan tandai estimasi secara jujur.
-- Untuk sesi baru, tentukan lokasi dari snapshot/input lalu baca modul world/lokasi terkait. Periksa `world/DYNAMIC_EVENTS.md` sebelum adegan pertama dan pada setiap giliran.
+- Untuk sesi baru, tentukan lokasi dari snapshot/input lalu baca modul world/lokasi terkait. Periksa `world/DYNAMIC_EVENTS.md` sebelum adegan pertama dan pada setiap giliran. Muat hanya event dan modul yang relevan dengan karakter, lokasi, waktu, serta aksi; jangan membaca seluruh repository sekaligus.
 - Jangan menampilkan daftar file yang dibaca atau laporan bootstrap sebagai pengganti respons gameplay. Jika file wajib gagal diakses, ungkapkan batasan yang spesifik dan jangan berpura-pura bootstrap berhasil sepenuhnya.
 
 ## 3B. Urutan Wajib Sebelum Menulis Respons (HARD GATE)
@@ -116,7 +117,7 @@ Untuk combat, termasuk cakupan aksi, serangan beruntun, multi-hit, damage, perta
 ## 5. State, Waktu, dan Konsistensi
 
 - Waktu, timestamp, batas durasi, serta time skip mengikuti `gameplay/TIME_AND_ACTION_RULES.md`.
-- Satiety, jadwal makan, pengurangan saat terjaga, pengali jam makan terlewat, metabolisme Spirit Realm, dan pengubah kondisi tubuh hanya mengikuti `core/HUNGER_AND_METABOLISM.md`. Setiap kali waktu aktif berlalu atau karakter makan, hitung dan perbarui `Satiety: nilai/100` sesuai modul itu. Tidur malam yang dilindungi mengunci Satiety dan boleh melewati batas aksi biasa 3 jam; jangan mengurangi Satiety selama tidur itu.
+- Satiety, jadwal makan, pengurangan saat terjaga, pengali jam makan terlewat, metabolisme Spirit Realm, dan pengubah kondisi tubuh hanya mengikuti `core/HUNGER_AND_METABOLISM.md`. Setiap kali waktu aktif berlalu atau karakter makan, hitung dan perbarui `Satiety: nilai/100` sesuai modul itu. Jika snapshot lama belum memiliki field Satiety, gunakan estimasi awal GM yang wajar untuk sesi baru, lalu lanjutkan perhitungan hanya menurut modul tersebut; jangan mengubah file snapshot hanya untuk mengisi state sesi. Tidur malam yang dilindungi mengunci Satiety dan boleh melewati batas aksi biasa 3 jam; jangan mengurangi Satiety selama tidur itu.
 - Sifat bawaan tubuh yang sudah tercatat boleh memengaruhi cara lapar, lelah, atau tekanan fisik terlihat dan ditoleransi dalam narasi. Jangan menghapus kebutuhan biologis, memberi kekebalan penuh, atau mengubah angka Satiety tanpa aturan numerik resmi; jangan pula memaksakan gejala standar jika sifat tercatat jelas memengaruhi manifestasinya.
 - `Day left` hanya menghitung jeda minimum antarpenyerapan Spirit Ring yang berhasil, bukan timer umum breakthrough kultivasi. Ikuti `templates/CHARACTER_PROFILE_TEMPLATE.md` serta interval resmi di `bestiary/SPIRIT_BEAST_RULES.md`. Selesainya jeda waktu saja tidak menjamin breakthrough atau penyerapan ring berhasil.
 - HP dan injury adalah state terpisah; gunakan core/HP_SYSTEM.md dan core/INJURY_SYSTEM.md.

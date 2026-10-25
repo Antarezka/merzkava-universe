@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="310" viewBox="0 0 960 310" role="img" aria-labelledby="title desc">
+<title id="title">Merzkava Universe</title>
+<desc id="desc">A graphic header in warm orange, black, yellow, coral, and white.</desc>
+<rect width="960" height="310" fill="#FFFFFF"/>
+<rect x="20" y="20" width="920" height="270" fill="#FFB36B" stroke="#151515" stroke-width="5"/>
+<rect x="20" y="20" width="920" height="48" fill="#151515"/>
+<text x="48" y="51" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="4">FIELD NOTES  /  EASTERN FANTASY</text>
+<rect x="48" y="91" width="12" height="134" fill="#F25C54"/>
+<text x="82" y="151" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="900" letter-spacing="1">MERZKAVA</text>
+<text x="82" y="204" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900" letter-spacing="2">UNIVERSE</text>
+<rect x="82" y="229" width="255" height="38" fill="#FFE066" stroke="#151515" stroke-width="2"/>
+<text x="96" y="254" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="900" letter-spacing="1">A WORLD IN MOTION</text>
+<rect x="730" y="91" width="165" height="165" fill="#FFFFFF" stroke="#151515" stroke-width="4"/>
+<rect x="750" y="111" width="125" height="34" fill="#F25C54"/>
+<rect x="750" y="155" width="125" height="34" fill="#FFE066"/>
+<rect x="750" y="199" width="125" height="34" fill="#151515"/>
+<text x="812" y="133" text-anchor="middle" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="900">DISCOVER</text>
+<text x="812" y="177" text-anchor="middle" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="900">QUESTION</text>
+<text x="812" y="221" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="900">EXPLORE</text>
+</svg>

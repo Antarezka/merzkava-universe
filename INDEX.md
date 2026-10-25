@@ -19,7 +19,7 @@ Struktur wilayah yang dimaksud adalah **tepat tiga kekuasaan besar**, bukan satu
 - `merzkava-universe` tetap menjadi repo pusat: indeks global, aturan/mekanik lintas wilayah, template, canon global, dan tautan ke tiga repo kekuasaan besar.
 - Pola navigasi mengikuti `world/REGIONAL_REPOSITORY_ARCHITECTURE.md` dan pendekatan hub-and-spoke `inggo-alvn/Core`: INDEX pusat → repo kekuasaan yang sesuai → INDEX lokal → modul lokasi/permukiman dan registry NPC → profil NPC relevan.
 - Jangan membuat atau menebak URL repositori. Tautan harus mengarah ke repositori nyata dan diverifikasi sebelum dipakai.
-- **Status implementasi:** dokumen pusat sudah direvisi agar mengikuti struktur tiga kekuasaan besar. URL ketiga repo wilayah belum dapat diverifikasi dari repositori yang terhubung pada sesi ini, jadi pemindahan file kanonis belum dilakukan. File `world/REGION_*.md` dan `world/NPC_*.md` yang ada masih menjadi sumber legacy sementara; jangan menghapus atau menimpanya sebelum tujuan dan isi hasil migrasi diverifikasi.
+- **Status implementasi:** profil lengkap NPC yang sudah terverifikasi kini dipindahkan ke folder staging `regions/golden-dragon-empire/npcs/` dan `regions/tianhai-yunzhou/npcs/`, masing-masing dengan INDEX dan registry; Beiming Gu memiliki INDEX/registry tanpa NPC bernama yang dikarang. Path lama `world/NPC_*.md` sekarang hanya pointer kompatibilitas. Ketiga folder staging masih berada di repo pusat karena repositori GitHub wilayah terpisah belum tersedia/terverifikasi; jangan mengklaim pemisahan tiga repo sudah selesai.
 
 ## 0. Prosedur Bootstrap (WAJIB)
 
@@ -255,6 +255,9 @@ The three canonical repository boundaries are **Golden Dragon Empire, Tianhai Yu
 
 
 ### Regional structure, NPCs, and route network
+- Golden Dragon Empire NPC staging INDEX and registry — `regions/golden-dragon-empire/INDEX.md` and `regions/golden-dragon-empire/npcs/REGISTRY.md`
+- Tianhai Yunzhou NPC staging INDEX and registry — `regions/tianhai-yunzhou/INDEX.md` and `regions/tianhai-yunzhou/npcs/REGISTRY.md`
+- Beiming Gu NPC staging INDEX and registry — `regions/beiming-gu/INDEX.md` and `regions/beiming-gu/npcs/REGISTRY.md`
 
 - Location and route network rules — `world/LOCATION_AND_ROUTE_NETWORK.md`
 - NPC agency, regional placement, and continuity — `world/NPC_MANAGEMENT.md`

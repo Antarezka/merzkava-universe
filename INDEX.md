@@ -194,6 +194,10 @@ Regional modules are divided according to the established geography in `world/MA
 
 ### Tianhai Yunzhou
 - Tianhai Yunzhou — `world/REGION_TIANHAI_YUNZHOU.md`
+- Maharaja Ji Haoyuan — `world/NPC_JI_HAOYUAN.md`
+- Bai Xuanyin, revered Tianhai heroine — `world/NPC_BAI_XUANYIN.md`
+- Ji Zhaoning, elder twin princess — `world/NPC_JI_ZHAONING.md`
+- Ji Ningzhao, younger twin princess — `world/NPC_JI_NINGZHAO.md`
 
 ### Beiming Gu
 - Beiming Heartland — `world/REGION_BEIMING_HEARTLAND.md`

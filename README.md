@@ -1,24 +1,36 @@
-<!-- MERZKAVA UNIVERSE — LIGHT ORANGE EDITION
-Palette: #FFB36B / #151515 / #FFFFFF
-Public-facing teaser wall. Keep deep lore and operational details inside the archive.
+<!-- MERZKAVA UNIVERSE | PUBLIC NOTICEBOARD
+LIGHT ORANGE EDITION
+Primary: #FFB36B | Ink: #151515 | Paper: #FFFFFF
+Accents: #FFE066 (warm yellow) | #F25C54 (coral red)
+Teasers only. Deep lore and operational details stay in the archive.
 -->
 
 <div align="center">
 
-# ▰ MERZKAVA UNIVERSE
+![MERZKAVA / ORANGE](https://img.shields.io/badge/MERZKAVA-FFB36B?style=for-the-badge&labelColor=151515)
+![FIELD NOTES](https://img.shields.io/badge/FIELD_NOTES-FFE066?style=for-the-badge&labelColor=151515)
+![VOL 01](https://img.shields.io/badge/VOL._01-F25C54?style=for-the-badge&labelColor=151515)
+
+<pre>
+███╗   ███╗███████╗██████╗ ███████╗██╗  ██╗ █████╗ ██╗   ██╗ █████╗
+████╗ ████║██╔════╝██╔══██╗╚══███╔╝██║ ██╔╝██╔══██╗██║   ██║██╔══██╗
+██╔████╔██║█████╗  ██████╔╝  ███╔╝ █████╔╝ ███████║██║   ██║███████║
+██║╚██╔╝██║██╔══╝  ██╔══██╗ ███╔╝  ██╔═██╗ ██╔══██║╚██╗ ██╔╝██╔══██║
+██║ ╚═╝ ██║███████╗██║  ██║███████╗██║  ██╗██║  ██║ ╚████╔╝ ██║  ██║
+╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝
+</pre>
+
+# MERZKAVA UNIVERSE
 
 ### A WORLD THAT DOESN'T WAIT FOR YOU.
 
-![EASTERN FANTASY](https://img.shields.io/badge/EASTERN_FANTASY-FFB36B?style=for-the-badge&labelColor=151515)
-![CULTIVATION](https://img.shields.io/badge/CULTIVATION-FFB36B?style=for-the-badge&labelColor=151515)
-![LIVING WORLD](https://img.shields.io/badge/LIVING_WORLD-FFB36B?style=for-the-badge&labelColor=151515)
+**THREE GREAT POWERS · COUNTLESS PATHS · NO GUARANTEED ENDING**
 
-*Three great powers. Countless paths. A world full of things you haven't discovered yet.*
+![EASTERN FANTASY](https://img.shields.io/badge/EASTERN_FANTASY-FFB36B?style=flat-square&labelColor=151515)
+![CULTIVATION](https://img.shields.io/badge/CULTIVATION-FFE066?style=flat-square&labelColor=151515)
+![WORLD IN MOTION](https://img.shields.io/badge/WORLD_IN_MOTION-F25C54?style=flat-square&labelColor=151515)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**FIELD NOTES / VOL. 01**  
-*Not everything worth knowing belongs on the noticeboard.*
+*An invitation to look closer. Not a map of everything you'll find.*
 
 </div>
 
@@ -26,117 +38,105 @@ Public-facing teaser wall. Keep deep lore and operational details inside the arc
 
 ## ▰ THE NOTICEBOARD
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  01 / THE WORLD                                      ┃
+┃                                                      ┃
+┃  Three powers. Different values, different ambitions.┃
+┃  One world does not mean one way to live.            ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
 
-### 🐉 THREE POWERS, THREE WAYS OF LIFE
+<pre>
+┌──────────────────────────────┐
+│ 02 / BEYOND THE KNOWN MAP    │
+│                              │
+│ Some places are easy to find.│
+│ Others prefer to stay hidden.│
+└──────────────────────────────┘
+</pre>
 
-Different values. Different ambitions. Different ideas of what makes someone powerful.
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  03 / POWER HAS A PRICE                            ⚔ ┃
+┃                                                      ┃
+┃  Strength can open a door. It cannot promise what's  ┃
+┃  waiting on the other side—or undo every mistake.    ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
 
-**One world doesn't mean one way to live.**
+<pre>
+┌──────────────────────────────────────────────────────┐
+│ 04 / ANOTHER KIND OF GENIUS                          │
+│                                                      │
+│ Not every breakthrough begins with cultivation.     │
+│ Some are made by the hands—and minds—of builders.    │
+└──────────────────────────────────────────────────────┘
+</pre>
 
-</td>
-<td width="50%" valign="top">
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  05 / THE WORLD HAS ITS OWN CALENDAR              🏮 ┃
+┃                                                      ┃
+┃  Journeys, trade, festivals, and rivalries continue  ┃
+┃  even when your own story takes a different turn.    ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
 
-### 🌫️ BEYOND THE KNOWN MAP
-
-Some places are easy to find. Others have good reasons not to be found at all.
-
-**The map is an invitation, not a promise.**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚔️ POWER HAS A PRICE
-
-Cultivation can open doors—but strength alone won't solve every problem, win every ally, or erase every mistake.
-
-**Every path leaves a trace.**
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ ANOTHER KIND OF GENIUS
-
-In a world shaped by Martial Souls and Spirit Beasts, there are minds that build power in very different ways.
-
-**Not every breakthrough comes from cultivation.**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏮 THE WORLD HAS ITS OWN CALENDAR
-
-Trade, festivals, rivalries, journeys, and changing circumstances continue beyond a single person's story.
-
-**The world won't freeze while you look away.**
-
-</td>
-<td width="50%" valign="top">
-
-### 📜 RUMORS AREN'T THE TRUTH
-
-A familiar name may hide a complicated history. A confident claim may be wrong. Some answers take more than asking once.
-
-**Discover. Verify. Decide what to believe.**
-
-</td>
-</tr>
-</table>
+<pre>
+┌──────────────────────────────┐
+│ 06 / RUMORS ≠ THE TRUTH      │
+│                              │
+│ Look closer. Ask twice.      │
+│ Decide what deserves belief. │
+└──────────────────────────────┘
+</pre>
 
 ---
 
-## ▰ PINNED TO THE BOARD
+## ▰ NOTES LEFT ON THE BOARD
 
 <details>
 <summary><strong>✦ A gathering shared by three great powers</strong></summary>
 
-Every six in-world months, a recurring festival brings the wider world into view through regional goods, cultural displays, friendly sparring, and lantern-lit wishes. Its host and atmosphere can change; the world around it doesn't have to be peaceful just because a festival is underway.
+A recurring festival brings regional goods, cultural displays, friendly sparring, and lantern-lit hopes into the same place. Its host and atmosphere can change—and a celebration doesn't make the wider world stop being complicated.
 
 </details>
 
 <details>
-<summary><strong>✦ More than a journey from A to B</strong></summary>
+<summary><strong>✦ Every route has a story</strong></summary>
 
-Routes, local conditions, transport, and the people encountered along the way matter. Not every place is equally connected—and not every encounter is waiting to become a battle.
+The world isn't one connected hallway. Routes, transport, local conditions, and the people you meet can shape the journey as much as the destination.
 
 </details>
 
 <details>
-<summary><strong>✦ A story with consequences</strong></summary>
+<summary><strong>✦ No story is held together by plot armor</strong></summary>
 
-Characters have their own priorities. Opportunities can be missed, relationships can change, and dangerous choices can have lasting outcomes. The world is not built to guarantee a particular ending.
+Characters have their own priorities. Opportunities can pass, relationships can shift, and choices can carry consequences. The world doesn't promise a particular ending.
 
 </details>
 
 ---
 
-## ▰ YOUR NEXT LEAD
-
 <div align="center">
 
-| **FOLLOW THE TRAIL** | **OPEN THE ARCHIVE** |
-|:---:|:---:|
-| Start with the world's official entry point. | Browse the underlying world and gameplay records. |
-| [**OPEN INDEX.md →**](INDEX.md) | [**EXPLORE WORLD LORE →**](world/WORLD.md) |
+![LOOK CLOSER](https://img.shields.io/badge/LOOK_CLOSER-FFB36B?style=for-the-badge&labelColor=151515)
+![FOLLOW THE TRAIL](https://img.shields.io/badge/FOLLOW_THE_TRAIL-FFE066?style=for-the-badge&labelColor=151515)
+![OPEN THE ARCHIVE](https://img.shields.io/badge/OPEN_THE_ARCHIVE-F25C54?style=for-the-badge&labelColor=151515)
 
-<sub>Want to see how the world is structured? The repository contains the deeper records—this front page is only the noticeboard.</sub>
+### YOUR NEXT LEAD
 
-</div>
+[**OPEN THE INDEX →**](INDEX.md) &nbsp; · &nbsp; [**ENTER THE WORLD ARCHIVE →**](world/WORLD.md)
+
+<sub>The board gives you clues. The repository holds the deeper records.</sub>
 
 ---
-
-<div align="center">
 
 **INVESTIGATION FILE // MERZKAVA UNIVERSE**
 
-<sub>LIGHT ORANGE EDITION · #FFB36B / #151515 / #FFFFFF</sub>
+<sub>LIGHT ORANGE EDITION · #FFB36B / #151515 / #FFFFFF / #FFE066 / #F25C54</sub>
 
-*Look closer. The first impression is rarely the whole story.*
+*The first impression is rarely the whole story.*
 
 </div>

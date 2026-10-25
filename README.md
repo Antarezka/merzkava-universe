@@ -36,6 +36,7 @@
 | [Golden Dragon Empire Governance](world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md) | Civil hierarchy, central ministries, regional administration, military command, and information-storage rules |
 | [Golden Dragon Empire Administrative Atlas](world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md) | Simplified register of 7 regions, 12 prefectures, 6 county circuits, and 13 named rural villages |
 | [Map & Regions](world/MAP_AND_REGIONS.md) | Regional index and geographic knowledge boundaries |
+| [Regional Architecture](world/REGIONAL_REPOSITORY_ARCHITECTURE.md) | How the three major powers are organized inside this single repository |
 | [Geography & Travel](world/GEOGRAPHY_AND_TRAVEL.md) | Terrain, transportation, travel, and route information |
 | [Wanluo Sacred Expanse](world/WANLUO_SACRED_EXPANSE.md) | World Knowledge Tower region, pilgrimage roads, districts, and Ordo Suci Tianming |
 | [Intelligent Peoples](world/INTELLIGENT_PEOPLES.md) | Peoples, traits, and social context |

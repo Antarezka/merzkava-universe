@@ -14,7 +14,7 @@
 ## 2. Public Profile
 - Appearance: Not established.
 - Public personality: Visionary leader.
-- Public background: Rules Tianhai Yunzhou, centered on a giant floating island. The Tier 9 Artificial Artifact that sustains the island was created by one of his ancestors, not by Ji Haoyuan. During the ancient world-calamity incursion, Ji Haoyuan was an active member serving the World Knowledge Tower and was away from Tianhai Yunzhou when Bai Xuanyin died in the Great Tianhai War. He completed his urgent Tower obligations through the containment period, then ended his active service and returned to Tianhai Yunzhou after learning of her death.
+- Public background: Rules Tianhai Yunzhou, centered on a giant floating island. The Tier 9 Artificial Artifact that sustains the island was created by one of his ancestors, not by Ji Haoyuan. During the ancient world-calamity incursion, Ji Haoyuan was an active member serving the World Knowledge Tower and was away from Tianhai Yunzhou when Bai Xuanyin died in the Great Tianhai War. He learned of her death while still serving the Tower and resolved to end his active service. He nevertheless remained on duty until the immediate threat was suppressed and the surviving Demonic Beasts had become scattered across the world, then returned to Tianhai Yunzhou.
 - Reputation: Visionary ruler; further details not established.
 
 ## 3. Capabilities

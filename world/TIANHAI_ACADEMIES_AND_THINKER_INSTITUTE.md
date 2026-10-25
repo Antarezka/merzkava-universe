@@ -2,7 +2,7 @@
 
 **Status:** Canon established from the owner's regional direction.
 **Scope:** Cardinal geography of the giant floating island, placement of its twelve clans, four Cultivator Academies, and the exclusive high-level Thinker research institution.
-**Related sources:** `world/REGION_TIANHAI_YUNZHOU.md`, `world/NPC_TIANHAI_POWER_STRUCTURE.md`, `world/FACTIONS.md`, `core/CULTIVATOR_ACADEMIES.md`, `core/THINKER_AND_FORMULATION.md`.
+**Related sources:** `world/REGION_TIANHAI_YUNZHOU.md`, `../regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`, `world/FACTIONS.md`, `core/CULTIVATOR_ACADEMIES.md`, `core/THINKER_AND_FORMULATION.md`.
 
 ## 1. Four cardinal areas of the floating island
 
@@ -77,7 +77,7 @@ The institute is a research and standards center, not a magical source of automa
 
 The four academies provide broad cultivator education and may identify students suited to further Thinker study. The Tianhai Thinker Institute provides advanced specialist research, training pathways, assessment, and technical standards. Admission to an academy does not automatically grant admission to the institute, access to restricted research, the title of Formation Engraver, or a Thinker Grade.
 
-The Tianhai Thinker Institute and its existing roster of officials remain governed by `world/NPC_TIANHAI_POWER_STRUCTURE.md`. Its previously established directorates for formulation examination, materials and provenance, applied research, artifact quality inspection, workshop safety, and credentials are interpreted as parts of this expanded mandate; this document does not create extra officeholders or assign new Thinker Grades.
+The Tianhai Thinker Institute and its existing roster of officials remain governed by `../regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`. Its previously established directorates for formulation examination, materials and provenance, applied research, artifact quality inspection, workshop safety, and credentials are interpreted as parts of this expanded mandate; this document does not create extra officeholders or assign new Thinker Grades.
 
 ## 5. Canon boundaries
 

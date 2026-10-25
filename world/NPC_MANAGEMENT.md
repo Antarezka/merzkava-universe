@@ -56,7 +56,7 @@ A detailed profile has exactly one canonical home. Regional, settlement, institu
 
 ### C. Where detailed profiles live
 
-For the current central repository, preserve existing `world/NPC_<NAME>.md` files as legacy canonical profiles until a verified migration occurs. Do not create a second profile for an NPC merely because their local table is missing.
+Canonical full profiles for the currently established named NPCs have been relocated into `regions/golden-dragon-empire/npcs/` and `regions/tianhai-yunzhou/npcs/`. The old `world/NPC_<NAME>.md` paths are compatibility pointers only; edit the regional canonical file, not the pointer. These folders are staging locations inside the central repository, not separate GitHub repositories. Do not create a second profile merely because a local table is missing.
 
 For each future verified major-power repository, use:
 - `npcs/REGISTRY.md` — local directory grouped by region/settlement and role, with one row per important or recurring NPC.

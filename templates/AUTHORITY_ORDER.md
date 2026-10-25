@@ -46,7 +46,7 @@ Binding count: **13 official named villages** and **21 separately classified nam
 For any gameplay scene, lore answer, audit, or repository edit involving **Golden Dragon Empire, Tianhai Yunzhou, or Beiming Gu**, follow the full `Mandatory Territorial Canon Load Path — All Major Powers` in `INDEX.md` before narrating or editing. Apply the same regional-source discipline to the Lawless Territories when relevant.
 
 - Resolve which of the three major-power repositories owns the location: Golden Dragon Empire, Tianhai Yunzhou, or Beiming Gu. Do not treat each subregion as a separate repository.
-- After migration, load that power's repository INDEX, then the exact local settlement/area module and its NPC registry. Open canonical NPC profiles from that same power repository when relevant.
+- After migration, load that power's repository INDEX, then the exact local settlement/area module and the NPC table beside the relevant location/faction heading. Use that power's NPC registry for broader roster checks, and open the one canonical NPC profile from that same power repository when relevant.
 - Until the three repositories are verified and migrated, use the corresponding legacy modules in the central repo as temporary sources: `world/CANON_DECISIONS_AND_PRECEDENCE.md`, `world/MAP_AND_REGIONS.md`, `world/WORLD.md`, and the exact regional module.
 - Then load the relevant authority for government, faction, institution, service, economy, or NPC. For travel, verify the route and any intermediate transfers; never assume a direct connection.
 - Do not transfer administrative counts, government structures, institutions, or social rules from one power to another without explicit supporting canon.

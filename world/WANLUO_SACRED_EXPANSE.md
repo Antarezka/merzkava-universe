@@ -145,6 +145,14 @@ The organization operates through a broad network rather than relying solely on 
 
 Ruined Archiver members wear matching light-brown uniforms. Its internal rank names and staffing structure remain unspecified. Other branch names, leaders, rank structure, doctrine, ritual specifics, fees, formal membership requirements, and combat capabilities remain unestablished unless recorded in a specific authority file.
 
+### 7.5 World Knowledge Tower and the Anomaly-Response Alliance
+
+The World Knowledge Tower is an ancient divine relic from the Early Golden Age. The Tower administration council retains responsibility for the relic's access, protection, upkeep, and authorized study; the Shen family is one of several parties entrusted with rights and responsibilities in that administration.
+
+Separately, Ordo Suci Tianming works with the World Knowledge Tower and an alliance of elite envoys from the Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu to monitor threats to the world's survival. These envoys are a small, exceptionally powerful intervention group with a mandate to seal or destroy dangerous anomalies when evidence and threat assessment warrant it. The alliance's formal name, full roster, internal ranks, and detailed procedures remain unestablished. This arrangement does not mean the Ordo owns the Tower, that the Shen family owns it, or that the alliance has unlimited civil authority in every territory.
+
+The ancient world-calamity incursion—when extreme anomalies opened gates to other worlds and Demonic Beasts of tiers 7–9 descended across the world—is the historical reason for this early-warning and response arrangement. The Ordo's Ruined Archiver branch gathers and verifies information from Golden Age Ruined because an unrecognized anomaly inside a ruin could grow into a world-level threat. See world/HISTORY.md and world/RUINED_ARCHIVER.md.
+
 ## 8. Lore and GM Consistency Rules
 
 - Do not conflate the World Knowledge Tower, Wanluo Sacred Expanse, and Sanctum of Ten Thousand Vows. They are respectively the ancient divine relic, the surrounding sacred region, and the religious organization's headquarters.

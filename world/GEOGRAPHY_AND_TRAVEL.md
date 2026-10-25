@@ -29,8 +29,9 @@ Ruins from past eras are scattered throughout the world, including remote wilder
 - Horses and domesticated or trained beasts are common means of individual travel.
 - Caravans may be pulled by land beasts; specialized caravans may also use flying beasts.
 - Ships serve maritime routes.
-- Flying ships exist where powered by a **Tier 5 or higher Artificial Artifact of the Utilities type with a Levitation function**. This establishes a technology threshold, not universal availability: cost, operators, fuel or energy needs, capacity, speed, maintenance, and route access remain specific to each documented vessel.
-- **Tianhai Yunzhou's urban transit:** Tianhai has automated trains running on dedicated guideways, powered by Artificial Artifact engines using a specialized liquefied energy refined from energy-bearing stone/metal ores. This is a regional system, not a world-standard transport mode. It requires compatible engines, guideways, stations, trained maintenance staff, and reliable fuel distribution; only documented Tianhai corridors should be assumed to exist.
+- Ordinary flying ships exist where powered by a **Tier 5 or higher Artificial Artifact of the Utilities type with a Levitation function**; in common operation, these are distinct from the Qi-propelled flying ships used by cultivators and established carriers. The label “flying ship” alone does not establish its power source, capacity, fare, or route.
+- **Tianhai's long-distance energy-aircraft:** Tianhai operates a separate high-capacity passenger transport class powered by its refined liquefied energy, not by Qi. These Artificial Artifact aircraft use dedicated service corridors from Longyuan Sky Transit Terminal in the Golden Dragon Empire and Beiming Heartland Sky Transit Terminal in Beiming Gu to Cangqiong Sky Transit Terminal in Tianhai. Their approved standard round-trip fare is 25 xc per passenger; a comparable round trip on an ordinary Qi-powered flying ship costs 86 xc per passenger. Exact flight times, capacity figures, schedules, and fleet size remain unknown. These routes depend on Tianhai's specialized refining and distribution system and are not available everywhere.
+- **Tianhai Yunzhou's urban transit:** Tianhai has automated trains running on dedicated guideways, powered by Artificial Artifact engines using the same specialized liquefied energy refined from energy-bearing stone/metal ores. This is a regional system, not a world-standard transport mode. It requires compatible engines, guideways, stations, trained maintenance staff, and reliable fuel distribution; only documented Tianhai corridors should be assumed to exist.
 - **Tianhai's urban utilities:** Artificial Artifacts also support selected public infrastructure and industrial functions, contributing to a modern, technically dense urban character. Do not infer that every home or settlement has equal access to advanced utilities.
 - Other transport systems may exist, but must be established in canon before being treated as standard.
 
@@ -42,8 +43,8 @@ Use `gameplay/TIME_AND_ACTION_RULES.md` for travel-time resolution. Transport ty
 2. Keep sea names `???` until the world owner names them.
 3. Treat higher-tier beast density in remote wilderness as a tendency, not an absolute rule.
 4. Ruins may contain records, dangers, empty chambers, or nothing recoverable; do not presume rewards.
-5. Do not treat flying ships as common household transport. Their existence depends on the specified Artificial Artifact technology and documented access.
-6. Tianhai's automated trains and refined liquefied-energy network are regional technologies; do not automatically place them in other powers or assume compatibility with arbitrary artifacts.
+5. Do not treat flying ships or energy-aircraft as common household transport. Their existence depends on the specified technology, documented corridor, and passenger access.
+6. Tianhai's automated trains, long-distance liquefied-energy aircraft, and refined-energy network are regional technologies; do not automatically place them in other powers or assume compatibility with arbitrary artifacts. The two named inter-power corridors are approved exceptions to the otherwise unknown route network.
 7. Ancient shamanic and monastic mountain communities are world elements, but their names, individual doctrines, and specific factions remain undefined until established.
 
 **Canon boundary:** This module records broad geography and travel concepts, not a complete world map, exhaustive bestiary, ruin catalogue, or transport specification.

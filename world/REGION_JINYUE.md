@@ -98,11 +98,11 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPC
 
 | Name / public identity | Location | Role | Public traits | Profile link / source |
 |---|---|---|---|---|
-| Tieyan Mingxuan | Yumai; exact office location unconfirmed | Regional Governor | Spirit Realm 8 — Spirit Sovereign, Middle Stage; mendukung tambang legal dan keselamatan pekerja, keras terhadap penyelundupan | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
-| Han Shuying | Yumai | Prefect, Jadevein Prefecture | Spirit Realm 5 — Spirit King, Early Stage; berorientasi pada pertahanan wilayah | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
-| Han Zhaolin | Tieyun | Prefect, Ironcloud Prefecture | Spirit Realm 5 — Spirit King, Middle Stage; condong ke akademisi dan meritokrasi | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
-| Han Jianing | Jinyue; exact assignment unconfirmed | Regional consolidation officer (former Deepstone Prefecture) | Spirit Realm 5 — Spirit King, Late Stage; populis, mendengar keluhan rakyat kecil | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
-| Pei Yanzhao | Jinyue; exact assignment unconfirmed | Mineral Lands Circuit liaison officer | Spirit Realm 4 — Spirit Monarch, Late Stage; netral dan prosedural | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Tieyan Mingxuan | Yumai; exact office location unconfirmed | Regional Governor |Spirit Realm 6 — Spirit Ancestor, Middle Stage; mendukung tambang legal dan keselamatan pekerja, keras terhadap penyelundupan; Orientasi rakyat: tinggi; penegakan hukum 4/5 — keras pada korupsi dan pelanggaran berulang| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Han Shuying | Yumai | Prefect, Jadevein Prefecture |Spirit Realm 5 — Spirit King, Early Stage; berorientasi pada pertahanan wilayah; Orientasi rakyat: tinggi; penegakan hukum 4/5 — keras pada korupsi dan pelanggaran berulang| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Han Zhaolin | Tieyun | Prefect, Ironcloud Prefecture |Spirit Realm 5 — Spirit King, Middle Stage; condong ke akademisi dan meritokrasi; Orientasi rakyat: sedang; penegakan hukum 3/5 — moderat dan prosedural| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Han Jianing | Jinyue; exact assignment unconfirmed | Regional consolidation officer (former Deepstone Prefecture) |Spirit Realm 4 — Spirit Monarch, Late Stage; populis, mendengar keluhan rakyat kecil; Orientasi rakyat: sangat tinggi; penegakan hukum 2/5 — lunak-moderat, mediasi dan peringatan lebih dahulu| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Pei Yanzhao | Jinyue; exact assignment unconfirmed | Mineral Lands Circuit liaison officer |Spirit Realm 4 — Spirit Monarch, Late Stage; netral dan prosedural; Orientasi rakyat: sedang; penegakan hukum 3/5 — moderat dan prosedural| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
 
 ## 9. Current Situations and Events
 - Local conflicts: Belum ditetapkan

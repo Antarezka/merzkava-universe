@@ -99,12 +99,12 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPC
 
 | Name / public identity | Location | Role | Public traits | Profile link / source |
 |---|---|---|---|---|
-| Yunlan Qinglan | Tianshu; exact office location unconfirmed | Regional Governor | Spirit Realm 8 — Spirit Sovereign, Early Stage; mendukung akademi dan meritokrasi, terbuka pada kritik ilmiah | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
-| Han Zhenyu | Tianshu | Prefect, Heavenly Script Prefecture | Spirit Realm 6 — Spirit Ancestor, Late Stage; pragmatis, condong ke stabilitas takhta | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
-| Han Yueqin | Yunding | Prefect, Cloud Summit Prefecture | Spirit Realm 6 — Spirit Ancestor, Peak Stage; netral dan sangat prosedural | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
-| Han Jinshu | Tianfeng; exact assignment unconfirmed | Regional consolidation officer (former Hundred Schools Prefecture) | Spirit Realm 6 — Spirit Ancestor, Late Stage; tegas terhadap korupsi, kompromistis secara politik | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
-| Han Ziyu | Tianfeng; exact assignment unconfirmed | Regional consolidation officer (former Jade Lecture Prefecture) | Spirit Realm 6 — Spirit Ancestor, Peak Stage; berorientasi pada pertahanan wilayah | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
-| Xie Zhenyu | Tianfeng; exact assignment unconfirmed | Scholarly Heights Circuit liaison officer | Spirit Realm 5 — Spirit King, Middle Stage; loyalis istana, menolak perintah ilegal | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Yunlan Qinglan | Tianshu; exact office location unconfirmed | Regional Governor |Spirit Realm 5 — Spirit King, Early Stage; mendukung akademi dan meritokrasi, terbuka pada kritik ilmiah; Orientasi rakyat: sangat tinggi; penegakan hukum 2/5 — lunak-moderat, mediasi dan peringatan lebih dahulu| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Han Zhenyu | Tianshu | Prefect, Heavenly Script Prefecture |Spirit Realm 5 — Spirit King, Late Stage; pragmatis, condong ke stabilitas takhta; Orientasi rakyat: sedang; penegakan hukum 3/5 — moderat dan prosedural| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Han Yueqin | Yunding | Prefect, Cloud Summit Prefecture |Spirit Realm 4 — Spirit Monarch, Peak Stage; netral dan sangat prosedural; Orientasi rakyat: sedang; penegakan hukum 3/5 — moderat dan prosedural| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Han Jinshu | Tianfeng; exact assignment unconfirmed | Regional consolidation officer (former Hundred Schools Prefecture) |Spirit Realm 5 — Spirit King, Late Stage; tegas terhadap korupsi, kompromistis secara politik; Orientasi rakyat: sedang; penegakan hukum 3/5 — moderat dan prosedural| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Han Ziyu | Tianfeng; exact assignment unconfirmed | Regional consolidation officer (former Jade Lecture Prefecture) |Spirit Realm 5 — Spirit King, Peak Stage; berorientasi pada pertahanan wilayah; Orientasi rakyat: sedang; penegakan hukum 3/5 — moderat dan prosedural| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Xie Zhenyu | Tianfeng; exact assignment unconfirmed | Scholarly Heights Circuit liaison officer |Spirit Realm 4 — Spirit Monarch, Middle Stage; loyalis istana, menolak perintah ilegal; Orientasi rakyat: sedang; penegakan hukum 3/5 — moderat dan prosedural| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
 
 ## 9. Current Situations and Events
 - Local conflicts: Belum ditetapkan

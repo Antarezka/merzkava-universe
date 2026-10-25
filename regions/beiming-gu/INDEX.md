@@ -6,7 +6,7 @@
 ## NPC loading order
 
 1. Read the central [INDEX](../../INDEX.md), [Authority Order](../../templates/AUTHORITY_ORDER.md), and [NPC Management](../../world/NPC_MANAGEMENT.md).
-2. Read the relevant existing Beiming regional module and its confirmed local facts.
+2. Read the relevant existing Beiming Gu regional module and its confirmed local facts.
 3. Check the [NPC Registry](npcs/REGISTRY.md).
 4. Open only the canonical profile relevant to the scene; keep GM-only secrets separate from player-character knowledge.
 5. Use `templates/NPC_PROFILE_TEMPLATE.md` when a future owner-approved profile needs to be added.
@@ -23,4 +23,4 @@
 - Use **Beiming Han** as his full canonical name; do not substitute a nickname.
 - Do not invent missing Spirit Realm, Martial Soul, Spirit Rings, techniques, exact whereabouts, or punishment.
 - Do not rewrite the established incident involving Beiming Xenhwa and Beiming Jingheng or shift responsibility away from Jingheng.
-- Beiming regional files marked as scaffolds remain incomplete outside the facts explicitly confirmed by the owner.
+- Beiming Gu regional files marked as scaffolds remain incomplete outside the facts explicitly confirmed by the owner.

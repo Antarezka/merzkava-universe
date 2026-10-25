@@ -90,14 +90,22 @@ This is the region's compact named village roster. Other former village names re
 
 | Name | Type | Role / influence | Confirmed relationship or control | Canon source |
 |---|---|---|---|---|
-| Belum ditetapkan | — | — | — | — |
+| See `GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` | Current civil officeholders | Governor, prefect, and retained regional/circuit officers | Central roster is authoritative; exact local assignments remain unconfirmed where not listed | `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` |
 
 ## 8. Regional NPC Registry
-Use `templates/NPC_PROFILE_TEMPLATE.md` for named NPC profiles. Do not reveal hidden identities before a credible in-world discovery.
+
+**Current civil officeholders:** The central roster `GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` is authoritative for appointments, backgrounds, motivations, Martial Souls, cultivation, and political dispositions. This regional registry lists key recurring officeholders and major NPCs for quick scene loading; it does not create extra administrative tiers. Legacy/local administrators not listed here remain in the central roster and should only be used when relevant to the scene.
+Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPCs. Do not reveal hidden identities before a credible in-world discovery.
 
 | Name / public identity | Location | Role | Public traits | Profile link / source |
 |---|---|---|---|---|
-| Belum ditetapkan | — | — | — | — |
+| Zhenhai Haixiu | Dongxing; exact office location unconfirmed | Regional Governor | Spirit Realm 8 — Spirit Sovereign, Early Stage; mendukung perdagangan maritim, menolak monopoli pelabuhan oleh satu keluarga | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Han Zhenhua | Dongxing | Prefect, Eastern Star Prefecture | Spirit Realm 6 — Spirit Ancestor, Early Stage; netral dan sangat prosedural | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Su Qinglan | Xingluo; exact assignment unconfirmed | Regional consolidation officer (former Jade Coast Prefecture) | Spirit Realm 6 — Spirit Ancestor, Middle Stage; condong ke akademisi dan meritokrasi | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Su Shuying | Xingluo; exact assignment unconfirmed | Regional consolidation officer (former Far Lantern Prefecture) | Spirit Realm 6 — Spirit Ancestor, Late Stage; populis, mendengar keluhan rakyat kecil | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Su Zhaolin | Xingluo; exact assignment unconfirmed | Regional consolidation officer (former Dragonwake Prefecture) | Spirit Realm 6 — Spirit Ancestor, Peak Stage; loyalis istana, menolak perintah ilegal | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Cui Sheng'an | Xingluo; exact assignment unconfirmed | Frontier–Maritime Circuit liaison officer | Spirit Realm 5 — Spirit King, Late Stage; berorientasi pada pertahanan wilayah | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Cui Qinghe | Xingluo; exact assignment unconfirmed | Frontier–Maritime Circuit liaison officer | Spirit Realm 5 — Spirit King, Early Stage; reformis dan pro-rakyat | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
 
 ## 9. Current Situations and Events
 - Local conflicts: Belum ditetapkan

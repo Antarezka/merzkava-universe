@@ -21,7 +21,7 @@ These rules apply to Golden Dragon Empire, Tianhai Yunzhou, Beiming Gu, and—wh
 
 1. Before narrating local facts, answering a lore question, auditing a region, or editing regional data, follow the `Mandatory Territorial Canon Load Path — All Major Powers` in `INDEX.md`. Read the current canonical sources relevant to the task; prior memory or summaries do not replace them.
 2. The relevant regional module governs established local facts within its scope, alongside any more specific binding canon. Read linked authority files for government, institutions, factions, economy/services, routes, and established NPCs when those subjects matter.
-3. Never transfer a power's administrative structure, counts, institutional network, customs, prices, or social rules to another power by analogy. A fact confirmed for Golden Dragon Empire is not automatically true of Tianhai or Beiming, and vice versa.
+3. Never transfer a power's administrative structure, counts, institutional network, customs, prices, or social rules to another power by analogy. A fact confirmed for Golden Dragon Empire is not automatically true of Tianhai Yunzhou or Beiming, and vice versa.
 4. Regional modules explicitly marked as scaffolds or owner-fillable are incomplete by design. Treat blank/pending fields as unconfirmed. Do not present invented settlements, routes, officials, prices, customs, institutions, or NPCs as already established canon. Any new permanent detail must follow the owner's approval/canon workflow.
 5. Travel connections must be verified from `world/LOCATION_AND_ROUTE_NETWORK.md` plus the relevant origin/destination regional modules and `world/GEOGRAPHY_AND_TRAVEL.md`. A missing route is not proof of a direct connection and is not proof that travel is impossible.
 6. If a required source cannot be accessed, disclose the missing source and limit claims accordingly. Never claim to have read or reconciled files that were not actually fetched.
@@ -55,7 +55,7 @@ Do not assume the Guild is a universal police force, a world government, a sect,
 
 ## 3. Updating Canon Safely
 
-### Tianhai organization network — binding local placements
+### Tianhai Yunzhou organization network — binding local placements
 
 The following local service network is established in `world/REGION_TIANHAI_YUNZHOU.md` and must be used consistently by `world/WORLD.md`, `world/FACTIONS.md`, and `INDEX.md`:
 
@@ -64,7 +64,7 @@ The following local service network is established in `world/REGION_TIANHAI_YUNZ
 - Medicine Hall Society: service points at Haiyue Market, Cangqiong Harbor, Northwatch Quay, Westwake Anchorage, Bluefin Cove, and Pearlstep Landing. Independent healers may operate outside the Society; membership, full staffing, free treatment, and guaranteed supplies must not be assumed.
 - These placements do not establish new travel routes, exact prices/fees, named officeholders, permanent staffing at every point, or exclusive jurisdiction. Use the regional route tables and current events before resolving travel or availability.
 
-**Grand Martial Soul Awakening Hall boundary:** the Hall exists once at the principal civilizational center of each of the three major powers: Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu. This does not authorize secondary branches elsewhere in those powers or an additional Hall in the Lawless Territories. Do not silently reinterpret the Guild, trade associations, or Medicine Hall Society as an Awakening Hall. If the owner's phrase “Aula Agung” refers to a different Tianhai institution rather than the Grand Martial Soul Awakening Hall, identify that institution separately before editing its status.
+**Grand Martial Soul Awakening Hall boundary:** the Hall exists once at the principal civilizational center of each of the three major powers: Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu. This does not authorize secondary branches elsewhere in those powers or an additional Hall in the Lawless Territories. Do not silently reinterpret the Guild, trade associations, or Medicine Hall Society as an Awakening Hall. If the owner's phrase “Aula Agung” refers to a different Tianhai Yunzhou institution rather than the Grand Martial Soul Awakening Hall, identify that institution separately before editing its status.
 
 When new information is added:
 

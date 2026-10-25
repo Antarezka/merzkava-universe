@@ -184,9 +184,13 @@ Ordo Suci Tianming is the world's largest religious organization by follower cou
 
 Its headquarters is the **Sanctum of Ten Thousand Vows**, a dedicated religious precinct in the Wanluo Sacred Expanse. The complex is separate from the World Knowledge Tower. Its facilities include the Great Hall of Vows, World Observation Archive, Observation Tower, Threat Assessment Hall, Order Response Compound, and public pilgrim facilities. The full geographic and institutional description is maintained in `world/WANLUO_SACRED_EXPANSE.md`.
 
-The organization maintains a broad network of temples and religious houses, observation halls, assessment halls, response orders, and regional coordination centers. These are functional categories, not confirmed proper names of specific branches. Named leaders, formal ranks, doctrine, rituals, fees, membership rules, and individual combat capabilities remain unestablished.
+The organization maintains a broad network of temples and religious houses, observation halls, assessment halls, response orders, and regional coordination centers. **Ruined Archiver** is an established specialist branch within this network; its full remit and operating rules are recorded in `world/RUINED_ARCHIVER.md`. Other branch names and internal structures remain unspecified.
 
-The organization is not omniscient and does not automatically defeat every threat. Reports must be verified, and response can be affected by distance, delayed information, political interests, and limited resources. Its religious standing does not grant it ownership of the World Knowledge Tower or absolute civil authority over Wanluo.
+The Ordo is responsible for helping the world detect dangerous anomalies early. Its early-warning work includes receiving, checking, recording, and escalating credible reports that may threaten the world's continued survival. This mission became essential after an ancient world-cal amity in which extreme anomalies opened gates to other worlds and Demonic Beasts of tiers 7–9 descended across the world. Ruined Archiver specifically gathers and verifies information from Golden Age Ruined, where an anomaly may be hidden.
+
+The World Knowledge Tower works with the Ordo and an alliance of elite envoys from the Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu. The envoys are an exceptionally powerful intervention group with a mandate to seal or destroy dangerous anomalies when required. The alliance's formal name, full roster, ranks, and detailed procedures remain unspecified. This threat-response arrangement does not replace the Tower administration council's separate responsibility for the relic's access, protection, upkeep, and authorized study.
+
+The Ordo is not omniscient and does not automatically defeat every threat. Reports must be verified, and response can be affected by distance, delayed information, political interests, and limited resources. Its religious standing does not grant it absolute civil authority over Wanluo or universal law-enforcement power in every territory.
 
 
 ## 10. Tianhai Yunzhou Trade Associations

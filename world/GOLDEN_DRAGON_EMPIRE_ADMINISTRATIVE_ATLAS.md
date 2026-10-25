@@ -14,7 +14,7 @@
 | County circuits | 6 | Broad service jurisdictions, each coordinating two prefectures |
 | Cities | Not separately counted | Existing named urban places remain settlements/service hubs |
 | Small towns | No separate tier | Market settlements are described by function, not counted as a tier |
-| Official named rural-village register | 13 | Compact canonical roster; the separate exploration-anchor list is broader and does not change this official count |
+| Official named rural-village register | 13 | Compact canonical roster; additional hamlets and local settlements are listed separately and do not change this official count |
 
 The former register of 33 prefectures, 268 counties, 361 cities, 1,838 towns, and 22 named villages is superseded and must not be reused. The seven major regions and their established identities remain unchanged. Removing an administrative rank does not erase a settlement, NPC, or community.
 
@@ -124,27 +124,27 @@ This section records exactly 13 officially counted named rural villages, followe
 | Watchfire Village | Baiyue | Roadside farming near a patrol route | Local community; village leadership/NPCs not individually established |
 | Stonegate Village | Baiyue | Passage guides and pack animals | Local community; village leadership/NPCs not individually established |
 | Salt Lantern Village | Xingluo | Salt pans and coastal fishing | Local community; village leadership/NPCs not individually established |
-| Foxbridge Hamlet | Longyuan | Bridge hamlet for carts and small cargo | Local exploration village |
-| Plum Lantern Hamlet | Longyuan | Fruit orchards, spring lodging, lantern festival | Local exploration village |
-| Stone Mill Hamlet | Longyuan | Grain milling and cart-wheel repair | Local exploration village |
-| Lotus Weir Hamlet | Canglan | Lotus plots, water vegetables, fish ponds | Canal-access village |
-| Three Reeds Hamlet | Canglan | Mats, rope, and boat repairs | Small-canal village |
+| Foxbridge Hamlet | Longyuan | Bridge hamlet for carts and small cargo | Local hamlet; not part of the official village register |
+| Plum Lantern Hamlet | Longyuan | Fruit orchards, spring lodging, lantern festival | Local hamlet; not part of the official village register |
+| Stone Mill Hamlet | Longyuan | Grain milling and cart-wheel repair | Local hamlet; not part of the official village register |
+| Lotus Weir Hamlet | Canglan | Lotus plots, water vegetables, fish ponds | Canal-access hamlet; not part of the official village register |
+| Three Reeds Hamlet | Canglan | Mats, rope, and boat repairs | Small-canal hamlet; not part of the official village register |
 | Rice Bell Hamlet | Canglan | Community granary and harvest market | Tanggway-access village |
-| Copper Bell Hamlet | Jinyue | Small smelting and mining-tool repair | Mountain supply village |
-| Deep Jade Hamlet | Jinyue | Stone sorting and jade carving | Mountain-track village |
-| Ash Mule Hamlet | Jinyue | Pack animals and mineral freight | Caravan junction village |
-| Paper Crane Hamlet | Tianfeng | Paper, ink, bookbinding, copying | Upland craft village |
-| Cloud Ladder Hamlet | Tianfeng | Highland tea and mountain lodging | Pack-trail village |
-| Scholar's Rest Hamlet | Tianfeng | Scribes, guides, examination lodging | Seasonal visitor village |
-| Kilnside Hamlet | Yanling | Heat-resistant bricks and kiln work | Industrial supply village |
-| Red Ember Hamlet | Yanling | Charcoal and measured fuel supply | Forest supply village |
-| Waterwheel Hamlet | Yanling | Waterwheel maintenance and cooling channels | Streamside craft village |
-| Pine Watch Hamlet | Baiyue | Forest guides, regulated timber, road-post repairs | Patrol-route village |
-| Wolf Pass Hamlet | Baiyue | Caravan lodging and pack animals | Mountain-pass village |
-| Cold Spring Hamlet | Baiyue | Spring water, dried food, patrol rest stop | Footpath village |
-| Pearl Shoal Hamlet | Xingluo | Shellfish, dried fish, net making | Coastal boat-access village |
-| Wind Sail Hamlet | Xingluo | Sails, ropes, wind guides | Coastal craft village |
-| Tideglass Hamlet | Xingluo | Sea glass, salt, tide watching | Small-boat village |
+| Copper Bell Hamlet | Jinyue | Small smelting and mining-tool repair | Mountain supply hamlet; not part of the official village register |
+| Deep Jade Hamlet | Jinyue | Stone sorting and jade carving | Mountain-track hamlet; not part of the official village register |
+| Ash Mule Hamlet | Jinyue | Pack animals and mineral freight | Caravan-junction hamlet; not part of the official village register |
+| Paper Crane Hamlet | Tianfeng | Paper, ink, bookbinding, copying | Upland craft hamlet; not part of the official village register |
+| Cloud Ladder Hamlet | Tianfeng | Highland tea and mountain lodging | Pack-trail hamlet; not part of the official village register |
+| Scholar's Rest Hamlet | Tianfeng | Scribes, guides, examination lodging | Seasonal visitor hamlet; not part of the official village register |
+| Kilnside Hamlet | Yanling | Heat-resistant bricks and kiln work | Industrial supply hamlet; not part of the official village register |
+| Red Ember Hamlet | Yanling | Charcoal and measured fuel supply | Forest-supply hamlet; not part of the official village register |
+| Waterwheel Hamlet | Yanling | Waterwheel maintenance and cooling channels | Streamside craft hamlet; not part of the official village register |
+| Pine Watch Hamlet | Baiyue | Forest guides, regulated timber, road-post repairs | Patrol-route hamlet; not part of the official village register |
+| Wolf Pass Hamlet | Baiyue | Caravan lodging and pack animals | Mountain-pass hamlet; not part of the official village register |
+| Cold Spring Hamlet | Baiyue | Spring water, dried food, patrol rest stop | Footpath hamlet; not part of the official village register |
+| Pearl Shoal Hamlet | Xingluo | Shellfish, dried fish, net making | Coastal boat-access hamlet; not part of the official village register |
+| Wind Sail Hamlet | Xingluo | Sails, ropes, wind guides | Coastal craft hamlet; not part of the official village register |
+| Tideglass Hamlet | Xingluo | Sea glass, salt, tide watching | Small-boat hamlet; not part of the official village register |
 
 The nine other entries from the former 22-village list are not destroyed or depopulated. They remain local settlements/hamlets outside the 13-entry official named-village register. Their individual identities remain unresolved; do not guess which entries they are. Do not imply that the administrative reduction physically removed them.
 

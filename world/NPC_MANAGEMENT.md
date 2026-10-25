@@ -29,7 +29,7 @@ Do not create alternate formal names, a fourth global NPC repository, or a separ
 
 The single repository `Antarezka/merzkava-universe` is the permanent central home for Merzkava Universe canon under the current architecture. The three major powers are organized in in-repository regional folders and modules; they are not separate GitHub repositories. Regional NPC registries are canonical navigation directories within this same repository once their entries and links are established. Do not propose, assume, or perform external regional-repository migration.
 
-**Migration safety:** existing `world/REGION_*.md`, `world/NPC_*.md`, and other regional canon files remain valid legacy sources until each migration is verified. Do not delete, overwrite, or claim they have moved just because the target architecture is documented.
+**Legacy-file safety:** existing `world/REGION_*.md`, `world/NPC_*.md`, and other regional canon files remain valid sources unless their actual contents establish a different role. Do not treat a file as a compatibility pointer from its name alone, and do not delete or overwrite it merely because a regional profile or registry exists elsewhere in this repository.
 
 ## 3. NPC structure — follow the regional-module pattern
 
@@ -56,7 +56,7 @@ A detailed profile has exactly one canonical home. Regional, settlement, institu
 
 ### C. Where detailed profiles live
 
-Canonical full profiles for established named NPCs are maintained in `regions/golden-dragon-empire/npcs/`, `regions/tianhai-yunzhou/npcs/`, and `regions/beiming-gu/npcs/`. The Beiming Gu canonical profiles are Beiming Han, Beiming Xenhwa, and Beiming Jingheng. Verify each legacy `world/NPC_<NAME>.md` file before treating it as a compatibility pointer; edit the regional canonical profile when migration is confirmed. These folders are staging locations inside the central repository, not separate GitHub repositories. Do not create a second profile merely because a local table is missing.
+Canonical full profiles for established named NPCs are maintained in `regions/golden-dragon-empire/npcs/`, `regions/tianhai-yunzhou/npcs/`, and `regions/beiming-gu/npcs/`. The Beiming Gu registry currently lists 21 canonical profiles: four established major NPCs, 12 clan heads, and five dojo masters. Verify each legacy `world/NPC_<NAME>.md` file before treating it as a compatibility pointer; when editing an established NPC, update the canonical profile in the relevant in-repository regional folder and synchronize affected links. These folders are part of the current repository architecture, not staging areas for an assumed external migration. Do not create a second profile merely because a local table is missing.
 
 Within the current repository, use:
 - `regions/<power>/INDEX.md` — regional NPC navigation and loading order.
@@ -75,7 +75,7 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for detailed recurring/major NPC profile
 1. Check the location/settlement description, its local NPC table, relevant official rosters, faction membership, and known routes.
 2. Match occupation, resources, authority, and services to the settlement. A remote village does not automatically have capital-level services or elite experts.
 3. An NPC's presence in a regional module does not prove they are physically present in the current scene, available to meet, or known to the player.
-4. An NPC's temporary location change does not automatically change their canonical home or move their profile to another repository.
+4. An NPC's temporary location change does not automatically change their canonical home or the in-repository location of their canonical profile.
 5. Regional presence does not establish that a faction controls every settlement in that region.
 6. If an officeholder or faction member is established by an authoritative roster, reference it instead of inventing a conflicting holder.
 

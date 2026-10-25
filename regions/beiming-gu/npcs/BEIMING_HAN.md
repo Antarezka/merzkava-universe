@@ -41,7 +41,7 @@ His complete knowledge and beliefs are not itemized. Do not treat his rank as pr
 |---|---|---|
 | Beiming Gu's founder | Son | Founder’s identity and further details not established here |
 | Beiming Nerva | Older biological sister | Nerva is older than Han despite her biological appearance of about 18; her true age remains mysterious |
-| Beiming Xenhwa | Adoptive daughter | He loves her; details of the relationship and incident with Jingheng are recorded in both relevant profiles |
+| Beiming Xenhwa | Adoptive daughter | He rescued her after the death of his close friend, a white nine-tailed fox woman, during the world-calamity catastrophe; he later adopted her and loves her |
 | Beiming Jingheng | Adoptive son | He loves him equally; this does not excuse Jingheng's misconduct |
 | Beiming Gu | Highest known figure and central to its security/influence | Ongoing |
 

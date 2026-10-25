@@ -248,7 +248,7 @@ The Grand Martial Soul Awakening Hall is a centralized imperial institution, not
 
 - **Five established Golden Dragon Empire dojos:** Golden Dragon Martial Hall, Iron Mountain Dojo, Cloudstep Dojo, Azure River Dojo, and Flameforge Dojo. Their identities remain valid, but this register does not invent extra branches, owners, or formal control by similarly named clans.
 - **Existing clans:** the twelve major clans remain as recorded in world/FACTIONS.md. A clan's regional influence does not automatically mean it runs a bank, academy, clinic, library, or local government office.
-- **Ordo Suci Tianming headquarters:** Sanctum of Ten Thousand Vows in Wanluo, separate from the World Knowledge Tower. Its three listed Empire libraries are selective public facilities; they do not replace its observation halls, assessment halls, or response facilities.
+- **Ordo Suci Tianming headquarters:** Sanctum of Ten Thousand Vows in Wanluo, separate from the World Knowledge Tower. Its three listed Golden Dragon Empire libraries are selective public facilities; they do not replace its observation halls, assessment halls, or response facilities.
 - **Independent learning:** family instruction, village tutors, local mentors, and other routes may exist, but this register does not claim a particular unnamed school or teacher has been established.
 
 ## 10. Canon, scale, and future expansion rules

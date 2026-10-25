@@ -64,17 +64,35 @@ A dojo is not automatically controlled by a clan with a similar name. Ownership 
 ## 4. Tianhai Yunzhou Clans and Dojos
 
 ### Clans
-- **Shuijing Clan:** Materials processing and craftsmanship.
-- **Leiyu Clan:** Combat techniques and offensive power.
+
+The following twelve clans and their spheres of influence are established in `world/WORLD.md`. These are broad areas of influence, not proof of exclusive control over a district, a fixed profession for every member, or automatic subordination to the Maharaja.
+
+| Clan | Established sphere of influence |
+|---|---|
+| Haiyuan Clan | Sailing and maritime affairs |
+| Tianjing Clan | Administration and central interests |
+| Yunhai Clan | Trade and transportation |
+| Canglong Clan | Combat strength and defense |
+| Bihai Clan | Coastal resources |
+| Xuanchao Clan | Security and maritime surveillance |
+| Lingfan Clan | Navigation and expeditions |
+| Haijing Clan | Information and port relations |
+| Yunzhou Clan | Interests tied to the main island |
+| Mingzhu Clan | High-value commodities |
+| Shuijing Clan | Materials processing and craftsmanship |
+| Leiyu Clan | Combat techniques and offensive power |
+
+Clan leaders, family trees, heirs, territories, membership, internal branches, formal rivalries, alliances, and marriage ties remain unestablished unless confirmed in a dedicated source or owner-approved NPC profile.
 
 ### Dojos
+
 - **Skywhale Dojo:** Martial training and strength development.
 - **Tidal Current Dojo:** Flowing movement, defense, and adaptation.
 - **Stormwake Dojo:** Mobility and offensive techniques.
 - **Azure Sail Dojo:** Movement, coordination, and sailing-related techniques.
 - **Deepwater Dojo:** Durability and techniques adapted to aquatic conditions.
 
-These entries do not establish the current leader, membership, internal politics, or automatic subordination to the Maharaja.
+Current masters, instructors, students, property ownership, clan ties, and formal political status remain unconfirmed. A dojo's name alone does not establish a relationship to a similarly named clan or to the ruling family.
 
 ## 5. Beiming Gu Clans and Dojos
 

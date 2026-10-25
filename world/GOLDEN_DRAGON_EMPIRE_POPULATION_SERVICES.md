@@ -64,12 +64,12 @@ Ninefold Concord Bank has named public branches in the listed major service sett
 | Jinyue | Ironcloud Prefecture (former Deepstone district) | Ninefold Concord Bank — Shenshi Branch | pertambangan, logam spiritual, dan bahan artefak |
 | Jinyue | Jadevein Prefecture (Jinsha settlement) | Ninefold Concord Bank — Jinsha Branch | pertambangan, logam spiritual, dan bahan artefak |
 | Jinyue | Ironcloud Prefecture (Lingkuang settlement) | Ninefold Concord Bank — Lingkuang Branch | pertambangan, logam spiritual, dan bahan artefak |
-| Tianfeng | Heavenly Script Prefecture | Ninefold Concord Bank — Tianshu Branch | akademi, pendidikan kultivasi, dan arsip |
-| Tianfeng | Cloud Summit Prefecture | Ninefold Concord Bank — Yunding Branch | akademi, pendidikan kultivasi, dan arsip |
-| Tianfeng | Heavenly Script Prefecture (Wenchuan settlement) | Ninefold Concord Bank — Wenchuan Branch | akademi, pendidikan kultivasi, dan arsip |
-| Tianfeng | Cloud Summit Prefecture (Songmo settlement) | Ninefold Concord Bank — Songmo Branch | akademi, pendidikan kultivasi, dan arsip |
-| Tianfeng | Heavenly Script Prefecture (former Hundred Schools district; Baixue service hub) | Ninefold Concord Bank — Baixue Branch | akademi, pendidikan kultivasi, dan arsip |
-| Tianfeng | Heavenly Script Prefecture (former Jade Lecture district) | Ninefold Concord Bank — Yuyan Branch | akademi, pendidikan kultivasi, dan arsip |
+| Tianfeng | Heavenly Script Prefecture | Ninefold Concord Bank — Tianshu Branch | tradisi keilmuan, literasi, dan arsip (bukan lokasi akademi) |
+| Tianfeng | Cloud Summit Prefecture | Ninefold Concord Bank — Yunding Branch | tradisi keilmuan, literasi, dan arsip (bukan lokasi akademi) |
+| Tianfeng | Heavenly Script Prefecture (Wenchuan settlement) | Ninefold Concord Bank — Wenchuan Branch | tradisi keilmuan, literasi, dan arsip (bukan lokasi akademi) |
+| Tianfeng | Cloud Summit Prefecture (Songmo settlement) | Ninefold Concord Bank — Songmo Branch | tradisi keilmuan, literasi, dan arsip (bukan lokasi akademi) |
+| Tianfeng | Heavenly Script Prefecture (former Hundred Schools district; Baixue service hub) | Ninefold Concord Bank — Baixue Branch | tradisi keilmuan, literasi, dan arsip (bukan lokasi akademi) |
+| Tianfeng | Heavenly Script Prefecture (former Jade Lecture district) | Ninefold Concord Bank — Yuyan Branch | tradisi keilmuan, literasi, dan arsip (bukan lokasi akademi) |
 | Yanling | Red Furnace Prefecture | Ninefold Concord Bank — Honglu Branch | pandai besi, tungku, dan industri spiritual |
 | Yanling | Ashen Peak Prefecture | Ninefold Concord Bank — Huifeng Branch | pandai besi, tungku, dan industri spiritual |
 | Yanling | Red Furnace Prefecture (Rongjiang settlement) | Ninefold Concord Bank — Rongjiang Branch | pandai besi, tungku, dan industri spiritual |
@@ -122,12 +122,12 @@ The Exchange has named offices across major service settlements. Offices in form
 | Jinyue | Ironcloud Prefecture (former Deepstone district) | Myriad Ledger Exchange — Shenshi Office | pertambangan, logam spiritual, dan bahan artefak |
 | Jinyue | Jadevein Prefecture (Jinsha settlement) | Myriad Ledger Exchange — Jinsha Office | pertambangan, logam spiritual, dan bahan artefak |
 | Jinyue | Ironcloud Prefecture (Lingkuang settlement) | Myriad Ledger Exchange — Lingkuang Office | pertambangan, logam spiritual, dan bahan artefak |
-| Tianfeng | Heavenly Script Prefecture | Myriad Ledger Exchange — Tianshu Office | akademi, pendidikan kultivasi, dan arsip |
-| Tianfeng | Cloud Summit Prefecture | Myriad Ledger Exchange — Yunding Office | akademi, pendidikan kultivasi, dan arsip |
-| Tianfeng | Heavenly Script Prefecture (Wenchuan settlement) | Myriad Ledger Exchange — Wenchuan Office | akademi, pendidikan kultivasi, dan arsip |
-| Tianfeng | Cloud Summit Prefecture (Songmo settlement) | Myriad Ledger Exchange — Songmo Office | akademi, pendidikan kultivasi, dan arsip |
-| Tianfeng | Heavenly Script Prefecture (Wenchuan settlement) (former Hundred Schools district) | Myriad Ledger Exchange — Baixue Office | akademi, pendidikan kultivasi, dan arsip |
-| Tianfeng | Heavenly Script Prefecture (former Jade Lecture district) | Myriad Ledger Exchange — Yuyan Office | akademi, pendidikan kultivasi, dan arsip |
+| Tianfeng | Heavenly Script Prefecture | Myriad Ledger Exchange — Tianshu Office | tradisi keilmuan, literasi, dan arsip (bukan lokasi akademi) |
+| Tianfeng | Cloud Summit Prefecture | Myriad Ledger Exchange — Yunding Office | tradisi keilmuan, literasi, dan arsip (bukan lokasi akademi) |
+| Tianfeng | Heavenly Script Prefecture (Wenchuan settlement) | Myriad Ledger Exchange — Wenchuan Office | tradisi keilmuan, literasi, dan arsip (bukan lokasi akademi) |
+| Tianfeng | Cloud Summit Prefecture (Songmo settlement) | Myriad Ledger Exchange — Songmo Office | tradisi keilmuan, literasi, dan arsip (bukan lokasi akademi) |
+| Tianfeng | Heavenly Script Prefecture (Wenchuan settlement) (former Hundred Schools district) | Myriad Ledger Exchange — Baixue Office | tradisi keilmuan, literasi, dan arsip (bukan lokasi akademi) |
+| Tianfeng | Heavenly Script Prefecture (former Jade Lecture district) | Myriad Ledger Exchange — Yuyan Office | tradisi keilmuan, literasi, dan arsip (bukan lokasi akademi) |
 | Yanling | Red Furnace Prefecture | Myriad Ledger Exchange — Honglu Office | pandai besi, tungku, dan industri spiritual |
 | Yanling | Ashen Peak Prefecture | Myriad Ledger Exchange — Huifeng Office | pandai besi, tungku, dan industri spiritual |
 | Yanling | Red Furnace Prefecture (Rongjiang settlement) | Myriad Ledger Exchange — Rongjiang Office | pandai besi, tungku, dan industri spiritual |

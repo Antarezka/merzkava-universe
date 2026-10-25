@@ -67,16 +67,10 @@ For any gameplay scene, lore answer, audit, or repository edit involving **Golde
 
 ## 3A. Trigger Awal dan Pemuatan State
 
-Pesan pemain yang meminta analisis INDEX.md dan players.md untuk memulai permainan adalah **trigger gameplay**, bukan permintaan laporan analisis. Setelah membaca sumber wajib, mulai adegan pertama secara langsung.
-
-- Pada sesi baru karakter terdaftar: cari karakter di `players.md`, buka tautan RAW individualnya, dan baca seluruh file sampai akhir. Jangan hanya membaca profil ringkas.
-- Pada sesi berlanjut di chat yang sama: pakai profil gameplay terakhir dan riwayat kejadian; jangan memuat snapshot awal untuk menimpa progres.
-- Pada karakter baru: gunakan prosedur karakter baru dan template profil; jangan menganggap nama yang tidak terdaftar sebagai bukti bahwa karakter sudah punya data.
-- Sebelum respons gameplay pertama, baca `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` dan `templates/CHARACTER_PROFILE_TEMPLATE.md`. Format gameplay canonical bersifat wajib, bukan rekomendasi.
-- Validasi semua data snapshot yang harus dibawa ke profil: latar belakang relevan, equipment, inventory, `Assets Bangunan`, Currency, relasi, lokasi, status, serta catatan yang berlaku. Jangan hilangkan data karena tidak pas dengan format ringkas.
-- Jangan mengganti nilai yang sudah tercatat dengan `???`. Untuk nilai yang memang belum ditetapkan, gunakan prosedur modul resmi dan tandai estimasi secara jujur.
-- Untuk sesi baru, tentukan lokasi dari snapshot/input lalu baca modul world/lokasi terkait. Periksa `world/DYNAMIC_EVENTS.md` sebelum adegan pertama dan pada setiap giliran. Muat hanya event dan modul yang relevan dengan karakter, lokasi, waktu, serta aksi; jangan membaca seluruh repository sekaligus.
-- Jangan menampilkan daftar file yang dibaca atau laporan bootstrap sebagai pengganti respons gameplay. Jika file wajib gagal diakses, ungkapkan batasan yang spesifik dan jangan berpura-pura bootstrap berhasil sepenuhnya.
+- Permintaan membaca `INDEX.md` dan `players.md` untuk memulai permainan adalah **trigger gameplay**, bukan permintaan laporan analisis. Setelah hard gate §3B terpenuhi, mulai adegan langsung.
+- Gunakan §3 untuk memilih mode sesi dan §3B sebagai satu-satunya urutan bootstrap terperinci. Jangan menduplikasi atau menyusun ulang langkah bootstrap di bagian ini.
+- Muat hanya event dan modul yang relevan dengan karakter, lokasi, waktu, serta aksi; jangan membaca seluruh repository sekaligus.
+- Jangan menampilkan laporan bootstrap atau daftar file yang dibaca sebagai pengganti gameplay. Jika sumber wajib gagal diakses, sebutkan sumber spesifiknya dan jangan berpura-pura gate berhasil.
 
 ## 3B. Urutan Wajib Sebelum Menulis Respons (HARD GATE)
 

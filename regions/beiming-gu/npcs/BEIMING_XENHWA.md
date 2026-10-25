@@ -29,7 +29,7 @@ Her specific long-term goals, fears, personal plans, and ordinary daily agenda a
 ## 5. Knowledge Boundaries
 Her sensitive senses detected Beiming Jingheng's approach during the established nighttime incident. Do not extend this into omniscience or claim she can detect everything without a relevant cause.
 
-**GM-sensitive knowledge:** Beiming Xenhwa is among the very few who know that Beiming Han's scar was left long ago by an ancient Heavenly Beast rank 9 in Azerion Forest (called the Dead Zone in older records): a colossal dragon with a deer-like head, enormous branching antlers, and deep-blue eyes. The circumstances that gave her this knowledge, the exact date, and the beast's name are not established. Do not invent how she learned it or reveal that she knows this unless a scene or source makes it appropriate.
+**GM-sensitive knowledge:** Beiming Xenhwa is among the very few who know that Beiming Han's scar was left long ago by an ancient Heavenly Beast rank 9 in Azerion Forest (within the deepest core zone humans call the Dead Zone): a colossal dragon with a deer-like head, enormous branching antlers, and deep-blue eyes. The circumstances that gave her this knowledge, the exact date, and the beast's name are not established. Do not invent how she learned it or reveal that she knows this unless a scene or source makes it appropriate.
 
 ## 6. Relationships
 | Person / group | Relationship | Current status / basis |
@@ -39,7 +39,7 @@ Her sensitive senses detected Beiming Jingheng's approach during the established
 
 ## 7. State and Continuity
 - Current status: No later status change is established.
-- Hidden knowledge continuity: She knows the truth behind Beiming Han's scar and the ancient rank-9 Heavenly Beast in the Dead Zone; this is restricted knowledge, not common public information.
+- Hidden knowledge continuity: She knows the truth behind Beiming Han's scar and the ancient rank-9 Heavenly Beast in Azerion Forest's deepest core, known to humans as the Dead Zone; this is restricted knowledge, not common public information.
 - Current whereabouts, injuries, possessions, and last confirmed appearance: Not established.
 - Confirmed incident: At night, Beiming Jingheng secretly attempted to grope her with indecent intent. Her sensitive senses detected him. Beiming Xenhwa attacked using her own white flames, and Jingheng nearly died. Beiming Han intervened and stopped her.
 - Responsibility: Jingheng was the perpetrator. Xenhwa's detection and response do not make her responsible for his conduct. Do not invent forgiveness, reconciliation, or a punishment.

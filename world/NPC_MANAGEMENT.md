@@ -28,6 +28,15 @@
 7. Do not assign exact stats, hidden powers, or an outcome-changing capability without a valid source or explicit owner-approved addition.
 8. Record persistent changes only when they actually occur in gameplay; do not retroactively rewrite prior interactions.
 
+
+## 3A. Political, Public-Service, and Law-Enforcement Tendencies
+For important recurring officials, record three separate dimensions in the canonical roster or regional NPC registry:
+- **Political tendency:** e.g. reformist, pro-stability, meritocratic, security-first, pro-trade, or institution-loyal. A tendency does not establish secret faction membership.
+- **Orientation toward ordinary people:** very high, high, medium, or medium-low. Base it on access to complaints, public relief, and whether policy routinely prioritizes ordinary residents.
+- **Imperial law enforcement:** use a 1–5 scale, from lenient/mediation-first (1) to strictest enforcement for serious threats and repeat offenses (5). Strictness is not permission to punish without evidence, deny due process, or exceed legal jurisdiction.
+
+These dimensions must remain independent: a popular official may be strict against extortion, while a less people-oriented official may still apply written procedure fairly. Apply the established values consistently in scenes; do not turn a tendency into an absolute rule for every case.
+
 ## 4. Agency and Decision Framework
 For an established NPC, use the following questions when deciding their behavior:
 - What do they want right now?

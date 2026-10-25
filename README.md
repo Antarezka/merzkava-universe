@@ -1,98 +1,133 @@
-<!-- LIGHT ORANGE THEME: #FFB36B / #151515 / #FFFFFF -->
+<!-- MERZKAVA UNIVERSE — LIGHT ORANGE EDITION
+Palette: #FFB36B / #151515 / #FFFFFF
+Public-facing teaser wall. Keep deep lore and operational details inside the archive.
+-->
 
 <div align="center">
 
 # ▰ MERZKAVA UNIVERSE
 
-### A WORLD OF CULTIVATION, POWER, AND CONSEQUENCE.
+### A WORLD THAT DOESN'T WAIT FOR YOU.
 
-![Eastern Fantasy](https://img.shields.io/badge/EASTERN_FANTASY-FFB36B?style=for-the-badge&labelColor=151515&color=FFB36B)
-![World Systems](https://img.shields.io/badge/WORLD_SYSTEMS-FFB36B?style=for-the-badge&labelColor=151515&color=FFB36B)
-![Roleplay](https://img.shields.io/badge/ROLEPLAY-FFB36B?style=for-the-badge&labelColor=151515&color=FFB36B)
+![EASTERN FANTASY](https://img.shields.io/badge/EASTERN_FANTASY-FFB36B?style=for-the-badge&labelColor=151515)
+![CULTIVATION](https://img.shields.io/badge/CULTIVATION-FFB36B?style=for-the-badge&labelColor=151515)
+![LIVING WORLD](https://img.shields.io/badge/LIVING_WORLD-FFB36B?style=for-the-badge&labelColor=151515)
 
-*A structured Eastern Fantasy roleplay setting built around cultivation, Martial Souls, Spirit Beasts, Spirit Rings, and persistent world events.*
+*Three great powers. Countless paths. A world full of things you haven't discovered yet.*
 
-[**OPEN THE INDEX**](INDEX.md) · [PLAYER CONVERSATION TEMPLATE](templates/PLAYER_CONVERSATION_TEMPLATE.md) · [WORLD LORE](world/WORLD.md)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**FIELD NOTES / VOL. 01**  
+*Not everything worth knowing belongs on the noticeboard.*
 
 </div>
 
 ---
 
-## ▰ MAIN MENU
+## ▰ THE NOTICEBOARD
 
-| FILE | DESCRIPTION |
-|---|---|
-| [`INDEX.md`](INDEX.md) | Official entry point, bootstrap order, and module map |
-| [Player Conversation Template](templates/PLAYER_CONVERSATION_TEMPLATE.md) | Start a roleplay session |
-| [Game Master Authority](templates/AUTHORITY_ORDER.md) | Operational authority and procedural rules |
-| [Gameplay Response Template](templates/GAMEPLAY_RESPONSE_TEMPLATE.md) | Required visual format for gameplay responses |
-| [Character Profile Template](templates/CHARACTER_PROFILE_TEMPLATE.md) | Character fields and profile consistency |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## ▰ WORLD ARCHIVE
+### 🐉 THREE POWERS, THREE WAYS OF LIFE
 
-| FILE | DESCRIPTION |
-|---|---|
-| [World Overview](world/WORLD.md) | World foundations and the three major powers |
-| [Golden Dragon Empire Governance](world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md) | Civil hierarchy, central ministries, regional administration, military command, and information-storage rules |
-| [Golden Dragon Empire Administrative Atlas](world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md) | Simplified register of 7 regions, 12 prefectures, 6 county circuits, and 13 named rural villages |
-| [Map & Regions](world/MAP_AND_REGIONS.md) | Regional index and geographic knowledge boundaries |
-| [Regional Architecture](world/REGIONAL_REPOSITORY_ARCHITECTURE.md) | How the three major powers are organized inside this single repository |
-| [Geography & Travel](world/GEOGRAPHY_AND_TRAVEL.md) | Terrain, transportation, travel, and route information |
-| [Ruined Archiver](world/RUINED_ARCHIVER.md) | Ordo branch for Ruined expeditions, maps, compensation, confidential records, and anomaly early warning |
-| [Ancient Shamanism & Buddhist Clans](world/ANCIENT_SHAMANISM_AND_BUDDHIST_CLANS.md) | Two hidden mountain traditions, their established hierarchies, powers, and lore |
-| [Wanluo Sacred Expanse](world/WANLUO_SACRED_EXPANSE.md) | World Knowledge Tower region, pilgrimage roads, districts, and Ordo Suci Tianming |
-| [Intelligent Peoples](world/INTELLIGENT_PEOPLES.md) | Peoples, traits, and social context |
-| [Factions](world/FACTIONS.md) | Clans, dojos, sects, and organizations |
-| [Spirit Hunters Guild](world/SPIRIT_HUNTERS_GUILD.md) | Temporary hunting parties, blacklisting, and bounty notices |
-| [History](world/HISTORY.md) | Timeline and historical evidence |
-| [Dynamic Events](world/DYNAMIC_EVENTS.md) | Persistent canon-event registry |
-| [Artifacts & Relics](world/ARTIFACTS_AND_RELICS.md) | Relic and Ancient Artifact categories and provenance |
-| [Artificial Artifacts](world/ARTIFICIAL_ARTIFACTS.md) | Artificial Artifact catalogue |
-| [Wealth Distribution](world/WEALTH_DISTRIBUTION.md) | Global wealth and ownership concentration |
-| [Social Stratification](world/SOCIAL_STRATIFICATION.md) | Social classes, poverty, and mobility |
+Different values. Different ambitions. Different ideas of what makes someone powerful.
 
-## ▰ POWER SYSTEMS
+**One world doesn't mean one way to live.**
 
-| FILE | DESCRIPTION |
-|---|---|
-| [Cultivation System](core/CULTIVATION_SYSTEM.md) | Canonical Spirit Realm names, stages, Sync, bottlenecks, and breakthroughs |
-| [Martial Soul Awakening](core/MARTIAL_SOUL_AWAKENING.md) | Awakening procedure, rarity, and mutations |
-| [Martial Soul](core/MARTIAL_SOUL.md) | Martial Soul forms, traits, and interpretation |
-| [Spirit Ring Rules](core/SPIRIT_RING_RULES.md) | Compatibility, absorption, Qi, PowerScale, and the three normal ring-acquisition routes: academy Safe Route, temporary Guild party, and solo hunt |
-| [Thinker & Formulation](core/THINKER_AND_FORMULATION.md) | Thinker Grades and Artificial Artifact production |
-| [Economy System](core/10_ECONOMY_SYSTEM.md) | Prices, transactions, exchange rates, assets, and currency |
+</td>
+<td width="50%" valign="top">
 
-## ▰ GAMEPLAY SYSTEMS
+### 🌫️ BEYOND THE KNOWN MAP
 
-- [Combat System](gameplay/COMBAT_SYSTEM.md) — resolution, multi-hit attacks, combos, damage, and defense.
-- [Time & Action Rules](gameplay/TIME_AND_ACTION_RULES.md) — timestamps, action limits, sleep, and time skips.
-- [Hunger & Metabolism](core/HUNGER_AND_METABOLISM.md) — Satiety, meal timing, Spirit Realm effects, and metabolism.
-- [HP System](core/HP_SYSTEM.md) and [Injury System](core/INJURY_SYSTEM.md) — health, injury classes, and recovery.
-- [Cultivator Academies](core/CULTIVATOR_ACADEMIES.md) — academies and cultivator education.
+Some places are easy to find. Others have good reasons not to be found at all.
 
-## ▰ CHARACTER ARCHIVE
+**The map is an invitation, not a promise.**
 
-- [Registered Players](players.md) — character index.
-- [Yuha](players/Yuha.md) — initial character snapshot.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## ▰ START A SESSION
+### ⚔️ POWER HAS A PRICE
 
-1. Open the [Player Conversation Template](templates/PLAYER_CONVERSATION_TEMPLATE.md) and use the trigger `CONVO — [Character Name]`.
-2. For a registered character in a new session, read `players.md` and then the linked character file.
-3. For an ongoing session, continue from the latest profile and subsequent events; do not overwrite current state with the initial snapshot.
-4. Follow the bootstrap sequence in `INDEX.md`. Check `world/DYNAMIC_EVENTS.md` for relevant active events before loading other required modules.
-5. Use the official gameplay response template. In **MODE: NO STEP**, do not present a choice menu.
+Cultivation can open doors—but strength alone won't solve every problem, win every ally, or erase every mistake.
 
-For any transaction, exchange rate, price assessment, or balance change, follow [Economy System](core/10_ECONOMY_SYSTEM.md) and record only valid changes.
+**Every path leaves a trace.**
 
-## ▰ PROJECT RULES
+</td>
+<td width="50%" valign="top">
 
-- Never invent mechanics or claim to have read an unavailable file.
-- Separate canon facts, provisional proposals, rumors, and unknown information.
-- No plot armor; death is permanent unless an official mechanic states otherwise.
-- Lore modules do not override mechanics modules.
-- Character files and registries are initial snapshots, not an automatic save system.
-- Persistent world changes require owner/admin review and a verified update to the canon registry.
+### 🛠️ ANOTHER KIND OF GENIUS
+
+In a world shaped by Martial Souls and Spirit Beasts, there are minds that build power in very different ways.
+
+**Not every breakthrough comes from cultivation.**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏮 THE WORLD HAS ITS OWN CALENDAR
+
+Trade, festivals, rivalries, journeys, and changing circumstances continue beyond a single person's story.
+
+**The world won't freeze while you look away.**
+
+</td>
+<td width="50%" valign="top">
+
+### 📜 RUMORS AREN'T THE TRUTH
+
+A familiar name may hide a complicated history. A confident claim may be wrong. Some answers take more than asking once.
+
+**Discover. Verify. Decide what to believe.**
+
+</td>
+</tr>
+</table>
+
+---
+
+## ▰ PINNED TO THE BOARD
+
+<details>
+<summary><strong>✦ A gathering shared by three great powers</strong></summary>
+
+Every six in-world months, a recurring festival brings the wider world into view through regional goods, cultural displays, friendly sparring, and lantern-lit wishes. Its host and atmosphere can change; the world around it doesn't have to be peaceful just because a festival is underway.
+
+</details>
+
+<details>
+<summary><strong>✦ More than a journey from A to B</strong></summary>
+
+Routes, local conditions, transport, and the people encountered along the way matter. Not every place is equally connected—and not every encounter is waiting to become a battle.
+
+</details>
+
+<details>
+<summary><strong>✦ A story with consequences</strong></summary>
+
+Characters have their own priorities. Opportunities can be missed, relationships can change, and dangerous choices can have lasting outcomes. The world is not built to guarantee a particular ending.
+
+</details>
+
+---
+
+## ▰ YOUR NEXT LEAD
+
+<div align="center">
+
+| **FOLLOW THE TRAIL** | **OPEN THE ARCHIVE** |
+|:---:|:---:|
+| Start with the world's official entry point. | Browse the underlying world and gameplay records. |
+| [**OPEN INDEX.md →**](INDEX.md) | [**EXPLORE WORLD LORE →**](world/WORLD.md) |
+
+<sub>Want to see how the world is structured? The repository contains the deeper records—this front page is only the noticeboard.</sub>
+
+</div>
 
 ---
 
@@ -101,5 +136,7 @@ For any transaction, exchange rate, price assessment, or balance change, follow 
 **INVESTIGATION FILE // MERZKAVA UNIVERSE**
 
 <sub>LIGHT ORANGE EDITION · #FFB36B / #151515 / #FFFFFF</sub>
+
+*Look closer. The first impression is rarely the whole story.*
 
 </div>

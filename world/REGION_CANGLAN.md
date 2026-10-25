@@ -33,10 +33,8 @@
 Prefectures and seats:
 - Qinghe Prefecture — Qinghe
 - Jiangbei Prefecture — Jiangbei
-- Lianzhou Prefecture — Lianzhou
-- Mingchuan Prefecture — Mingchuan
-- Yunshui Prefecture — Yunshui
-- Shuangjiang Prefecture — Shuangjiang
+
+Former prefectural seats retained as cities/local service hubs: Lianzhou, Mingchuan, Yunshui, and Shuangjiang. They are not active prefectures.
 
 The administrative atlas is authoritative for names, territory estimates, and the selected village list. The listed named villages are maintained as roleplay locations for this region; unlisted hamlets may exist but are not individually catalogued. Development and services are strongest near Huanglongcheng and major regional seats, then generally thin with distance, isolation, and difficult terrain. Do not infer exact borders or travel times from the jurisdiction list alone.
 

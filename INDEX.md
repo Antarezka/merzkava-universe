@@ -4,22 +4,22 @@ INDEX ini adalah **pintu masuk tunggal** untuk memulai, melanjutkan, dan menjala
 
 Repository resmi: https://github.com/Antarezka/merzkava-universe
 
-## Struktur Repositori Wilayah — WAJIB
+## Struktur Wilayah di Dalam Repo — WAJIB
 
-Struktur wilayah yang dimaksud adalah **tepat tiga kekuasaan besar**, bukan satu repo untuk setiap provinsi, kawasan, kota, atau desa:
+**Seluruh dunia Merzkava Universe dikelola di satu repositori resmi ini:** `Antarezka/merzkava-universe`. Nama Golden Dragon Empire, Tianhai Yunzhou, dan Beiming Gu adalah **tiga kekuasaan besar di dalam dunia**, bukan instruksi untuk membuat tiga repositori GitHub terpisah.
 
-1. **Golden Dragon Empire** — satu repositori untuk seluruh wilayah kekaisaran, seluruh subwilayah/permukiman di dalamnya, pemerintahan, faksi, jalur, serta NPC yang berasal atau bernaung di sana.
-2. **Tianhai Yunzhou** — satu repositori untuk seluruh Tianhai Yunzhou, termasuk kawasan, kota terapung, akademi, institut, jalur transit, faksi, serta NPC Tianhai Yunzhou.
-3. **Beiming Gu** — satu repositori untuk seluruh Beiming Gu, termasuk kawasan-kawasannya, permukiman, jalur darat/laut, faksi, serta NPC Beiming Gu.
+**Jangan membuat, meminta, atau mengarahkan migrasi ke repositori regional eksternal.** Struktur kanonis berada di dalam repo yang sama:
+- `world/` — canon global, peta, geografi, sejarah, jalur lintas wilayah, pemerintahan, faksi, dan modul dunia sesuai cakupannya.
+- `regions/golden-dragon-empire/` — indeks regional dan data khusus Golden Dragon Empire.
+- `regions/tianhai-yunzhou/` — indeks regional dan data khusus Tianhai Yunzhou.
+- `regions/beiming-gu/` — indeks regional dan data khusus Beiming Gu.
+- `regions/<power>/npcs/` — registry serta profil NPC kanonis yang dimiliki/berafiliasi dengan kekuasaan terkait.
 
-**Kunci nama kanonis:** ikuti persis nama yang ditetapkan `world/WORLD.md`: **Golden Dragon Empire**, **Tianhai Yunzhou**, dan **Beiming Gu**. Jangan mengganti nama resmi dengan terjemahan, membuat nama alternatif, atau menulis nama wilayah yang berbeda pada indeks, aturan navigasi, maupun arsitektur repositori.
+Subwilayah, provinsi, kawasan, kota, desa, akademi, institusi, dan faksi tetap menjadi **folder atau modul di dalam repo ini**, bukan repositori terpisah. Jangan membuat repo NPC global keempat. Jangan memindahkan modul canon global ke folder regional hanya karena modul itu menyebut suatu wilayah; tempatkan data menurut cakupan dan otoritas canon-nya.
 
-**Subwilayah bukan repositori tersendiri.** Kota/desa/kawasan dan NPC ditempatkan di dalam repositori kekuasaan besarnya masing-masing. NPC disimpan di repositori wilayah asal/afiliasi kanonisnya, bukan di repositori NPC global terpisah.
+Nama kekuasaan harus mengikuti `world/WORLD.md` secara persis: **Golden Dragon Empire**, **Tianhai Yunzhou**, dan **Beiming Gu**. Navigasi wajib mengikuti pola: INDEX pusat → indeks/modul kekuasaan di repo yang sama → modul lokasi/permukiman dan registry NPC → profil NPC relevan.
 
-- `merzkava-universe` tetap menjadi repo pusat: indeks global, aturan/mekanik lintas wilayah, template, canon global, dan tautan ke tiga repo kekuasaan besar.
-- Pola navigasi mengikuti `world/REGIONAL_REPOSITORY_ARCHITECTURE.md` dan pendekatan hub-and-spoke: INDEX pusat → repo kekuasaan yang sesuai → INDEX lokal → modul lokasi/permukiman dan registry NPC → profil NPC relevan.
-- Jangan membuat atau menebak URL repositori. Tautan harus mengarah ke repositori nyata dan diverifikasi sebelum dipakai.
-- **Status implementasi:** profil lengkap NPC yang sudah terverifikasi kini berada di folder staging `regions/golden-dragon-empire/npcs/`, `regions/tianhai-yunzhou/npcs/`, dan `regions/beiming-gu/npcs/`, masing-masing dengan INDEX/registry sesuai struktur regional. Beiming Gu kini memiliki 21 profil kanonis: Beiming Han, Beiming Xenhwa, Beiming Jingheng, Beiming Nerva, satu kepala untuk masing-masing dari 12 klan, dan satu master untuk masing-masing dari 5 dojo. Beiming Nerva adalah Thinker Grade 9 kedua yang sebelumnya belum teridentifikasi. Daftar lengkap: `regions/beiming-gu/npcs/REGISTRY.md`. Path lama `world/NPC_*.md` tetap harus diperlakukan sesuai isi aktualnya; jangan menganggap semua path lama sudah menjadi pointer tanpa memverifikasinya. Ketiga folder staging masih berada di repo pusat karena repositori GitHub wilayah terpisah belum tersedia/terverifikasi; jangan mengklaim pemisahan tiga repo sudah selesai.
+**Status implementasi:** folder regional dan profil NPC berada di repo ini, bukan di repositori eksternal. Beiming Gu memiliki 21 profil kanonis yang dicatat di `regions/beiming-gu/npcs/REGISTRY.md`: Beiming Han, Beiming Xenhwa, Beiming Jingheng, Beiming Nerva, 12 kepala klan, dan 5 master dojo. Beiming Nerva adalah Thinker Grade 9 kedua yang tercatat. Sebelum mengubah atau menghapus path lama `world/NPC_*.md`, periksa isi aktualnya dan sinkronkan seluruh referensi yang terdampak. Tidak ada migrasi lintas-repo yang diwajibkan; pekerjaan struktur harus dilakukan di repo `merzkava-universe` yang sudah ada.
 
 ## 0. Prosedur Bootstrap (WAJIB)
 

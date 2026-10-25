@@ -133,3 +133,14 @@ For the authoritative requirements, limitations, and GM rules, see `core/THINKER
 - **Operating limits:** Requires dedicated aircraft, compatible liquefied energy, trained crew and technicians, maintenance, passenger processing, and an operating transit terminal. Flights may be suspended by weather, security, maintenance, or fuel-supply disruption.
 - **Unknown details:** Exact tier, aircraft model, seating capacity, speed, travel time, timetable, fleet size, ticket class structure, operators/owners, maintenance cycle, and emergency procedures remain unestablished.
 - **Canon boundary:** The existence of the transport class, two corridors, comparative capacity, energy source, and round-trip fares is established. Do not invent precise specifications or assume routes to other cities exist.
+
+
+### AAF-005 — Portable Spirit Ring Stasis Artifact (Class Reference)
+- **Tier / model:** Not established; this is a known artifact class, not one uniquely catalogued specimen.
+- **Type / function:** A compact, expensive Artificial Artifact that places a Spirit Ring into a stable stasis state so the ring can be transported and absorbed at another location rather than forcing absorption immediately at the point where the Spirit Beast was defeated.
+- **Physical form:** Designed to be pocket-sized or similarly portable; exact dimensions, storage capacity, shelf life, activation method, compatibility limits, and failure conditions remain unestablished.
+- **Availability:** Rare and expensive. Known access is normally associated with elite academies, military institutions, and other major powers or high-resource organizations. It is not ordinary equipment available to every cultivator.
+- **Mechanics boundary:** Stasis does not itself grant ownership of a Spirit Ring, guarantee safe absorption, remove compatibility requirements, change the ring's age or nature, or bypass core/SPIRIT_RING_RULES.md. The ring, artifact, custody, transport, and eventual absorption must each be established and resolved correctly.
+- **Creator / formulation / exact price:** Unknown. Do not invent a tier, fee, universal storage limit, guaranteed preservation duration, or success bonus.
+
+This portable stasis artifact class is known to appear in high-end Lawless Territories auctions, but an auction listing does not imply the item is genuine, functional, legally obtained, or available at every auction.

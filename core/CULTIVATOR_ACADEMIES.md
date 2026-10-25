@@ -75,7 +75,7 @@ Only two specific central boarding academies exist in established Golden Dragon 
 - Thinker education and access to specialized equipment, including a Formation Engraver, are not automatically included in ordinary academy education.
 - An academy may provide a pathway toward further study, but attendance alone does not confer Thinker Grade, Spirit Realm advancement, combat mastery, or access to restricted knowledge.
 
-Specific institutions, their reputations, locations, admissions, costs, and teaching standards remain undefined until established.
+Outside the Golden Dragon Empire, institution counts and rules are established by regional canon rather than inferred from the Empire's two-academy limit. Tianhai Yunzhou has four established Cultivator Academies, documented in `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md`; their methods are more flexible than the Empire's orthodox central academies, but official cultivation, Spirit Ring, combat, and Thinker mechanics still apply. Their exact admissions, costs, and detailed curricula remain unspecified.
 
 ## 4. LIMITS OF EDUCATION
 
@@ -101,7 +101,7 @@ When education matters in gameplay:
 
 ## 6. CANON CONTINUITY
 
-- The two-academy limit, Tianfeng's role as a source of talent rather than a third academy, and conflict-resolution rules are binding; consult `world/CANON_DECISIONS_AND_PRECEDENCE.md` before changing or extending this structure.
+- The two-academy limit applies to the Golden Dragon Empire's central boarding academies, not to Tianhai Yunzhou or the entire world. Tianfeng remains a source of talent rather than a third Imperial academy. Consult `world/CANON_DECISIONS_AND_PRECEDENCE.md` before changing or extending the Imperial structure.
 
 ## 7. RELATED SOURCES
 

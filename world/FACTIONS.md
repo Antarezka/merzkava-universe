@@ -2,7 +2,7 @@
 
 **Status:** Faction reference module.  
 **Scope:** Established political powers, clans, dojos, and named organizations.  
-**Authority:** `world/WORLD.md` establishes the world-level identities. This file organizes those entries; it does not invent current leaders, secret alliances, wars, or ownership.
+**Authority:** `world/WORLD.md` establishes the world-level identities. This file organizes those entries; it does not invent current leaders, secret alliances, wars, or ownership. Binding continuity decisions and conflict precedence are recorded in `world/CANON_DECISIONS_AND_PRECEDENCE.md`.
 
 ## 1. Three Major Powers
 
@@ -104,7 +104,7 @@ These entries do not establish the current leader, membership, internal politics
 
 ## 6. Spirit Hunters Guild
 
-The Spirit Hunters Guild is a cross-regional organization concept for arranging temporary Spirit Beast hunting parties, sharing field leads, and recording serious misconduct during expeditions. Its detailed rules, temporary membership, blacklisting, and Deadpool bounty notices are maintained in `world/SPIRIT_HUNTERS_GUILD.md`.
+The Spirit Hunters Guild is a broad contract-and-jobs Guild, not an organization limited to Spirit Beast hunting. Its contract boards may include escort, cargo transport, item searches, reconnaissance, retrieval, protection, verified information gathering, Spirit Beast tracking/hunting, and other clearly defined work. It supports temporary contract registration and mixed parties. The established name remains unchanged unless the owner explicitly renames it; its detailed scope, temporary registration, difficulty tiers, misconduct rules, blacklisting, and Deadpool bounty notices are maintained in `world/SPIRIT_HUNTERS_GUILD.md`.
 
 The Guild is not a unified government or universal police force. Do not assume a branch, legal jurisdiction, permanent membership, uniform rules, or ability to enforce a bounty everywhere. Local presence and influence must follow canon or events.
 

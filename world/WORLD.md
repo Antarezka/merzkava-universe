@@ -23,7 +23,7 @@ Dunia ini memiliki tiga kekuasaan utama:
 
 Ketiganya memiliki pemerintahan, struktur sosial, sumber daya, kepentingan, dan kekuatan militer masing-masing. Tidak satu pun menguasai seluruh dunia.
 
-Di luar yurisdiksi resmi mereka terdapat wilayah-wilayah yang dikenal sebagai Lawless Territories. Wilayah ini menampung desa independen, kultivator buronan, orang buangan, organisasi kriminal, klan sesat, serta sekte demonic.
+Di luar yurisdiksi resmi mereka terdapat wilayah-wilayah yang dikenal sebagai Lawless Territories. Wilayah ini menampung desa independen, kultivator buronan, orang buangan, organisasi kriminal, klan sesat, serta sekte demonic. Lawless Territories memiliki ekonomi bawah tanah yang mapan tetapi tidak aman: perantara kontrak assassin independen, appraisal yang dapat menipu pembeli yang kurang berpengalaman, arena sparring ilegal dengan taruhan, lelang elit yang disponsori beberapa organisasi, penyelundupan lintas batas, serta rumah hiburan kecil. Tanah pertaniannya buruk sehingga pangan cenderung langka dan mutunya rendah. Detail kanonisnya berada di world/LAWLESS_TERRITORIES.md; jangan menganggap seluruh wilayah dikuasai satu organisasi atau semua penduduknya kriminal.
 
 Selain kekuasaan politik dan kelompok kultivasi, Medicine Hall Society memiliki jaringan pengobatan netral yang tersebar di seluruh dunia.
 

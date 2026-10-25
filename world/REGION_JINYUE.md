@@ -37,7 +37,7 @@ Prefectures and seats:
 
 Former prefectural seats retained as cities/local service hubs: Jinsha and Lingkuang. They are not active prefectures.
 
-The administrative atlas is authoritative for names, territory estimates, and the selected village list. The listed named villages are maintained as roleplay locations for this region; unlisted hamlets may exist but are not individually catalogued. Development and services are strongest near this region's regional seat and major settlements, then generally thin with distance, isolation, and difficult terrain. Do not infer exact borders or travel times from the jurisdiction list alone.
+The administrative atlas is authoritative for names, territory estimates, and the selected village list. The listed named villages are maintained as roleplay exploration anchors for this region; unlisted hamlets may exist but are not individually catalogued. Development and services are strongest near this region's regional seat and major settlements, then generally thin with distance, isolation, and difficult terrain. Do not infer exact borders or travel times from the jurisdiction list alone.
 
 **Population-facing institutions:** Use `world/GOLDEN_DRAGON_EMPIRE_POPULATION_SERVICES.md` for named Ninefold Concord Bank and Myriad Ledger Exchange branches and Medicine Hall Society service points. The same register establishes only two boarding academies, both in Huanglongcheng, plus selected Ordo Suci Tianming public libraries; neither academies nor libraries are presumed to exist in every region. The central register governs named locations and service limits.
 
@@ -66,30 +66,41 @@ This is the region's compact named village roster. Other former village names re
 |---|---|---|---|
 | Orebrook Village | Rural village | Ore sorting and mule-cart supply | Local community; detailed NPCs and services pending |
 | Jade Hollow Village | Rural village | Small-scale stone and jade work | Local community; detailed NPCs and services pending |
+| Copper Bell Village | Rural village | peleburan kecil dan perbaikan alat tambang | tanjakan ke Ironcloud; gerobak berat perlu hewan penarik |
+| Deep Jade Village | Rural village | pemilah batu dan pengrajin ukiran | jalur pegunungan dari Yumai; kabut menutup lintasan |
+| Ash Mule Village | Rural village | kandang hewan angkut, pandai besi, gudang mineral | simpang karavan Lingkuang–Orebrook |
 ## 4. Local Society and Daily Life
-- Local demographics and population distribution within settlements: Belum ditetapkan; regional planning total is listed in Section 2A.
-- Social structure and customs: Belum ditetapkan
-- Language and local etiquette: Belum ditetapkan
-- Ordinary occupations and services: Belum ditetapkan
+
+- Penambang, pemilah bijih, pengangkut, pemahat, pandai besi, pemeriksa keselamatan, dan keluarga pekerja mendominasi kota industri. Pergantian sif mengatur keramaian.
+- Pemilik konsesi dan pedagang bahan spiritual makmur, sementara buruh menanggung debu, longsor, dan utang peralatan. Klinik luka tambang, rumah makan sif malam, penginapan karavan, dan tukang alat lebih banyak di kota besar.
+
 
 ## 5. Economy and Resources
-- Main livelihoods: Belum ditetapkan
-- Known resources: Belum ditetapkan
-- Markets, prices, and trade flows: Refer to `core/10_ECONOMY_SYSTEM.md`; regional specifics pending
+
+- **Kekuatan:** bijih, giok, logam spiritual, batu bangunan, alat tambang, ukiran, dan bahan artefak.
+- Orebrook memilah bijih untuk Yumai; Deep Jade memasok ukiran premium; Copper Bell memperbaiki alat karavan; Ash Mule menyediakan hewan angkut.
+- **Destinasi elit:** Galeri Urat Giok dekat Yumai memamerkan batu langka dan mengadakan lelang tertutup. Tur tambang aktif hanya dengan izin dan pemandu.
+- Risiko: bijih ilegal, sertifikat palsu, muatan dicuri, runtuhnya terowongan, kecelakaan disembunyikan.
+
 
 ## 6. Cultivation, Martial Souls, Spirit Beasts, and Thinkers
-- Local traditions / institutions: Belum ditetapkan
-- Academies, dojos, or training locations: Belum ditetapkan
-- Spirit Beast habitats and confirmed species: Refer to `bestiary/SPIRIT_BEAST_RULES.md`; regional entries pending
-- Thinker workshops / artifact facilities: Belum ditetapkan
-- Do not invent local power rankings, special rules, or rare abilities.
+
+- Lokasi eksplorasi: lorong tambang disegel setelah retakan, jembatan gantung tua, stasiun timbang terbengkalai, dan jalur karavan yang ditinggalkan setelah longsor.
+- Gas tambang, batu rapuh, debu, dan runtuhan adalah bahaya; barang temuan harus diperiksa, bukan dianggap hadiah.
+
 
 ## 7. Factions and Local Authority
-- Refer to `world/FACTIONS.md`; region-specific presence and control pending
+
+- Political tendencies follow `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`; inclination is not proof of secret faction membership.
+
+### Regional business and community networks
+- **Serikat Penambang Legal** menuntut keselamatan dan upah; **Konsorsium Penimbang Yumai** menentukan standar mutu; **Perhimpunan Pengukir Giok** menghubungkan desa ke kolektor.
+- Galeri elit membeli karya terbaik sehingga bahan berkualitas kadang dialihkan dari kebutuhan lokal. Serikat pekerja dapat berselisih dengan pemilik konsesi.
 
 | Name | Type | Role / influence | Confirmed relationship or control | Canon source |
 |---|---|---|---|---|
-| See `GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` | Current civil officeholders | Named governor, prefects, and county magistrates | Roster is authoritative for names and dispositions | `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` |
+| See `GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` | Current civil officeholders | Governor, prefects, retained regional/circuit officers | Central roster is authoritative | `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` |
+
 
 ## 8. Regional NPC Registry
 
@@ -105,15 +116,23 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPC
 | Pei Yanzhao | Jinyue; exact assignment unconfirmed | Mineral Lands Circuit liaison officer |Spirit Realm 4 — Spirit Monarch, Late Stage; netral dan prosedural; Orientasi rakyat: sedang; penegakan hukum 3/5 — moderat dan prosedural| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
 
 ## 9. Current Situations and Events
-- Local conflicts: Belum ditetapkan
-- Active world events: Check `world/DYNAMIC_EVENTS.md`; do not create events here
-- Persistent consequences: Record only through the official event/history process
+
+- **Kecil — Paku Berkarat (6–14):** pencuri alat dan penipu berat muatan.
+- **Menengah — Urat Palsu (20–45):** penyelundup serta pemalsu sertifikat bijih di lintasan gunung.
+- **Besar — Konsorsium Bawah Tanah:** kelompok lintas tambang menguasai beberapa lorong ilegal, mengancam saksi, dan menyuap pengawas.
+- Gubernur Tieyan Mingxuan (Spirit Realm 6) mampu menekan kelompok terbuka, tetapi konsorsium bertahan lewat lorong rahasia, suap, dan bukti yang dimusnahkan.
+
+**GM encounter rule:** groups are established threats, not a schedule forcing every group to attack every session. Randomize the lead, rumor, victim, patrol, or opportunity; scale encounters to local conditions. Activity shifts after arrests, weather, shortages, and patrol pressure. Do not decide guilt solely from appearance or origin.
+
 
 ## 10. Travel and GM Constraints
-- Confirmed routes: Ore Vein Road (Yumai ↔ Tieyun); local mine routes remain unspecified
-- Transport available: Only when established in canon
-- Do not infer coordinates, adjacency, exact travel time, current faction control, or hidden NPC lore.
-- If a detail is missing, leave it unconfirmed until the owner fills it in.
+
+- Ore Vein Road menghubungkan Yumai ↔ Tieyun untuk kargo berat. Jalur karavan: Yumai → Deep Jade → Ash Mule → Lingkuang; jalur utara Tieyun → Copper Bell → Orebrook.
+- Tidak semua jalan cocok untuk gerobak. Longsor dapat memutus jalur dan memaksa karavan kembali ke simpang atau mengganti hewan angkut.
+
+- Treat routes as a connected graph: destinations require listed connected legs or a newly recorded path.
+- Do not invent exact distances or travel times without travel rules, transport mode, and weather support.
+
 
 ## 11. Owner Completion Checklist
 - [ ] Add geography and confirmed routes

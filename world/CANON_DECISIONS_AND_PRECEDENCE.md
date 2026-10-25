@@ -77,6 +77,17 @@ Do not assume the Guild is a universal police force, a world government, a sect,
 - Ruined Archiver does not subordinate independent guilds and has no universal authority to ban access to Ruined. Recommendations and enforcement depend on local law. Do not treat every Ruined as anomalous, every anomaly as apocalyptic, or every Ruined as publicly listed.
 - More than one thousand Golden Age Ruined are scattered around the world. Unexplored Ruined have no complete map in advance; hidden treasure requires discovery and fulfillment of its own trigger conditions. Mapped sites may have exhausted principal rewards and still provide ordinary finds or training opportunities where their actual hazards allow.
 
+### 2.7 Festival Tiga Kekuasaan — Binding Recurring Event
+
+- Festival Tiga Kekuasaan is a canonical recurring event held every **six in-world months (twice per year)**, hosted in turn by Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu. It is not a monthly event.
+- Its purpose is peaceful ties and cultural exchange among the three powers. The festival brings representation from the three powers and their known sects, clans, factions, and institutions; hidden mountain groups may be represented only when their existence/access is known or discovered in the story.
+- Its grounds showcase regional goods and culture, including characteristic textiles and products, Artificial Artifacts, engravers, locally relevant Spirit Beast catalogs, regional food, clothing, customs, and differences in fighting styles. The three powers also present characteristic dances and other established performances.
+- Friendly sparring is a headline event. Killing is prohibited; designated referees and festival security intervene against lethal escalation. Incidents are still resolved under the relevant official combat, injury, law, and faction rules.
+- The night lantern release is especially associated with couples, but anyone may release a lantern as a prayer or expression of goodwill and hope. A wish has no automatic supernatural effect.
+- The festival is a natural way to reveal broad world and regional context to players without forcing attendance or overwhelming a scene with exposition. Small or medium crimes, prejudice, cultural friction, and other tensions may occur when supported by circumstances; a major incident requires an established trigger. Do not force a crime into every edition.
+- The exact next host, fixed rotation order, venue, date, duration, and detailed event program are not established by this decision. Resolve them only from a confirmed prior edition/calendar, relevant regional canon, or a later explicit owner decision.
+- The event's canonical registry record and GM operating guidance are maintained in `world/DYNAMIC_EVENTS.md`. Do not duplicate edition-specific incidents here; register persistent outcomes through the normal event workflow.
+
 ## 3. Updating Canon Safely
 
 ### Tianhai Yunzhou organization network — binding local placements

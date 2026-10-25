@@ -12,6 +12,8 @@ Struktur wilayah yang dimaksud adalah **tepat tiga kekuasaan besar**, bukan satu
 2. **Tianhai Yunzhou** — satu repositori untuk seluruh Tianhai, termasuk kawasan, kota terapung, akademi, institut, jalur transit, faksi, serta NPC Tianhai.
 3. **Beiming Gu** — satu repositori untuk seluruh Beiming Gu, termasuk kawasan-kawasannya, permukiman, jalur darat/laut, faksi, serta NPC Beiming Gu.
 
+**Kunci nama kanonis:** ikuti persis nama yang ditetapkan `world/WORLD.md`: **Golden Dragon Empire**, **Tianhai Yunzhou**, dan **Beiming Gu**. Jangan mengganti nama resmi dengan terjemahan, membuat nama alternatif, atau menulis nama wilayah yang berbeda pada indeks, aturan navigasi, maupun arsitektur repositori.
+
 **Subwilayah bukan repositori tersendiri.** Kota/desa/kawasan dan NPC ditempatkan di dalam repositori kekuasaan besarnya masing-masing. NPC disimpan di repositori wilayah asal/afiliasi kanonisnya, bukan di repositori NPC global terpisah.
 
 - `merzkava-universe` tetap menjadi repo pusat: indeks global, aturan/mekanik lintas wilayah, template, canon global, dan tautan ke tiga repo kekuasaan besar.

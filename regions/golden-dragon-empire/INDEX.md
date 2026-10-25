@@ -1,7 +1,7 @@
-# Golden Dragon Empire — Regional Staging Index
+# Golden Dragon Empire — Regional Index
 
-**Scope:** Regional staging area for canon owned by the Golden Dragon Empire.
-**Status:** NPC profiles have been relocated here. This folder is inside `Antarezka/merzkava-universe`; it is not yet a separate GitHub repository. Do not claim the separate regional repository is created until it exists and is linked from the central INDEX.
+**Scope:** Navigation index for Golden Dragon Empire canon and NPC references within `Antarezka/merzkava-universe`.
+**Status:** This is the permanent in-repository regional directory under the current architecture, not a staging area for an external repository. Regional facts remain in the linked canonical `world/REGION_*.md` modules; NPC registries and profiles are linked below.
 
 ## NPC loading order
 

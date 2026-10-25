@@ -2,7 +2,7 @@
 
 **Status:** Owner-authorized canonical administrative register.
 **Scope:** Seven major regions, twelve prefectures, six county circuits, and thirteen named rural villages.
-**Population baseline:** approximately 320 million. The Empire's working area estimate is approximately 12.8 million km², derived from the population scale, productive land, settlement spacing, transport corridors, and extensive mountain/frontier/wild areas. This is a planning model, not a surveyed census or boundary claim; regional average density is not the same as city density.
+**Population baseline:** approximately 320 million. The Empire's working area estimate is approximately 11.86 million km², estimated from the 320-million population baseline using region-specific average-density assumptions based on agricultural productivity, urban/port concentration, industrial settlement, frontier buffers, and wilderness. These density assumptions are planning inputs, not measured census data. This is a planning model, not a surveyed census or boundary claim; regional average density is not the same as city density.
 **Authority:** This file is the single source for administrative counts, names, and parent relationships.
 
 ## 1. Empire-wide Structure
@@ -22,16 +22,16 @@ The former register of 33 prefectures, 268 counties, 361 cities, 1,838 towns, an
 
 | Region | Regional seat | Population estimate | Area estimate | Approx. average density | Core identity | Prefectures |
 |---|---|---:|---:|---|---:|
-| Longyuan | Huanglongcheng | 44 million | 1.4 million km² | ~31/km² | Imperial court, ministries, nobles, politics | 2 |
-| Canglan | Qinghe | 64 million | 2.1 million km² | ~30/km² | Agriculture, irrigation, river transport | 2 |
-| Jinyue | Yumai | 32 million | 1.6 million km² | ~20/km² | Mines, spiritual metals, artifact materials | 2 |
-| Tianfeng | Tianshu | 40 million | 1.5 million km² | ~27/km² | Academies, cultivation education, knowledge | 2 |
-| Yanling | Honglu | 36 million | 1.8 million km² | ~20/km² | Furnaces, smithing, spiritual forging | 2 |
-| Baiyue | Beiguan | 32 million | 2.4 million km² | ~13/km² | Frontier defense, fortifications, military routes | 1 |
-| Xingluo | Dongxing | 72 million | 2.0 million km² | ~36/km² | Ports, maritime trade, diplomacy | 1 |
-| **Total** | — | **320 million** | **12.8 million km²** | **25/km²** | — | **12** |
+| Longyuan | Huanglongcheng | 44 million | 1.26 million km² | ~35/km² | Imperial court, ministries, nobles, politics | 2 |
+| Canglan | Qinghe | 64 million | 1.42 million km² | ~45/km² | Agriculture, irrigation, river transport | 2 |
+| Jinyue | Yumai | 32 million | 1.78 million km² | ~18/km² | Mines, spiritual metals, artifact materials | 2 |
+| Tianfeng | Tianshu | 40 million | 1.33 million km² | ~30/km² | Academies, cultivation education, knowledge | 2 |
+| Yanling | Honglu | 36 million | 1.80 million km² | ~20/km² | Furnaces, smithing, spiritual forging | 2 |
+| Baiyue | Beiguan | 32 million | 2.67 million km² | ~12/km² | Frontier defense, fortifications, military routes | 1 |
+| Xingluo | Dongxing | 72 million | 1.60 million km² | ~45/km² | Ports, maritime trade, diplomacy | 1 |
+| **Total** | — | **320 million** | **11.86 million km²** | **~27/km²** | — | **12** |
 
-Regional seats remain regional centers and are not automatically separate prefectures or counties. The average densities above are broad regional averages across cities, farmland, settlements, transport corridors, mountains, and wilderness; they do not imply evenly spread population. Most residents cluster around cities, river valleys, farms, mines, industrial basins, ports, and guarded roads.
+Regional seats remain regional centers and are not automatically separate prefectures or counties. The average densities above are working assumptions used to estimate area from population and regional character, then rounded for practical worldbuilding. They describe broad averages across cities, farmland, settlements, transport corridors, mountains, and wilderness; they do not imply evenly spread population. Most residents cluster around cities, river valleys, farms, mines, industrial basins, ports, and guarded roads.
 
 ### 2.1 Population rhythm and route density
 

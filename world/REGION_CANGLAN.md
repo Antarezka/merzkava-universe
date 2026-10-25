@@ -101,12 +101,12 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPC
 
 | Name / public identity | Location | Role | Public traits | Profile link / source |
 |---|---|---|---|---|
-| Cangyue Yunhe | Qinghe; exact office location unconfirmed | Regional Governor | Spirit Realm 8 — Spirit Sovereign, Early Stage; pragmatis, menjaga keseimbangan saudagar, petani, dan istana | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
-| Qin Yongning | Qinghe | Prefect, Qinghe Prefecture | Spirit Realm 6 — Spirit Ancestor, Peak Stage; populis, mendengar keluhan rakyat kecil | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
-| Qin Xingzhou | Jiangbei | Prefect, Jiangbei Prefecture | Spirit Realm 6 — Spirit Ancestor, Early Stage; loyalis istana, menolak perintah ilegal | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
-| Han Jingyu | Canglan; exact assignment unconfirmed | Regional consolidation officer (former Lotus Ford Prefecture) | Spirit Realm 6 — Spirit Ancestor, Middle Stage; netral dan prosedural | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
-| Han Qinglan | Canglan; exact assignment unconfirmed | Regional consolidation officer (former Granary Plain Prefecture) | Spirit Realm 6 — Spirit Ancestor, Late Stage; dekat dengan kepentingan saudagar | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
-| Pei Jianing | Canglan; exact assignment unconfirmed | Riverlands Circuit liaison officer | Spirit Realm 4 — Spirit Monarch, Middle Stage; pragmatis, condong ke stabilitas takhta | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Cangyue Yunhe | Qinghe; exact office location unconfirmed | Regional Governor |Spirit Realm 5 — Spirit King, Early Stage; pragmatis, menjaga keseimbangan saudagar, petani, dan istana; Orientasi rakyat: sangat tinggi; penegakan hukum 2/5 — lunak-moderat, mediasi dan peringatan lebih dahulu| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Qin Yongning | Qinghe | Prefect, Qinghe Prefecture |Spirit Realm 5 — Spirit King, Peak Stage; populis, mendengar keluhan rakyat kecil; Orientasi rakyat: sangat tinggi; penegakan hukum 2/5 — lunak-moderat, mediasi dan peringatan lebih dahulu| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Qin Xingzhou | Jiangbei | Prefect, Jiangbei Prefecture |Spirit Realm 5 — Spirit King, Early Stage; loyalis istana, menolak perintah ilegal; Orientasi rakyat: sedang; penegakan hukum 3/5 — moderat dan prosedural| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Han Jingyu | Canglan; exact assignment unconfirmed | Regional consolidation officer (former Lotus Ford Prefecture) |Spirit Realm 4 — Spirit Monarch, Middle Stage; netral dan prosedural; Orientasi rakyat: sedang; penegakan hukum 3/5 — moderat dan prosedural| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Han Qinglan | Canglan; exact assignment unconfirmed | Regional consolidation officer (former Granary Plain Prefecture) |Spirit Realm 4 — Spirit Monarch, Late Stage; dekat dengan kepentingan saudagar; Orientasi rakyat: sedang–rendah; penegakan hukum 3/5 — moderat dan prosedural| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Pei Jianing | Canglan; exact assignment unconfirmed | Riverlands Circuit liaison officer |Spirit Realm 4 — Spirit Monarch, Middle Stage; pragmatis, condong ke stabilitas takhta; Orientasi rakyat: sangat tinggi; penegakan hukum 2/5 — lunak-moderat, mediasi dan peringatan lebih dahulu| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
 
 ## 9. Current Situations and Events
 - Local conflicts: Belum ditetapkan

@@ -30,7 +30,7 @@ This acceptance is often transactional. A person may be treated as an asset, wea
 
 ### 4. Golden Dragon Empire — Accepted, Yet Considered Impure
 
-The Golden Dragon Empire follows orthodox traditions that place high value on perceived purity. Half-beast people are nevertheless accepted as members of society and are not categorically excluded from living within the Empire.
+The Golden Dragon Empire follows orthodox traditions that place high value on perceived purity. Half-beast people are nevertheless accepted as members of society and are not categorically excluded from living within the Golden Dragon Empire.
 
 However, prejudice remains common in some communities and institutions. They may face racism, social exclusion, unequal treatment, or suspicion because their lineage is considered impure by orthodox-minded people. Legal or social acceptance does not guarantee equal treatment.
 

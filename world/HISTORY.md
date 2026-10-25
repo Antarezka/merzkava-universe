@@ -94,7 +94,7 @@ Use this format:
 - Historical time and the current gameplay calendar are separate unless an official source links them.
 - Where the chronology is unknown, preserve `???` rather than filling gaps with invented dates.
 
-## 5. World Knowledge Tower and the Growth of Wanluo
+## 6. World Knowledge Tower and the Growth of Wanluo
 
 The World Knowledge Tower is established as an ancient divine relic from the Early Golden Age. The identity of its makers, the precise date of its origin, the details of its original purpose, and the full sequence of events surrounding it remain unknown.
 
@@ -103,7 +103,7 @@ The surrounding Wanluo Sacred Expanse developed over generations as pilgrims and
 Ordo Suci Tianming and its headquarters, the Sanctum of Ten Thousand Vows, are part of the current worldbuilding for the religious institutions associated with Wanluo. Their founding date, founders, formal doctrine, and leadership history remain unestablished. The Ordo's established world-survival mandate is to help the world detect dangerous anomalies early. After the ancient world-calamity incursion, it works with the World Knowledge Tower and an alliance of elite envoys from the Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu. The alliance's formal name and full roster remain unestablished. The Tower itself remains an ancient divine relic from the Early Golden Age, not a relic created by the Ordo.
 
 
-## 6. Azerion Forest and the Northern Ancestor's Hidden Wound
+## 7. Azerion Forest and the Northern Ancestor's Hidden Wound
 
 **GM-sensitive established history; not common knowledge.** During the world-calamity incursion described in HIST-001, Beiming Han subdued a Demonic Beast that had descended through the otherworldly gates. After its mind was purified, its existence rose to become a **Heavenly Beast, rank 9**. The encounter left a scar on Beiming Han. The beast is a colossal dragon with a deer-like head, enormous and beautifully branching antlers, and deep-blue eyes. It later dwelled deep within **Azerion Forest**. Humans use **Dead Zone** to refer specifically to the deepest inner/core zone of the forest, not the whole forest. Its personal name, exact chronology, full purification process, present motives, and further capabilities remain unknown.
 

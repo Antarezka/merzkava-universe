@@ -23,7 +23,7 @@ A person may seek **temporary registration for a specific contract or party** wi
 - independent cultivators, hired guides, and ordinary professional hunters;
 - half-beasts and other intelligent peoples where they can join and communicate under the local conditions;
 - people from Lawless Territories;
-- low-ranking imperial personnel or members of the lower social circles of the Empire;
+- low-ranking imperial personnel or members of the lower social circles of the Golden Dragon Empire;
 - strangers whose background or motives have not yet been verified.
 
 This mixture is normal enough to be plausible, but the exact roster is decided by local availability, the expedition's requirements, and events. Do not force every listed background into every team, and do not treat any ancestry, faction, social class, or region as proof of trustworthiness or hostility.

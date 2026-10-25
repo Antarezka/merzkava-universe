@@ -257,6 +257,13 @@ Their twin daughters are **Ji Zhaoning** and **Ji Ningzhao**, both 16, golden-ey
 
 The regional module `world/REGION_TIANHAI_YUNZHOU.md` records the canonical family details and the known boundaries of the Great Tianhai War. Do not infer unstated artifact specifications, war chronology, hidden motives, or abilities.
 
+**Canonical Thinker Grade distribution currently established:**
+- Tianhai Yunzhou: four Thinker Grade 10 individuals, including Ji Haoyuan.
+- Golden Dragon Empire: one Thinker Grade 9 and six Thinker Grade 8 individuals; other grade counts are not established.
+- Beiming Gu: two Thinker Grade 9 individuals; other Thinkers are described as Grade 4 and Grade 5, but exact counts are not established.
+- Lawless Territories: at least one known Thinker Grade 9; total count and distribution remain unknown.
+
+
 
 Title: Maharaja of Tianhai Yunzhou
 Martial Soul: Heavenly Sky Whale

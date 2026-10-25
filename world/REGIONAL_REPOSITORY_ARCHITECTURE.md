@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Use one central hub and **exactly three canonical regional repositories**, one for each major power. The navigation pattern is: central INDEX → the correct regional module → local geography/settlement and NPC table → detailed NPC profile only when needed.
+Use one central hub and **exactly three canonical regional repositories**, one for each major power. The navigation pattern is inspired by a modular repository pattern: central INDEX → the correct regional module → local geography/settlement and NPC table → detailed NPC profile only when needed.
 
 **“Region” here means a major power—not an individual province, valley, city, or village.** The three repository boundaries are exactly the names established by `world/WORLD.md`:
 
@@ -56,7 +56,7 @@ Use this as a guide; do not create empty files just to satisfy the tree.
 
 Do not split simple content into unnecessary files. Preserve established file names and canon during migration unless renaming is safe and all references are updated.
 
-## 3. NPC organization — modular organization
+## 3. NPC organization — mirror the useful part of the modular approach
 
 The local location/settlement module should contain NPC tables **beside the place or organization they belong to**, not in an unrelated global list. Group entries under the appropriate city, village, institution, faction, or other established location. Use the existing canon and avoid filling tables with invented characters.
 

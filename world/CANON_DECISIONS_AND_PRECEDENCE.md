@@ -76,7 +76,7 @@ When new information is added:
 
 ## 4. Canonical Sources for the Decisions Above
 
-- Empire administration and the Awakening program: `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`
+- Golden Dragon Empire administration and the Awakening program: `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`
 - Institutional locations and named branches: `world/GOLDEN_DRAGON_EMPIRE_POPULATION_SERVICES.md`
 - Awakening mechanics and proof token: `core/MARTIAL_SOUL_AWAKENING.md`
 - Charges, subsidies, currency, and token-fee debt: `core/10_ECONOMY_SYSTEM.md`

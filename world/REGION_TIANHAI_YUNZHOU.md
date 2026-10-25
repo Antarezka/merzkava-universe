@@ -7,7 +7,7 @@
 
 - **Power / territory:** Tianhai Yunzhou, a maritime power centered on a giant floating island above the southwestern ocean.
 - **Population estimate:** 85 million for Tianhai Yunzhou as a whole. This is a worldbuilding estimate, not a census or a claim that all residents live on the main island.
-- **Ruler:** Maharaja of Tianhai Yunzhou. Personal name and family roster are not yet established.
+- **Ruler:** Maharaja Ji Haoyuan; his canonical family roster is established in `world/NPC_JI_HAOYUAN.md`, `world/NPC_BAI_XUANYIN.md`, `world/NPC_JI_ZHAONING.md`, and `world/NPC_JI_NINGZHAO.md`.
 - **Ruler's established profile:** Martial Soul — Heavenly Sky Whale; Spirit Realm 9 — Spirit Primordial, Early Stage.
 - **Strategic strengths:** Maritime trade, navigation, defense, island and sea-route logistics, and advanced Thinker knowledge.
 - **Island support:** A Tier 9 Artificial Artifact sustains the giant floating island. Its creator, materials, energy source, internal mechanism, maintenance requirements, weaknesses, and authorized operators remain unknown.
@@ -58,7 +58,7 @@ Do not treat these seven district names as a complete map of every settlement or
 - **Thinker progression:** Independent of Spirit Realm cultivation; use `core/THINKER_AND_FORMULATION.md` as the mechanics authority.
 - **Known artifact:** Tier 9 Artificial Artifact supporting the floating island. Refer to `world/ARTIFICIAL_ARTIFACTS.md`; no additional functions may be inferred.
 - **Five established dojos:** Skywhale, Tidal Current, Stormwake, Azure Sail, and Deepwater Dojos. Their established training specializations are listed in `world/FACTIONS.md`.
-- **Academies, formal Thinker curricula, admissions, ranking systems, workshop licensing, research institutes, and Thinker examinations:** Not yet established.
+- **Thinker institution:** Tianhai Thinker Institute, its rector, formulation examiners, materials/provenance, applied research, artifact quality inspection, workshop safety, and Thinker credential records are established in `world/NPC_TIANHAI_POWER_STRUCTURE.md`. Detailed admissions, full curriculum, public ranking systems, licensing rules, and the full institution network remain unspecified.
 - **Spirit Beast habitats and species:** Refer to `bestiary/SPIRIT_BEAST_RULES.md`; local species and hunting grounds remain unconfirmed.
 - Do not invent local power rankings, unique cultivation rules, artifact exceptions, or guaranteed production success.
 
@@ -93,7 +93,7 @@ The following twelve clans and their broad spheres of influence are listed in `w
 | Azure Sail Dojo | Movement, coordination, and sailing-related techniques |
 | Deepwater Dojo | Durability and techniques adapted to aquatic conditions |
 
-The current masters, instructors, students, property ownership, clan ties, and formal political status of each dojo remain unconfirmed. A dojo's name alone does not prove a relationship to a similarly named clan or to the ruling family.
+The five current dojo masters and their basic capabilities are established in `world/NPC_TIANHAI_POWER_STRUCTURE.md`. Other instructors, students, property ownership, clan ties, and formal political status remain unspecified. A dojo's name alone does not prove a relationship to a similarly named clan or to the ruling family.
 
 ## 9. Regional NPC Registry
 
@@ -106,7 +106,7 @@ This registry is the canonical index for major and recurring Tianhai NPCs. Each 
 | Ji Zhaoning | Whereabouts unconfirmed | Elder twin princess; focused on Thinker development; not awakened | Ruling Ji family | `world/NPC_JI_ZHAONING.md` | Canon; living, age 16 |
 | Ji Ningzhao | Whereabouts unconfirmed | Younger twin princess; awakened cultivator | Ruling Ji family | `world/NPC_JI_NINGZHAO.md` | Canon; living, age 16; Spirit Realm 3 Early Stage |
 
-When creating family, court, clan, or institutional NPCs, keep public information, the NPC's own knowledge, mistaken beliefs, player-character knowledge, and GM-only secrets separate. Check `world/NPC_MANAGEMENT.md` and `templates/NPC_PROFILE_TEMPLATE.md`.
+The canonical roster for the Maharaja's court, civil administration, military/security, seven districts, twelve clan heads, five dojo masters, and Thinker institutions is `world/NPC_TIANHAI_POWER_STRUCTURE.md`. Keep public information, NPC knowledge, mistaken beliefs, player-character knowledge, and GM-only secrets separate. Check `world/NPC_MANAGEMENT.md` and `templates/NPC_PROFILE_TEMPLATE.md`.
 
 ## 10. Canonical Ruling Family and Great Tianhai War
 
@@ -160,9 +160,11 @@ When adding routes, verify terrain, vertical movement across the floating island
 
 - [x] Establish the Maharaja's personal name and canonical NPC profile.
 - [x] Add the ruling family and family relationships after owner confirmation.
-- [ ] Build the court and official roster without inventing unsupported offices.
-- [ ] Develop the twelve clans' leaders, family structures, and relationships.
-- [ ] Establish Thinker academies, research bodies, workshops, and teaching pathways.
+- [x] Build the court and official roster with role-appropriate Spirit Realm and Thinker Grade ranges.
+- [x] Establish the twelve clan heads and five dojo masters.
+- [x] Establish the initial Thinker institution and artifact quality-control roster.
+- [ ] Develop the clans' family structures and relationships.
+- [ ] Detail academy admissions, full curricula, workshop licensing, and teaching pathways.
 - [ ] Develop district-level daily life, settlements, services, resources, and markets.
 - [ ] Establish confirmed route links and transport between districts and outer islands.
 - [ ] Reconcile approved additions with `world/WORLD.md`, `world/MAP_AND_REGIONS.md`, `world/FACTIONS.md`, `INDEX.md`, and relevant NPC profiles.

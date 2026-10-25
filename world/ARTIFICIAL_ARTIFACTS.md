@@ -13,10 +13,10 @@ An artifact's tier is not a Spirit Realm or Spirit Ring tier. A high tier does n
 
 ### 2.1 Tianhai Yunzhou
 - The first Thinkers originated in Tianhai Yunzhou.
-- Tianhai is a major center of Thinker knowledge and formulation development.
+- Tianhai Yunzhou is a major center of Thinker knowledge and formulation development.
 - A Tier 9 Artificial Artifact sustains the giant floating island at the center of Tianhai Yunzhou; its established power source is Tianhai-refined liquefied energy derived from specific imported energy-bearing stone/metal ores.
-- Tianhai uses dedicated Artificial Artifact refining systems to process the ores and has a strategic monopoly on this refining method and the resulting standardized energy medium. The ore deposits themselves lie in other territories; named mines, contracts, exact chemical/spiritual composition, yields, prices, and reserve capacity remain unestablished.
-- Tianhai also operates automated trains and other modern urban utilities powered by compatible Artificial Artifact engines using the refined liquefied energy. The technology is advanced but depends on maintenance, infrastructure, containment, trained personnel, and supply continuity.
+- Tianhai Yunzhou uses dedicated Artificial Artifact refining systems to process the ores and has a strategic monopoly on this refining method and the resulting standardized energy medium. The ore deposits themselves lie in other territories; named mines, contracts, exact chemical/spiritual composition, yields, prices, and reserve capacity remain unestablished.
+- Tianhai Yunzhou also operates automated trains and other modern urban utilities powered by compatible Artificial Artifact engines using the refined liquefied energy. The technology is advanced but depends on maintenance, infrastructure, containment, trained personnel, and supply continuity.
 - The island artifact's exact materials, internal mechanism, fuel consumption, maintenance procedure, redundancy, and weaknesses remain unknown.
 
 ### 2.2 Golden Dragon Empire
@@ -120,15 +120,15 @@ For the authoritative requirements, limitations, and GM rules, see `core/THINKER
 - **Operating limits:** Requires a prepared guideway, functioning stations/signals, inspection, maintenance, and a compatible engine. Automated operation does not mean maintenance-free operation or universal passenger access.
 - **Current location:** Several established service corridors within Tianhai Yunzhou; exact engine models and station inventory are not fully catalogued.
 - **Creator / Thinker:** Not established.
-- **History:** Established as a core part of Tianhai's modern urban transport infrastructure. Do not infer exact speed, capacity, fares, frequency, or safety guarantees without a specific route record.
+- **History:** Established as a core part of Tianhai Yunzhou's modern urban transport infrastructure. Do not infer exact speed, capacity, fares, frequency, or safety guarantees without a specific route record.
 
 
 ### AAF-004 — Tianhai Long-Distance Liquefied-Energy Passenger Aircraft
 - **Tier:** Exact tier is not established; the transport class uses Artificial Artifact propulsion designed for long-distance passenger service.
-- **Type / function:** High-capacity long-distance passenger aircraft operated through Tianhai's Cangqiong Sky Transit Terminal. It carries more passengers per journey than an ordinary Qi-powered flying ship.
+- **Type / function:** High-capacity long-distance passenger aircraft operated through Tianhai Yunzhou's Cangqiong Sky Transit Terminal. It carries more passengers per journey than an ordinary Qi-powered flying ship.
 - **Energy source:** Tianhai-refined liquefied energy derived from imported energy-bearing stone/metal ores, held in a compatible dedicated energy vessel.
 - **Propulsion distinction:** Uses an Artificial Artifact engine powered by liquefied energy; it does not use cultivator Qi as its primary propulsion source and is not simply a renamed conventional flying ship.
-- **Established service corridors:** Longyuan Sky Transit Terminal in the Golden Dragon Empire ↔ Cangqiong Sky Transit Terminal in Tianhai; Beiming Heartland Sky Transit Terminal in Beiming Gu ↔ Cangqiong Sky Transit Terminal in Tianhai.
+- **Established service corridors:** Longyuan Sky Transit Terminal in the Golden Dragon Empire ↔ Cangqiong Sky Transit Terminal in Tianhai Yunzhou; Beiming Heartland Sky Transit Terminal in Beiming Gu ↔ Cangqiong Sky Transit Terminal in Tianhai Yunzhou.
 - **Approved passenger fare:** 25 xc per passenger for a round trip on this service. A comparable round trip on an ordinary Qi-powered flying ship costs 86 xc per passenger. These are approved fare baselines; extraordinary disruptions, special classes, cargo charges, taxes, or discounts are not established.
 - **Operating limits:** Requires dedicated aircraft, compatible liquefied energy, trained crew and technicians, maintenance, passenger processing, and an operating transit terminal. Flights may be suspended by weather, security, maintenance, or fuel-supply disruption.
 - **Unknown details:** Exact tier, aircraft model, seating capacity, speed, travel time, timetable, fleet size, ticket class structure, operators/owners, maintenance cycle, and emergency procedures remain unestablished.

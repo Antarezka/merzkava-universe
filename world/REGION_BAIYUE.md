@@ -16,7 +16,7 @@
 - Development profile: Frontier periphery — vast distances, sparse civilian services, stronger focus on roads and defense.
 - Terrain / climate: Broad terrain follows the established regional identity; detailed local conditions remain to be developed
 - Confirmed neighboring regions: Belum ditetapkan
-- Confirmed routes / crossings: Belum ditetapkan
+- Confirmed routes / crossings: Frontier–Maritime Relay connects Beiguan and Dongxing through staged courier and authorized land/sea transfers; it is not a direct road.
 - Travel distances and durations: Do not infer; follow `world/GEOGRAPHY_AND_TRAVEL.md` and `gameplay/TIME_AND_ACTION_RULES.md`
 
 ## 2A. Administrative Register
@@ -50,13 +50,13 @@ The official prefecture seats are only those listed in `world/GOLDEN_DRAGON_EMPI
 
 | Settlement | Type | Established role | Authority / status |
 |---|---|---|---|
-| Beiguan | City / prefecture seat | Seat of Northwatch Prefecture | Imperial civil administration; local detail pending |
+| Beiguan | City / official prefecture seat | Seat of Northwatch Prefecture | Imperial civil administration; local detail pending |
 | Tieguan | City / settlement hub | Tieguan remains a fortified settlement under Northwatch Prefecture | Imperial civil administration; local detail pending |
 | Shibi | City / settlement hub | Shibi remains a fortified settlement under Northwatch Prefecture | Imperial civil administration; local detail pending |
 | Yingshan | City / settlement hub | Yingshan remains a frontier settlement under Northwatch Prefecture | Imperial civil administration; local detail pending |
-| Fengqi | City / consolidated administrative center | Former prefectural seat; Fengqi remains a settlement under Northwatch Prefecture | Local civil administration; not an independent prefectural seat |
+| Fengqi | City / settlement and service hub | Former prefectural seat; Fengqi remains a settlement under Northwatch Prefecture | Local civil administration; not an independent prefectural seat |
 | Changguan | City / settlement hub | Changguan remains a fortified settlement under Northwatch Prefecture | Imperial civil administration; local detail pending |
-| Songdun | City / consolidated administrative center | Former prefectural seat; Songdun remains a settlement under Northwatch Prefecture | Local civil administration; not an independent prefectural seat |
+| Songdun | City / settlement and service hub | Former prefectural seat; Songdun remains a settlement under Northwatch Prefecture | Local civil administration; not an independent prefectural seat |
 
 
 ### Named rural villages

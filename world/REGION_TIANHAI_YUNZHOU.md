@@ -10,7 +10,7 @@
 - **Ruler:** Maharaja Ji Haoyuan; his canonical family roster is established in `world/NPC_JI_HAOYUAN.md`, `world/NPC_BAI_XUANYIN.md`, `world/NPC_JI_ZHAONING.md`, and `world/NPC_JI_NINGZHAO.md`.
 - **Ruler's established profile:** Martial Soul — Heavenly Sky Whale; Spirit Realm 9 — Spirit Primordial, Early Stage.
 - **Strategic strengths:** Maritime trade, navigation, defense, island and sea-route logistics, and advanced Thinker knowledge.
-- **Island support:** A Tier 9 Artificial Artifact sustains the giant floating island. Its creator, materials, energy source, internal mechanism, maintenance requirements, weaknesses, and authorized operators remain unknown.
+- **Island support:** A Tier 9 Artificial Artifact sustains the giant floating island. It is powered by processed liquefied energy refined from a specific class of energy-bearing stone/metal ore. The processing method and fuel are strategically controlled by Tianhai; the original maker was an ancestor of Maharaja Ji Haoyuan. The artifact's internal mechanism, exact materials, maintenance requirements, weaknesses, and authorized operators remain restricted or unconfirmed.
 - **Knowledge tradition:** The first Thinkers originated in Tianhai Yunzhou. This establishes a historical and intellectual advantage, not a monopoly on all Thinker knowledge or automatic superiority in every artifact-making task.
 - **Canonical overview:** `world/WORLD.md`; geographic scope and travel cautions: `world/MAP_AND_REGIONS.md`; faction summaries: `world/FACTIONS.md`.
 
@@ -41,15 +41,18 @@ Do not treat these seven district names as a complete map of every settlement or
 ## 4. Local Society and Daily Life
 
 - **Population:** Overall estimate 85 million; distribution between the main island, outer islands, ships, and other settlements is not established.
-- **Known broad livelihoods:** Maritime trade, navigation, shipping, seafood and coastal resources, processing of marine goods, crafts, and Artificial Artifact-related work.
-- **Social structure, customs, dialects, schooling access, ordinary housing, public services, and class distribution:** Pending detailed development.
+- **Known broad livelihoods:** Maritime trade, navigation, shipping, seafood and coastal resources, processing of marine goods, crafts, Artificial Artifact manufacturing/maintenance, liquefied-energy processing, transit operations, and technical services.
+- **Urban character:** The main island's core urban districts are noticeably more modern and infrastructure-dense than the orthodox cities of the Golden Dragon Empire. Automated Artificial Artifact-powered trains, lifts, public lighting, cargo handling, and other utility systems exist where documented below; access and service quality vary by district and income.
+- **Social structure:** Specialist technical workers and Thinkers are economically important, but the population also includes sailors, fishers, vendors, food producers, repair crews, porters, clerks, students, guards, and low-income residents. Modern infrastructure does not mean universal comfort or equal access.
 - **Local realism:** Do not assume every resident is a sailor, cultivator, Thinker, or member of an elite family. Everyday occupations and access to advanced facilities should vary by district, income, skill, and institutional affiliation.
 
 ## 5. Economy and Resources
 
-- **Established economic foundations:** Maritime commerce, navigation and shipping, marine/coastal resources, processing of catches, and artifact-supporting industries.
-- **Key strategic dependencies:** Safe navigation, harbor logistics, reliable supply lines, skilled craft and Thinker labor, and the continued operation of the Tier 9 island-support artifact.
-- **Local commodity lists, market prices, wages, taxes, scarcity, trade partners, and export/import volumes:** Not established.
+- **Established economic foundations:** Maritime commerce, navigation and shipping, marine/coastal resources, processing of catches, artifact industries, automated transit, and energy refining.
+- **Strategic energy advantage:** Tianhai controls the specialized refining and distribution process that turns certain imported stone/metal ores into a stable liquefied energy medium usable by compatible Artificial Artifact engines. This refining capability—not ownership of every raw deposit—is the basis of its energy monopoly and a major source of wealth.
+- **Inter-power dependence:** The ore-bearing stone and metals are sourced from other powers and territories, including suppliers under the Golden Dragon Empire and Beiming Gu. Tianhai provides refined energy, advanced artifact knowledge, shipping/logistics services, and technical expertise in return. Specific mines, supplier contracts, quotas, prices, and named foreign partners remain unassigned until documented.
+- **Economic vulnerability:** A disruption to ore imports, refining facilities, specialized containment, or sea routes can constrain trains, industrial machinery, harbor systems, and the floating island's support infrastructure. The monopoly is powerful but not risk-free.
+- **Fixed prices, wages, taxes, quotas, and export/import volumes:** Not established; apply `core/10_ECONOMY_SYSTEM.md` and do not invent exact values.
 - Apply `core/10_ECONOMY_SYSTEM.md` for currency, prices, transactions, and provenance. Do not invent fixed prices or trade volumes as canon without approval.
 
 ## 6. Cultivation, Martial Souls, Spirit Beasts, and Thinkers
@@ -149,11 +152,56 @@ These details are owner-approved canon. Full biographies are maintained in the l
 
 ## 12. Confirmed Routes and Location Network
 
-Use `world/LOCATION_AND_ROUTE_NETWORK.md` for the canonical route format and validation procedure. No exact internal district-to-district connections, island routes, port links, or travel durations are confirmed by this module.
+Use `world/LOCATION_AND_ROUTE_NETWORK.md` for the canonical route format and validation procedure. The following named settlement anchors, transport corridors, and service relationships are now established for regional play. Their exact coordinates, distances, and travel times remain unknown; no direct route should be inferred unless listed below. Automated train lines use Artificial Artifact engines powered by refined liquefied energy, and are not interchangeable with ordinary roads.
 
-| Origin | Destination | Route / transport | Intermediate stops | Access / constraints | Trade / social function | Travel time / source | Canon status |
-|---|---|---|---|---|---|---|---|
-| Not established | Not established | Not established | — | Not established | Not established | Unknown | Not established |
+### 12.1 Settlements and local anchors
+
+| Location | Area / parent | Local life, resources, and function | Needs / dependencies |
+|---|---|---|---|
+| Yunxiao Terrace — Court Steps | South-central, within Yunxiao Terrace | Administrative service quarter, official messengers, document copyists, licensed lodging, tea stalls, and petition queues | Food supply, paper/ink, trained clerks, secure transport |
+| Lanternwake Village | Southern approaches, linked to Linggong District | Worker settlement of furnace tenders, machine attendants, repair apprentices, and families employed by workshops; evening shift-change markets | Processed food, safe housing, tool repair, imported ore and components |
+| Glasscurrent Hamlet | South-east of Linggong's outer workshops | Small craft settlement known for precision glass/ceramic housings, insulating pieces, and heat-resistant containers for artifact workshops; production is modest, not a monopoly | Specialty minerals, fuel for ordinary kilns, buyer access through Linggong |
+| Northwatch Quay | Northern approaches near Xuanchao Ward | Patrol families, signal keepers, rescue crews, weather watchers, and small-boat repairers | Rations, rope, timber, replacement signal components, medical supplies |
+| Reedmist Fishing Village | Outer edge of the northern waters | Fishing, drying and salting seafood, net mending, and pilots familiar with shallow fog channels | Reliable safe-passage notices, salt, net fiber, hull parts |
+| Westwake Anchorage | Cangqiong Harbor's outer service area | Cargo staging, ship provisioning, stevedores, ropewalks, and repair sheds; busy when incoming ore ships arrive | Warehouse capacity, navigators, energy-safe cargo handling, imported timber and metal |
+| Bluefin Cove | A small inhabited shore in Misty Shoals | Fishing, shell and marine-goods processing, pilot families, and seasonal repair of shallow-draft boats | Harbor buyers, salt, medicines, storm warnings, safe routes through shoals |
+| Pearlstep Landing | Eastern maritime approach serving Haiyue Market | Small-vessel transfer point for high-value goods, interpreters, brokers, and inspectors; access depends on weather and customs checks | Cargo manifests, secure storage, trusted couriers, sea-route access |
+| Windglass Islet | Misty Shoals, remote outer islet | Sparse pilot huts and a navigation beacon maintained by rotating crews; not a large town and not continuously staffed | Spare beacon parts, food deliveries, trained pilots, calm-weather access |
+
+These are established regional settlements/anchors for exploration. They do not imply exact population totals, permanent presence of every listed occupation, named individual shopkeepers, or safety at all times. The outer settlements remain dependent on irregular marine supply and weather-sensitive access.
+
+### 12.2 Confirmed route graph
+
+| Origin → destination | Route / transport | Intermediate stops | Access / constraint | Trade / social function | Travel time | Status |
+|---|---|---|---|---|---|---|
+| Yunxiao Terrace — Court Steps → Linggong District | Elevated public passage and controlled lift links | None recorded | Public sections open; official inner buildings remain controlled | Government-to-workshop commuting and official inspection | Not set | Established corridor; exact duration unknown |
+| Linggong District → Lanternwake Village | Automated Artificial Artifact commuter train | None recorded | Ticket/access rules and schedule not yet specified; train follows a dedicated guideway | Shift workers, apprentices, light cargo | Not set | Established route; exact duration unknown |
+| Lanternwake Village → Glasscurrent Hamlet | Local service road | None recorded | Road access; heavy freight requires separate handling | Craft supplies, labor, repair and component trade | Not set | Established route; exact duration unknown |
+| Xuanchao Ward → Northwatch Quay | Patrol road and guarded service gate | None recorded | Security inspection may restrict cargo and non-residents | Patrol rotations, rescue and supply service | Not set | Established route; exact duration unknown |
+| Northwatch Quay → Reedmist Fishing Village | Coastal boat route | None recorded | Weather, tide, and patrol clearance affect passage | Fish, salt, nets, rescue and pilot knowledge | Not set | Established route; exact duration unknown |
+| Cangqiong Harbor → Westwake Anchorage | Cargo tram on an artifact-powered guideway | None recorded | Freight priority; passenger access may be limited | Ore unloading, ship provisioning, cargo staging | Not set | Established route; exact duration unknown |
+| Westwake Anchorage → Cangqiong Harbor | Harbor service road and cargo tram | None recorded | Cargo direction depends on loading and inspections; not a universal free return trip | Port workers and registered cargo | Not set | Established return corridor; exact duration unknown |
+| Haiyue Market → Pearlstep Landing | Market road to an inspected coastal transfer pier | None recorded | Customs and cargo checks; small vessels only | High-value goods, brokers, manifests | Not set | Established route; exact duration unknown |
+| Pearlstep Landing → Bluefin Cove | Scheduled small-vessel route when conditions permit | None recorded | Weather and shoal navigation; service can be suspended | Seafood, local crafts, passengers, supply deliveries | Not set | Established conditional route; exact duration unknown |
+| Bluefin Cove → Windglass Islet | Pilot boat route | None recorded | Requires a qualified local pilot; no guaranteed daily service | Beacon maintenance, exploration, emergency support | Not set | Established conditional route; exact duration unknown |
+
+**Non-connectivity rule:** This is a partial network, not a ring road. No direct connection is established between every district or village. For example, Reedmist Fishing Village is reached by boat from Northwatch Quay; Windglass Islet is reached through Bluefin Cove with a pilot boat; there is no established direct train between Misty Shoals and the main island. Additional paths must be discovered or formally added, not assumed.
+
+### 12.3 Artificial Artifact transport and energy
+
+Tianhai uses Artificial Artifacts not only for specialist manufacturing but also for public infrastructure and transport. The most visible system is an automated train network on dedicated guideways: its engine is an Artificial Artifact, the train follows a prepared route without a conventional animal or human pulling it, and its propulsion is supplied by a specialized energy vessel containing refined liquefied energy. Operators and technicians still inspect guideways, manage stations, load cargo, and maintain the system; “automated” does not mean maintenance-free or universally accessible.
+
+The liquefied energy is produced by Tianhai-controlled refining Artificial Artifacts from specific energy-bearing stone/metal ores imported from other territories. The raw ore itself is not a Tianhai-exclusive natural resource. Tianhai's competitive advantage is its specialized refining apparatus, technical knowledge, safe containment, and distribution network. Compatible engines and utility artifacts elsewhere may use the refined energy only if designed for it; no universal compatibility is implied.
+
+The Tier 9 island-support Artificial Artifact uses this energy system at strategic scale. Its detailed mechanism, fuel consumption, reserve capacity, redundancy, and failure conditions remain unknown. It must not be treated as an ordinary engine or as a portable unlimited power source.
+
+### 12.4 Route and exploration rules
+
+- Use only listed route edges for known travel. If a route is absent, treat it as unknown or an exploration opportunity.
+- No exact distance, duration, fare, train frequency, capacity, ore volume, energy price, or settlement population is established here.
+- Route and transit access can be interrupted by weather, security inspection, maintenance, shortages, political tension, or recorded events.
+- Villages have different supply needs and cannot all access every market directly. Intermediate transport creates opportunities for brokers, local pilots, repairers, tolls, delays, and rumors, but these consequences must arise from the scene rather than being automatic.
+- New locations, routes, current incidents, and lasting changes must be reconciled with `world/LOCATION_AND_ROUTE_NETWORK.md`, `world/MAP_AND_REGIONS.md`, `world/DYNAMIC_EVENTS.md`, and `INDEX.md` as appropriate.
 
 When adding routes, verify terrain, vertical movement across the floating island, transport availability, intermediate locations, access restrictions, economic rationale, and current events. Do not infer that every district or settlement connects directly to every other one.
 
@@ -167,6 +215,7 @@ When adding routes, verify terrain, vertical movement across the floating island
 - [ ] Develop the clans' family structures and relationships.
 - [ ] Detail academy admissions, fees, examinations, full curricula, and teaching pathways.
 - [x] Establish the four cardinal areas, principal clan distribution, four academies, and the exclusive high-level Thinker Institute.
-- [ ] Develop district-level daily life, settlements, services, resources, and markets.
-- [ ] Establish confirmed route links and transport between districts and outer islands.
+- [x] Establish initial district-level settlements, daily-life roles, services, resource needs, and local markets.
+- [x] Establish an initial partial route network with intermediate transport constraints; exact distances and travel times remain unset.
+- [x] Establish Tianhai's Artificial Artifact-powered automated transit and refined liquefied-energy trade advantage.
 - [ ] Reconcile approved additions with `world/WORLD.md`, `world/MAP_AND_REGIONS.md`, `world/FACTIONS.md`, `INDEX.md`, and relevant NPC profiles.

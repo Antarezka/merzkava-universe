@@ -16,7 +16,7 @@
 - Development profile: Inner productive belt — fertile and populous, but services thin outside river corridors.
 - Terrain / climate: Broad terrain follows the established regional identity; detailed local conditions remain to be developed
 - Confirmed neighboring regions: Belum ditetapkan
-- Confirmed routes / crossings: Belum ditetapkan
+- Confirmed routes / crossings: Twin River Route links Qinghe and Jiangbei; local river and road connections vary by season.
 - Travel distances and durations: Do not infer; follow `world/GEOGRAPHY_AND_TRAVEL.md` and `gameplay/TIME_AND_ACTION_RULES.md`
 
 ## 2A. Administrative Register
@@ -51,14 +51,14 @@ The official prefecture seats are only those listed in `world/GOLDEN_DRAGON_EMPI
 
 | Settlement | Type | Established role | Authority / status |
 |---|---|---|---|
-| Qinghe | City / prefecture seat | Seat of Qinghe Prefecture | Imperial civil administration; local detail pending |
-| Jiangbei | City / prefecture seat | Seat of Jiangbei Prefecture | Imperial civil administration; local detail pending |
+| Qinghe | City / official prefecture seat | Seat of Qinghe Prefecture | Imperial civil administration; local detail pending |
+| Jiangbei | City / official prefecture seat | Seat of Jiangbei Prefecture | Imperial civil administration; local detail pending |
 | Lianzhou | City / settlement hub | Lianzhou remains a major city under Qinghe Prefecture | Imperial civil administration; local detail pending |
 | Mingchuan | City / settlement hub | Mingchuan remains a major city under Jiangbei Prefecture | Imperial civil administration; local detail pending |
 | Yunshui | City / settlement hub | Yunshui remains a major city under Qinghe Prefecture | Imperial civil administration; local detail pending |
 | Shuangjiang | City / settlement hub | Shuangjiang remains a major city under Jiangbei Prefecture | Imperial civil administration; local detail pending |
-| Lianjin | City / consolidated administrative center | Former prefectural seat; Lianjin remains a settlement under Jiangbei Prefecture | Local civil administration; not an independent prefectural seat |
-| Cangping | City / consolidated administrative center | Former prefectural seat; Cangping remains a settlement under Qinghe Prefecture | Local civil administration; not an independent prefectural seat |
+| Lianjin | City / settlement and service hub | Former prefectural seat; Lianjin remains a settlement under Jiangbei Prefecture | Local civil administration; not an independent prefectural seat |
+| Cangping | City / settlement and service hub | Former prefectural seat; Cangping remains a settlement under Qinghe Prefecture | Local civil administration; not an independent prefectural seat |
 
 
 ### Named rural villages

@@ -7,7 +7,7 @@
 ## 1. Identity
 - Full name: Beiming Han (北冥寒)
 - Title: Leluhur Utara
-- Family: Son of the founder of Beiming Gu; adoptive father of Beiming Xenhwa and Beiming Jingheng.
+- Family: Son of the founder of Beiming Gu; younger biological brother of Beiming Nerva; adoptive father of Beiming Xenhwa and Beiming Jingheng.
 - Age: Unknown; kept undisclosed.
 - Species / appearance / pronouns: Not otherwise established.
 - Current location: Beiming Gu is his established home/affiliation; exact current whereabouts are not established.
@@ -30,12 +30,13 @@ Beiming Han is the highest known figure of Beiming Gu and is known by the title 
 His specific immediate goals, long-term plans, fears, and private priorities beyond the confirmed family and regional responsibilities are not established. Do not invent them as canon.
 
 ## 5. Knowledge Boundaries
-His complete knowledge and beliefs are not itemized. Do not treat his rank as proof that he knows every secret or event. No additional hidden identity or secret is established here.
+His complete knowledge and beliefs are not itemized. Do not treat his rank as proof that he knows every secret or event. His older sister Beiming Nerva is established canon; what Han knows about her disguises, private activities, or secrets is not separately established.
 
 ## 6. Relationships
 | Person / group | Relationship | Current status / basis |
 |---|---|---|
 | Beiming Gu's founder | Son | Founder’s identity and further details not established here |
+| Beiming Nerva | Older biological sister | Nerva is older than Han despite her biological appearance of about 18; her true age remains mysterious |
 | Beiming Xenhwa | Adoptive daughter | He loves her; details of the relationship and incident with Jingheng are recorded in both relevant profiles |
 | Beiming Jingheng | Adoptive son | He loves him equally; this does not excuse Jingheng's misconduct |
 | Beiming Gu | Highest known figure and central to its security/influence | Ongoing |

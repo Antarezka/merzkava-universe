@@ -212,6 +212,7 @@ Regional modules are divided according to the established geography in `world/MA
 
 ### Beiming Gu
 - Beiming Heartland — `world/REGION_BEIMING_HEARTLAND.md`
+- Beiming Han, Beiming Xenhwa, Beiming Jingheng, and the canonical nighttime incident — `world/NPC_BEIMING_FAMILY.md`
 - Frostveil Range — `world/REGION_FROSTVEIL_RANGE.md`
 - Azureflame Basin — `world/REGION_AZUREFLAME_BASIN.md`
 - Silverpine Wilds — `world/REGION_SILVERPINE_WILDS.md`

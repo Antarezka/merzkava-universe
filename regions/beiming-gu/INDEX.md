@@ -1,6 +1,6 @@
-# Beiming Gu — Regional Staging Index
+# Beiming Gu — Regional Index
 
-**Scope:** Regional staging area for canon owned by Beiming Gu.
+**Scope:** Navigation index for Beiming Gu canon and NPC references within `Antarezka/merzkava-universe`.
 **Status:** The registry contains four established major NPC profiles plus 12 clan heads and 5 dojo masters (21 canonical profiles total). This folder is inside `Antarezka/merzkava-universe`, not a separate GitHub repository.
 
 ## NPC loading order

@@ -33,8 +33,8 @@
 Prefectures and seats:
 - Heavenly Script Prefecture — Tianshu
 - Cloud Summit Prefecture — Yunding
-- Scholar's River Prefecture — Wenchuan
-- Pine Ink Prefecture — Songmo
+
+Former prefectural seats retained as cities/local service hubs: Wenchuan and Songmo. They are not active prefectures.
 
 The administrative atlas is authoritative for names, territory estimates, and the selected village list. The listed named villages are maintained as roleplay locations for this region; unlisted hamlets may exist but are not individually catalogued. Development and services are strongest near Huanglongcheng and major regional seats, then generally thin with distance, isolation, and difficult terrain. Do not infer exact borders or travel times from the jurisdiction list alone.
 

@@ -27,7 +27,7 @@
 - **County circuit:** Imperial Heartland Circuit
 - **Cities:** Not separately counted in the simplified register; former seats remain settlements or service hubs.
 - **Small towns:** Not a separate official administrative tier.
-- **Named rural villages listed in this atlas:** 5
+- **Official named rural villages in this region:** 2
 - **Other rural settlements:** Unenumerated; do not generate or count thousands of named villages by default
 - **Full official register:** `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
 
@@ -59,17 +59,17 @@ The official prefecture seats are only those listed in `world/GOLDEN_DRAGON_EMPI
 | Bailu | City / settlement and service hub | Former prefectural seat; remains a settlement under Jade Seal Prefecture | Local civil administration; not an independent prefectural seat |
 
 
-### Named rural villages
+### Official Villages and Other Local Settlements
 
-This is the region's compact named village roster. Other former village names remain local settlements or hamlets unless separately promoted back into the official thirteen-village register. Village status does not imply permanent public services or a named leader.
+Only 2 villages are part of the Empire's official thirteen-village register in this region. Other named places listed below are hamlets/local settlements, not additional official villages. Their local functions and route connections remain usable, but they must not be counted as official villages. Permanent public services or named leaders are not implied.
 
 | Settlement | Type | Established role | Authority / status |
 |---|---|---|---|
 | Dragonwell Village | Rural village | Rural farming and cart-road services | Local community; detailed NPCs and services pending |
 | Willowbend Village | Rural village | Canal-side farming and ferry families | Local community; detailed NPCs and services pending |
-| Foxbridge Village | Rural village | jembatan tua dan pengangkutan barang kecil | simpang gerobak dan sungai dangkal |
-| Plum Lantern Village | Rural village | kebun buah, penginapan musim semi, festival lentera | jalan cabang dari Zhuque |
-| Stone Mill Village | Rural village | penggilingan gandum dan bengkel roda gerobak | jalur ke Jintai; licin saat hujan |
+| Foxbridge Hamlet | Hamlet / local settlement | jembatan tua dan pengangkutan barang kecil | simpang gerobak dan sungai dangkal |
+| Plum Lantern Hamlet | Hamlet / local settlement | kebun buah, penginapan musim semi, festival lentera | jalan cabang dari Zhuque |
+| Stone Mill Hamlet | Hamlet / local settlement | penggilingan gandum dan bengkel roda gerobak | jalur ke Jintai; licin saat hujan |
 ## 4. Local Society and Daily Life
 
 - Pejabat, bangsawan, pegawai arsip, saudagar, buruh angkut, penyewa lahan, dan petani hidup berdampingan dengan kesenjangan kekayaan nyata.

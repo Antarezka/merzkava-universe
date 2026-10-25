@@ -27,11 +27,11 @@ The central repository is the navigation hub, not the long-term home of detailed
 
 ### Golden Dragon Empire repository
 
-Owns all established canon within the empire: its established geographic regions and lower-level administrative areas; settlements, villages, routes, transit links; governance and officials; public services; local economy/resources; factions and institutions; and local NPC tables/registry plus canonical detailed profiles.
+Owns all established canon within the Golden Dragon Empire: its established geographic regions and lower-level administrative areas; settlements, villages, routes, transit links; governance and officials; public services; local economy/resources; factions and institutions; and local NPC tables/registry plus canonical detailed profiles.
 
 ### Tianhai Yunzhou repository
 
-Owns all established canon within Tianhai: geographic areas, floating settlements/cities, districts, routes and interregional transit terminals; governance, academies, Thinker Institute, clans, services, local economy/resources, factions and institutions; and local NPC tables/registry plus canonical detailed profiles.
+Owns all established canon within Tianhai Yunzhou: geographic areas, floating settlements/cities, districts, routes and interregional transit terminals; governance, academies, Thinker Institute, clans, services, local economy/resources, factions and institutions; and local NPC tables/registry plus canonical detailed profiles.
 
 ### Beiming Gu repository
 

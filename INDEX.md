@@ -267,6 +267,26 @@ Whenever the GM/AI must narrate, count, compare, add, rename, classify, or edit 
 
 If a required source cannot be fetched, state which source is unavailable and do not claim that the settlement audit or edit is fully verified. A summary, prior memory, heading, or older cached answer does not substitute for reading the current canonical files.
 
+### Mandatory Territorial Canon Load Path — All Major Powers
+
+This workflow applies to **all three major powers**—Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu—and to the Lawless Territories whenever they are involved. It applies to gameplay, lore questions, audits, and repository edits. Do not apply the Golden Dragon Empire's administrative counts or settlement classifications to Tianhai or Beiming.
+
+Before narrating a location, describing its government/economy/customs, creating a settlement or NPC, counting local institutions, or changing regional files, follow this path:
+
+1. Read `world/CANON_DECISIONS_AND_PRECEDENCE.md` for binding owner decisions and conflict precedence.
+2. Read `world/MAP_AND_REGIONS.md` and `world/WORLD.md` for the established world layout and cross-power context.
+3. Read the exact regional module for the location: one of the seven Empire modules, `world/REGION_TIANHAI_YUNZHOU.md`, the matching one of seven Beiming modules, or the relevant Lawless Territory module. The matching regional module is the primary source for local established facts and its own unfilled fields.
+4. Follow the INDEX links for the relevant government, faction, institution, service, economy, or established NPC; read those specific sources rather than inferring details from a region's identity.
+5. If travel or cross-region movement matters, read `world/LOCATION_AND_ROUTE_NETWORK.md`, the origin and destination regional modules, and `world/GEOGRAPHY_AND_TRAVEL.md`; resolve travel duration only through `gameplay/TIME_AND_ACTION_RULES.md`. A missing route is not proof of a direct connection or of impossibility.
+6. For cross-region counts, audits, or edits to a shared register, inspect every affected regional roster and the canonical register governing that category. Do not extrapolate the Empire's 13-village count to other powers; no count is established unless its authoritative source says so.
+7. Reconcile the planned response or edit against the loaded canon. Preserve explicit owner decisions, do not let a newer secondary file silently override established canon, and distinguish confirmed facts from proposals, estimates, rumors, and unknown details.
+
+**Beiming safeguard:** the Beiming regional files are owner-fillable scaffolds where their contents say details are pending. Treat only their confirmed foundations and cross-referenced official sources as established. Do not fill missing settlements, routes, local administration, prices, customs, or NPCs with invented facts and then present them as pre-existing canon. A GM may narrate situational details only within the authority rules and must not silently make them permanent canon.
+
+**Tianhai safeguard:** use `world/REGION_TIANHAI_YUNZHOU.md` and its linked institutional/governance/NPC references for Tianhai-specific facts. Do not transfer the Empire's bureaucratic tiers, academy count, village register, or local social rules to Tianhai without a source that explicitly establishes them.
+
+If a required file cannot be fetched, name the missing source and limit the answer to what remains supported. A summary, prior memory, or region name is not a substitute for reading current canonical sources.
+
 ### Regional/NPC navigation triggers
 | Situation | Required source |
 |---|---|

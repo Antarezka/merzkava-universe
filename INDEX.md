@@ -217,6 +217,23 @@ Regional modules are divided according to the established geography in `world/MA
 - Crown Prince Jun Ruiyuan — `world/NPC_JUN_RUIYUAN.md`
 - Princess Jun Yuejin — `world/NPC_JUN_YUEJIN.md`
 
+
+
+### Regional structure, NPCs, and route network
+
+- Location and route network rules — `world/LOCATION_AND_ROUTE_NETWORK.md`
+- NPC agency, regional placement, and continuity — `world/NPC_MANAGEMENT.md`
+- Regional module standard — `templates/REGIONAL_MODULE_TEMPLATE.md`
+- Canonical full NPC profile standard — `templates/NPC_PROFILE_TEMPLATE.md`
+
+**Required regional workflow:** when a scene involves a named region, load that region module first. Use its settlement list and local NPC registry to establish what exists there; consult the canonical NPC profile only for established recurring/major characters relevant to the scene. When travel is involved, verify the route through `world/LOCATION_AND_ROUTE_NETWORK.md`, the relevant regional modules, and `world/GEOGRAPHY_AND_TRAVEL.md`; resolve duration only through `gameplay/TIME_AND_ACTION_RULES.md`. Do not assume direct connections between all locations.
+
+**Regional data format:** regional modules should keep the same conceptual order: identity → geography → settlements and local life → economy/resources → cultivation/Spirit Beasts/Thinkers → factions/authority → NPC registry → conflicts/events → route network and GM guidance. Existing canon may remain in its established subsection when moving it would risk loss, but new and revised regional content should follow this order and cross-reference rather than duplicate shared records.
+
+**NPC placement:** ordinary residents and temporary scene characters may be portrayed situationally under `world/NPC_MANAGEMENT.md`. Recurring and major NPCs belong in the regional registry and should link to one canonical full profile. Check official and faction rosters before creating an officeholder or faction member. Separate public knowledge, NPC knowledge, beliefs, and GM-only secrets.
+
+**Route and economy realism:** routes must reflect confirmed geography and transport. Some settlements require an intermediate village, bridge, ferry, pass, port, or gate. Local resources, crafts, labor, demand, and services should create plausible trade relationships, but proposals remain non-canon until owner-approved.
+
 ### Regional/NPC navigation triggers
 | Situation | Required source |
 |---|---|

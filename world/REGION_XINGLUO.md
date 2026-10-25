@@ -16,7 +16,7 @@
 - Development profile: Distant maritime belt — wealthy ports coexist with neglected inland and outer-coast communities.
 - Terrain / climate: Broad terrain follows the established regional identity; detailed local conditions remain to be developed
 - Confirmed neighboring regions: Belum ditetapkan
-- Confirmed routes / crossings: Belum ditetapkan
+- Confirmed routes / crossings: Frontier–Maritime Relay connects Dongxing and Beiguan through staged courier and authorized land/sea transfers; it is not a direct road. Local coastal shipping routes remain vessel- and port-specific.
 - Travel distances and durations: Do not infer; follow `world/GEOGRAPHY_AND_TRAVEL.md` and `gameplay/TIME_AND_ACTION_RULES.md`
 
 ## 2A. Administrative Register
@@ -40,24 +40,24 @@ The administrative atlas is authoritative for names, territory estimates, and th
 
 **Population-facing institutions:** Use `world/GOLDEN_DRAGON_EMPIRE_POPULATION_SERVICES.md` for named Ninefold Concord Bank and Myriad Ledger Exchange branches and Medicine Hall Society service points. The same register establishes only two boarding academies, both in Huanglongcheng, plus selected Ordo Suci Tianming public libraries; neither academies nor libraries are presumed to exist in every region. The central register governs named locations and service limits.
 
+## 3. Settlements and Points of Interest
+
 ### Route activity and crowd density
 
-Use the shared time-of-day guide in `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md` for ordinary traffic. Apply it to this region according to its character: urban gates, markets, and main commercial streets become busiest around 07:00–09:00 and 15:00–19:00; the region's established main route (Frontier–Maritime Relay (Beiguan ↔ Dongxing; staged courier and authorized land/sea transfers, not a direct road)) has regular but uneven traffic; remote spurs, mine roads, mountain tracks, and rural paths are usually much quieter. This is a flexible RP baseline, not a fixed schedule. Market days, harvests, exams, furnace incidents, storms, military alerts, Spirit Beast activity, and arriving ships or caravans may sharply change density. Do not invent exact travel durations or imply that every road is safe or paved.
-
-## 3. Settlements and Points of Interest
+Use the shared time-of-day guide in `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md` for ordinary traffic. Apply it to this region according to its character: urban gates, markets, and main commercial streets become busiest around 07:00–09:00 and 15:00–19:00; the region's established main route, Frontier–Maritime Relay has regular but uneven traffic; remote spurs, mine roads, mountain tracks, and rural paths are usually much quieter. This is a flexible RP baseline, not a fixed schedule. Market days, harvests, exams, furnace incidents, storms, military alerts, Spirit Beast activity, and arriving ships or caravans may sharply change density. Do not invent exact travel durations or imply that every road is safe or paved.
 
 The official prefecture seats are only those listed in `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. Older city names below remain inhabited settlements and service hubs; they are not extra prefectures. Detailed districts, neighborhoods, minor roads, markets, and individual buildings remain open for RP.
 
 | Settlement | Type | Established role | Authority / status |
 |---|---|---|---|
-| Dongxing | City / prefecture seat | Seat of Eastern Star Prefecture | Imperial civil administration; local detail pending |
+| Dongxing | City / official prefecture seat | Seat of Eastern Star Prefecture | Imperial civil administration; local detail pending |
 | Mingzhu | City / settlement hub | Mingzhu remains a major port under Eastern Star Prefecture | Imperial civil administration; local detail pending |
 | Lanfan | City / settlement hub | Lanfan remains a major port under Eastern Star Prefecture | Imperial civil administration; local detail pending |
 | Chaoguan | City / settlement hub | Chaoguan remains a port and coastal checkpoint under Eastern Star Prefecture | Imperial civil administration; local detail pending |
 | Yanfeng | City / settlement hub | Yanfeng remains a coastal settlement under Eastern Star Prefecture | Imperial civil administration; local detail pending |
-| Yuhai | City / consolidated administrative center | Former prefectural seat; Yuhai remains a port settlement under Eastern Star Prefecture | Local civil administration; not an independent prefectural seat |
-| Yuandeng | City / consolidated administrative center | Former prefectural seat; Yuandeng remains a port settlement under Eastern Star Prefecture | Local civil administration; not an independent prefectural seat |
-| Longchao | City / consolidated administrative center | Former prefectural seat; Longchao remains a port settlement under Eastern Star Prefecture | Local civil administration; not an independent prefectural seat |
+| Yuhai | City / settlement and service hub | Former prefectural seat; Yuhai remains a port settlement under Eastern Star Prefecture | Local civil administration; not an independent prefectural seat |
+| Yuandeng | City / settlement and service hub | Former prefectural seat; Yuandeng remains a port settlement under Eastern Star Prefecture | Local civil administration; not an independent prefectural seat |
+| Longchao | City / settlement and service hub | Former prefectural seat; Longchao remains a port settlement under Eastern Star Prefecture | Local civil administration; not an independent prefectural seat |
 
 
 ### Named rural villages

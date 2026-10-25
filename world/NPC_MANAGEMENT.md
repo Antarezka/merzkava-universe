@@ -27,7 +27,7 @@ There are exactly three major-power regions, using the names exactly as written 
 
 Do not create alternate formal names, a fourth global NPC repository, or a separate repository for every province, city, or village.
 
-The central repository is currently the global navigation hub and temporary home of legacy regional/NPC canon until the regional destination repositories are verified. The intended long-term arrangement is one repository per major power. A region's own NPC registry becomes the authoritative directory once that destination is verified and linked from the central INDEX.
+The single repository `Antarezka/merzkava-universe` is the permanent central home for Merzkava Universe canon under the current architecture. The three major powers are organized in in-repository regional folders and modules; they are not separate GitHub repositories. Regional NPC registries are canonical navigation directories within this same repository once their entries and links are established. Do not propose, assume, or perform external regional-repository migration.
 
 **Migration safety:** existing `world/REGION_*.md`, `world/NPC_*.md`, and other regional canon files remain valid legacy sources until each migration is verified. Do not delete, overwrite, or claim they have moved just because the target architecture is documented.
 
@@ -58,12 +58,13 @@ A detailed profile has exactly one canonical home. Regional, settlement, institu
 
 Canonical full profiles for established named NPCs are maintained in `regions/golden-dragon-empire/npcs/`, `regions/tianhai-yunzhou/npcs/`, and `regions/beiming-gu/npcs/`. The Beiming Gu canonical profiles are Beiming Han, Beiming Xenhwa, and Beiming Jingheng. Verify each legacy `world/NPC_<NAME>.md` file before treating it as a compatibility pointer; edit the regional canonical profile when migration is confirmed. These folders are staging locations inside the central repository, not separate GitHub repositories. Do not create a second profile merely because a local table is missing.
 
-For each future verified major-power repository, use:
-- `npcs/REGISTRY.md` — local directory grouped by region/settlement and role, with one row per important or recurring NPC.
-- `npcs/<NPC_Name>.md` — one detailed canonical profile when the NPC needs one.
-- Regional and settlement files — local NPC tables and links to detailed profiles, following the same pattern.
+Within the current repository, use:
+- `regions/<power>/INDEX.md` — regional NPC navigation and loading order.
+- `regions/<power>/npcs/REGISTRY.md` — regional roster and links to canonical profiles.
+- `regions/<power>/npcs/<NPC_Name>.md` — one detailed canonical profile when the NPC needs one.
+- `world/REGION_*.md` and other relevant world modules — regional identity, local context, settlement details, and NPC tables where established.
 
-The local registry and location tables must link to the same canonical profile. They must not duplicate the biography.
+The regional index, registry, local tables, and profile must point to the same canonical record without duplicating its full biography. Use the central `INDEX.md` to enter the path; do not assume settlement modules live under `regions/<power>/`.
 
 ## 4. Canonical profile template
 
@@ -95,10 +96,11 @@ Keep separate public knowledge, what the NPC actually knows, beliefs that may be
 - Record persistent world consequences in `world/DYNAMIC_EVENTS.md` and/or `world/HISTORY.md` when appropriate.
 - Gameplay continuity in the current conversation is not automatically saved to GitHub.
 
-## 8. Controlled additions and migration
+## 8. Controlled additions and repository integrity
 
 - Minor situational details may be improvised only within the latitude allowed by `templates/AUTHORITY_ORDER.md`.
 - Do not promote improvised NPC names, prices, shops, authorities, routes, or relationships into established canon without approval when they affect persistent world structure.
 - Mark unapproved additions **Proposal — pending owner confirmation**.
-- Before migrating a region, verify its destination repository and contents, preserve established NPC/location data, build the regional registry, check profile links and duplicates, then update the central INDEX and navigation rules.
+- Keep all regional canon, registries, and NPC profiles inside `Antarezka/merzkava-universe` unless the owner explicitly changes the architecture. Do not create or imply a separate repository per major power.
+- Before adding or reorganizing an NPC, verify the current regional module, registry, canonical profile links, and duplicates; then update all affected in-repository navigation references together.
 - Never claim a persistent repository update without a verified commit.

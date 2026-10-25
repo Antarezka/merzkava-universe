@@ -9,7 +9,7 @@ Repository resmi: https://github.com/Antarezka/merzkava-universe
 Struktur wilayah yang dimaksud adalah **tepat tiga kekuasaan besar**, bukan satu repo untuk setiap provinsi, kawasan, kota, atau desa:
 
 1. **Golden Dragon Empire** — satu repositori untuk seluruh wilayah kekaisaran, seluruh subwilayah/permukiman di dalamnya, pemerintahan, faksi, jalur, serta NPC yang berasal atau bernaung di sana.
-2. **Tianhai Yunzhou** — satu repositori untuk seluruh Tianhai, termasuk kawasan, kota terapung, akademi, institut, jalur transit, faksi, serta NPC Tianhai.
+2. **Tianhai Yunzhou** — satu repositori untuk seluruh Tianhai Yunzhou, termasuk kawasan, kota terapung, akademi, institut, jalur transit, faksi, serta NPC Tianhai Yunzhou.
 3. **Beiming Gu** — satu repositori untuk seluruh Beiming Gu, termasuk kawasan-kawasannya, permukiman, jalur darat/laut, faksi, serta NPC Beiming Gu.
 
 **Kunci nama kanonis:** ikuti persis nama yang ditetapkan `world/WORLD.md`: **Golden Dragon Empire**, **Tianhai Yunzhou**, dan **Beiming Gu**. Jangan mengganti nama resmi dengan terjemahan, membuat nama alternatif, atau menulis nama wilayah yang berbeda pada indeks, aturan navigasi, maupun arsitektur repositori.
@@ -219,11 +219,11 @@ The three canonical repository boundaries are **Golden Dragon Empire, Tianhai Yu
 
 ### Tianhai Yunzhou
 - Tianhai Yunzhou — `world/REGION_TIANHAI_YUNZHOU.md`
-- Tianhai Spirit Hunters Guild offices, independent trade associations, and Medicine Hall Society service points — `world/REGION_TIANHAI_YUNZHOU.md` and `world/FACTIONS.md`
+- Tianhai Yunzhou Spirit Hunters Guild offices, independent trade associations, and Medicine Hall Society service points — `world/REGION_TIANHAI_YUNZHOU.md` and `world/FACTIONS.md`
 - Four cardinal areas, twelve clan placements, four Cultivator Academies, and the exclusive high-level Thinker Institute — `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md`
-- Tianhai court, civil/military officials, district administrators, clan heads, dojo masters, Thinker institutions — `regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`
+- Tianhai Yunzhou court, civil/military officials, district administrators, clan heads, dojo masters, Thinker institutions — `regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`
 - Maharaja Ji Haoyuan — `regions/tianhai-yunzhou/npcs/JI_HAOYUAN.md`
-- Bai Xuanyin, revered Tianhai heroine — `regions/tianhai-yunzhou/npcs/BAI_XUANYIN.md`
+- Bai Xuanyin, revered Tianhai Yunzhou heroine — `regions/tianhai-yunzhou/npcs/BAI_XUANYIN.md`
 - Ji Zhaoning, elder twin princess — `regions/tianhai-yunzhou/npcs/JI_ZHAONING.md`
 - Ji Ningzhao, younger twin princess — `regions/tianhai-yunzhou/npcs/JI_NINGZHAO.md`
 
@@ -305,7 +305,7 @@ Before narrating a location, describing its government/economy/customs, creating
 
 **Beiming safeguard:** the Beiming regional files are owner-fillable scaffolds where their contents say details are pending. Treat only their confirmed foundations and cross-referenced official sources as established. Do not fill missing settlements, routes, local administration, prices, customs, or NPCs with invented facts and then present them as pre-existing canon. A GM may narrate situational details only within the authority rules and must not silently make them permanent canon.
 
-**Tianhai safeguard:** use `world/REGION_TIANHAI_YUNZHOU.md` and its linked institutional/governance/NPC references for Tianhai-specific facts. Do not transfer the Golden Dragon Empire's bureaucratic tiers, academy count, village register, or local social rules to Tianhai Yunzhou without a source that explicitly establishes them.
+**Tianhai Yunzhou safeguard:** use `world/REGION_TIANHAI_YUNZHOU.md` and its linked institutional/governance/NPC references for Tianhai Yunzhou-specific facts. Do not transfer the Golden Dragon Empire's bureaucratic tiers, academy count, village register, or local social rules to Tianhai Yunzhou without a source that explicitly establishes them.
 
 If a required file cannot be fetched, name the missing source and limit the answer to what remains supported. A summary, prior memory, or region name is not a substitute for reading current canonical sources.
 

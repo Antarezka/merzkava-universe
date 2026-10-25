@@ -90,20 +90,31 @@ The **Wayfarer Hearth Network** is a loose, neutral network of outcasts and fugi
 - It may provide shelter, basic food, warnings, introductions, or a temporary hiding place when capacity and circumstances permit. Specific aid, cost, and risk must be resolved in context.
 - Do not equate this network with Medicine Hall Society or assume its members have medical expertise.
 
-## 4. Dead Zone — The Fog-Bound Forest
+## 4. Azerion Forest and Inner Azerion
 
-The **Dead Zone** is a dangerous, mist-shrouded forest and one of the world's largest forest expanses.
+**Azerion Forest** is the established name of the world's vast, dangerous, mist-shrouded forest previously referred to in existing records as the **Dead Zone**. “Dead Zone” remains a legacy/common label in older accounts for this forest; it is not a separate forest. Azerion Forest crosses territorial boundaries and extends from the Lawless Territories into the territory of the **Golden Dragon Empire**.
 
 - The easiest known entrance is located in the Lawless Territories.
-- The forest extends beyond the Lawless Territories and into the territory of **Golden Dragon Empire**.
-- Its full official name on the Golden Dragon Empire side is **not established in the current repository**. Until an official name is found or approved, use “Dead Zone” as the established common name and do not fabricate a longer imperial name.
 - Fog, dangerous terrain, uncertain visibility, and the forest's scale make travel and exploration hazardous. Exact boundaries, mapped routes, distances, ecology, and ordinary encounter rates remain unestablished.
-- The deepest part of the forest is home to an ancient **Heavenly Beast rank 9**: a colossal dragon with a deer-like head, enormous beautifully branching antlers, and deep-blue eyes. The beast's personal name, detailed abilities, disposition, exact location, and history beyond the wound described below remain unknown.
+- In the deepest part of the forest dwells an ancient **Heavenly Beast rank 9**: a colossal dragon with a deer-like head, enormous beautifully branching antlers, and deep-blue eyes. Its personal name, detailed abilities, disposition, exact location, and history beyond the wound described below remain unknown.
 - The beast left a scar on **Beiming Han, the Leluhur Utara of Beiming Gu**, in the distant past. This is a restricted historical fact, not common public knowledge.
+
+### 4.1 Inner Azerion — The Hidden Half-Beast City
+
+**Inner Azerion** is a large, prosperous, well-structured city in the northern part of Azerion Forest. Half-beast people run the city's economic life. The city is concealed behind an extremely dense **illusion fog**, making it very difficult to find from outside. Its exact coordinates, routes, government structure, population, leadership, districts, and founding history remain unspecified.
+
+- **Concealment and access:** The illusion fog hides the city and makes approaching it difficult. Do not assume a traveler can find Inner Azerion merely by entering Azerion Forest or following an ordinary map.
+- **Attitude toward humans:** The city is deeply unwelcoming to humans in general, but it does not automatically seek conflict with a human who is an established **Spirit Realm** expert simply for being human. This is not a guarantee of safety or special privileges.
+- **Non-awakened humans:** A human who has not awakened is in extreme danger inside the city. Do not treat entry by a non-awakened human as an ordinary or safe visit.
+- **Treatment of half-beast people:** The city's people are generally welcoming toward their own kind. Its internal economy is accessible and relatively affordable for half-beast residents and customers.
+- **Human pricing:** Human visitors face substantially higher prices than half-beast customers. Do not invent exact multipliers, tariffs, or price lists until established.
+- **Slave market:** A slave market operates in Inner Azerion. Its precise scale, rules, inventory, ownership, and relationship to the city's authorities remain undefined. Its existence does not establish that every half-beast resident supports slavery or that every market transaction involves half-beast people.
+
+Inner Azerion's concealed location and hostile attitude toward non-awakened humans are separate risks: finding the city does not guarantee safe entry, and being a Spirit Realm expert does not automatically reveal the illusion or grant unrestricted access.
 
 ### Restricted knowledge and NPC continuity
 
-The beast's role in Beiming Han's scar is known only to a very small number of people, including his adopted daughter **Beiming Xenhwa**. Canonical continuity is recorded in:
+The Heavenly Beast's role in Beiming Han's scar is known only to a very small number of people, including his adopted daughter **Beiming Xenhwa**. Canonical continuity is recorded in:
 - world/HISTORY.md
 - regions/beiming-gu/npcs/BEIMING_HAN.md
 - regions/beiming-gu/npcs/BEIMING_XENHWA.md

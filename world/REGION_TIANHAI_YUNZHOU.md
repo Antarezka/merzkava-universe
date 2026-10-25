@@ -97,7 +97,7 @@ The current masters, instructors, students, property ownership, clan ties, and f
 
 ## 9. Regional NPC Registry
 
-This registry is the canonical index for major and recurring Tianhai NPCs. Create one full profile per person under the established NPC workflow and link it here; do not duplicate biographies. Names and roles below remain unfilled until owner-approved.
+This registry is the canonical index for major and recurring Tianhai NPCs. Each person has one full profile; link it here rather than duplicating biographies. The entries below are owner-approved canon.
 
 | Public name / identity | Location | Role | Affiliation | Profile / source | Status |
 |---|---|---|---|---|---|
@@ -134,8 +134,11 @@ These details are owner-approved canon. Full biographies are maintained in the l
 - Her artifact contributions remain in use by Tianhai's soldiers and defenses, including armor and the giant protective dome.
 - Not established: exact date, duration, battlefield, identities of the three beasts, detailed battle sequence, full outcome, exact circumstances of Bai Xuanyin's death, and the name/tier/specifications of her greatest weapon.
 
-### Thinker distribution notes
-Previously discussed counts for Thinker Grades across Tianhai Yunzhou, Golden Dragon Empire, Beiming Gu, and the Lawless Territories remain discussion-only, not canon.
+### Canonical Thinker distribution notes
+- **Tianhai Yunzhou:** Four Thinker Grade 10 individuals in total, including Ji Haoyuan. Grade 10 is the highest Thinker Grade and its requirements are extraordinary.
+- **Golden Dragon Empire:** One Thinker Grade 9 and six Thinker Grade 8 individuals. Counts for other grades are not established.
+- **Beiming Gu:** Two Thinker Grade 9 individuals; other Thinkers are described as Grade 4 and Grade 5, but exact counts for those grades are not established.
+- **Lawless Territories:** At least one known Thinker Grade 9; the total number and distribution by grade are not established.
 
 ## 11. Current Situations and Events
 

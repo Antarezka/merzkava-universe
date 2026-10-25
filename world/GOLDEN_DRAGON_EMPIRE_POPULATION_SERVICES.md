@@ -8,18 +8,18 @@
 ## 1. What already existed, and what this file adds
 
 Already established in the repository:
-- The Empire's baseline population is **320 million**, with regional planning estimates in the administrative atlas.
+- The Golden Dragon Empire's baseline population is **320 million**, with regional planning estimates in the administrative atlas.
 - **Ninefold Concord Bank** is an interregional financial institution; its services may include deposits, transfers, debt records, and trade financing. It seeks operational neutrality, but branches can face pressure or crime.
 - **Myriad Ledger Exchange** brokers information, contacts, buyers/sellers, and market information. Its reports can be incomplete or wrong.
 - **Medicine Hall Society** is a neutral medical network spread across the world; its specific branches and hierarchy were not previously named.
 - **Cultivator Academies** were an established educational concept; this revision now names two central institutions and establishes their boarding model. Admission rules, fees, and detailed school policies remain undefined.
 - **Ordo Suci Tianming** is a world-spanning religious organization headquartered at the Sanctum of Ten Thousand Vows in Wanluo. Its broad network includes religious houses and observation/assessment facilities; its individual branch names were not specified.
 
-This register fills selected missing *institution names and locations* for the Empire. Specific branch names, academy names, and locations below are new worldbuilding additions. The academy and library lists are intentionally selective, not a uniform network across the Empire.
+This register fills selected missing *institution names and locations* for the Golden Dragon Empire. Specific branch names, academy names, and locations below are new worldbuilding additions. The academy and library lists are intentionally selective, not a uniform network across the Golden Dragon Empire.
 
 ## 2. Population and access principles
 
-- The Empire's **320 million** remains a planning baseline, not a precise census known to every resident. Regional totals and counts remain in the atlas.
+- The Golden Dragon Empire's **320 million** remains a planning baseline, not a precise census known to every resident. Regional totals and counts remain in the atlas.
 - The two academies are both in Huanglongcheng; only three Ordo public libraries are named here. Banks, Exchange offices, and Medicine Hall Society service points are **not equally capable everywhere**: a listed branch is not a promise of capital-city service, specialist staff, large reserves, or immediate assistance.
 - Development follows a center-to-periphery gradient. Huanglongcheng and the Longyuan core have the broadest selection of services, skilled staff, infrastructure, and reliable access. Major regional seats provide useful but narrower services. Remote rural areas may have no permanent branch at all and depend on travelling traders, local practitioners, family networks, or occasional service visits.
 - Broad service tiers: **Longyuan** — flagship and most complete; **Canglan and Tianfeng** — strong regional hubs with more limited rural reach; **Jinyue, Yanling, and Xingluo** — capable specialist hubs around mines, furnaces, and ports but uneven inland coverage; **Baiyue** — frontier-limited service, smaller stocks, fewer specialists, and slower support away from garrison routes. Prosperous trade enclaves may be exceptions within otherwise neglected regions.
@@ -185,14 +185,14 @@ The Golden Dragon Empire has **two named Cultivator Academies established in thi
 
 ### Binding academy placement note
 
-The two named academies in Huanglongcheng are the Empire's only established Cultivator Academies. Tianfeng's identity as the Scholarly Heights and a source of talented people does not establish an academy there; gifted students may travel from Tianfeng and other regions to the two central academies. Do not add academy branches or regional academies unless the owner explicitly revises this canon.
+The two named academies in Huanglongcheng are the Golden Dragon Empire's only established Cultivator Academies. Tianfeng's identity as the Scholarly Heights and a source of talented people does not establish an academy there; gifted students may travel from Tianfeng and other regions to the two central academies. Do not add academy branches or regional academies unless the owner explicitly revises this canon.
 
 ### Boarding and admissions
 
 - Both academies operate on a **dormitory-based boarding model**. Enrolled students normally reside on campus during the academic term and follow the academy's schedule and campus rules.
 - Dormitory assignment, room sharing, supervision, meals, leave, visiting hours, discipline, and student safety are administered by each academy. Specific policies have not yet been established.
 - Admission is not automatic. Entrance criteria, age limits, examination formats, tuition, scholarships, living expenses, and available places remain undefined; do not invent them as settled canon.
-- The two academies do not represent the Empire's only possible forms of learning. Family instruction, tutors, local mentors, dojo training, and self-study may exist, but are not equivalent to enrollment in either academy.
+- The two academies do not represent the Golden Dragon Empire's only possible forms of learning. Family instruction, tutors, local mentors, dojo training, and self-study may exist, but are not equivalent to enrollment in either academy.
 - Their curricula follow core/CULTIVATOR_ACADEMIES.md and the official mechanics modules. Neither academy guarantees awakening, a Spirit Ring, breakthrough, high Spirit Realm, or a particular career.
 
 ### Common foundational scope
@@ -218,7 +218,7 @@ The libraries listed here are public-facing educational branches of the Ordo, no
 | Tianfeng | Tianshu, regional seat | Tianming Public Knowledge Library — Tianshu Hall | Ordo Suci Tianming |
 | Xingluo | Dongxing, regional seat | Tianming Public Knowledge Library — Dongxing Hall | Ordo Suci Tianming |
 
-These three locations are known public facilities, not proof that every resident can conveniently reach them. No other Ordo public library inside the Empire should be assumed to exist unless it is added to canon. The Ordo's headquarters and other established religious or observation facilities in Wanluo remain distinct from this public-library list.
+These three locations are known public facilities, not proof that every resident can conveniently reach them. No other Ordo public library inside the Golden Dragon Empire should be assumed to exist unless it is added to canon. The Ordo's headquarters and other established religious or observation facilities in Wanluo remain distinct from this public-library list.
 
 ### 7.1 Public collection: what ordinary visitors can learn
 

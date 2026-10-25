@@ -157,7 +157,7 @@ This is the standard command model for imperial forces. Exact ranks, unit sizes,
 
 ## 5. How Governance Information Is Stored
 
-Follow a modular pattern inspired by the organization of Inggo's Core repository: one navigation index, one central reference per topic, and focused files for regions or individual institutions. This is a storage design reference, not a transfer of Inggo's world lore.
+Use a modular storage pattern: one navigation index, one central reference per topic, and focused files for regions or individual institutions. This defines file organization only; it does not alter or duplicate world canon.
 
 | Information type | Canonical storage |
 |---|---|

@@ -41,8 +41,9 @@ Her historical knowledge and beliefs are not itemized. Events after her death we
 
 ## 7. State and Continuity
 - Current status: Deceased during the Great Tianhai War.
-- Exact date, battlefield, cause and circumstances of death, and last interaction: Not established.
-- Related event: Great Tianhai War; chronology and full outcome remain unspecified.
+- Exact date, battlefield, precise cause and circumstances of death, and last interaction: Not established.
+- Related event: Great Tianhai War, a major front of the world-calamity incursion; chronology and detailed battle sequence remain unspecified.
+- Ji Haoyuan's absence during the war was due to active World Knowledge Tower duties. Do not invent a precise message-delivery time or claim he abandoned the Tower before the urgent containment obligations were completed.
 
 ## 8. Canon Check
 Approved facts are recorded here and in world/REGION_TIANHAI_YUNZHOU.md. The names and technical details of her artifacts, identities of the three beasts, and precise war chronology remain unspecified.

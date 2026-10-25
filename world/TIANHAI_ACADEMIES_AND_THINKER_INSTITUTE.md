@@ -53,7 +53,7 @@ Tianhai Yunzhou's academies are more flexible in teaching methods than the ortho
 | West | **Cangfan Maritime Academy** | Emphasizes navigation awareness, maritime life, movement, teamwork, and practical preparation for travel and sea-related risks. |
 | East | **Haiyue Academy** | Emphasizes commercial-world literacy, applied problem-solving, resource awareness, and the relationship between cultivation, trade, and specialist craft. |
 
-These are institutional identities and broad educational emphases, not complete curricula. Exact admission ages, fees, examination formats, class sizes, ranking rules, scholarships, graduation standards, and campus layouts remain unspecified. Do not create a fifth Tianhai academy or treat the four as the only academies in the entire world.
+These are institutional identities and broad educational emphases, not complete curricula. Exact admission ages, fees, examination formats, class sizes, ranking rules, scholarships, graduation standards, and campus layouts remain unspecified. Do not create a fifth Tianhai Yunzhou academy or treat the four as the only academies in the entire world.
 
 The Tianlan Supreme Academy is the leading academy overall; that reputation does not mean every graduate is stronger than graduates from the other three, nor does it establish that it wins every competition.
 

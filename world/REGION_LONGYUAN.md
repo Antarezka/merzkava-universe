@@ -22,7 +22,7 @@
 ## 2A. Administrative Register
 
 - **Regional administrative seat:** Huanglongcheng (imperial capital)
-- **Population planning estimate:** 44 juta (part of the Empire-wide 320-million baseline; see the atlas for caveats)
+- **Population planning estimate:** 44 juta (part of the Golden Dragon Empire-wide 320-million baseline; see the atlas for caveats)
 - **Prefectures:** 2
 - **County circuit:** Imperial Heartland Circuit
 - **Cities:** Not separately counted in the simplified register; former seats remain settlements or service hubs.
@@ -61,7 +61,7 @@ The official prefecture seats are only those listed in `world/GOLDEN_DRAGON_EMPI
 
 ### Official Villages and Other Local Settlements
 
-Only 2 villages are part of the Empire's official thirteen-village register in this region. Other named places listed below are hamlets/local settlements, not additional official villages. Their local functions and route connections remain usable, but they must not be counted as official villages. Permanent public services or named leaders are not implied.
+Only 2 villages are part of the Golden Dragon Empire's official thirteen-village register in this region. Other named places listed below are hamlets/local settlements, not additional official villages. Their local functions and route connections remain usable, but they must not be counted as official villages. Permanent public services or named leaders are not implied.
 
 | Settlement | Type | Established role | Authority / status |
 |---|---|---|---|

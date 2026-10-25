@@ -162,5 +162,5 @@ The ancient world-calamity incursion—when extreme anomalies opened gates to ot
 - The pilgrimage-road network formed gradually from repeated use; it was not established all at once by a ruler and is not confirmed to be a supernatural construction.
 - Open access to Wanluo does not imply unrestricted access to the Tower, private institutions, or restricted religious facilities.
 - The religious organization's large following and trusted status do not make it omniscient, politically absolute, or guaranteed to win conflicts.
-- The exact founders, dates, doctrine, highest leader, formal ranks, and historical events of the religious organization remain unestablished.
+- The Ordo's exact founders, founding date, formal doctrine, highest leader, and internal ranks remain unestablished. The world-calamity incursion and the Ordo's cooperation with the Tower alliance are established; do not invent a more precise chronology or a formal alliance name.
 - Details in this module describe the currently accepted design concept. Any future revisions by the owner supersede this version.

@@ -251,6 +251,22 @@ Regional modules are divided according to the established geography in `world/MA
 
 **Route and economy realism:** routes must reflect confirmed geography and transport. Some settlements require an intermediate village, bridge, ferry, pass, port, or gate. Local resources, crafts, labor, demand, and services should create plausible trade relationships, but proposals remain non-canon until owner-approved.
 
+
+
+### Mandatory Settlement Canon Load Path — Golden Dragon Empire
+
+Whenever the GM/AI must narrate, count, compare, add, rename, classify, or edit a settlement in the Golden Dragon Empire, load and apply these sources in order before answering or changing files:
+
+1. `INDEX.md` — enter through this routing rule.
+2. `world/CANON_DECISIONS_AND_PRECEDENCE.md` — check binding owner decisions and conflict rules.
+3. `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md` — authoritative register for the official village names, classifications, counts, and regional distribution.
+4. The relevant `world/REGION_<NAME>.md` file for the location/scene. For a **total-count audit, cross-region comparison, or settlement-register edit**, read all seven Golden Dragon Empire regional modules and reconcile each roster against the atlas.
+5. `world/MAP_AND_REGIONS.md` and `world/LOCATION_AND_ROUTE_NETWORK.md` when regional context, connections, or travel routes are relevant; read `world/GEOGRAPHY_AND_TRAVEL.md` for travel/transport rules.
+
+**Binding settlement rules:** the Empire has exactly **13 official named villages** and the atlas separately lists **21 named hamlets/local settlements**. Count only entries classified as official villages in the atlas. Hamlets and other local settlements do not increase the official-village total. Preserve extra settlement details for exploration, but never silently promote, delete, merge, rename, or reclassify a place as canon. Any proposed status change requires explicit owner approval and coordinated updates to the atlas, affected regional modules, and all dependent references.
+
+If a required source cannot be fetched, state which source is unavailable and do not claim that the settlement audit or edit is fully verified. A summary, prior memory, heading, or older cached answer does not substitute for reading the current canonical files.
+
 ### Regional/NPC navigation triggers
 | Situation | Required source |
 |---|---|
@@ -263,6 +279,7 @@ Regional modules are divided according to the established geography in `world/MA
 | A character seeks any Guild contract, joins a temporary Guild team, accepts escort/cargo/item-search work, seeks a Spirit Beast hunting party, or encounters a Guild bounty notice | Read `world/SPIRIT_HUNTERS_GUILD.md`; also read `core/SPIRIT_RING_RULES.md`, `bestiary/SPIRIT_BEAST_RULES.md`, and relevant combat/HP/injury modules when the contract involves Spirit Beasts or combat |
 | Government office, imperial ministry, or civil-versus-military authority matters in the Golden Dragon Empire | Read `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`, then the matching regional module and any linked NPC profile |
 | A character visits or discusses a Golden Dragon Empire prefecture, county, city, or other administrative unit | Read `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md` and the matching `world/REGION_*.md` module; use the atlas as the single source for jurisdiction names and counts |
+| A scene, edit, or question involves Golden Dragon Empire villages, hamlets, rural settlement counts, or a regional settlement roster | Follow the mandatory **Settlement Canon Load Path** below; do not rely on INDEX summaries alone |
 | A character seeks banking, information brokerage, medical services, foundational education, or a public knowledge library in the Golden Dragon Empire | Read `world/GOLDEN_DRAGON_EMPIRE_POPULATION_SERVICES.md` plus the matching regional module; use its named branch register and access limits |
 | NPC action changes the persistent world | Check `world/DYNAMIC_EVENTS.md` and the approved owner workflow; do not claim persistence without a verified repository update |
 

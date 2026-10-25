@@ -82,7 +82,13 @@ The following twelve clans and their spheres of influence are established in `wo
 | Shuijing Clan | Materials processing and craftsmanship |
 | Leiyu Clan | Combat techniques and offensive power |
 
-The current clan heads are listed in `world/NPC_TIANHAI_POWER_STRUCTURE.md`. Family trees, heirs, territories, membership, internal branches, formal rivalries, alliances, and marriage ties remain unestablished unless confirmed in a dedicated source or owner-approved NPC profile.
+The current clan heads are listed in `world/NPC_TIANHAI_POWER_STRUCTURE.md`. Principal areas are recorded in `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md`: Canglong, Xuanchao, and Leiyu in the North; Tianjing, Shuijing, and Yunzhou in the South; Haiyuan, Lingfan, and Bihai in the West; Yunhai, Haijing, and Mingzhu in the East. This is not exclusive territory ownership. Family trees, heirs, membership, internal branches, formal rivalries, alliances, and marriage ties remain unestablished unless confirmed in a dedicated source or owner-approved NPC profile.
+
+### Cultivator Academies and Thinker Institute
+
+Tianhai has four Cultivator Academies, one in each cardinal area. Tianlan Supreme Academy in the South is the most outstanding. All four teach foundational Martial Soul, Spirit Realm, Spirit Ring, Spirit Beast, and related cultivator subjects, using more flexible methods than the Golden Dragon Empire's orthodox central academies. Their exact admissions and curricula remain undefined.
+
+The Tianhai Thinker Institute is the world's sole established high-level institution with this breadth of Thinker research. It specializes in Formation Engraver development, materials, formulation/mixing methods, complex formation engraving for Tier 6 and above, and optimization for Tier 5 and below. See `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md`; official production mechanics remain in `core/THINKER_AND_FORMULATION.md`.
 
 ### Dojos
 

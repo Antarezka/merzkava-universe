@@ -22,7 +22,8 @@ Bai Xuanyin is greatly respected in Tianhai Yunzhou as a heroic figure. She died
   - Created a weapon-type Artificial Artifact described by the owner as the strongest weapon-type Artificial Artifact in the world.
   - Created Artificial Artifact armor that remains in use by Tianhai Yunzhou soldiers.
   - Contributed to the giant protective dome that shields Tianhai Yunzhou.
-- The weapon's name, tier, technical specifications, and current custodian are not established. The names, tiers, and precise technical details of the armor and dome are also not established.
+  - Created the original design framework for a wide-area emergency concealment Artificial Artifact later mass-produced during the world-calamity incursion. The resulting Tier 8 devices were imperfect copies made by another Thinker Grade 10 in Tianhai Yunzhou; each could be activated only once before destroying itself. They concealed life across a vast area to reduce detection by invading Demonic Beasts, and Thinkers from around the world deployed them to protect inhabited areas. Many areas were saved, though not all.
+- The weapon's name, tier, technical specifications, and current custodian are not established. The concealment artifact's original framework tier and technical specifications are also not established. The names, tiers, and precise technical details of the armor and dome are also not established.
 - Mechanics sources: core/THINKER_AND_FORMULATION.md; world/ARTIFICIAL_ARTIFACTS.md; core/CULTIVATION_SYSTEM.md.
 
 ## 4. Motivations and Agency

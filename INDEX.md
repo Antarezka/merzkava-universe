@@ -72,6 +72,7 @@ Pilih modul berdasarkan aksi, kondisi, dan lokasi saat ini. Jangan membaca atau 
 |---|---|
 | Definisi field profil dan konsistensi state | `templates/CHARACTER_PROFILE_TEMPLATE.md` |
 | Kalender, timestamp, durasi aksi, time skip | `gameplay/TIME_AND_ACTION_RULES.md` |
+| Encounter perjalanan, ambush terpisah, dan pertolongan darurat tabib pengembara Medicine Hall Society | `gameplay/TRAVEL_ENCOUNTER_AMBUSH_RESCUE.md` |
 | Spirit Realm, Stage, Sync, bottleneck, breakthrough | `core/CULTIVATION_SYSTEM.md` |
 | Akademi kultivator dan pendidikan dasar | `core/CULTIVATOR_ACADEMIES.md` |
 | Keputusan canon final, prioritas sumber, dan aturan sinkronisasi file lama/baru | `world/CANON_DECISIONS_AND_PRECEDENCE.md` |
@@ -175,6 +176,7 @@ Jika sumber wajib gagal diakses, sebutkan file yang gagal dan jangan mengaku tel
 - `bestiary/SPIRIT_BEAST_RULES.md`
 - `gameplay/COMBAT_SYSTEM.md`
 - `gameplay/TIME_AND_ACTION_RULES.md`
+- `gameplay/TRAVEL_ENCOUNTER_AMBUSH_RESCUE.md`
 - `world/WORLD.md`
 - `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`
 - `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`

@@ -24,7 +24,7 @@ The Empire's seven major regions are established in `world/WORLD.md`:
 | Longyuan | 44 million | 1.26 million km² | ~35/km² | Core — strongest state presence | Huanglongcheng | 2 | Imperial Heartland Circuit | Court, ministries, nobles |
 | Canglan | 64 million | 1.42 million km² | ~45/km² | Riverlands — productive corridors, uneven rural services | Qinghe | 2 | Riverlands Circuit | Agriculture, irrigation, trade |
 | Jinyue | 32 million | 1.78 million km² | ~18/km² | Mineral belt — mines and artifact materials | Yumai | 2 | Mineral Lands Circuit | Mining, spiritual metals |
-| Tianfeng | 40 million | 1.33 million km² | ~30/km² | Scholarly heights — academies around major seats | Tianshu | 2 | Scholarly Heights Circuit | Education and knowledge |
+| Tianfeng | 40 million | 1.33 million km² | ~30/km² | Scholarly heights — scholarly activity and talent development; students travel to Huanglongcheng | Tianshu | 2 | Scholarly Heights Circuit | Scholarly traditions and knowledge exchange |
 | Yanling | 36 million | 1.80 million km² | ~20/km² | Furnace belt — industrial hubs and remote communities | Honglu | 2 | Furnace Mountains Circuit | Smithing and spiritual forging |
 | Baiyue | 32 million | 2.67 million km² | ~12/km² | Frontier — long distances and defense routes | Beiguan | 1 | Frontier–Maritime Circuit | Fortifications and border defense |
 | Xingluo | 72 million | 1.60 million km² | ~45/km² | Maritime belt — ports and coastal trade | Dongxing | 1 | Frontier–Maritime Circuit | Ports, diplomacy, sea routes |

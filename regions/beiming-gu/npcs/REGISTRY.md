@@ -2,7 +2,7 @@
 
 **Scope:** Navigation directory for established recurring/major NPCs whose canonical home or affiliation is Beiming Gu.
 **Status:** Three owner-approved NPC profiles are registered below.
-**Local pattern:** central INDEX → relevant Beiming regional module → local NPC table → canonical profile.
+**Local pattern:** central INDEX → relevant Beiming Gu regional module → local NPC table → canonical profile.
 **Staging note:** This file lives in the central repository under `regions/beiming-gu/` because a separate regional repository has not been verified. This is an in-repo staging location, not a claim that a separate repository has been created.
 
 ## Highest known authority and adoptive family

@@ -5,7 +5,7 @@
 
 ## NPC loading order
 
-1. Read the central [INDEX](../../../INDEX.md), [Authority Order](../../../templates/AUTHORITY_ORDER.md), and [NPC Management](../../../world/NPC_MANAGEMENT.md).
+1. Read the central [INDEX](../../INDEX.md), [Authority Order](../../../templates/AUTHORITY_ORDER.md), and [NPC Management](../../../world/NPC_MANAGEMENT.md).
 2. Read the relevant existing Beiming regional module and its confirmed local facts.
 3. Check the [NPC Registry](npcs/REGISTRY.md).
 4. Add or open an NPC profile only when an authoritative source or owner-approved canon establishes that person's Beiming Gu home/affiliation.

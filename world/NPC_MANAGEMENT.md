@@ -31,7 +31,7 @@ The central repository is currently the global navigation hub and temporary home
 
 **Migration safety:** existing `world/REGION_*.md`, `world/NPC_*.md`, and other regional canon files remain valid legacy sources until each migration is verified. Do not delete, overwrite, or claim they have moved just because the target architecture is documented.
 
-## 3. NPC structure
+## 3. NPC structure — regional-module pattern
 
 ### A. Local NPC tables live beside their location
 

@@ -8,8 +8,8 @@ Repository resmi: https://github.com/Antarezka/merzkava-universe
 
 Struktur wilayah yang dimaksud adalah **tepat tiga kekuasaan besar**, bukan satu repo untuk setiap provinsi, kawasan, kota, atau desa:
 
-1. **Kekaisaran Naga Emas (Golden Dragon Empire)** — satu repositori untuk seluruh wilayah kekaisaran, seluruh subwilayah/permukiman di dalamnya, pemerintahan, faksi, jalur, serta NPC yang berasal atau bernaung di sana.
-2. **Tianhai Yunzhou (Tianhai)** — satu repositori untuk seluruh Tianhai, termasuk kawasan, kota terapung, akademi, institut, jalur transit, faksi, serta NPC Tianhai.
+1. **Golden Dragon Empire** — satu repositori untuk seluruh wilayah kekaisaran, seluruh subwilayah/permukiman di dalamnya, pemerintahan, faksi, jalur, serta NPC yang berasal atau bernaung di sana.
+2. **Tianhai Yunzhou** — satu repositori untuk seluruh Tianhai, termasuk kawasan, kota terapung, akademi, institut, jalur transit, faksi, serta NPC Tianhai.
 3. **Beiming Gu** — satu repositori untuk seluruh Beiming Gu, termasuk kawasan-kawasannya, permukiman, jalur darat/laut, faksi, serta NPC Beiming Gu.
 
 **Subwilayah bukan repositori tersendiri.** Kota/desa/kawasan dan NPC ditempatkan di dalam repositori kekuasaan besarnya masing-masing. NPC disimpan di repositori wilayah asal/afiliasi kanonisnya, bukan di repositori NPC global terpisah.

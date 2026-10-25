@@ -86,7 +86,7 @@ The current clan heads are listed in `../regions/tianhai-yunzhou/npcs/POWER_STRU
 
 ### Cultivator Academies and Thinker Institute
 
-Tianhai has four Cultivator Academies, one in each cardinal area. Tianlan Supreme Academy in the South is the most outstanding. All four teach foundational Martial Soul, Spirit Realm, Spirit Ring, Spirit Beast, and related cultivator subjects, using more flexible methods than the Golden Dragon Empire's orthodox central academies. Their exact admissions and curricula remain undefined.
+Tianhai Yunzhou has four Cultivator Academies, one in each cardinal area. Tianlan Supreme Academy in the South is the most outstanding. All four teach foundational Martial Soul, Spirit Realm, Spirit Ring, Spirit Beast, and related cultivator subjects, using more flexible methods than the Golden Dragon Empire's orthodox central academies. Their exact admissions and curricula remain undefined.
 
 The Tianhai Thinker Institute is the world's sole established high-level institution with this breadth of Thinker research. It specializes in Formation Engraver development, materials, formulation/mixing methods, complex formation engraving for Tier 6 and above, and optimization for Tier 5 and below. See `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md`; official production mechanics remain in `core/THINKER_AND_FORMULATION.md`.
 
@@ -132,7 +132,7 @@ The Spirit Hunters Guild is a broad contract-and-jobs Guild, not an organization
 
 The Guild is not a unified government or universal police force. Do not assume a branch, legal jurisdiction, permanent membership, uniform rules, or ability to enforce a bounty everywhere. Local presence and influence must follow canon or events.
 
-**Established Tianhai presence:** `world/REGION_TIANHAI_YUNZHOU.md` establishes a main contract office at Haiyue Market, a harbor contract desk at Cangqiong Harbor, a freight/expedition desk at Westwake Anchorage, and a limited notice/referral point at Pearlstep Landing. These are service points, not proof of uniform jurisdiction, permanent staffing, or authority over Tianhai's government, military, customs, or Lawless Territories.
+**Established Tianhai presence:** `world/REGION_TIANHAI_YUNZHOU.md` establishes a main contract office at Haiyue Market, a harbor contract desk at Cangqiong Harbor, a freight/expedition desk at Westwake Anchorage, and a limited notice/referral point at Pearlstep Landing. These are service points, not proof of uniform jurisdiction, permanent staffing, or authority over Tianhai Yunzhou's government, military, customs, or Lawless Territories.
 
 ## 7. Lawless Territory Organizations
 
@@ -187,7 +187,7 @@ The organization is not omniscient and does not automatically defeat every threa
 
 ## 10. Tianhai Trade Associations
 
-Tianhai has several independent trade and professional associations. They represent member interests and coordinate commercial services; they are not a single monopoly, government ministry, or authority over customs and harbor security. Their established local remits are:
+Tianhai Yunzhou has several independent trade and professional associations. They represent member interests and coordinate commercial services; they are not a single monopoly, government ministry, or authority over customs and harbor security. Their established local remits are:
 
 - **Haiyue Merchants' Association** — Haiyue Market; merchant representation, commodity-quality disputes, bulk orders, commercial notices, and buyer/seller introductions.
 - **Cangqiong Shipowners and Freight Union** — Cangqiong Harbor and Westwake Anchorage; freight coordination, cargo-handling standards, berth-service negotiations, crew referrals, and shipping-risk information.

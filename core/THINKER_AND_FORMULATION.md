@@ -30,7 +30,7 @@ These categories are distinct by origin and must not be treated as interchangeab
 
 ### 3.1 Tianhai Yunzhou
 - Origin of the first Thinkers and a major center of Thinker knowledge.
-- The Tianhai Maharaja can compete through exceptional knowledge, not solely personal combat strength.
+- The Tianhai Yunzhou Maharaja can compete through exceptional knowledge, not solely personal combat strength.
 - Thinker knowledge is one source of Tianhai Yunzhou's cultural influence.
 - Knowledge and formulation development may become channels for cultural exchange, diplomacy, and rivalry.
 

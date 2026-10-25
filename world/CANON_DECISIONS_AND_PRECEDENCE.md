@@ -62,7 +62,7 @@ When new information is added:
 - Guild contract scope and operating rules: `world/SPIRIT_HUNTERS_GUILD.md`
 - Organization overview: `world/FACTIONS.md`
 
-### 2.X Official Villages and Local Settlements — Binding Count
+### 2.4 Official Villages and Local Settlements — Binding Count
 
 The Golden Dragon Empire has exactly **13 officially registered named rural villages**. The canonical names, classification, and regional distribution are governed by `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. The atlas separately lists **21 named hamlets/local settlements**; these support local exploration and geography but are not official villages and must not be included in the official-village count.
 

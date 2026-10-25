@@ -1,79 +1,113 @@
-# Merzkava Universe — Regional Repository Architecture
+# Merzkava Universe — Three-Power Repository Architecture
 
-**Purpose:** Keep the central repository as the world-wide navigation hub while each major region owns its detailed local canon and NPC records. This follows a hub-and-spoke navigation pattern: one global index, region-specific sources, and explicit links instead of duplicated biographies.
+## Purpose
+
+Use one central hub and **exactly three canonical regional repositories**, one for each major power. This follows the navigation pattern used by `inggo-alvn/Core`: a central index points to a regional index, which points to local geography, settlement records, NPC registries, and canonical NPC profiles.
+
+**“Region” here means a major power—not an individual province, valley, city, or village.** The three repository boundaries are:
+
+1. **Golden Dragon Empire / Kekaisaran Naga Emas**
+2. **Tianhai Yunzhou / Tianhai**
+3. **Beiming Gu**
+
+Do not create a fourth, separate global NPC repository or one repository per subregion.
 
 ## 1. Responsibility boundaries
 
 ### Central repository: `Antarezka/merzkava-universe`
 
 The central repository owns:
-- `INDEX.md`: global entry point, repository directory, and mandatory loading route.
-- `templates/AUTHORITY_ORDER.md`: mandatory GM procedure, source precedence, and rules for following the route.
-- Global world canon and mechanics that apply across multiple regions.
-- The regional repository directory and cross-region navigation rules.
+- Global `INDEX.md` and links to the three major-power repositories.
+- `templates/AUTHORITY_ORDER.md` and global GM/navigation procedures.
+- Global world canon, shared mechanics, common templates, and cross-power rules.
+- Cross-region references, global history/events, and rules that apply across multiple powers.
+- Temporary legacy regional/NPC files until migration to the three regional repositories is complete and verified.
 
-The central repository must not become a second, competing copy of the detailed NPC roster maintained by a regional repository after that region has been migrated.
+The central repository is the navigation hub, **not** the long-term home of detailed local NPC profiles after migration.
 
-### Each regional repository
+### Regional repository A: Golden Dragon Empire
 
-A regional repository is the canonical source for that region's detailed local content:
-- Regional overview, geography, settlements, local life, resources, economy, and confirmed route connections.
-- Local NPC registry, grouped by settlement or meaningful subregion.
-- One canonical full profile for each recurring or major NPC whose primary home/assignment belongs to that region.
-- Region-specific government, factions, institutions, services, and local event references as needed.
-- Links to global mechanics and cross-region canon in the central repository, rather than copied rulebooks.
+Owns all established canon within the empire:
+- Its seven established geographic regions and all lower-level administrative areas, settlements, villages, hamlets, districts, routes, and transit links.
+- Empire governance, officials, regional administrations, public services, local economy/resources, factions, institutions, and locally grounded daily life.
+- The empire's local NPC registry and canonical full profiles for its recurring/major NPCs.
 
-## 2. Standard regional repository layout
+### Regional repository B: Tianhai Yunzhou
 
-Use these paths consistently where applicable:
+Owns all established canon within Tianhai:
+- Tianhai's geographic areas, floating settlements/cities, local districts, routes, and interregional transit terminals.
+- Tianhai governance, academies, Thinker Institute, clans, services, local economy/resources, factions, and local life.
+- Tianhai's local NPC registry and canonical full profiles for its recurring/major NPCs.
 
-- `README.md` — region identity, scope, and entry points.
-- `INDEX.md` — region-local navigation and required loading order.
-- `REGION_OVERVIEW.md` — geography, identity, climate, resources, local life, and boundaries.
-- `settlements/<Settlement_Name>.md` — detailed settlement records when a settlement needs its own module.
-- `npcs/REGISTRY.md` — region-wide NPC index grouped by settlement/subregion.
-- `npcs/<NPC_Name>.md` — canonical full profile for one recurring or major NPC.
-- `factions/<Faction_Name>.md` — separate organization record when its complexity warrants one.
-- `routes/ROUTE_NETWORK.md` — confirmed connections and transfers, if route complexity warrants a dedicated file.
+### Regional repository C: Beiming Gu
 
-Do not create empty files just to satisfy the tree. Keep simple content in the region overview until its complexity justifies a separate module. Existing canon may retain established file names during migration; do not rename or move it in a way that loses information.
+Owns all established canon within Beiming Gu:
+- Beiming's established geographic areas, settlements, villages, routes, border connections, and local transit.
+- Its governance, factions, institutions, local economy/resources, customs, and local life as established by canon.
+- Beiming Gu's local NPC registry and canonical full profiles for its recurring/major NPCs.
+- Lawless Territories are not automatically a fourth major-power repository. Keep their ownership under the agreed world structure; until the owner defines a separate repository, link/reference their current canon from the central index and do not silently assign them to Beiming Gu.
 
-## 3. NPC placement and canonical ownership
+## 2. Standard layout inside each of the three repositories
 
-1. Every region has one registry entry point. The registry lists public identity/name, current or last-confirmed location, role, affiliation, public-facing traits/goal, canonical profile link, and status.
-2. Each recurring or major NPC has exactly one canonical full profile. Do not copy the biography into the regional overview, settlement file, faction file, or central repository.
-3. Local settlement and faction files link to the canonical profile and record only relevant local context, presence, office, or assignment.
-4. An NPC whose location changes is not automatically reassigned to a different canonical repository. Keep profile ownership based on established primary affiliation/home unless the owner approves a transfer; update current whereabouts and cross-links.
-5. For a cross-region NPC, the primary profile remains in one agreed home repository. Other regions link to it and maintain only locally relevant context.
-6. Background and temporary scene NPCs do not need permanent profiles unless they become recurring or materially important.
-7. A profile's GM-only information is not automatically public or known by the player-character.
+Use this layout as a guide, not as a requirement to create empty files:
 
-## 4. Mandatory AI navigation
+- `README.md` — identity, scope, and entry point.
+- `INDEX.md` — local navigation and required loading order.
+- `REGION_OVERVIEW.md` — overall geography, climate, identity, resources, and boundaries of the whole power.
+- `regions/<Region_Name>.md` — a province/valley/subregion when it needs a separate file.
+- `settlements/<Settlement_Name>.md` — a city, town, village, hamlet, or other settlement when it needs a separate file.
+- `npcs/REGISTRY.md` — one local NPC registry, grouped by region/settlement and role.
+- `npcs/<NPC_Name>.md` — one canonical full profile for each recurring/major NPC.
+- `factions/<Faction_Name>.md` — organization record when its complexity warrants a separate file.
+- `routes/ROUTE_NETWORK.md` — confirmed connections, travel modes, transfer points, and costs when route complexity warrants it.
+- `institutions/<Institution_Name>.md` — complex institutions when needed.
 
-For any gameplay, lore answer, audit, or repository edit involving a region:
+Do not create empty files just to satisfy the tree. Simple content can remain in the overview or local index until complexity justifies a separate module. Preserve established file names and canon during migration unless renaming is safe and all references are updated.
+
+## 3. NPC ownership and continuity
+
+1. Each power repository owns one regional NPC registry, grouped by subregion/settlement and meaningful role.
+2. A recurring or major NPC has exactly one canonical full profile, stored in the repository of their established primary home or affiliation.
+3. Regional overview, settlement, faction, and institution files link to the canonical profile; they do not duplicate the biography.
+4. An NPC's temporary location change does not automatically transfer their profile to another repository. Keep canonical ownership stable unless the owner approves a transfer.
+5. A cross-power NPC keeps one canonical profile in the agreed home repository; other repositories link to it and record only relevant local presence or assignments.
+6. Background and temporary scene NPCs do not require permanent profiles unless they become recurring or materially important.
+7. Keep public knowledge, NPC knowledge, beliefs, player-character knowledge, and GM-only information distinct.
+
+## 4. Mandatory navigation
+
+For gameplay, lore questions, audits, or repository edits:
 
 1. Read the central `INDEX.md` and `templates/AUTHORITY_ORDER.md`.
-2. Resolve the region and open its exact repository link from the central regional repository directory.
-3. Read that regional repository's `INDEX.md` or `README.md` and follow its local loading route.
-4. Read the relevant settlement/subregion entry and its NPC registry.
-5. Open only the canonical NPC profiles and faction/institution records relevant to the current scene or task.
-6. For travel, also verify origin, destination, intermediate transfers, and global travel rules in the central repository.
-7. If a regional link is missing, inaccessible, or points to a different repository, state the specific gap. Never invent a repository URL or claim to have read inaccessible data.
+2. Identify which of the **three major powers** owns the location. A subregion name determines a file inside that power's repository, not a separate repository.
+3. Open the verified repository link for that power from the central index.
+4. Read the regional `INDEX.md` (or `README.md` if no regional index exists) and follow its local loading order.
+5. Read the relevant subregion/settlement file and that power's NPC registry.
+6. Open only the canonical NPC profiles and faction/institution records relevant to the current scene.
+7. For travel, verify origin, destination, intermediate transfers, transport type, and cost in the route network and shared travel rules.
+8. If a repository link is missing or inaccessible, state the exact gap and use central legacy files only as temporary fallback. Never guess a URL or claim to have fetched inaccessible data.
 
-Do not fetch every NPC profile in the world for an ordinary scene. Do fetch all relevant regional registries when performing a complete roster audit, cross-region comparison, or migration.
+Do not fetch every NPC profile for an ordinary scene. Load all relevant regional registries for a complete roster audit or migration.
 
-## 5. Migration safety rule
+## 5. Migration state and safety
 
-**A repository is not considered migrated merely because this architecture document exists.** The central regional repository directory must contain a verified URL for the destination repository, and its regional index/registry must be checked before canonical ownership is changed.
+The desired structure is three regional repositories, but **a design document does not itself create those repositories or migrate files**.
 
-Until a destination is verified and the migration is confirmed:
-- Existing regional files and NPC profiles in `merzkava-universe` remain the accessible legacy canon.
-- Do not delete, rename, or overwrite the legacy profiles.
-- Do not publish a fake or guessed regional repository URL.
-- Do not claim the regional repositories are fully separated.
-- Once a destination is verified, copy/migrate the relevant files with their content and cross-links checked, update the regional repository directory, then update the central index and Authority Order. Only remove legacy duplicates after the destination content and links are verified.
+Until each destination repository URL and contents are verified:
+- Treat existing `world/REGION_*.md`, `world/NPC_*.md`, and region-specific governance/institution files in the central repo as legacy canon.
+- Do not delete, overwrite, or claim those files have been moved.
+- Do not invent destination URLs.
+- Do not claim the three-repository separation is complete.
 
-## 6. Registry entry format
+For each power, migration must be performed and checked as one coherent set:
+1. Create/verify that power's repository and its local `INDEX.md`.
+2. Migrate the relevant geographic, settlement, route, governance, faction, institution, and NPC files without losing established content.
+3. Build/check the local NPC registry and ensure each major/recurring NPC has one canonical full profile.
+4. Update internal links and confirm the destination files can be fetched.
+5. Add the verified repository URL to the central `INDEX.md` and Authority Order route.
+6. Only then mark that power migrated. Remove a central legacy duplicate only after the owner-approved destination and every dependent link are verified.
+
+## 6. Registry row format
 
 Use one row per individual:
 
@@ -81,4 +115,4 @@ Use one row per individual:
 |---|---|---|---|---|---|---|
 | Not established | Not established | Not established | Not established | Not established | Link to canonical profile | Not established |
 
-The table is a template, not a claim that any listed NPC exists. Keep names and facts grounded in established canon.
+This is a format template, not a claim that any NPC exists. All entries must be grounded in established canon.

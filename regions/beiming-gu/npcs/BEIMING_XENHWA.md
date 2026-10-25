@@ -29,7 +29,7 @@ Her specific long-term goals, fears, personal plans, and ordinary daily agenda a
 ## 5. Knowledge Boundaries
 Her sensitive senses detected Beiming Jingheng's approach during the established nighttime incident. Do not extend this into omniscience or claim she can detect everything without a relevant cause.
 
-**GM-sensitive knowledge:** Beiming Xenhwa is among the very few who know that Beiming Han's scar was left long ago by an ancient Heavenly Beast rank 9 in the Dead Zone: a colossal dragon with a deer-like head, enormous branching antlers, and deep-blue eyes. The circumstances that gave her this knowledge, the exact date, and the beast's name are not established. Do not invent how she learned it or reveal that she knows this unless a scene or source makes it appropriate.
+**GM-sensitive knowledge:** Beiming Xenhwa is among the very few who know that Beiming Han's scar was left long ago by an ancient Heavenly Beast rank 9 in Azerion Forest (called the Dead Zone in older records): a colossal dragon with a deer-like head, enormous branching antlers, and deep-blue eyes. The circumstances that gave her this knowledge, the exact date, and the beast's name are not established. Do not invent how she learned it or reveal that she knows this unless a scene or source makes it appropriate.
 
 ## 6. Relationships
 | Person / group | Relationship | Current status / basis |

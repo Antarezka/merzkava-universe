@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="1120" viewBox="0 0 960 1120" role="img" aria-labelledby="title desc">
   <title id="title">Merzkava Universe — The Noticeboard</title>
   <desc id="desc">Six framed panels with a warm orange, yellow, coral, black, and white palette introducing the world, hidden places, the cost of power, makers, time, and rumors.</desc>
-  <rect width="960" height="1120" fill="#FFFFFF"/>
   <g font-family="Arial, Helvetica, sans-serif">
     <rect x="34" y="28" width="892" height="94" rx="3" fill="#151515"/>
     <path d="M34 28H926V122H34Z" fill="none" stroke="#FFB36B" stroke-width="4"/>

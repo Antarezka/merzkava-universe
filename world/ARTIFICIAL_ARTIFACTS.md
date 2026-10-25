@@ -20,7 +20,7 @@ An artifact's tier is not a Spirit Realm or Spirit Ring tier. A high tier does n
 - The island artifact's exact materials, internal mechanism, fuel consumption, maintenance procedure, redundancy, and weaknesses remain unknown.
 
 ### 2.2 Golden Dragon Empire
-The Empire participates in knowledge exchange with Tianhai Yunzhou. This can spread ideas and technology, but does not automatically give all Thinkers the same skill, materials, or production capability.
+The Golden Dragon Empire participates in knowledge exchange with Tianhai Yunzhou. This can spread ideas and technology, but does not automatically give all Thinkers the same skill, materials, or production capability.
 
 ### 2.3 Beiming Gu and the North
 The northern region contains ancient materials and resources that may be useful for engraving Artificial Artifact formations. Material availability alone does not guarantee successful production; the Thinker's grade, knowledge, formulation, and suitable processing remain relevant.

@@ -28,6 +28,17 @@ Gunakan setiap sumber hanya untuk fungsinya:
 
 Jika file yang diperlukan gagal diakses, sebutkan file tersebut. Jangan mengaku sudah membacanya. Lanjutkan hanya bagian yang tetap didukung sumber dan jangan menyelesaikan aksi yang bergantung pada aturan yang hilang.
 
+## 2A. Mandatory Settlement Canon Loading — Golden Dragon Empire
+
+Whenever a scene, question, count, or repository edit involves a Golden Dragon Empire village, hamlet, rural settlement, or regional settlement roster, **do not answer from memory or from INDEX summaries alone**. Follow the full loading path in `INDEX.md`:
+
+1. Read `world/CANON_DECISIONS_AND_PRECEDENCE.md` for binding owner decisions.
+2. Read `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md` as the authoritative settlement register.
+3. Read the relevant `world/REGION_*.md` module. For empire-wide counts, cross-region comparisons, or roster edits, read all seven regional modules and reconcile them with the atlas.
+4. Read `world/MAP_AND_REGIONS.md`, `world/LOCATION_AND_ROUTE_NETWORK.md`, and/or `world/GEOGRAPHY_AND_TRAVEL.md` when the scene depends on regional context, routes, or transport.
+
+Binding count: **13 official named villages** and **21 separately classified named hamlets/local settlements**. Only entries classified as official villages in the atlas count toward 13. A hamlet is not an official village. Do not silently promote, remove, merge, rename, or reclassify a settlement; obtain explicit owner approval and synchronize every affected canonical reference first. If a required file cannot be fetched, disclose that and do not claim the check is complete.
+
 ## 3. Mode Sesi
 
 - **Karakter terdaftar, sesi baru:** baca players.md untuk menemukan file karakter individual, lalu ambil snapshot awal dari players/<Nama>.md. Gunakan modul yang diperlukan untuk kondisi dan aksi awal. Jangan menciptakan riwayat sebelum sesi.

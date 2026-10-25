@@ -99,7 +99,7 @@ The regional identities are:
 - **Longyuan — Imperial Heartland:** court, central administration, nobles, and political institutions.
 - **Canglan — Riverlands:** agriculture, irrigation, river transport, and inland trade.
 - **Jinyue — Mineral Lands:** mining, spiritual metals, and artifact materials.
-- **Tianfeng — Scholarly Heights:** academies, cultivation education, and knowledge exchange.
+- **Tianfeng — Scholarly Heights:** scholarly traditions, talent development, literacy, and knowledge exchange; it is a source of gifted students for the two central academies in Huanglongcheng, not a regional academy network.
 - **Yanling — Volcanic Mountains:** smithing, furnaces, and spiritual forging.
 - **Baiyue — Frontier Marches:** border defense, fortifications, and military routes.
 - **Xingluo — Eastern Ports:** maritime trade, diplomacy, and sea routes.

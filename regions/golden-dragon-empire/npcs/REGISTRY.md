@@ -2,7 +2,7 @@
 
 **Scope:** Established recurring/major NPCs whose canonical home or affiliation is the Golden Dragon Empire. This is a navigation registry, not a full census of residents.
 **Local pattern:** central INDEX → Longyuan/other relevant regional module → local NPC table → canonical profile.
-**Staging note:** These files currently live in the central repository under `regions/golden-dragon-empire/` because no separate regional repository is connected/verified in this session. This is an in-repo relocation, not a claim that a separate repository has been created.
+**Repository note:** This registry and its canonical NPC profiles belong to `Antarezka/merzkava-universe` under the current single-repository architecture. They are not awaiting migration to a separate regional repository.
 
 ## Imperial family and central authority
 

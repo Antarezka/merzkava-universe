@@ -14,7 +14,7 @@ This is a relative geographic framework, not a scaled map. Exact coordinates, di
 
 ## 2. Wild Regions and Sky Mountains
 
-The spaces between major powers include forests, mountain ranges, deep ravines, valleys, remote basins, and high mountain ranges whose summits rise above the sea of clouds. Such sky-high ranges may contain secluded settlements and strongholds associated with ancient shamanic traditions and Buddhist monks. The names, locations, leadership, and specific doctrines of these groups remain open until established.
+The spaces between major powers include forests, mountain ranges, deep ravines, valleys, remote basins, and high mountain ranges whose summits rise above the sea of clouds. These remote peaks shelter two distinct, exceptionally secluded traditions: the Ancient Shamanism clan/sect and a Buddhist clan. Their established lore, known hierarchy, powers, and encounter boundaries are recorded in `world/ANCIENT_SHAMANISM_AND_BUDDHIST_CLANS.md`. Exact mountain names, coordinates, and routes remain unestablished; do not place either group inside one of the three major powers without canon support.
 
 ## 3. Spirit Beast Habitats
 
@@ -45,7 +45,7 @@ Use `gameplay/TIME_AND_ACTION_RULES.md` for travel-time resolution. Transport ty
 4. Ruins may contain records, dangers, empty chambers, or nothing recoverable; do not presume rewards.
 5. Do not treat flying ships or energy-aircraft as common household transport. Their existence depends on the specified technology, documented corridor, and passenger access.
 6. Tianhai Yunzhou's automated trains, long-distance liquefied-energy aircraft, and refined-energy network are regional technologies; do not automatically place them in other powers or assume compatibility with arbitrary artifacts. The two named inter-power corridors are approved exceptions to the otherwise unknown route network.
-7. Ancient shamanic and monastic mountain communities are world elements, but their names, individual doctrines, and specific factions remain undefined until established.
+7. The Ancient Shamanism clan/sect and the separate Buddhist clan are established hidden groups. Use `world/ANCIENT_SHAMANISM_AND_BUDDHIST_CLANS.md` for their canon. Do not invent their exact mountain coordinates, additional members, names, techniques, or connections beyond that file.
 
 **Canon boundary:** This module records broad geography and travel concepts, not a complete world map, exhaustive bestiary, ruin catalogue, or transport specification.
 

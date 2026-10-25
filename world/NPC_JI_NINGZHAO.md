@@ -1,40 +1,7 @@
-# Merzkava Universe — NPC Profile: Ji Ningzhao
+# Legacy NPC Path — Moved
 
-**Canon status:** Owner-approved canon. This file is the authoritative full profile.
+This file is retained only as a compatibility pointer. The canonical content has moved to [`regions/tianhai-yunzhou/npcs/JI_NINGZHAO.md`](../regions/tianhai-yunzhou/npcs/JI_NINGZHAO.md).
 
-## 1. Identity
-- Full name: Ji Ningzhao
-- Role: Younger twin princess of Tianhai Yunzhou; ruling Ji family.
-- Age: 16.
-- Appearance: Golden eyes; other details not established.
-- Current whereabouts: Not established.
+Do not add or maintain a second biography or roster here. Edit the canonical regional file instead.
 
-## 2. Public Profile
-Ji Ningzhao is the younger twin daughter of Maharaja Ji Haoyuan and the late Bai Xuanyin. She is exceptionally intelligent, has undergone Martial Soul Awakening, and has reached Spirit Realm 3 — Early Stage.
-
-## 3. Capabilities
-- Spirit Realm: Spirit Realm 3 — Spirit Elder, Early Stage.
-- Martial Soul: **Canglan Shenhua (沧澜神花), Bunga Ilahi Ombak Biru**. Its selected concept is a beautiful celestial water-lily/flower associated with blue tides and luminous petals.
-- Spirit Rings, specific powers, techniques, rarity, Thinker Grade, and equipment: Not established.
-- Do not infer a rare classification, special bloodline, guaranteed power, or Spirit Ring from this description.
-- Mechanics sources: core/MARTIAL_SOUL.md; core/MARTIAL_SOUL_AWAKENING.md; core/CULTIVATION_SYSTEM.md; core/SPIRIT_RING_RULES.md.
-
-## 4. Motivations and Agency
-Specific current goals, long-term plans, fears, values, and personal boundaries are not established. Do not assume her personality or decisions from her royal status.
-
-## 5. Knowledge Boundaries
-Her specific knowledge, mistaken beliefs, and secrets are not established. Her knowledge depends on her own experiences and information received.
-
-## 6. Relationships
-| Person | Relationship | Status |
-|---|---|---|
-| Ji Haoyuan | Father | Living; Maharaja of Tianhai |
-| Bai Xuanyin | Mother | Deceased; revered Tianhai heroine |
-| Ji Zhaoning | Elder twin sister | Living; age 16; not awakened and focused on Thinker development |
-
-## 7. State and Continuity
-- Current status: Living; awakened; Spirit Realm 3 — Spirit Elder, Early Stage.
-- Current activity, injuries, possessions, last appearance, and last interaction: Not established.
-
-## 8. Canon Check
-Approved facts are recorded here and in world/REGION_TIANHAI_YUNZHOU.md. Specific powers, Spirit Rings, rarity, and personal goals remain unestablished.
+**Migration note:** The canonical NPC content is now organized under the regional folders in the central repository. These folders are staging locations until separate regional repositories are created and their URLs verified; this file does not claim that a separate repository migration is complete.

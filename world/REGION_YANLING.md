@@ -99,12 +99,12 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPC
 
 | Name / public identity | Location | Role | Public traits | Profile link / source |
 |---|---|---|---|---|
-| Yanling Zhenyu | Honglu; exact office location unconfirmed | Regional Governor | Spirit Realm 8 — Spirit Sovereign, Middle Stage; pro-industri dan pekerja bengkel, menuntut standar keselamatan | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
-| Han Qinghe | Honglu | Prefect, Red Furnace Prefecture | Spirit Realm 7 — Spirit Emperor, Middle Stage; loyalis istana, menolak perintah ilegal | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
-| Han Xuefeng | Huifeng | Prefect, Ashen Peak Prefecture | Spirit Realm 7 — Spirit Emperor, Late Stage; berhati-hati dan menyeimbangkan faksi | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
-| Han Chunyu | Yanling; exact assignment unconfirmed | Regional consolidation officer (former Emberstone Prefecture) | Spirit Realm 7 — Spirit Emperor, Middle Stage; pragmatis, condong ke stabilitas takhta | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
-| Han Yunsheng | Yanling; exact assignment unconfirmed | Regional consolidation officer (former Flame Basin Prefecture) | Spirit Realm 7 — Spirit Emperor, Late Stage; netral dan prosedural | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
-| Xie Xingzhou | Yanling; exact assignment unconfirmed | Furnace Mountains Circuit liaison officer | Spirit Realm 3 — Spirit Elder, Late Stage; berhati-hati dan menyeimbangkan faksi | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Yanling Zhenyu | Honglu; exact office location unconfirmed | Regional Governor |Spirit Realm 6 — Spirit Ancestor, Middle Stage; pro-industri dan pekerja bengkel, menuntut standar keselamatan; Orientasi rakyat: tinggi; penegakan hukum 3/5 — moderat dan prosedural| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Han Qinghe | Honglu | Prefect, Red Furnace Prefecture |Spirit Realm 6 — Spirit Ancestor, Middle Stage; loyalis istana, menolak perintah ilegal; Orientasi rakyat: tinggi; penegakan hukum 5/5 — paling keras pada ancaman keamanan dan pelanggaran berat| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Han Xuefeng | Huifeng | Prefect, Ashen Peak Prefecture |Spirit Realm 5 — Spirit King, Late Stage; berhati-hati dan menyeimbangkan faksi; Orientasi rakyat: tinggi; penegakan hukum 3/5 — moderat dan prosedural| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Han Chunyu | Yanling; exact assignment unconfirmed | Regional consolidation officer (former Emberstone Prefecture) |Spirit Realm 5 — Spirit King, Middle Stage; pragmatis, condong ke stabilitas takhta; Orientasi rakyat: tinggi; penegakan hukum 3/5 — moderat dan prosedural| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Han Yunsheng | Yanling; exact assignment unconfirmed | Regional consolidation officer (former Flame Basin Prefecture) |Spirit Realm 5 — Spirit King, Late Stage; netral dan prosedural; Orientasi rakyat: sedang; penegakan hukum 3/5 — moderat dan prosedural| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Xie Xingzhou | Yanling; exact assignment unconfirmed | Furnace Mountains Circuit liaison officer |Spirit Realm 3 — Spirit Elder, Late Stage; berhati-hati dan menyeimbangkan faksi; Orientasi rakyat: sangat tinggi; penegakan hukum 2/5 — lunak-moderat, mediasi dan peringatan lebih dahulu| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
 
 ## 9. Current Situations and Events
 - Local conflicts: Belum ditetapkan

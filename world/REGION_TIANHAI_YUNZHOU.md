@@ -19,7 +19,7 @@
 - **General position:** The southwestern ocean; the territory is centered on a giant floating island.
 - **Exact coordinates, borders, scale, neighboring islands, and distances:** Not established.
 - **Sea name:** Not yet officially named.
-- **Routes to other powers and ports:** Two inter-power Artificial Artifact air-transit corridors are established below: one from Longyuan in the Golden Dragon Empire and one from Beiming Heartland in Beiming Gu to Tianhai's Cangqiong Sky Transit Terminal. Their exact coordinates, distances, and travel times remain unknown. Verify route access and disruptions through `world/LOCATION_AND_ROUTE_NETWORK.md`, `world/GEOGRAPHY_AND_TRAVEL.md`, and `gameplay/TIME_AND_ACTION_RULES.md`.
+- **Routes to other powers and ports:** Two inter-power Artificial Artifact air-transit corridors are established below: one from Longyuan in the Golden Dragon Empire and one from Beiming Heartland in Beiming Gu to Tianhai Yunzhou's Cangqiong Sky Transit Terminal. Their exact coordinates, distances, and travel times remain unknown. Verify route access and disruptions through `world/LOCATION_AND_ROUTE_NETWORK.md`, `world/GEOGRAPHY_AND_TRAVEL.md`, and `gameplay/TIME_AND_ACTION_RULES.md`.
 - **Sea access:** Maritime routes remain strategically important, but these air-transit corridors do not establish specific sea routes, ship schedules, blockades, or current control.
 
 ## 3. Established Major Districts
@@ -179,25 +179,25 @@ These are established regional settlements/anchors for exploration. They do not 
 | Haiyue Market → Pearlstep Landing | Market road to an inspected coastal transfer pier | None recorded | Customs and cargo checks; small vessels only | High-value goods, brokers, manifests | Not set | Established route; exact duration unknown |
 | Pearlstep Landing → Bluefin Cove | Scheduled small-vessel route when conditions permit | None recorded | Weather and shoal navigation; service can be suspended | Seafood, local crafts, passengers, supply deliveries | Not set | Established conditional route; exact duration unknown |
 | Bluefin Cove → Windglass Islet | Pilot boat route | None recorded | Requires a qualified local pilot; no guaranteed daily service | Beacon maintenance, exploration, emergency support | Not set | Established conditional route; exact duration unknown |
-| Longyuan Sky Transit Terminal (Golden Dragon Empire) → Cangqiong Sky Transit Terminal | Dedicated long-distance Artificial Artifact energy-aircraft | Direct corridor; no intermediate stop established | Requires a valid ticket, safety checks, compatible fuel supply, and an operating aircraft; service may be suspended for maintenance, weather, security, or supply disruptions | Passenger travel, official delegations, trade personnel, and light baggage between the Empire and Tianhai | Not set | Established inter-power corridor; exact duration and schedule unknown |
+| Longyuan Sky Transit Terminal (Golden Dragon Empire) → Cangqiong Sky Transit Terminal | Dedicated long-distance Artificial Artifact energy-aircraft | Direct corridor; no intermediate stop established | Requires a valid ticket, safety checks, compatible fuel supply, and an operating aircraft; service may be suspended for maintenance, weather, security, or supply disruptions | Passenger travel, official delegations, trade personnel, and light baggage between the Golden Dragon Empire and Tianhai | Not set | Established inter-power corridor; exact duration and schedule unknown |
 | Beiming Heartland Sky Transit Terminal (Beiming Gu) → Cangqiong Sky Transit Terminal | Dedicated long-distance Artificial Artifact energy-aircraft | Direct corridor; no intermediate stop established | Requires a valid ticket, safety checks, compatible fuel supply, and an operating aircraft; mountain weather, security, maintenance, or supply disruptions may suspend service | Passenger travel, traders, technical specialists, and official delegations between Beiming Gu and Tianhai | Not set | Established inter-power corridor; exact duration and schedule unknown |
 
 **Non-connectivity rule:** This is a partial network, not a ring road. No direct connection is established between every district or village. For example, Reedmist Fishing Village is reached by boat from Northwatch Quay; Windglass Islet is reached through Bluefin Cove with a pilot boat; there is no established direct train between Misty Shoals and the main island. Additional paths must be discovered or formally added, not assumed.
 
 ### 12.3 Artificial Artifact transport and energy
 
-Tianhai uses Artificial Artifacts not only for specialist manufacturing but also for public infrastructure and transport. The most visible urban system is an automated train network on dedicated guideways: its engine is an Artificial Artifact, the train follows a prepared route without a conventional animal or human pulling it, and its propulsion is supplied by a specialized energy vessel containing refined liquefied energy. Operators and technicians still inspect guideways, manage stations, load cargo, and maintain the system; “automated” does not mean maintenance-free or universally accessible.
+Tianhai Yunzhou uses Artificial Artifacts not only for specialist manufacturing but also for public infrastructure and transport. The most visible urban system is an automated train network on dedicated guideways: its engine is an Artificial Artifact, the train follows a prepared route without a conventional animal or human pulling it, and its propulsion is supplied by a specialized energy vessel containing refined liquefied energy. Operators and technicians still inspect guideways, manage stations, load cargo, and maintain the system; “automated” does not mean maintenance-free or universally accessible.
 
-For inter-power travel, Tianhai also operates a distinct class of high-capacity long-distance energy-aircraft through the Cangqiong Sky Transit Terminal. These are Artificial Artifact-powered passenger transports that use Tianhai-refined liquefied energy, not the Qi propulsion used by conventional flying ships. They are designed to carry more passengers per journey than an ordinary Qi-powered flying ship and run on the two established corridors from Longyuan Sky Transit Terminal in the Golden Dragon Empire and Beiming Heartland Sky Transit Terminal in Beiming Gu. **Regular energy-aircraft service hours are 05:00–21:00 local terminal time.** The standard round-trip passenger fare is **25 xc** on this dedicated energy-aircraft service, compared with **86 xc** for an ordinary Qi-powered flying ship on a comparable inter-power journey. The fare is per passenger for the return journey, not per aircraft. When the energy-aircraft service is closed, ordinary Qi-powered flying ships remain available **24 hours a day**, subject to normal access and operating conditions; their higher fare makes them the more expensive after-hours alternative. Exact seating capacity, speed, flight duration, departure frequency, fleet size, and ownership arrangements remain unestablished.
+For inter-power travel, Tianhai Yunzhou also operates a distinct class of high-capacity long-distance energy-aircraft through the Cangqiong Sky Transit Terminal. These are Artificial Artifact-powered passenger transports that use Tianhai-refined liquefied energy, not the Qi propulsion used by conventional flying ships. They are designed to carry more passengers per journey than an ordinary Qi-powered flying ship and run on the two established corridors from Longyuan Sky Transit Terminal in the Golden Dragon Empire and Beiming Heartland Sky Transit Terminal in Beiming Gu. **Regular energy-aircraft service hours are 05:00–21:00 local terminal time.** The standard round-trip passenger fare is **25 xc** on this dedicated energy-aircraft service, compared with **86 xc** for an ordinary Qi-powered flying ship on a comparable inter-power journey. The fare is per passenger for the return journey, not per aircraft. When the energy-aircraft service is closed, ordinary Qi-powered flying ships remain available **24 hours a day**, subject to normal access and operating conditions; their higher fare makes them the more expensive after-hours alternative. Exact seating capacity, speed, flight duration, departure frequency, fleet size, and ownership arrangements remain unestablished.
 
-The liquefied energy is produced by Tianhai-controlled refining Artificial Artifacts from specific energy-bearing stone/metal ores imported from other territories. The raw ore itself is not a Tianhai-exclusive natural resource. Tianhai's competitive advantage is its specialized refining apparatus, technical knowledge, safe containment, and distribution network. Compatible engines and utility artifacts elsewhere may use the refined energy only if designed for it; no universal compatibility is implied.
+The liquefied energy is produced by Tianhai-controlled refining Artificial Artifacts from specific energy-bearing stone/metal ores imported from other territories. The raw ore itself is not a Tianhai-exclusive natural resource. Tianhai Yunzhou's competitive advantage is its specialized refining apparatus, technical knowledge, safe containment, and distribution network. Compatible engines and utility artifacts elsewhere may use the refined energy only if designed for it; no universal compatibility is implied.
 
 The Tier 9 island-support Artificial Artifact uses this energy system at strategic scale. Its detailed mechanism, fuel consumption, reserve capacity, redundancy, and failure conditions remain unknown. It must not be treated as an ordinary engine or as a portable unlimited power source.
 
 ### 12.4 Route and exploration rules
 
 - Use only listed route edges for known travel. If a route is absent, treat it as unknown or an exploration opportunity.
-- Exact distances, durations, flight schedules, train frequency, seating capacity, ore volume, and energy prices remain unestablished. The approved inter-power return fares are an exception: 25 xc per passenger on Tianhai's liquefied-energy aircraft service and 86 xc per passenger on a comparable ordinary Qi-powered flying ship; see `core/10_ECONOMY_SYSTEM.md`.
+- Exact distances, durations, flight schedules, train frequency, seating capacity, ore volume, and energy prices remain unestablished. The approved inter-power return fares are an exception: 25 xc per passenger on Tianhai Yunzhou's liquefied-energy aircraft service and 86 xc per passenger on a comparable ordinary Qi-powered flying ship; see `core/10_ECONOMY_SYSTEM.md`.
 - Route and transit access can be interrupted by weather, security inspection, maintenance, shortages, political tension, or recorded events.
 - Villages have different supply needs and cannot all access every market directly. Intermediate transport creates opportunities for brokers, local pilots, repairers, tolls, delays, and rumors, but these consequences must arise from the scene rather than being automatic.
 - New locations, routes, current incidents, and lasting changes must be reconciled with `world/LOCATION_AND_ROUTE_NETWORK.md`, `world/MAP_AND_REGIONS.md`, `world/DYNAMIC_EVENTS.md`, and `INDEX.md` as appropriate.
@@ -216,7 +216,7 @@ When adding routes, verify terrain, vertical movement across the floating island
 - [x] Establish the four cardinal areas, principal clan distribution, four academies, and the exclusive high-level Thinker Institute.
 - [x] Establish initial district-level settlements, daily-life roles, services, resource needs, and local markets.
 - [x] Establish an initial partial route network with intermediate transport constraints; exact distances and travel times remain unset.
-- [x] Establish Tianhai's Artificial Artifact-powered automated transit and refined liquefied-energy trade advantage.
+- [x] Establish Tianhai Yunzhou's Artificial Artifact-powered automated transit and refined liquefied-energy trade advantage.
 - [x] Establish the Cangqiong Sky Transit Terminal and two inter-power energy-aircraft corridors with owner-approved round-trip fares.
 - [x] Establish initial Spirit Hunters Guild contract desks, independent trade associations, and Medicine Hall Society service points without inventing staff, prices, or new routes.
 - [ ] Reconcile approved additions with `world/WORLD.md`, `world/MAP_AND_REGIONS.md`, `world/FACTIONS.md`, `INDEX.md`, and relevant NPC profiles.
@@ -227,18 +227,18 @@ These are owner-approved initial service placements. They establish local instit
 
 ### 14.1 Spirit Hunters Guild
 
-The Spirit Hunters Guild is a contract-and-jobs organization, not a hunting-only body and not Tianhai's police force. Its initial Tianhai network consists of:
+The Spirit Hunters Guild is a contract-and-jobs organization, not a hunting-only body and not Tianhai Yunzhou's police force. Its initial Tianhai network consists of:
 
 - **Main contract office — Haiyue Market:** contract registration, job boards, verification of completion evidence, and matching temporary parties when suitable people are available.
 - **Harbor contract desk — Cangqiong Harbor:** shipping escorts, cargo protection, missing cargo/item searches, route reconnaissance, rescue support, and Spirit Beast-related contracts where locally justified.
 - **Freight and expedition desk — Westwake Anchorage:** short-term cargo, provisioning, escort, and expedition support for people operating through the harbor's outer service area.
 - **Outer-water notice point — Pearlstep Landing:** limited contract notices and referrals for small-vessel transfer, courier work, and maritime searches. It is not a full branch with guaranteed staff at all times.
 
-These are local service points under the same broad Guild concept. Do not infer uniform authority over Tianhai's military, harbor customs, clans, or Lawless Territories. Local contracts, rewards, staff, and operating hours are set by the scene or a later approved source.
+These are local service points under the same broad Guild concept. Do not infer uniform authority over Tianhai Yunzhou's military, harbor customs, clans, or Lawless Territories. Local contracts, rewards, staff, and operating hours are set by the scene or a later approved source.
 
 ### 14.2 Independent trade associations
 
-Tianhai's trade associations are merchant and professional bodies, not a single monopoly or a branch of the Golden Dragon Empire's government. They coordinate commercial interests while the Maharaja's civil administration retains its established public responsibilities.
+Tianhai Yunzhou's trade associations are merchant and professional bodies, not a single monopoly or a branch of the Golden Dragon Empire's government. They coordinate commercial interests while the Maharaja's civil administration retains its established public responsibilities.
 
 | Association | Primary service area | Established remit | Boundary |
 |---|---|---|---|
@@ -251,7 +251,7 @@ The associations may cooperate, compete, disagree over standards, or represent d
 
 ### 14.3 Medicine Hall Society and independent healers
 
-Medicine Hall Society maintains a neutral medical network in Tianhai, serving residents, sailors, ship crews, cultivators, workshop workers, and people injured in maritime or industrial accidents. Its initial service points are:
+Medicine Hall Society maintains a neutral medical network in Tianhai Yunzhou, serving residents, sailors, ship crews, cultivators, workshop workers, and people injured in maritime or industrial accidents. Its initial service points are:
 
 - **Haiyue Market:** general consultations, medicine sourcing, and referrals for residents and visiting merchants.
 - **Cangqiong Harbor:** treatment and triage for sailors, cargo crews, and injuries associated with harbor work or voyages.

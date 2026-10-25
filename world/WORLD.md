@@ -179,11 +179,11 @@ IV. TIANHAI YUNZHOU
 
 Tianhai Yunzhou merupakan kekuasaan maritim yang berpusat di sebuah pulau raksasa terapung. Pulau tersebut dipertahankan oleh artefak buatan tingkat Tier 9 yang berfungsi menopang keberadaan pulau.
 
-Artefak tersebut adalah hasil rekayasa, bukan otomatis peninggalan peradaban kuno. Identitas pencipta, bahan, mekanisme internal, sumber energi, kelemahan, dan kebutuhan pemeliharaannya belum ditetapkan.
+Artefak tersebut adalah hasil rekayasa, bukan otomatis peninggalan peradaban kuno. Artefak Tier 9 itu dibuat oleh leluhur Maharaja Ji Haoyuan dan menggunakan sistem energi cair hasil pemurnian batu/logam pembawa energi yang didatangkan dari wilayah kekuasaan lain. Tianhai memonopoli teknologi pemurnian dan distribusi energi cair yang kompatibel, menjadikannya sumber kekayaan dan daya tawar utama dalam kerja sama antarwilayah. Bahan mentahnya bukan monopoli Tianhai. Mekanisme internal artefak Tier 9, formulasi energi yang terperinci, konsumsi, cadangan, kelemahan, serta prosedur pemeliharaannya tetap belum diketahui.
 
 Kekuasaan Tianhai Yunzhou berpusat pada Maharaja dan struktur pemerintahan yang menopang pelayaran, perdagangan, pertahanan, serta pengelolaan wilayah pulau.
 
-Posisi maritim memberikan akses ke perdagangan laut dan sumber daya kepulauan, tetapi juga membuat keamanan jalur pelayaran, pemeliharaan artefak, dan hubungan dengan pelabuhan luar menjadi kepentingan strategis.
+Posisi maritim memberikan akses ke perdagangan laut dan sumber daya kepulauan. Kota-kota intinya memiliki karakter modern dengan kereta otomatis dan utilitas yang digerakkan Artificial Artifact menggunakan energi cair hasil pemurnian khusus. Tianhai menukar energi olahan, keahlian Thinker, layanan logistik, dan teknologi dengan batu/logam pembawa energi dari kekuasaan lain. Karena itu, keamanan jalur pelayaran, pasokan bahan mentah, fasilitas pemurnian, serta pemeliharaan artefak merupakan kepentingan strategis.
 
 4.2 Major Districts
 

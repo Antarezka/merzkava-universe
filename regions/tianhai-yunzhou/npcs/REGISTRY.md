@@ -2,7 +2,7 @@
 
 **Scope:** Established recurring/major NPCs and recognized officeholders in Tianhai Yunzhou.
 **Local pattern:** central INDEX → Tianhai Yunzhou regional module → local NPC table → canonical profile.
-**Staging note:** These files currently live in the central repository under `regions/tianhai-yunzhou/` because no separate regional repository is connected/verified in this session. This is an in-repo relocation, not a claim that a separate repository has been created.
+**Repository note:** This registry and its canonical NPC profiles belong to `Antarezka/merzkava-universe` under the current single-repository architecture. They are not awaiting migration to a separate regional repository.
 
 ## Ruling family and established historical figure
 

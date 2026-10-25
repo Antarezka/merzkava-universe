@@ -90,3 +90,11 @@ The Golden Dragon Empire has exactly **13 officially registered named rural vill
 
 All seven `world/REGION_*.md` modules must remain consistent with the atlas. When an older or secondary file uses a conflicting count or classification, do not treat the larger list, newer timestamp, or a heading as authority. Preserve useful local places under their correct settlement status and correct the inconsistent reference. Only an explicit owner-approved canon revision may change the official count or promote a hamlet to an official village; such a revision must update the atlas first and synchronize every affected regional module, INDEX routing note, and dependent reference. Until then, **13 official villages + 21 separately classified named hamlets/local settlements** is the binding baseline.
 
+## 2.5 Beiming Family — Binding Character and Incident Canon
+
+The canonical profiles and nighttime incident involving Beiming Han, Beiming Xenhwa, and Beiming Jingheng are recorded in `world/NPC_BEIMING_FAMILY.md`. This owner-confirmed account takes precedence over any older or assistant-generated summary that conflicts with it.
+
+The incident sequence is fixed: Jingheng secretly attempted to grope Xenhwa at night with the intent to commit an indecent act; Xenhwa detected him because of her exceptionally sensitive senses, caught him red-handed, and attacked him with her own white flame. Jingheng nearly died. Beiming Han intervened to stop Xenhwa and prevent a bloody tragedy. **Han did not burn Jingheng; the white flame belongs to Xenhwa.**
+
+Han loves both adopted children equally. This does not excuse Jingheng's misconduct or require Xenhwa to forgive him. Jingheng's punishment or restrictions after the incident, and Han's precise method of intervention, remain unconfirmed. Do not invent either as canon.
+

@@ -41,7 +41,7 @@ Her sensitive senses detected Beiming Jingheng's approach during the established
 
 ## 7. State and Continuity
 - Current status: No later status change is established.
-- Hidden knowledge continuity: She knows the truth behind Beiming Han's scar and the ancient rank-9 Heavenly Beast in Azerion Forest's deepest core, known to humans as the Dead Zone; this is restricted knowledge, not common public information.
+- Hidden knowledge continuity: She knows the restricted truth behind Beiming Han's scar and the origin of the rank-9 Heavenly Beast in Azerion Forest's Dead Zone. She is also the daughter of Han's deceased white nine-tailed fox friend, whom he rescued and later adopted; this family history is restricted knowledge, not common public information.
 - Current whereabouts, injuries, possessions, and last confirmed appearance: Not established.
 - Confirmed incident: At night, Beiming Jingheng secretly attempted to grope her with indecent intent. Her sensitive senses detected him. Beiming Xenhwa attacked using her own white flames, and Jingheng nearly died. Beiming Han intervened and stopped her.
 - Responsibility: Jingheng was the perpetrator. Xenhwa's detection and response do not make her responsible for his conduct. Do not invent forgiveness, reconciliation, or a punishment.

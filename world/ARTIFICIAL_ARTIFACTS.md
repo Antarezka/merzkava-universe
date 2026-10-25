@@ -33,7 +33,7 @@ The northern region contains ancient materials and resources that may be useful 
 - **Association:** Tianhai Yunzhou.
 - **Documented function:** Supports the existence of the giant floating island.
 - **Known user / operator:** ???
-- **Maker:** ???
+- **Maker:** An ancestor of Maharaja Ji Haoyuan; personal identity and exact era are not established.
 - **Materials:** ???
 - **Formulation:** ???
 - **Energy source:** Tianhai-refined liquefied energy derived from specific energy-bearing stone/metal ores imported from other territories; precise formulation and consumption are restricted/unknown.

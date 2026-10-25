@@ -55,6 +55,8 @@ Tianhai Yunzhou's academies are more flexible in teaching methods than the ortho
 
 These are institutional identities and broad educational emphases, not complete curricula. Exact admission ages, fees, examination formats, class sizes, ranking rules, scholarships, graduation standards, and campus layouts remain unspecified. Do not create a fifth Tianhai Yunzhou academy or treat the four as the only academies in the entire world.
 
+**GM-only continuity note — Beiming Nerva:** Beiming Nerva of Beiming Gu sometimes disguises herself as a student at **Beichen Cultivator Academy** for mischief and personal purposes. This is a cover identity, not proof of official enrollment or a real student record. Do not disclose her identity to students or staff without an in-world basis.
+
 The Tianlan Supreme Academy is the leading academy overall; that reputation does not mean every graduate is stronger than graduates from the other three, nor does it establish that it wins every competition.
 
 ## 4. Tianhai Thinker Institute — exclusive high-level research institution

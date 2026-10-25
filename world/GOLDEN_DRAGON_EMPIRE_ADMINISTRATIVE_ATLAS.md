@@ -65,7 +65,7 @@ Use the following as a default scene guide, not a rigid timetable. Density chang
 | 11 | Northwatch Prefecture | Beiguan | Baiyue | Frontier–Maritime Circuit |
 | 12 | Eastern Star Prefecture | Dongxing | Xingluo | Frontier–Maritime Circuit |
 
-Former prefectural seats such as Zhuque, Jintai, Guanhe, Lianzhou, Mingchuan, Yunshui, Shuangjiang, Jinsha, Lingkuang, Wenchuan, Songmo, Rongjiang, Heitie, Tieguan, Shibi, Yingshan, Mingzhu, Lanfan, Chaoguan, and Yanfeng remain settlements, local administrative seats, or service hubs in their existing regions. They no longer count as separate prefectures.
+Former prefectural seats such as Zhuque, Jintai, Guanhe, Lianzhou, Mingchuan, Yunshui, Shuangjiang, Jinsha, Lingkuang, Wenchuan, Songmo, Rongjiang, Heitie, Tieguan, Shibi, Yingshan, Changguan, Mingzhu, Lanfan, Chaoguan, and Yanfeng remain settlements, local administrative seats, or service hubs in their existing regions. They no longer count as separate prefectures.
 
 ## 4. Six County Circuits
 

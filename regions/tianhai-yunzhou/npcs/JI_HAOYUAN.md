@@ -26,7 +26,7 @@
 - Mechanics sources: core/THINKER_AND_FORMULATION.md; core/CULTIVATION_SYSTEM.md; core/MARTIAL_SOUL.md; core/SPIRIT_RING_RULES.md.
 
 ## 4. Motivations and Agency
-- Long-term direction: Lead Tianhai with a visionary outlook.
+- Long-term direction: Lead Tianhai Yunzhou with a visionary outlook.
 - Specific goals, fears, personal boundaries, and current projects: Not established.
 - Do not infer private motives or decisions from his title alone.
 

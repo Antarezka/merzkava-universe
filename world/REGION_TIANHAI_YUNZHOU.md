@@ -7,7 +7,7 @@
 
 - **Power / territory:** Tianhai Yunzhou, a maritime power centered on a giant floating island above the southwestern ocean.
 - **Population estimate:** 85 million for Tianhai Yunzhou as a whole. This is a worldbuilding estimate, not a census or a claim that all residents live on the main island.
-- **Ruler:** Maharaja Ji Haoyuan; his canonical family roster is established in `world/NPC_JI_HAOYUAN.md`, `world/NPC_BAI_XUANYIN.md`, `world/NPC_JI_ZHAONING.md`, and `world/NPC_JI_NINGZHAO.md`.
+- **Ruler:** Maharaja Ji Haoyuan; his canonical family roster is established in `../regions/tianhai-yunzhou/npcs/JI_HAOYUAN.md`, `../regions/tianhai-yunzhou/npcs/BAI_XUANYIN.md`, `../regions/tianhai-yunzhou/npcs/JI_ZHAONING.md`, and `../regions/tianhai-yunzhou/npcs/JI_NINGZHAO.md`.
 - **Ruler's established profile:** Martial Soul — Heavenly Sky Whale; Spirit Realm 9 — Spirit Primordial, Early Stage.
 - **Strategic strengths:** Maritime trade, navigation, defense, island and sea-route logistics, and advanced Thinker knowledge.
 - **Island support:** A Tier 9 Artificial Artifact sustains the giant floating island. It is powered by processed liquefied energy refined from a specific class of energy-bearing stone/metal ore. The processing method and fuel are strategically controlled by Tianhai; the original maker was an ancestor of Maharaja Ji Haoyuan. The artifact's internal mechanism, exact materials, maintenance requirements, weaknesses, and authorized operators remain restricted or unconfirmed.
@@ -62,7 +62,7 @@ Do not treat these seven district names as a complete map of every settlement or
 - **Known artifact:** Tier 9 Artificial Artifact supporting the floating island. Refer to `world/ARTIFICIAL_ARTIFACTS.md`; no additional functions may be inferred.
 - **Five established dojos:** Skywhale, Tidal Current, Stormwake, Azure Sail, and Deepwater Dojos. Their established training specializations are listed in `world/FACTIONS.md`.
 - **Four Cultivator Academies:** Beichen Cultivator Academy (North), Tianlan Supreme Academy (South; the most outstanding), Cangfan Maritime Academy (West), and Haiyue Academy (East). All teach foundational Martial Soul, Spirit Realm, Spirit Ring, Spirit Beast, combat, and related knowledge through more flexible methods than the Golden Dragon Empire's orthodox central academies. See `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md`; admissions and detailed curricula remain unspecified.
-- **High-level Thinker institution:** Tianhai Thinker Institute is the world's only established institution at this level and breadth of Thinker research. Its remit includes Formation Engraver development, materials research, formulation/mixing methods, complex formation engraving for Tier 6+, and optimization of engraving/production methods for Tier 5 and below. Its officeholders are listed in `world/NPC_TIANHAI_POWER_STRUCTURE.md`; mechanics remain governed by `core/THINKER_AND_FORMULATION.md`.
+- **High-level Thinker institution:** Tianhai Thinker Institute is the world's only established institution at this level and breadth of Thinker research. Its remit includes Formation Engraver development, materials research, formulation/mixing methods, complex formation engraving for Tier 6+, and optimization of engraving/production methods for Tier 5 and below. Its officeholders are listed in `../regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`; mechanics remain governed by `core/THINKER_AND_FORMULATION.md`.
 - **Spirit Beast habitats and species:** Refer to `bestiary/SPIRIT_BEAST_RULES.md`; local species and hunting grounds remain unconfirmed.
 - Do not invent local power rankings, unique cultivation rules, artifact exceptions, or guaranteed production success.
 
@@ -97,20 +97,22 @@ The following twelve clans and their broad spheres of influence are listed in `w
 | Azure Sail Dojo | Movement, coordination, and sailing-related techniques |
 | Deepwater Dojo | Durability and techniques adapted to aquatic conditions |
 
-The five current dojo masters and their basic capabilities are established in `world/NPC_TIANHAI_POWER_STRUCTURE.md`. Other instructors, students, property ownership, clan ties, and formal political status remain unspecified. A dojo's name alone does not prove a relationship to a similarly named clan or to the ruling family.
+The five current dojo masters and their basic capabilities are established in `../regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`. Other instructors, students, property ownership, clan ties, and formal political status remain unspecified. A dojo's name alone does not prove a relationship to a similarly named clan or to the ruling family.
 
 ## 9. Regional NPC Registry
+
+**Canonical profile directory:** [Tianhai Yunzhou NPC Registry](../regions/tianhai-yunzhou/npcs/REGISTRY.md). This local table remains the scene-level lookup for Tianhai; the registry is the broader roster directory.
 
 This registry is the canonical index for major and recurring Tianhai NPCs. Each person has one full profile; link it here rather than duplicating biographies. The entries below are owner-approved canon.
 
 | Public name / identity | Location | Role | Affiliation | Profile / source | Status |
 |---|---|---|---|---|---|
-| Ji Haoyuan | Yunxiao Terrace official quarter; whereabouts unconfirmed | Maharaja; visionary leader | Tianhai Yunzhou; ruling Ji family | `world/NPC_JI_HAOYUAN.md` | Canon; living |
-| Bai Xuanyin | Deceased; died during Great Tianhai War | Thinker Grade 10; revered heroine and artifact creator | Tianhai Yunzhou; Ji family by marriage | `world/NPC_BAI_XUANYIN.md` | Canon; deceased |
-| Ji Zhaoning | Whereabouts unconfirmed | Elder twin princess; focused on Thinker development; not awakened | Ruling Ji family | `world/NPC_JI_ZHAONING.md` | Canon; living, age 16 |
-| Ji Ningzhao | Whereabouts unconfirmed | Younger twin princess; awakened cultivator | Ruling Ji family | `world/NPC_JI_NINGZHAO.md` | Canon; living, age 16; Spirit Realm 3 Early Stage |
+| Ji Haoyuan | Yunxiao Terrace official quarter; whereabouts unconfirmed | Maharaja; visionary leader | Tianhai Yunzhou; ruling Ji family | `../regions/tianhai-yunzhou/npcs/JI_HAOYUAN.md` | Canon; living |
+| Bai Xuanyin | Deceased; died during Great Tianhai War | Thinker Grade 10; revered heroine and artifact creator | Tianhai Yunzhou; Ji family by marriage | `../regions/tianhai-yunzhou/npcs/BAI_XUANYIN.md` | Canon; deceased |
+| Ji Zhaoning | Whereabouts unconfirmed | Elder twin princess; focused on Thinker development; not awakened | Ruling Ji family | `../regions/tianhai-yunzhou/npcs/JI_ZHAONING.md` | Canon; living, age 16 |
+| Ji Ningzhao | Whereabouts unconfirmed | Younger twin princess; awakened cultivator | Ruling Ji family | `../regions/tianhai-yunzhou/npcs/JI_NINGZHAO.md` | Canon; living, age 16; Spirit Realm 3 Early Stage |
 
-The canonical roster for the Maharaja's court, civil administration, military/security, seven districts, twelve clan heads, five dojo masters, and Thinker institutions is `world/NPC_TIANHAI_POWER_STRUCTURE.md`. Keep public information, NPC knowledge, mistaken beliefs, player-character knowledge, and GM-only secrets separate. Check `world/NPC_MANAGEMENT.md` and `templates/NPC_PROFILE_TEMPLATE.md`.
+The canonical roster for the Maharaja's court, civil administration, military/security, seven districts, twelve clan heads, five dojo masters, and Thinker institutions is `../regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`. Keep public information, NPC knowledge, mistaken beliefs, player-character knowledge, and GM-only secrets separate. Check `world/NPC_MANAGEMENT.md` and `templates/NPC_PROFILE_TEMPLATE.md`.
 
 ## 10. Canonical Ruling Family and Great Tianhai War
 
@@ -120,18 +122,18 @@ These details are owner-approved canon. Full biographies are maintained in the l
 - Maharaja of Tianhai Yunzhou and a visionary leader.
 - Martial Soul: Heavenly Sky Whale. Spirit Realm 9 — Spirit Primordial, Early Stage. Thinker Grade 10.
 - The Tier 9 Artificial Artifact sustaining the floating island was created by one of his ancestors, not Ji Haoyuan. His Thinker Grade 10 makes him capable of creating Artificial Artifacts, but no specific personal creation is established.
-- Full profile: `world/NPC_JI_HAOYUAN.md`.
+- Full profile: `../regions/tianhai-yunzhou/npcs/JI_HAOYUAN.md`.
 
 ### Bai Xuanyin — revered heroine of Tianhai
 - Ji Haoyuan's wife and the mother of their twin daughters. She died during the Great Tianhai War and is greatly honored as a hero.
 - Spirit Realm 7 — Spirit Emperor; Thinker Grade 10. Her Stage, Martial Soul, and Spirit Rings are not established.
 - She created a weapon-type Artificial Artifact described by the owner as the strongest weapon-type Artificial Artifact in the world. Its name, tier, specifications, and current custodian are unknown. She also created Artificial Artifact armor still used by Tianhai soldiers and contributed to Tianhai's giant protective dome. Exact artifact names, tiers, and technical details remain unspecified.
-- Full profile: `world/NPC_BAI_XUANYIN.md`.
+- Full profile: `../regions/tianhai-yunzhou/npcs/BAI_XUANYIN.md`.
 
 ### Twin daughters
 - Ji Zhaoning and Ji Ningzhao are twin daughters of Ji Haoyuan and Bai Xuanyin. Both are 16, have golden eyes, and possess extraordinary intelligence.
-- **Ji Zhaoning, elder twin:** Has not undergone Martial Soul Awakening because she has been busy developing her Thinker Grade and Thinker abilities. Her actual Thinker Grade is not established. Full profile: `world/NPC_JI_ZHAONING.md`.
-- **Ji Ningzhao, younger twin:** Awakened; Spirit Realm 3 — Spirit Elder, Early Stage. Martial Soul: **Canglan Shenhua (沧澜神花), Bunga Ilahi Ombak Biru**. Specific powers, rarity, Spirit Rings, and techniques remain unspecified. Full profile: `world/NPC_JI_NINGZHAO.md`.
+- **Ji Zhaoning, elder twin:** Has not undergone Martial Soul Awakening because she has been busy developing her Thinker Grade and Thinker abilities. Her actual Thinker Grade is not established. Full profile: `../regions/tianhai-yunzhou/npcs/JI_ZHAONING.md`.
+- **Ji Ningzhao, younger twin:** Awakened; Spirit Realm 3 — Spirit Elder, Early Stage. Martial Soul: **Canglan Shenhua (沧澜神花), Bunga Ilahi Ombak Biru**. Specific powers, rarity, Spirit Rings, and techniques remain unspecified. Full profile: `../regions/tianhai-yunzhou/npcs/JI_NINGZHAO.md`.
 
 ### The Great Tianhai War
 - Three Tier 9 Demonic Beasts sought to invade and devastate Tianhai. Tianhai fought against the invasion, and Bai Xuanyin died during the war.

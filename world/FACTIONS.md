@@ -132,7 +132,7 @@ The Spirit Hunters Guild is a broad contract-and-jobs Guild, not an organization
 
 The Guild is not a unified government or universal police force. Do not assume a branch, legal jurisdiction, permanent membership, uniform rules, or ability to enforce a bounty everywhere. Local presence and influence must follow canon or events.
 
-**Established Tianhai presence:** `world/REGION_TIANHAI_YUNZHOU.md` establishes a main contract office at Haiyue Market, a harbor contract desk at Cangqiong Harbor, a freight/expedition desk at Westwake Anchorage, and a limited notice/referral point at Pearlstep Landing. These are service points, not proof of uniform jurisdiction, permanent staffing, or authority over Tianhai Yunzhou's government, military, customs, or Lawless Territories.
+**Established Tianhai Yunzhou presence:** `world/REGION_TIANHAI_YUNZHOU.md` establishes a main contract office at Haiyue Market, a harbor contract desk at Cangqiong Harbor, a freight/expedition desk at Westwake Anchorage, and a limited notice/referral point at Pearlstep Landing. These are service points, not proof of uniform jurisdiction, permanent staffing, or authority over Tianhai Yunzhou's government, military, customs, or Lawless Territories.
 
 ## 7. Lawless Territory Organizations
 
@@ -158,7 +158,7 @@ Lawless Territories are not a single faction or unified state. The following gro
 
 ## 8. Medicine Hall Society
 
-The Medicine Hall Society is a neutral medical network spread across the world. Its overall hierarchy, world leadership, and universal fee schedule remain unestablished. The central headquarters is in the Golden Dragon Empire; the Society also has an established Tianhai service network, detailed in `world/REGION_TIANHAI_YUNZHOU.md`, with points at Haiyue Market, Cangqiong Harbor, Northwatch Quay, Westwake Anchorage, Bluefin Cove, and Pearlstep Landing.
+The Medicine Hall Society is a neutral medical network spread across the world. Its overall hierarchy, world leadership, and universal fee schedule remain unestablished. The central headquarters is in the Golden Dragon Empire; the Society also has an established Tianhai Yunzhou service network, detailed in `world/REGION_TIANHAI_YUNZHOU.md`, with points at Haiyue Market, Cangqiong Harbor, Northwatch Quay, Westwake Anchorage, Bluefin Cove, and Pearlstep Landing.
 
 The Society's neutral intent does not guarantee that neutrality can never be violated, that every point is fully staffed, or that treatment is free. Independent healers, family practitioners, and local herbalists may work outside the Society. Do not assume every healer belongs to it.
 
@@ -185,7 +185,7 @@ The organization maintains a broad network of temples and religious houses, obse
 The organization is not omniscient and does not automatically defeat every threat. Reports must be verified, and response can be affected by distance, delayed information, political interests, and limited resources. Its religious standing does not grant it ownership of the World Knowledge Tower or absolute civil authority over Wanluo.
 
 
-## 10. Tianhai Trade Associations
+## 10. Tianhai Yunzhou Trade Associations
 
 Tianhai Yunzhou has several independent trade and professional associations. They represent member interests and coordinate commercial services; they are not a single monopoly, government ministry, or authority over customs and harbor security. Their established local remits are:
 
@@ -194,4 +194,4 @@ Tianhai Yunzhou has several independent trade and professional associations. The
 - **Linggong Artisans' Trade Association** — Linggong District, with commercial contacts at Haiyue Market; workshop-buyer links, material specifications, bulk procurement, and repair referrals for craft and Artificial Artifact industries.
 - **Misty Shoals Fishers and Pilots Association** — participating fishing and pilot communities in Misty Shoals; market information, pilot availability, local-weather observations, and supply/repair requests.
 
-These associations may compete or cooperate. Their exact leaders, membership rules, fees, prices, exclusive rights, and formal agreements remain unspecified. The Tianhai-specific locations and service boundaries are maintained in `world/REGION_TIANHAI_YUNZHOU.md`.
+These associations may compete or cooperate. Their exact leaders, membership rules, fees, prices, exclusive rights, and formal agreements remain unspecified. The Tianhai Yunzhou-specific locations and service boundaries are maintained in `world/REGION_TIANHAI_YUNZHOU.md`.

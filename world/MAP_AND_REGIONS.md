@@ -48,7 +48,7 @@ The following regional and clan information is established in `world/WORLD.md`:
 - **Twelve established clans:** Haiyuan (sailing and maritime affairs), Tianjing (administration and central interests), Yunhai (trade and transportation), Canglong (combat and defense), Bihai (coastal resources), Xuanchao (security and maritime surveillance), Lingfan (navigation and expeditions), Haijing (information and port relations), Yunzhou (main-island interests), Mingzhu (high-value commodities), Shuijing (materials processing and craftsmanship), and Leiyu (combat techniques and offense). Their spheres are broad influence areas, not proof of exclusive territorial control, fixed clan membership, or automatic subordination to the Maharaja.
 - **Five established dojos:** Skywhale, Tidal Current, Stormwake, Azure Sail, and Deepwater. Their current leaders, membership, and formal political relationships remain unconfirmed.
 
-The floating island's precise coordinates, internal district map, neighboring island routes, and artifact maintenance sites are not yet defined. Do not invent these as settled canon.
+The floating island's precise coordinates, neighboring island routes, and artifact maintenance sites are not yet defined. Its internal regional module now establishes a partial district/settlement route graph and a Cangqiong Sky Transit Terminal linked by long-distance liquefied-energy aircraft to Longyuan Sky Transit Terminal in the Golden Dragon Empire and Beiming Heartland Sky Transit Terminal in Beiming Gu. Exact terminal coordinates, distances, and travel times remain unknown.
 
 ## 4. Beiming Gu — Northern Territories
 
@@ -64,7 +64,7 @@ The North includes mountain chains, cold forests, highlands, valleys, and diffic
 | Hollowmoon Valley | Remote valley settlements and secluded paths | Retreats, isolated communities, hidden routes |
 | Ironroot Reach | Minerals, raw materials, workshops | Mining and basic processing |
 
-The North's harsh climate and difficult access contribute to its isolation. Specific road distances, settlement coordinates, and seasonal closure schedules are not established.
+The North's harsh climate and difficult access contribute to its isolation. Specific road distances, settlement coordinates, and seasonal closure schedules are not established. A Beiming Heartland Sky Transit Terminal is established as the northern departure node for the dedicated liquefied-energy aircraft corridor to Tianhai; this does not imply a direct road or rail connection through the mountains.
 
 ## 5. Lawless Territories
 
@@ -128,7 +128,7 @@ The terrain includes snowfields, frozen valleys, conifer forests, and difficult 
 
 Forests, mountain ranges, ravines, valleys, remote basins, and high ranges rising above the sea of clouds can exist between the major powers. Some remote sky-high mountain communities are associated with ancient shamanic traditions and Buddhist monks; names and specific organizations remain open. Deep, difficult-to-reach wilderness generally tends to hold higher-tier Spirit Beasts, but this is not an absolute rule. Ruins from past eras may occur throughout the world, including in deep ocean trenches.
 
-Horses, trained beasts, and caravans pulled by land beasts are common transport. Some caravans use flying beasts; flying ships require a Tier 5 or higher Artificial Artifact of the Utilities type with a Levitation function. These transport types do not establish exact speed, price, or availability. See `world/GEOGRAPHY_AND_TRAVEL.md` for the full foundation.
+Horses, trained beasts, and caravans pulled by land beasts are common transport. Some caravans use flying beasts; conventional flying ships and Tianhai's specialized liquefied-energy passenger aircraft are distinct transport classes. The latter has approved corridors from Longyuan and Beiming Heartland to Tianhai and an approved round-trip fare of 25 xc per passenger, compared with 86 xc for a comparable Qi-powered flying ship journey. Exact speeds and travel times remain unknown. See `world/GEOGRAPHY_AND_TRAVEL.md` and `world/REGION_TIANHAI_YUNZHOU.md` for the full foundation.
 
 ## 7. Navigation and Travel Rules
 

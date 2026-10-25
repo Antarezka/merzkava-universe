@@ -3,7 +3,7 @@
 **Scope:** Navigation directory for established recurring/major NPCs whose canonical home or affiliation is Beiming Gu.
 **Status:** Four established major NPCs plus 12 clan heads and 5 dojo masters are registered below (21 profiles total).
 **Local pattern:** central INDEX → relevant Beiming Gu regional module → local NPC table → canonical profile.
-**Staging note:** This file lives in the central repository under `regions/beiming-gu/` because a separate regional repository has not been verified. This is an in-repo staging location, not a claim that a separate repository has been created.
+**Repository note:** This registry and its canonical NPC profiles belong to `Antarezka/merzkava-universe` under the current single-repository architecture. They are not awaiting migration to a separate regional repository.
 
 ## Highest known authority and adoptive family
 

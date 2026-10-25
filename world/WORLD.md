@@ -264,7 +264,7 @@ Keempatnya tetap mengajarkan dasar Martial Soul, Spirit Realm, Spirit Ring, Spir
 
 4.6 Maharaja and Ruling Family
 
-The Maharaja is **Ji Haoyuan**, a visionary leader. His canonical profile is maintained in `world/NPC_JI_HAOYUAN.md`.
+The Maharaja is **Ji Haoyuan**, a visionary leader. His canonical profile is maintained in `regions/tianhai-yunzhou/npcs/JI_HAOYUAN.md`.
 - Martial Soul: Heavenly Sky Whale.
 - Spirit Realm 9 — Spirit Primordial, Early Stage.
 - Thinker Grade 10.
@@ -278,7 +278,7 @@ Their twin daughters are **Ji Zhaoning** and **Ji Ningzhao**, both 16, golden-ey
 
 The regional module `world/REGION_TIANHAI_YUNZHOU.md` records the canonical family details and the known boundaries of the Great Tianhai War. Do not infer unstated artifact specifications, war chronology, hidden motives, or abilities.
 
-The canonical Tianhai court, civil administration, military/security, district administrators, clan heads, dojo masters, and Thinker institution roster is maintained in `world/NPC_TIANHAI_POWER_STRUCTURE.md`. Its roster establishes role-appropriate Spirit Realm levels and requires named recurring/major officeholders to be Thinkers, normally Grade 3–7; Thinker Grade 8+ remains exceptional. This roster does not imply that every resident is a Thinker.
+The canonical Tianhai court, civil administration, military/security, district administrators, clan heads, dojo masters, and Thinker institution roster is maintained in `regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`. Its roster establishes role-appropriate Spirit Realm levels and requires named recurring/major officeholders to be Thinkers, normally Grade 3–7; Thinker Grade 8+ remains exceptional. This roster does not imply that every resident is a Thinker.
 
 **Canonical Thinker Grade distribution currently established:**
 - Tianhai Yunzhou: four Thinker Grade 10 individuals, including Ji Haoyuan.

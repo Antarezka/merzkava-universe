@@ -145,11 +145,11 @@ The following owner-approved fares are fixed baseline prices for the named trans
 
 | Service | Round-trip fare per passenger | Power source / service |
 |---|---:|---|
-| Tianhai long-distance liquefied-energy passenger aircraft | 25 xc | Tianhai-refined liquefied energy; dedicated corridors between Longyuan Sky Transit Terminal, Beiming Heartland Sky Transit Terminal, and Cangqiong Sky Transit Terminal |
+| Tianhai Yunzhou long-distance liquefied-energy passenger aircraft | 25 xc | Tianhai Yunzhou-refined liquefied energy; dedicated corridors between Longyuan Sky Transit Terminal, Beiming Heartland Sky Transit Terminal, and Cangqiong Sky Transit Terminal |
 | Comparable ordinary Qi-powered flying ship | 86 xc | Qi propulsion; ordinary inter-power flying-ship service |
 
 Rules:
-- The Tianhai energy-aircraft service has greater passenger capacity per journey than an ordinary Qi-powered flying ship.
+- The Tianhai Yunzhou energy-aircraft service has greater passenger capacity per journey than an ordinary Qi-powered flying ship.
 - These prices apply to the established comparable inter-power passenger journey and the full return trip. Do not interpret them as one-way fares.
 - The 25 xc fare is supported by Tianhai Yunzhou's specialized energy-refining and distribution advantage; it does not imply that other powers can freely manufacture the same fuel or operate compatible aircraft.
 - Exact flight durations, schedules, seating capacity, cargo rates, premium classes, taxes, and disruption surcharges remain unestablished. Do not invent them as fixed canon.

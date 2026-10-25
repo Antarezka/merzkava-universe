@@ -83,3 +83,12 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPC
 - [ ] Add economy and resources
 - [ ] Add local customs and conflicts
 - [ ] Confirm details in `world/MAP_AND_REGIONS.md` and `INDEX.md` when ready
+
+
+## Regional module standard — revised
+
+For new and revised regional content, keep this sequence consistent: identity; geography and boundaries; administrative context; settlements and local daily life; economy/resources and dependencies; cultivation, Spirit Beasts, and Thinkers; factions and authorities; regional NPC registry; conflicts/events; route network and GM guidance. Existing detailed canon may stay in place if moving it risks losing facts, but add cross-references and use the standard sequence for new sections.
+
+Settlement records should explain local function, everyday life, resources/skills, needs/imports, actual services and limits, authority, and source. Do not invent precise population counts or assume every village has a market, school, healer, or advanced workshop.
+
+NPC registries should contain important and recurring characters only, using a canonical profile link. Background residents remain situational. Route tables must name origin, destination, route/transport, intermediate stops, access conditions, economic/social function, travel-time source, and canon status. Missing connections stay unknown; never add routes simply to fill the table.

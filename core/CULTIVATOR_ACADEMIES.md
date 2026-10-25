@@ -1,6 +1,6 @@
 # MERZKAVA UNIVERSE — CULTIVATOR ACADEMIES & FOUNDATIONAL EDUCATION
 
-**Status:** Core concept established. Specific admission rules, school structure, curriculum hours, fees, age limits, examinations, and graduation requirements remain undefined unless separately established.
+**Status:** Core concept established. The Golden Dragon Empire has exactly two named central boarding Cultivator Academies, both in Huanglongcheng. Specific admission rules, curriculum hours, fees, age limits, examinations, and graduation requirements remain undefined unless separately established. Binding continuity decisions: `world/CANON_DECISIONS_AND_PRECEDENCE.md`.
 
 ## 1. PURPOSE
 
@@ -66,7 +66,7 @@ Field preparation may include habitat and track recognition, threat assessment, 
 
 A Safe Route is a managed-risk training route, not a guarantee of safety. An unexpected Beast, inaccurate report, environmental hazard, separation, injury, or failed hunt remains possible. The academy's presence does not guarantee a rescue squad or medical outcome unless the specific expedition establishes those resources. No student receives an automatic combat bonus, guaranteed ring, improved compatibility, or successful absorption for attending.
 
-Only two specific central boarding academies are currently named in Golden Dragon Empire canon: **Imperial Foundation Academy** and **Imperial Cultivation Academy**, both in Huanglongcheng. Do not assume every academy or institution in the wider world has this field program.
+Only two specific central boarding academies exist in established Golden Dragon Empire canon: **Imperial Foundation Academy** and **Imperial Cultivation Academy**, both in Huanglongcheng. This is a deliberate final decision, not an invitation to add regional academies. Tianfeng (Scholarly Heights) is associated with talented people and can be a source of gifted students for these two academies; it is not a third academy or a separate regional academy network. Gifted students from Tianfeng and elsewhere may travel to Huanglongcheng for study. The academies follow orthodox, established education on Martial Souls, Spirit Realms, Spirit Beasts, Spirit Rings, safe training, and foundational combat; extreme or unorthodox methods are not their default. Do not assume every institution in the wider world has this field program.
 
 ## 3. ACADEMIES AND SPECIALIST PATHWAYS
 
@@ -99,7 +99,11 @@ When education matters in gameplay:
 4. Apply cultivation, Spirit Ring, combat, and Thinker mechanics from their respective official modules.
 5. Do not grant unrecorded abilities, bonuses, qualifications, or access solely because the character attended an academy.
 
-## 6. RELATED SOURCES
+## 6. CANON CONTINUITY
+
+- The two-academy limit, Tianfeng's role as a source of talent rather than a third academy, and conflict-resolution rules are binding; consult `world/CANON_DECISIONS_AND_PRECEDENCE.md` before changing or extending this structure.
+
+## 7. RELATED SOURCES
 
 - `core/CULTIVATION_SYSTEM.md` — cultivation progression and Spirit Realms.
 - `core/MARTIAL_SOUL.md` — Martial Soul rules.

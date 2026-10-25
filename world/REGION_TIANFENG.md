@@ -94,12 +94,17 @@ This is the region's compact named village roster. Other former village names re
 
 ## 8. Regional NPC Registry
 
-**Current civil officeholders:** Consult `GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` for the named regional governor, prefects, and county magistrates, including their cultivation, Martial Souls, backgrounds, motivations, and political dispositions. That roster is authoritative for current civil appointments.
-Use `templates/NPC_PROFILE_TEMPLATE.md` for named NPC profiles. Do not reveal hidden identities before a credible in-world discovery.
+**Current civil officeholders:** The central roster `GOLDEN_DRAGON_EMPIRE_OFFICIALS.md` is authoritative for appointments, backgrounds, motivations, Martial Souls, cultivation, and political dispositions. This regional registry lists key recurring officeholders and major NPCs for quick scene loading; it does not create extra administrative tiers. Legacy/local administrators not listed here remain in the central roster and should only be used when relevant to the scene.
+Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPCs. Do not reveal hidden identities before a credible in-world discovery.
 
 | Name / public identity | Location | Role | Public traits | Profile link / source |
 |---|---|---|---|---|
-| Belum ditetapkan | — | — | — | — |
+| Yunlan Qinglan | Tianshu; exact office location unconfirmed | Regional Governor | Spirit Realm 8 — Spirit Sovereign, Early Stage; mendukung akademi dan meritokrasi, terbuka pada kritik ilmiah | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Han Zhenyu | Tianshu | Prefect, Heavenly Script Prefecture | Spirit Realm 6 — Spirit Ancestor, Late Stage; pragmatis, condong ke stabilitas takhta | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Han Yueqin | Yunding | Prefect, Cloud Summit Prefecture | Spirit Realm 6 — Spirit Ancestor, Peak Stage; netral dan sangat prosedural | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Han Jinshu | Tianfeng; exact assignment unconfirmed | Regional consolidation officer (former Hundred Schools Prefecture) | Spirit Realm 6 — Spirit Ancestor, Late Stage; tegas terhadap korupsi, kompromistis secara politik | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Han Ziyu | Tianfeng; exact assignment unconfirmed | Regional consolidation officer (former Jade Lecture Prefecture) | Spirit Realm 6 — Spirit Ancestor, Peak Stage; berorientasi pada pertahanan wilayah | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
+| Xie Zhenyu | Tianfeng; exact assignment unconfirmed | Scholarly Heights Circuit liaison officer | Spirit Realm 5 — Spirit King, Middle Stage; loyalis istana, menolak perintah ilegal | [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
 
 ## 9. Current Situations and Events
 - Local conflicts: Belum ditetapkan

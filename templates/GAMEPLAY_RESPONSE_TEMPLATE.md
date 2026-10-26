@@ -22,29 +22,16 @@ Hari: ... | Cuaca: ... | Jam: HH:MM
 NARASI
 [Narasi imersif sesuai kejadian, suasana, dialog, tindakan NPC, pengetahuan karakter, kondisi dunia, dan konsekuensi yang benar-benar terjadi. Setiap aktivitas terbaru wajib menyebutkan Satiety: jika berubah, nyatakan pengurangan/penambahan dan nilai sebelum → sesudah; jika tetap, nyatakan nilai tetap beserta alasannya. Untuk konsumsi, sebut nama item, tier resmi, jumlah, dan efek Satiety yang terverifikasi; jika tier belum ditetapkan, tulis “Tier belum ditetapkan”, jangan mengarangnya. Jika Satiety, uang, item, equipment, loot, atau aset benar-benar berubah, tampilkan laporan perubahan natural dan akhiri kalimat terkait dengan `Log tercatat!` sebelum ledger. Jangan gunakan penanda jika tidak ada perubahan atau hasil belum terkonfirmasi.]
 
-[LEDGER LOG tampil jika Satiety, transaksi uang, item, equipment, loot, atau aset benar-benar berubah. Letakkan setelah narasi, laporan perubahan, dan penanda `Log tercatat!`. Gunakan satu blok untuk semua field yang berubah akibat tindakan yang sama; jika tidak ada perubahan state relevan, lewati penanda dan ledger.]
+[Gunakan **satu LEDGER LOG ringkas** untuk semua perubahan dari satu rangkaian aksi—misalnya membeli makanan, membayar, lalu langsung memakannya. Tampilkan hanya baris yang relevan; jangan membuat log terpisah untuk pembayaran, item, dan konsumsi.]
 
 ╭─ LEDGER LOG · #[ID]
-│ Waktu: ...
-│ Jenis: ...
-│ Pihak terkait: ...
-│ Status: Berhasil / Gagal / Dibatalkan
-│
-│ Rincian:
-│ • Penyebab/aktivitas/durasi: ...
-│ • Kategori aktivitas/pengali yang dipakai: ...
-│ • Satiety sebelum: ...
-│ • Perubahan Satiety: ...
-│ • Satiety sesudah: ...
-│ • Pengeluaran/pemasukan: ...
-│ • Harga, konversi, atau kembalian: ...
-│ • Item/aset masuk atau keluar (nama, tier resmi atau “Tier belum ditetapkan”, jumlah): ...
-│
-│ Saldo sebelum → perubahan bersih → sesudah: ...
-│ Inventory/Equipment/Assets sebelum → perubahan → sesudah: ...
+│ [Waktu] · [Berhasil/Gagal/Dibatalkan]
+│ Item: [nama] · Tier [resmi/belum ditetapkan] ×[jumlah] → [Inventory akhir]
+│ Uang: [saldo awal] → [−biaya bersih] → [saldo akhir]
+│ Satiety: [awal] → [±delta] → [akhir] · [kategori/durasi jika relevan]
 ╰─
 
-[Jangan tambahkan baris penegasan terpisah jika penanda `Log tercatat!` sudah ada dan ledger telah diverifikasi. Status gagal/batal harus dinyatakan sesuai hasil sebenarnya.]
+[Jika perlu, ringkas kembalian dalam satu baris: “Bayar [nominal]; harga [nominal]; kembalian [nominal]”. Untuk konsumsi, sebut nama item, tier resmi atau “Tier belum ditetapkan”, jumlah, dan efek Satiety aktual. Jika beberapa item/denominasi berubah, ringkas dalam baris terkait tanpa menghilangkan nilai sebelum → perubahan → sesudah. Tulis persis penanda inline-code `Log tercatat!` sekali setelah laporan perubahan terverifikasi. Jangan tampilkan penanda/ledger untuk perubahan yang tidak terjadi.]
 
 ━━━━━━━━━━━━━━━━━━
 
@@ -107,7 +94,7 @@ Aksiku : --
 
 - **Urutan respons:** timestamp → narasi natural dan laporan perubahan → penanda `Log tercatat!` pada kalimat perubahan yang sudah diverifikasi → satu `LEDGER LOG` untuk perubahan Satiety/uang/item/equipment/loot/aset → `PROFIL KARAKTER` → `INV & KEUANGAN` → `TEKNIK & TUJUAN` → `CATATAN PEMAIN & KONSISTENSI` → catatan kecil → `Aksiku : --`. Jangan menampilkan penanda atau ledger jika tidak ada perubahan state relevan. Setiap aktivitas terbaru tetap harus menyebutkan nilai Satiety, termasuk ketika nilainya tetap.
 - **Timestamp dan Era:** ikuti `gameplay/TIME_AND_ACTION_RULES.md`. Pada sesi baru, tentukan era sesuai prosedur dan jangan tinggalkan placeholder setelah bootstrap selesai. Pada sesi berlanjut, teruskan timestamp terakhir yang sah.
-- **Ledger:** setiap perubahan Satiety, transaksi uang, item, equipment, loot, atau aset yang benar-benar terjadi harus disebut secara natural, disertai nilai sebelum → perubahan → sesudah untuk field yang terdampak; setelah diverifikasi, akhiri kalimat terkait dengan `Log tercatat!`, lalu tampilkan satu ledger lengkap sebelum profil. Jika konsumsi mengubah Inventory dan Satiety sekaligus, catat keduanya dalam satu peristiwa. Jangan tampilkan penanda/ledger jika tidak ada perubahan atau hasil belum terverifikasi. Detail uang/item mengikuti `core/10_ECONOMY_SYSTEM.md`; Satiety mengikuti `core/HUNGER_AND_METABOLISM.md`.
+- **Ledger gabungan ringkas:** untuk satu rangkaian aksi, gabungkan perubahan uang, item, dan Satiety dalam satu laporan dan satu `LEDGER LOG` sebelum profil. Contoh alur: beli makanan → bayar → konsumsi sambil menikmati pemandangan; catat item/tier/jumlah, harga dan saldo akhir, Inventory akhir, serta Satiety sebelum → perubahan → sesudah. Cukup tampilkan baris yang relevan, tanpa mengulang detail panjang. Gunakan `Log tercatat!` sekali setelah perubahan terverifikasi. Detail audit kronologis tetap dipertahankan di ledger sesi; aturan uang/item mengikuti `core/10_ECONOMY_SYSTEM.md` dan Satiety mengikuti `core/HUNGER_AND_METABOLISM.md`.
 - **Profil:** pertahankan nama field dan urutan persis seperti di atas. Empat seksi profil tetap terpisah. Gunakan `templates/CHARACTER_PROFILE_TEMPLATE.md` untuk arti field dan state; file itu bukan format visual alternatif.
 - **Spirit Ring Absorption:** `Day left` hanya menghitung jeda minimum antarpenyerapan Spirit Ring yang berhasil, bukan timer breakthrough Kultivasi. Ikuti `templates/CHARACTER_PROFILE_TEMPLATE.md`, `gameplay/TIME_AND_ACTION_RULES.md` §7, dan interval resmi di `bestiary/SPIRIT_BEAST_RULES.md`. `0 Day left` bukan jaminan penyerapan berhasil.
 - **HP dan cedera:** gunakan `core/HP_SYSTEM.md` serta `core/INJURY_SYSTEM.md` sebagai dua state terpisah.

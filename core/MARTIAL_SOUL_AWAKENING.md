@@ -50,7 +50,7 @@ Rarity awal ditentukan dengan satu undian yang merata dari rentang 1–100. Seti
 
 ## 2A. Independent Martial Soul Classification (Score-Based)
 
-**Martial Soul rarity/classification must use the established named terms only: Common, Uncommon, Rare, Epic, Legendary, and Myth. Do not express Martial Soul rarity as Tier 1–9 or invent numeric tier names.** This assessment method does not replace the single rarity chance draw in Section 2; the draw determines the awakening rarity, while this score is only a provisional assessment of the Martial Soul's inherent qualities. If the two appear inconsistent, preserve the actual rarity draw and label the score result as a separate provisional assessment—never silently overwrite one with the other.
+**Martial Soul rarity must use only these established names: Common, Uncommon, Rare, Epic, Legendary, and Myth. Never use numbered tier labels or invent additional rarity names.** This assessment method does not replace the single rarity chance draw in Section 2; the draw determines the awakening rarity, while this score is only a provisional assessment of the Martial Soul's inherent qualities. If the two appear inconsistent, preserve the actual rarity draw and label the score result as a separate provisional assessment—never silently overwrite one with the other.
 
 ### Assessment dimensions
 
@@ -85,7 +85,7 @@ Each applicable dimension uses the same rubric: 0 = tested/verified negligible; 
 
 These bands are a fallback for an **inherent-quality assessment**, not a second rarity draw and not an automatic rewrite of the awakening result. Keep the wording **Prediksi GM · [score] poin · klasifikasi inheren sementara** until an authorized appraisal or owner-approved canon decision confirms it. Do not present the score band as the result of the rarity chance table.
 
-Rarity Martial Soul hanya boleh memakai enam istilah resmi: **Common, Uncommon, Rare, Epic, Legendary, Myth**. Semua label lama untuk rarity yang memakai istilah numerik atau gabungan seperti “Myth Tier” harus diselaraskan ke istilah resmi saja. Jangan membuat istilah rarity tambahan. Skor inheren hanya memberi klasifikasi sementara berdasarkan enam istilah ini dan tidak menggantikan hasil undian rarity.
+Rarity Martial Soul hanya boleh memakai enam istilah resmi: **Common, Uncommon, Rare, Epic, Legendary, Myth**. Semua label lama untuk rarity yang memakai angka atau tambahan istilah di luar enam nama resmi harus dihapus dan diselaraskan ke istilah resmi saja. Jangan membuat istilah rarity tambahan. Skor inheren hanya memberi klasifikasi sementara berdasarkan enam istilah ini dan tidak menggantikan hasil undian rarity.
 
 ### Awakening resolution order with independent assessment
 

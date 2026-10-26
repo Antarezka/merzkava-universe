@@ -77,7 +77,7 @@ If the character is not eligible and the player still insists, do not bypass the
 
 **Formulasi kanonis `Day left` (wajib):**
 
-Setiap kali penyerapan Spirit Ring berhasil, **inisialisasi `Day left` saat itu juga** berdasarkan interval minimum resmi menuju ring berikutnya. Tetapkan titik awal baru: `T_eligible = 0` tepat setelah keberhasilan tersebut. Jangan menunggu giliran berikutnya atau meminta riwayat tambahan untuk memulai hitung mundur.
+Setiap kali penyerapan Spirit Ring berhasil dan masih ada ring berikutnya yang dapat diserap (Ring 1–8), **inisialisasi `Day left` saat itu juga** berdasarkan interval minimum resmi menuju ring berikutnya. Tetapkan titik awal baru: `T_eligible = 0` tepat setelah keberhasilan tersebut. Pengecualian: setelah ring kesembilan tercapai di Spirit Realm 9, jangan inisialisasi cooldown lanjutan; status menjadi `max | ∞ Day left`. Jangan menunggu giliran berikutnya atau meminta riwayat tambahan untuk memulai hitung mundur.
 
 Definisikan:
 - `T_min` = interval minimum resmi untuk penyerapan berikutnya, sesuai jumlah ring yang telah berhasil diserap dan tabel interval di `bestiary/SPIRIT_BEAST_RULES.md`. Konversi interval ke durasi memakai kalender sesi yang berlaku; pada kalender fallback §2, 1 bulan = 30 hari.

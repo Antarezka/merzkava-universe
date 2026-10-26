@@ -83,7 +83,7 @@ Pengurangan akhir = min(Satiety saat ini, Pengurangan dasar × A × F × B × S)
 |---|---:|---|
 | Istirahat terjaga | ×0,50 | Duduk/berbaring untuk memulihkan tenaga, berhenti sejenak, atau istirahat aman tanpa aktivitas fisik berarti. Memperlambat pengurangan; **tidak menambah Satiety**. |
 | Ringan | ×1,25 | Berjalan santai, berbelanja, mengobrol sambil bergerak, tugas ringan, aktivitas sehari-hari tanpa tuntutan fisik berarti. |
-| Sedang | ×1,75 | Berjalan jauh, perjalanan aktif, latihan rutin, pekerjaan fisik berkelanjutan, atau eksplorasi yang terus menguras tenaga. |
+| Sedang | ×1,75 | Berjalan jauh, perjalanan aktif, latihan rutin, kultivasi/meditasi terfokus yang berkelanjutan, pekerjaan fisik berkelanjutan, atau eksplorasi yang terus menguras tenaga. |
 | Berat | ×2,50 | Berlari lama, membawa beban berat, latihan intensif, pertarungan singkat yang menguras tenaga, atau kerja fisik berat. |
 | Survival | ×4,00 | Keadaan darurat nyata: bertahan/berjuang di medan perang, bencana, kabur dari ancaman yang terus berlangsung, atau combat berkepanjangan yang memicu tekanan fisik dan adrenalin. |
 

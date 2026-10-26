@@ -25,7 +25,7 @@
 
 ## 3. Capabilities
 - **Spirit Realm / Stage:** Spirit Realm 9 — Spirit Primordial, Middle Stage
-- **Martial Soul:** Golden Heavenly Dragon — Myth Tier
+- **Martial Soul:** Golden Heavenly Dragon — Myth
 - **Spirit Rings and abilities:** Refer to the proposed ring configuration in `world/WORLD.md`; details and abilities are not expanded in this profile.
 - **Techniques / combat style:** Belum ditetapkan
 - **Thinker Grade / specialties:** Belum ditetapkan

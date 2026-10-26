@@ -90,8 +90,8 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **GM Action Prompt Distinguished from Player Invocation**  
   The canonical gameplay template has absolute priority for GM output and ends with the exact prompt “••• Tentukan Aksimu (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧”. The player invocation template is explicitly limited to player input and cannot override GM response formatting.
 
-- ✧ **Unified Item Pricing Formula Consolidated**  
-  Item prices now use one master formula combining quality tier, item condition, seasonal scarcity, demand, distribution, and destination-market adjustments without double-counting factors.
+- ✧ **Unified Item Pricing and Appraisal Scope Aligned**  
+  Item prices continue to use one master formula combining economic quality tier, item condition, seasonal scarcity, demand, distribution, and local-market adjustments without double-counting factors. Routine goods—such as standard roadside food—use ordinary economic categories and local market pricing without mandatory specialist appraisal. The universal appraisal score and MAA ruling remain available for unusual, disputed, unidentified, or consequential classifications; GM predictions stay provisional and evidence-based.
 
 <div align="center">
 

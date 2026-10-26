@@ -54,32 +54,32 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![WORLD UPDATE LOG](https://img.shields.io/badge/WORLD_UPDATE_LOG-FFFFFF?style=for-the-badge&labelColor=151515)
 
-<sub>WORLD ARCHIVE · v0.3.42</sub>
+<sub>WORLD ARCHIVE · v0.4.0</sub>
 
 **✦ ──── ❖ ──── ✦**
 
 **THE LATEST FROM MERZKAVA**
 
-*Five recent additions to the world archive*
+*Five recent world and system updates*
 
 **✦ ──── ❖ ──── ✦**
 
 </div>
 
-- ✧ **Azerion Forest — Hidden Half-Beast City**  
-  A secluded community with its own economy and guarded borders.
+- ✧ **Azerion Forest & Ancient Ruins**  
+  The hidden half-beast city, forest lore, heavenly beasts, and unexplored ruins are aligned with established world history.
 
-- ✦ **Beiming Gu — Regional NPCs**  
-  New figures, family ties, and personal connections deepen the northern region.
+- ✦ **Beiming Gu — Character Continuity**  
+  Beiming Han, Beiming Xenhwa, and Beiming Nerva receive synchronized profiles, relationships, and regional references.
 
-- ❖ **Routes Between the Great Powers**  
-  Regional links and transit options make long journeys feel more natural.
+- ❖ **Tianhai — Academies & Thinker Institute**  
+  The cardinal regions, academy network, research institution, and Thinker lore are integrated into the world archive.
 
-- ⟡ **Tianhai — Energy-Powered Air Transit**  
-  A specialized air transport system connects distant parts of the world.
+- ⟡ **Routes & Energy-Powered Air Transit**  
+  Regional travel links and Tianhai's specialized energy-aircraft transport are documented for more coherent journeys.
 
-- ✧ **Cultivation Profiles & Xuan Currency**  
-  Player records align with Spirit Realm terminology and the Xuan wallet system.
+- ✧ **Spirit Ring Cooldown & Gameplay Consistency**  
+  Day left rules and cooldown calculations are clarified, while the gameplay template, profile fields, and authority order now share one canonical format.
 
 <div align="center">
 

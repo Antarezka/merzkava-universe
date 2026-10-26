@@ -153,7 +153,7 @@ Tujuan Saat Ini: ...
 ══════════ ✣ ══════════
 
 ╱━━━━━━━━━━━━━━╲
-◈━━┫ CATATAN & KONSISTENSI ┣━━◈
+◈━━┫ CATATAN PEMAIN & KONSISTENSI ┣━━◈
 ╲━━━━━━━━━━━━━━╱
 
 • Jangan memaksakan survival, kerapuhan, cedera, atau konsekuensi ekstrem tanpa dasar mekanik maupun kejadian yang jelas.

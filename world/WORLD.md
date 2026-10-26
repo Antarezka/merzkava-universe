@@ -157,7 +157,7 @@ Konfigurasi ini adalah rancangan kanon awal. Total usia ring bukan ukuran tungga
 
 The currently established imperial family consists of Emperor Jun Haotian, Empress Shen Yuehua, Crown Prince Jun Ruiyuan, and Princess Jun Yuejin. Their individual profiles are linked from the Longyuan regional NPC registry.
 
-| Family member | Age | Position | Martial Soul | Tier |
+| Family member | Age | Position | Martial Soul | Rarity |
 |---|---:|---|---|---|
 | Jun Haotian (君昊天) | 42 | Emperor | Golden Heavenly Dragon | Myth |
 | Shen Yuehua (沈月华) | 33 | Empress; born into the main branch of the Shen family | Heavenly Crane | Myth |

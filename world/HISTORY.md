@@ -8,6 +8,7 @@
 Merzkava Universe's current world canon includes:
 - Three major powers: Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu.
 - A world with a vast continent, connected seas, isolated northern territories, and Lawless Territories outside the direct jurisdiction of the major powers.
+- Beings older than 15,000,000 years are regarded as Heaven Realm beings, belonging to the gods' domain and exceeding Spirit Primordial power.
 - A Thinker tradition that originated in Tianhai Yunzhou.
 - Ancient artifacts from a golden age of civilization.
 - Relics described as inheritances or objects left by deities, including the World Knowledge Tower, an ancient divine relic from the Early Golden Age.

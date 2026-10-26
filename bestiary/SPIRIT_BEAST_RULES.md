@@ -47,9 +47,7 @@ Jeda dihitung dari waktu penyerapan Spirit Ring sebelumnya yang berhasil sampai 
 | Ring 7 → Ring 8 | 3 tahun |
 | Ring 8 → Ring 9 | 4 tahun |
 
-Jeda ini adalah waktu minimum, bukan jaminan bahwa penyerapan akan berhasil. Untuk menghitungnya, akumulasikan waktu dunia yang dijalani secara normal di luar Kultivasi sejak penyerapan berhasil terakhir. **Durasi Kultivasi tidak dihitung sebagai waktu jeda dan tidak mengurangi `Day left`, sekalipun timestamp dunia tetap maju.** Untuk ring kedua dan seterusnya, penyerapan hanya dapat memenuhi gerbang waktu ketika `Day left = 0`; seluruh syarat breakthrough, Sync progress, item, toleransi tubuh, dan mekanik resmi lainnya tetap berlaku.
-
-Catat di riwayat sesi durasi setiap time skip Kultivasi agar dapat dikecualikan dari hitung mundur. Jika riwayat yang tersedia tidak dapat membedakan durasi Kultivasi dari waktu normal sejak penyerapan terakhir, statuskan `Belum ditetapkan Day left` sampai durasi yang memenuhi syarat dapat direkonstruksi dari catatan yang sah. Jangan menaksir atau menganggap interval telah terpenuhi.
+Jeda ini adalah waktu minimum, bukan jaminan bahwa penyerapan akan berhasil. **Gunakan hanya formulasi kanonis `Day left` di `gameplay/TIME_AND_ACTION_RULES.md` §7**: `T_remaining = max(0, T_min - T_eligible)`; jika sisa nol, `Day left = 0`, selain itu `Day left = ceil(T_remaining / 24 jam)`. `T_eligible` hanya mengakumulasi waktu dunia normal di luar Kultivasi; semua durasi Kultivasi dikecualikan meskipun timestamp dunia maju. Catat durasi time skip Kultivasi dalam riwayat sesi agar bisa dikecualikan. Jika `T_eligible` tidak dapat direkonstruksi, tulis `Belum ditetapkan Day left`. Untuk ring kedua dan seterusnya, `Day left = 0` wajib dipenuhi terpisah dari syarat Sync, ring, item, toleransi tubuh, dan aturan resmi lain.
 
 Jika penyerapan dipaksakan sebelum jeda minimum, GM wajib menetapkan deviasi minimal dan menentukan tingkatnya berdasarkan seberapa besar jeda yang dilanggar, kondisi tubuh, serta bukti yang tersedia. Deviasi dapat ringan hingga berat. Jangan mengarang angka peluang atau jumlah damage yang tidak memiliki rumus resmi.
 

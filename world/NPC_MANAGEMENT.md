@@ -118,7 +118,7 @@ Spirit Ring configuration is a meaningful social signal in Merzkava Universe. NP
 
 ### D. Exceptional configurations as reference
 
-The confirmed ring-age configuration recorded for Beiming Han in `world/WORLD.md` is an extraordinary high-end comparison. Its nine ring ages and total are established canon; color mapping above 499,999 years remains undefined and must not be guessed. In play, use Beiming Han as a comparison only when the NPC plausibly knows of him or has access to the relevant information; most NPCs should not automatically know his exact configuration.
+The confirmed ring-age configuration recorded for Beiming Han in `world/WORLD.md` is an extraordinary high-end comparison. Its nine ring ages and colors are established canon; apply the high-age color bands in `core/SPIRIT_RING_RULES.md`. Colors for Spirit Rings from Heaven Realm beings older than 15,000,000 years remain unspecified and must not be guessed. In play, use Beiming Han as a comparison only when the NPC plausibly knows of him or has access to the relevant information; most NPCs should not automatically know his exact configuration.
 
 ## 7. Relationships and continuity
 

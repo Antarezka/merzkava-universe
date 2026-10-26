@@ -97,10 +97,10 @@ Rentang warna Spirit Ring yang telah ditetapkan:
 |---|---:|
 | Putih | 10–99 tahun |
 | Kuning | 100–999 tahun |
-| Ungu | 1.000–9.999 tahun |
+| Biru (`#0000FF`) | 1.000–9.999 tahun |
 | Hitam | 10.000–49.999 tahun |
 | Merah | 50.000–99.999 tahun |
-| Emas | 100.000–499.999 tahun |
+| Oranye (`#FFA500`) | 100.000–499.999 tahun |
 
 Warna untuk Spirit Ring berusia 500.000 tahun atau lebih belum ditetapkan. Jangan menciptakan warna atau kategori baru.
 
@@ -126,7 +126,7 @@ Penaklukan Spirit Beast dan proses penyerapan Spirit Ring adalah bagian yang ber
 - Aktivitas Kultivasi untuk meningkatkan Sync progress dilakukan di tempat aman dan stasioner. Meditasi biasa tanpa tujuan/proses Kultivasi yang jelas tidak mengubah Sync progress.
 - Saat Sync progress mencapai **cap kompatibilitas ring yang sedang diproses**, karakter mencapai batas kompatibilitas normalnya. Cap ini bisa kurang dari 100% (misalnya 45%) dan tidak boleh dipaksa menjadi 100%. **Sinkronisasi kekuatan 100%** adalah konsep terpisah dari field Sync progress: artinya karakter menguasai kekuatan Spirit Ring sepenuhnya, setara dengan saat Spirit Beast asalnya menggunakannya. Itu adalah hasil penguasaan penuh, bukan syarat universal untuk mencapai bottleneck atau melakukan breakthrough.
 - Sinkronisasi 100% nyaris mustahil melalui penyerapan paksa. Jika Spirit Beast secara sukarela menyerahkan ringnya, sinkronisasi 100% lebih mungkin dicapai, tetapi tidak dijamin.
-- Usia Spirit Ring tidak memiliki batas mutlak hanya berdasarkan angka; toleransi tubuh dan kompatibilitas tetap menentukan. Rentang warna ring tetap mengikuti tabel di atas, sementara warna untuk usia 500.000 tahun ke atas belum ditetapkan.
+- Usia Spirit Ring tidak memiliki batas mutlak hanya berdasarkan angka; toleransi tubuh dan kompatibilitas tetap menentukan. Untuk seluruh pemetaan warna resmi—termasuk rentang 500.000 hingga 15.000.000 tahun—gunakan tabel lengkap di `core/SPIRIT_RING_RULES.md`; setiap rentang usia memiliki warna unik.
 - Gunakan formula kompatibilitas tunggal di `core/SPIRIT_RING_RULES.md` §6.1, termasuk penalti kesenjangan tier, kondisi tubuh/Martial Soul, bonus combat/metode, dan pengecualian penyerahan sukarela. Cap sekitar 80% sudah menandakan kompatibilitas jenius; 90% ke atas jauh lebih langka dan 100% merupakan pencapaian istimewa, bukan default. PowerScale dan Qi tetap mengikuti rumus di modul yang sama. Jangan mengganti rumus atau mengarang input yang belum diketahui.
 
 ## 7. Konsistensi dengan WORLD.md
@@ -134,7 +134,7 @@ Penaklukan Spirit Beast dan proses penyerapan Spirit Ring adalah bagian yang ber
 - WORLD.md adalah acuan utama untuk lore dan fakta dunia yang sudah ditetapkan.
 - Tiga penguasa utama yang tercatat di WORLD.md berada di Spirit Realm 9 — Spirit Primordial; Stage masing-masing harus mengikuti WORLD.md: Emperor berada di Middle, sedangkan Maharaja dan Leluhur Utara berada di Early.
 - Konfigurasi Spirit Ring para penguasa di WORLD.md berstatus rancangan kanon awal. Pertahankan usia ring dan status warna yang tertulis; jangan mengubah `Undefined` menjadi warna baru.
-- Warna Spirit Ring untuk usia 500.000 tahun ke atas belum ditetapkan, walaupun WORLD.md mencantumkan ring dengan usia tersebut.
+- Warna Spirit Ring untuk usia 500.000 tahun ke atas mengikuti tabel lengkap di `core/SPIRIT_RING_RULES.md`; warna makhluk Heaven Realm berusia lebih dari 15.000.000 tahun belum ditetapkan.
 - Jika tabel umum sistem dan konfigurasi karakter spesifik tampak berbeda, pertahankan fakta spesifik yang tercatat di WORLD.md dan tandai konflik untuk ditinjau; jangan diam-diam mengubah lore.
 
 ## 8. Batas Informasi dan Konsistensi

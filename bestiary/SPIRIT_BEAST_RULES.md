@@ -65,7 +65,7 @@ Syarat bottleneck hanya terpenuhi jika Gap kurang dari 10 poin persentase. Gap y
 
 Semakin besar Gap di dalam rentang yang diizinkan, semakin tinggi tingkat deviasi. Jika Gap nol atau sangat kecil, jangan menyimpulkan deviasi pasti nol; periksa juga jeda minimum, item, toleransi tubuh, dan syarat resmi lainnya.
 
-Setiap deviasi wajib dicatat sesuai `core/SPIRIT_RING_RULES.md` §5, yang merupakan satu-satunya sumber formula numerik untuk deviasi. Catat tingkat deviasi, dampak pada cap ring berikutnya, kehilangan HP aktual, kategori risiko, cedera, dan kondisi tubuh. Jangan menyalin atau menghitung ulang formula di modul bestiary. Pengurangan cap kompatibilitas dan durasi pemulihan masih belum memiliki formula numerik. Cedera yang timbul harus diklasifikasikan dan dipulihkan menurut `core/INJURY_SYSTEM.md`; kategori risiko HP bukan diagnosis cedera.
+Setiap deviasi wajib dicatat sesuai `core/SPIRIT_RING_RULES.md` §5, yang merupakan satu-satunya sumber formula numerik untuk deviasi. Catat tingkat deviasi, pengurangan cap ring berikutnya, kehilangan HP aktual, kategori risiko, cedera, dan kondisi tubuh. Jangan menyalin atau menghitung ulang formula di modul bestiary. Pengurangan cap akibat deviasi dan durasi pemulihan tetap berbeda dari formula cap awal §6.1; jangan mencampur keduanya. Cedera yang timbul harus diklasifikasikan dan dipulihkan menurut `core/INJURY_SYSTEM.md`; kategori risiko HP bukan diagnosis cedera.
 
 ## 5. Catatan Setelah Proses
 
@@ -75,7 +75,7 @@ Catat tanggal/waktu penyerapan berhasil, nomor ring, jeda sejak penyerapan sebel
 
 Gunakan istilah **Spirit Realm** secara konsisten untuk tingkat kultivasi; `Mortal` adalah status dasar sebelum sembilan Spirit Realm, bukan Spirit Realm 0.
 
-- Gunakan `core/SPIRIT_RING_RULES.md` untuk formula kompatibilitas dan aturan ring.
+- Gunakan `core/SPIRIT_RING_RULES.md` §6.1 untuk penalti kesenjangan tier, penalti tubuh/Martial Soul, bonus hasil combat/metode, dan formula penyerahan sukarela; jangan gunakan faktor A lama atau menghitung bonus yang sama dua kali.
 - Gunakan `core/CULTIVATION_SYSTEM.md` untuk Spirit Realm, bottleneck, dan syarat menerobos.
 - Gunakan `core/HP_SYSTEM.md` dan aturan pertarungan resmi untuk damage HP jika mekanik tersebut tersedia.
 - Gunakan entri Beast yang sah untuk persyaratan item spesifik.

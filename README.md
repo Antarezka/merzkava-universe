@@ -54,7 +54,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![WORLD UPDATE LOG](https://img.shields.io/badge/WORLD_UPDATE_LOG-FFFFFF?style=for-the-badge&labelColor=151515)
 
-<sub>WORLD ARCHIVE · v0.4.90</sub>
+<sub>WORLD ARCHIVE · v0.4.91</sub>
 
 **✦ ──── ❖ ──── ✦**
 
@@ -66,8 +66,11 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
-- ✧ **Regional NPC Indexes Confirmed as Canonical**  
-  The three regional INDEX files and NPC registries are documented as the canonical structure inside this single repository—not temporary staging areas for separate regional repositories.
+- ✧ **Unified Item Pricing Formula Consolidated**  
+  Item prices now use one master formula combining quality tier, item condition, seasonal scarcity, demand, distribution, and destination-market adjustments without double-counting factors.
+
+- ✦ **Gameplay Format Cleaned Up**  
+  Removed the obsolete mode label while preserving the rule against numbered choice menus and keeping the canonical response layout unchanged.
 
 - ✦ **Legacy NPC Pointers Cleaned Up**  
   Removed obsolete migration notes from nine compatibility pointer files, keeping the regional files as the sole canonical source and avoiding duplicate biographies or rosters.

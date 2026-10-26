@@ -143,11 +143,11 @@ Slot| Ring Age| Color
 2| 20,000 years| Black
 3| 50,000 years| Red
 4| 80,000 years| Red
-5| 100,000 years| Gold
-6| 150,000 years| Gold
-7| 200,000 years| Gold
-8| 250,000 years| Gold
-9| 300,000 years| Gold
+5| 100,000 years| Orange
+6| 150,000 years| Orange
+7| 200,000 years| Orange
+8| 250,000 years| Orange
+9| 300,000 years| Orange
 Total| 1,160,000 years| 
 
 Konfigurasi ini adalah rancangan kanon awal. Total usia ring bukan ukuran tunggal kekuatan seseorang dan tidak menjamin kemenangan dalam setiap pertarungan.
@@ -301,10 +301,10 @@ Slot| Ring Age| Color
 3| 30,000 years| Black
 4| 50,000 years| Red
 5| 80,000 years| Red
-6| 100,000 years| Gold
-7| 120,000 years| Gold
-8| 150,000 years| Gold
-9| 200,000 years| Gold
+6| 100,000 years| Orange
+7| 120,000 years| Orange
+8| 150,000 years| Orange
+9| 200,000 years| Orange
 Total| 760,000 years| 
 
 Artefak Tier 9 yang menopang pulau merupakan aset strategis Tianhai Yunzhou. Keberadaannya tidak otomatis berarti Maharaja dapat mengerahkan seluruh kemampuan artefak sebagai teknik pribadi dalam duel.
@@ -390,7 +390,7 @@ Slot| Ring Age| Color
 1| 50,000 years| Red
 2| 50,000 years| Red
 3| 50,000 years| Red
-4| 100,000 years| Gold
+4| 100,000 years| Orange
 5| 500,000 years| Maroon
 6| 500,000 years| Maroon
 7| 1,000,000 years| Gold

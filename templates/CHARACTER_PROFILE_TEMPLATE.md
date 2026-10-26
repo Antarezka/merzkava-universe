@@ -68,7 +68,7 @@ Aturan:
 
 ## Perhitungan Day left — Pengecualian Penyerapan Spirit Ring
 
-`Day left` hanya menghitung jeda minimum antara penyerapan Spirit Ring yang berhasil; ini bukan penghitung waktu breakthrough Kultivasi atau aktivitas lain. Sebelum penyerapan Spirit Ring pertama yang berhasil, jeda belum berlaku sehingga field ditampilkan sebagai `not eligible yet | ??? Day left` di dalam `Spirit Ring Absorption`, bukan `Belum ditetapkan Day left`.
+`Day left` hanya menghitung jeda minimum antara penyerapan Spirit Ring yang berhasil; ini bukan penghitung waktu breakthrough Kultivasi atau aktivitas lain. Sebelum penyerapan Spirit Ring pertama yang berhasil, jeda belum berlaku sehingga gunakan `??? Day left` bersama status tahap yang benar: `not eligible yet | ??? Day left` untuk Mortal tanpa Awakening aktif; `pending | ??? Day left` selama Awakening aktif; setelah Awakening selesai, `eligible | ??? Day left` jika syarat ring pertama terpenuhi atau `not eligible yet | ??? Day left` jika belum. Jangan gunakan `Belum ditetapkan Day left` sebelum ada penyerapan berhasil.
 
 **Formulasi kanonis `Day left` (wajib):**
 

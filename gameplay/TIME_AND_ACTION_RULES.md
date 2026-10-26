@@ -71,7 +71,7 @@ If any condition is not met or cannot be verified, apply the ordinary-action lim
 - Defeating a Spirit Beast and causing its ring to appear does not mean the ring has automatically been absorbed.
 - Do not award progress, absorb a ring, or trigger a breakthrough solely because time passed.
 
-## 7. Spirit Ring Absorption Day left Display
+`Day left` is a narrow exception used only to display the minimum interval between successful Spirit Ring absorptions. It is not a general countdown for cultivation breakthrough, training, or other activities. When the canonical profile line includes `Breakthrough: ... | ... Day left`, calculate this value only from the number of successfully absorbed rings and the last successful Spirit Ring absorption timestamp, using the applicable minimum interval in `bestiary/SPIRIT_BEAST_RULES.md`.
 
 `Day left` is a narrow exception used only to display the minimum interval between successful Spirit Ring absorptions. It is not a general countdown for cultivation breakthrough, training, or other activities. When the canonical profile line includes `Breakthrough: ... | ... Day left`, calculate this value only from the number of successfully absorbed rings and the last successful Spirit Ring absorption timestamp, using the applicable minimum interval in `bestiary/SPIRIT_BEAST_RULES.md`.
 

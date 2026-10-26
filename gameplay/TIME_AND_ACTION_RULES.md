@@ -71,7 +71,7 @@ If any condition is not met or cannot be verified, apply the ordinary-action lim
 - Defeating a Spirit Beast and causing its ring to appear does not mean the ring has automatically been absorbed.
 - Do not award progress, absorb a ring, or trigger a breakthrough solely because time passed.
 
-`Spirit Ring Absorption` is the canonical profile status for whether the character meets the character/process requirements to undergo the next Spirit Ring absorption if a legitimate target ring is available. Before every attempted absorption, re-check the current state against `core/SPIRIT_RING_RULES.md`, `core/CULTIVATION_SYSTEM.md`, and `bestiary/SPIRIT_BEAST_RULES.md`. For a first ring, Mortal must have awakened their Martial Soul; no inter-ring waiting period or breakthrough bottleneck applies. For every later ring, verify the full official requirements, including the Sync progress/bottleneck condition, minimum interval, required item(s), body tolerance, and any other applicable conditions. A physical ring being available is a separate requirement: do not mark a character ineligible solely because no target ring is currently present, but never narrate a completed absorption without a legitimately available ring.
+`Spirit Ring Absorption` is the canonical profile status for the character's stage and eligibility. Mortal not actively undergoing Awakening = `not eligible yet` without Day left; active Awakening = `pending`; after Awakening, evaluate first-ring eligibility and retain `??? Day left` until first successful absorption; Spirit Realm 1–8 use `not eligible yet | N Day left` when requirements remain unmet or `eligible | 0 Day left` only when all character/process requirements are met; Spirit Realm 9 is always `max | ∞ Day left` because the nine-ring limit is reached. Before every attempted absorption, re-check the current state against `core/SPIRIT_RING_RULES.md`, `core/CULTIVATION_SYSTEM.md`, and `bestiary/SPIRIT_BEAST_RULES.md`. For a first ring, Mortal must have awakened their Martial Soul; no inter-ring waiting period or breakthrough bottleneck applies. For every later ring before the peak, verify the full official requirements, including the Sync progress/bottleneck condition, minimum interval, required item(s), body tolerance, and any other applicable conditions. At Spirit Realm 9, do not calculate eligibility or cooldown for a tenth ring. A physical ring being available is a separate requirement: do not mark a character ineligible solely because no target ring is currently present, but never narrate a completed absorption without a legitimately available ring.
 
 If the character is not eligible and the player still insists, do not bypass the gate or award success. Resolve only a forced attempt, using the existing deviation and HP formula in `core/SPIRIT_RING_RULES.md` and the Injury System for any injury supported by the event. Do not invent missing numerical formulas, damage, odds, or permanent disabilities. Severe or life-threatening consequences are possible when supported by the official formula and the actual event; no specific injury or death is automatic.
 
@@ -99,6 +99,26 @@ Jika T_remaining > 0:
 Pembulatan dilakukan pada sisa interval: sisa 1 jam hingga 24 jam = `1 Day left`; sisa lebih dari 24 jam hingga 48 jam = `2 Day left`. Angka hanya menjadi `0 Day left` saat `T_eligible >= T_min`. Jangan mengurangi satu hari penuh hanya karena giliran berganti atau tanggal kalender berubah.
 
 Jika karakter **belum pernah berhasil menyerap Spirit Ring**, jeda antarpenyerapan belum dimulai dan belum berlaku: tampilkan `??? Day left` di dalam field `Spirit Ring Absorption`. Ini berlaku baik untuk karakter yang belum Awakening maupun yang sudah Awakening tetapi belum memiliki ring pertama. Dalam kondisi ini, `???` bukan data cooldown yang hilang; tidak ada cooldown yang perlu dihitung. Setelah penyerapan pertama berhasil, langsung inisialisasi `Day left` dari `T_min` dan `T_eligible = 0`; jangan gunakan `???` atau `Belum ditetapkan` untuk penyerapan yang baru berhasil. Gunakan `Belum ditetapkan Day left` hanya untuk state lama yang **pernah memiliki penyerapan berhasil** tetapi catatan waktu/riwayatnya tidak cukup untuk merekonstruksi cooldown secara andal. Jangan menebak atau menganggap cooldown selesai. Untuk ring kedua hingga kesembilan, `Day left = 0` adalah gerbang wajib yang terpisah dari Sync/bottleneck, ketersediaan ring, item, toleransi tubuh, dan syarat resmi lainnya.
+
+## Status Kanonis Spirit Ring Absorption
+
+Status ditentukan oleh tahap karakter terlebih dahulu, lalu kelayakan proses penyerapan berikutnya. Tampilkan **tepat satu status**, jangan menampilkan alternatif sekaligus, dan jangan menambahkan alasan/label lain di dalam field profil.
+
+- **Mortal, tidak sedang menjalani Awakening:** `Spirit Ring Absorption: not eligible yet`
+- **Proses Martial Soul Awakening sedang berlangsung:** `Spirit Ring Absorption: pending`
+- **Awakening selesai, belum pernah menyerap ring pertama, syarat ring pertama terpenuhi:** `Spirit Ring Absorption: eligible | ??? Day left`
+- **Awakening selesai, belum pernah menyerap ring pertama, syarat ring pertama belum terpenuhi:** `Spirit Ring Absorption: not eligible yet | ??? Day left`
+- **Spirit Realm 1–8, syarat penyerapan berikutnya belum lengkap:** `Spirit Ring Absorption: not eligible yet | N Day left`
+- **Spirit Realm 1–8, seluruh syarat karakter/proses penyerapan berikutnya terpenuhi:** `Spirit Ring Absorption: eligible | 0 Day left`
+- **Spirit Realm 9 (Spirit Primordial), batas puncak sistem:** `Spirit Ring Absorption: max | ∞ Day left`
+
+Aturan:
+- `pending` hanya digunakan selama proses Awakening benar-benar berlangsung, bukan sekadar karena karakter belum Awakening.
+- Untuk Mortal yang tidak sedang menjalani Awakening, tampilkan hanya `Spirit Ring Absorption: not eligible yet`; jangan tambahkan Day left.
+- Setelah Awakening selesai tetapi sebelum penyerapan pertama berhasil, `Day left` adalah `???` karena jeda belum dimulai. Awakening sendiri tidak otomatis memberikan ring atau membuat status `eligible`.
+- Pada Spirit Realm 1–8, cooldown positif berarti `not eligible yet`. Cooldown nol hanyalah satu gerbang; status `eligible` hanya jika seluruh syarat resmi lain terpenuhi. Ketersediaan ring fisik tetap terpisah dari kelayakan karakter/proses.
+- Spirit Realm 9 selalu `max | ∞ Day left`. Sembilan slot adalah batas sistem; jangan hitung cooldown ke ring kesepuluh, jangan tampilkan `eligible`, dan jangan menambahkan Spirit Realm atau slot kesepuluh tanpa revisi canon eksplisit pemilik.
+- `Belum ditetapkan Day left` hanya untuk save lama yang diketahui pernah menyerap ring tetapi riwayat waktunya tidak cukup untuk merekonstruksi cooldown. Jangan gunakan untuk Mortal, Awakening, karakter yang belum pernah menyerap ring, atau Spirit Realm 9.
 
 ## 8. Required Continuity Check
 

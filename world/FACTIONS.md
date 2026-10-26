@@ -171,6 +171,7 @@ Two established hidden groups dwell among remote peaks above the sea of clouds, 
 - Do not invent faction membership, rank, secret identity, alliance, feud, or current orders as established fact.
 - Faction descriptions are general tendencies and areas of influence, not rules that every member behaves identically.
 - NPCs should act according to their established knowledge, personality, role, and current interests.
+- Social reactions to a person's Spirit Ring configuration follow `world/NPC_MANAGEMENT.md` §6A: use only information the NPC can know, allow differences between ordinary observers and qualified experts, and apply regional outlook only where the NPC's actual training or background supports it.
 - Faction reputation is not universal knowledge. A character must have a plausible source for knowing it.
 - Political power, military strength, personal combat power, economic influence, and information networks are distinct.
 - New factions or relationships may become canon through explicit owner approval or recorded gameplay, but must not be retroactively inserted into prior events.

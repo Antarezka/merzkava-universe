@@ -91,7 +91,7 @@ The following multipliers are the default quality-price multipliers. Tier 1 is t
 | Tier 8 | Peak quality: extraordinary quality | ×6.60 |
 | Tier 9 | Legendary quality: highest category in this classification | ×8.50 |
 
-These are economic quality categories, not Spirit Realms, Spirit Beast tiers, Spirit Ring tiers, or automatic measures of combat power. Tier 9 does not automatically mean the item is scarce or unique.
+These are economic quality categories, not Spirit Realms, Spirit Beast tiers, Spirit Ring tiers, or automatic measures of combat power. Tier 9 does not automatically mean the item is scarce or unique. When an item's tier is missing or disputed, use `core/TIER_ASSESSMENT_AND_APPRAISAL.md`; a valid MAA appraisal is authoritative for the examined item, while a GM estimate must remain explicitly labeled as provisional. Never infer scarcity or price from tier alone.
 
 An item’s base price is specific to its type, size, condition, freshness, function, and region of origin. Items of the same quality tier can have different base prices.
 
@@ -197,6 +197,10 @@ The destination examples carry the same source-scarcity surcharge for illustrati
 7. Keep the character profile's currency balances in the required compact format: `Wallet (wealth): 0 xc | 0 xs | 0 xg | 0 zj | 0 az` only if a valid starting balance has not yet been established. For a new registered character, establish the one-time bootstrap balance before the first gameplay profile; then show the exact recorded balances.
 8. The currency abbreviations defined in §1 are official. The character profile template must not duplicate their definitions.
 
+
+### Tier Verification for Goods and Appraisal Services
+
+Before pricing, buying, selling, consuming, or recording an item, check its official tier in the relevant canon source. If no definitive tier exists, follow `core/TIER_ASSESSMENT_AND_APPRAISAL.md`. Use a completed Merzkava Appraisal Authority (MAA) ruling as the authoritative tier for that exact examined item. Until then, use a clearly labeled GM prediction only when enough evidence exists; otherwise record `Tier belum ditetapkan — appraisal diperlukan`. Do not invent appraisal fees, taxes, or service charges: use an established local price or resolve the service's actual terms before changing Wallet. A tier assessment does not itself create a purchase, sale, ownership transfer, or price.
 
 ### Mandatory Transaction Log / Ledger
 

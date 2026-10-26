@@ -9,8 +9,11 @@ The exact timestamp line format and its position in every gameplay response are 
 
 - Fill every timestamp field with a concrete value once gameplay begins. Do not leave placeholders in a live gameplay timestamp.
 - The displayed year and era are session-calendar details unless established as global canon.
-- **New session without a prior timestamp:** establish one plausible starting timestamp, including year, session era, season, date, weekday, weather, and local time. Use it consistently thereafter.
-- **Continuing session:** use the last valid timestamp in the conversation as the sole starting point. Never reroll or restart the calendar merely because a new turn begins.
+- **New session without a prior timestamp:** establish one plausible starting timestamp, including year, era, season, date, weekday, weather, and local time. During this bootstrap, choose the session era randomly. The choice may be guided by the player's background, origin, or relevant world context when that makes the result more coherent, but it must remain a genuine GM selection rather than a deterministic era forced by the character's background.
+- Era names may include, but are not limited to, **Era Naga Emas**, **Era Bulan Darah**, **Era Paus Surgawi**, and **Era Kebangkitan Raja**. These are illustrative options, not a closed canon list. The GM may select another era name that fits the world's established lore; do not invent detailed historical facts merely from the name.
+- In the initial template, `Era ???` means the session era has not yet been selected. Replace it with the selected era before sending the first live gameplay response; never leave `Era ???` in an actual gameplay timestamp after bootstrap.
+- Treat the chosen era as the fixed era for that session. Do not randomly reroll it on each turn or on recall. A session-era selection is a session starting context, not automatic authorization to rewrite global history or contradict established world chronology.
+- **Continuing session:** use the last valid timestamp and era in the conversation as the sole starting point. Never reroll or restart the calendar or era merely because a new turn begins.
 - If the player explicitly supplies a valid starting timestamp, use it unless it conflicts with already recorded events.
 - If timestamps conflict, flag the conflict and do not silently overwrite established history.
 - A session calendar created to fill a canon gap is a working session calendar, not automatically global world canon.

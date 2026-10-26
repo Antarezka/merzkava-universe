@@ -265,7 +265,7 @@ Item-ledger requirements:
 
 The money and item ledgers above are mandatory audit records. In addition, the player must see a concise transaction log in the gameplay response whenever an actual transaction or item/asset state change occurs.
 
-**Required response order:** immersive narrative first → visible `LEDGER LOG` → brief confirmation/status → updated canonical character profile. The narrative describes what happened in-world; the ledger records the verified mechanical consequences. If no money, item, or asset changed, omit the visible log entirely.
+**Required response order:** natural in-world narrative that names the relevant change → inline-code `Log tersimpan!` after the relevant sentence, only once the result is verified → visible `LEDGER LOG` → updated canonical character profile. The narrative describes what happened in-world, including known item name, quantity, tier/quality, source/recipient, and income/expense type or amount when relevant; the ledger records the full verified mechanical consequences. Do not add a separate confirmation line if `Log tersimpan!` is present and the ledger is verified. If no relevant money, item, equipment, loot, or asset state changed, omit both marker and visible log entirely. The marker confirms a session-ledger entry, not a GitHub write.
 
 Use the mobile-friendly format below and include only the fields relevant to the event. Do not replace unknown values with invented details; state that a value cannot be verified when necessary.
 

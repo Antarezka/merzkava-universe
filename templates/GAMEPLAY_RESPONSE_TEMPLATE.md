@@ -19,7 +19,7 @@ NARASI
 
 ╭─ LEDGER LOG · #[ID]
 │ [Waktu] · [Berhasil/Gagal/Dibatalkan]
-│ Item: [nama] · Tier [status] ×[jumlah] → [Inventory akhir]
+│ Item: [nama · kualitas/tier jika diketahui atau relevan] ×[jumlah] → [Inventory akhir]
 │ Uang: [saldo awal] → [perubahan] → [saldo akhir]
 │ Satiety: [awal] → [±perubahan] → [akhir]
 ╰─

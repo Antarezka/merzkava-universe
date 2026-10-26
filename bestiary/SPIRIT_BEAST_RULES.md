@@ -31,9 +31,13 @@ dengan `A` = umur Beast dalam tahun. Cocokkan umur dengan tabel; jangan mengubah
 | 8 | 200.000–499.999 tahun |
 | 9 | 500.000 tahun ke atas; rentang lazim dapat mencapai sekitar 4.000.000 tahun dan lebih |
 
-**Age Grade 9 tidak memiliki batas maksimum tetap.** Beast berumur lebih dari 4 juta tahun tetap berada pada Age Grade 9; angka 4 juta bukan batas keras. Contoh kanonis: Heavenly Beast di Azerion Forest berumur **7.290.422 tahun**, sehingga masuk **Age Grade 9**. Beast ini adalah Beast yang mampu melukai Beiming Han ketika Beiming Han masih berstatus Demonic Beast. Fakta itu tidak mengubah arti Age Grade 9 dan tidak menjadikan Age Grade sebagai kategori Beast.
+**Age Grade 9 tidak memiliki batas maksimum tetap.** Beast berumur lebih dari 4 juta tahun tetap berada pada Age Grade 9; angka 4 juta bukan batas keras. Contoh kanonis: Heavenly Beast di Azerion Forest berumur **7.290.422 tahun**, sehingga masuk **Age Grade 9**. Beast ini adalah Beast yang mampu melukai Beiming Han ketika Beiming Han masih berstatus Demonic Beast. Pada usia tersebut, ia belum melewati ambang 15.000.000 tahun untuk klasifikasi Heaven Realm. Fakta itu tidak mengubah arti Age Grade 9 dan tidak menjadikan Age Grade sebagai kategori Beast.
 
-Age Grade juga tidak sama dengan warna Spirit Ring. Tentukan warna ring dari tabel warna resmi di `core/SPIRIT_RING_RULES.md`; tentukan Age Grade Beast dari tabel ini. Keduanya boleh berbeda karena batas klasifikasinya memang berbeda.
+### Ambang Heaven Realm
+
+Makhluk yang berusia **lebih dari 15.000.000 tahun** dipandang sebagai makhluk **Heaven Realm**, ranah para dewa yang kekuatannya berada di atas Spirit Primordial. Ini merupakan klasifikasi kedudukan/ranah makhluk, bukan Age Grade baru: usianya tetap masuk **Age Grade 9**. Jangan menganggap semua makhluk Age Grade 9 berasal dari Heaven Realm; usia aktual harus melewati ambang tersebut.
+
+Age Grade juga tidak sama dengan warna Spirit Ring. Tentukan warna ring dari tabel warna resmi di `core/SPIRIT_RING_RULES.md`; tentukan Age Grade Beast dari tabel ini. Spirit Ring dari makhluk berusia 500.000 hingga 15.000.000 tahun mengikuti rentang warna yang ditetapkan di modul tersebut. Warna Spirit Ring dari makhluk Heaven Realm di atas 15.000.000 tahun belum ditetapkan dan tidak boleh ditebak.
 
 ## 1.1 Estimating Hunt Danger Without Invented Odds
 

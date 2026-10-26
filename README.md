@@ -78,6 +78,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
+- ✦ **Spirit Ring Color Bands and the Heaven Realm Threshold**  
+  Spirit Ring colors now have canonical age bands through 15,000,000 years: Maroon at 500,000; Gold at 1,000,000; Purple at 2,000,000; Pink at 4,000,000; and Dark Vienna at 7,000,000–15,000,000 years. Beings older than 15,000,000 years are regarded as Heaven Realm beings, above Spirit Primordial power. Dark Vienna uses the reference color #1E203E; ring colors above that age remain unspecified.
+
 - ✦ **Beast Age Grade Formula and Open-Ended Age Grade 9**  
   Beast Age Grade is calculated from the specimen's actual age using one canonical table. Age Grades classify age only—not Beast categories, Spirit Realm, or appraisal strength grades. Age Grade 9 begins at 500,000 years and has no hard upper limit; the 7,290,422-year Heavenly Beast of Azerion Forest remains Age Grade 9. Spirit Ring color is assessed separately.
 

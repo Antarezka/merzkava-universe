@@ -23,7 +23,7 @@ Beiming Han is the highest known figure of Beiming Gu and is known by the title 
 - Martial Soul: Blue-Flame Silver Tiger.
 - Signature flames: Blue flames. These are distinct from Beiming Xenhwa's white flames.
 - Relative standing: The strongest Spirit Primordial cultivator of the current era, according to owner-approved canon.
-- Spirit Rings and abilities, techniques, equipment, injuries, and limitations: Not established.
+- **Canonical Spirit Ring configuration (confirmed):** slot 1 — 50,000 years (Red); slot 2 — 50,000 years (Red); slot 3 — 50,000 years (Red); slot 4 — 100,000 years (Gold); slot 5 — 500,000 years (color undefined); slot 6 — 500,000 years (color undefined); slot 7 — 1,000,000 years (color undefined); slot 8 — 1,000,000 years (color undefined); slot 9 — 1,000,000 years (color undefined). Total ring age: 4,250,000 years. Color mapping above 499,999 years is not established; do not infer or invent colors. Specific ring abilities, techniques, equipment, injuries, and other limitations remain unestablished.
 - Source modules for mechanics: `core/CULTIVATION_SYSTEM.md`; `core/MARTIAL_SOUL.md`.
 
 ## 4. Motivations and Agency

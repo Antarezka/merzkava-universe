@@ -87,7 +87,7 @@ Tujuan Saat Ini: ...
 
 ✦ Enjoy your convo, player! ✦
 
-Aksiku : --
+Tentukan Aksimu : --
 ```
 
 ## Aturan Penerapan

@@ -77,7 +77,7 @@ If the character is not eligible and the player still insists, do not bypass the
 
 `Day left` is a narrow exception used only to display the minimum interval between successful Spirit Ring absorptions. It is not a general countdown for cultivation breakthrough, training, or other activities. The canonical profile line is `Spirit Ring Absorption: ... | ... Day left`; calculate the countdown only from the number of successfully absorbed rings and the last successful Spirit Ring absorption timestamp, using the applicable minimum interval in `bestiary/SPIRIT_BEAST_RULES.md`.
 
-`Day left` is a narrow exception used only to display the minimum interval between successful Spirit Ring absorptions. It is not a general countdown for cultivation breakthrough, training, or other activities. When the canonical profile line includes `Breakthrough: ... | ... Day left`, calculate this value only from the number of successfully absorbed rings and the last successful Spirit Ring absorption timestamp, using the applicable minimum interval in `bestiary/SPIRIT_BEAST_RULES.md`.
+
 
 - Use elapsed in-world time from recorded timestamps, not the number of turns or real-world time.
 - If positive time remains, round up to the next whole 24-hour unit. For example, 1 hour remaining = 1 Day left; 24 hours remaining = 1 Day left; 25 hours remaining = 2 Day left. This is a duration countdown, not a count of calendar-date changes.

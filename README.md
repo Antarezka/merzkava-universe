@@ -54,7 +54,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![WORLD UPDATE LOG](https://img.shields.io/badge/WORLD_UPDATE_LOG-FFFFFF?style=for-the-badge&labelColor=151515)
 
-<sub>WORLD ARCHIVE · v0.4.91</sub>
+<sub>WORLD ARCHIVE · v0.4.92</sub>
 
 **✦ ──── ❖ ──── ✦**
 
@@ -66,16 +66,19 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
+- ✦ **GM Action Prompt Distinguished from Player Invocation**  
+  The canonical gameplay response now ends with “Tentukan Aksimu : --”, distinct from the player's “Aksiku” input line.
+
 - ✧ **Unified Item Pricing Formula Consolidated**  
   Item prices now use one master formula combining quality tier, item condition, seasonal scarcity, demand, distribution, and destination-market adjustments without double-counting factors.
 
-- ✦ **Gameplay Format Cleaned Up**  
+- ❖ **Gameplay Format Cleaned Up**  
   Removed the obsolete mode label while preserving the rule against numbered choice menus and keeping the canonical response layout unchanged.
 
-- ❖ **Player RAW Bootstrap Links Normalized**  
+- ⟡ **Player RAW Bootstrap Links Normalized**  
   Registered player RAW links in `players.md` use the agreed `?v=2` cache parameter.
 
-- ⟡ **Martial Soul Rarity Kept Separate from Tier 1–9**  
+- ✧ **Martial Soul Rarity Kept Separate from Tier 1–9**  
   INDEX and Authority Order clarify that universal Tier 1–9 assessment applies to items, artifacts, and Beasts—not Martial Soul rarity.
 
 - ✧ **Independent Martial Soul Quality Appraisal Preserved**  

@@ -24,7 +24,7 @@
 
 ## 3. Capabilities
 - Spirit Realm / Stage: Spirit Realm 8 — Spirit Sovereign; Stage not established.
-- Martial Soul: Kartikeya — Myth Tier.
+- Martial Soul: Kartikeya — Myth.
 - Thinker Grade / specialty: Thinker Grade 9; specialist in utility applications related to infrastructure and armory systems.
 - Established power themes: Illusions, disguise, and temperature perception.
 - Ability limits: The precise mechanics, range, cost, duration, countermeasures, and limitations of these powers are not established here. Do not treat illusion as omnipotence, disguise as automatically undetectable, or temperature perception as omniscience.

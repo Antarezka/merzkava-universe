@@ -1,6 +1,6 @@
 # Merzkava Universe — Universal Tier Assessment & Appraisal
 
-**Authority:** This module governs assessment of an item's or creature's tier only when its official tier is missing, uncertain, or disputed. It does not overwrite a tier already established by canon.
+**Authority:** This module governs fallback assessment of goods, artifacts, creatures, and the worldwide appraisal authority. Martial Soul score calculation and its integration with awakening rarity/mutation chances are governed separately by `core/MARTIAL_SOUL_AWAKENING.md`. It does not overwrite a tier already established by canon.
 
 ## 1. Priority Order
 
@@ -34,7 +34,7 @@ Use a total from **0–134 points**. Score each of the nine dimensions from **0�
 - If fewer than three dimensions have reliable evidence, do not issue a numerical prediction. Mark **Tier belum ditetapkan — bukti belum cukup; appraisal diperlukan**.
 - Do not double-count one feat across several dimensions. Record the evidence behind each score.
 - For beasts, assess demonstrated capability, threat, defenses, range, behavior, and special abilities; the name/category alone does not determine a score. For items, assess actual function, effectiveness, construction, stability, operation, and verified properties.
-- This score is a fallback classification aid, not a combat formula, economic price formula, Spirit Realm, Spirit Ring tier, Thinker Grade, age rating, or rarity/quantity rating.
+- This score is a fallback classification aid, not a combat formula, economic price formula, Martial Soul tier, Spirit Realm, Spirit Ring tier, Thinker Grade, age rating, or rarity/quantity rating.
 
 ## 3. Tier Bands
 
@@ -59,7 +59,8 @@ The worldwide institution is the **Merzkava Appraisal Authority (MAA)**, commonl
 The MAA examines and classifies:
 - food, medicine, herbs, materials, equipment, loot, and other goods;
 - Relics, Ancient Artifacts, Artificial Artifacts, and unidentified objects;
-- beasts and specimens, including ordinary beasts, rare or mutated beasts, corrupted beasts, Spirit Beasts, Demonic Beasts, Heavenly Beasts, and any other canon-recognized type.
+- beasts and specimens, including ordinary beasts, rare or mutated beasts, corrupted beasts, Spirit Beasts, Demonic Beasts, Heavenly Beasts, and any other canon-recognized type;
+- Martial Souls, referred to the specialist procedure in `core/MARTIAL_SOUL_AWAKENING.md` rather than the generic goods/beast score.
 
 ### Appraisal procedure
 1. Register the specimen/item and its provenance when known.
@@ -69,7 +70,7 @@ The MAA examines and classifies:
 5. For dangerous, divine, concealed, sentient, or high-risk objects/specimens, apply containment and specialist referral appropriate to the established scene; do not invent a guaranteed safe test.
 
 ### Authority of a completed ruling
-A valid MAA ruling is the **highest-priority classification for the specific examined subject** when prior canon had no definitive tier or was explicitly uncertain. In gameplay, characters, markets, guilds, institutions, and GM logs must use that ruling as the established tier. It cannot be casually contradicted by a seller, rumor, or fresh GM estimate.
+A valid MAA ruling is the **highest-priority classification for the specific examined subject** when prior canon had no definitive tier or was explicitly uncertain. For Martial Souls, the examiner must use the dedicated Martial Soul method in `core/MARTIAL_SOUL_AWAKENING.md`; the MAA must not derive Martial Soul tier from the rarity chance draw or the generic item/beast score. In gameplay, characters, markets, guilds, institutions, and GM logs must use that ruling as the established tier. It cannot be casually contradicted by a seller, rumor, or fresh GM estimate.
 
 The ruling does not grant ownership, prove lawful provenance, reveal every hidden function, guarantee safety, or override unrelated mechanics. If strong new evidence suggests fraud, specimen substitution, contamination, a damaged state, or examiner error, record the discrepancy and seek formal re-examination; do not silently discard the ruling. Existing owner-confirmed canon remains unchanged unless the owner explicitly revises it.
 

@@ -55,17 +55,12 @@ Penduduk juga dapat mendatangi pusat kota di wilayah masing-masing untuk menggun
 - Martial Soul berbentuk pedang dapat membuka beragam kemungkinan karier, tetapi hasil akhirnya tetap bergantung pada latihan, pilihan, keadaan, dan pengalaman karakter.
 - Martial Soul berbentuk tumbuhan, hewan biasa, serta bentuk lain juga dapat muncul. Jangan menganggap bentuk yang tampak sederhana tidak berguna atau pasti lemah.
 
-### 2.4 High-Tier and Mythical Beast Martial Souls
+### 2.4 Martial Souls with Exceptional or Mythical Forms
 
-Martial Soul berbentuk hewan dapat mencakup makhluk biasa hingga makhluk mitos dengan tingkatan yang sangat tinggi, termasuk **Tier 7 Peak ke atas**. Untuk Martial Soul yang tier-nya belum ditetapkan, gunakan penilaian khusus dalam `core/MARTIAL_SOUL_AWAKENING.md`; jangan memakai tier Beast, Spirit Realm, atau rarity chance sebagai pengganti tier Martial Soul.
+Martial Soul berbentuk hewan dapat berupa makhluk biasa maupun makhluk mitos. Gunakan hanya kategori rarity resmi **Common, Uncommon, Rare, Epic, Legendary, dan Myth** ketika rarity awakening telah ditentukan. Bentuk mitos atau nama yang megah tidak otomatis menetapkan rarity; ikuti hasil undian resmi atau ruling appraisal yang sah.
 
-- Martial Soul Beast tingkat tinggi sangat disegani karena tiga penguasa utama dunia saat ini masing-masing memiliki Martial Soul Beast tingkat tinggi.
-- Ketiga contoh penguasa tersebut adalah:
-  - Golden Dragon Empire — Golden Dragon Martial Soul.
-  - Tianhai Yunzhou — Celestial Whale Martial Soul.
-  - Beiming Gu — Blue Flame Silver Tiger Martial Soul.
-- Keberadaan contoh tersebut menjelaskan mengapa Martial Soul Beast tingkat tinggi dipandang istimewa; hal itu tidak berarti setiap Martial Soul Beast langka, setiap pemiliknya akan menjadi penguasa, atau semua Martial Soul Beast memiliki kekuatan setara.
-- Peluang setiap kategori rarity awakening ditetapkan dalam `core/MARTIAL_SOUL_AWAKENING.md`. Namun, peluang munculnya bentuk Martial Soul tertentu dan hubungan pasti antara bentuk tertentu, rarity chance, serta tier tidak ditetapkan secara otomatis. Gunakan undian rarity di `core/MARTIAL_SOUL_AWAKENING.md` tanpa mengubah peluang berdasarkan jenis, nama, wilayah, atau garis keturunan; jika perlu, nilai kualitas inheren secara terpisah melalui formulasi skor di modul yang sama; jangan mengubah istilah rarity menjadi Tier 1–9.
+- Martial Soul Beast yang sangat kuat dapat dimiliki tokoh penting, tetapi kekuatan, kemampuan, dan hasil pertarungan tetap harus didukung canon atau bukti yang telah ditetapkan.
+- Tiga penguasa utama dunia memiliki Martial Soul Beast yang termasuk contoh penting dalam lore. Kategori rarity tiap Martial Soul harus mengikuti catatan canon yang sudah diselaraskan; jangan memakai istilah tier numerik sebagai rarity.
 
 ### 2.5 Awakening sebagai Layanan Masyarakat
 

@@ -1,7 +1,7 @@
 # Merzkava Universe — Martial Soul Awakening Protocol
 
 Status: Modul mekanik resmi.
-Cakupan: penentuan rarity Martial Soul saat awakening, peluang mutasi, pilihan pemain, prosedur resolusi, dan batas perilaku GM.
+Cakupan: penentuan rarity dan tier Martial Soul saat awakening, peluang mutasi, pilihan pemain, prosedur resolusi, dan batas perilaku GM.
 
 Modul ini adalah sumber mekanik utama untuk proses awakening dan mutasi Martial Soul. `core/MARTIAL_SOUL.md` tetap menjadi sumber karakteristik, lore, serta interpretasi umum Martial Soul. Jika ada pertentangan mengenai peluang atau prosedur awakening, modul ini yang berlaku untuk bagian tersebut.
 
@@ -11,7 +11,7 @@ Modul ini adalah sumber mekanik utama untuk proses awakening dan mutasi Martial 
 
 1. Awakening mengungkap Martial Soul seseorang; awakening tidak otomatis memberikan Spirit Ring.
 2. Awakening berlangsung pada usia empat tahun atau lebih.
-3. Hasil rarity dan peluang mutasi wajib ditentukan dengan prosedur acak yang adil. GM tidak boleh memilih hasil hanya karena cocok dengan cerita, karakter, atau keinginan pemain.
+3. Hasil rarity dan peluang mutasi wajib ditentukan dengan prosedur acak yang adil; penilaian tier adalah proses terpisah berbasis canon/bukti, bukan undian chance. GM tidak boleh memilih hasil hanya karena cocok dengan cerita, karakter, atau keinginan pemain.
 4. Rarity Martial Soul bukan pengganti Spirit Realm, Spirit Ring, kemampuan bertarung, pengalaman, atau profesi. Rarity yang lebih tinggi tidak otomatis berarti menang dalam pertarungan.
 5. Bentuk, atribut, kemampuan, batas, dan efek suatu Martial Soul harus memiliki dasar yang dapat dijelaskan. GM tidak boleh menciptakan kemampuan luar biasa hanya berdasarkan rarity.
 6. Jika mekanisme pengacakan yang benar-benar acak tidak tersedia, GM harus menyatakan keterbatasan itu dan tidak mengaku telah melakukan pengundian acak yang tidak terjadi.
@@ -48,6 +48,64 @@ Rarity awal ditentukan dengan satu undian yang merata dari rentang 1–100. Seti
 - Jangan mengubah peluang berdasarkan status sosial, garis keturunan, wilayah, kekayaan, usia, atau kepentingan plot kecuali aturan resmi kelak secara eksplisit mengubah tabel ini.
 - Kategori rarity mengukur kelas kelangkaan awakening. Rarity bukan jaminan bahwa Martial Soul tertentu memiliki atribut, kemampuan, atau kekuatan spesifik.
 
+## 2A. Independent Martial Soul Tier Assessment (Score-Based)
+
+**This section determines the Martial Soul's inherent tier. It is separate from the rarity chance table in Section 2 and the mutation chance in Section 4.** All three belong to one awakening protocol, but they answer different questions:
+
+- **Rarity draw (Section 2):** how rare the awakening classification is: Common, Uncommon, Rare, Epic, Legendary, or Myth.
+- **Tier score (this section):** the Martial Soul's assessed inherent classification, expressed as Tier 1–9 and its established tier title where applicable.
+- **Mutation draw (Section 4):** whether a mutation occurs after the player chooses to continue; it does not determine rarity or tier by itself.
+
+Never convert a rarity percentage into tier points, and never use the tier score to alter the chance table. A Myth rarity result is not automatically Tier 9; a Common result is not automatically Tier 1. If an exact Martial Soul and its tier are already established in canon, preserve that classification and do not recalculate it.
+
+### Assessment dimensions
+
+Score each applicable dimension from 0–15 using established lore, confirmed traits, demonstrated function, or reliable appraisal evidence. Do not award points merely because the name sounds grand, the form is mythical, the owner has a powerful family, or the result would be dramatic.
+
+| Dimension | Martial Soul evidence to assess |
+|---|---|
+| 1. Core potential | Demonstrated or canonically established ceiling of its own nature |
+| 2. Primary function | Practical effect of the Martial Soul itself, not powers it has not gained |
+| 3. Potency | Strength or efficiency of confirmed innate effects |
+| 4. Scope | Reach, area, targets, or scale supported by evidence |
+| 5. Versatility | Number of distinct uses genuinely supported by its traits |
+| 6. Control and stability | Precision, reliability, and control supported by evidence |
+| 7. Growth capacity | Supported potential to develop through legitimate cultivation and compatible Spirit Rings |
+| 8. Exceptional traits | Verified unusual properties not already scored elsewhere |
+| 9. Evidence and provenance | Reliable records, repeatable tests, or authenticated classification evidence |
+
+Each applicable dimension uses the same rubric: 0 = tested/verified negligible; 1–3 = minor; 4–6 = limited; 7–9 = substantial; 10–12 = very high; 13–15 = exceptional within a relevant comparison class. Mark a genuinely irrelevant dimension N/A and exclude it from the average; unknown evidence is not a zero. Avoid counting the same trait twice.
+
+**Formula:** add the scores of applicable dimensions, divide by the number of applicable dimensions to get the mean, multiply the mean by 9, then round to the nearest whole number. Cap the result at 134. At least three dimensions must have reliable evidence; otherwise, do not issue a numerical prediction and mark **Tier belum ditetapkan — appraisal diperlukan**.
+
+### Martial Soul score bands
+
+| Score | Assessed Martial Soul tier |
+|---:|---|
+| 0–14 | Tier 1 |
+| 15–29 | Tier 2 |
+| 30–44 | Tier 3 |
+| 45–59 | Tier 4 |
+| 60–74 | Tier 5 |
+| 75–89 | Tier 6 |
+| 90–104 | Tier 7 — Peak classification begins at this tier |
+| 105–119 | Tier 8 |
+| 120–134 | Tier 9 |
+
+Existing canon titles such as **Myth Tier** remain exactly as recorded for Martial Souls already assigned that title. Where canon explicitly identifies a Martial Soul as **Tier 7 Peak** or another named classification, preserve that wording; do not silently rewrite it into a different label. This table supplies a fallback for unclassified Martial Souls, not permission to rename existing canon. If a new tier title or a mapping between **Myth Tier** and a numeric tier is not explicitly established for the subject, keep the established title and numeric tier separate until an authorized appraisal/canon decision confirms the mapping.
+
+### Awakening resolution order with tier assessment
+
+1. Confirm eligibility and the awakening event.
+2. Establish the base Martial Soul form from known, legitimate character/family evidence; do not invent a lineage.
+3. Perform the single 1–100 rarity draw from Section 2.
+4. Assess the inherent tier from established canon first; if no tier is recorded, use this score method only when evidence is sufficient. Record a provisional result as **Prediksi GM · [score] poin**. A score does not itself become official canon.
+5. Present the mandatory mutation-anomaly narrative and let the player choose whether to stop or continue.
+6. If the player stops, finalize the base Martial Soul with its already determined rarity and tier assessment; do not roll mutation.
+7. If the player continues, perform exactly one mutation draw at 10%. Mutation may change traits and therefore may warrant reassessment, but do not automatically raise or lower the tier. Reassess only from the actual resulting traits and available evidence; do not reroll rarity or mutation.
+8. If evidence is too limited or mutation effects are not mechanically established, preserve unknown details and request appraisal rather than fabricating a score or effect.
+
+A completed **Merzkava Appraisal Authority (MAA)** ruling is authoritative for the specific examined Martial Soul when its tier was previously unknown or uncertain. It does not change the rarity draw, grant abilities, establish lineage, guarantee combat victory, or override an already definitive owner-confirmed canon decision.
 ## 3. Urutan Wajib Awakening
 
 GM harus mengikuti urutan ini setiap kali karakter menjalani awakening yang hasilnya sedang dimainkan:
@@ -122,7 +180,7 @@ GM wajib menjaga hal-hal berikut:
 - Keputusan berhenti atau bertahan hanya dibuat oleh pemain.
 - Peluang mutasi selalu 10% dan hanya satu undian per keputusan bertahan.
 - Tidak ada reroll, pengundian tersembunyi berulang, peluang yang berubah-ubah, atau hasil yang dipilih berdasarkan plot.
-- Hasil rarity dan mutasi tidak otomatis memberikan Spirit Realm, Stage, Qi, Spirit Ring, teknik, garis keturunan, atau kemenangan.
+- Hasil rarity, tier, dan mutasi tidak otomatis memberikan Spirit Realm, Stage, Qi, Spirit Ring, teknik, garis keturunan, atau kemenangan.
 - Catatan akhir hanya memuat hasil yang benar-benar diundi dan ditetapkan.
 - Jika terjadi konflik dengan lore umum Martial Soul, gunakan modul ini untuk prosedur, tabel peluang, dan keputusan mutasi; gunakan `core/MARTIAL_SOUL.md` untuk lore serta karakteristik umum.
 
@@ -131,6 +189,7 @@ GM wajib menjaga hal-hal berikut:
 Untuk tingkat kultivasi, gunakan istilah kanonis **Spirit Realm** dari `core/CULTIVATION_SYSTEM.md`. Rarity awakening tidak menetapkan Spirit Realm, dan `Mortal` bukan Spirit Realm 0.
 
 - `core/MARTIAL_SOUL.md` — definisi Martial Soul, contoh bentuk, penguasaan awal alat, dan lore.
+- `core/TIER_ASSESSMENT_AND_APPRAISAL.md` — lembaga MAA dan prinsip otoritas appraisal; skor khusus Martial Soul serta integrasinya dengan chance awakening diatur di modul ini.
 - `core/CULTIVATION_SYSTEM.md` — Spirit Realm dan Stage; rarity awakening tidak menggantikannya.
 - `core/SPIRIT_RING_RULES.md` — perolehan dan penyerapan Spirit Ring; awakening tidak memberikan ring.
 - `templates/AUTHORITY_ORDER.md` — prosedur GM dan larangan mengarang atau mengambil keputusan pemain.

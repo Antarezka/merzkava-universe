@@ -57,7 +57,7 @@ Penduduk juga dapat mendatangi pusat kota di wilayah masing-masing untuk menggun
 
 ### 2.4 High-Tier and Mythical Beast Martial Souls
 
-Martial Soul berbentuk hewan dapat mencakup makhluk biasa hingga makhluk mitos dengan tingkatan yang sangat tinggi, termasuk **Tier 7 Peak ke atas**.
+Martial Soul berbentuk hewan dapat mencakup makhluk biasa hingga makhluk mitos dengan tingkatan yang sangat tinggi, termasuk **Tier 7 Peak ke atas**. Untuk Martial Soul yang tier-nya belum ditetapkan, gunakan penilaian khusus dalam `core/MARTIAL_SOUL_AWAKENING.md`; jangan memakai tier Beast, Spirit Realm, atau rarity chance sebagai pengganti tier Martial Soul.
 
 - Martial Soul Beast tingkat tinggi sangat disegani karena tiga penguasa utama dunia saat ini masing-masing memiliki Martial Soul Beast tingkat tinggi.
 - Ketiga contoh penguasa tersebut adalah:
@@ -65,7 +65,7 @@ Martial Soul berbentuk hewan dapat mencakup makhluk biasa hingga makhluk mitos d
   - Tianhai Yunzhou — Celestial Whale Martial Soul.
   - Beiming Gu — Blue Flame Silver Tiger Martial Soul.
 - Keberadaan contoh tersebut menjelaskan mengapa Martial Soul Beast tingkat tinggi dipandang istimewa; hal itu tidak berarti setiap Martial Soul Beast langka, setiap pemiliknya akan menjadi penguasa, atau semua Martial Soul Beast memiliki kekuatan setara.
-- Peluang setiap kategori rarity awakening ditetapkan dalam `core/MARTIAL_SOUL_AWAKENING.md`. Namun, peluang munculnya bentuk Martial Soul tertentu, klasifikasi rinci makhluk mitos, dan hubungan antara bentuk tertentu dengan rarity belum ditetapkan. Jangan mengarang peluang berdasarkan jenis, nama, wilayah, atau garis keturunan.
+- Peluang setiap kategori rarity awakening ditetapkan dalam `core/MARTIAL_SOUL_AWAKENING.md`. Namun, peluang munculnya bentuk Martial Soul tertentu dan hubungan pasti antara bentuk tertentu, rarity chance, serta tier tidak ditetapkan secara otomatis. Gunakan undian rarity di `core/MARTIAL_SOUL_AWAKENING.md` tanpa mengubah peluang berdasarkan jenis, nama, wilayah, atau garis keturunan; tentukan tier secara terpisah melalui canon atau formulasi skor Martial Soul di modul yang sama.
 
 ### 2.5 Awakening sebagai Layanan Masyarakat
 

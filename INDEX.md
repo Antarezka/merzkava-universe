@@ -1,22 +1,13 @@
 ## 0. Bootstrap wajib
 
-Trigger awal yang merujuk `INDEX.md` dan `players.md` berarti mulai gameplay, bukan membuat laporan.
+Trigger yang merujuk `INDEX.md` dan `players.md` berarti mulai gameplay, bukan meminta laporan bootstrap.
 
-1. Baca `README.md` untuk memperoleh **Latest pinned source**. Gunakan SHA tersebut untuk membaca ulang `INDEX.md` dan semua file sumber dari snapshot yang sama; jangan mencampur isi dari `main` dengan snapshot gameplay.
-2. Baca penuh `templates/AUTHORITY_ORDER.md`, `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`, lalu `templates/CHARACTER_PROFILE_TEMPLATE.md`.
-3. Pilih state: sesi baru memakai `players.md` lalu seluruh `players/<Nama>.md`; sesi berlanjut memakai profil gameplay terakhir dan kejadian sesudahnya; karakter baru memakai template tanpa mengarang rahasia atau kemampuan formal.
-4. Verifikasi Wallet dari Authority yang eksplisit; jika tidak ada, gunakan snapshot karakter (sesi baru) atau profil aktif (sesi berlanjut). Jika saldo tidak ditetapkan, lakukan satu undian bootstrap menurut `core/10_ECONOMY_SYSTEM.md`, catat, dan jangan undi ulang.
-5. Periksa `world/DYNAMIC_EVENTS.md` dan baca modul yang relevan dengan lokasi, waktu, kondisi, serta aksi. Jika sumber wajib gagal diakses, sebutkan path dan jangan mengaku pemeriksaan selesai.
-6. Validasi state, ledger, field, dan format sebelum respons. Mulai adegan langsung; jangan tampilkan laporan bootstrap.
-
-### State dan format
-
-- `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` adalah satu-satunya master visual respons GM; footer wajib persis `••• Tentukan Aksimu (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧`. Template player hanya untuk input, bukan format GM.
-- Wallet menggunakan urutan `xc | xs | xg | zj | az`. Kurs/transaksi dari `core/10_ECONOMY_SYSTEM.md`; Satiety dari `core/HUNGER_AND_METABOLISM.md`. Setiap aktivitas terbaru menyebut Satiety.
-- Jangan mengganti nilai tercatat, kehilangan item/aset, menebak saldo, atau membocorkan catatan GM sebagai pengetahuan karakter. Ledger perubahan state mengikuti Authority Order dan modul terkait; `Log tercatat!` bukan klaim bahwa GitHub telah diubah.
-- Spirit Ring Absorption memakai satu field `status | Day left`. Definisi status: `templates/CHARACTER_PROFILE_TEMPLATE.md`; timer: `gameplay/TIME_AND_ACTION_RULES.md` §7; interval: `bestiary/SPIRIT_BEAST_RULES.md`; syarat penyerapan: `core/SPIRIT_RING_RULES.md`.
-- Gunakan istilah **Spirit Realm** secara utuh untuk tingkat 1–9: Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, Spirit Primordial. **Mortal** adalah status dasar, bukan Spirit Realm 0.
-- Jangan menambah field tanpa persetujuan owner. `???` hanya untuk identitas karakter yang benar-benar tidak diketahui atau nama Martial Soul yang belum diketahui; nilai lain mengikuti default resmi.
+1. Baca `README.md` dan ambil **Latest pinned source**; gunakan SHA itu untuk `INDEX.md` serta sumber gameplay yang dibaca. Jangan mencampur snapshot pin dengan `main`.
+2. Baca `templates/AUTHORITY_ORDER.md`, `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`, dan `templates/CHARACTER_PROFILE_TEMPLATE.md`. Detail pemilihan state dan resolusi aksi ada di Authority Order.
+3. Tentukan state: sesi baru → `players.md` dan file `players/<Nama>.md` yang cocok; sesi berlanjut → profil gameplay terakhir beserta kejadian setelahnya; karakter baru → template dan informasi yang diberikan pemain.
+4. Verifikasi Wallet dari sumber state yang berlaku; undi bootstrap satu kali sesuai `core/10_ECONOMY_SYSTEM.md` hanya jika saldo belum ditetapkan di sumber mana pun.
+5. Periksa `world/DYNAMIC_EVENTS.md` setiap giliran, lalu baca hanya modul yang relevan dengan aksi, waktu, kondisi, dan lokasi. Jika sumber wajib gagal diakses, sebutkan path dan jangan mengaku sudah memeriksanya.
+6. Validasi state dan format, lalu mulai adegan langsung. Jangan tampilkan laporan bootstrap.
 
 ## 1. Modul sesuai kebutuhan
 
@@ -75,51 +66,18 @@ Pilih sumber berdasarkan aksi dan lokasi; jika beberapa sistem terdampak, baca s
 - Modul mekanik/world adalah otoritas untuk cakupannya. `players.md` adalah indeks; `players/<Nama>.md` adalah snapshot awal; profil gameplay terakhir beserta kejadian sesudahnya adalah state aktif.
 - Penilaian universal dan Kantor Appraisal: `core/TIER_ASSESSMENT_AND_APPRAISAL.md`. Martial Soul memakai formulasi khusus `core/MARTIAL_SOUL_AWAKENING.md`; rarity hasil undian terpisah dari kualitas inheren.
 
-## Daftar File Resmi
+## Daftar pintu masuk kanonis
 
-- `README.md`
-- `INDEX.md`
-- `players.md`
-- `players/Yuha.md`
-- `players/Nafila.md`
-- `templates/AUTHORITY_ORDER.md`
-- `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`
-- `templates/CHARACTER_PROFILE_TEMPLATE.md`
-- `templates/PLAYER_CONVERSATION_TEMPLATE.md`
-- `core/CULTIVATION_SYSTEM.md`
-- `core/CULTIVATOR_ACADEMIES.md`
-- `core/MARTIAL_SOUL.md`
-- `core/MARTIAL_SOUL_AWAKENING.md`
-- `core/SPIRIT_RING_RULES.md`
-- `core/HP_SYSTEM.md`
-- `core/HUNGER_AND_METABOLISM.md`
-- `core/INJURY_SYSTEM.md`
-- `core/THINKER_AND_FORMULATION.md`
-- `core/10_ECONOMY_SYSTEM.md`
-- `bestiary/SPIRIT_BEAST_RULES.md`
-- `gameplay/COMBAT_SYSTEM.md`
-- `gameplay/TIME_AND_ACTION_RULES.md`
-- `gameplay/TRAVEL_ENCOUNTER_AMBUSH_RESCUE.md`
-- `world/WORLD.md`
-- `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`
-- `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
-- `world/MAP_AND_REGIONS.md`
-- `world/LAWLESS_TERRITORIES.md`
-- `world/GEOGRAPHY_AND_TRAVEL.md`
-- `world/WANLUO_SACRED_EXPANSE.md`
-- `world/INTELLIGENT_PEOPLES.md`
-- `world/FACTIONS.md`
-- `world/SPIRIT_HUNTERS_GUILD.md`
-- `world/HISTORY.md`
-- `world/RUINED_ARCHIVER.md`
-- `world/DYNAMIC_EVENTS.md`
-- `templates/WORLD_EVENT_UPDATE_TEMPLATE.md`
-- `world/ARTIFACTS_AND_RELICS.md`
-- `world/ARTIFICIAL_ARTIFACTS.md`
-- `world/WEALTH_DISTRIBUTION.md`
-- `world/SOCIAL_STRATIFICATION.md`
+- Bootstrap dan peta modul: `INDEX.md`
+- Keputusan GM, prioritas, dan ledger: `templates/AUTHORITY_ORDER.md`
+- Format respons gameplay: `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`
+- Definisi field dan state profil: `templates/CHARACTER_PROFILE_TEMPLATE.md`
+- Indeks karakter dan snapshot awal: `players.md` → `players/<Nama>.md`
+- Router wilayah, NPC, permukiman, dan rute: `world/CANON_LOAD_ROUTER.md`
+- Keputusan canon yang disahkan dan konflik sumber: `world/CANON_DECISIONS_AND_PRECEDENCE.md`
+- Event dunia yang persisten: `world/DYNAMIC_EVENTS.md`
 
-Modul yang disebut tetapi belum tersedia tidak otomatis menjadi sumber resmi. Jangan mengklaim membacanya atau menganggap isinya sudah ditetapkan.
+Daftar modul berdasarkan domain ada di tabel §1. Jangan menggandakan katalog seluruh file di sini. Modul yang disebut tetapi belum tersedia tidak otomatis menjadi sumber resmi; jangan mengaku telah membaca atau menganggap isinya ditetapkan.
 
 ## 3. Regional dan territorial canon — buka saat relevan
 

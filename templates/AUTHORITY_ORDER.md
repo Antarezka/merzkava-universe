@@ -178,7 +178,7 @@ Setiap respons gameplay—baik respons pertama setelah CONVO, recall, maupun gil
 
 Definisi field bersumber dari templates/CHARACTER_PROFILE_TEMPLATE.md. Perhitungan waktu bersumber dari Time Rules. Jangan menyalin format penuh ke prompt ini atau membuat format tandingan.
 
-**MODE: NO STEP** berarti jangan memberi menu pilihan atau daftar opsi bernomor. Akhiri adegan pada situasi terbuka agar player menentukan tindakan sendiri.
+Jangan memberi menu pilihan atau daftar opsi bernomor. Akhiri adegan pada situasi terbuka agar player menentukan tindakan sendiri, sesuai template gameplay kanonis.
 
 
 ## 5B. Tier, Penilaian Sementara, dan Kantor Appraisal

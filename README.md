@@ -66,21 +66,20 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
-- ✧ **Azerion Forest & Ancient Ruins**  
-  The hidden half-beast city, forest lore, heavenly beasts, and unexplored ruins are aligned with established world history.
+- ✧ **Spirit Ring Absorption — Status & Cooldown Rules**  
+  Unified the absorption-status and `Day left` rules, removed duplicated/conflicting wording across the INDEX and Authority Order, and clarified the peak-Spirit-Realm exception for cooldown calculations.
 
-- ✦ **Beiming Gu — Character Continuity**  
-  Beiming Han, Beiming Xenhwa, and Beiming Nerva receive synchronized profiles, relationships, and regional references.
+- ✦ **Gameplay Profile — One Canonical Layout**  
+  Enforced the exact four-section gameplay profile order, kept `Day left` inside `Spirit Ring Absorption`, and removed the duplicated bootstrap block from the gameplay response template.
 
-- ❖ **Tianhai — Academies & Thinker Institute**  
-  The cardinal regions, academy network, research institution, and Thinker lore are integrated into the world archive.
+- ❖ **Wallet & Profile Consistency**  
+  Standardized Wallet as one line with all five Xuan denominations and aligned profile field definitions, the INDEX visual gate, and Authority Order with that same output contract.
 
-- ⟡ **Routes & Energy-Powered Air Transit**  
-  Regional travel links and Tianhai's specialized energy-aircraft transport are documented for more coherent journeys.
+- ⟡ **Beiming Gu — NPC Registry & Regional Continuity**  
+  Consolidated Beiming Gu NPC navigation around `regions/beiming-gu/npcs/REGISTRY.md` and its 21 canonical profiles, while keeping regional canon inside the single Merzkava Universe repository.
 
-- ✧ **Spirit Ring Cooldown & Gameplay Consistency**  
-  Day left rules and cooldown calculations are clarified, while the gameplay template, profile fields, and authority order now share one canonical format.
-
+- ✧ **World Archive — Routes, Tianhai & Azerion**  
+  Continued integrating the three powers' regional structures, Tianhai's academy/Thinker and energy-powered air-transit systems, and Azerion Forest's hidden half-beast settlement and ancient-ruin lore.
 <div align="center">
 
 **✧ ── ✦ ── ❖ ── ✦ ── ✧**

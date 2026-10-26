@@ -261,6 +261,42 @@ Item-ledger requirements:
 9. The item ledger is an audit trail, not a replacement for the character profile's Inventory, Equipment, or Assets fields and not authorization to create a separate profile field or module. Maintain it in the ongoing session record/history so it can be continued and checked across turns.
 10. Before finalizing any gameplay response that changes items, verify the item-ledger entries, quantities and resulting states, related money-ledger entries, and displayed profile. Do not claim the ledger has been permanently saved to GitHub unless the repository write was actually completed and verified.
 
+### Visible LEDGER LOG in Gameplay Responses
+
+The money and item ledgers above are mandatory audit records. In addition, the player must see a concise transaction log in the gameplay response whenever an actual transaction or item/asset state change occurs.
+
+**Required response order:** immersive narrative first → visible `LEDGER LOG` → brief confirmation/status → updated canonical character profile. The narrative describes what happened in-world; the ledger records the verified mechanical consequences. If no money, item, or asset changed, omit the visible log entirely.
+
+Use the mobile-friendly format below and include only the fields relevant to the event. Do not replace unknown values with invented details; state that a value cannot be verified when necessary.
+
+```text
+╭─ LEDGER LOG · #[ID]
+│ Waktu: [timestamp dunia]
+│ Jenis: [transaksi/perubahan]
+│ Pihak terkait: [sumber/tujuan]
+│ Status: [Berhasil/Gagal/Dibatalkan]
+│ Rincian:
+│ • Uang keluar/masuk: [nominal dan denominasi]
+│ • Harga/konversi/kembalian: [jika relevan]
+│ • Item/aset masuk/keluar: [nama dan jumlah]
+│ Saldo sebelum: [jika uang berubah]
+│ Perubahan bersih: [jika uang berubah]
+│ Saldo sesudah: [jika uang berubah]
+│ Item/aset sebelum → sesudah: [jika berubah]
+╰─
+
+✓ TRANSAKSI TERCATAT
+[Penegasan singkat berdasarkan hasil yang telah diverifikasi.]
+```
+
+Visible-log rules:
+1. Show the log after the narrative and before the character profile; do not put transaction narration after the profile.
+2. For purchases and sales, show both the money-ledger and item-ledger effects, cross-reference their entry IDs when useful, and ensure the Wallet and Inventory shown in the profile match the verified closing state.
+3. For payment using a larger denomination, separately show the amount handed over, item/service price, change returned, and net expense. Example: 1 xs paid for a 23 xc item means 77 xc change and a net expense of 23 xc, assuming the transaction was completed as described.
+4. If a transaction fails or is cancelled, show its true status only when the event materially affects the response; do not record an expense, income, or item transfer that did not occur. If a deposit, partial payment, debt, barter, or refund actually changes state, record only the change that occurred.
+5. Keep the full chronological, append-only ledger in the ongoing session history. The visible block is a player-facing summary, not a substitute for the complete audit details specified above.
+6. Do not display a ledger on turns with no relevant transaction or item/asset change. Do not add ledger fields to the canonical character profile and do not claim permanent GitHub persistence unless an actual repository write is completed and verified.
+
 ## 8. Global Wealth Distribution
 
 The world-level baseline total and its territorial and social-holder allocations are defined in `world/WEALTH_DISTRIBUTION.md`. Social classes, housing insecurity, poverty, and social mobility are defined in `world/SOCIAL_STRATIFICATION.md`. The territorial table and social-holder table are two views of the same 400.463.763.789.849 xg total; never add them together. Land, sea, air markets and auction circuits are transaction channels, not additional ownership shares. This module remains the authority for exchange rates, prices, scarcity, transactions, and character currency balances. The global wealth tables do not establish the exact balance of any named character or organization.

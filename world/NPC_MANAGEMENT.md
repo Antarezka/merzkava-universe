@@ -87,6 +87,36 @@ NPCs have their own goals. They are not automatically friendly, hostile, omnisci
 
 Keep separate public knowledge, what the NPC actually knows, beliefs that may be wrong, player-character knowledge, GM-only information, and proposals awaiting owner confirmation. A secret in a profile is not automatically known to the player.
 
+## 6A. Spirit Ring Configuration and NPC Perception
+
+Spirit Ring configuration is a meaningful social signal in Merzkava Universe. NPCs may form impressions from the actual ages, distribution, and overall quality of a person's known Spirit Rings—not merely from the number of rings or the person's current Spirit Realm. A configuration dominated by comparatively young/low-age rings, especially when its stronger rings do not offset that pattern, can lead observers to judge the person as having a weak foundation, limited achievements, or a low chance of succeeding in a dangerous situation. These are social judgments, not objective proof of the person's true ability or future ceiling.
+
+### A. What an NPC can judge
+
+- Base the reaction on what that NPC can actually observe or credibly know: visible ring characteristics, a witnessed display, a reliable appraisal/report, prior encounters, or established public knowledge. Do not let every NPC automatically know exact ring ages, hidden abilities, or the complete configuration.
+- Distinguish the real configuration from the observer's information. If only ring colors or a partial display are known, the NPC may make a rough impression but must not state hidden ages or details as fact. Spirit Ring color and Beast Age Grade are separate classifications; do not infer one directly from the other.
+- Consider the whole arrangement: how many rings are relatively low-age versus high-age, their order/distribution when known, and whether the known abilities or combat record provide a reason to revise the first impression. Do not invent a universal score, fixed percentage, or rigid cutoff for “good” and “bad” configurations.
+- A weak-looking configuration does not automatically make its owner weak, incompetent, dishonest, or doomed. It creates a plausible initial impression that may change through demonstrated skill, tactics, courage, teamwork, achievements, or other credible evidence.
+
+### B. Social reactions and stakes
+
+- Ordinary residents and inexperienced NPCs may rely more heavily on the visible configuration and common reputation. A configuration that looks poor can make them more dismissive, hesitant to trust the person, or pessimistic about being rescued by them.
+- In a rescue or emergency, a vulnerable NPC who sees a rescuer's apparently weak configuration may lose hope, doubt that help will work, hesitate to cooperate, or prepare emotionally for failure. Portray this as a context-sensitive reaction, not a mandatory identical response from every person.
+- Other NPCs may remain hopeful because of desperation, personal values, prior relationships, lack of alternatives, or evidence beyond the ring configuration. Fear and hope are individual; do not make every bystander react alike.
+- A strikingly strong, well-balanced, or unusually high-age configuration may inspire respect, confidence, fear, envy, suspicion, or heightened expectations, depending on the observer's personality, interests, and relationship to the person. Admiration is not automatic obedience.
+
+### C. Experts, teachers, and regional outlook
+
+- Experienced Spirit Realm cultivators, instructors, veteran hunters, and tacticians should look beyond the first impression when their expertise and available evidence justify it. They may assess technique, Martial Soul compatibility, ring abilities, combat decisions, discipline, adaptability, body condition, and long-term growth potential.
+- An expert may still criticize a poor configuration honestly. The distinction is that a qualified observer can recognize a remediable weakness, identify what kind of training might help, or judge that a person has potential if guided along a path considered sound by that observer. Do not guarantee improvement or invent a training solution without support.
+- The observer's idea of a “correct path” depends on their own experience, school, values, and regional tradition; it is not one universally correct doctrine. Use established regional sources and the NPC's actual background rather than stereotyping every resident of a power.
+- Golden Dragon Empire's established orthodox central academies and its clan/dojo traditions can shape a more structured or orthodox assessment when supported by the specific NPC's education. Tianhai Yunzhou's more flexible academies and its distinct movement, defense, adaptation, and technical traditions may support a different assessment when relevant. Beiming Gu's harsh environments, defensive terrain, survival experience, and established cold/defensive or mobility traditions may lead some of its trained observers to value practical survival, resilience, and performance under pressure. These are available contextual influences, not rules that every regional NPC shares.
+- If the NPC's school, training, values, or expertise are unknown, do not assign them a detailed regional doctrine by assumption. Let their reaction follow established personality, role, knowledge, and immediate interests.
+
+### D. Exceptional configurations as reference
+
+The proposed ring configuration recorded for Beiming Han in `world/WORLD.md` is a useful high-end comparison for an extraordinary configuration, but the source labels it proposed. Do not present the listed configuration as a verified historical fact unless its canon status is explicitly confirmed. In play, use Beiming Han as a comparison only when the NPC plausibly knows of him or has access to the relevant information; most NPCs should not automatically know the exact configuration.
+
 ## 7. Relationships and continuity
 
 - Record meaningful relationships with their basis: witnessed event, family tie, employment, debt, rivalry, agreement, or other confirmed cause.

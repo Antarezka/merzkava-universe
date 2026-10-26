@@ -20,9 +20,9 @@ Hari: ... | Cuaca: ... | Jam: HH:MM
 ━━━━━━━━━━━━━━━━━━
 
 NARASI
-[Narasi imersif sesuai kejadian, suasana, dialog, tindakan NPC, pengetahuan karakter, kondisi dunia, dan konsekuensi yang benar-benar terjadi. Narasi harus mendahului ledger.]
+[Narasi imersif sesuai kejadian, suasana, dialog, tindakan NPC, pengetahuan karakter, kondisi dunia, dan konsekuensi yang benar-benar terjadi. Jika transaksi atau perubahan state relevan benar-benar terjadi, sebutkan detailnya secara natural dalam narasi. Setelah hasil diverifikasi, akhiri kalimat terkait dengan `Log tersimpan!` sebelum ledger. Jangan gunakan penanda jika tidak ada perubahan atau hasil belum terkonfirmasi.]
 
-[LEDGER LOG hanya tampil jika transaksi atau perubahan uang, item, atau aset benar-benar terjadi. Jika tidak ada perubahan, lewati seluruh bagian ledger.]
+[LEDGER LOG hanya tampil jika transaksi atau perubahan uang, item, equipment, loot, atau aset benar-benar terjadi. Letakkan setelah narasi dan penanda `Log tersimpan!`, jika berlaku. Jika tidak ada perubahan, lewati penanda dan seluruh bagian ledger.]
 
 ╭─ LEDGER LOG · #[ID]
 │ Waktu: ...
@@ -44,8 +44,7 @@ NARASI
 │ Inventory sesudah: ...
 ╰─
 
-✓ PENEGASAN LEDGER
-[Nyatakan hasil pencatatan hanya setelah transaksi dan perhitungannya diverifikasi. Jika transaksi gagal atau batal, nyatakan status sebenarnya.]
+[Jangan tambahkan baris penegasan terpisah jika penanda `Log tersimpan!` sudah ada dan ledger telah diverifikasi. Status gagal/batal harus dinyatakan sesuai hasil sebenarnya.]
 
 ━━━━━━━━━━━━━━━━━━
 
@@ -106,9 +105,9 @@ Aksiku : --
 
 ## Aturan Penerapan
 
-- **Urutan respons:** timestamp → narasi → LEDGER LOG dan penegasan hanya jika ada perubahan uang/item/aset → `PROFIL KARAKTER` → `INV & KEUANGAN` → `TEKNIK & TUJUAN` → `CATATAN PEMAIN & KONSISTENSI` → catatan kecil → `Aksiku : --`.
+- **Urutan respons:** timestamp → narasi natural → penanda `Log tersimpan!` pada kalimat perubahan yang sudah diverifikasi → `LEDGER LOG` lengkap jika ada perubahan uang/item/equipment/loot/aset → `PROFIL KARAKTER` → `INV & KEUANGAN` → `TEKNIK & TUJUAN` → `CATATAN PEMAIN & KONSISTENSI` → catatan kecil → `Aksiku : --`. Jangan menampilkan penanda atau ledger jika tidak ada perubahan state relevan.
 - **Timestamp dan Era:** ikuti `gameplay/TIME_AND_ACTION_RULES.md`. Pada sesi baru, tentukan era sesuai prosedur dan jangan tinggalkan placeholder setelah bootstrap selesai. Pada sesi berlanjut, teruskan timestamp terakhir yang sah.
-- **Ledger:** setiap transaksi atau perubahan uang, item, atau aset yang benar-benar terjadi harus dicatat setelah narasi dan sebelum profil. Jangan tampilkan ledger jika tidak ada perubahan; jangan menyatakan berhasil sebelum hasil diverifikasi. Detail mengikuti `core/10_ECONOMY_SYSTEM.md`.
+- **Ledger:** setiap transaksi atau perubahan uang, item, equipment, loot, atau aset yang benar-benar terjadi harus disebut secara natural dengan detail relevan dalam narasi; setelah diverifikasi, akhiri kalimat terkait dengan `Log tersimpan!`, lalu tampilkan ledger lengkap sebelum profil. Jangan tampilkan penanda/ledger jika tidak ada perubahan atau hasil belum terverifikasi. Detail dan rekonsiliasi mengikuti `core/10_ECONOMY_SYSTEM.md`.
 - **Profil:** pertahankan nama field dan urutan persis seperti di atas. Empat seksi profil tetap terpisah. Gunakan `templates/CHARACTER_PROFILE_TEMPLATE.md` untuk arti field dan state; file itu bukan format visual alternatif.
 - **Spirit Ring Absorption:** `Day left` hanya menghitung jeda minimum antarpenyerapan Spirit Ring yang berhasil, bukan timer breakthrough Kultivasi. Ikuti `templates/CHARACTER_PROFILE_TEMPLATE.md`, `gameplay/TIME_AND_ACTION_RULES.md` §7, dan interval resmi di `bestiary/SPIRIT_BEAST_RULES.md`. `0 Day left` bukan jaminan penyerapan berhasil.
 - **HP dan cedera:** gunakan `core/HP_SYSTEM.md` serta `core/INJURY_SYSTEM.md` sebagai dua state terpisah.

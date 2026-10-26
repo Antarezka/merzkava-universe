@@ -284,9 +284,6 @@ Use the mobile-friendly format below and include only the fields relevant to the
 │ Saldo sesudah: [jika uang berubah]
 │ Item/aset sebelum → sesudah: [jika berubah]
 ╰─
-
-✓ TRANSAKSI TERCATAT
-[Penegasan singkat berdasarkan hasil yang telah diverifikasi.]
 ```
 
 Visible-log rules:

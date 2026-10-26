@@ -42,6 +42,15 @@ Sebelum setiap percobaan penyerapan atau breakthrough, periksa `core/SPIRIT_RING
 - Kultivasi tidak mengurangi `Day left`. Status eligible bukan jaminan ring tersedia atau penyerapan berhasil.
 - Jika belum eligible, jangan memberi ring, slot, Qi, atau kenaikan Spirit Realm. Jika karakter memaksakan proses, gunakan hanya konsekuensi yang didukung rumus resmi; jangan mengarang angka, cedera, atau cacat permanen.
 
+### Penilaian sosial atas konfigurasi Spirit Ring
+
+Saat NPC melihat atau mendengar informasi tentang konfigurasi Spirit Ring seseorang, gunakan aturan persepsi sosial di `world/NPC_MANAGEMENT.md` §6A. Konfigurasi yang tampak didominasi ring berumur relatif rendah dapat menurunkan kepercayaan, penghargaan, atau harapan NPC dalam konteks yang relevan; konfigurasi luar biasa dapat menimbulkan reaksi positif maupun negatif. Ini memengaruhi kesan dan perilaku sosial, bukan menggantikan perhitungan combat, PowerScale, atau hasil aksi.
+
+- Terapkan hanya sejauh informasi konfigurasi benar-benar diketahui atau terlihat oleh NPC. Jangan membocorkan umur, kemampuan, atau konfigurasi tersembunyi.
+- NPC awam, ahli, guru, veteran, dan orang yang sedang terdesak dapat bereaksi berbeda sesuai pengetahuan, kepribadian, tujuan, pengalaman, serta wilayah dan tradisi latihan yang benar-benar dimiliki.
+- Jangan menyamaratakan seluruh penduduk salah satu kekuasaan, menetapkan skor sosial numerik, atau menganggap konfigurasi buruk membuktikan seseorang pasti lemah/tidak punya masa depan.
+- Ahli dapat menilai prospek dan menawarkan arah latihan berdasarkan tradisi mereka sendiri, tetapi jangan menjamin perkembangan atau menciptakan metode yang tidak didukung sumber.
+
 ### Awakening dan Martial Soul
 
 Gunakan `core/MARTIAL_SOUL_AWAKENING.md` untuk rarity, undian, kualitas inheren, dan mutasi; `core/MARTIAL_SOUL.md` untuk bentuk/lore. Rarity hasil undian, kualitas inheren, dan mutasi adalah proses berbeda. Nama rarity yang sah hanya Common, Uncommon, Rare, Epic, Legendary, Myth. Jangan reroll, memilih hasil demi plot, menerapkan tier numerik generik, atau membiarkan appraisal kualitas mengubah hasil rarity yang sah.

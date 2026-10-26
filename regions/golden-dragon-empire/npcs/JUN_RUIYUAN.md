@@ -25,7 +25,7 @@
 
 ## 3. Capabilities
 - **Spirit Realm / Stage:** Belum ditetapkan
-- **Martial Soul:** Golden Heavenly Qilin — Myth Tier
+- **Martial Soul:** Golden Heavenly Qilin — Myth
 - **Spirit Rings and abilities:** Belum ditetapkan
 - **Techniques / combat style:** Belum ditetapkan
 - **Thinker Grade / specialties:** Belum ditetapkan
@@ -69,7 +69,7 @@
 - **Related event / history entry:** None established.
 
 ## 8. Canon and Privacy Check
-- **Canon facts and source:** Name, age, position, Martial Soul, Myth Tier, parents, and sibling relationship are owner-established.
+- **Canon facts and source:** Name, age, position, Martial Soul, Myth, parents, and sibling relationship are owner-established.
 - **GM estimates:** None added.
 - **Provisional details awaiting owner approval:** Spirit Realm, Stage, Spirit Rings, techniques, personality, and motivations remain unestablished.
 - **Contradictions to resolve:** None known.

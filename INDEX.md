@@ -1,71 +1,25 @@
-# Merzkava Universe — Official Index
+## 0. Bootstrap wajib
 
-INDEX ini adalah **pintu masuk tunggal** untuk memulai, melanjutkan, dan menjalankan roleplay Merzkava Universe. Ikuti prosedur bootstrap dan navigasi modul di bawah. Jangan menggandakan aturan mekanik atau format respons lengkap ke file lain.
+Trigger awal yang merujuk `INDEX.md` dan `players.md` berarti mulai gameplay, bukan membuat laporan.
 
-Repository resmi: https://github.com/Antarezka/merzkava-universe
+1. Baca penuh `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`, lalu `templates/CHARACTER_PROFILE_TEMPLATE.md`.
+2. Pilih state: sesi baru memakai `players.md` lalu seluruh `players/<Nama>.md`; sesi berlanjut memakai profil gameplay terakhir dan kejadian sesudahnya; karakter baru memakai template tanpa mengarang rahasia atau kemampuan formal.
+3. Verifikasi Wallet dari Authority yang eksplisit; jika tidak ada, gunakan snapshot karakter (sesi baru) atau profil aktif (sesi berlanjut). Jika saldo tidak ditetapkan, lakukan satu undian bootstrap menurut `core/10_ECONOMY_SYSTEM.md`, catat, dan jangan undi ulang.
+4. Periksa `world/DYNAMIC_EVENTS.md` dan baca modul yang relevan dengan lokasi, waktu, kondisi, serta aksi. Jika sumber wajib gagal diakses, sebutkan path dan jangan mengaku pemeriksaan selesai.
+5. Validasi state, ledger, field, dan format sebelum respons. Mulai adegan langsung; jangan tampilkan laporan bootstrap.
 
-## Prioritas Format Respons GM — WAJIB
+### State dan format
 
-`templates/GAMEPLAY_RESPONSE_TEMPLATE.md` adalah sumber tertinggi dan satu-satunya untuk bentuk keluaran gameplay GM. `templates/AUTHORITY_ORDER.md` wajib mengarahkan GM mengikuti template itu; `templates/PLAYER_CONVERSATION_TEMPLATE.md` hanya instruksi pemanggilan/input player dan tidak boleh mengubah, menimpa, atau membuat variasi format balasan GM. Untuk setiap respons gameplay, termasuk respons pertama, recall, dan giliran lanjutan, penutup wajib ditulis persis `••• Tentukan Aksimu (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧`. Jangan memakai `Aksiku : --`, `Aksiku:` atau variasi label player sebagai penutup respons GM. Jika ada instruksi atau file lain yang tampak bertentangan, ikuti `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` dan selaraskan instruksi sekunder saat pemeliharaan repo.
+- `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` adalah satu-satunya master visual respons GM; footer wajib persis `••• Tentukan Aksimu (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧`. Template player hanya untuk input, bukan format GM.
+- Wallet menggunakan urutan `xc | xs | xg | zj | az`. Kurs/transaksi dari `core/10_ECONOMY_SYSTEM.md`; Satiety dari `core/HUNGER_AND_METABOLISM.md`. Setiap aktivitas terbaru menyebut Satiety.
+- Jangan mengganti nilai tercatat, kehilangan item/aset, menebak saldo, atau membocorkan catatan GM sebagai pengetahuan karakter. Ledger perubahan state mengikuti Authority Order dan modul terkait; `Log tercatat!` bukan klaim bahwa GitHub telah diubah.
+- Spirit Ring Absorption memakai satu field `status | Day left`. Definisi status: `templates/CHARACTER_PROFILE_TEMPLATE.md`; timer: `gameplay/TIME_AND_ACTION_RULES.md` §7; interval: `bestiary/SPIRIT_BEAST_RULES.md`; syarat penyerapan: `core/SPIRIT_RING_RULES.md`.
+- Gunakan istilah **Spirit Realm** secara utuh untuk tingkat 1–9: Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, Spirit Primordial. **Mortal** adalah status dasar, bukan Spirit Realm 0.
+- Jangan menambah field tanpa persetujuan owner. `???` hanya untuk identitas karakter yang benar-benar tidak diketahui atau nama Martial Soul yang belum diketahui; nilai lain mengikuti default resmi.
 
-## Struktur Wilayah di Dalam Repo — WAJIB
+## 1. Modul sesuai kebutuhan
 
-**Seluruh dunia Merzkava Universe dikelola di satu repositori resmi ini:** `Antarezka/merzkava-universe`. Nama Golden Dragon Empire, Tianhai Yunzhou, dan Beiming Gu adalah **tiga kekuasaan besar di dalam dunia**, bukan instruksi untuk membuat tiga repositori GitHub terpisah.
-
-**Jangan membuat, meminta, atau mengarahkan migrasi ke repositori regional eksternal.** Struktur kanonis berada di dalam repo yang sama:
-- `world/` — canon global, peta, geografi, sejarah, jalur lintas wilayah, pemerintahan, faksi, dan modul dunia sesuai cakupannya.
-- `regions/golden-dragon-empire/` — indeks regional dan data khusus Golden Dragon Empire.
-- `regions/tianhai-yunzhou/` — indeks regional dan data khusus Tianhai Yunzhou.
-- `regions/beiming-gu/` — indeks regional dan data khusus Beiming Gu.
-- `regions/<power>/npcs/` — registry serta profil NPC kanonis yang dimiliki/berafiliasi dengan kekuasaan terkait.
-
-Subwilayah, provinsi, kawasan, kota, desa, akademi, institusi, dan faksi tetap menjadi **folder atau modul di dalam repo ini**, bukan repositori terpisah. Jangan membuat repo NPC global keempat. Jangan memindahkan modul canon global ke folder regional hanya karena modul itu menyebut suatu wilayah; tempatkan data menurut cakupan dan otoritas canon-nya.
-
-Nama kekuasaan harus mengikuti `world/WORLD.md` secara persis: **Golden Dragon Empire**, **Tianhai Yunzhou**, dan **Beiming Gu**. Navigasi wajib mengikuti pola: INDEX pusat → indeks/modul kekuasaan di repo yang sama → modul lokasi/permukiman dan registry NPC → profil NPC relevan.
-
-**Status implementasi:** folder regional dan profil NPC berada di repo ini, bukan di repositori eksternal. Beiming Gu memiliki 21 profil kanonis yang dicatat di `regions/beiming-gu/npcs/REGISTRY.md`: Beiming Han, Beiming Xenhwa, Beiming Jingheng, Beiming Nerva, 12 kepala klan, dan 5 master dojo. Beiming Nerva adalah Thinker Grade 9 kedua yang tercatat. Sebelum mengubah atau menghapus path lama `world/NPC_*.md`, periksa isi aktualnya dan sinkronkan seluruh referensi yang terdampak. Tidak ada migrasi lintas-repo yang diwajibkan; pekerjaan struktur harus dilakukan di repo `merzkava-universe` yang sudah ada.
-
-## 0. Prosedur Bootstrap (WAJIB)
-
-Saat pemain memakai trigger awal yang merujuk INDEX.md dan players.md, perlakukan pesan itu sebagai perintah untuk menginisialisasi gameplay — bukan permintaan untuk sekadar menganalisis atau merangkum tautan.
-
-**Aturan canon final:** jika ada keputusan owner yang sudah ditetapkan atau konflik antara file, baca `world/CANON_DECISIONS_AND_PRECEDENCE.md` bersama sumber khusus topik. File yang baru ditambahkan tidak otomatis mengalahkan keputusan final yang lebih lama; selaraskan informasi baru dengan canon yang berlaku kecuali owner secara eksplisit merevisinya.
-
-1. **Baca seluruh INDEX.md dan `templates/AUTHORITY_ORDER.md` terlebih dahulu.** INDEX adalah peta navigasi; Authority Order menetapkan perilaku GM dan aturan pelaksanaan.
-2. **Pilih mode sesi.** Sesi berlanjut memakai profil gameplay terakhir dan kejadian setelahnya, bukan snapshot awal. Sesi baru memakai snapshot karakter terdaftar setelah template canonical dimuat. Karakter baru mengikuti template dan Authority Order tanpa mengarang rahasia inti atau kemampuan formal.
-3. **Ikuti urutan bootstrap terperinci pada bagian “Gerbang format → profil player → ekonomi” di bawah.** Bagian itu adalah sumber langkah operasional lengkap untuk template, profil, Wallet, modul relevan, event, dan validasi.
-4. **Gunakan navigasi dinamis selama gameplay.** Periksa `world/DYNAMIC_EVENTS.md` sebelum adegan pertama dan setiap giliran; baca hanya modul yang relevan dengan karakter, lokasi, waktu, dan aksi. Jika sumber wajib gagal diakses, sebutkan sumbernya dan jangan berpura-pura gate selesai. Mulai gameplay langsung tanpa laporan bootstrap.
-5. **Perubahan state dan ledger:** ikuti `templates/AUTHORITY_ORDER.md` untuk laporan perubahan, penanda `Log tercatat!`, serta validasi; ikuti `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` untuk urutan dan bentuk visual. `core/10_ECONOMY_SYSTEM.md` mengatur ledger uang/item dan format log gabungan; `core/HUNGER_AND_METABOLISM.md` adalah satu-satunya sumber rumus Satiety. Setiap aktivitas terbaru wajib menyebut nilai Satiety. Penanda berarti ledger sesi telah dicatat, bukan klaim bahwa data ditulis ke GitHub.
-
-### Gerbang format → profil player → ekonomi (URUTAN MUTLAK)
-
-Jangan mulai menulis narasi atau profil gameplay sampai tiga sumber ini selesai dimuat, dalam urutan berikut:
-
-1. **Format visual percakapan:** baca seluruh `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`. Format ini mengunci bentuk visual, garis/kotak, urutan field, nama field, catatan, dan penutup. Jangan membuat format sendiri.
-2. **Definisi field profil:** baca seluruh `templates/CHARACTER_PROFILE_TEMPLATE.md` agar setiap nilai ditempatkan pada field yang benar.
-3. **Profil player:** untuk sesi baru karakter terdaftar, baca `players.md`, lalu baca seluruh `players/<Nama>.md`. Untuk sesi berjalan, gunakan profil gameplay terakhir dan kejadian setelahnya sebagai state aktif; snapshot awal hanya referensi latar yang belum berubah.
-4. **Sumber saldo Wallet (bootstrap wajib):** untuk sesi baru, cocokkan nama karakter dengan `players.md`, lalu baca penuh file individual yang tepat `players/<Nama>.md` dan ambil saldo Wallet/Currency yang tercatat di sana. Jangan mengambil saldo dari karakter lain. Jika Authority secara eksplisit menyediakan saldo sah untuk karakter/sesi tersebut, gunakan sumber Authority itu dan abaikan pencarian saldo awal pada snapshot. Untuk sesi berlanjut/recall, gunakan Wallet pada profil gameplay terakhir lalu terapkan hanya transaksi sah setelahnya. `core/10_ECONOMY_SYSTEM.md` adalah sumber aturan kurs, harga, dan transaksi—bukan sumber saldo individual.
-   - Jika file karakter yang cocok sudah mencatat saldo awal, gunakan persis saldo tersebut tanpa random ulang. Jika saldo tidak tercatat di snapshot maupun sumber Authority yang berlaku, tetapkan satu saldo awal konkret melalui undian bootstrap satu kali berdasarkan `core/10_ECONOMY_SYSTEM.md` sebelum respons pertama, lalu tampilkan dan pertahankan saldo itu di profil sesi. Undian tidak boleh dihitung dari latar, pekerjaan, Assets, atau penghasilan masa lalu dan bukan klaim transaksi masa lalu.
-   - Setelah saldo awal ditetapkan, pertahankan di profil sesi dan jangan mengundi ulang atau mengubahnya hanya karena giliran baru. Setiap transaksi harus memiliki sebab, waktu, nilai masuk/keluar, dan saldo sesudah transaksi yang dapat diverifikasi dari kejadian/riwayat sesi. Catat setiap pemasukan dan pengeluaran sebagai entri ledger berkelanjutan sesuai `core/10_ECONOMY_SYSTEM.md`; saldo Wallet pada profil harus cocok dengan saldo ledger terakhir. Setiap perubahan Inventory, Equipment, atau Assets yang melibatkan item juga wajib dicatat dalam ledger item berkelanjutan di `core/10_ECONOMY_SYSTEM.md`, termasuk item/jumlah sebelum-sesudah, sumber/tujuan, alasan, dan kondisi akhirnya. Pembelian atau penjualan harus memiliki catatan yang saling cocok pada ledger uang dan ledger item; profil harus sesuai dengan catatan terakhir keduanya.
-5. **Pemetaan ke bagan:** baru setelah langkah 1–4, tempatkan setiap data pada field template visual. Wallet harus disalin persis dari file karakter yang cocok atau profil sesi aktif setelah menerapkan transaksi sah, kecuali Authority secara eksplisit menetapkan sumber yang lebih berwenang; aset bangunan/properti yang benar-benar dimiliki dicatat di `Assets Bangunan`; uang hanya di `Wallet (wealth)` dan barang bawaan di `Inventory`. Jangan mengubah nilai tercatat menjadi `???`, membulatkan saldo, atau mengganti format mata uang.
-6. **Modul mekanik dan dunia:** setelah sumber state dimuat, baca modul yang diperlukan untuk timestamp, Satiety, HP, lokasi, event, dan aksi pertama. Jika sumber wajib gagal dibaca, jangan berpura-pura selesai.
-
-**Gate sebelum respons:** pastikan format visual canonical sudah dimuat; profil/snapshot yang benar sudah dipilih; saldo Currency memiliki sumber yang jelas; Currency cocok dengan semua transaksi sah sejak saldo tersebut; seluruh field wajib dan ornamen visual dipertahankan. Jika satu gate belum terpenuhi, jangan kirim gameplay seolah-olah bootstrap lengkap.
-
-**Hard gate format gameplay — validasi bentuk, bukan sekadar isi:** sebelum mengirim setiap respons gameplay, cocokkan hasil akhir langsung dengan `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` dari blok waktu paling atas sampai footer kanonis paling bawah, termasuk `NARASI`, ledger kondisional, keempat seksi profil, seluruh ornamen, dan penutup. Salin kerangka visual canonical, bukan membuat ulang dengan kotak ASCII, tabel, daftar ringkas, atau format alternatif. Pertahankan persis urutan seksi, judul seksi, garis pemisah, nama field, urutan field, format satu baris Wallet, dan penutup. Profil harus berupa empat blok visual yang terpisah: (1) `PROFIL KARAKTER`, (2) `INV & KEUANGAN`, (3) `TEKNIK & TUJUAN`, dan (4) `CATATAN PEMAIN & KONSISTENSI`; jangan melebur isi antarblok atau memindahkan Inventory/Assets/Wallet ke blok lain. Field inti dalam urutan canonical: Nama, Usia, Spirit Realm, Sync progress, Spirit Ring Absorption, Martial Soul, Thinker Grade, HP, Satiety, Qi, Kondisi Tubuh, Equipment. Lanjutkan dengan Inventory, Assets Bangunan, Wallet (wealth) dalam format lima denominasi; kemudian Teknik / Kemampuan dan Tujuan Saat Ini. Jangan menambahkan field seperti Breakthrough, Law, atau Spirit Rings, dan jangan menghilangkan field hanya karena nilainya belum diketahui. Ganti placeholder dengan nilai yang sesuai aturan field; jangan menyalin instruksi placeholder ke output. Setelah selesai, lakukan perbandingan visual baris demi baris terhadap template canonical. Jika susunan/ornamen/field berbeda, perbaiki sebelum mengirim. Template canonical tetap satu-satunya sumber lengkap untuk karakter visual; paragraf ini adalah pemeriksaan kepatuhan, bukan format pengganti.
-
-### Protokol pemuatan karakter terdaftar
-
-- `players.md` adalah **indeks karakter**, bukan file yang memuat seluruh ingatan karakter.
-- File `players/<Nama>.md` adalah snapshot awal yang wajib dibaca penuh pada sesi baru untuk karakter terdaftar.
-- Jangan menghilangkan data yang berada di bagian latar belakang, catatan khusus GM, aset, inventaris, relasi, atau batas penafsiran hanya karena field tersebut tidak tampil sebagai field terpisah di profil gameplay.
-- Baca `core/10_ECONOMY_SYSTEM.md` saat menetapkan atau mengubah saldo, aset, transaksi, maupun harga. Pertahankan saldo yang tercatat di snapshot/profil sesi; jangan mengubah estimasi awal menjadi klaim bahwa transaksi masa lalu tertentu benar-benar terjadi.
-- Baca `core/HUNGER_AND_METABOLISM.md` saat menetapkan Satiety atau menghitung perubahan karena waktu/makanan. Jangan otomatis menetapkan Satiety ke 100 jika sumber dan prosedur resmi tidak mendukungnya.
-- Informasi khusus GM digunakan untuk konsistensi dunia, tetapi tidak otomatis diketahui karakter.
-- Jika sumber wajib gagal diakses, sebutkan file yang gagal. Jangan mengklaim sudah membaca sumber yang tidak berhasil diambil.
-
-### 1. Baca modul sesuai kebutuhan
-Pilih modul berdasarkan aksi, kondisi, dan lokasi saat ini. Jangan membaca atau mengarang modul yang tidak tersedia hanya karena jalurnya tercantum di peta.
+Pilih sumber berdasarkan aksi dan lokasi; jika beberapa sistem terdampak, baca semua modul terkait. Jangan mengarang isi file yang tidak tersedia.
 
 | Kebutuhan | Sumber resmi |
 |---|---|
@@ -106,57 +60,18 @@ Pilih modul berdasarkan aksi, kondisi, dan lokasi saat ini. Jangan membaca atau 
 | Katalog dan lore Artificial Artifact | `world/ARTIFICIAL_ARTIFACTS.md` |
 | Satiety, kategori aktivitas dan pengali, jadwal/jendela makan terlewat, metabolisme Spirit Realm, tidur malam, konsumsi makanan, dan pengubah kondisi tubuh | `core/HUNGER_AND_METABOLISM.md` |
 
-Untuk aksi yang menyentuh beberapa sistem, baca semua modul yang relevan. Contoh: combat yang mengubah HP dan menimbulkan luka memerlukan Combat, HP, Injury, Time, dan Hunger/Metabolism bila waktu aktif berlalu. Produksi Artificial Artifact menggunakan mekanik di `core/THINKER_AND_FORMULATION.md`; file lore artefak tidak menggantikan aturan produksi.
 
-### 2. Jalankan giliran
-1. Pahami niat player dan periksa lokasi, waktu, kemampuan, kondisi, sumber daya, serta pengetahuan karakter.
-2. Resolusi aksi menggunakan modul resmi yang relevan. Satu aksi tidak otomatis berarti satu hit; ikuti Combat System untuk multi-hit dan combo.
-3. Terapkan hanya konsekuensi yang didukung mekanik dan kejadian.
-4. Perbarui state yang benar-benar berubah dan validasi kesinambungan waktu.
-5. Kirim respons gameplay langsung dengan format canonical. Jangan tampilkan laporan bootstrap atau daftar file yang dibaca sebagai pengganti gameplay.
+## 2. Batas tanggung jawab sumber
 
-Jika sumber wajib gagal diakses, sebutkan file yang gagal dan jangan mengaku telah membacanya. Jangan menyelesaikan bagian aksi yang bergantung pada aturan yang tidak tersedia.
-
-## Rujukan Status Spirit Ring Absorption
-
-Pemetaan tunggal status dan format `status | Day left` berada di `templates/CHARACTER_PROFILE_TEMPLATE.md`. Rumus serta akumulasi waktu `Day left` hanya mengikuti `gameplay/TIME_AND_ACTION_RULES.md` §7; interval minimum mengikuti `bestiary/SPIRIT_BEAST_RULES.md`. Sebelum setiap percobaan penyerapan, verifikasi semua syarat resmi dan terapkan hard gate di `core/SPIRIT_RING_RULES.md`. Jangan menyalin atau membuat pemetaan status alternatif di indeks ini.
-
-## Standar Istilah Kultivasi
-
-- Untuk tingkat kultivasi bernomor 1–9, gunakan **Spirit Realm** secara konsisten. Jangan menyingkatnya menjadi `Realm` atau menyebutnya `Cultivation Realm`.
-- Nama tingkat resmi adalah Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, dan Spirit Primordial.
-- **Mortal** adalah status dasar sebelum sembilan Spirit Realm, bukan Spirit Realm 0.
-- Jangan mengubah nama proper lain yang menggunakan kata *Realm* dengan makna berbeda, seperti Heaven Realm dalam sejarah.
-
-## Sumber Utama dan Batas Tanggung Jawab
-
-- `INDEX.md`: alur dan navigasi.
-- `templates/AUTHORITY_ORDER.md`: Authority Order: perilaku GM, prosedur, anti-cheat, dan resolusi aksi tingkat umum.
-- `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`: **satu-satunya sumber format visual lengkap setiap respons gameplay**.
-- `templates/CHARACTER_PROFILE_TEMPLATE.md`: arti field dan aturan konsistensi state; bukan format output kedua.
-- `templates/PLAYER_CONVERSATION_TEMPLATE.md`: prompt pemanggilan singkat; bukan sumber mekanik.
-- `world/DYNAMIC_EVENTS.md`: registry canon event dunia persisten; wajib diperiksa setiap giliran gameplay.
-- `templates/WORLD_EVENT_UPDATE_TEMPLATE.md`: format usulan perubahan event untuk ditinjau admin; bukan registry dan bukan bukti bahwa perubahan telah disimpan.
-- `players.md`: indeks karakter terdaftar.
-- `players/<Nama>.md`: snapshot awal karakter individual, bukan save berjalan.
-- `core/TIER_ASSESSMENT_AND_APPRAISAL.md`: metode fallback Tier 1–9 untuk barang/artefak/Beast serta otoritas Kantor Appraisal (MAA). Martial Soul tidak memakai Tier 1–9 generik: undian rarity dan penilaian kualitas inherennya mengikuti formulasi khusus `core/MARTIAL_SOUL_AWAKENING.md`; appraisal kualitas inheren tidak menimpa rarity hasil undian yang sah.
-- Modul mekanik: sumber resmi untuk aturan di ruang lingkupnya.
-- Modul world: sumber resmi untuk lore, geografi/perjalanan, pemerintahan Golden Dragon Empire, bangsa berakal, faksi, sejarah, katalog artefak, distribusi kekayaan, stratifikasi sosial, serta event dinamis sesuai cakupannya. Untuk perjalanan atau interaksi dengan kelompok masyarakat, baca modul world yang relevan; jangan menganggap `MAP_AND_REGIONS.md` menggantikan aturan transportasi atau lore bangsa berakal.
-- Event dinamis: setelah hasil aksi ditetapkan, cek apakah konsekuensinya persisten dan berdampak pada dunia bersama. Jika ya, siapkan proposal melalui `templates/WORLD_EVENT_UPDATE_TEMPLATE.md`. Proposal pemain/GM bukan canon dan tidak boleh dianggap tersimpan sebelum ditinjau, disetujui, dan di-commit oleh owner/admin. Perubahan karakter pribadi tidak dimasukkan ke registry event dunia.
-- Profil gameplay terakhir dan kejadian setelahnya: sumber state sesi berjalan.
-
-## Konsistensi yang Wajib Dipertahankan
-
-- Jangan menambah field terpisah untuk Law atau Spirit Rings tanpa persetujuan pemilik. Rincian ring masuk ke Teknik / Kemampuan atau deskripsi Martial Soul.
-- HP dan injury adalah dua state berbeda; gunakan modul masing-masing.
-- `Satiety: nilai/100` adalah field profil resmi dan hanya dihitung menurut `core/HUNGER_AND_METABOLISM.md`. Setiap aktivitas terbaru wajib menyebut Satiety, dengan nilai sebelum → perubahan → sesudah bila berubah, atau nilai tetap dan alasannya bila tidak berubah. Istirahat tidak menambah Satiety; hanya memperlambat pengurangan. Konsumsi harus menyebut nama item, tier resmi, jumlah, dan efek aktual; jika tier belum tercatat secara resmi, ikuti `core/TIER_ASSESSMENT_AND_APPRAISAL.md`: gunakan hasil appraisal resmi bila tersedia; jika belum, gunakan prediksi GM berskor hanya bila bukti cukup dan beri label prediksi; jika bukti tidak cukup, tulis “Tier belum ditetapkan — appraisal diperlukan”. Jika snapshot lama dibuat sebelum field Satiety ditambahkan, tetapkan estimasi awal GM yang wajar saat bootstrap sesi baru; jangan otomatis menetapkan 0 atau 100 dan jangan mengubah snapshot hanya untuk mengisi state sesi. Waktu tidur malam yang dilindungi mengunci Satiety; pengecualian tidur malam terhadap batas aksi ditetapkan di `gameplay/TIME_AND_ACTION_RULES.md`.
-- Sync progress/cap kompatibilitas berbeda dari penguasaan kekuatan ring 100%; ikuti Spirit Ring Rules.
-- Status dan format field `Spirit Ring Absorption` mengikuti `templates/CHARACTER_PROFILE_TEMPLATE.md`; rumus `Day left` mengikuti `gameplay/TIME_AND_ACTION_RULES.md` §7; interval minimum mengikuti `bestiary/SPIRIT_BEAST_RULES.md`. Terapkan hard gate dari `core/SPIRIT_RING_RULES.md` sebelum percobaan penyerapan.
-- Jangan mengubah HP, Qi, Spirit Realm, ring, inventory, equipment, assets, Currency, luka, atau relasi tanpa penyebab yang sah.
-- GM wajib mempertahankan ledger Satiety, uang, dan item secara kronologis di riwayat percakapan: catat setiap perubahan ketika benar-benar terjadi, lanjutkan dari entri terakhir, cocokkan Satiety/Wallet/jumlah/status item dengan profil, dan silang-rujuk perubahan yang berasal dari tindakan yang sama. Ikuti `core/HUNGER_AND_METABOLISM.md`, `core/10_ECONOMY_SYSTEM.md`, dan `templates/AUTHORITY_ORDER.md`; gunakan satu laporan perubahan dan satu LEDGER LOG untuk semua field yang terdampak oleh satu tindakan. Ledger tidak menambah field profil atau modul terpisah dan tidak boleh diklaim tersimpan permanen di GitHub tanpa commit yang benar-benar diverifikasi. Jika riwayat ledger tidak tersedia, ungkapkan celahnya dan rekonsiliasi dari profil terakhir yang dapat diverifikasi—jangan mengarang sejarah.
-- Penggunaan `???` sangat terbatas: identitas karakter yang benar-benar tidak dikenal, nama Martial Soul yang belum diketahui, dan `Day left` sebelum penyerapan Spirit Ring pertama yang berhasil. Semua status serta format `status | Day left` mengikuti `templates/CHARACTER_PROFILE_TEMPLATE.md`. Jangan gunakan `???` untuk saldo, HP, Qi, Satiety, atau field lain. Field numerik lain yang belum tercatat diisi `0`; field nonnumerik lain yang belum ditetapkan ditulis `Belum ditetapkan` atau `Tidak ada` sesuai makna. `Belum ditetapkan Day left` hanya untuk state lama yang diketahui pernah menyerap ring tetapi riwayatnya tidak cukup untuk menghitung cooldown. Jangan menciptakan rahasia, kemampuan, transaksi, atau kejadian masa lalu.
-- Registry dan file karakter individual tidak boleh diubah selama gameplay tanpa permintaan eksplisit pemilik repository.
-- Jangan memberi menu pilihan atau daftar opsi bernomor. Akhiri adegan pada situasi terbuka agar player menentukan tindakan sendiri, sesuai `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`.
+- `INDEX.md`: bootstrap dan navigasi.
+- `templates/AUTHORITY_ORDER.md`: perilaku GM, resolusi aksi, konsistensi, dan ledger.
+- `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`: satu-satunya format visual gameplay.
+- `templates/CHARACTER_PROFILE_TEMPLATE.md`: definisi field dan konsistensi state.
+- `templates/PLAYER_CONVERSATION_TEMPLATE.md`: trigger/input player saja.
+- `world/DYNAMIC_EVENTS.md`: registry event canon; periksa setiap giliran.
+- `templates/WORLD_EVENT_UPDATE_TEMPLATE.md`: proposal event; bukan canon sampai disetujui dan di-commit owner/admin.
+- Modul mekanik/world adalah otoritas untuk cakupannya. `players.md` adalah indeks; `players/<Nama>.md` adalah snapshot awal; profil gameplay terakhir beserta kejadian sesudahnya adalah state aktif.
+- Penilaian universal dan Kantor Appraisal: `core/TIER_ASSESSMENT_AND_APPRAISAL.md`. Martial Soul memakai formulasi khusus `core/MARTIAL_SOUL_AWAKENING.md`; rarity hasil undian terpisah dari kualitas inheren.
 
 ## Daftar File Resmi
 
@@ -286,59 +201,43 @@ The three major powers are **Golden Dragon Empire, Tianhai Yunzhou, and Beiming 
 
 **Route and economy realism:** routes must reflect confirmed geography and transport. Some settlements require an intermediate village, bridge, ferry, pass, port, or gate. Local resources, crafts, labor, demand, and services should create plausible trade relationships, but proposals remain non-canon until owner-approved.
 
+## 3. Canon wilayah — jalur wajib
 
+### Semua kekuasaan besar dan Lawless Territories
 
-### Mandatory Settlement Canon Load Path — Golden Dragon Empire
+Untuk gameplay, lore, audit, atau edit yang melibatkan Golden Dragon Empire, Tianhai Yunzhou, Beiming Gu, atau Lawless Territories:
+1. Baca `world/CANON_DECISIONS_AND_PRECEDENCE.md`; baca `world/WORLD.md` dan `world/MAP_AND_REGIONS.md` bila konteks global/lintas wilayah relevan.
+2. Baca modul `world/REGION_*.md` yang sesuai; untuk Lawless Territories baca `world/LAWLESS_TERRITORIES.md`.
+3. Ikuti INDEX ke sumber khusus pemerintahan, faksi, institusi, layanan, ekonomi, atau NPC. Untuk NPC, gunakan `regions/<power>/INDEX.md` dan `regions/<power>/npcs/REGISTRY.md`, lalu baca profil canonical yang relevan.
+4. Untuk perjalanan, verifikasi rute melalui `world/LOCATION_AND_ROUTE_NETWORK.md`, modul wilayah asal/tujuan, dan `world/GEOGRAPHY_AND_TRAVEL.md`; durasi hanya dari `gameplay/TIME_AND_ACTION_RULES.md`.
+5. Untuk audit lintas wilayah, baca semua roster/register yang terdampak. Jangan mengasumsikan koneksi langsung atau memindahkan hitungan, pemerintahan, harga, institusi, dan norma sosial antar-kekuasaan.
+6. Perlakukan scaffold dan detail yang belum ditetapkan sebagai belum diketahui. Pisahkan canon, proposal, estimasi, rumor, dan rahasia.
 
-Whenever the GM/AI must narrate, count, compare, add, rename, classify, or edit a settlement in the Golden Dragon Empire, load and apply these sources in order before answering or changing files:
+### Golden Dragon Empire — permukiman
 
-1. `INDEX.md` — enter through this routing rule.
-2. `world/CANON_DECISIONS_AND_PRECEDENCE.md` — check binding owner decisions and conflict rules.
-3. `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md` — authoritative register for the official village names, classifications, counts, and regional distribution.
-4. The relevant `world/REGION_<NAME>.md` file for the location/scene. For a **total-count audit, cross-region comparison, or settlement-register edit**, read all seven Golden Dragon Empire regional modules and reconcile each roster against the atlas.
-5. `world/MAP_AND_REGIONS.md` and `world/LOCATION_AND_ROUTE_NETWORK.md` when regional context, connections, or travel routes are relevant; read `world/GEOGRAPHY_AND_TRAVEL.md` for travel/transport rules.
+Untuk menghitung, mengubah nama/klasifikasi, atau mengedit permukiman, baca `world/CANON_DECISIONS_AND_PRECEDENCE.md`, `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`, dan modul regional terkait. Untuk audit total, perbandingan lintas wilayah, atau edit roster, baca ketujuh modul regional Golden Dragon Empire; tambahkan peta/rute/geografi bila relevan.
 
-**Binding settlement rules:** the Golden Dragon Empire has exactly **13 official named villages** and the atlas separately lists **21 named hamlets/local settlements**. Count only entries classified as official villages in the atlas. Hamlets and other local settlements do not increase the official-village total. Preserve extra settlement details for exploration, but never silently promote, delete, merge, rename, or reclassify a place as canon. Any proposed status change requires explicit owner approval and coordinated updates to the atlas, affected regional modules, and all dependent references.
+Canon tetap: **13 desa resmi bernama** dan **21 hamlet/permukiman lokal bernama yang terpisah**. Hanya entri `Village` dalam atlas dihitung sebagai desa resmi. Perubahan status memerlukan persetujuan eksplisit owner dan sinkronisasi seluruh referensi terkait.
 
-If a required source cannot be fetched, state which source is unavailable and do not claim that the settlement audit or edit is fully verified. A summary, prior memory, heading, or older cached answer does not substitute for reading the current canonical files.
+### Pemicu navigasi cepat
 
-### Mandatory Territorial Canon Load Path — All Major Powers
-
-This workflow applies to **all three major powers**—Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu—and to the Lawless Territories whenever they are involved. It applies to gameplay, lore questions, audits, and repository edits. Do not apply the Golden Dragon Empire's administrative counts or settlement classifications to Tianhai Yunzhou or Beiming Gu.
-
-Before narrating a location, describing its government/economy/customs, creating a settlement or NPC, counting local institutions, or changing regional files, follow this path:
-
-1. Read `world/CANON_DECISIONS_AND_PRECEDENCE.md` for binding owner decisions and conflict precedence.
-2. Read `world/MAP_AND_REGIONS.md` and `world/WORLD.md` for the established world layout and cross-power context.
-3. Read the exact regional module for the location from `world/REGION_*.md` or the explicitly linked canonical Lawless Territories module. This regional module is the primary source for local established facts and its own unfilled fields. Use `regions/<power>/INDEX.md` and `regions/<power>/npcs/REGISTRY.md` only for NPC navigation and roster checks; do not assume these folders contain settlement modules.
-4. Follow the INDEX links for the relevant government, faction, institution, service, economy, or established NPC; read those specific sources rather than inferring details from a region's identity.
-5. If travel or cross-region movement matters, read `world/LOCATION_AND_ROUTE_NETWORK.md`, the origin and destination regional modules, and `world/GEOGRAPHY_AND_TRAVEL.md`; resolve travel duration only through `gameplay/TIME_AND_ACTION_RULES.md`. A missing route is not proof of a direct connection or of impossibility.
-6. For cross-region counts, audits, or edits to a shared register, inspect every affected regional roster and the canonical register governing that category. Do not extrapolate the Golden Dragon Empire's 13-village count to other powers; no count is established unless its authoritative source says so.
-7. Reconcile the planned response or edit against the loaded canon. Preserve explicit owner decisions, do not let a newer secondary file silently override established canon, and distinguish confirmed facts from proposals, estimates, rumors, and unknown details.
-
-**Beiming Gu safeguard:** the Beiming Gu regional files are owner-fillable scaffolds where their contents say details are pending. Treat only their confirmed foundations and cross-referenced official sources as established. Do not fill missing settlements, routes, local administration, prices, customs, or NPCs with invented facts and then present them as pre-existing canon. A GM may narrate situational details only within the authority rules and must not silently make them permanent canon.
-
-**Tianhai Yunzhou safeguard:** use `world/REGION_TIANHAI_YUNZHOU.md` and its linked institutional/governance/NPC references for Tianhai Yunzhou-specific facts. Do not transfer the Golden Dragon Empire's bureaucratic tiers, academy count, village register, or local social rules to Tianhai Yunzhou without a source that explicitly establishes them.
-
-If a required file cannot be fetched, name the missing source and limit the answer to what remains supported. A summary, prior memory, or region name is not a substitute for reading current canonical sources.
-
-### Regional/NPC navigation triggers
-| Situation | Required source |
+| Situasi | Sumber tambahan |
 |---|---|
-| Character is in or traveling to one of the named regions | Fetch the matching `world/REGION_*.md` module, plus `world/MAP_AND_REGIONS.md` / `world/GEOGRAPHY_AND_TRAVEL.md` as needed; for any Lawless Territories scene, also fetch `world/LAWLESS_TERRITORIES.md` |
-| Character enters a settlement listed in a regional module | Read that region's settlement and NPC registry; do not assume undocumented shops, residents, or authorities exist |
-| Character meets an established recurring or major NPC | Read the NPC profile linked from the regional registry and preserve prior continuity |
-| Character meets a new minor NPC | Follow `world/NPC_MANAGEMENT.md` and `templates/AUTHORITY_ORDER.md`; do not invent major secrets or present improvised details as permanent canon |
-| Ruined expedition, map submission, official exploration credit, payment, or suspected anomaly | Read `world/RUINED_ARCHIVER.md`, `world/GEOGRAPHY_AND_TRAVEL.md`, and `world/HISTORY.md`; also load the relevant regional module and `world/LAWLESS_TERRITORIES.md` when applicable |
-| Faction presence, membership, or authority matters | Read `world/FACTIONS.md` and the matching regional module; regional association alone does not prove current control |
-| A character in Tianhai Yunzhou seeks a Guild contract, trade association, healer, or medical service | Read `world/REGION_TIANHAI_YUNZHOU.md`, `world/FACTIONS.md`, and `world/SPIRIT_HUNTERS_GUILD.md` for Guild work; read `world/WORLD.md` for cross-world Medicine Hall Society canon. Check `core/10_ECONOMY_SYSTEM.md` before stating prices or fees |
-| Martial Soul Awakening or the Grand Martial Soul Awakening Hall is mentioned in any major power | Read `world/CANON_DECISIONS_AND_PRECEDENCE.md`, `core/MARTIAL_SOUL.md`, `core/MARTIAL_SOUL_AWAKENING.md`, and the relevant power's regional/governance modules. There is exactly one Hall at the principal civilizational center of each major power; do not invent secondary branches or apply Golden Dragon Empire-specific fees/subsidies to Tianhai Yunzhou or Beiming Gu |
-| A character seeks a first or later Spirit Ring through an academy expedition, a Guild party, or a solo hunt | Read `core/SPIRIT_RING_RULES.md`, `core/CULTIVATION_SYSTEM.md`, and `bestiary/SPIRIT_BEAST_RULES.md`; then load the route-specific source (`core/CULTIVATOR_ACADEMIES.md` for an academy Safe Route or `world/SPIRIT_HUNTERS_GUILD.md` for a Guild party) and relevant combat, HP, injury, time, and metabolism modules. Before every absorption attempt, calculate the `Spirit Ring Absorption` profile status from current state and enforce the hard gate; player insistence never bypasses eligibility. Resolve tracking, combat, ring ownership, eligibility, and absorption as separate steps. If ineligible and the character forces the attempt, apply only the existing deviation/HP and injury rules; do not invent damage or automatic permanent disability. |
-| A character seeks any Guild contract, joins a temporary Guild team, accepts escort/cargo/item-search work, seeks a Spirit Beast hunting party, or encounters a Guild bounty notice | Read `world/SPIRIT_HUNTERS_GUILD.md`; also read `core/SPIRIT_RING_RULES.md`, `bestiary/SPIRIT_BEAST_RULES.md`, and relevant combat/HP/injury modules when the contract involves Spirit Beasts or combat |
-| Government office, imperial ministry, or civil-versus-military authority matters in the Golden Dragon Empire | Read `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`, then the matching regional module and any linked NPC profile |
-| A character visits or discusses a Golden Dragon Empire prefecture, county, city, or other administrative unit | Read `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md` and the matching `world/REGION_*.md` module; use the atlas as the single source for jurisdiction names and counts |
-| A scene, edit, or question involves Golden Dragon Empire villages, hamlets, rural settlement counts, or a regional settlement roster | Follow the mandatory **Settlement Canon Load Path** below; do not rely on INDEX summaries alone |
-| A character seeks banking, information brokerage, medical services, foundational education, or a public knowledge library in the Golden Dragon Empire | Read `world/GOLDEN_DRAGON_EMPIRE_POPULATION_SERVICES.md` plus the matching regional module; use its named branch register and access limits |
-| NPC action changes the persistent world | Check `world/DYNAMIC_EVENTS.md` and the approved owner workflow; do not claim persistence without a verified repository update |
+| Wilayah/permukiman atau perjalanan | Modul regional; `world/MAP_AND_REGIONS.md`, `world/LOCATION_AND_ROUTE_NETWORK.md`, `world/GEOGRAPHY_AND_TRAVEL.md` sesuai kebutuhan; Lawless: `world/LAWLESS_TERRITORIES.md` |
+| NPC utama/berulang | Registry regional dan profil canonical NPC |
+| NPC minor baru | `world/NPC_MANAGEMENT.md`, `templates/NPC_PROFILE_TEMPLATE.md` |
+| Ruin, peta, kredit ekspedisi, kompensasi, anomali | `world/RUINED_ARCHIVER.md`, `world/GEOGRAPHY_AND_TRAVEL.md`, `world/HISTORY.md`, modul regional terkait |
+| Faksi/keanggotaan/kewenangan | `world/FACTIONS.md` dan modul regional |
+| Guild, kontrak, party, bounty, perburuan | `world/SPIRIT_HUNTERS_GUILD.md`; modul ring/beast/combat bila relevan |
+| Awakening/Martial Soul Awakening Hall | `world/CANON_DECISIONS_AND_PRECEDENCE.md`, `core/MARTIAL_SOUL.md`, `core/MARTIAL_SOUL_AWAKENING.md`, sumber regional/pemerintahan |
+| Spirit Ring Absorption | `core/SPIRIT_RING_RULES.md`, `core/CULTIVATION_SYSTEM.md`, `bestiary/SPIRIT_BEAST_RULES.md`, modul HP/injury/time/rute/combat yang relevan |
+| Pemerintahan/administrasi Golden Dragon Empire | `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`, `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`, modul regional/NPC |
+| Bank, informasi, medis, pendidikan dasar, perpustakaan Golden Dragon Empire | `world/GOLDEN_DRAGON_EMPIRE_POPULATION_SERVICES.md` dan modul regional |
+| Guild/layanan medis di Tianhai Yunzhou | `world/REGION_TIANHAI_YUNZHOU.md`, `world/FACTIONS.md`, `world/SPIRIT_HUNTERS_GUILD.md`; ekonomi untuk harga |
+| Dampak NPC persisten pada dunia | `world/DYNAMIC_EVENTS.md` dan alur proposal event yang disetujui; jangan klaim persistensi tanpa commit terverifikasi |
 
-**Canon boundary:** The regional modules preserve the region identities, named settlements, and faction associations already present in official world files. They intentionally leave detailed geography, routes, settlement-level population and demographics, customs, prices, named NPCs, hidden lore, and current faction control unfilled for the owner to define. administrative names across the Golden Dragon Empire and planning totals are governed by `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. Do not infer those details from a module's existence.
+## 4. Standar pemeliharaan canon
+
+- NPC utama/berulang memiliki satu profil penuh canonical yang ditautkan registry; periksa roster sebelum membuat pejabat atau anggota faksi. NPC biasa/temporer mengikuti `world/NPC_MANAGEMENT.md`.
+- Data regional baru mengikuti urutan: identitas → geografi → permukiman/kehidupan → ekonomi/sumber daya → kultivasi/Spirit Beast/Thinker → faksi/otoritas → NPC → konflik/event → rute/panduan GM. Referensikan sumber bersama, jangan menduplikasinya.
+- Jangan mengklaim event/proposal telah menjadi canon atau tersimpan tanpa persetujuan dan perubahan repo terverifikasi.

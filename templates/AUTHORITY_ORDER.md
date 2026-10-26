@@ -76,7 +76,7 @@ For any gameplay scene, lore answer, audit, or repository edit involving **Golde
 
 Untuk setiap trigger awal/CONVO, lakukan ini dalam urutan persis berikut. Ini bukan saran dan tidak boleh dilewati walaupun model merasa sudah mengingat format atau saldo:
 
-**A — Kunci bagan visual.** Buka dan baca penuh `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`; lalu baca `templates/CHARACTER_PROFILE_TEMPLATE.md`. Ikuti struktur master secara persis: timestamp mobile → narasi dan laporan perubahan → penanda inline-code `Log tercatat!` setelah perubahan terverifikasi → satu LEDGER LOG jika Satiety/uang/item/equipment/loot/aset berubah → empat seksi visual terpisah (`PROFIL KARAKTER`, `INV & KEUANGAN`, `TEKNIK & TUJUAN`, `CATATAN PEMAIN & KONSISTENSI`) → catatan kecil → `Tentukan Aksimu : --`. Setiap aktivitas terbaru harus menyebut Satiety, meskipun nilainya tetap. Wallet harus satu baris dengan denominasi `xc | xs | xg | zj | az`. `Spirit Ring Absorption` memuat `status | Day left`; jangan membuat field `Breakthrough` atau `Day left` terpisah. Ikuti garis pendek dan susunan vertikal template kanonis; jangan menambah menu pilihan atau membuat format alternatif.
+**A — Kunci bagan visual.** Buka dan baca penuh `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`; lalu baca `templates/CHARACTER_PROFILE_TEMPLATE.md`. Ikuti struktur master secara persis: timestamp mobile → narasi dan laporan perubahan → penanda inline-code `Log tercatat!` setelah perubahan terverifikasi → satu LEDGER LOG jika Satiety/uang/item/equipment/loot/aset berubah → empat seksi visual terpisah (`PROFIL KARAKTER`, `INV & KEUANGAN`, `TEKNIK & TUJUAN`, `CATATAN PEMAIN & KONSISTENSI`) → catatan kecil → `••• Tentukan Aksimu (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧`. Setiap aktivitas terbaru harus menyebut Satiety, meskipun nilainya tetap. Wallet harus satu baris dengan denominasi `xc | xs | xg | zj | az`. `Spirit Ring Absorption` memuat `status | Day left`; jangan membuat field `Breakthrough` atau `Day left` terpisah. Ikuti garis pendek dan susunan vertikal template kanonis; jangan menambah menu pilihan atau membuat format alternatif.
 
 **B — Muat profil player.** Untuk sesi baru karakter terdaftar, buka `players.md` dan baca seluruh `players/<Nama>.md`. Jangan hanya mengambil nama atau profil ringkas. Untuk sesi berjalan, pilih profil gameplay terakhir beserta kejadian setelahnya; jangan menimpa state dengan snapshot awal.
 
@@ -162,7 +162,7 @@ Template visual bukan sekadar contoh dekorasi. `templates/GAMEPLAY_RESPONSE_TEMP
 
 Sebelum mengirim respons, verifikasi secara visual terhadap template canonical:
 
-- Urutan keseluruhan: blok waktu → narasi dan laporan perubahan → `Log tercatat!` lalu satu `LEDGER LOG` jika Satiety/uang/item/equipment/loot/aset benar-benar berubah → empat seksi profil di bawah → catatan penutup → `Tentukan Aksimu : --`.
+- Urutan keseluruhan: blok waktu → narasi dan laporan perubahan → `Log tercatat!` lalu satu `LEDGER LOG` jika Satiety/uang/item/equipment/loot/aset benar-benar berubah → empat seksi profil di bawah → catatan penutup → `••• Tentukan Aksimu (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧`.
 - Empat seksi profil harus tetap terpisah dan memakai judul serta pembatas canonical: `PROFIL KARAKTER`, `INV & KEUANGAN`, `TEKNIK & TUJUAN`, `CATATAN PEMAIN & KONSISTENSI`.
 - Di `PROFIL KARAKTER`, pertahankan urutan persis: `Nama`, `Usia`, `Spirit Realm`, `Sync progress`, `Spirit Ring Absorption`, `Martial Soul`, `Thinker Grade`, `HP`, `Satiety`, `Qi`, `Kondisi Tubuh`, `Equipment`.
 - Di `INV & KEUANGAN`, pertahankan urutan `Inventory` → `Assets Bangunan` → `Wallet (wealth)`; Wallet harus ditampilkan dengan lima denominasi canonical `xc | xs | xg | zj | az` sesuai template.
@@ -174,7 +174,7 @@ Sebelum mengirim respons, verifikasi secara visual terhadap template canonical:
 
 ## 6. Format Jawaban
 
-Setiap respons gameplay—baik respons pertama setelah CONVO, recall, maupun giliran lanjutan—wajib mengikuti templates/GAMEPLAY_RESPONSE_TEMPLATE.md secara persis untuk urutan, nama field, timestamp visual, narasi, profil, catatan pemain, sekat, dan baris Tentukan Aksimu : --. Pemeriksaan event dilakukan di belakang layar dan tidak menambah field atau mengubah format canonical.
+Setiap respons gameplay—baik respons pertama setelah CONVO, recall, maupun giliran lanjutan—wajib mengikuti templates/GAMEPLAY_RESPONSE_TEMPLATE.md secara persis untuk urutan, nama field, timestamp visual, narasi, profil, catatan pemain, sekat, dan baris ••• Tentukan Aksimu (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧. Pemeriksaan event dilakukan di belakang layar dan tidak menambah field atau mengubah format canonical.
 
 Definisi field bersumber dari templates/CHARACTER_PROFILE_TEMPLATE.md. Perhitungan waktu bersumber dari Time Rules. Jangan menyalin format penuh ke prompt ini atau membuat format tandingan.
 

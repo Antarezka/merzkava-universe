@@ -76,16 +76,25 @@ Age Grade dan warna Spirit Ring merupakan dua klasifikasi berbeda. Warna ring me
 
 ## 3. Warna Ring
 
-| Warna | Usia Spirit Ring |
-|---|---:|
-| Putih | 10–99 tahun |
-| Kuning | 100–999 tahun |
-| Ungu | 1.000–9.999 tahun |
-| Hitam | 10.000–49.999 tahun |
-| Merah | 50.000–99.999 tahun |
-| Emas | 100.000–499.999 tahun |
+| Warna | Kode HEX acuan | Usia Spirit Ring |
+|---|---|---:|
+| Putih | `#FFFFFF` | 10–99 tahun |
+| Kuning | `#FFFF00` | 100–999 tahun |
+| Ungu | `#800080` | 1.000–9.999 tahun |
+| Hitam | `#000000` | 10.000–49.999 tahun |
+| Merah | `#FF0000` | 50.000–99.999 tahun |
+| Emas | `#FFD700` | 100.000–499.999 tahun |
+| Maroon | `#800000` | 500.000–999.999 tahun |
+| Emas | `#FFD700` | 1.000.000–1.999.999 tahun |
+| Ungu | `#800080` | 2.000.000–3.999.999 tahun |
+| Pink | `#FFC0CB` | 4.000.000–6.999.999 tahun |
+| Dark Vienna | `#1E203E` | 7.000.000–15.000.000 tahun |
 
-Warna untuk ring berusia 500.000 tahun atau lebih masih **Undefined**. Jangan menciptakan warna atau kategori baru. Rentang di atas 500.000 tahun tidak menetapkan batas maksimum usia ring; hanya warnanya yang belum diputuskan. Rentang warna di bawah 10 tahun juga belum ditetapkan.
+Kode HEX adalah acuan tampilan warna, bukan atribut kekuatan terpisah. Nama warna dan rentang usia di tabel ini adalah pemetaan kanonis Merzkava Universe; warna yang sama dapat muncul pada lebih dari satu rentang usia, sesuai tabel.
+
+Makhluk yang berusia **lebih dari 15.000.000 tahun** dipandang sebagai makhluk **Heaven Realm**, ranah para dewa yang berada di atas kekuatan Spirit Primordial. Mereka tidak boleh diperlakukan sekadar sebagai Spirit Beast biasa yang lebih tua. Tabel ini tidak menetapkan warna Spirit Ring untuk makhluk Heaven Realm; jangan menebak atau menciptakan warna di atas rentang Dark Vienna.
+
+Rentang warna di bawah 10 tahun belum ditetapkan.
 
 ## Status Kanonis Spirit Ring Absorption
 

@@ -87,12 +87,12 @@ Tujuan Saat Ini: ...
 
 ✦ Enjoy your convo, player! ✦
 
-Tentukan Aksimu : --
+••• Tentukan Aksimu (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧
 ```
 
 ## Aturan Penerapan
 
-- **Urutan respons:** timestamp → narasi natural dan laporan perubahan → penanda `Log tercatat!` pada kalimat perubahan yang sudah diverifikasi → satu `LEDGER LOG` untuk perubahan Satiety/uang/item/equipment/loot/aset → `PROFIL KARAKTER` → `INV & KEUANGAN` → `TEKNIK & TUJUAN` → `CATATAN PEMAIN & KONSISTENSI` → catatan kecil → `Aksiku : --`. Jangan menampilkan penanda atau ledger jika tidak ada perubahan state relevan. Setiap aktivitas terbaru tetap harus menyebutkan nilai Satiety, termasuk ketika nilainya tetap.
+- **Urutan respons:** timestamp → narasi natural dan laporan perubahan → penanda `Log tercatat!` pada kalimat perubahan yang sudah diverifikasi → satu `LEDGER LOG` untuk perubahan Satiety/uang/item/equipment/loot/aset → `PROFIL KARAKTER` → `INV & KEUANGAN` → `TEKNIK & TUJUAN` → `CATATAN PEMAIN & KONSISTENSI` → catatan kecil → `••• Tentukan Aksimu (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧`. Jangan menampilkan penanda atau ledger jika tidak ada perubahan state relevan. Setiap aktivitas terbaru tetap harus menyebutkan nilai Satiety, termasuk ketika nilainya tetap.
 - **Timestamp dan Era:** ikuti `gameplay/TIME_AND_ACTION_RULES.md`. Pada sesi baru, tentukan era sesuai prosedur dan jangan tinggalkan placeholder setelah bootstrap selesai. Pada sesi berlanjut, teruskan timestamp terakhir yang sah.
 - **Ledger gabungan ringkas:** untuk satu rangkaian aksi, gabungkan perubahan uang, item, dan Satiety dalam satu laporan dan satu `LEDGER LOG` sebelum profil. Contoh alur: beli makanan → bayar → konsumsi sambil menikmati pemandangan; catat item/tier/jumlah, harga dan saldo akhir, Inventory akhir, serta Satiety sebelum → perubahan → sesudah. Cukup tampilkan baris yang relevan, tanpa mengulang detail panjang. Gunakan `Log tercatat!` sekali setelah perubahan terverifikasi. Detail audit kronologis tetap dipertahankan di ledger sesi; aturan uang/item mengikuti `core/10_ECONOMY_SYSTEM.md` dan Satiety mengikuti `core/HUNGER_AND_METABOLISM.md`.
 - **Profil:** pertahankan nama field dan urutan persis seperti di atas. Empat seksi profil tetap terpisah. Gunakan `templates/CHARACTER_PROFILE_TEMPLATE.md` untuk arti field dan state; file itu bukan format visual alternatif.

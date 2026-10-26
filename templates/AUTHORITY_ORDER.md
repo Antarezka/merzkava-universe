@@ -105,7 +105,9 @@ Untuk setiap aksi:
 
 Untuk combat, termasuk cakupan aksi, serangan beruntun, multi-hit, damage, pertahanan, dan combo, ikuti gameplay/COMBAT_SYSTEM.md. **Satu aksi tidak sama dengan satu hit.** Jangan membuat aturan combat baru di prompt ini.
 
-**Status kanonis Spirit Ring Absorption:** ikuti aturan di `templates/CHARACTER_PROFILE_TEMPLATE.md`. Mortal tanpa proses Awakening aktif = `not eligible yet` tanpa Day left; Awakening aktif = `pending`; setelah Awakening selesai, nilai kelayakan ring pertama dan gunakan `??? Day left`; Spirit Realm 1–8 memakai status kelayakan serta timer; Spirit Realm 9 selalu `max | ∞ Day left` karena tidak ada ring berikutnya. Status harus tunggal tanpa label tambahan. ## Status Kanonis Spirit Ring Absorption
+**Status kanonis Spirit Ring Absorption:** ikuti aturan di `templates/CHARACTER_PROFILE_TEMPLATE.md`. Mortal tanpa proses Awakening aktif = `not eligible yet` tanpa Day left; Awakening aktif = `pending`; setelah Awakening selesai, nilai kelayakan ring pertama dan gunakan `??? Day left`; Spirit Realm 1–8 memakai status kelayakan serta timer; Spirit Realm 9 selalu `max | ∞ Day left` karena tidak ada ring berikutnya. Status harus tunggal tanpa label tambahan.
+
+## Status Kanonis Spirit Ring Absorption
 
 Status ditentukan oleh tahap karakter terlebih dahulu, lalu kelayakan proses penyerapan berikutnya. Tampilkan **tepat satu status**, jangan menampilkan alternatif sekaligus, dan jangan menambahkan alasan/label lain di dalam field profil.
 

@@ -11,7 +11,7 @@
 - **Usia:** 14 tahun (tersirat dari petunjuk warisan yang ditinggalkan untuknya tepat empat belas tahun kemudian).
 - **Spirit Realm:** Mortal/0
 - **Sync progress:** 0%/0% (belum memiliki Spirit Ring aktif; belum ada cap kompatibilitas ring yang ditetapkan).
-- **Spirit Ring Absorption:** not eligible yet | ??? Day left (belum pernah menyerap Spirit Ring; jeda antarpenyerapan belum berlaku).
+- **Spirit Ring Absorption:** not eligible yet
 - **Martial Soul:** ??? (belum diketahui; jangan ditetapkan sebelum kejadian awakening yang sah).
 - **Thinker Grade:** Belum ditetapkan.
 - **HP:** 100/100 (inisialisasi sesi baru menurut core/HP_SYSTEM.md).

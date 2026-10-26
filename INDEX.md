@@ -4,6 +4,10 @@ INDEX ini adalah **pintu masuk tunggal** untuk memulai, melanjutkan, dan menjala
 
 Repository resmi: https://github.com/Antarezka/merzkava-universe
 
+## Prioritas Format Respons GM — WAJIB
+
+`templates/GAMEPLAY_RESPONSE_TEMPLATE.md` adalah sumber tertinggi dan satu-satunya untuk bentuk keluaran gameplay GM. `templates/AUTHORITY_ORDER.md` wajib mengarahkan GM mengikuti template itu; `templates/PLAYER_CONVERSATION_TEMPLATE.md` hanya instruksi pemanggilan/input player dan tidak boleh mengubah, menimpa, atau membuat variasi format balasan GM. Untuk setiap respons gameplay, termasuk respons pertama, recall, dan giliran lanjutan, penutup wajib ditulis persis `••• Tentukan Aksimu (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧`. Jangan memakai `Aksiku : --`, `Aksiku:` atau variasi label player sebagai penutup respons GM. Jika ada instruksi atau file lain yang tampak bertentangan, ikuti `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` dan selaraskan instruksi sekunder saat pemeliharaan repo.
+
 ## Struktur Wilayah di Dalam Repo — WAJIB
 
 **Seluruh dunia Merzkava Universe dikelola di satu repositori resmi ini:** `Antarezka/merzkava-universe`. Nama Golden Dragon Empire, Tianhai Yunzhou, dan Beiming Gu adalah **tiga kekuasaan besar di dalam dunia**, bukan instruksi untuk membuat tiga repositori GitHub terpisah.

@@ -39,7 +39,7 @@ Tiga jendela makan harian:
 
 ## 3. Laju Dasar Menurut Tingkat
 
-Laju dasar menunjukkan waktu aktif yang diperlukan untuk mengurangi 100 Satiety dari penuh ke 0, sebelum pengubah kondisi tubuh, jam makan terlewat, dan efek khusus yang sah diterapkan.
+Laju dasar menunjukkan waktu terjaga yang diperlukan untuk mengurangi 100 Satiety dari penuh ke 0 sebelum pengali kategori aktivitas, kondisi tubuh, jendela makan terlewat, dan efek khusus yang sah diterapkan.
 
 | Tingkat tubuh/kultivasi | Waktu aktif per 100 Satiety |
 |---|---:|

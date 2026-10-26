@@ -78,6 +78,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
+- ✦ **Beast Age-Tier Formula and Open-Ended Tier 9**  
+  Spirit Beast age tiers are calculated from the specimen's actual age using one canonical table. Numeric tiers classify age only—not Beast categories, Spirit Realm, or appraisal strength tiers. Tier 9 begins at 500,000 years and has no hard upper limit; the 7,290,422-year Heavenly Beast of Azerion Forest remains Tier 9. Spirit Ring color is assessed separately.
+
 - ✦ **Pinned-Commit Roleplay Source and Automatic Hash Refresh**  
   The README now exposes a copyable commit hash for a stable snapshot of the roleplay source instead of relying on a moving `main` URL. A GitHub Actions workflow refreshes that hash after repository changes, keeping the displayed source one commit behind the newest README-refresh commit so the pinned reference does not chase itself.
 

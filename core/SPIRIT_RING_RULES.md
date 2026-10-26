@@ -68,11 +68,11 @@ Tidak ada batas usia Spirit Ring yang mutlak hanya berdasarkan angka usia atau S
 - Ring berusia lebih tinggi dapat membawa risiko bagi tubuh yang tidak mampu menoleransinya; keberhasilan tidak boleh dianggap otomatis.
 - Usia ring adalah faktor dominan untuk power scale. Tier Beast yang menghasilkan ring terutama memengaruhi kompatibilitasnya, bukan menjadi pengganti nilai usia ring.
 
-### 2.1 Tier usia Beast untuk kalkulasi
+### 2.1 Beast Age Grade untuk kalkulasi
 
-Untuk setiap Beast yang umurnya diketahui, tentukan **Tier Usia Beast** menggunakan rumus dan tabel kanonis di `bestiary/SPIRIT_BEAST_RULES.md` §1.2. Angka Tier 1–9 di sana adalah kelas umur semata—bukan kategori Spirit Beast/Demonic Beast/Heavenly Beast, bukan Spirit Realm, dan bukan penilaian kekuatan. Jangan gunakan Tier Usia sebagai pengganti usia aktual ketika menghitung AgeTotal atau PowerScale.
+Untuk setiap Beast yang umurnya diketahui, tentukan **Beast Age Grade** (selanjutnya **Age Grade**) menggunakan rumus dan tabel kanonis di `bestiary/SPIRIT_BEAST_RULES.md` §1.2. Angka 1–9 di sana adalah kelas umur semata—bukan kategori Spirit Beast/Demonic Beast/Heavenly Beast, bukan Spirit Realm, dan bukan penilaian kekuatan. Jangan gunakan Age Grade sebagai pengganti usia aktual ketika menghitung AgeTotal atau PowerScale.
 
-Tier usia dan warna Spirit Ring merupakan dua klasifikasi berbeda. Warna ring mengikuti tabel §3; Tier Usia Beast mengikuti tabel bestiary. Tier Usia 9 dimulai pada 500.000 tahun dan tidak memiliki batas maksimum tetap. Contohnya, Heavenly Beast Azerion Forest berumur 7.290.422 tahun tetap Tier Usia 9.
+Age Grade dan warna Spirit Ring merupakan dua klasifikasi berbeda. Warna ring mengikuti tabel §3; Age Grade Beast mengikuti tabel bestiary. Age Grade 9 dimulai pada 500.000 tahun dan tidak memiliki batas maksimum tetap. Contohnya, Heavenly Beast Azerion Forest berumur 7.290.422 tahun tetap Age Grade 9.
 
 ## 3. Warna Ring
 

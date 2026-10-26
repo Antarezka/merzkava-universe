@@ -9,11 +9,11 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ![Three colorful panels arranged as descending stairs, enlarged 15 percent on a transparent background](assets/world-tags.svg?v=3)
 
-### A WORLD THAT DOESN'T WAIT FOR YOU.
+### A CULTIVATION WORLD THAT DOESN'T STAND STILL.
 
-**THREE GREAT POWERS · COUNTLESS PATHS · NO GUARANTEED ENDING**
+**MARTIAL SOULS · SPIRIT RINGS · THINKERS · A WORLD OF CONSEQUENCES**
 
-*An invitation to look closer. Not a map of everything you'll find.*
+*Build your strength, uncover what history buried, and find out what your choices change.*
 
 </div>
 
@@ -21,30 +21,30 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ![THE NOTICEBOARD](https://img.shields.io/badge/THE_NOTICEBOARD-FFFFFF?style=for-the-badge&labelColor=151515)
 
-![Merzkava Universe colorful noticeboard: six framed panels introducing the world, hidden places, the cost of power, thinkers, the living calendar, and rumors](assets/noticeboard.svg?v=3)
+![Merzkava Universe noticeboard introducing its three powers, hidden territories, consequential choices, Thinkers and Artificial Artifacts, a living world, and rumors versus facts](assets/noticeboard.svg?v=4)
 
 ---
 
 ![NOTES LEFT ON THE BOARD](https://img.shields.io/badge/NOTES_LEFT_ON_THE_BOARD-151515?style=for-the-badge&labelColor=FFB36B)
 
 <details>
-<summary><strong>✦ A gathering shared by three great powers</strong></summary>
+<summary><strong>✦ Three powers, three different ways of life</strong></summary>
 
-A recurring festival brings regional goods, cultural displays, friendly sparring, and lantern-lit hopes into the same place. Its host and atmosphere can change—and a celebration doesn't make the wider world stop being complicated.
-
-</details>
-
-<details>
-<summary><strong>✦ Every route has a story</strong></summary>
-
-The world isn't one connected hallway. Routes, transport, local conditions, and the people you meet can shape the journey as much as the destination.
+Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu each have their own governments, cultures, resources, factions, and ambitions. Their differences shape trade, education, technology, prejudice, diplomacy, and the balance of power—without any one power controlling the whole world.
 
 </details>
 
 <details>
-<summary><strong>✦ No story is held together by plot armor</strong></summary>
+<summary><strong>✦ Grow through more than raw strength</strong></summary>
 
-Characters have their own priorities. Opportunities can pass, relationships can shift, and choices can carry consequences. The world doesn't promise a particular ending.
+Martial Souls, Spirit Rings, Spirit Beasts, techniques, and the nine Spirit Realms shape cultivation. Thinkers follow a separate path through knowledge, formulations, and Artificial Artifacts. Ancient ruins, hidden factions, dangerous routes, and hard-to-find resources reward curiosity—but discovery is never guaranteed.
+
+</details>
+
+<details>
+<summary><strong>✦ The world keeps moving when you do</strong></summary>
+
+NPCs have their own priorities; trade, festivals, rivalries, and political tensions continue beyond a single scene. Travel has real routes and risks, resources depend on location, and actions can leave lasting consequences. Rumors aren't automatically facts, and strength doesn't erase every mistake.
 
 </details>
 
@@ -60,7 +60,7 @@ Characters have their own priorities. Opportunities can pass, relationships can 
 
 [**OPEN THE INDEX →**](INDEX.md) &nbsp; · &nbsp; [**ENTER THE WORLD ARCHIVE →**](world/WORLD.md)
 
-<sub>The board gives you clues. The repository holds the deeper records.</sub>
+<sub>The board introduces the world. The archive holds its deeper lore, geography, factions, and systems.</sub>
 
 ---
 
@@ -68,6 +68,6 @@ Characters have their own priorities. Opportunities can pass, relationships can 
 
 <sub>LIGHT ORANGE EDITION · ORANGE + BLACK · WHITE PAPER · YELLOW + CORAL ACCENTS</sub>
 
-*The first impression is rarely the whole story.*
+*Cultivate. Create. Explore. Choose—and live with what follows.*
 
 </div>

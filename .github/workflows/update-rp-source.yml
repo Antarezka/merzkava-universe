@@ -1,0 +1,86 @@
+name: Refresh pinned RP source links
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-pinned-rp-source
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out latest main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Refresh the pinned RP links in README
+        env:
+          REPOSITORY: ${{ github.repository }}
+        run: |
+          git fetch origin main
+          SOURCE_SHA="$(git rev-parse origin/main)"
+          SHORT_SHA="$(git rev-parse --short=7 "$SOURCE_SHA")"
+          export SOURCE_SHA SHORT_SHA REPOSITORY
+
+          python - <<'PY'
+          import os
+          from pathlib import Path
+
+          readme = Path("README.md")
+          content = readme.read_text(encoding="utf-8")
+          start = "<!-- RP_SOURCE_START -->"
+          end = "<!-- RP_SOURCE_END -->"
+
+          if start not in content or end not in content:
+              raise SystemExit("README RP source markers are missing; refusing to rewrite the file.")
+
+          repo = os.environ["REPOSITORY"]
+          sha = os.environ["SOURCE_SHA"]
+          short = os.environ["SHORT_SHA"]
+          raw = f"https://raw.githubusercontent.com/{repo}/{sha}"
+
+          block = f"""<!-- RP_SOURCE_START -->
+          <div align="center">
+
+          ![RP SOURCE](https://img.shields.io/badge/RP_SOURCE-PINNED_COMMIT-151515?style=for-the-badge&labelColor=FFB36B)
+
+          ### ✦ READY-TO-COPY ROLEPLAY LINKS ✦
+
+          **Pinned commit:** `{short}`
+
+          </div>
+
+          ```text
+          Mulai roleplay dari sumber repo Merzkava Universe berikut:
+          INDEX: {raw}/INDEX.md
+          PLAYERS: {raw}/players.md
+          Analisis kedua file secara penuh dan ikuti seluruh aturan canon untuk memulai permainan sebagai (Nama Karaktermu).
+          ```
+          <!-- RP_SOURCE_END -->"""
+
+          before, rest = content.split(start, 1)
+          _, after = rest.split(end, 1)
+          readme.write_text(before + block + after, encoding="utf-8")
+          PY
+
+          if git diff --quiet -- README.md; then
+            echo "Pinned RP links are already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh pinned RP source links"
+          git push origin HEAD:main

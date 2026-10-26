@@ -155,36 +155,35 @@ Rules:
 - Exact flight durations, schedules, seating capacity, cargo rates, premium classes, taxes, and disruption surcharges remain unestablished. Do not invent them as fixed canon.
 - Refer to `world/REGION_TIANHAI_YUNZHOU.md`, `world/GEOGRAPHY_AND_TRAVEL.md`, and `world/ARTIFICIAL_ARTIFACTS.md` for route and technology details.
 
-## 6. Unified Pricing Formula
+## 6. One Unified Item Pricing Formula
 
-Use the following formula when the necessary inputs are available:
+Use **one formula only** for ordinary item pricing. Do not calculate separate competing prices from different sections, and do not apply the same market factor twice.
 
-`Final Price = (Base Price × Quality Multiplier × Scarcity Multiplier) + Distribution Adjustment + Local Market Adjustment`
+`Final Price = (Tier 1 Base Price × Tier Multiplier × Condition Multiplier × Scarcity Multiplier × Demand Multiplier) + Distribution Adjustment + Local Market Adjustment`
 
-Where:
-- **Base Price** is the normal Tier 1 local price for the item in its source market.
-- **Quality Multiplier** is the multiplier for the item's tier.
-- **Scarcity Multiplier** represents the relevant shortage affecting the item's available supply.
-- **Distribution Adjustment** accounts for the actual trade route and delivery costs.
-- **Local Market Adjustment** reflects supported destination-specific inventory, demand, and competition effects. It can be positive or negative.
+Calculate in this order:
 
-Use a scarcity multiplier of ×1.00 when supply is normal. If the destination has enough stored stock or alternative supply to insulate it from source-region scarcity, reduce or omit the scarcity effect only when the local market evidence supports that decision.
+1. **Tier 1 Base Price** — the item's ordinary local price in its source market under normal seasonal and market conditions. Set it according to the item's identity, type, size, function, freshness, and region; it is not a universal price shared by every item.
+2. **Tier Multiplier** — use the official quality multiplier in §2: Tier 1 ×1.00, Tier 2 ×1.30, Tier 3 ×1.70, Tier 4 ×2.20, Tier 5 ×2.90, Tier 6 ×3.80, Tier 7 ×5.00, Tier 8 ×6.60, Tier 9 ×8.50. Quality tier does not itself establish scarcity, rarity by quantity, or combat power.
+3. **Condition Multiplier** — assess the actual item condition, not its tier. Use ×1.00 for ordinary usable condition. A documented worn or damaged condition may lower the multiplier; unusually well-preserved condition may raise it only when supported by evidence. Use an established item-specific rule or appraisal when available. Do not invent a fixed condition multiplier when the evidence does not support one. Spoilage or loss of function must be reflected in the item's actual usability and value, not ignored.
+4. **Scarcity Multiplier** — use the relevant supply market's seasonal scarcity from §4: normal ×1.00, mild ×1.40, moderate ×1.80, severe ×2.40. Extreme scarcity has no fixed multiplier; determine it from remaining stock, actual supply routes, and recorded market conditions. Reduce or omit a source-scarcity effect only when destination stock or alternative suppliers support that decision.
+5. **Demand Multiplier** — assess current demand for this specific item in the relevant market. Use ×1.00 for ordinary demand. Apply a multiplier above or below ×1.00 only when current demand evidence supports it; record the reason and do not invent a numerical index or reuse demand already counted in another factor.
+6. **Distribution Adjustment** — add the supported net cost or saving for the actual trade route, including transport, handling, storage, spoilage during transport, tolls, insurance, and route risk. It may be positive or negative.
+7. **Local Market Adjustment** — add a documented destination-specific amount for factors not already represented above, such as merchant competition, a local inventory surplus, or a market-specific restriction. Do not count seasonal scarcity, demand, or transport costs again here if they have already been included in their dedicated factors.
 
-### Example: Snow Herb sold in three regions
+If an essential input is unknown, identify it and give a clearly labeled provisional estimate only when the available evidence supports one. Do not fabricate a precise price. Round only at the final step to a usable amount in the official currency, then normalize denominations using the official exchange rates.
 
-Assume:
-- Tier 1 normal local base price in the North = 5 xc.
-- Normal distribution adjustment to the Golden Dragon Empire = +4 xc.
-- Normal distribution adjustment to Tianhai Yunzhou = −1 xc because its route is unusually efficient and supply is abundant.
-- No extra local-market adjustment.
+### Worked Example: Snow Herb in Different Supply Conditions
 
-| Market condition | North | Golden Dragon Empire | Tianhai Yunzhou |
+Assume Snow Herb has a Tier 1 normal local base price of 5 xc in the northern source market, Tier 1 quality (×1.00), ordinary usable condition (×1.00), ordinary demand (×1.00), and no additional local-market adjustment. Distribution adjustments are +4 xc to the Golden Dragon Empire and −1 xc to Tianhai Yunzhou because that route is unusually efficient and supply is abundant.
+
+| Supply condition | North | Golden Dragon Empire | Tianhai Yunzhou |
 |---|---:|---:|---:|
-| Normal | 5 xc | 9 xc | 4 xc |
-| Mild scarcity | 7 xc | 11 xc | 6 xc |
-| Severe scarcity | 12 xc | 16 xc | 11 xc |
+| Normal (×1.00) | 5 xc | 9 xc | 4 xc |
+| Mild scarcity (×1.40) | 7 xc | 11 xc | 6 xc |
+| Severe scarcity (×2.40) | 12 xc | 16 xc | 11 xc |
 
-The destination examples carry the same source-scarcity surcharge for illustration. In actual play, local stock, alternative suppliers, demand, and route conditions may change the destination-market adjustment.
+These are illustrative results under the stated assumptions. In actual play, use verified condition, demand, local inventory, alternative suppliers, and route conditions. The table does not establish universal prices for Snow Herb in every market.
 
 ## 7. Mandatory GM Rules
 

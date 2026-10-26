@@ -54,7 +54,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![WORLD UPDATE LOG](https://img.shields.io/badge/WORLD_UPDATE_LOG-FFFFFF?style=for-the-badge&labelColor=151515)
 
-<sub>WORLD ARCHIVE · v0.4.95</sub>
+<sub>WORLD ARCHIVE · v0.4.96</sub>
 
 **✦ ──── ❖ ──── ✦**
 
@@ -66,8 +66,8 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
-- ✦ **Martial Soul Chance and Independent Classification Aligned**  
-  The awakening module keeps the 1–100 rarity draw (Common, Uncommon, Rare, Epic, Legendary, Myth), the separate evidence-based inherent-quality score, and the single 10% mutation draw independent. Numbered universal tiers and invented rarity labels are explicitly excluded; provisional classifications cannot overwrite the actual rarity result.
+- ✦ **Martial Soul Chance and Classification Unified Without Tier Labels**  
+  The awakening module keeps the rarity chance, inherent-quality assessment, and mutation chance as separate procedures in one authoritative source. Martial Soul uses only the established names Common, Uncommon, Rare, Epic, Legendary, and Myth—never numeric Tier 1–9 labels or invented rarity names. The inherent-quality assessment cannot overwrite the actual rarity draw, and obsolete conflicting classifications are not retained.
 
 - ✦ **GM Action Prompt Distinguished from Player Invocation**  
   The canonical gameplay template has absolute priority for GM output and ends with the exact prompt “••• Tentukan Aksimu (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧”. The player invocation template is explicitly limited to player input and cannot override GM response formatting.
@@ -81,8 +81,6 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ⟡ **Player RAW Bootstrap Links Normalized**  
   Registered player RAW links in `players.md` use the agreed `?v=2` cache parameter.
 
-- ✧ **Martial Soul Rarity Kept Separate from Tier 1–9**  
-  INDEX and Authority Order clarify that universal Tier 1–9 assessment applies to items, artifacts, and Beasts—not Martial Soul rarity.
 
 <div align="center">
 

@@ -4,7 +4,7 @@ Status: **Satu-satunya sumber resmi untuk bentuk, urutan, nama field, dan sekat 
 
 Semua trigger awal (CONVO), recall, dan giliran lanjutan wajib mengikuti template ini. `INDEX.md` mengatur navigasi/bootstrap; `templates/AUTHORITY_ORDER.md` mengatur perilaku GM; `templates/CHARACTER_PROFILE_TEMPLATE.md` mendefinisikan arti field; modul waktu dan mekanik mengatur perhitungan serta konsekuensi. File ini hanya master **format keluaran gameplay**, bukan tempat menyalin instruksi bootstrap.
 
-## Format Wajib — MODE: NO STEP
+## Format Wajib
 
 Gunakan susunan vertikal dan plakat ringkas yang nyaman dibaca di ponsel. Pertahankan empat seksi profil yang terpisah. Jangan menambah field, mengganti urutan, membuat format alternatif, atau menyalin instruksi dalam tanda kurung siku ke respons akhir. Ganti semua placeholder dengan state konkret yang sudah diverifikasi.
 
@@ -100,5 +100,5 @@ Aksiku : --
 - **HP dan cedera:** gunakan `core/HP_SYSTEM.md` serta `core/INJURY_SYSTEM.md` sebagai dua state terpisah.
 - **Satiety:** tampilkan `Satiety: nilai/100` dan hitung hanya menurut `core/HUNGER_AND_METABOLISM.md`. Setiap aktivitas terbaru wajib menyebut nilai Satiety; istirahat terjaga memperlambat pengurangan tanpa menambah Satiety, sedangkan tidur malam yang dilindungi mengunci nilai ini.
 - **Currency:** pertahankan format lima denominasi `xc | xs | xg | zj | az` dan saldo yang dapat diverifikasi dari snapshot/profil aktif beserta transaksi sah. Jangan menebak atau mengundi ulang saldo.
-- **NO STEP:** jangan menambahkan menu pilihan atau opsi bernomor. Akhiri adegan pada situasi terbuka agar player menentukan tindakan.
+- Jangan menambahkan menu pilihan atau opsi bernomor. Akhiri adegan pada situasi terbuka agar player menentukan tindakan.
 - **Sumber gagal:** jangan mengaku membaca file yang tidak dapat diakses. Sebutkan keterbatasan secara singkat dan jangan menyelesaikan bagian yang bergantung pada aturan yang hilang.

@@ -384,7 +384,7 @@ Martial Soul: Blue-Flame Silver Tiger
 Spirit Realm 9 — Spirit Primordial
 Stage: Early
 
-Proposed Spirit Ring Configuration
+Canonical Spirit Ring Configuration — Confirmed
 
 Slot| Ring Age| Color
 1| 50,000 years| Red
@@ -398,7 +398,7 @@ Slot| Ring Age| Color
 9| 1,000,000 years| Undefined
 Total| 4,250,000 years| 
 
-Warna Spirit Ring di atas 499.999 tahun belum ditetapkan dalam aturan warna dunia ini. Jangan menciptakan warna baru sebelum sistem tersebut disahkan.
+Konfigurasi usia sembilan Spirit Ring Leluhur Utara ini adalah kanon terkonfirmasi. Pemetaan warna untuk usia Spirit Ring di atas 499.999 tahun masih belum ditetapkan oleh aturan warna dunia; label `Undefined` adalah batas data yang disengaja, bukan izin untuk menebak atau menciptakan warna. Usia dan distribusi ring tetap menjadi fakta kanon meskipun warna beberapa ring belum ditentukan.
 
 Leluhur Utara dikenal sebagai penguasa dengan keunggulan besar dalam duel langsung dibandingkan dua penguasa lain pada Spirit Realm 9, meskipun Stage miliknya Early.
 

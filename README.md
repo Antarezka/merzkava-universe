@@ -54,7 +54,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![WORLD UPDATE LOG](https://img.shields.io/badge/WORLD_UPDATE_LOG-FFFFFF?style=for-the-badge&labelColor=151515)
 
-<sub>WORLD ARCHIVE · v0.4.66</sub>
+<sub>WORLD ARCHIVE · v0.4.70</sub>
 
 **✦ ──── ❖ ──── ✦**
 
@@ -66,20 +66,20 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
-- ✧ **Martial Soul Tier Scoring — Independent Classification**  
-  Added a dedicated evidence-based nine-tier assessment for Martial Souls, preserving existing canon titles such as Tier 7 Peak and Myth Tier.
+- ✧ **Martial Soul Rarity Uses Named Terms Only**  
+  Rarity is expressed as Common, Uncommon, Rare, Epic, Legendary, or Myth—never as numeric Tier 1–9.
 
-- ✦ **Awakening Chance — Rarity, Tier, Mutation**  
-  Integrated tier assessment into the awakening protocol while keeping the rarity draw (Common through Myth), tier score, and 10% mutation draw independent.
+- ✦ **Independent Inherent-Quality Assessment**  
+  Added a dedicated evidence-based score for provisional Martial Soul quality classification without overwriting the actual rarity draw.
 
-- ❖ **Canon Titles and Existing Results Preserved**  
-  Established Martial Soul tiers are not recalculated or renamed; uncertain classifications use the dedicated score only when enough evidence exists.
+- ❖ **Established Canon Titles Preserved**  
+  Existing terms such as Myth Tier and Tier 7 Peak remain exactly as recorded; no unapproved mapping or renaming is inferred.
 
-- ⟡ **Appraisal Authority Integration**  
-  Extended the Merzkava Appraisal Authority's remit to Martial Soul appraisal through the dedicated Martial Soul method, never the generic item/beast score or rarity chance.
+- ⟡ **Awakening and Mutation Remain Separate**  
+  The rarity draw, provisional quality assessment, and single 10% mutation roll retain distinct purposes and procedures.
 
 - ✧ **INDEX & Authority Order Alignment**  
-  Updated navigation and GM procedures so awakening follows one consistent sequence without confusing rarity probability, inherent Martial Soul tier, or mutation probability.
+  Updated the Martial Soul, appraisal, navigation, and GM authority rules to enforce named rarity terminology consistently.
 
 <div align="center">
 

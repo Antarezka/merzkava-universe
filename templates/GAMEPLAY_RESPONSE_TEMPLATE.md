@@ -6,7 +6,7 @@ Semua trigger awal (CONVO), recall, dan giliran lanjutan wajib mengikuti templat
 
 ## Format Wajib — MODE: NO STEP
 
-Field `Spirit Ring Absorption` mengikuti tahap karakter, bukan satu status universal. Gunakan `not eligible yet`, `pending`, `eligible`, atau `max` sesuai aturan kanonis di `templates/CHARACTER_PROFILE_TEMPLATE.md`. Spirit Realm 9 memakai `max | ∞ Day left`; Mortal yang tidak sedang Awakening memakai `not eligible yet | ??? Day left`; Awakening yang sedang berlangsung memakai `pending | ??? Day left`. Jangan tampilkan pilihan status berganda atau alasan tambahan.
+Field `Spirit Ring Absorption` mengikuti pemetaan kanonis di `templates/CHARACTER_PROFILE_TEMPLATE.md` dan selalu memakai satu status lengkap dalam format `status | Day left`. Jangan tampilkan pilihan status berganda atau alasan tambahan.
 
 Gunakan susunan vertikal dan sekat visual berikut. Saat gameplay berlangsung, ganti semua placeholder dengan data konkret yang telah diverifikasi. Jangan tampilkan instruksi dalam tanda kurung siku sebagai bagian dari respons gameplay.
 

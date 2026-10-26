@@ -81,8 +81,8 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **Pinned-Commit Roleplay Source and Automatic Hash Refresh**  
   The README now exposes a copyable commit hash for a stable snapshot of the roleplay source instead of relying on a moving `main` URL. A GitHub Actions workflow refreshes that hash after repository changes, keeping the displayed source one commit behind the newest README-refresh commit so the pinned reference does not chase itself.
 
-- ✦ **World Exploration Flow and Canonical Gates Aligned**  
-  The entry flow now clearly routes gameplay through the canonical response format, character state, current world events, and location-relevant modules. Exploration should reveal the world gradually through the character's circumstances and knowledge; undefined coordinates, distances, travel times, hidden facts, and outcomes must not be presented as established canon.
+- ✦ **Lean GM Routing and Pinned Snapshot Consistency**  
+  The central INDEX is now shorter and routes regional/NPC canon through a specialist guide loaded only when relevant. Authority Order delegates detailed mechanics and ledger formulas to their single source modules. Bootstrap resolves the README's pinned SHA first, then reads all gameplay sources from that same commit to avoid mixing moving `main` content with an older snapshot.
 
 - ✦ **Martial Soul Chance and Classification Unified Without Tier Labels**  
   The awakening module keeps the rarity chance, inherent-quality assessment, and mutation chance as separate procedures in one authoritative source. Martial Soul uses only the established names Common, Uncommon, Rare, Epic, Legendary, and Myth—never numeric Tier 1–9 labels or invented rarity names. The inherent-quality assessment cannot overwrite the actual rarity draw, and obsolete conflicting classifications are not retained.

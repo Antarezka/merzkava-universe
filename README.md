@@ -54,31 +54,34 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![WORLD UPDATE LOG](https://img.shields.io/badge/WORLD_UPDATE_LOG-FFFFFF?style=for-the-badge&labelColor=151515)
 
-**╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮**  
-**✦ THE LATEST FROM MERZKAVA ✦**  
-*Five recent additions to the world archive*  
-**╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯**
+**✦ ──── ❖ ──── ✦**
+
+**THE LATEST FROM MERZKAVA**
+
+*Five recent additions to the world archive*
+
+**✦ ──── ❖ ──── ✦**
 
 </div>
 
-- ✧ **Azerion Forest — A Hidden Half-Beast City**  
-  A secluded community lies beyond the forest's familiar dangers, with its own economy and guarded boundaries.
+- ✧ **Azerion Forest — Hidden Half-Beast City**  
+  A secluded community with its own economy and guarded borders.
 
-- ✦ **Beiming Gu — A Deeper NPC Network**  
-  Regional figures, family ties, and personal connections give the northern power more life beyond its ruler.
+- ✦ **Beiming Gu — Regional NPCs**  
+  New figures, family ties, and personal connections deepen the northern region.
 
 - ❖ **Routes Between the Great Powers**  
-  Travel now considers regional connections, practical transit links, and journeys that don't always follow a straight line.
+  Regional links and transit options make long journeys feel more natural.
 
-- ⟡ **Tianhai's Energy-Powered Air Transit**  
-  A distinct long-distance transport system adds another way to cross the world, tied to the region's specialized energy resources.
+- ⟡ **Tianhai — Energy-Powered Air Transit**  
+  A specialized air transport system connects distant parts of the world.
 
 - ✧ **Cultivation Profiles & Xuan Currency**  
-  Player records are being aligned with the world's Spirit Realm terminology and the Xuan-based wallet system.
+  Player records align with Spirit Realm terminology and the Xuan wallet system.
 
 <div align="center">
 
-**━━━━━━━━━━━ ❖ ✦ ❖ ━━━━━━━━━━━**
+**✧ ── ✦ ── ❖ ── ✦ ── ✧**
 
 </div>
 

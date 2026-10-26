@@ -25,7 +25,7 @@
 
 ## 3. Capabilities
 - **Spirit Realm / Stage:** Belum ditetapkan
-- **Martial Soul:** Heavenly Crane — Myth Tier
+- **Martial Soul:** Heavenly Crane — Myth
 - **Spirit Rings and abilities:** Belum ditetapkan
 - **Techniques / combat style:** Belum ditetapkan
 - **Thinker Grade / specialties:** Her personal grade and specialties are not established. The Shen family maintains its own advanced Thinkers.

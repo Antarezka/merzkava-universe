@@ -75,6 +75,7 @@ Pilih modul berdasarkan aksi, kondisi, dan lokasi saat ini. Jangan membaca atau 
 | Lore, bentuk, karakteristik, dan interpretasi Martial Soul | `core/MARTIAL_SOUL.md` |
 | Spirit Ring, kompatibilitas, penyerapan, kombinasi kemampuan, Qi, PowerScale, jalur perolehan ring | `core/SPIRIT_RING_RULES.md` |
 | Spirit Beast, syarat ring, jeda minimum, deviasi | `bestiary/SPIRIT_BEAST_RULES.md` |
+| Penilaian tier universal dan Kantor Appraisal dunia | `core/TIER_ASSESSMENT_AND_APPRAISAL.md` |
 | Combat, serangan beruntun, multi-hit, combo, damage, pertahanan | `gameplay/COMBAT_SYSTEM.md` |
 | HP | `core/HP_SYSTEM.md` |
 | Cedera dan pemulihan injury | `core/INJURY_SYSTEM.md` |
@@ -134,6 +135,7 @@ Pemetaan tunggal status dan format `status | Day left` berada di `templates/CHAR
 - `templates/WORLD_EVENT_UPDATE_TEMPLATE.md`: format usulan perubahan event untuk ditinjau admin; bukan registry dan bukan bukti bahwa perubahan telah disimpan.
 - `players.md`: indeks karakter terdaftar.
 - `players/<Nama>.md`: snapshot awal karakter individual, bukan save berjalan.
+- `core/TIER_ASSESSMENT_AND_APPRAISAL.md`: satu-satunya sumber metode penilaian tier fallback dan otoritas hasil Kantor Appraisal; tidak mengganti tier kanon yang sudah pasti.
 - Modul mekanik: sumber resmi untuk aturan di ruang lingkupnya.
 - Modul world: sumber resmi untuk lore, geografi/perjalanan, pemerintahan Golden Dragon Empire, bangsa berakal, faksi, sejarah, katalog artefak, distribusi kekayaan, stratifikasi sosial, serta event dinamis sesuai cakupannya. Untuk perjalanan atau interaksi dengan kelompok masyarakat, baca modul world yang relevan; jangan menganggap `MAP_AND_REGIONS.md` menggantikan aturan transportasi atau lore bangsa berakal.
 - Event dinamis: setelah hasil aksi ditetapkan, cek apakah konsekuensinya persisten dan berdampak pada dunia bersama. Jika ya, siapkan proposal melalui `templates/WORLD_EVENT_UPDATE_TEMPLATE.md`. Proposal pemain/GM bukan canon dan tidak boleh dianggap tersimpan sebelum ditinjau, disetujui, dan di-commit oleh owner/admin. Perubahan karakter pribadi tidak dimasukkan ke registry event dunia.
@@ -143,7 +145,7 @@ Pemetaan tunggal status dan format `status | Day left` berada di `templates/CHAR
 
 - Jangan menambah field terpisah untuk Law atau Spirit Rings tanpa persetujuan pemilik. Rincian ring masuk ke Teknik / Kemampuan atau deskripsi Martial Soul.
 - HP dan injury adalah dua state berbeda; gunakan modul masing-masing.
-- `Satiety: nilai/100` adalah field profil resmi dan hanya dihitung menurut `core/HUNGER_AND_METABOLISM.md`. Setiap aktivitas terbaru wajib menyebut Satiety, dengan nilai sebelum → perubahan → sesudah bila berubah, atau nilai tetap dan alasannya bila tidak berubah. Istirahat tidak menambah Satiety; hanya memperlambat pengurangan. Konsumsi harus menyebut nama item, tier resmi, jumlah, dan efek aktual; jika tier belum ditetapkan, tulis “Tier belum ditetapkan” tanpa mengarangnya. Jika snapshot lama dibuat sebelum field Satiety ditambahkan, tetapkan estimasi awal GM yang wajar saat bootstrap sesi baru; jangan otomatis menetapkan 0 atau 100 dan jangan mengubah snapshot hanya untuk mengisi state sesi. Waktu tidur malam yang dilindungi mengunci Satiety; pengecualian tidur malam terhadap batas aksi ditetapkan di `gameplay/TIME_AND_ACTION_RULES.md`.
+- `Satiety: nilai/100` adalah field profil resmi dan hanya dihitung menurut `core/HUNGER_AND_METABOLISM.md`. Setiap aktivitas terbaru wajib menyebut Satiety, dengan nilai sebelum → perubahan → sesudah bila berubah, atau nilai tetap dan alasannya bila tidak berubah. Istirahat tidak menambah Satiety; hanya memperlambat pengurangan. Konsumsi harus menyebut nama item, tier resmi, jumlah, dan efek aktual; jika tier belum tercatat secara resmi, ikuti `core/TIER_ASSESSMENT_AND_APPRAISAL.md`: gunakan hasil appraisal resmi bila tersedia; jika belum, gunakan prediksi GM berskor hanya bila bukti cukup dan beri label prediksi; jika bukti tidak cukup, tulis “Tier belum ditetapkan — appraisal diperlukan”. Jika snapshot lama dibuat sebelum field Satiety ditambahkan, tetapkan estimasi awal GM yang wajar saat bootstrap sesi baru; jangan otomatis menetapkan 0 atau 100 dan jangan mengubah snapshot hanya untuk mengisi state sesi. Waktu tidur malam yang dilindungi mengunci Satiety; pengecualian tidur malam terhadap batas aksi ditetapkan di `gameplay/TIME_AND_ACTION_RULES.md`.
 - Sync progress/cap kompatibilitas berbeda dari penguasaan kekuatan ring 100%; ikuti Spirit Ring Rules.
 - Status dan format field `Spirit Ring Absorption` mengikuti `templates/CHARACTER_PROFILE_TEMPLATE.md`; rumus `Day left` mengikuti `gameplay/TIME_AND_ACTION_RULES.md` §7; interval minimum mengikuti `bestiary/SPIRIT_BEAST_RULES.md`. Terapkan hard gate dari `core/SPIRIT_RING_RULES.md` sebelum percobaan penyerapan.
 - Jangan mengubah HP, Qi, Spirit Realm, ring, inventory, equipment, assets, Currency, luka, atau relasi tanpa penyebab yang sah.

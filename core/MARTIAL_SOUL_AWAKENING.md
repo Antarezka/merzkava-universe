@@ -48,15 +48,9 @@ Rarity awal ditentukan dengan satu undian yang merata dari rentang 1–100. Seti
 - Jangan mengubah peluang berdasarkan status sosial, garis keturunan, wilayah, kekayaan, usia, atau kepentingan plot kecuali aturan resmi kelak secara eksplisit mengubah tabel ini.
 - Kategori rarity mengukur kelas kelangkaan awakening. Rarity bukan jaminan bahwa Martial Soul tertentu memiliki atribut, kemampuan, atau kekuatan spesifik.
 
-## 2A. Independent Martial Soul Tier Assessment (Score-Based)
+## 2A. Independent Martial Soul Classification (Score-Based)
 
-**This section determines the Martial Soul's inherent tier. It is separate from the rarity chance table in Section 2 and the mutation chance in Section 4.** All three belong to one awakening protocol, but they answer different questions:
-
-- **Rarity draw (Section 2):** how rare the awakening classification is: Common, Uncommon, Rare, Epic, Legendary, or Myth.
-- **Tier score (this section):** the Martial Soul's assessed inherent classification, expressed as Tier 1–9 and its established tier title where applicable.
-- **Mutation draw (Section 4):** whether a mutation occurs after the player chooses to continue; it does not determine rarity or tier by itself.
-
-Never convert a rarity percentage into tier points, and never use the tier score to alter the chance table. A Myth rarity result is not automatically Tier 9; a Common result is not automatically Tier 1. If an exact Martial Soul and its tier are already established in canon, preserve that classification and do not recalculate it.
+**Martial Soul rarity/classification must use the established named terms only: Common, Uncommon, Rare, Epic, Legendary, and Myth. Do not express Martial Soul rarity as Tier 1–9 or invent numeric tier names.** This assessment method does not replace the single rarity chance draw in Section 2; the draw determines the awakening rarity, while this score is only a provisional assessment of the Martial Soul's inherent qualities. If the two appear inconsistent, preserve the actual rarity draw and label the score result as a separate provisional assessment—never silently overwrite one with the other.
 
 ### Assessment dimensions
 
@@ -76,36 +70,36 @@ Score each applicable dimension from 0–15 using established lore, confirmed tr
 
 Each applicable dimension uses the same rubric: 0 = tested/verified negligible; 1–3 = minor; 4–6 = limited; 7–9 = substantial; 10–12 = very high; 13–15 = exceptional within a relevant comparison class. Mark a genuinely irrelevant dimension N/A and exclude it from the average; unknown evidence is not a zero. Avoid counting the same trait twice.
 
-**Formula:** add the scores of applicable dimensions, divide by the number of applicable dimensions to get the mean, multiply the mean by 9, then round to the nearest whole number. Cap the result at 134. At least three dimensions must have reliable evidence; otherwise, do not issue a numerical prediction and mark **Tier belum ditetapkan — appraisal diperlukan**.
+**Formula:** add the scores of applicable dimensions, divide by the number of applicable dimensions to get the mean, multiply the mean by 9, then round to the nearest whole number. Cap the result at 134. At least three dimensions must have reliable evidence; otherwise, do not issue a numerical prediction and mark **Klasifikasi belum ditetapkan — appraisal diperlukan**.
 
-### Martial Soul score bands
+### Named classification bands
 
-| Score | Assessed Martial Soul tier |
+| Score | Provisional inherent classification |
 |---:|---|
-| 0–14 | Tier 1 |
-| 15–29 | Tier 2 |
-| 30–44 | Tier 3 |
-| 45–59 | Tier 4 |
-| 60–74 | Tier 5 |
-| 75–89 | Tier 6 |
-| 90–104 | Tier 7 — Peak classification begins at this tier |
-| 105–119 | Tier 8 |
-| 120–134 | Tier 9 |
+| 0–22 | Common |
+| 23–44 | Uncommon |
+| 45–66 | Rare |
+| 67–88 | Epic |
+| 89–110 | Legendary |
+| 111–134 | Myth |
 
-Existing canon titles such as **Myth Tier** remain exactly as recorded for Martial Souls already assigned that title. Where canon explicitly identifies a Martial Soul as **Tier 7 Peak** or another named classification, preserve that wording; do not silently rewrite it into a different label. This table supplies a fallback for unclassified Martial Souls, not permission to rename existing canon. If a new tier title or a mapping between **Myth Tier** and a numeric tier is not explicitly established for the subject, keep the established title and numeric tier separate until an authorized appraisal/canon decision confirms the mapping.
+These bands are a fallback for an **inherent-quality assessment**, not a second rarity draw and not an automatic rewrite of the awakening result. Keep the wording **Prediksi GM · [score] poin · klasifikasi inheren sementara** until an authorized appraisal or owner-approved canon decision confirms it. Do not present the score band as the result of the rarity chance table.
 
-### Awakening resolution order with tier assessment
+Preserve existing named canon exactly, including **Myth Tier** and **Tier 7 Peak** where those terms are already explicitly recorded. Do not convert these established titles into numeric tiers, rename them to match the score bands, or invent a mapping between them and the six rarity labels. If the relationship is not explicitly established for that subject, record the terms separately and request appraisal/owner clarification rather than assuming equivalence.
+
+### Awakening resolution order with independent assessment
 
 1. Confirm eligibility and the awakening event.
 2. Establish the base Martial Soul form from known, legitimate character/family evidence; do not invent a lineage.
-3. Perform the single 1–100 rarity draw from Section 2.
-4. Assess the inherent tier from established canon first; if no tier is recorded, use this score method only when evidence is sufficient. Record a provisional result as **Prediksi GM · [score] poin**. A score does not itself become official canon.
+3. Perform the single 1–100 rarity draw from Section 2 and record its named result exactly.
+4. Assess inherent qualities from established canon first; if no classification is recorded, use this score method only when evidence is sufficient. Record any score as a provisional assessment, never as the rarity draw result.
 5. Present the mandatory mutation-anomaly narrative and let the player choose whether to stop or continue.
-6. If the player stops, finalize the base Martial Soul with its already determined rarity and tier assessment; do not roll mutation.
-7. If the player continues, perform exactly one mutation draw at 10%. Mutation may change traits and therefore may warrant reassessment, but do not automatically raise or lower the tier. Reassess only from the actual resulting traits and available evidence; do not reroll rarity or mutation.
+6. If the player stops, finalize the base Martial Soul with its already determined rarity; keep any inherent-quality score explicitly provisional and separate. Do not roll mutation.
+7. If the player continues, perform exactly one mutation draw at 10%. Mutation may change traits and therefore may warrant reassessment, but do not automatically change the rarity. Reassess only from the actual resulting traits and available evidence; do not reroll rarity or mutation.
 8. If evidence is too limited or mutation effects are not mechanically established, preserve unknown details and request appraisal rather than fabricating a score or effect.
 
-A completed **Merzkava Appraisal Authority (MAA)** ruling is authoritative for the specific examined Martial Soul when its tier was previously unknown or uncertain. It does not change the rarity draw, grant abilities, establish lineage, guarantee combat victory, or override an already definitive owner-confirmed canon decision.
+A completed **Merzkava Appraisal Authority (MAA)** ruling is authoritative for the specific examined Martial Soul when its classification was previously unknown or uncertain. The examiner must distinguish the awakening rarity already drawn from any assessed inherent-quality classification. Appraisal does not change the chance draw, grant abilities, establish lineage, guarantee combat victory, or override an already definitive owner-confirmed canon decision.
+
 ## 3. Urutan Wajib Awakening
 
 GM harus mengikuti urutan ini setiap kali karakter menjalani awakening yang hasilnya sedang dimainkan:
@@ -113,7 +107,7 @@ GM harus mengikuti urutan ini setiap kali karakter menjalani awakening yang hasi
 1. Pastikan karakter memenuhi syarat usia dan proses awakening benar-benar berlangsung.
 2. Tentukan bentuk dasar Martial Soul dengan mempertimbangkan informasi karakter yang sah, termasuk kecenderungan keluarga atau leluhur yang benar-benar diketahui. Bentuk Martial Soul tidak memiliki daftar tertutup dan dapat berupa bentuk lazim maupun tidak lazim, termasuk fenomena seperti kabut atau asap. Jangan mengarang silsilah, leluhur, atau kemampuan tersembunyi. Kecenderungan genetik memengaruhi pertimbangan bentuk, bukan mengubah tabel peluang rarity.
 3. Undi rarity awal sekali menggunakan tabel di Bagian 2.
-4. Tentukan tier Martial Soul secara terpisah: gunakan tier canon yang sudah pasti; jika tidak tersedia, ikuti skor khusus di Bagian 2A hanya jika bukti cukup. Catat sebagai prediksi sementara, bukan canon resmi. Jangan memakai hasil rarity sebagai skor tier.
+4. Catat hasil rarity dengan istilah resmi dari undian. Jika diperlukan dan bukti cukup, nilai kualitas inheren secara terpisah memakai skor Bagian 2A; tandai sebagai prediksi sementara dan jangan menyebutnya hasil rarity.
 5. Tampilkan narasi anomali atau gejolak yang menandai adanya kesempatan terakhir untuk menerima risiko mutasi. Narasi ini wajib diberikan setelah rarity diketahui, tetapi sebelum keputusan mutasi dan hasil akhir.
 6. Berikan keputusan kepada pemain: menghentikan proses dan mempertahankan hasil awal, atau bertahan untuk mengambil peluang mutasi.
 7. Jika pemain memilih berhenti, tetapkan Martial Soul awal dengan rarity dan tier yang sudah ditentukan; tidak ada undian mutasi.
@@ -176,13 +170,13 @@ Setelah rarity awal diundi dan sebelum hasil final ditetapkan, GM wajib menyampa
 
 GM wajib menjaga hal-hal berikut:
 
-- Rarity diundi sebelum pilihan mutasi ditawarkan; tier dinilai secara terpisah berdasarkan canon atau skor Bagian 2A.
-- Rarity chance, tier Martial Soul, dan mutation chance adalah tiga hal berbeda. Tidak ada satu pun yang secara otomatis menentukan dua hal lainnya.
+- Rarity diundi sebelum pilihan mutasi ditawarkan; penilaian kualitas inheren, bila digunakan, tetap terpisah dan sementara.
+- Rarity chance, penilaian kualitas inheren, dan mutation chance adalah tiga hal berbeda. Tidak ada satu pun yang secara otomatis menentukan dua hal lainnya.
 - Kesempatan mengambil risiko diberikan setiap kali proses awakening yang relevan berlangsung; jangan menghilangkannya hanya karena GM tidak menyukai kemungkinan hasil.
 - Keputusan berhenti atau bertahan hanya dibuat oleh pemain.
 - Peluang mutasi selalu 10% dan hanya satu undian per keputusan bertahan.
 - Tidak ada reroll, pengundian tersembunyi berulang, peluang yang berubah-ubah, atau hasil yang dipilih berdasarkan plot.
-- Hasil rarity, tier, dan mutasi tidak otomatis memberikan Spirit Realm, Stage, Qi, Spirit Ring, teknik, garis keturunan, atau kemenangan.
+- Hasil rarity, penilaian kualitas inheren, dan mutasi tidak otomatis memberikan Spirit Realm, Stage, Qi, Spirit Ring, teknik, garis keturunan, atau kemenangan.
 - Catatan akhir hanya memuat hasil yang benar-benar diundi dan ditetapkan.
 - Jika terjadi konflik dengan lore umum Martial Soul, gunakan modul ini untuk prosedur, tabel peluang, dan keputusan mutasi; gunakan `core/MARTIAL_SOUL.md` untuk lore serta karakteristik umum.
 

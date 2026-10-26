@@ -391,14 +391,14 @@ Slot| Ring Age| Color
 2| 50,000 years| Red
 3| 50,000 years| Red
 4| 100,000 years| Gold
-5| 500,000 years| Undefined
-6| 500,000 years| Undefined
-7| 1,000,000 years| Undefined
-8| 1,000,000 years| Undefined
-9| 1,000,000 years| Undefined
+5| 500,000 years| Maroon
+6| 500,000 years| Maroon
+7| 1,000,000 years| Gold
+8| 1,000,000 years| Gold
+9| 1,000,000 years| Gold
 Total| 4,250,000 years| 
 
-Konfigurasi usia sembilan Spirit Ring Leluhur Utara ini adalah kanon terkonfirmasi. Pemetaan warna untuk usia Spirit Ring di atas 499.999 tahun masih belum ditetapkan oleh aturan warna dunia; label `Undefined` adalah batas data yang disengaja, bukan izin untuk menebak atau menciptakan warna. Usia dan distribusi ring tetap menjadi fakta kanon meskipun warna beberapa ring belum ditentukan.
+Konfigurasi usia dan warna sembilan Spirit Ring Leluhur Utara ini adalah kanon terkonfirmasi. Warna mengikuti tabel usia ring di `core/SPIRIT_RING_RULES.md`; warna tidak boleh ditebak terpisah dari tabel mekanik tersebut.
 
 Leluhur Utara dikenal sebagai penguasa dengan keunggulan besar dalam duel langsung dibandingkan dua penguasa lain pada Spirit Realm 9, meskipun Stage miliknya Early.
 

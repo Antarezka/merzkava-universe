@@ -112,7 +112,7 @@ Hitung jendela makan yang terlewat secara beruntun saat karakter terjaga dan mem
 
 - Sebuah jendela dihitung terlewat ketika jendela itu berakhir tanpa karakter makan, selama karakter terjaga dan punya kesempatan yang wajar untuk makan. Jendela yang berlalu saat tidur malam yang dilindungi tidak dihitung.
 - Pengali baru mulai berlaku pada interval terjaga setelah jendela dinyatakan terlewat. Jangan menerapkannya kembali ke interval yang sudah dihitung.
-- Setelah karakter benar-benar mengonsumsi makanan/minuman yang layak, reset hitungan jendela makan terlewat menjadi 0 untuk interval berikutnya. Makanan tetap memulihkan Satiety sesuai efek resmi item meskipun dikonsumsi di luar jendela makan.
+- Setelah karakter benar-benar mengonsumsi makanan atau minuman bernutrisi yang secara wajar memenuhi kebutuhan makan, reset hitungan jendela makan terlewat menjadi 0 untuk interval berikutnya. Air biasa atau konsumsi nonnutritif tidak otomatis mereset hitungan kecuali aturan item resmi menyatakan sebaliknya. Konsumsi tetap memulihkan Satiety sesuai efek resmi item meskipun terjadi di luar jendela makan.
 - Jika karakter terkurung, tidak sadar, terikat, atau situasi nyata lain menghalangi akses/kemampuan makan, jangan menyebutnya sengaja melewatkan makan. Hitung hanya kesempatan makan yang benar-benar ada; jangan menambahkan pengali saat karakter tidak punya pilihan wajar.
 - Jangan menambahkan pengurangan tetap khusus hanya karena sebuah jendela terlewat. Dampaknya diterapkan melalui pengali F terhadap pengurangan selama waktu terjaga berikutnya.
 

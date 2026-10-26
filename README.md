@@ -24,14 +24,14 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ### ✦ READY-TO-COPY ROLEPLAY LINKS ✦
 
-**Pinned commit:** `5fe25df` *(initial value; will be refreshed automatically)*
+**Pinned commit:** `693b69e`
 
 </div>
 
 ```text
 Mulai roleplay dari sumber repo Merzkava Universe berikut:
-INDEX: https://raw.githubusercontent.com/Antarezka/merzkava-universe/5fe25df/INDEX.md
-PLAYERS: https://raw.githubusercontent.com/Antarezka/merzkava-universe/5fe25df/players.md
+INDEX: https://raw.githubusercontent.com/Antarezka/merzkava-universe/693b69ecc33fdc39f4304ff92a82ec114cb20f87/INDEX.md
+PLAYERS: https://raw.githubusercontent.com/Antarezka/merzkava-universe/693b69ecc33fdc39f4304ff92a82ec114cb20f87/players.md
 Analisis kedua file secara penuh dan ikuti seluruh aturan canon untuk memulai permainan sebagai (Nama Karaktermu).
 ```
 <!-- RP_SOURCE_END -->

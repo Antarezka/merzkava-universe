@@ -80,3 +80,10 @@ Gunakan istilah **Spirit Realm** secara konsisten untuk tingkat kultivasi; `Mort
 - Gunakan `core/HP_SYSTEM.md` dan aturan pertarungan resmi untuk damage HP jika mekanik tersebut tersedia.
 - Gunakan entri Beast yang sah untuk persyaratan item spesifik.
 - Jika aturan penting belum tersedia, nyatakan keterbatasannya dan jangan mengarang fakta canon.
+
+
+## Universal Tier Assessment and Appraisal
+
+The beast's official tier, when already established in canon, must be used exactly as recorded. Do not infer a beast tier from its name alone or recalculate an official tier. If a specific beast/specimen has no established tier or its tier is uncertain, use `core/TIER_ASSESSMENT_AND_APPRAISAL.md`.
+
+The GM may provide a provisional scored estimate only when at least three assessment dimensions have reliable evidence; label it `Prediksi GM` and record the score/evidence. Otherwise, mark `Tier belum ditetapkan — appraisal diperlukan`. A completed Merzkava Appraisal Authority (MAA) ruling takes priority for that exact examined specimen when canon was previously uncertain. A ruling for one specimen does not automatically classify every beast of the same species. This appraisal system does not replace Spirit Realm, Spirit Ring tier/age, absorption requirements, combat mechanics, or any official beast classification.

@@ -12,7 +12,7 @@
 | Beiming Han | Leluhur Utara; highest known figure of Beiming Gu; strongest Spirit Primordial cultivator of the current era | Beiming Gu affiliation; exact whereabouts unknown | [BEIMING_HAN.md](BEIMING_HAN.md) |
 | Beiming Xenhwa | 17-year-old half-beast; white nine-tailed fox; adoptive daughter of Beiming Han | Beiming Gu affiliation; exact whereabouts unknown | [BEIMING_XENHWA.md](BEIMING_XENHWA.md) |
 | Beiming Jingheng | 17-year-old human; adoptive son of Beiming Han | Beiming Gu affiliation; exact whereabouts unknown; secret criminal connection is GM-sensitive | [BEIMING_JINGHENG.md](BEIMING_JINGHENG.md) |
-| Beiming Nerva | Beiming Han's older biological sister; Spirit Realm 8; Thinker Grade 9; Martial Soul Kartikeya (Myth Tier) | True age mysterious; sometimes disguises herself as a student at Beichen Cultivator Academy; identity is GM-sensitive | [BEIMING_NERVA.md](BEIMING_NERVA.md) |
+| Beiming Nerva | Beiming Han's older biological sister; Spirit Realm 8; Thinker Grade 9; Martial Soul Kartikeya (Myth) | True age mysterious; sometimes disguises herself as a student at Beichen Cultivator Academy; identity is GM-sensitive | [BEIMING_NERVA.md](BEIMING_NERVA.md) |
 
 ## Clan roster — 12 clans
 

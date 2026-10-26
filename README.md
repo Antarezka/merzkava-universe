@@ -54,7 +54,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![WORLD UPDATE LOG](https://img.shields.io/badge/WORLD_UPDATE_LOG-FFFFFF?style=for-the-badge&labelColor=151515)
 
-<sub>WORLD ARCHIVE · v0.4.0</sub>
+<sub>WORLD ARCHIVE · v0.4.34</sub>
 
 **✦ ──── ❖ ──── ✦**
 
@@ -66,20 +66,20 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
-- ✧ **Spirit Ring Absorption — Status & Cooldown Rules**  
-  Unified the absorption-status and `Day left` rules, removed duplicated/conflicting wording across the INDEX and Authority Order, and clarified the peak-Spirit-Realm exception for cooldown calculations.
+- ✧ **Economy Ledger — Full Audit, Compact Report**  
+  Separated the complete session audit from the player-facing log, preserving calculation details without bloating the visible gameplay response.
 
-- ✦ **Gameplay Profile — One Canonical Layout**  
-  Enforced the exact four-section gameplay profile order, kept `Day left` inside `Spirit Ring Absorption`, and removed the duplicated bootstrap block from the gameplay response template.
+- ✦ **One Unified LEDGER LOG**  
+  Clarified that a purchase, payment, item change, and immediate consumption share one visible log, while every money and item movement remains individually traceable in the session ledger.
 
-- ❖ **Wallet & Profile Consistency**  
-  Standardized Wallet as one line with all five Xuan denominations and aligned profile field definitions, the INDEX visual gate, and Authority Order with that same output contract.
+- ❖ **Satiety — Consumption & Missed Meal Windows**  
+  Specified that only genuinely nutritive consumption resets the missed-meal count and that food reports must identify the official item tier—or explicitly say “Tier belum ditetapkan”.
 
-- ⟡ **Beiming Gu — NPC Registry & Regional Continuity**  
-  Consolidated Beiming Gu NPC navigation around `regions/beiming-gu/npcs/REGISTRY.md` and its 21 canonical profiles, while keeping regional canon inside the single Merzkava Universe repository.
+- ⟡ **Satiety — Activity Calculation Alignment**  
+  Clarified the awake-time baseline and aligned activity categories, applied multipliers, and sustained cultivation with the official Satiety calculation rules.
 
-- ✧ **World Archive — Routes, Tianhai & Azerion**  
-  Continued integrating the three powers' regional structures, Tianhai's academy/Thinker and energy-powered air-transit systems, and Azerion Forest's hidden half-beast settlement and ancient-ruin lore.
+- ✧ **Bootstrap & Gameplay Authority Consistency**  
+  Synchronized the INDEX, Authority Order, and gameplay template around the canonical profile, verified state changes, and Satiety reporting requirements.
 <div align="center">
 
 **✧ ── ✦ ── ❖ ── ✦ ── ✧**

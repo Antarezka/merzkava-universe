@@ -20,7 +20,7 @@ Hari: ... | Cuaca: ... | Jam: HH:MM
 ━━━━━━━━━━━━━━━━━━
 
 NARASI
-[Narasi imersif sesuai kejadian, suasana, dialog, tindakan NPC, pengetahuan karakter, kondisi dunia, dan konsekuensi yang benar-benar terjadi. Setiap aktivitas terbaru wajib menyebutkan Satiety: jika berubah, nyatakan pengurangan/penambahan dan nilai sebelum → sesudah; jika tetap, nyatakan nilai tetap beserta alasannya. Untuk konsumsi, sebut nama item, tier resmi, jumlah, dan efek Satiety yang terverifikasi; jika tier belum ditetapkan, tulis “Tier belum ditetapkan”, jangan mengarangnya. Jika Satiety, uang, item, equipment, loot, atau aset benar-benar berubah, tampilkan laporan perubahan natural dan akhiri kalimat terkait dengan `Log tercatat!` sebelum ledger. Jangan gunakan penanda jika tidak ada perubahan atau hasil belum terkonfirmasi.]
+[Narasi imersif sesuai kejadian, suasana, dialog, tindakan NPC, pengetahuan karakter, kondisi dunia, dan konsekuensi yang benar-benar terjadi. Setiap aktivitas terbaru wajib menyebutkan Satiety: jika berubah, nyatakan pengurangan/penambahan dan nilai sebelum → sesudah; jika tetap, nyatakan nilai tetap beserta alasannya. Untuk konsumsi, sebut nama item, tier resmi, jumlah, dan efek Satiety yang terverifikasi; jika tier resmi belum tersedia, ikuti `core/TIER_ASSESSMENT_AND_APPRAISAL.md`: gunakan hasil Kantor Appraisal resmi jika tersedia; jika belum, cantumkan `Prediksi GM` beserta skor hanya bila bukti cukup; jika bukti tidak cukup, tulis “Tier belum ditetapkan — appraisal diperlukan”. Jika Satiety, uang, item, equipment, loot, atau aset benar-benar berubah, tampilkan laporan perubahan natural dan akhiri kalimat terkait dengan `Log tercatat!` sebelum ledger. Jangan gunakan penanda jika tidak ada perubahan atau hasil belum terkonfirmasi.]
 
 [Gunakan **satu LEDGER LOG ringkas** untuk semua perubahan dari satu rangkaian aksi—misalnya membeli makanan, membayar, lalu langsung memakannya. Tampilkan hanya baris yang relevan; jangan membuat log terpisah untuk pembayaran, item, dan konsumsi.]
 
@@ -31,7 +31,7 @@ NARASI
 │ Satiety: [awal] → [±delta] → [akhir] · [kategori/durasi jika relevan]
 ╰─
 
-[Jika perlu, ringkas kembalian dalam satu baris: “Bayar [nominal]; harga [nominal]; kembalian [nominal]”. Untuk konsumsi, sebut nama item, tier resmi atau “Tier belum ditetapkan”, jumlah, dan efek Satiety aktual. Jika beberapa item/denominasi berubah, ringkas dalam baris terkait tanpa menghilangkan nilai sebelum → perubahan → sesudah. Tulis persis penanda inline-code `Log tercatat!` sekali setelah laporan perubahan terverifikasi. Jangan tampilkan penanda/ledger untuk perubahan yang tidak terjadi.]
+[Jika perlu, ringkas kembalian dalam satu baris: “Bayar [nominal]; harga [nominal]; kembalian [nominal]”. Untuk konsumsi, sebut nama item, tier kanon/appraisal resmi atau prediksi GM berlabel jelas; jika bukti tidak cukup, “Tier belum ditetapkan — appraisal diperlukan”, jumlah, dan efek Satiety aktual. Jika beberapa item/denominasi berubah, ringkas dalam baris terkait tanpa menghilangkan nilai sebelum → perubahan → sesudah. Tulis persis penanda inline-code `Log tercatat!` sekali setelah laporan perubahan terverifikasi. Jangan tampilkan penanda/ledger untuk perubahan yang tidak terjadi.]
 
 ━━━━━━━━━━━━━━━━━━
 

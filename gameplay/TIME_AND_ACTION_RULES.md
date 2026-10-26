@@ -75,17 +75,17 @@ If any condition is not met or cannot be verified, apply the ordinary-action lim
 
 If the character is not eligible and the player still insists, do not bypass the gate or award success. Resolve only a forced attempt, using the existing deviation and HP formula in `core/SPIRIT_RING_RULES.md` and the Injury System for any injury supported by the event. Do not invent missing numerical formulas, damage, odds, or permanent disabilities. Severe or life-threatening consequences are possible when supported by the official formula and the actual event; no specific injury or death is automatic.
 
-`Day left` is a narrow exception used only to display the minimum interval between successful Spirit Ring absorptions. It is not a general countdown for cultivation breakthrough, training, or other activities. The canonical profile line is `Spirit Ring Absorption: ... | ... Day left`; calculate the countdown only from the number of successfully absorbed rings and the last successful Spirit Ring absorption timestamp, using the applicable minimum interval in `bestiary/SPIRIT_BEAST_RULES.md`.
+`Day left` adalah hitung mundur khusus jeda minimum antara penyerapan Spirit Ring yang berhasil. Ini bukan timer umum untuk breakthrough, latihan, atau aktivitas lain. Untuk ring kedua dan seterusnya, `Day left` wajib mencapai `0` sebagai gerbang waktu sebelum penyerapan boleh dilakukan.
 
+**Jam jeda yang dihitung (`eligible elapsed time`) hanya bergerak ketika karakter menjalani waktu dunia secara normal di luar aktivitas Kultivasi.** Waktu yang benar-benar dipakai untuk Kultivasi—termasuk time skip Kultivasi hingga satu bulan—tidak mengurangi `Day left` sama sekali, walaupun timestamp dan kalender dunia tetap maju. Aktivitas normal, istirahat/tidur normal, dan kegiatan biasa di luar Kultivasi dihitung berdasarkan durasi dunia yang benar-benar berlalu; jangan mengurangi hitungan hanya karena giliran berganti atau narasi diulang.
 
-
-- Use elapsed in-world time from recorded timestamps, not the number of turns or real-world time.
-- If positive time remains, round up to the next whole 24-hour unit. For example, 1 hour remaining = 1 Day left; 24 hours remaining = 1 Day left; 25 hours remaining = 2 Day left. This is a duration countdown, not a count of calendar-date changes.
-- If no successful Spirit Ring absorption timestamp or applicable ring count exists, use `Belum ditetapkan Day left`. Do not treat an unrelated cultivation breakthrough as a reason to calculate this field.
-- Display `0 Day left` only when the minimum interval has actually elapsed.
-- If the previous successful absorption, ring number, or required timestamp is unknown or conflicting, display `Belum ditetapkan Day left`; do not assume zero.
-- Recalculate only when recorded in-world time or valid history changes. A new turn by itself does not reduce the value.
-- `0 Day left` confirms only that the waiting period is complete. It does not confirm the Sync bottleneck, next ring, required item, breakthrough, or absorption conditions.
+- Pilih interval dari jumlah ring yang telah berhasil diserap dan interval resmi dalam `bestiary/SPIRIT_BEAST_RULES.md`.
+- Lacak durasi normal yang memenuhi syarat sejak penyerapan berhasil terakhir, dengan mengecualikan seluruh durasi Kultivasi yang tercatat. Jangan menghitung ulang dari selisih timestamp mentah saja jika rentang itu mencakup Kultivasi.
+- Bulatkan sisa interval positif ke atas dalam satuan 24 jam: 1 jam tersisa = `1 Day left`; 24 jam tersisa = `1 Day left`; 25 jam tersisa = `2 Day left`. Ini hitung mundur durasi, bukan hitungan pergantian tanggal kalender.
+- Tulis `0 Day left` hanya jika akumulasi waktu normal yang memenuhi syarat benar-benar telah mencapai interval minimum.
+- Jika timestamp, jumlah ring, atau riwayat yang memisahkan durasi Kultivasi dari waktu normal tidak diketahui/bertentangan, tulis `Belum ditetapkan Day left`; jangan menebak nol atau mengurangi waktu Kultivasi.
+- Perbarui hanya berdasarkan durasi dunia baru yang benar-benar berlalu dan klasifikasi aksinya. Kultivasi tidak menggerakkan angka ini; aktivitas normal dapat menguranginya sesuai durasi aktual.
+- `0 Day left` hanya mengonfirmasi interval waktu terpenuhi. Syarat Sync/bottleneck, ring target yang sah dan tersedia, item wajib, toleransi tubuh, serta semua syarat resmi lain tetap harus lolos.
 
 ## 8. Required Continuity Check
 
@@ -97,5 +97,6 @@ Before sending each gameplay response, verify:
 - Weather and location changes have a plausible cause.
 - Long cultivation satisfies all five conditions in §5.
 - Time passage has not automatically changed HP, Qi, Sync progress, Satiety, inventory, currency, or breakthrough status without an applicable rule and recorded cause.
+- `Day left` was not reduced by any duration classified as Kultivasi; only qualifying normal-life elapsed time was counted, and the interval is not marked complete unless its accumulated eligible duration reaches the official minimum.
 - Any awake time that passed has been resolved against `core/HUNGER_AND_METABOLISM.md`; protected night sleep neither reduces Satiety nor counts as a missed meal window.
 - The final response follows the exact order and visual layout in `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`.

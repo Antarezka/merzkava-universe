@@ -98,11 +98,13 @@ An item’s base price is specific to its type, size, condition, freshness, func
 ## 3. Regional Base Price
 
 Every priced item should have:
-1. An item identity and quality tier.
-2. A base price for Tier 1 (or an explicitly documented base price for its actual tier).
+1. An item identity and a reasonable quality category. For ordinary goods, use the fitting routine category (commonly Tier 1 for basic snacks, roadside food, and ordinary herbs) when the description supports it; do not require specialist appraisal.
+2. A local base price for Tier 1 (or an explicitly documented base price for its actual tier).
 3. A region of origin or a clearly identified local market.
-4. Relevant seasonal supply conditions, if known.
+4. Relevant seasonal supply conditions, if known and material.
 5. A distribution route or distribution adjustment when traded outside its local market.
+
+Specialist tier appraisal is reserved for unusual, disputed, unidentified, or mechanically/economically consequential goods whose classification cannot be settled from canon and ordinary market evidence. A missing formal appraisal record does not make the quality of every everyday item unknown.
 
 The base price is the ordinary local price in the region where the item is sourced, under normal seasonal conditions and ordinary market conditions. Do not treat one region's price as the universal price for the entire world.
 
@@ -199,7 +201,7 @@ These are illustrative results under the stated assumptions. In actual play, use
 
 ### Tier Verification for Goods and Appraisal Services
 
-Before pricing, buying, selling, consuming, or recording an item, check its official tier in the relevant canon source. If no definitive tier exists, follow `core/TIER_ASSESSMENT_AND_APPRAISAL.md`. Use a completed Merzkava Appraisal Authority (MAA) ruling as the authoritative tier for that exact examined item. Until then, use a clearly labeled GM prediction only when enough evidence exists; otherwise record `Tier belum ditetapkan — appraisal diperlukan`. Do not invent appraisal fees, taxes, or service charges: use an established local price or resolve the service's actual terms before changing Wallet. A tier assessment does not itself create a purchase, sale, ownership transfer, or price.
+Before pricing or recording an item, check relevant canon and market information. For ordinary goods whose identity and quality are clear, assign the fitting routine economic category from §2 (for example, basic roadside food may be Tier 1) and calculate the price with the single formula in §6; a formal canon entry or MAA appraisal is not required for every everyday item. If a meaningful special classification is uncertain, follow `core/TIER_ASSESSMENT_AND_APPRAISAL.md`: use an existing canon classification, then a completed MAA ruling for that exact examined item, or a clearly labeled provisional GM prediction only when evidence is sufficient. If the classification is consequential and evidence is insufficient, leave that special classification unresolved and seek appraisal when practical; do not block an ordinary transaction solely because no specialist tier has been recorded. Do not invent appraisal fees, taxes, or service charges: use an established local price or resolve the service's actual terms before changing Wallet. A tier assessment does not itself create a purchase, sale, ownership transfer, or price.
 
 ### Mandatory Transaction Log / Ledger
 
@@ -268,14 +270,14 @@ Item-ledger requirements:
 
 The money and item ledgers above are mandatory audit records. The same player-facing reporting standard also applies to every actual Satiety change. Show one concise, unified LEDGER LOG whenever Satiety, money, items, equipment, loot, or assets change; include only fields relevant to that event.
 
-**Required response order:** natural in-world narrative → explicit change report with before, delta, and after for every affected field → inline-code `Log tercatat!` after the relevant sentence, only once the result is verified → one visible `LEDGER LOG` → updated canonical character profile. For Satiety, the **full session audit record** must include the activity/consumption cause, elapsed duration where relevant, activity category, every multiplier actually applied, calculation, Satiety before, signed change, and Satiety after. The **visible compact report/log** needs only the relevant Satiety before → change → after values, plus category/duration when useful; do not force every multiplier into the player-facing block. For consumption, state the exact item name, official tier, quantity, official effect, and resulting Inventory/Satiety in the combined event report/log as appropriate. If no definitive official tier is established, follow `core/TIER_ASSESSMENT_AND_APPRAISAL.md`: use a completed MAA ruling if available, otherwise a clearly labeled GM prediction only when evidence is sufficient; if not, write “Tier belum ditetapkan — appraisal diperlukan”. Never present a prediction as official. For money/items/assets, include the known name, quantity, tier/quality, source/recipient, and amount when relevant in the audit trail; keep the visible log concise. Do not add a separate confirmation line. If no tracked field changed, omit marker and log. The marker confirms a session-ledger entry, not a GitHub write.
+**Required response order:** natural in-world narrative → explicit change report with before, delta, and after for every affected field → inline-code `Log tercatat!` after the relevant sentence, only once the result is verified → one visible `LEDGER LOG` → updated canonical character profile. For Satiety, the **full session audit record** must include the activity/consumption cause, elapsed duration where relevant, activity category, every multiplier actually applied, calculation, Satiety before, signed change, and Satiety after. The **visible compact report/log** needs only the relevant Satiety before → change → after values, plus category/duration when useful; do not force every multiplier into the player-facing block. For consumption, state the exact item name, quantity, actual effect, and resulting Inventory/Satiety in the combined event report/log as appropriate. Include the economic tier/quality when it is known or materially relevant; ordinary goods may use their routine economic category without specialist appraisal. For special or disputed classifications, follow `core/TIER_ASSESSMENT_AND_APPRAISAL.md` and clearly distinguish canon, official MAA ruling, and provisional GM prediction. Never present a prediction as official. For money/items/assets, include the known name, quantity, relevant tier/quality, source/recipient, and amount in the audit trail; keep the visible log concise. Do not add a separate confirmation line. If no tracked field changed, omit marker and log. The marker confirms a session-ledger entry, not a GitHub write.
 
 Use this compact mobile-friendly format. Include only affected fields, but preserve before → change → after for each changed state. A purchase followed by immediate consumption is **one combined event and one visible log**, not separate logs for payment, Inventory, and Satiety.
 
 ```text
 ╭─ LEDGER LOG · #[ID]
 │ [Waktu] · [Status]
-│ Item: [nama · tier kanon/appraisal resmi atau Prediksi GM + skor; jika bukti kurang: Tier belum ditetapkan — appraisal diperlukan · ×jumlah → Inventory akhir]
+│ Item: [nama · kualitas/tier jika diketahui atau relevan; untuk barang umum gunakan kategori ekonomi rutin · ×jumlah → Inventory akhir]
 │ Uang: [saldo awal → −biaya bersih → saldo akhir; kembalian jika ada]
 │ Satiety: [awal → ±delta → akhir · kategori/durasi jika relevan]
 ╰─

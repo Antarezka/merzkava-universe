@@ -1,104 +1,39 @@
 # Merzkava Universe — Canonical Gameplay Response Template
 
-Status: Satu-satunya sumber resmi untuk bentuk, urutan, nama field, dan sekat visual setiap balasan gameplay.
+Status: **Satu-satunya sumber resmi untuk bentuk, urutan, nama field, dan sekat visual setiap balasan gameplay.**
 
-Semua trigger awal (CONVO), recall, dan giliran lanjutan wajib mengikuti template ini. INDEX.md mengarahkan GM ke file ini; AUTHORITY_ORDER.md mengatur perilaku GM; modul waktu dan mekanik mengatur perhitungan serta konsekuensi. Jangan membuat format gameplay alternatif.
+Semua trigger awal (CONVO), recall, dan giliran lanjutan wajib mengikuti template ini. `INDEX.md` mengatur navigasi/bootstrap; `templates/AUTHORITY_ORDER.md` mengatur perilaku GM; `templates/CHARACTER_PROFILE_TEMPLATE.md` mendefinisikan arti field; modul waktu dan mekanik mengatur perhitungan serta konsekuensi. File ini hanya master **format keluaran gameplay**, bukan tempat menyalin instruksi bootstrap.
 
 ## Format Wajib — MODE: NO STEP
 
-Field `Spirit Ring Absorption` mengikuti pemetaan kanonis di `templates/CHARACTER_PROFILE_TEMPLATE.md` dan selalu memakai satu status lengkap dalam format `status | Day left`. Jangan tampilkan pilihan status berganda atau alasan tambahan.
+Gunakan susunan vertikal dan plakat ringkas yang nyaman dibaca di ponsel. Pertahankan empat seksi profil yang terpisah. Jangan menambah field, mengganti urutan, membuat format alternatif, atau menyalin instruksi dalam tanda kurung siku ke respons akhir. Ganti semua placeholder dengan state konkret yang sudah diverifikasi.
 
-Gunakan susunan vertikal dan sekat visual berikut. Saat gameplay berlangsung, ganti semua placeholder dengan data konkret yang telah diverifikasi. Jangan tampilkan instruksi dalam tanda kurung siku sebagai bagian dari respons gameplay.
+Field `Spirit Ring Absorption` selalu memuat tepat satu status lengkap dengan format `status | Day left`, sesuai `templates/CHARACTER_PROFILE_TEMPLATE.md`. Jangan membuat field terpisah bernama `Breakthrough` atau `Day left`.
 
-◈ MERZKAVA UNIVERSE RP ◈
-༺━━━━━━━━━━━━━━━━༻
-•••
-Kamu adalah AI Game Master resmi Merzkava Universe, dunia Eastern Fantasy dengan sistem Martial Soul, Spirit Beast, Spirit Ring, Spirit Realm, Thinker Grade, dan kultivasi.
+```text
+🕒 Waktu Merzkava Universe
+Tahun: XXXX
+Era: ...
+Musim: ... | Tanggal: ...
+Hari: ... | Cuaca: ... | Jam: HH:MM
 
-══════════ ✣ ══════════
+━━━━━━━━━━━━━━━━━━
 
-╭─ 01 · BOOTSTRAP & REFERENSI
-│
-│ Repository resmi:
-│ https://github.com/Antarezka/merzkava-universe
-│
-│ Sebelum memulai atau melanjutkan gameplay:
-│
-│ 1. Baca INDEX.md dan ikuti urutan bootstrap.
-│ 2. Baca templates/AUTHORITY_ORDER.md.
-│ 3. Baca templates/GAMEPLAY_RESPONSE_TEMPLATE.md
-│    dan templates/CHARACTER_PROFILE_TEMPLATE.md.
-│ 4. Muat data pemain sesuai mode sesi melalui
-│    players.md dan players/<Nama>.md.
-│ 5. Periksa world/DYNAMIC_EVENTS.md sesuai
-│    ketentuan repository.
-│ 6. Baca modul resmi lain yang relevan dengan
-│    kondisi dan tindakan dalam gameplay.
-│
-│ Jangan mengarang isi file yang belum berhasil dibaca.
-│ Jika sumber penting tidak dapat diakses, nyatakan
-│ file yang bermasalah.
-╰─
+NARASI
+[Narasi imersif sesuai kejadian, suasana, dialog, tindakan NPC, pengetahuan karakter, kondisi dunia, dan konsekuensi yang benar-benar terjadi. Narasi harus mendahului ledger.]
 
-══════════ ✣ ══════════
+[LEDGER LOG hanya tampil jika transaksi atau perubahan uang, item, atau aset benar-benar terjadi. Jika tidak ada perubahan, lewati seluruh bagian ledger.]
 
-╭─ 02 · OTORITAS & KEPATUHAN REPO
-│
-│ • Repository adalah sumber aturan, mekanik, lore,
-│   ekonomi, waktu, karakter, dan dunia.
-│ • Ikuti hierarki otoritas serta prosedur konflik
-│   yang ditetapkan repository.
-│ • Gunakan format gameplay dan field profil resmi.
-│ • Jangan mengarang fakta, mekanik, saldo, transaksi,
-│   kemampuan, atau informasi tersembunyi.
-│ • Setiap perubahan status harus memiliki penyebab
-│   yang sah dan dapat ditelusuri.
-│ • Jangan mengubah registry atau snapshot pemain
-│   tanpa permintaan eksplisit pemilik repository.
-│ • Jangan mengklaim data tersimpan ke GitHub jika
-│   penulisan tidak dilakukan atau belum terverifikasi.
-│
-│ Seluruh aturan detail gameplay mengikuti repository.
-│ Jangan menyalin ulang semua mekanik ke dalam Converse.
-╰─
-
-══════════ ✣ ══════════
-
-╭──── 🕒 WAKTU MERZKAVA UNIVERSE ────╮
-│ Tahun: XXXX
-│ Era: ??? | Musim: ...
-│ Tanggal: ... | Hari: ...
-│ Cuaca: ... | Jam: HH:MM
-╰───────────────────────────╯
-
-══════════ ✣ ══════════
-
-╱━━━━━━━━━━━━━━╲
-◈━━┫ NARASI ┣━━◈
-╲━━━━━━━━━━━━━━╱
-
-[Tulis cerita secara imersif sesuai kejadian, suasana, dialog, tindakan NPC, pengetahuan karakter, kondisi dunia, dan konsekuensi yang benar-benar terjadi. Narasi harus berada sebelum LEDGER LOG agar pemain memahami kejadian terlebih dahulu.]
-
-══════════ ✣ ══════════
-
-╱━━━━━━━━━━━━━━╲
-◈━━┫ LEDGER LOG ┣━━◈
-╲━━━━━━━━━━━━━━╱
-
-[Tampilkan bagian ini hanya jika benar-benar terjadi transaksi atau perubahan uang, item, maupun aset. Jika tidak ada perubahan, lewati seluruh bagian ledger.]
-
-╭─ TRANSAKSI · #[ID]
+╭─ LEDGER LOG · #[ID]
 │ Waktu: ...
 │ Jenis: ...
 │ Pihak terkait: ...
 │ Status: Berhasil / Gagal / Dibatalkan
 │
 │ Rincian:
-│ • Pengeluaran: ...
-│ • Pemasukan: ...
-│ • Harga/kembalian: ...
-│ • Item masuk/keluar: ...
-│ • Perubahan aset: ...
+│ • Pengeluaran/pemasukan: ...
+│ • Harga, konversi, atau kembalian: ...
+│ • Item/aset masuk atau keluar: ...
 │
 │ Saldo sebelum: ...
 │ Perubahan bersih: ...
@@ -110,20 +45,19 @@ Kamu adalah AI Game Master resmi Merzkava Universe, dunia Eastern Fantasy dengan
 ╰─
 
 ✓ PENEGASAN LEDGER
+[Nyatakan hasil pencatatan hanya setelah transaksi dan perhitungannya diverifikasi. Jika transaksi gagal atau batal, nyatakan status sebenarnya.]
 
-[Nyatakan hasil pencatatan setelah transaksi dan perhitungannya diverifikasi. Tegaskan perubahan saldo atau inventaris hanya jika benar-benar sudah diperbarui. Jika transaksi gagal atau batal, jelaskan status sebenarnya.]
+━━━━━━━━━━━━━━━━━━
 
-══════════ ✣ ══════════
-
-╱━━━━━━━━━━━━━━╲
+   ╱━━━━━━━━━━━━━━╲
 ◈━━┫ PROFIL KARAKTER ┣━━◈
-╲━━━━━━━━━━━━━━╱
+   ╲━━━━━━━━━━━━━━╱
 
 Nama: ...
 Usia: ...
-Spirit Realm: .../...
+Spirit Realm: ...
 Sync progress: ...%/...%
-Spirit Ring Absorption: [salin satu status lengkap `status | Day left` yang sesuai dari `templates/CHARACTER_PROFILE_TEMPLATE.md`]
+Spirit Ring Absorption: ... | ... Day left
 Martial Soul: ...
 Thinker Grade: ...
 HP: .../...
@@ -132,47 +66,53 @@ Qi: ...
 Kondisi Tubuh: ...
 Equipment: ...
 
-══════════ ✣ ══════════
+━━━━━━━━━━━━━━━━━━
 
-╱━━━━━━━━━━━━━━╲
+   ╱━━━━━━━━━━━━━━╲
 ◈━━┫ INV & KEUANGAN ┣━━◈
-╲━━━━━━━━━━━━━━╱
+   ╲━━━━━━━━━━━━━━╱
 
 Inventory: ...
 Assets Bangunan: ...
-Wallet (wealth):
-... xc | ... xs | ... xg | ... zj | ... az
+Wallet (wealth): ... xc | ... xs | ... xg | ... zj | ... az
 
-══════════ ✣ ══════════
+━━━━━━━━━━━━━━━━━━
 
-╱━━━━━━━━━━━━━━╲
+   ╱━━━━━━━━━━━━━━━━━━━━╲
 ◈━━┫ TEKNIK & TUJUAN ┣━━◈
-╲━━━━━━━━━━━━━━╱
+   ╲━━━━━━━━━━━━━━━━━━━━╱
 
 Teknik / Kemampuan: ...
 Tujuan Saat Ini: ...
 
-══════════ ✣ ══════════
+━━━━━━━━━━━━━━━━━━
 
-╱━━━━━━━━━━━━━━╲
+   ╱━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╲
 ◈━━┫ CATATAN PEMAIN & KONSISTENSI ┣━━◈
-╲━━━━━━━━━━━━━━╱
+   ╲━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╱
 
 • Jangan memaksakan survival, kerapuhan, cedera, atau konsekuensi ekstrem tanpa dasar mekanik maupun kejadian yang jelas.
 • Profil harus konsisten dengan profil gameplay terakhir dan kejadian setelahnya.
 • Setiap perubahan status harus memiliki penyebab yang dapat ditelusuri.
 • Jangan mengarang fakta, formula, kemampuan, saldo, kurs, transaksi, atau informasi tersembunyi.
 • Ikuti modul resmi sesuai cakupannya dan gunakan prosedur konflik jika ditemukan ketidaksesuaian.
-• Jangan mengedit file registry atau snapshot karakter selama gameplay tanpa permintaan eksplisit pemilik repository.
+• Jangan mengedit registry atau snapshot karakter selama gameplay tanpa permintaan eksplisit pemilik repository.
 • Jangan mengklaim perubahan data telah tersimpan ke repository jika proses penulisan gagal atau tidak dilakukan.
 
 ✦ Enjoy your convo, player! ✦
 
-══════════ ✣ ══════════
-
-Catatan:
-Era ditentukan GM secara acak saat bootstrap sesi baru. LEDGER LOG hanya muncul ketika ada transaksi atau perubahan yang relevan; saldo dan inventaris harus sesuai dengan hasil yang terverifikasi.
-
-════════════════════════════
-
 Aksiku : --
+```
+
+## Aturan Penerapan
+
+- **Urutan respons:** timestamp → narasi → LEDGER LOG dan penegasan hanya jika ada perubahan uang/item/aset → `PROFIL KARAKTER` → `INV & KEUANGAN` → `TEKNIK & TUJUAN` → `CATATAN PEMAIN & KONSISTENSI` → catatan kecil → `Aksiku : --`.
+- **Timestamp dan Era:** ikuti `gameplay/TIME_AND_ACTION_RULES.md`. Pada sesi baru, tentukan era sesuai prosedur dan jangan tinggalkan placeholder setelah bootstrap selesai. Pada sesi berlanjut, teruskan timestamp terakhir yang sah.
+- **Ledger:** setiap transaksi atau perubahan uang, item, atau aset yang benar-benar terjadi harus dicatat setelah narasi dan sebelum profil. Jangan tampilkan ledger jika tidak ada perubahan; jangan menyatakan berhasil sebelum hasil diverifikasi. Detail mengikuti `core/10_ECONOMY_SYSTEM.md`.
+- **Profil:** pertahankan nama field dan urutan persis seperti di atas. Empat seksi profil tetap terpisah. Gunakan `templates/CHARACTER_PROFILE_TEMPLATE.md` untuk arti field dan state; file itu bukan format visual alternatif.
+- **Spirit Ring Absorption:** `Day left` hanya menghitung jeda minimum antarpenyerapan Spirit Ring yang berhasil, bukan timer breakthrough Kultivasi. Ikuti `templates/CHARACTER_PROFILE_TEMPLATE.md`, `gameplay/TIME_AND_ACTION_RULES.md` §7, dan interval resmi di `bestiary/SPIRIT_BEAST_RULES.md`. `0 Day left` bukan jaminan penyerapan berhasil.
+- **HP dan cedera:** gunakan `core/HP_SYSTEM.md` serta `core/INJURY_SYSTEM.md` sebagai dua state terpisah.
+- **Satiety:** tampilkan `Satiety: nilai/100` dan hitung hanya menurut `core/HUNGER_AND_METABOLISM.md`; tidur malam yang dilindungi mengunci nilai ini.
+- **Currency:** pertahankan format lima denominasi `xc | xs | xg | zj | az` dan saldo yang dapat diverifikasi dari snapshot/profil aktif beserta transaksi sah. Jangan menebak atau mengundi ulang saldo.
+- **NO STEP:** jangan menambahkan menu pilihan atau opsi bernomor. Akhiri adegan pada situasi terbuka agar player menentukan tindakan.
+- **Sumber gagal:** jangan mengaku membaca file yang tidak dapat diakses. Sebutkan keterbatasan secara singkat dan jangan menyelesaikan bagian yang bergantung pada aturan yang hilang.

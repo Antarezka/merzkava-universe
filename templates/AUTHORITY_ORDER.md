@@ -76,7 +76,7 @@ For any gameplay scene, lore answer, audit, or repository edit involving **Golde
 
 Untuk setiap trigger awal/CONVO, lakukan ini dalam urutan persis berikut. Ini bukan saran dan tidak boleh dilewati walaupun model merasa sudah mengingat format atau saldo:
 
-**A — Kunci bagan visual.** Buka dan baca penuh `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`; lalu baca `templates/CHARACTER_PROFILE_TEMPLATE.md`. Ingat struktur lengkapnya: timestamp mobile, Narasi, LEDGER LOG kondisional setelah narasi bila transaksi/perubahan uang-item-aset terjadi, penegasan pencatatan, kotak PROFIL KARAKTER dengan seluruh field sesuai urutan, CATATAN PEMAIN & KONSISTENSI, catatan kecil, dan penutup `Aksiku : --`. Ikuti garis pendek dan susunan vertikal dari template kanonis; jangan menambah menu pilihan atau membuat format alternatif.
+**A — Kunci bagan visual.** Buka dan baca penuh `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`; lalu baca `templates/CHARACTER_PROFILE_TEMPLATE.md`. Ingat struktur lengkapnya: timestamp mobile, Narasi, LEDGER LOG kondisional setelah narasi bila transaksi/perubahan uang-item-aset terjadi, penegasan pencatatan, kotak PROFIL KARAKTER dengan seluruh field sesuai urutan, bagian CATATAN & KONSISTENSI, catatan kecil, dan penutup `Aksiku : --`. Ikuti garis pendek dan susunan vertikal dari template kanonis; jangan menambah menu pilihan atau membuat format alternatif.
 
 **B — Muat profil player.** Untuk sesi baru karakter terdaftar, buka `players.md` dan baca seluruh `players/<Nama>.md`. Jangan hanya mengambil nama atau profil ringkas. Untuk sesi berjalan, pilih profil gameplay terakhir beserta kejadian setelahnya; jangan menimpa state dengan snapshot awal.
 

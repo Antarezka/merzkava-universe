@@ -54,7 +54,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![WORLD UPDATE LOG](https://img.shields.io/badge/WORLD_UPDATE_LOG-FFFFFF?style=for-the-badge&labelColor=151515)
 
-<sub>WORLD ARCHIVE · v0.4.96</sub>
+![NIGHTLY VERSION — dark blue filled badge with black text outlined in white](assets/nightly-version.svg?v=1)
+
+<sub>WORLD ARCHIVE · v0.4.97</sub>
 
 **✦ ──── ❖ ──── ✦**
 
@@ -65,6 +67,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 **✦ ──── ❖ ──── ✦**
 
 </div>
+
+- ✦ **World Exploration Flow and Canonical Gates Aligned**  
+  The entry flow now clearly routes gameplay through the canonical response format, character state, current world events, and location-relevant modules. Exploration should reveal the world gradually through the character's circumstances and knowledge; undefined coordinates, distances, travel times, hidden facts, and outcomes must not be presented as established canon.
 
 - ✦ **Martial Soul Chance and Classification Unified Without Tier Labels**  
   The awakening module keeps the rarity chance, inherent-quality assessment, and mutation chance as separate procedures in one authoritative source. Martial Soul uses only the established names Common, Uncommon, Rare, Epic, Legendary, and Myth—never numeric Tier 1–9 labels or invented rarity names. The inherent-quality assessment cannot overwrite the actual rarity draw, and obsolete conflicting classifications are not retained.
@@ -77,10 +82,6 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 - ❖ **Gameplay Format Cleaned Up**  
   Removed the obsolete mode label while preserving the rule against numbered choice menus and keeping the canonical response layout unchanged.
-
-- ⟡ **Player RAW Bootstrap Links Normalized**  
-  Registered player RAW links in `players.md` use the agreed `?v=2` cache parameter.
-
 
 <div align="center">
 

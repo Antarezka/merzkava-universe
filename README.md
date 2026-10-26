@@ -90,6 +90,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **GM Action Prompt Distinguished from Player Invocation**  
   The canonical gameplay template has absolute priority for GM output and ends with the exact prompt “••• Tentukan Aksimu (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧”. The player invocation template is explicitly limited to player input and cannot override GM response formatting.
 
+- ✦ **Tier-Gap Spirit Ring Compatibility and Voluntary Handover Formula**  
+  Each ring's compatibility cap now starts at 100, subtracts a tier-threat gap penalty plus evidence-based body/Martial Soul penalties, then adds only supported combat and method bonuses. Genuine voluntary soul-ring handover receives a distinct high bonus and reduced tier penalty; ordinary forced acquisition cannot reach a 100 cap. The 80% range marks exceptional compatibility, while 100% remains rare and evidence-driven.
+
 - ✧ **Unified Item Pricing and Appraisal Scope Aligned**  
   Item prices continue to use one master formula combining economic quality tier, item condition, seasonal scarcity, demand, distribution, and local-market adjustments without double-counting factors. Routine goods—such as standard roadside food—use ordinary economic categories and local market pricing without mandatory specialist appraisal. The universal appraisal score and MAA ruling remain available for unusual, disputed, unidentified, or consequential classifications; GM predictions stay provisional and evidence-based.
 

@@ -77,9 +77,11 @@ If the character is not eligible and the player still insists, do not bypass the
 
 **Formulasi kanonis `Day left` (wajib):**
 
+Setiap kali penyerapan Spirit Ring berhasil, **inisialisasi `Day left` saat itu juga** berdasarkan interval minimum resmi menuju ring berikutnya. Tetapkan titik awal baru: `T_eligible = 0` tepat setelah keberhasilan tersebut. Jangan menunggu giliran berikutnya atau meminta riwayat tambahan untuk memulai hitung mundur.
+
 Definisikan:
-- `T_min` = interval minimum resmi untuk penyerapan berikutnya, sesuai jumlah ring yang telah berhasil diserap dan tabel interval di `bestiary/SPIRIT_BEAST_RULES.md`.
-- `T_eligible` = total durasi waktu dunia yang benar-benar dijalani secara normal di luar Kultivasi sejak penyerapan Spirit Ring terakhir yang berhasil.
+- `T_min` = interval minimum resmi untuk penyerapan berikutnya, sesuai jumlah ring yang telah berhasil diserap dan tabel interval di `bestiary/SPIRIT_BEAST_RULES.md`. Konversi interval ke durasi memakai kalender sesi yang berlaku; pada kalender fallback §2, 1 bulan = 30 hari.
+- `T_eligible` = total durasi waktu dunia yang benar-benar dijalani secara normal di luar Kultivasi sejak penyerapan Spirit Ring terakhir yang berhasil; nilainya dimulai dari `0` tepat saat ring berhasil diserap.
 - `T_remaining` = sisa interval yang harus dipenuhi.
 
 Rumus:
@@ -96,7 +98,7 @@ Jika T_remaining > 0:
 
 Pembulatan dilakukan pada sisa interval: sisa 1 jam hingga 24 jam = `1 Day left`; sisa lebih dari 24 jam hingga 48 jam = `2 Day left`. Angka hanya menjadi `0 Day left` saat `T_eligible >= T_min`. Jangan mengurangi satu hari penuh hanya karena giliran berganti atau tanggal kalender berubah.
 
-Jika riwayat penyerapan atau catatan durasi normal/Kultivasi tidak cukup untuk menghitung `T_eligible` secara andal, gunakan `Belum ditetapkan Day left`; jangan memperkirakan dan jangan menganggap cooldown selesai. Untuk ring kedua hingga kesembilan, `Day left = 0` adalah gerbang wajib yang terpisah dari Sync/bottleneck, ketersediaan ring, item, toleransi tubuh, dan syarat resmi lainnya.
+Setelah penyerapan berhasil dalam sesi yang sedang berjalan, catat kejadian itu sebagai titik awal dan langsung tetapkan `Day left` dari `T_min`; kondisi ini tidak boleh diberi label `Belum ditetapkan`. Gunakan `Belum ditetapkan Day left` hanya saat memuat state lama yang memang tidak memiliki catatan penyerapan atau riwayat waktu yang cukup untuk merekonstruksi sisa cooldown secara andal; jangan menebak dan jangan menganggap cooldown selesai. Untuk ring kedua hingga kesembilan, `Day left = 0` adalah gerbang wajib yang terpisah dari Sync/bottleneck, ketersediaan ring, item, toleransi tubuh, dan syarat resmi lainnya.
 
 ## 8. Required Continuity Check
 

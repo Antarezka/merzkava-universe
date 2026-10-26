@@ -155,6 +155,22 @@ GM wajib mempertahankan catatan perubahan state yang berjalan di dalam riwayat p
 
 Ledger hanya sah sebagai catatan audit atas kejadian yang benar-benar teresolusi. Permintaan atau niat pemain bukan bukti bahwa transaksi, penerimaan item, penggunaan barang, atau perubahan state berhasil.
 
+## 5B. Hard Gate Bentuk Profil — Jangan Membuat Ulang Layout
+
+Template visual bukan sekadar contoh dekorasi. `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` adalah master layout yang wajib direproduksi pada setiap respons gameplay. Membaca nama field saja atau mempertahankan informasi yang sama dalam kotak lain **belum dianggap patuh**.
+
+Sebelum mengirim respons, verifikasi secara visual terhadap template canonical:
+
+- Urutan keseluruhan: blok waktu → narasi → `LEDGER LOG` hanya jika ada perubahan uang/item/aset → empat seksi profil di bawah → catatan penutup → `Aksiku : --`.
+- Empat seksi profil harus tetap terpisah dan memakai judul serta pembatas canonical: `PROFIL KARAKTER`, `INV & KEUANGAN`, `TEKNIK & TUJUAN`, `CATATAN PEMAIN & KONSISTENSI`.
+- Di `PROFIL KARAKTER`, pertahankan urutan persis: `Nama`, `Usia`, `Spirit Realm`, `Sync progress`, `Spirit Ring Absorption`, `Martial Soul`, `Thinker Grade`, `HP`, `Satiety`, `Qi`, `Kondisi Tubuh`, `Equipment`.
+- Di `INV & KEUANGAN`, pertahankan urutan `Inventory` → `Assets Bangunan` → `Wallet (wealth)`; Wallet harus ditampilkan dengan lima denominasi canonical `xc | xs | xg | zj | az` sesuai template.
+- Di `TEKNIK & TUJUAN`, pertahankan `Teknik / Kemampuan` lalu `Tujuan Saat Ini`. Jangan menambah field seperti `Breakthrough`, `Law`, atau `Spirit Rings`; rincian ring yang sah masuk ke bagian yang ditentukan template.
+- Pertahankan bentuk visual vertikal, pembatas, garis, judul, dan penutup sebagaimana master. Dilarang mengganti seluruh bagan dengan tabel, ringkasan berlabel, kotak ASCII buatan sendiri, atau format yang hanya mirip.
+- Isi setiap field menggunakan definisi di `templates/CHARACTER_PROFILE_TEMPLATE.md` dan state yang sudah diverifikasi. Jangan menghapus field kosong, memindahkan data antarbagian, menampilkan placeholder instruksi, atau menggunakan `???` di luar ketentuan resmi.
+
+**Uji akhir wajib:** bandingkan respons yang sudah ditulis dengan `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` dari atas sampai bawah. Jika satu judul, field, urutan, pemisah, atau bagian penutup menyimpang, revisi dahulu. Jangan menyatakan respons sesuai repo hanya karena nilai-nilainya benar. Bagian ini memperjelas pemeriksaan kepatuhan dan tidak menggantikan atau menggandakan master layout.
+
 ## 6. Format Jawaban
 
 Setiap respons gameplay—baik respons pertama setelah CONVO, recall, maupun giliran lanjutan—wajib mengikuti templates/GAMEPLAY_RESPONSE_TEMPLATE.md secara persis untuk urutan, nama field, timestamp visual, narasi, profil, catatan pemain, sekat, dan baris Aksiku : --. Pemeriksaan event dilakukan di belakang layar dan tidak menambah field atau mengubah format canonical.

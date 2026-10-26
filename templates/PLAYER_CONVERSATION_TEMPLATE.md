@@ -1,5 +1,7 @@
 # Merzkava Universe — Player Invocation
 
+> **Batas template:** file ini hanya untuk pemanggilan dan input tindakan player. Format balasan GM selalu mengikuti `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`, yang menjadi prioritas dan tidak boleh diubah oleh label `Aksiku` di bawah.
+
 Untuk memulai atau melanjutkan roleplay, gunakan instruksi singkat ini:
 
 > Analisis dan baca dengan saksama INDEX.md dari repository resmi https://github.com/Antarezka/merzkava-universe, lalu ikuti urutan bootstrap di sana tanpa melewati langkah. Baca Authority Order (`templates/AUTHORITY_ORDER.md`) dan format gameplay canonical, periksa `world/DYNAMIC_EVENTS.md` untuk event dunia terbaru, lalu tentukan sumber karakter sesuai mode sesi. Jika karakter terdaftar dan sesi baru dimulai, baca players.md untuk menemukan file karakter individual, lalu baca file yang tepat `players/<Nama>.md` secara penuh sebagai snapshot awal dan ambil Wallet dari sana. Jangan mengambil saldo karakter lain. Jika Authority secara eksplisit memberikan saldo yang sah, gunakan saldo Authority; jika saldo tidak tercatat di sumber yang berlaku, tetapkan satu saldo bootstrap konkret sesuai `core/10_ECONOMY_SYSTEM.md` hanya sekali. Untuk sesi berlanjut/recall, gunakan profil terakhir dan kejadian yang tersedia, bukan snapshot awal. Ambil karakter **[Nama Karakter]** dan mulai roleplay sesuai sumber resmi, event dunia yang relevan dengan pengetahuan karakter, state sesi, dan format gameplay canonical.

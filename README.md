@@ -17,6 +17,25 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 </div>
 
+<!-- RP_SOURCE_START -->
+<div align="center">
+
+![RP SOURCE](https://img.shields.io/badge/RP_SOURCE-PINNED_COMMIT-151515?style=for-the-badge&labelColor=FFB36B)
+
+### ✦ READY-TO-COPY ROLEPLAY LINKS ✦
+
+**Pinned commit:** `5fe25df` *(initial value; will be refreshed automatically)*
+
+</div>
+
+```text
+Mulai roleplay dari sumber repo Merzkava Universe berikut:
+INDEX: https://raw.githubusercontent.com/Antarezka/merzkava-universe/5fe25df/INDEX.md
+PLAYERS: https://raw.githubusercontent.com/Antarezka/merzkava-universe/5fe25df/players.md
+Analisis kedua file secara penuh dan ikuti seluruh aturan canon untuk memulai permainan sebagai (Nama Karaktermu).
+```
+<!-- RP_SOURCE_END -->
+
 ---
 
 ![THE NOTICEBOARD](https://img.shields.io/badge/THE_NOTICEBOARD-FFFFFF?style=for-the-badge&labelColor=151515)

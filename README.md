@@ -54,7 +54,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![WORLD UPDATE LOG](https://img.shields.io/badge/WORLD_UPDATE_LOG-FFFFFF?style=for-the-badge&labelColor=151515)
 
-<sub>WORLD ARCHIVE · v0.4.47</sub>
+<sub>WORLD ARCHIVE · v0.4.66</sub>
 
 **✦ ──── ❖ ──── ✦**
 
@@ -66,20 +66,20 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
-- ✧ **Universal Tier Assessment — Nine-Tier Score**  
-  Added a shared evidence-based fallback for items and beasts when no definitive official tier exists, with nine score bands from Tier 1 to Tier 9.
+- ✧ **Martial Soul Tier Scoring — Independent Classification**  
+  Added a dedicated evidence-based nine-tier assessment for Martial Souls, preserving existing canon titles such as Tier 7 Peak and Myth Tier.
 
-- ✦ **Merzkava Appraisal Authority (MAA)**  
-  Established a worldwide appraisal service whose completed ruling takes priority for the exact examined item or specimen when prior canon is uncertain.
+- ✦ **Awakening Chance — Rarity, Tier, Mutation**  
+  Integrated tier assessment into the awakening protocol while keeping the rarity draw (Common through Myth), tier score, and 10% mutation draw independent.
 
-- ❖ **Canon First, Prediction Second**  
-  Preserved all established tiers; GM scoring remains provisional, evidence-based, and clearly labeled until an official appraisal or canon decision resolves the uncertainty.
+- ❖ **Canon Titles and Existing Results Preserved**  
+  Established Martial Soul tiers are not recalculated or renamed; uncertain classifications use the dedicated score only when enough evidence exists.
 
-- ⟡ **Appraisal Coverage — Goods, Artifacts, and Beasts**  
-  Connected the appraisal authority to economy, bestiary, Relic and Ancient Artifact references, and Artificial Artifact lore without replacing their existing mechanics.
+- ⟡ **Appraisal Authority Integration**  
+  Extended the Merzkava Appraisal Authority's remit to Martial Soul appraisal through the dedicated Martial Soul method, never the generic item/beast score or rarity chance.
 
-- ✧ **Gameplay & Ledger Alignment**  
-  Updated INDEX, Authority Order, gameplay response, economy, and Satiety guidance so logs distinguish canon tiers, official appraisal results, provisional predictions, and cases requiring appraisal.
+- ✧ **INDEX & Authority Order Alignment**  
+  Updated navigation and GM procedures so awakening follows one consistent sequence without confusing rarity probability, inherent Martial Soul tier, or mutation probability.
 
 <div align="center">
 

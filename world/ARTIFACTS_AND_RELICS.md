@@ -70,7 +70,7 @@ New entries may be added when the owner defines them or gameplay establishes a d
 ```markdown
 ### ART-XXX — [Name or ???]
 - **Category:** [Relic / Ancient Artifact / Artificial Artifact / Unclassified]
-- **Tier:** [Official tier or ???]
+- **Tier:** [Official canon/appraisal tier; otherwise GM provisional prediction with score/evidence or “Tier belum ditetapkan — appraisal diperlukan”]
 - **Origin / provenance:** [Verified evidence or ???]
 - **Current location:** [Verified location or ???]
 - **Current owner / custodian:** [Verified owner or ???]
@@ -86,12 +86,12 @@ New entries may be added when the owner defines them or gameplay establishes a d
 ## 5. Discovery and Knowledge Rules
 
 - Separate the artifact's actual properties from what a character believes about it.
-- A seller's description, rumor, appraisal, inscription, or faction record may be wrong or incomplete.
+- A seller's description, rumor, inscription, or faction record may be wrong or incomplete. An informal appraisal is not an official ruling. A completed Merzkava Appraisal Authority (MAA) ruling is authoritative for the specific examined artifact when prior canon had no definitive tier; follow `core/TIER_ASSESSMENT_AND_APPRAISAL.md`.
 - Do not reveal an artifact's hidden function before the character has a valid way to discover it.
 - Do not assign an effect merely because an item is rare, old, divine in origin, or high-tier.
 - An artifact's tier alone is not a universal combat multiplier.
 - Ownership, possession, access, activation, and mastery are different states.
-- If an essential property is unknown, record it as `???` and follow the applicable mechanics.
+- If an essential property is unknown, record it as `???` and follow the applicable mechanics. For a missing/uncertain tier, use the universal assessment and MAA appraisal procedure; do not silently convert a GM estimate into canon.
 
 ## 6. Relationship to Other Systems
 

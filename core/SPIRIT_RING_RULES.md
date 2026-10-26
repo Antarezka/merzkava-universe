@@ -85,8 +85,8 @@ Warna untuk ring berusia 500.000 tahun atau lebih masih **Undefined**. Jangan me
 
 Status ditentukan oleh tahap karakter terlebih dahulu, lalu kelayakan proses penyerapan berikutnya. Tampilkan **tepat satu status**, jangan menampilkan alternatif sekaligus, dan jangan menambahkan alasan/label lain di dalam field profil.
 
-- **Mortal, tidak sedang menjalani Awakening:** `Spirit Ring Absorption: not eligible yet`
-- **Proses Martial Soul Awakening sedang berlangsung:** `Spirit Ring Absorption: pending`
+- **Mortal, tidak sedang menjalani Awakening:** `Spirit Ring Absorption: not eligible yet | ??? Day left`
+- **Proses Martial Soul Awakening sedang berlangsung:** `Spirit Ring Absorption: pending | ??? Day left`
 - **Awakening selesai, belum pernah menyerap ring pertama, syarat ring pertama terpenuhi:** `Spirit Ring Absorption: eligible | ??? Day left`
 - **Awakening selesai, belum pernah menyerap ring pertama, syarat ring pertama belum terpenuhi:** `Spirit Ring Absorption: not eligible yet | ??? Day left`
 - **Spirit Realm 1–8, syarat penyerapan berikutnya belum lengkap:** `Spirit Ring Absorption: not eligible yet | N Day left`
@@ -95,7 +95,7 @@ Status ditentukan oleh tahap karakter terlebih dahulu, lalu kelayakan proses pen
 
 Aturan:
 - `pending` hanya digunakan selama proses Awakening benar-benar berlangsung, bukan sekadar karena karakter belum Awakening.
-- Untuk Mortal yang tidak sedang menjalani Awakening, tampilkan hanya `Spirit Ring Absorption: not eligible yet`; jangan tambahkan Day left.
+- Untuk Mortal yang tidak sedang menjalani Awakening, tampilkan hanya `Spirit Ring Absorption: not eligible yet | ??? Day left`; Day left tetap `???` pada tahap ini.
 - Setelah Awakening selesai tetapi sebelum penyerapan pertama berhasil, `Day left` adalah `???` karena jeda belum dimulai. Awakening sendiri tidak otomatis memberikan ring atau membuat status `eligible`.
 - Pada Spirit Realm 1–8, cooldown positif berarti `not eligible yet`. Cooldown nol hanyalah satu gerbang; status `eligible` hanya jika seluruh syarat resmi lain terpenuhi. Ketersediaan ring fisik tetap terpisah dari kelayakan karakter/proses.
 - Spirit Realm 9 selalu `max | ∞ Day left`. Sembilan slot adalah batas sistem; jangan hitung cooldown ke ring kesepuluh, jangan tampilkan `eligible`, dan jangan menambahkan Spirit Realm atau slot kesepuluh tanpa revisi canon eksplisit pemilik.
@@ -105,7 +105,7 @@ Aturan:
 
 - Awakening Martial Soul berlangsung pada usia empat tahun atau lebih.
 - Mortal adalah status dasar sebelum sembilan Spirit Realm. Mortal yang telah mengalami Awakening Martial Soul boleh menyerap Spirit Ring pertama; tidak ada syarat Spirit Realm atau bottleneck tambahan untuk ring pertama selain Awakening dan persyaratan penyerapan yang memang berlaku.
-- Sebelum ring pertama berhasil diserap, jeda antarpenyerapan belum dimulai. Mortal tanpa proses Awakening aktif memakai `not eligible yet` tanpa Day left; Awakening yang sedang berlangsung memakai `pending`; setelah Awakening selesai, evaluasi kelayakan ring pertama dan tampilkan `??? Day left`. Spirit Realm 9 selalu `max | ∞ Day left`, karena sembilan slot adalah batas puncak dan tidak ada ring berikutnya. Setelah penyerapan berhasil pada Spirit Realm 1–8, langsung inisialisasi cooldown menuju ring berikutnya.
+- Sebelum ring pertama berhasil diserap, jeda antarpenyerapan belum dimulai. Mortal tanpa proses Awakening aktif memakai `not eligible yet | ??? Day left`; Awakening yang sedang berlangsung memakai `pending | ??? Day left`; setelah Awakening selesai, evaluasi kelayakan ring pertama dan tampilkan `??? Day left`. Spirit Realm 9 selalu `max | ∞ Day left`, karena sembilan slot adalah batas puncak dan tidak ada ring berikutnya. Setelah penyerapan berhasil pada Spirit Realm 1–8, langsung inisialisasi cooldown menuju ring berikutnya.
 - Awakening tidak otomatis memberikan Spirit Ring pertama: ring harus tersedia melalui proses yang sah dan penyerapannya harus benar-benar berhasil. Mortal yang belum Awakening tidak dapat menyerap Spirit Ring pertama.
 - Sistem memiliki sembilan Spirit Realm dan satu slot Spirit Ring untuk setiap Spirit Realm, sehingga Spirit Realm 1 membuka satu slot dan Spirit Realm 9 membuka sembilan slot. Spirit Realm 9 adalah batas puncak: `Spirit Ring Absorption: max | ∞ Day left`; tidak ada slot atau penyerapan ring kesepuluh.
 - Urutan Spirit Realm: Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, Spirit Primordial.

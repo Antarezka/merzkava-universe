@@ -267,31 +267,22 @@ The money and item ledgers above are mandatory audit records. The same player-fa
 
 **Required response order:** natural in-world narrative → explicit change report with before, delta, and after for every affected field → inline-code `Log tercatat!` after the relevant sentence, only once the result is verified → one visible `LEDGER LOG` → updated canonical character profile. For Satiety, include the activity/consumption cause, elapsed duration where relevant, activity category and multipliers actually used, Satiety before, signed change, and Satiety after. For consumption, state the exact item name, official tier, quantity, official effect, and resulting Inventory/Satiety. If no official tier is established, explicitly write “Tier belum ditetapkan”; never invent a tier. For money/items/assets, include the known name, quantity, tier/quality, source/recipient, and amount when relevant. Do not add a separate confirmation line. If no tracked field changed, omit marker and log. The marker confirms a session-ledger entry, not a GitHub write.
 
-Use the mobile-friendly format below and include only the fields relevant to the event. Do not replace unknown values with invented details; state that a value cannot be verified when necessary.
+Use this compact mobile-friendly format. Include only affected fields, but preserve before → change → after for each changed state. A purchase followed by immediate consumption is **one combined event and one visible log**, not separate logs for payment, Inventory, and Satiety.
 
 ```text
 ╭─ LEDGER LOG · #[ID]
-│ Waktu: [timestamp dunia]
-│ Jenis: [transaksi/perubahan]
-│ Pihak terkait: [sumber/tujuan]
-│ Status: [Berhasil/Gagal/Dibatalkan]
-│ Rincian:
-│ • Penyebab/aktivitas/durasi: [jika relevan]
-│ • Kategori aktivitas/pengali yang dipakai: [jika Satiety berubah]
-│ • Satiety sebelum: [jika berubah]
-│ • Perubahan Satiety: [+/− nilai]
-│ • Satiety sesudah: [jika berubah]
-│ • Uang keluar/masuk: [nominal dan denominasi]
-│ • Harga/konversi/kembalian: [jika relevan]
-│ • Item/aset masuk/keluar: [nama, tier jika diketahui, jumlah]
-│ Saldo sebelum → perubahan bersih → sesudah: [jika uang berubah]
-│ Inventory/Equipment/Assets sebelum → perubahan → sesudah: [jika berubah]
+│ [Waktu] · [Status]
+│ Item: [nama · Tier resmi/belum ditetapkan ×jumlah → Inventory akhir]
+│ Uang: [saldo awal → −biaya bersih → saldo akhir; kembalian jika ada]
+│ Satiety: [awal → ±delta → akhir · kategori/durasi jika relevan]
 ╰─
 ```
 
+Omit unaffected lines. If several items change, list them compactly on the same item line; if payment uses a larger denomination, add a brief note for amount paid, price, and change returned. Never invent a tier, price, quantity, or Satiety effect. The visible log is intentionally concise; keep the detailed append-only audit trail in session history.
+
 Visible-log rules:
 1. Show the change report and log after the narrative and before the character profile; do not put transaction narration after the profile.
-2. For purchases, sales, and consumption, show all affected money, item, and Satiety changes in the same visible event, cross-reference the relevant audit entries when useful, and ensure the Wallet, Inventory, and Satiety shown in the profile match the verified closing state.
+2. For purchases, sales, and consumption, show all affected money, item, and Satiety changes in the same compact visible event and one log; cross-reference detailed audit entries only when useful. Ensure the Wallet, Inventory, and Satiety in the profile match the verified closing state.
 3. For payment using a larger denomination, separately show the amount handed over, item/service price, change returned, and net expense. Example: 1 xs paid for a 23 xc item means 77 xc change and a net expense of 23 xc, assuming the transaction was completed as described.
 4. If a transaction fails or is cancelled, show its true status only when the event materially affects the response; do not record an expense, income, or item transfer that did not occur. If a deposit, partial payment, debt, barter, or refund actually changes state, record only the change that occurred.
 5. Keep the full chronological, append-only ledger in the ongoing session history. The visible block is a player-facing summary, not a substitute for the complete audit details specified above.

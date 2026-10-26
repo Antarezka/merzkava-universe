@@ -56,7 +56,7 @@ A character may hunt alone without an academy supervisor, group support, a Guild
 1. **Finding and identifying a target:** use established habitat information, field signs, reports, and the character's actual knowledge. Treat uncertain age, tier, temperament, and numbers as uncertain.
 2. **Hunting/defeating it:** use the official combat system, including PowerScale, readiness, hit chance, damage, defense, and injury. A higher-tier or older Beast may be beyond the party's ability; do not turn that into an arbitrary numeric penalty.
 3. **Obtaining the ring:** after a Spirit Beast is defeated, its Spirit Ring may appear above the body. This does not automatically settle who owns it if the party has a valid prior agreement or a dispute arises.
-4. **Absorbing the ring:** calculate the candidate ring's compatibility using §6.1 and the official factors B, M, T, and A. Defeating the Beast does not raise compatibility automatically. The method of acquisition factor is 100 only for a genuine voluntary handover by the Spirit Beast, and 80 for forced absorption, as already defined in §6.1.
+4. **Absorbing the ring:** calculate compatibility using §6.1's tier-gap penalty, body and Martial Soul penalties, proven combat-result bonus, method bonus, and the special voluntary-handover formula. Defeating the Beast alone does not raise compatibility automatically; do not use a separate acquisition factor or double-count the same advantage.
 5. **Consequences:** if absorption fails or causes deviation, apply the existing ring, HP, injury, and cultivation rules. Do not invent a new failure probability or erase consequences because the character used an academy or guild route.
 
 ## 2. Usia Spirit Ring dan Toleransi Tubuh
@@ -251,17 +251,95 @@ Kemampuan yang diperoleh dari Spirit Ring terbentuk melalui interaksi antara **M
 
 Setiap kali karakter mencoba menyerap Spirit Ring baru, GM wajib menghitung dan mencatat kompatibilitas ring TERBARU itu. Ini berlaku untuk **setiap nomor ring dari 1 sampai 9**, bukan hanya ring ketiga. Jika penyerapan berhasil, jumlah ring total bertambah satu; jika gagal, jangan menambahkan ring ke jumlah yang dimiliki.
 
-Beri nilai 0–100 untuk empat faktor berdasarkan fakta yang sudah tercatat, bukan tebakan:
-- **B — toleransi tubuh:** kemampuan tubuh kultivator saat ini menahan tekanan ring kandidat, berdasarkan kondisi tubuh, Spirit Realm, dan Qi yang tersedia.
-- **M — kecocokan Martial Soul:** seberapa cocok Beast/ring kandidat dengan Martial Soul karakter.
-- **T — kecocokan tier Beast:** kecocokan tier Spirit Beast kandidat terhadap kapasitas kultivator saat ini. Gunakan klasifikasi tier dari modul bestiary ketika tersedia; jangan menciptakan tier Beast yang belum ditetapkan.
-- **A — cara perolehan:** 100 untuk penyerahan sukarela yang benar-benar terjadi; 80 untuk penyerapan paksa. Untuk keadaan lain, tentukan nilai hanya jika ada aturan dan bukti yang mendukungnya.
+Cap kompatibilitas setiap ring **berawal dari 100 poin**, lalu dikurangi berdasarkan kesenjangan tier/ancaman Spirit Beast terhadap kemampuan kultivator. Setelah pengurangan dasar dihitung, tambahkan hanya bonus yang didukung kejadian nyata: seberapa dominan kultivator menang, dan apakah metode yang digunakan benar-benar melemahkan kehendak atau jiwa Beast. Penaklukan biasa tidak otomatis menaikkan cap; kemenangan saja bukan bonus.
 
-Formula kompatibilitas v1:
+#### A. Pengurangan dasar karena kesenjangan tier
 
-**Cᵢ = min(100, 0,30Bᵢ + 0,30Mᵢ + 0,25Tᵢ + 0,15Aᵢ)**
+Tetapkan **P_tier** memakai tier Beast yang telah ditetapkan atau appraisal provisional yang memenuhi aturan bestiary/SPIRIT_BEAST_RULES.md. Bandingkan dengan **tingkat kekuatan efektif kultivator** berdasarkan Spirit Realm/Stage, PowerScale, Qi, teknik yang benar-benar tersedia, serta kondisi saat itu. Jangan menyamakan nama tier Beast dengan nomor Spirit Realm secara otomatis. Jika data tidak cukup untuk membandingkan, tandai penilaian sementara dan jangan berpura-pura bahwa selisihnya presisi.
 
-Hasil Cᵢ adalah **cap kompatibilitas maksimum** ring ke-i, yang dipakai sebagai batas Sync progress pada format `[progres saat ini]%/[Cᵢ]%`; Cᵢ bukan ukuran penguasaan kekuatan ring. Bobot ini merupakan rancangan sistem awal: tubuh dan kecocokan Martial Soul paling berpengaruh, tier Beast berikutnya, lalu cara perolehan. Penyerapan paksa memiliki batas teoretis cap 97% bahkan ketika faktor lainnya 100%. Secara terpisah, sinkronisasi kekuatan 100%—penguasaan penuh kekuatan ring setara dengan penggunaan Spirit Beast asalnya—nyaris mustahil melalui penyerapan paksa. Penyerahan sukarela membuat penguasaan penuh lebih mungkin, tetapi tidak menjaminnya karena faktor lain dapat lebih rendah. Jangan mengarang nilai input tanpa bukti atau aturan yang dapat diterapkan.
+| Kesenjangan ancaman Beast terhadap kultivator | P_tier |
+|---|---:|
+| Beast jelas lebih lemah atau berada di bawah kemampuan efektif kultivator | 0 |
+| Kurang lebih sebanding | 8 |
+| Beast satu tingkat ancaman di atas kultivator | 20 |
+| Beast dua tingkat di atas kultivator | 35 |
+| Beast tiga tingkat di atas kultivator | 50 |
+| Beast empat tingkat atau lebih di atas kultivator | 65 |
+
+“Tingkat ancaman” berarti peringkat yang dapat dibandingkan dari bukti dan klasifikasi resmi; bila dunia belum menyediakan tangga tier numerik yang cocok, GM menggolongkan kesenjangan secara kualitatif berdasarkan appraisal dan bukti pertarungan, bukan menciptakan tier baru. Penalti ini sengaja besar: Beast yang jauh melampaui kekuatan kultivator secara alami lebih sulit diselaraskan.
+
+#### B. Penalti kondisi tubuh dan kecocokan Martial Soul
+
+Kedua faktor lama tetap dipertahankan sebagai penalti kecil agar perubahan ini tidak menghapus peran kondisi kultivator dan kecocokan Martial Soul:
+
+- **P_body (0–10):** 0 bila tubuh dan Qi berada dalam kondisi baik untuk proses; 2 untuk gangguan ringan; 5 untuk tekanan/cedera yang nyata; 8 untuk kondisi berat; 10 bila kondisi kritis membuat toleransi sangat buruk. Pilih berdasarkan kondisi aktual dan core/HP_SYSTEM.md serta core/INJURY_SYSTEM.md, bukan berdasarkan asumsi.
+- **P_soul (0–10):** 0 bila karakteristik Martial Soul dan ring menunjukkan resonansi yang sangat baik; 2 bila cocok; 5 bila netral atau bukti terbatas; 8 bila kecocokan buruk; 10 bila terdapat pertentangan karakteristik yang jelas. Nilai harus beralasan dari Martial Soul, Beast/ring, dan formulasi kemampuan; jangan mengarang kelemahan unsur yang tidak tercatat.
+
+#### C. Bonus hasil penaklukan dalam combat
+
+Pilih **tepat satu P_combat** berdasarkan keseluruhan hasil pertarungan, bukan hanya pukulan terakhir:
+
+| Hasil nyata terhadap Beast | P_combat |
+|---|---:|
+| Sangat mudah dan dominan; ancaman praktis terkendali tanpa kesulitan berarti | +15 |
+| Menang jelas dengan kesulitan kecil | +10 |
+| Menang melalui pertarungan seimbang atau biaya yang berarti | +5 |
+| Sangat kepayahan, nyaris kalah, terluka berat, atau bertahan berkat keadaan yang menguntungkan | +0 |
+
+Kemenangan yang hanya terjadi karena bantuan pihak ketiga, penyelamatan, atau Beast melarikan diri bukan kemenangan dominan. Jangan memberi +15 hanya karena Beast akhirnya kalah. Jika bukti pertarungan tidak cukup, gunakan bonus yang lebih rendah dan nyatakan dasar penilaiannya.
+
+#### D. Bonus metode yang benar-benar efektif
+
+**P_method** hanya diberikan untuk efek metode yang dapat dibuktikan dan tidak boleh menghitung ulang keuntungan yang sudah tercermin dalam P_combat:
+
+| Metode yang terbukti efektif | P_method |
+|---|---:|
+| Perangkap, medan, penyergapan, atau taktik fisik yang hanya membatasi gerak/posisi | +0 sampai +5 |
+| Segel atau teknik yang secara nyata melemahkan kehendak, kestabilan mental, atau jiwa Beast | +10 sampai +20 |
+| Metode gagal, efeknya tidak relevan, atau klaim pelemahan tidak terbukti | +0 |
+
+Pilih nilai dalam rentang menurut tingkat dampak yang benar-benar diperlihatkan. Menjebak Beast tidak otomatis berarti kultivator mengalahkannya dengan mudah; perangkap fisik saja juga tidak dihitung sebagai pelemahan mental. Bonus combat dan metode boleh dijumlahkan hanya bila mewakili dua efek yang berbeda—jangan menghitung keuntungan yang sama dua kali.
+
+#### E. Penyerahan sukarela oleh Spirit Beast
+
+Penyerahan sukarela hanya berlaku bila Beast **secara sadar dan sungguh-sungguh** bersedia menyerahkan Spirit Ring sebagai bagian dari jiwanya; menyerah karena kalah, terpaksa, tertipu, terikat, atau tidak mampu melawan bukan penyerahan sukarela.
+
+Untuk kasus yang sah:
+- Gunakan **P_tier efektif = 25% × P_tier**: kesediaan sukarela mengurangi, tetapi tidak menghapus secara ajaib, penalti kesenjangan tier.
+- Tambahkan **P_voluntary = +35**.
+- P_body dan P_soul tetap dihitung dari kondisi nyata. P_combat hanya ditambahkan bila memang terjadi pertarungan dan hasilnya mendukung; tidak ada bonus combat fiktif bila Beast menyerahkan ring tanpa bertarung.
+- Tidak ada pengali perolehan generik 100/80 yang terpisah. Penyerahan sukarela ditangani oleh rumus khusus ini agar tidak dihitung dua kali.
+
+Bonus sukarela sangat besar sehingga sering membawa cap mendekati atau mencapai 100, tetapi hasil tetap berasal dari seluruh komponen. Kondisi tubuh yang sangat buruk atau ketidakcocokan yang nyata masih dapat membuat cap di bawah 100.
+
+#### F. Rumus final cap kompatibilitas
+
+Untuk penaklukan paksa atau perolehan non-sukarela:
+
+**Cᵢ = clamp(100 − P_tier − P_body − P_soul + P_combat + P_method, 0, 95)**
+
+Untuk penyerahan sukarela yang sah:
+
+**Cᵢ = clamp(100 − 0,25P_tier − P_body − P_soul + P_combat + P_method + 35, 0, 100)**
+
+clamp(x, 0, batas) berarti hasil minimum 0 dan maksimum sesuai batas. Bulatkan hasil akhir ke bilangan bulat terdekat; nilai tepat x,5 dibulatkan ke atas. Batas 95 pada jalur non-sukarela menjaga agar kemenangan atau taktik biasa tidak dengan sendirinya menghasilkan cap 100. Cap 100 hanya terbuka pada jalur penyerahan sukarela yang sah; itu pun tidak otomatis terjadi karena penalti tubuh dan kecocokan Martial Soul masih berlaku.
+
+#### G. Cara membaca hasil
+
+| Cᵢ | Interpretasi cap ring |
+|---:|---|
+| 0–49% | Rendah; keselarasan ring sangat terbatas |
+| 50–64% | Sedang |
+| 65–74% | Baik |
+| 75–79% | Sangat baik |
+| 80–89% | Jenius; kompatibilitas luar biasa |
+| 90–94% | Sangat langka dan luar biasa |
+| 95–99% | Ekstrem langka; mendekati batas sempurna |
+| 100% | Pencapaian istimewa, sangat langka |
+
+Rentang ini adalah interpretasi **cap kompatibilitas satu ring**, bukan label resmi Martial Soul, bukan tier Beast, dan bukan jaminan bahwa karakter otomatis menguasai kekuatan ring sepenuhnya. Cᵢ tetap menjadi batas Sync progress pada format [progres saat ini]%/[Cᵢ]%. Sync yang mencapai cap berarti bottleneck tercapai; penguasaan kekuatan ring 100% tetap konsep terpisah.
+
+Catat input, penalti, bonus, dan hasil agar GM berikutnya dapat merekonstruksi cap yang sama. Jika tier, hasil combat, metode, kondisi tubuh, atau kecocokan Martial Soul tidak cukup diketahui, tandai input terkait sebagai belum ditetapkan; jangan menyamarkan dugaan sebagai nilai pasti.
 
 ### 6.2. Kompatibilitas keseluruhan semua ring
 

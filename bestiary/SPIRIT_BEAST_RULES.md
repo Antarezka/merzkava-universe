@@ -47,7 +47,9 @@ Jeda dihitung dari waktu penyerapan Spirit Ring sebelumnya yang berhasil sampai 
 | Ring 7 → Ring 8 | 3 tahun |
 | Ring 8 → Ring 9 | 4 tahun |
 
-Jeda ini adalah waktu minimum, bukan jaminan bahwa penyerapan akan berhasil. Seluruh syarat breakthrough, Sync progress, item, toleransi tubuh, dan mekanik resmi lainnya tetap berlaku.
+Jeda ini adalah waktu minimum, bukan jaminan bahwa penyerapan akan berhasil. Untuk menghitungnya, akumulasikan waktu dunia yang dijalani secara normal di luar Kultivasi sejak penyerapan berhasil terakhir. **Durasi Kultivasi tidak dihitung sebagai waktu jeda dan tidak mengurangi `Day left`, sekalipun timestamp dunia tetap maju.** Untuk ring kedua dan seterusnya, penyerapan hanya dapat memenuhi gerbang waktu ketika `Day left = 0`; seluruh syarat breakthrough, Sync progress, item, toleransi tubuh, dan mekanik resmi lainnya tetap berlaku.
+
+Catat di riwayat sesi durasi setiap time skip Kultivasi agar dapat dikecualikan dari hitung mundur. Jika riwayat yang tersedia tidak dapat membedakan durasi Kultivasi dari waktu normal sejak penyerapan terakhir, statuskan `Belum ditetapkan Day left` sampai durasi yang memenuhi syarat dapat direkonstruksi dari catatan yang sah. Jangan menaksir atau menganggap interval telah terpenuhi.
 
 Jika penyerapan dipaksakan sebelum jeda minimum, GM wajib menetapkan deviasi minimal dan menentukan tingkatnya berdasarkan seberapa besar jeda yang dilanggar, kondisi tubuh, serta bukti yang tersedia. Deviasi dapat ringan hingga berat. Jangan mengarang angka peluang atau jumlah damage yang tidak memiliki rumus resmi.
 

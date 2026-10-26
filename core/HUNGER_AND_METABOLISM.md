@@ -72,7 +72,7 @@ Pengurangan akhir = min(Satiety saat ini, Pengurangan dasar × A × F × B × S)
 - Batas pengali gabungan: setelah mengalikan faktor yang sah, gunakan nilai akhir maksimum ×8,00 untuk satu interval. Batas ini mencegah kombinasi pengali membuat Satiety habis secara matematis dalam beberapa menit, tetapi aktivitas Survival tetap sangat menguras.
 - Pengali aktivitas adalah kategori eksklusif untuk segmen waktu yang sama. Jangan mengalikan Ringan × Sedang × Berat × Survival sekaligus. Jika aktivitas berubah, pisahkan durasinya menjadi segmen berbeda.
 - Pengali kondisi tubuh tetap faktor terpisah dari aktivitas hanya jika kelelahan benar-benar terjadi dan memiliki dasar. Jangan menghitung dampak yang sama dua kali sebagai kategori aktivitas dan pengubah khusus.
-- Hitung secara presisi dan bulatkan perubahan akhir ke **0,1 Satiety**. Pertahankan presisi internal antarpembaruan; jangan membulatkan berulang kali per menit.
+- Hitung seluruh interval dengan presisi internal penuh. **Bulatkan hanya nilai yang ditampilkan di laporan dan profil ke 0,1 Satiety**; jangan membulatkan state internal setelah setiap aktivitas. Jika perubahan internal kurang dari 0,05 sehingga tampilan satu desimal tidak berubah, tetap laporkan perubahan presisi internal, nilai tampilan yang tetap, dan catat peristiwa tersebut di ledger. Jangan kehilangan sisa pecahan akibat pembulatan tampilan.
 - Pengurangan aktual tidak boleh melebihi Satiety yang tersedia. Nilai akhir tidak pernah kurang dari 0.
 - Jika tidak ada waktu terjaga yang berlalu, tidak ada pengurangan karena waktu kecuali mekanik khusus resmi menyatakan sebaliknya.
 
@@ -96,7 +96,7 @@ Pengurangan akhir = min(Satiety saat ini, Pengurangan dasar × A × F × B × S)
 
 **Contoh Mortal Survival:** 1 jam Survival, kelelahan ekstrem, dan 3+ jendela makan terlewat: pengali mentah 4,00 × 2,50 × 4,00 = 40,00, dibatasi menjadi ×8,00; pengurangan maksimum dari interval 1 jam ialah 33,3 Satiety sebelum dibatasi oleh Satiety yang tersedia.
 
-**Contoh Spirit Primordial:** 24 jam aktivitas Ringan dalam kondisi normal tanpa jendela makan terlewat: (24/(365×24) × 100) × 1,25 ≈ 0,014 Satiety sebelum pembulatan akhir ke 0,1.
+**Contoh Spirit Primordial:** 24 jam aktivitas Ringan dalam kondisi normal tanpa jendela makan terlewat: pengurangan internal ≈ 0,014 Satiety; tampilan satu desimal dapat tetap sama pada interval ini, tetapi sisa presisi tetap disimpan dan diakumulasikan pada interval berikutnya.
 
 ## 5. Jam Makan Terlewat
 
@@ -161,7 +161,7 @@ Semua pengubah independen boleh dikalikan sebelum batas gabungan ×8,00 diterapk
 Setiap kali waktu berlalu, aktivitas berubah, makanan/minuman dikonsumsi, atau kondisi tubuh berubah:
 
 1. Ambil timestamp terakhir yang sah dan tentukan durasi dunia yang benar-benar berlalu.
-2. Pisahkan durasi menjadi segmen jika jenis aktivitas, kondisi tubuh, status terjaga, atau pengali berubah.
+2. Pisahkan durasi menjadi segmen jika jenis aktivitas, kondisi tubuh, status terjaga, pengali, konsumsi, atau batas akhir jendela makan berubah. Ketika jendela makan berakhir di tengah interval, hitung segmen sebelum dan sesudah batas secara terpisah agar pengali baru tidak diterapkan secara retroaktif.
 3. Kecualikan tidur malam yang dilindungi §6. Selama tidur itu, Satiety terkunci pada nilai saat tidur dimulai.
 4. Tentukan Spirit Realm/status tubuh dan waktu dasar dari §3.
 5. Klasifikasikan setiap interval terjaga dengan tepat satu kategori aktivitas dari §4.

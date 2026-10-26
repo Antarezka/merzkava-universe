@@ -105,7 +105,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 **SHARE THE ADVENTURE** &nbsp; <a href="https://github.com/Antarezka/merzkava-universe">Explore Merzkava Universe</a> &nbsp; <a href="https://github.com/Antarezka/merzkava-universe"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="22" alt="GitHub repository" /></a>
 
-<sub>HOW TO PLAY? · AUTHORITY PHANTOM</sub>
+<sub><span style="color:#555555">🝰 Reach Authority_Phantom</span></sub>
 
 ---
 

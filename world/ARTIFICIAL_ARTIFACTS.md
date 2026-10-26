@@ -7,7 +7,7 @@
 
 An Artificial Artifact is manufactured by a Thinker using suitable materials, patterns, and formulations. Artificial Artifacts are distinct from Relics and Ancient Artifacts, which are categorized by their origins.
 
-An artifact's tier is not a Spirit Realm or Spirit Ring tier. A high tier does not automatically mean an artifact is universally useful in combat; the documented function, conditions, limitations, ownership, and actual availability determine its use.
+An artifact's tier is not a Spirit Realm or Spirit Ring tier. A high tier does not automatically mean an artifact is universally useful in combat; the documented function, conditions, limitations, ownership, and actual availability determine its use. If an artifact's tier is missing or disputed, use `core/TIER_ASSESSMENT_AND_APPRAISAL.md`: MAA's completed ruling is authoritative for the examined item when canon was uncertain; any GM estimate remains labeled provisional until then.
 
 ## 2. Established Technology Context
 
@@ -103,7 +103,7 @@ For the authoritative requirements, limitations, and GM rules, see `core/THINKER
 - Do not treat the floating-island artifact as an unrestricted power source or portable combat weapon.
 - Do not assume a destroyed, missing, inaccessible, or unknown artifact is available.
 - Artifact creation, transfer, damage, repair, and activation must have a valid cause and be reflected in the session state where relevant.
-- If an artifact's properties are not documented, keep them unknown instead of improvising canon.
+- If an artifact's properties are not documented, keep them unknown instead of improvising canon. For a missing or disputed tier, use the universal assessment/appraisal authority and do not alter an existing official tier without an applicable canon revision.
 
 ## 8. Relationship to Other Modules
 

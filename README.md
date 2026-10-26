@@ -54,7 +54,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![WORLD UPDATE LOG](https://img.shields.io/badge/WORLD_UPDATE_LOG-FFFFFF?style=for-the-badge&labelColor=151515)
 
-<sub>WORLD ARCHIVE · v0.4.92</sub>
+<sub>WORLD ARCHIVE · v0.4.93</sub>
 
 **✦ ──── ❖ ──── ✦**
 
@@ -67,7 +67,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 </div>
 
 - ✦ **GM Action Prompt Distinguished from Player Invocation**  
-  The canonical gameplay response now ends with “Tentukan Aksimu : --”, distinct from the player's “Aksiku” input line.
+  The canonical GM gameplay response ends with the exact prompt “••• Tentukan Aksimu (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧”. The response layout above remains unchanged; the player-facing template retains “Aksiku: [Tulis tindakan karakter di sini]”.
 
 - ✧ **Unified Item Pricing Formula Consolidated**  
   Item prices now use one master formula combining quality tier, item condition, seasonal scarcity, demand, distribution, and destination-market adjustments without double-counting factors.

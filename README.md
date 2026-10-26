@@ -66,7 +66,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![WORLD UPDATE LOG](https://img.shields.io/badge/WORLD_UPDATE_LOG-FFFFFF?style=for-the-badge&labelColor=151515)
 
-![NIGHTLY](assets/nightly-version.svg?v=2) <sub>v0.4.97</sub>
+![NIGHTLY](assets/nightly-version.svg?v=2) <sub>v0.4.98</sub>
 
 **✦ ──── ❖ ──── ✦**
 
@@ -77,6 +77,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 **✦ ──── ❖ ──── ✦**
 
 </div>
+
+- ✦ **Pinned-Commit Roleplay Source and Automatic Hash Refresh**  
+  The README now exposes a copyable commit hash for a stable snapshot of the roleplay source instead of relying on a moving `main` URL. A GitHub Actions workflow refreshes that hash after repository changes, keeping the displayed source one commit behind the newest README-refresh commit so the pinned reference does not chase itself.
 
 - ✦ **World Exploration Flow and Canonical Gates Aligned**  
   The entry flow now clearly routes gameplay through the canonical response format, character state, current world events, and location-relevant modules. Exploration should reveal the world gradually through the character's circumstances and knowledge; undefined coordinates, distances, travel times, hidden facts, and outcomes must not be presented as established canon.
@@ -89,9 +92,6 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 - ✧ **Unified Item Pricing Formula Consolidated**  
   Item prices now use one master formula combining quality tier, item condition, seasonal scarcity, demand, distribution, and destination-market adjustments without double-counting factors.
-
-- ❖ **Gameplay Format Cleaned Up**  
-  Removed the obsolete mode label while preserving the rule against numbered choice menus and keeping the canonical response layout unchanged.
 
 <div align="center">
 

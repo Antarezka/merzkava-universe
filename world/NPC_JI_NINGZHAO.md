@@ -4,4 +4,3 @@ This file is retained only as a compatibility pointer. The canonical content has
 
 Do not add or maintain a second biography or roster here. Edit the canonical regional file instead.
 
-**Migration note:** The canonical NPC content is now organized under the regional folders in the central repository. These folders are staging locations until separate regional repositories are created and their URLs verified; this file does not claim that a separate repository migration is complete.

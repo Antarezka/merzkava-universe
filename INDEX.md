@@ -265,9 +265,9 @@ The three major powers are **Golden Dragon Empire, Tianhai Yunzhou, and Beiming 
 
 
 ### Regional structure, NPCs, and route network
-- Golden Dragon Empire NPC staging INDEX and registry — `regions/golden-dragon-empire/INDEX.md` and `regions/golden-dragon-empire/npcs/REGISTRY.md`
-- Tianhai Yunzhou NPC staging INDEX and registry — `regions/tianhai-yunzhou/INDEX.md` and `regions/tianhai-yunzhou/npcs/REGISTRY.md`
-- Beiming Gu NPC staging INDEX and registry — `regions/beiming-gu/INDEX.md` and `regions/beiming-gu/npcs/REGISTRY.md`
+- Golden Dragon Empire regional INDEX and NPC registry — `regions/golden-dragon-empire/INDEX.md` and `regions/golden-dragon-empire/npcs/REGISTRY.md`
+- Tianhai Yunzhou regional INDEX and NPC registry — `regions/tianhai-yunzhou/INDEX.md` and `regions/tianhai-yunzhou/npcs/REGISTRY.md`
+- Beiming Gu regional INDEX and NPC registry — `regions/beiming-gu/INDEX.md` and `regions/beiming-gu/npcs/REGISTRY.md`
 
 - Location and route network rules — `world/LOCATION_AND_ROUTE_NETWORK.md`
 - NPC agency, regional placement, and continuity — `world/NPC_MANAGEMENT.md`

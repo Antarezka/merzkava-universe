@@ -98,14 +98,15 @@ Setiap perubahan yang benar-benar terjadi pada Satiety, uang, item, equipment, l
 
 **Urutan respons saat ada perubahan:** narasikan nilai sebelum → perubahan → sesudah; akhiri laporan terverifikasi dengan inline-code `Log tercatat!` tepat satu kali; tampilkan satu `LEDGER LOG` sebelum profil; lalu tampilkan state yang telah direkonsiliasi. Satukan perubahan dari satu rangkaian aksi dalam satu log. Jika aksi gagal atau tidak mengubah state, jangan mencatat perubahan yang tidak terjadi. Jika tidak ada perubahan relevan, jangan tampilkan penanda atau ledger.
 
-Untuk konsumsi, sebut item, jumlah, tier resmi/appraisal atau prediksi GM yang dilabeli, dan efek Satiety aktual. Jika bukti tier tidak cukup, tulis `Tier belum ditetapkan — appraisal diperlukan`; tier saja tidak menentukan nutrisi. Jika ledger lama hilang/terpotong, nyatakan keterbatasan, rekonsiliasi dari profil terakhir yang dapat diverifikasi, lalu lanjutkan tanpa mengarang transaksi.
+Untuk konsumsi, sebut item, jumlah, efek Satiety aktual, dan kualitas/tier hanya jika relevan atau sudah diketahui. Barang konsumsi sehari-hari yang jelas (misalnya makanan standar warung) memakai kategori ekonomi rutin dalam `core/10_ECONOMY_SYSTEM.md`; jangan memicu appraisal universal atau menulis `Tier belum ditetapkan — appraisal diperlukan` hanya karena makanan itu tidak memiliki dokumen tier khusus. Gunakan appraisal/prediksi GM hanya bila kualitas atau identitas khusus memang penting dan belum dapat dipastikan. Tier saja tidak menentukan nutrisi. Jika ledger lama hilang/terpotong, nyatakan keterbatasan, rekonsiliasi dari profil terakhir yang dapat diverifikasi, lalu lanjutkan tanpa mengarang transaksi.
 
-## 7. Tier dan appraisal
+## 7. Tier, harga, dan appraisal
 
-- Periksa sumber canon objek terlebih dahulu. Hasil Kantor Appraisal resmi MAA menjadi otoritas untuk klasifikasi yang belum pasti; catat ID appraisal bila tersedia.
-- Untuk barang/Beast yang tercakup metode universal, gunakan prediksi GM hanya jika bukti cukup; labeli `Prediksi GM` dan catat skor serta bukti ringkas. Prediksi bukan canon.
-- Jika bukti tidak cukup, tulis `Tier belum ditetapkan — appraisal diperlukan`.
-- Martial Soul memakai formulasi `core/MARTIAL_SOUL_AWAKENING.md`. Jika kualitas inheren belum pasti, tulis `Klasifikasi kualitas inheren belum ditetapkan — appraisal diperlukan` dan pertahankan rarity hasil undian.
+- Untuk harga/transaksi rutin, ikuti lebih dahulu kategori ekonomi dan satu formula harga dalam `core/10_ECONOMY_SYSTEM.md`. Barang umum dengan identitas dan kualitas pasar yang jelas tidak membutuhkan appraisal khusus hanya untuk dibeli, dijual, dikonsumsi, atau dicatat.
+- Periksa sumber canon untuk klasifikasi khusus yang sudah ditetapkan. Hasil appraisal resmi MAA menjadi otoritas untuk objek yang benar-benar diperiksa; catat ID appraisal bila tersedia.
+- Gunakan prediksi GM dari metode universal hanya bila objek memiliki kualitas/identitas khusus yang memang perlu ditetapkan, appraisal tidak tersedia pada adegan itu, dan bukti cukup. Labeli `Prediksi GM` serta catat skor dan bukti ringkas; prediksi bukan canon.
+- Jika klasifikasi khusus memang diperlukan tetapi bukti tidak cukup, tulis `Tier belum ditetapkan — bukti belum cukup; appraisal diperlukan`. Jangan gunakan status ini semata-mata karena barang sehari-hari tidak memiliki catatan appraisal.
+- Martial Soul memakai formulasi `core/MARTIAL_SOUL_AWAKENING.md`. Jika kualitas inheren belum pasti, pertahankan rarity hasil undian dan gunakan status klasifikasi kualitas inheren hanya ketika penetapan kualitas itu relevan.
 - Jangan menerapkan Tier 1–9 generik pada Martial Soul atau menyamakan tier objek dengan Spirit Realm, Spirit Ring tier, Thinker Grade, kekuatan tempur, usia, rarity chance, atau kelangkaan. Jangan mengubah klasifikasi lama tanpa bukti bahwa ruling berlaku pada objek yang sama.
 
 ## 8. Event dunia dan batas persistensi

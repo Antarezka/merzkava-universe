@@ -72,9 +72,6 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **Gameplay Format Cleaned Up**  
   Removed the obsolete mode label while preserving the rule against numbered choice menus and keeping the canonical response layout unchanged.
 
-- ✦ **Legacy NPC Pointers Cleaned Up**  
-  Removed obsolete migration notes from nine compatibility pointer files, keeping the regional files as the sole canonical source and avoiding duplicate biographies or rosters.
-
 - ❖ **Player RAW Bootstrap Links Normalized**  
   Registered player RAW links in `players.md` use the agreed `?v=2` cache parameter.
 

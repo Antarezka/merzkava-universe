@@ -54,7 +54,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![WORLD UPDATE LOG](https://img.shields.io/badge/WORLD_UPDATE_LOG-FFFFFF?style=for-the-badge&labelColor=151515)
 
-<sub>WORLD ARCHIVE · v0.4.89</sub>
+<sub>WORLD ARCHIVE · v0.4.90</sub>
 
 **✦ ──── ❖ ──── ✦**
 
@@ -66,20 +66,20 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
-- ✧ **Martial Soul Rarity Terminology Standardized**  
-  Martial Soul rarity uses only Common, Uncommon, Rare, Epic, Legendary, and Myth; numeric tier labels and legacy rarity aliases are removed.
+- ✧ **Regional NPC Indexes Confirmed as Canonical**  
+  The three regional INDEX files and NPC registries are documented as the canonical structure inside this single repository—not temporary staging areas for separate regional repositories.
 
-- ✦ **Independent Inherent-Quality Assessment**  
-  The dedicated evidence-based score provides a provisional classification using the six official names without replacing the actual rarity draw.
+- ✦ **Legacy NPC Pointers Cleaned Up**  
+  Removed obsolete migration notes from nine compatibility pointer files, keeping the regional files as the sole canonical source and avoiding duplicate biographies or rosters.
 
-- ❖ **Canon Profiles and World References Aligned**  
-  Established Martial Soul entries and summaries use the same six rarity terms consistently.
+- ❖ **Player RAW Bootstrap Links Normalized**  
+  Yuha and Nafila's registered RAW links now use the agreed `?v=2` cache parameter in `players.md`.
 
-- ⟡ **Appraisal Authority Integration**  
-  MAA assesses uncertain Martial Soul classification through the dedicated method and does not override an actual rarity draw.
+- ⟡ **Martial Soul Rarity Kept Separate from Tier 1–9**  
+  INDEX and Authority Order clarify that universal Tier 1–9 assessment applies to items, artifacts, and Beasts—not Martial Soul rarity.
 
-- ✧ **INDEX & Authority Order Alignment**  
-  Updated navigation and GM procedures to prevent numeric tier terminology from being used as Martial Soul rarity.
+- ✧ **Independent Martial Soul Quality Appraisal Preserved**  
+  The dedicated quality assessment uses the six official rarity names provisionally and cannot replace or overwrite a valid rarity draw.
 
 <div align="center">
 

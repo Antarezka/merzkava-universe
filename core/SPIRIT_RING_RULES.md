@@ -83,23 +83,15 @@ Warna untuk ring berusia 500.000 tahun atau lebih masih **Undefined**. Jangan me
 
 ## Status Kanonis Spirit Ring Absorption
 
-Status ditentukan oleh tahap karakter terlebih dahulu, lalu kelayakan proses penyerapan berikutnya. Tampilkan **tepat satu status**, jangan menampilkan alternatif sekaligus, dan jangan menambahkan alasan/label lain di dalam field profil.
+Gunakan pemetaan status dan format field tunggal yang ditetapkan di `templates/CHARACTER_PROFILE_TEMPLATE.md` → **Status Kanonis Spirit Ring Absorption**. Jangan membuat pemetaan alternatif atau menyalin daftar status lain di modul ini.
 
-- **Mortal, tidak sedang menjalani Awakening:** `Spirit Ring Absorption: not eligible yet | ??? Day left`
-- **Proses Martial Soul Awakening sedang berlangsung:** `Spirit Ring Absorption: pending | ??? Day left`
-- **Awakening selesai, belum pernah menyerap ring pertama, syarat ring pertama terpenuhi:** `Spirit Ring Absorption: eligible | ??? Day left`
-- **Awakening selesai, belum pernah menyerap ring pertama, syarat ring pertama belum terpenuhi:** `Spirit Ring Absorption: not eligible yet | ??? Day left`
-- **Spirit Realm 1–8, syarat penyerapan berikutnya belum lengkap:** `Spirit Ring Absorption: not eligible yet | N Day left`
-- **Spirit Realm 1–8, seluruh syarat karakter/proses penyerapan berikutnya terpenuhi:** `Spirit Ring Absorption: eligible | 0 Day left`
-- **Spirit Realm 9 (Spirit Primordial), batas puncak sistem:** `Spirit Ring Absorption: max | ∞ Day left`
-
-Aturan:
-- `pending` hanya digunakan selama proses Awakening benar-benar berlangsung, bukan sekadar karena karakter belum Awakening.
-- Untuk Mortal yang tidak sedang menjalani Awakening, tampilkan `Spirit Ring Absorption: not eligible yet | ??? Day left`.
-- Setelah Awakening selesai tetapi sebelum penyerapan pertama berhasil, `Day left` adalah `???` karena jeda belum dimulai. Awakening sendiri tidak otomatis memberikan ring atau membuat status `eligible`.
-- Pada Spirit Realm 1–8, cooldown positif berarti `not eligible yet`. Cooldown nol hanyalah satu gerbang; status `eligible` hanya jika seluruh syarat resmi lain terpenuhi. Ketersediaan ring fisik tetap terpisah dari kelayakan karakter/proses.
-- Spirit Realm 9 selalu `max | ∞ Day left`. Sembilan slot adalah batas sistem; jangan hitung cooldown ke ring kesepuluh, jangan tampilkan `eligible`, dan jangan menambahkan Spirit Realm atau slot kesepuluh tanpa revisi canon eksplisit pemilik.
-- `Belum ditetapkan Day left` hanya untuk save lama yang diketahui pernah menyerap ring tetapi riwayat waktunya tidak cukup untuk merekonstruksi cooldown. Jangan gunakan untuk Mortal, Awakening, karakter yang belum pernah menyerap ring, atau Spirit Realm 9.
+Ketentuan mekanik yang tetap berlaku:
+- `pending` hanya untuk proses Awakening yang benar-benar sedang berlangsung.
+- Sebelum penyerapan pertama berhasil, jeda belum dimulai dan status harus memakai `??? Day left` sesuai tahap karakter.
+- Untuk ring kedua hingga kesembilan, `Day left = 0` adalah gerbang wajib terpisah dari Sync/bottleneck, ketersediaan ring, item, toleransi tubuh, dan syarat resmi lainnya.
+- `eligible` menandakan syarat karakter/proses terpenuhi, bukan bahwa ring fisik tersedia atau penyerapan pasti berhasil.
+- Spirit Realm 9 selalu `max | ∞ Day left`; tidak ada ring kesepuluh.
+- `Belum ditetapkan Day left` hanya untuk save lama yang diketahui pernah menyerap ring tetapi riwayat waktu tidak cukup untuk merekonstruksi cooldown.
 
 ## 4. Awakening, Slot, dan Bottleneck
 

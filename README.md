@@ -54,6 +54,8 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![WORLD UPDATE LOG](https://img.shields.io/badge/WORLD_UPDATE_LOG-FFFFFF?style=for-the-badge&labelColor=151515)
 
+<sub>ver. 01</sub>
+
 **✦ ──── ❖ ──── ✦**
 
 **THE LATEST FROM MERZKAVA**

@@ -174,19 +174,3 @@ Era ditentukan GM secara acak saat bootstrap sesi baru. LEDGER LOG hanya muncul 
 ════════════════════════════
 
 Aksiku : --
-
-## Aturan Penerapan
-
-- **Urutan respons:** timestamp → Narasi → LEDGER LOG dan penegasan hanya jika ada perubahan uang/item/aset → profil lengkap → catatan konsistensi → catatan kecil → Aksiku : --.
-- **Timestamp dan Era:** ikuti gameplay/TIME_AND_ACTION_RULES.md. Pada sesi baru, tentukan era sesuai prosedur di sana dan jangan tinggalkan Era ??? setelah bootstrap selesai. Pada sesi lanjutan, lanjutkan timestamp dan era terakhir yang sah. Gunakan format jam HH:MM.
-- **Ledger:** setiap transaksi atau perubahan uang, item, maupun aset yang benar-benar terjadi harus dicatat setelah narasi dan sebelum profil. Jangan tampilkan log jika tidak ada perubahan; jangan menyatakan berhasil sebelum transaksi selesai dan hasilnya diverifikasi. Ikuti core/10_ECONOMY_SYSTEM.md.
-- **Profil:** jangan mengubah, mengurutkan ulang, menghilangkan, atau menambah field profil tanpa persetujuan pemilik repository. Gunakan templates/CHARACTER_PROFILE_TEMPLATE.md untuk definisi field. Seluruh field kanonis harus tetap ada dan urutannya tidak boleh berubah.
-- **Breakthrough / Day left:** Day left hanya menghitung jeda minimum antarpenyerapan Spirit Ring yang berhasil, bukan timer breakthrough kultivasi umum. Ikuti templates/CHARACTER_PROFILE_TEMPLATE.md dan interval resmi di bestiary/SPIRIT_BEAST_RULES.md. 0 Day left bukan jaminan breakthrough atau penyerapan ring berhasil.
-- **HP dan cedera:** gunakan core/HP_SYSTEM.md serta core/INJURY_SYSTEM.md sebagai dua state terpisah.
-- **Satiety:** tampilkan Satiety: nilai/100 dan hitung hanya menurut core/HUNGER_AND_METABOLISM.md; tidur malam yang dilindungi mengunci nilai ini.
-- **Sync progress:** jika tidak ada Spirit Ring aktif yang sedang diproses, gunakan 0%/0%.
-- **Nilai yang belum diketahui:** gunakan ??? hanya untuk identitas karakter yang benar-benar tidak dikenal atau nama Martial Soul yang belum diketahui. Field numerik yang belum tercatat gunakan default resmi, bukan ???. Field nonnumerik lain gunakan Belum ditetapkan atau Tidak ada jika ketiadaan memang diketahui.
-- **Wallet:** ikuti sumber saldo yang berlaku dan aturan core/10_ECONOMY_SYSTEM.md. Jangan mengundi ulang Wallet dalam sesi berlanjut atau mengarang transaksi.
-- **Combat:** satu aksi dapat memuat beberapa hit atau combo jika diizinkan gameplay/COMBAT_SYSTEM.md; jangan menyamakan satu aksi dengan satu hit.
-- **NO STEP:** jangan menambahkan menu pilihan atau opsi bernomor setelah adegan. Akhiri pada situasi terbuka agar player menentukan tindakan.
-- **Sumber gagal:** jangan mengaku membaca file yang tidak dapat diakses. Sebutkan keterbatasan secara singkat dan jangan menyelesaikan bagian yang bergantung pada aturan yang hilang.

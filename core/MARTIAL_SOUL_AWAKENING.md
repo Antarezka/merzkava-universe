@@ -1,7 +1,7 @@
 # Merzkava Universe — Martial Soul Awakening Protocol
 
 Status: Modul mekanik resmi.
-Cakupan: penentuan rarity dan tier Martial Soul saat awakening, peluang mutasi, pilihan pemain, prosedur resolusi, dan batas perilaku GM.
+Cakupan: undian rarity Martial Soul, penilaian kualitas inheren yang berdiri sendiri, peluang mutasi, pilihan pemain, prosedur resolusi, dan batas perilaku GM.
 
 Modul ini adalah sumber mekanik utama untuk proses awakening dan mutasi Martial Soul. `core/MARTIAL_SOUL.md` tetap menjadi sumber karakteristik, lore, serta interpretasi umum Martial Soul. Jika ada pertentangan mengenai peluang atau prosedur awakening, modul ini yang berlaku untuk bagian tersebut.
 
@@ -11,7 +11,7 @@ Modul ini adalah sumber mekanik utama untuk proses awakening dan mutasi Martial 
 
 1. Awakening mengungkap Martial Soul seseorang; awakening tidak otomatis memberikan Spirit Ring.
 2. Awakening berlangsung pada usia empat tahun atau lebih.
-3. Hasil rarity dan peluang mutasi wajib ditentukan dengan prosedur acak yang adil; penilaian tier adalah proses terpisah berbasis canon/bukti, bukan undian chance. GM tidak boleh memilih hasil hanya karena cocok dengan cerita, karakter, atau keinginan pemain.
+3. Hasil rarity dan peluang mutasi wajib ditentukan dengan prosedur acak yang adil; penilaian kualitas inheren adalah proses terpisah berbasis canon/bukti, bukan undian chance. GM tidak boleh memilih hasil hanya karena cocok dengan cerita, karakter, atau keinginan pemain.
 4. Rarity Martial Soul bukan pengganti Spirit Realm, Spirit Ring, kemampuan bertarung, pengalaman, atau profesi. Rarity yang lebih tinggi tidak otomatis berarti menang dalam pertarungan.
 5. Bentuk, atribut, kemampuan, batas, dan efek suatu Martial Soul harus memiliki dasar yang dapat dijelaskan. GM tidak boleh menciptakan kemampuan luar biasa hanya berdasarkan rarity.
 6. Jika mekanisme pengacakan yang benar-benar acak tidak tersedia, GM harus menyatakan keterbatasan itu dan tidak mengaku telah melakukan pengundian acak yang tidak terjadi.
@@ -110,9 +110,9 @@ GM harus mengikuti urutan ini setiap kali karakter menjalani awakening yang hasi
 4. Catat hasil rarity dengan istilah resmi dari undian. Jika diperlukan dan bukti cukup, nilai kualitas inheren secara terpisah memakai skor Bagian 2A; tandai sebagai prediksi sementara dan jangan menyebutnya hasil rarity.
 5. Tampilkan narasi anomali atau gejolak yang menandai adanya kesempatan terakhir untuk menerima risiko mutasi. Narasi ini wajib diberikan setelah rarity diketahui, tetapi sebelum keputusan mutasi dan hasil akhir.
 6. Berikan keputusan kepada pemain: menghentikan proses dan mempertahankan hasil awal, atau bertahan untuk mengambil peluang mutasi.
-7. Jika pemain memilih berhenti, tetapkan Martial Soul awal dengan rarity dan tier yang sudah ditentukan; tidak ada undian mutasi.
+7. Jika pemain memilih berhenti, tetapkan Martial Soul awal dengan rarity hasil undian; penilaian kualitas inheren tetap terpisah dan sementara, serta tidak ada undian mutasi.
 8. Jika pemain memilih bertahan, lakukan tepat satu undian mutasi dengan peluang 10% sesuai Bagian 4.
-9. Tetapkan hasil akhir berdasarkan undian. Jika mutasi mengubah karakteristik yang relevan, evaluasi ulang tier hanya berdasarkan sifat hasil mutasi yang benar-benar ditetapkan; jangan otomatis menaikkan/menurunkan tier atau mengundi ulang rarity/mutasi.
+9. Tetapkan hasil akhir berdasarkan undian. Jika mutasi mengubah karakteristik yang relevan, evaluasi ulang klasifikasi kualitas inheren hanya berdasarkan sifat hasil mutasi yang benar-benar ditetapkan; jangan otomatis mengubah rarity atau mengundi ulang rarity/mutasi.
 10. Catat hasil final dan fakta yang telah dikonfirmasi dalam profil gameplay. Jangan mencatat kemungkinan yang tidak terjadi sebagai fakta.
 
 GM tidak boleh memilihkan keputusan untuk karakter pemain. Jika pemain belum menjawab, hentikan resolusi pada titik keputusan; jangan menganggap diam sebagai persetujuan untuk bertahan.
@@ -163,7 +163,7 @@ Setelah rarity awal diundi dan sebelum hasil final ditetapkan, GM wajib menyampa
 - Catat bahwa mutasi benar-benar terjadi.
 - Narasikan perubahan yang dapat didukung oleh canon dan hasil yang sah.
 - Mutasi dapat menguntungkan atau merugikan; jangan otomatis memilih hasil positif.
-- Jangan mengarang statistik, tier baru, kemampuan spesifik, efek samping numerik, atau aturan evolusi yang belum ditetapkan.
+- Jangan mengarang statistik, klasifikasi kualitas inheren baru, kemampuan spesifik, efek samping numerik, atau aturan evolusi yang belum ditetapkan.
 - Jika konsekuensi mekanis penting belum memiliki aturan resmi, tandai sebagai belum ditetapkan dan jangan memperlakukannya sebagai angka canon.
 
 ## 7. Audit dan Anti-Cheat GM

@@ -51,7 +51,7 @@ Jeda dihitung dari waktu penyerapan Spirit Ring sebelumnya yang berhasil sampai 
 | Ring 7 → Ring 8 | 3 tahun |
 | Ring 8 → Ring 9 | 4 tahun |
 
-Jeda ini adalah waktu minimum, bukan jaminan bahwa penyerapan akan berhasil. Setelah setiap penyerapan berhasil, mulai cooldown berikutnya saat itu juga dengan `T_eligible = 0`. Gunakan hanya rumus di `gameplay/TIME_AND_ACTION_RULES.md` §7; waktu Kultivasi dikecualikan sepenuhnya. `Belum ditetapkan Day left` hanya untuk riwayat lama yang diketahui memiliki penyerapan berhasil tetapi catatan waktunya tidak cukup. Untuk ring kedua hingga kesembilan, `Day left = 0` wajib dipenuhi terpisah dari Sync, ketersediaan ring, item, toleransi tubuh, dan syarat resmi lain.
+Jeda ini adalah waktu minimum, bukan jaminan bahwa penyerapan akan berhasil. Setelah penyerapan berhasil pada Ring 1–8, mulai cooldown berikutnya saat itu juga dengan `T_eligible = 0`. Setelah Ring 9, tidak ada cooldown lanjutan karena Spirit Realm 9 adalah batas maksimum. Gunakan hanya rumus di `gameplay/TIME_AND_ACTION_RULES.md` §7; waktu Kultivasi dikecualikan sepenuhnya. `Belum ditetapkan Day left` hanya untuk riwayat lama yang diketahui memiliki penyerapan berhasil tetapi catatan waktunya tidak cukup. Untuk ring kedua hingga kesembilan, `Day left = 0` wajib dipenuhi terpisah dari Sync, ketersediaan ring, item, toleransi tubuh, dan syarat resmi lain.
 
 Jika penyerapan dipaksakan sebelum jeda minimum, GM wajib menetapkan deviasi minimal dan menentukan tingkatnya berdasarkan seberapa besar jeda yang dilanggar, kondisi tubuh, serta bukti yang tersedia. Deviasi dapat ringan hingga berat. Jangan mengarang angka peluang atau jumlah damage yang tidak memiliki rumus resmi.
 

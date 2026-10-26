@@ -30,7 +30,7 @@ Setiap Spirit Realm memiliki empat Stage: Early (Awal), Middle (Menengah), Late 
 | 8 | Spirit Sovereign | 8 |
 | 9 | Spirit Primordial | 9 |
 
-Setiap Spirit Realm memberikan satu slot Spirit Ring, sehingga batas normal sistem ini adalah sembilan slot pada Spirit Realm kesembilan. Urutan Spirit Realm 1–9 yang kanonis adalah Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, dan Spirit Primordial. Nama ini harus dipertahankan secara konsisten di seluruh repository. Jangan menambahkan Spirit Realm kesepuluh atau slot tambahan tanpa revisi canon oleh pemilik.
+Setiap Spirit Realm memberikan satu slot Spirit Ring, sehingga batas normal sistem ini adalah sembilan slot pada Spirit Realm kesembilan. Pada Spirit Realm 9 (Spirit Primordial), penyerapan mencapai puncak: `Spirit Ring Absorption: max | ∞ Day left`; tidak ada ring kesepuluh dan cooldown lanjutan tidak dihitung. Urutan Spirit Realm 1–9 yang kanonis adalah Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, dan Spirit Primordial. Nama ini harus dipertahankan secara konsisten di seluruh repository. Jangan menambahkan Spirit Realm kesepuluh atau slot tambahan tanpa revisi canon oleh pemilik.
 
 Nama dan jumlah slot menunjukkan struktur kultivasi, bukan jaminan bahwa dua orang dalam Spirit Realm yang sama memiliki kekuatan tempur identik.
 
@@ -72,13 +72,33 @@ Menerobos hanya dapat dilakukan jika semua syarat berikut terpenuhi:
 3. **Item wajib tersedia:** karakter memenuhi persyaratan item yang berlaku untuk Spirit Beast target agar dapat menyerap Spirit Ring tersebut, sesuai `bestiary/SPIRIT_BEAST_RULES.md`. Jika data spesifik belum ada, GM wajib menetapkan requirement konkret berdasarkan tier/usia ring dan jenis serta karakteristik Spirit Beast target; jangan membiarkannya kosong atau menganggap tidak ada syarat.
 4. **Jeda minimum terpenuhi:** waktu sejak Penyerapan Spirit Ring sebelumnya yang berhasil telah mencapai jeda minimum sesuai `bestiary/SPIRIT_BEAST_RULES.md`.
 
-Jika karakter belum pernah berhasil menyerap Spirit Ring, jeda antarpenyerapan belum dimulai dan field `Spirit Ring Absorption` harus berakhir dengan `??? Day left`, baik karakter belum Awakening maupun sudah Awakening tetapi belum punya ring pertama. Setelah penyerapan pertama berhasil, langsung mulai cooldown berikutnya sesuai interval resmi; `???` tidak berlaku lagi.
+Status `Spirit Ring Absorption` mengikuti tahap karakter: Mortal tanpa Awakening aktif = `not eligible yet` tanpa Day left; proses Awakening aktif = `pending`; setelah Awakening selesai tetapi sebelum ring pertama, gunakan `??? Day left` dan tentukan status dari syarat ring pertama. Spirit Realm 1–8 memakai status kelayakan plus hitung mundur; Spirit Realm 9 selalu `max | ∞ Day left`. Setelah penyerapan pertama berhasil, langsung mulai cooldown berikutnya sesuai interval resmi; `???` tidak berlaku lagi.
 
-Jeda minimum antar-ring: Ring 1→2 = 2 minggu; Ring 2→3 = 1 bulan; Ring 3→4 = 3 bulan; Ring 4→5 = 6 bulan; Ring 5→6 = 1 tahun; Ring 6→7 = 2 tahun; Ring 7→8 = 3 tahun; Ring 8→9 = 4 tahun. Interval ini adalah `T_min` dalam formulasi kanonis `Day left` di `gameplay/TIME_AND_ACTION_RULES.md` §7. **Begitu penyerapan berhasil, inisialisasi `Day left` langsung** berdasarkan interval resmi menuju ring berikutnya dan mulai dengan `T_eligible = 0`. Hanya waktu dunia normal di luar Kultivasi yang menambah `T_eligible`; durasi Kultivasi tidak mengurangi `Day left` walaupun timestamp dunia maju. Untuk ring kedua dan seterusnya, `Day left` harus mencapai `0` sebelum penyerapan dapat dilakukan. Pada kalender fallback, 1 bulan = 30 hari.
+Jeda minimum antar-ring: Ring 1→2 = 2 minggu; Ring 2→3 = 1 bulan; Ring 3→4 = 3 bulan; Ring 4→5 = 6 bulan; Ring 5→6 = 1 tahun; Ring 6→7 = 2 tahun; Ring 7→8 = 3 tahun; Ring 8→9 = 4 tahun. Interval ini adalah `T_min` dalam formulasi kanonis `Day left` di `gameplay/TIME_AND_ACTION_RULES.md` §7. **Begitu penyerapan berhasil, inisialisasi `Day left` langsung** berdasarkan interval resmi menuju ring berikutnya dan mulai dengan `T_eligible = 0`. Hanya waktu dunia normal di luar Kultivasi yang menambah `T_eligible`; durasi Kultivasi tidak mengurangi `Day left` walaupun timestamp dunia maju. Untuk ring kedua dan seterusnya sebelum Spirit Realm 9, `Day left` harus mencapai `0` sebelum penyerapan dapat dilakukan. Spirit Realm 9 adalah batas maksimum, bukan status menunggu cooldown. Pada kalender fallback, 1 bulan = 30 hari.
 
 Jika percobaan dilakukan terlalu jauh dari cap atau sebelum jeda minimum, terapkan deviasi sesuai modul resmi: cap kompatibilitas ring berikutnya berkurang, HP menerima damage, dan kondisi tubuh mengalami cedera. Tingkat deviasi meningkat seiring jarak dari cap atau besarnya pelanggaran jeda. Jika rumus numerik belum tersedia, nyatakan dampak dan tingkat deviasi tanpa mengarang angka damage atau persentase pengurangan cap.
 
 Penyerapan Spirit Ring, Kultivasi, dan menerobos adalah proses berbeda. Spirit Realm dan slot baru hanya diperbarui setelah seluruh syarat dan proses resmi benar-benar berhasil. Jika aturan tambahan seperti durasi, biaya, atau hasil parsial belum ditetapkan, jangan mengarangnya.
+## Status Kanonis Spirit Ring Absorption
+
+Status ditentukan oleh tahap karakter terlebih dahulu, lalu kelayakan proses penyerapan berikutnya. Tampilkan **tepat satu status**, jangan menampilkan alternatif sekaligus, dan jangan menambahkan alasan/label lain di dalam field profil.
+
+- **Mortal, tidak sedang menjalani Awakening:** `Spirit Ring Absorption: not eligible yet`
+- **Proses Martial Soul Awakening sedang berlangsung:** `Spirit Ring Absorption: pending`
+- **Awakening selesai, belum pernah menyerap ring pertama, syarat ring pertama terpenuhi:** `Spirit Ring Absorption: eligible | ??? Day left`
+- **Awakening selesai, belum pernah menyerap ring pertama, syarat ring pertama belum terpenuhi:** `Spirit Ring Absorption: not eligible yet | ??? Day left`
+- **Spirit Realm 1–8, syarat penyerapan berikutnya belum lengkap:** `Spirit Ring Absorption: not eligible yet | N Day left`
+- **Spirit Realm 1–8, seluruh syarat karakter/proses penyerapan berikutnya terpenuhi:** `Spirit Ring Absorption: eligible | 0 Day left`
+- **Spirit Realm 9 (Spirit Primordial), batas puncak sistem:** `Spirit Ring Absorption: max | ∞ Day left`
+
+Aturan:
+- `pending` hanya digunakan selama proses Awakening benar-benar berlangsung, bukan sekadar karena karakter belum Awakening.
+- Untuk Mortal yang tidak sedang menjalani Awakening, tampilkan hanya `Spirit Ring Absorption: not eligible yet`; jangan tambahkan Day left.
+- Setelah Awakening selesai tetapi sebelum penyerapan pertama berhasil, `Day left` adalah `???` karena jeda belum dimulai. Awakening sendiri tidak otomatis memberikan ring atau membuat status `eligible`.
+- Pada Spirit Realm 1–8, cooldown positif berarti `not eligible yet`. Cooldown nol hanyalah satu gerbang; status `eligible` hanya jika seluruh syarat resmi lain terpenuhi. Ketersediaan ring fisik tetap terpisah dari kelayakan karakter/proses.
+- Spirit Realm 9 selalu `max | ∞ Day left`. Sembilan slot adalah batas sistem; jangan hitung cooldown ke ring kesepuluh, jangan tampilkan `eligible`, dan jangan menambahkan Spirit Realm atau slot kesepuluh tanpa revisi canon eksplisit pemilik.
+- `Belum ditetapkan Day left` hanya untuk save lama yang diketahui pernah menyerap ring tetapi riwayat waktunya tidak cukup untuk merekonstruksi cooldown. Jangan gunakan untuk Mortal, Awakening, karakter yang belum pernah menyerap ring, atau Spirit Realm 9.
+
 ## 5. Spirit Ring dan Slot
 
 - Jumlah slot mengikuti urutan Spirit Realm: Spirit Initiate (tingkat 1) menyediakan satu slot, Spirit Adept (tingkat 2) dua slot, dan seterusnya hingga Spirit Primordial (tingkat 9) menyediakan sembilan slot.

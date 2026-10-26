@@ -99,6 +99,16 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <sub>The board introduces the world. The archive holds its deeper lore, geography, factions, and systems.</sub>
 
+### READY TO STEP INTO MERZKAVA?
+
+*Come discover the world, make your choices, and see where your story leads. Having fun? Bring your friends and family along—every new player brings another story to the world.*
+
+**SHARE THE ADVENTURE** &nbsp; <a href="https://github.com/Antarezka/merzkava-universe">Explore Merzkava Universe</a> &nbsp; <a href="https://github.com/Antarezka/merzkava-universe"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="22" alt="GitHub repository" /></a>
+
+**HOW TO PLAY?** [Start here: INDEX.md →](INDEX.md)
+
+<sub>CONTACTS · AUTHORITY PHANTOM</sub>
+
 ---
 
 **INVESTIGATION FILE // MERZKAVA UNIVERSE**

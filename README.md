@@ -54,7 +54,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![WORLD UPDATE LOG](https://img.shields.io/badge/WORLD_UPDATE_LOG-FFFFFF?style=for-the-badge&labelColor=151515)
 
-<sub>WORLD ARCHIVE · v0.4.34</sub>
+<sub>WORLD ARCHIVE · v0.4.47</sub>
 
 **✦ ──── ❖ ──── ✦**
 
@@ -66,20 +66,21 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
-- ✧ **Economy Ledger — Full Audit, Compact Report**  
-  Separated the complete session audit from the player-facing log, preserving calculation details without bloating the visible gameplay response.
+- ✧ **Universal Tier Assessment — Nine-Tier Score**  
+  Added a shared evidence-based fallback for items and beasts when no definitive official tier exists, with nine score bands from Tier 1 to Tier 9.
 
-- ✦ **One Unified LEDGER LOG**  
-  Clarified that a purchase, payment, item change, and immediate consumption share one visible log, while every money and item movement remains individually traceable in the session ledger.
+- ✦ **Merzkava Appraisal Authority (MAA)**  
+  Established a worldwide appraisal service whose completed ruling takes priority for the exact examined item or specimen when prior canon is uncertain.
 
-- ❖ **Satiety — Consumption & Missed Meal Windows**  
-  Specified that only genuinely nutritive consumption resets the missed-meal count and that food reports must identify the official item tier—or explicitly say “Tier belum ditetapkan”.
+- ❖ **Canon First, Prediction Second**  
+  Preserved all established tiers; GM scoring remains provisional, evidence-based, and clearly labeled until an official appraisal or canon decision resolves the uncertainty.
 
-- ⟡ **Satiety — Activity Calculation Alignment**  
-  Clarified the awake-time baseline and aligned activity categories, applied multipliers, and sustained cultivation with the official Satiety calculation rules.
+- ⟡ **Appraisal Coverage — Goods, Artifacts, and Beasts**  
+  Connected the appraisal authority to economy, bestiary, Relic and Ancient Artifact references, and Artificial Artifact lore without replacing their existing mechanics.
 
-- ✧ **Bootstrap & Gameplay Authority Consistency**  
-  Synchronized the INDEX, Authority Order, and gameplay template around the canonical profile, verified state changes, and Satiety reporting requirements.
+- ✧ **Gameplay & Ledger Alignment**  
+  Updated INDEX, Authority Order, gameplay response, economy, and Satiety guidance so logs distinguish canon tiers, official appraisal results, provisional predictions, and cases requiring appraisal.
+
 <div align="center">
 
 **✧ ── ✦ ── ❖ ── ✦ ── ✧**

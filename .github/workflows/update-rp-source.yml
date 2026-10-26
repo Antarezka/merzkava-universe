@@ -55,18 +55,11 @@ jobs:
 
           ![RP SOURCE](https://img.shields.io/badge/RP_SOURCE-PINNED_COMMIT-151515?style=for-the-badge&labelColor=FFB36B)
 
-          ### ✦ READY-TO-COPY ROLEPLAY LINKS ✦
+          ### ✦ READY-TO-COPY ROLEPLAY HASH ✦
 
-          **Pinned commit:** `{short}`
+          **Latest pinned source:** `{short}`
 
           </div>
-
-          ```text
-          Mulai roleplay dari sumber repo Merzkava Universe berikut:
-          INDEX: {raw}/INDEX.md
-          PLAYERS: {raw}/players.md
-          Analisis kedua file secara penuh dan ikuti seluruh aturan canon untuk memulai permainan sebagai (Nama Karaktermu).
-          ```
           <!-- RP_SOURCE_END -->"""
 
           before, rest = content.split(start, 1)

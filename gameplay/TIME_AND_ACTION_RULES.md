@@ -115,5 +115,5 @@ Before sending each gameplay response, verify:
 - Long cultivation satisfies all five conditions in §5.
 - Time passage has not automatically changed HP, Qi, Sync progress, Satiety, inventory, currency, or breakthrough status without an applicable rule and recorded cause.
 - `Day left` was not reduced by any duration classified as Kultivasi; only qualifying normal-life elapsed time was counted, and the interval is not marked complete unless its accumulated eligible duration reaches the official minimum.
-- Any awake time that passed has been resolved against `core/HUNGER_AND_METABOLISM.md`; protected night sleep neither reduces Satiety nor counts as a missed meal window.
+- Every interval of awake time has been classified as exactly one activity category and resolved against `core/HUNGER_AND_METABOLISM.md`; do not double-count elapsed time. Each latest activity response must state Satiety change or explicitly state that it remained unchanged and why. Protected night sleep locks Satiety and does not count as a missed meal window.
 - The final response follows the exact order and visual layout in `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`.

@@ -52,6 +52,38 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <div align="center">
 
+![WORLD UPDATE LOG](https://img.shields.io/badge/WORLD_UPDATE_LOG-FFFFFF?style=for-the-badge&labelColor=151515)
+
+**╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮**  
+**✦ THE LATEST FROM MERZKAVA ✦**  
+*Five recent additions to the world archive*  
+**╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯**
+
+</div>
+
+- ✧ **Azerion Forest — A Hidden Half-Beast City**  
+  A secluded community lies beyond the forest's familiar dangers, with its own economy and guarded boundaries.
+
+- ✦ **Beiming Gu — A Deeper NPC Network**  
+  Regional figures, family ties, and personal connections give the northern power more life beyond its ruler.
+
+- ❖ **Routes Between the Great Powers**  
+  Travel now considers regional connections, practical transit links, and journeys that don't always follow a straight line.
+
+- ⟡ **Tianhai's Energy-Powered Air Transit**  
+  A distinct long-distance transport system adds another way to cross the world, tied to the region's specialized energy resources.
+
+- ✧ **Cultivation Profiles & Xuan Currency**  
+  Player records are being aligned with the world's Spirit Realm terminology and the Xuan-based wallet system.
+
+<div align="center">
+
+**━━━━━━━━━━━ ❖ ✦ ❖ ━━━━━━━━━━━**
+
+</div>
+
+<div align="center">
+
 ![LOOK CLOSER](https://img.shields.io/badge/LOOK_CLOSER-151515?style=for-the-badge&labelColor=FFB36B)
 ![FOLLOW THE TRAIL](https://img.shields.io/badge/FOLLOW_THE_TRAIL-151515?style=for-the-badge&labelColor=FFE066)
 ![OPEN THE ARCHIVE](https://img.shields.io/badge/OPEN_THE_ARCHIVE-FFFFFF?style=for-the-badge&labelColor=F25C54)

@@ -10,16 +10,16 @@ File ini adalah **pengendali keputusan GM**, bukan ensiklopedia dunia. Gunakan `
 - Konflik canon: ikuti keputusan owner di `world/CANON_DECISIONS_AND_PRECEDENCE.md`; jika belum terselesaikan, jangan memilih diam-diam.
 - Sumber mekanik khusus mengatur domainnya; `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` mengatur tampilan GM; `templates/CHARACTER_PROFILE_TEMPLATE.md` mengatur field/state. Profil aktif dan riwayat kejadian mengatur state sesi.
 
-## 2. Bootstrap dan pemilihan state
+## 2. State sesi dan bootstrap
 
-Sebelum gameplay:
-1. Ambil **Latest pinned source** dari `README.md`; baca ulang `INDEX.md` dan seluruh sumber yang dipakai dari SHA yang sama. Jangan mencampur `main` dengan snapshot pin.
-2. Baca penuh `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`, `templates/CHARACTER_PROFILE_TEMPLATE.md`, dan file ini.
-3. Sesi baru karakter terdaftar: baca `players.md` sebagai indeks lalu seluruh `players/<Nama>.md` yang cocok sebagai snapshot awal. Jangan mengambil data karakter lain.
-4. Sesi berlanjut/recall: gunakan profil gameplay terakhir dan kejadian sesudahnya; jangan menimpa state dengan snapshot awal. Jika state terakhir tidak tersedia, minta save/profil yang dapat diverifikasi.
-5. Karakter baru: gunakan template dan informasi pemain; jangan mengarang garis keturunan, rahasia besar, Martial Soul, teknik formal, atau artefak langka.
-6. Verifikasi Wallet dari Authority eksplisit yang berlaku; jika tidak ada, gunakan snapshot awal (sesi baru) atau profil aktif (sesi berlanjut). Hanya bila saldo belum ditetapkan di sumber mana pun, jalankan satu bootstrap sesuai `core/10_ECONOMY_SYSTEM.md`, catat hasilnya, dan jangan undi ulang.
-7. Periksa `world/DYNAMIC_EVENTS.md` setiap giliran. Baca modul tambahan berdasarkan lokasi, waktu, kondisi, dan aksi. Jika sumber wajib gagal diakses, sebutkan path dan jangan mengaku telah memeriksanya.
+Ikuti urutan bootstrap di `INDEX.md`; bagian ini menetapkan keputusan state yang tidak boleh tertukar:
+
+- **Snapshot pin:** ambil SHA dari `README.md` dan gunakan snapshot itu untuk `INDEX.md` serta semua sumber gameplay yang dibaca. Jangan mencampur snapshot dengan `main`.
+- **Sesi baru:** `players.md` hanya indeks; gunakan file `players/<Nama>.md` yang tepat sebagai snapshot awal.
+- **Sesi berlanjut/recall:** profil gameplay terakhir beserta kejadian sesudahnya adalah state aktif. Jangan menimpa state dengan snapshot awal; bila state terakhir tidak tersedia, minta save/profil yang dapat diverifikasi.
+- **Karakter baru:** gunakan template dan informasi pemain. Jangan mengarang garis keturunan, rahasia besar, Martial Soul, teknik formal, atau artefak langka.
+- **Wallet:** gunakan Authority eksplisit yang berlaku, jika ada; selain itu gunakan snapshot sesi baru atau profil aktif sesi berlanjut. Undi bootstrap satu kali menurut `core/10_ECONOMY_SYSTEM.md` hanya bila saldo belum tercatat di sumber mana pun. Jangan undi ulang.
+- **Event dan modul:** periksa `world/DYNAMIC_EVENTS.md` setiap giliran; baca modul tambahan sesuai aksi dan konteks. Jika sumber wajib gagal diakses, sebutkan path dan jangan mengaku sudah memeriksanya.
 
 Trigger yang merujuk INDEX/players untuk mulai bermain adalah **trigger gameplay**, bukan permintaan laporan bootstrap.
 
@@ -44,14 +44,12 @@ Sebelum setiap percobaan penyerapan atau breakthrough, periksa `core/SPIRIT_RING
 
 ### Penilaian sosial atas konfigurasi Spirit Ring
 
-Saat NPC melihat atau mendengar informasi tentang konfigurasi Spirit Ring seseorang, gunakan aturan persepsi sosial di `world/NPC_MANAGEMENT.md` §6A. Konfigurasi yang tampak didominasi ring berumur relatif rendah dapat menurunkan kepercayaan, penghargaan, atau harapan NPC dalam konteks yang relevan; konfigurasi luar biasa dapat menimbulkan reaksi positif maupun negatif. Ini memengaruhi kesan dan perilaku sosial, bukan menggantikan perhitungan combat, PowerScale, atau hasil aksi.
+Gunakan `world/NPC_MANAGEMENT.md` §6A sebagai sumber utama. Konfigurasi Spirit Ring adalah sinyal sosial, bukan bukti mutlak kemampuan, nilai diri, atau masa depan; persepsi memengaruhi interaksi sosial, bukan menggantikan combat, PowerScale, atau hasil aksi.
 
-- Terapkan hanya sejauh informasi konfigurasi benar-benar diketahui atau terlihat oleh NPC. Jangan membocorkan umur, kemampuan, atau konfigurasi tersembunyi.
-- NPC awam, ahli, guru, veteran, dan orang yang sedang terdesak dapat bereaksi berbeda sesuai pengetahuan, kepribadian, tujuan, pengalaman, serta wilayah dan tradisi latihan yang benar-benar dimiliki.
-- Jangan menyamaratakan seluruh penduduk salah satu kekuasaan, menetapkan skor sosial numerik, atau menganggap konfigurasi buruk membuktikan seseorang pasti lemah/tidak punya masa depan.
-- Thinker Grade adalah acuan independen yang wajib dipertimbangkan bersama konfigurasi Spirit Ring. NPC yang mengetahui seseorang adalah Thinker dapat memaklumi konfigurasi ring yang lemah, terutama di Tianhai Yunzhou atau di kalangan yang menekuni Thinker/Artificial Artifact atau mempelajari Great Tianhai War. Konteks sejarahnya mencakup Thinkers yang Martial Soul-nya telah terbangun tetapi belum memiliki Spirit Ring, namun tetap ikut menyebarkan dan mengaktifkan artefak penyamaran hampir di seluruh dunia saat bencana. Jangan menyamaratakan bahwa semua Thinker ringless, dan jangan menyamakan Thinker Grade dengan kekuatan duel.
-- Konfigurasi usia dan warna Spirit Ring Beiming Han di `world/WORLD.md` adalah kanon terkonfirmasi. Ikuti rentang warna usia tinggi di `core/SPIRIT_RING_RULES.md`; warna ring dari makhluk Heaven Realm berusia di atas 15.000.000 tahun belum ditetapkan.
-- Ahli dapat menilai prospek dan menawarkan arah latihan berdasarkan tradisi mereka sendiri, tetapi jangan menjamin perkembangan atau menciptakan metode yang tidak didukung sumber.
+- NPC hanya bereaksi terhadap informasi yang benar-benar diketahui atau terlihat. Reaksi bergantung pada pengetahuan, pengalaman, tujuan, kepribadian, wilayah, dan tradisi yang terbukti—jangan menyamaratakan populasi atau memberi skor sosial numerik.
+- Pertimbangkan **Thinker Grade secara independen** bila diketahui. Keahlian Thinker dapat mengubah penilaian atas konfigurasi ring, terutama dalam konteks Tianhai Yunzhou, Artificial Artifact, atau sejarah Great Tianhai War. Tidak semua Thinker ringless, dan Thinker Grade bukan ukuran kekuatan duel.
+- Konfigurasi umur/warna Spirit Ring Beiming Han di `world/WORLD.md` adalah kanon terkonfirmasi. Rentang warna usia tinggi mengikuti `core/SPIRIT_RING_RULES.md`; warna untuk makhluk Heaven Realm di atas 15.000.000 tahun belum ditetapkan.
+- Ahli boleh memberi penilaian atau arah latihan berdasarkan tradisi yang benar-benar mereka kuasai, tetapi jangan menjamin perkembangan atau menciptakan metode tanpa dukungan sumber.
 
 ### Awakening dan Martial Soul
 

@@ -1,15 +1,16 @@
 # Merzkava Universe — Universal Tier Assessment & Appraisal
 
-**Authority:** This module governs fallback assessment of goods, artifacts, creatures, and the worldwide appraisal authority. Martial Soul score calculation and its integration with awakening rarity/mutation chances are governed separately by `core/MARTIAL_SOUL_AWAKENING.md`. It does not overwrite a tier already established by canon.
+**Authority and scope:** This module governs *specialist fallback classification* for goods, artifacts, creatures, and the worldwide appraisal authority. It is not a mandatory step in routine pricing, purchases, sales, or consumption. Ordinary goods are handled first through the economic quality categories and pricing method in `core/10_ECONOMY_SYSTEM.md`; Martial Soul score calculation and its integration with awakening rarity/mutation chances are governed separately by `core/MARTIAL_SOUL_AWAKENING.md`. This module never replaces a known canon classification or the ordinary economic pricing formula.
 
 ## 1. Priority Order
 
 1. **Existing official canon:** use the exact tier recorded by the relevant official module, catalog, approved discovery, or owner-confirmed canon decision. Do not recalculate it.
-2. **Official Appraisal Office ruling:** if no reliable official tier exists or evidence conflicts, a completed appraisal ruling is the authoritative tier for that examined specimen/item and takes priority over GM estimates, seller claims, rumors, and ordinary records.
-3. **GM provisional assessment:** if appraisal is not available in the current scene, use the scoring method below only when there is enough concrete evidence. Mark the result **Prediksi GM**, never official canon.
-4. **Insufficient evidence:** record **Tier belum ditetapkan** and seek appraisal. Do not fabricate facts to force a score.
+2. **Completed MAA ruling:** when this exact specimen/item has actually been examined, its valid ruling takes priority over estimates, seller claims, rumors, and ordinary records.
+3. **Routine economic classification:** for ordinary goods whose description and market role are clear (for example, standard roadside food, basic snacks, common materials, or ordinary herbs), use the fitting category in `core/10_ECONOMY_SYSTEM.md` and its pricing formula. This is a practical market classification, not a specialist appraisal; do not run the nine-dimension score or demand an MAA record just to complete an everyday transaction.
+4. **GM provisional assessment:** use the scoring method below only when a meaningful unresolved classification is needed for a special, unusual, disputed, or consequential item/specimen and there is enough concrete evidence. Mark the result **Prediksi GM**, never official canon.
+5. **Insufficient evidence:** if a special classification is genuinely necessary but evidence is inadequate, record **Tier belum ditetapkan — bukti belum cukup** and arrange appraisal when practical. Do not fabricate facts to force a score.
 
-An appraisal ruling concerns the specific examined specimen, batch, or item identity. It does not automatically establish the tier of every member of a species, every artifact of the same model, or every object with a similar name.
+An appraisal ruling concerns only the specific examined specimen, batch, or item identity. It does not automatically establish the tier of every member of a species, every artifact of the same model, or every object with a similar name. The need for a specialist classification depends on the scene and the item's significance; routine pricing or consumption alone does not trigger it.
 
 ## 2. Universal Provisional Score
 
@@ -31,7 +32,7 @@ Use a total from **0–134 points**. Score each of the nine dimensions from **0�
 - Score only dimensions relevant to the subject. For a dimension that truly does not apply, write N/A and exclude it from the average; do not treat absence of evidence as proof of weakness.
 - Each applicable dimension is scored 0–15: 0 = tested/verified negligible; 1–3 = minor; 4–6 = limited; 7–9 = substantial; 10–12 = very high; 13–15 = exceptional within the relevant comparison class.
 - Calculate the **mean of applicable dimensions**, multiply by 9, and round to the nearest whole number; cap the result at 134. This normalizes subjects with different relevant dimensions onto one common 0–134 scale.
-- If fewer than three dimensions have reliable evidence, do not issue a numerical prediction. Mark **Tier belum ditetapkan — bukti belum cukup; appraisal diperlukan**.
+- If fewer than three dimensions have reliable evidence, do not issue a numerical prediction. If a special classification is needed, mark **Tier belum ditetapkan — bukti belum cukup; appraisal diperlukan**. Do not use this fallback for ordinary goods that can be priced through the routine economic categories.
 - Do not double-count one feat across several dimensions. Record the evidence behind each score.
 - For beasts, assess demonstrated capability, threat, defenses, range, behavior, and special abilities; the name/category alone does not determine a score. For items, assess actual function, effectiveness, construction, stability, operation, and verified properties.
 - This score is a fallback classification aid, not a combat formula, economic price formula, Martial Soul tier, Spirit Realm, Spirit Ring tier, Thinker Grade, age rating, or rarity/quantity rating.
@@ -56,11 +57,13 @@ Example: a valid score of 68 gives **Tier 5 (Prediksi GM · 68 poin)**. This is 
 
 The worldwide institution is the **Merzkava Appraisal Authority (MAA)**, commonly called the **Appraisal Office** or **Kantor Appraisal**. Its service is recognized throughout the world: every settled region can access appraisal through a branch, accredited local desk, scheduled examiner route, or referral to a mobile specialist. Major powers and established settlements have recognized service points; remote villages, dangerous frontiers, hidden territories, and unusual specimens are served through field examiners or specialist referrals. Worldwide availability does not guarantee an office building in every village or immediate service at every location.
 
-The MAA examines and classifies:
-- food, medicine, herbs, materials, equipment, loot, and other goods;
-- Relics, Ancient Artifacts, Artificial Artifacts, and unidentified objects;
-- beasts and specimens, including ordinary beasts, rare or mutated beasts, corrupted beasts, Spirit Beasts, Demonic Beasts, Heavenly Beasts, and any other canon-recognized type;
+The MAA may examine and classify when specialist identification or a formal ruling is warranted:
+- goods with disputed, unusual, hidden, or mechanically consequential quality;
+- Relics, Ancient Artifacts, Artificial Artifacts, unidentified objects, and unusual loot;
+- beasts/specimens whose identity, threat, mutation, or classification materially matters to the scene;
 - Martial Souls, referred to the specialist procedure in `core/MARTIAL_SOUL_AWAKENING.md` rather than the generic goods/beast score.
+
+This service list does not require routine appraisal of every meal, ordinary herb, common material, or everyday purchase. Such goods use the relevant market's normal economic category unless concrete evidence makes their quality or identity meaningfully uncertain.
 
 ### Appraisal procedure
 1. Register the specimen/item and its provenance when known.
@@ -80,8 +83,9 @@ The institution is a recognized worldwide service, but exact fees, service times
 ## 5. Logging Format
 
 - Canon tier known: **Tier 6 (Kanon: [source])**.
-- Provisional GM result: **Tier 5 (Prediksi GM · 68 poin; bukti: [ringkasan])**.
-- Insufficient evidence: **Tier belum ditetapkan — appraisal diperlukan**.
+- Routine ordinary good: **Kategori ekonomi Tier 1 (barang umum; dasar: [deskripsi/pasar])** — no specialist appraisal implied.
+- Provisional GM result when a special classification is needed: **Tier 5 (Prediksi GM · 68 poin; bukti: [ringkasan])**.
+- Insufficient evidence for a necessary special classification: **Tier belum ditetapkan — bukti belum cukup; appraisal dapat diperlukan**.
 - Official appraisal completed: **Tier 5 (Appraisal resmi MAA · [ID catatan])**.
 
 For an appraisal-related state change or discovery, record the event in the appropriate gameplay/loot/item ledger. The ledger records what was actually examined and ruled; it does not itself make a GM estimate official. Do not change the tier of previously recorded items or creatures unless the ruling applies to that exact subject or the owner confirms a canon update.

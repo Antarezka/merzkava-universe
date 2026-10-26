@@ -13,7 +13,7 @@ Format stat wajib:
 
 - Satiety adalah ukuran rasa kenyang dan cadangan makan jangka pendek untuk gameplay, bukan HP atau Qi.
 - Nilainya berada pada rentang 0–100. Jangan melebihi 100 atau mengurangi di bawah 0.
-- Makanan menambah Satiety; waktu aktif menguranginya menurut rumus modul ini.
+- Makanan/minuman yang layak dikonsumsi menambah Satiety sesuai efek resminya; semua waktu terjaga diklasifikasikan sebagai istirahat atau aktivitas dan mengurangi Satiety sesuai kategori §4. Istirahat tidak pernah memulihkan Satiety; hanya memperlambat pengurangannya.
 - Satiety 0 berarti karakter kehabisan rasa kenyang dan perlu makan. Itu **tidak otomatis** berarti pingsan, kehilangan HP, atau mati. Konsekuensi tambahan harus memiliki aturan atau sebab yang sah.
 - Jangan mengubah Satiety tanpa waktu aktif yang berlalu, konsumsi makanan/minuman yang memang memberi nutrisi, atau pengubah kondisi yang sah.
 
@@ -31,6 +31,7 @@ Tiga jendela makan harian:
 - Satu **porsi makan standar** memulihkan **34 Satiety**. Cukup untuk membuat tiga porsi sehari secara teori memulihkan 102 poin sebelum batas maksimum 100 diterapkan.
 - Porsi kecil/camilan memulihkan 10 poin; porsi besar memulihkan 50 poin. Gunakan nilai ini hanya bila jenis dan jumlah makanan mendukung kategori tersebut.
 - Satiety dari makanan ditambahkan ke nilai sekarang dan dibatasi maksimum 100. Makan tidak otomatis mengisi ke 100 jika porsinya tidak cukup.
+- Jika item memiliki nilai pemulihan Satiety resmi yang spesifik, gunakan nilai item itu alih-alih kategori porsi umum. Jika tidak, gunakan kategori porsi berdasarkan jenis dan jumlah yang jelas mendukungnya. **Tier item tidak otomatis menentukan nilai Satiety**; jangan menebak efek hanya dari tier. Saat melaporkan konsumsi, sebutkan nama item dan tier yang diketahui, jumlah yang dikonsumsi, serta perubahan Satiety sebelum → sesudah.
 - Makan di luar jendela tetap memulihkan Satiety sesuai porsi. Setelah makanan yang layak benar-benar dikonsumsi, hitungan beruntun jam makan terlewat direset; riwayat jendela yang sebelumnya terlewat tidak dihapus dari catatan kejadian.
 - Jam makan yang terlewat dihitung saat jendela berakhir tanpa karakter makan, **hanya jika karakter terjaga dan punya kesempatan wajar untuk makan**. Jendela yang berlalu saat tidur tidak dihitung sebagai jam makan terlewat.
 - Jika karakter tidak punya akses makanan atau tidak bisa makan karena situasi, jangan menganggap ia sengaja melewatkan makan; catat keadaan itu dan terapkan pengali jam makan terlewat hanya sesuai ketentuan di §5.
@@ -54,38 +55,65 @@ Laju dasar menunjukkan waktu aktif yang diperlukan untuk mengurangi 100 Satiety 
 
 Gunakan Spirit Realm yang benar-benar tercatat dan jangan menyingkat tingkat kultivasi menjadi `Realm`. Mortal adalah status dasar sebelum sembilan Spirit Realm. Jangan menaikkan tingkat metabolisme hanya karena karakter memiliki Martial Soul langka, ring berusia tinggi, kekayaan, status sosial, atau kekuatan yang belum ditetapkan. Pengaruh khusus harus memenuhi §7.
 
-## 4. Rumus Pengurangan Satiety
+## 4. Rumus Pengurangan Satiety dan Intensitas Aktivitas
 
-Gunakan satu rumus:
+Gunakan satu rumus dasar untuk setiap interval waktu terjaga:
 
-`Pengurangan = (Jam aktif berlalu / Waktu dasar per 100 Satiety dalam jam) × 100 × M`
+Pengurangan dasar = (Jam terjaga dalam interval / Waktu dasar per 100 Satiety dalam jam) × 100
 
-- `Jam aktif berlalu`: waktu dunia yang benar-benar berlalu saat karakter terjaga, bukan waktu nyata dan bukan durasi tidur malam yang dilindungi §6.
-- `Waktu dasar`: nilai dari tabel §3 yang dikonversi ke jam.
-- `M`: hasil perkalian pengubah kondisi tubuh yang tercantum di §7, pengali jam makan terlewat di §5, dan pengubah khusus yang sudah ditetapkan secara sah. Aktivitas tidak memiliki pengali terpisah; aktivitas hanya memengaruhi Satiety melalui kondisi tubuh yang benar-benar ditimbulkannya atau efek khusus resmi.
-- Hitung pengurangan secara presisi dan bulatkan hasil akhir ke **0,1 Satiety**. Simpan nilai presisi tersebut untuk perhitungan berikutnya; jangan membulatkan berulang kali setiap menit.
-- Pengurangan aktual dibatasi pada Satiety yang tersedia. Satiety tidak pernah kurang dari 0.
-- Jika tidak ada waktu aktif yang berlalu, tidak ada pengurangan karena waktu.
+Pengurangan akhir = min(Satiety saat ini, Pengurangan dasar × A × F × B × S)
 
-**Contoh mortal:** 6 jam aktif pada kondisi normal tanpa jam makan terlewat mengurangi (6/24 × 100 = 25) Satiety.
+- Jam terjaga dalam interval: durasi dunia yang benar-benar berlalu dalam satu segmen aktivitas, tidak termasuk tidur malam yang dilindungi §6.
+- Waktu dasar: nilai pada tabel §3 yang dikonversi ke jam.
+- A: pengali kategori aktivitas di bawah.
+- F: pengali jendela makan terlewat di §5.
+- B: pengali kondisi tubuh di §7.
+- S: pengali biologis/supranatural hanya jika ada angka resmi yang sah. Jika tidak ada, gunakan ×1,00.
+- Batas pengali gabungan: setelah mengalikan faktor yang sah, gunakan nilai akhir maksimum ×8,00 untuk satu interval. Batas ini mencegah kombinasi pengali membuat Satiety habis secara matematis dalam beberapa menit, tetapi aktivitas Survival tetap sangat menguras.
+- Pengali aktivitas adalah kategori eksklusif untuk segmen waktu yang sama. Jangan mengalikan Ringan × Sedang × Berat × Survival sekaligus. Jika aktivitas berubah, pisahkan durasinya menjadi segmen berbeda.
+- Pengali kondisi tubuh tetap faktor terpisah dari aktivitas hanya jika kelelahan benar-benar terjadi dan memiliki dasar. Jangan menghitung dampak yang sama dua kali sebagai kategori aktivitas dan pengubah khusus.
+- Hitung secara presisi dan bulatkan perubahan akhir ke **0,1 Satiety**. Pertahankan presisi internal antarpembaruan; jangan membulatkan berulang kali per menit.
+- Pengurangan aktual tidak boleh melebihi Satiety yang tersedia. Nilai akhir tidak pernah kurang dari 0.
+- Jika tidak ada waktu terjaga yang berlalu, tidak ada pengurangan karena waktu kecuali mekanik khusus resmi menyatakan sebaliknya.
 
-**Contoh Spirit Primordial:** 24 jam aktif pada kondisi normal tanpa pengubah mengurangi (24/(365×24) × 100 ≈ 0,0114) Satiety.
+### Kategori aktivitas — wajib untuk setiap interval terjaga
+
+| Kategori | Pengali A | Contoh dan batas |
+|---|---:|---|
+| Istirahat terjaga | ×0,50 | Duduk/berbaring untuk memulihkan tenaga, berhenti sejenak, atau istirahat aman tanpa aktivitas fisik berarti. Memperlambat pengurangan; **tidak menambah Satiety**. |
+| Ringan | ×1,25 | Berjalan santai, berbelanja, mengobrol sambil bergerak, tugas ringan, aktivitas sehari-hari tanpa tuntutan fisik berarti. |
+| Sedang | ×1,75 | Berjalan jauh, perjalanan aktif, latihan rutin, pekerjaan fisik berkelanjutan, atau eksplorasi yang terus menguras tenaga. |
+| Berat | ×2,50 | Berlari lama, membawa beban berat, latihan intensif, pertarungan singkat yang menguras tenaga, atau kerja fisik berat. |
+| Survival | ×4,00 | Keadaan darurat nyata: bertahan/berjuang di medan perang, bencana, kabur dari ancaman yang terus berlangsung, atau combat berkepanjangan yang memicu tekanan fisik dan adrenalin. |
+
+- Setiap interval waktu terjaga harus diklasifikasikan sebagai satu kategori aktivitas yang paling sesuai, termasuk Istirahat terjaga bila memang sedang beristirahat. Jangan membiarkan waktu aktif tanpa kategori.
+- Survival bukan sinonim untuk aktivitas yang sekadar sulit atau lokasi berbahaya. Harus ada ancaman darurat yang nyata dan perjuangan aktif/berkelanjutan. Berdiri di medan perang tanpa mengerahkan tenaga atau berada di dekat bencana tidak otomatis membuat seluruh waktu menjadi Survival.
+- Adrenalin adalah alasan naratif untuk mengklasifikasikan kejadian sebagai Survival bila syaratnya terpenuhi; jangan menambahkan pengali adrenalin kedua di atas ×4,00.
+- Jika kategori berubah dalam satu aksi, hitung setiap segmen dengan durasi dan pengalinya sendiri, lalu jumlahkan pengurangannya. Jangan menghitung durasi yang sama dua kali.
+- Jika aktivitas menimbulkan kelelahan yang didukung kejadian, pengali kondisi tubuh §7 boleh berlaku bersamaan. Kategori aktivitas dan kondisi tubuh mengukur hal berbeda, tetapi pengali gabungan tetap tunduk pada batas ×8,00.
+
+**Contoh Mortal:** 6 jam aktivitas Ringan, kondisi normal, tanpa jendela makan terlewat: (6/24 × 100) × 1,25 = 31,25, dibulatkan menjadi **31,3 Satiety**.
+
+**Contoh Mortal Survival:** 1 jam Survival, kelelahan ekstrem, dan 3+ jendela makan terlewat: pengali mentah 4,00 × 2,50 × 4,00 = 40,00, dibatasi menjadi ×8,00; pengurangan maksimum dari interval 1 jam ialah 33,3 Satiety sebelum dibatasi oleh Satiety yang tersedia.
+
+**Contoh Spirit Primordial:** 24 jam aktivitas Ringan dalam kondisi normal tanpa jendela makan terlewat: (24/(365×24) × 100) × 1,25 ≈ 0,014 Satiety sebelum pembulatan akhir ke 0,1.
 
 ## 5. Jam Makan Terlewat
 
-Hitung jumlah jendela makan yang terlewat secara beruntun saat karakter terjaga dan berkesempatan makan. Terapkan satu pengali berikut, bukan menumpuk pengali setiap jendela:
+Hitung jendela makan yang terlewat secara beruntun saat karakter terjaga dan memiliki kesempatan yang wajar untuk makan. Terapkan **satu pengali aktif** berikut untuk interval terjaga berikutnya; jangan menumpuk pengali per jendela dan jangan mengubah perhitungan interval yang sudah selesai secara retroaktif.
 
-| Jendela makan terlewat berturut-turut | Pengali hunger |
+| Jendela makan terlewat berturut-turut | Pengali F |
 |---|---:|
 | 0 | ×1,00 |
-| 1 | ×1,25 |
-| 2 | ×1,50 |
-| 3 atau lebih | ×2,00 |
+| 1 | ×1,75 |
+| 2 | ×2,75 |
+| 3 atau lebih | ×4,00 |
 
-- Pengali ini berlaku selama karakter belum makan lagi. Setelah karakter mengonsumsi makanan yang layak, reset hitungan jendela makan terlewat menjadi 0 untuk perhitungan berikutnya.
-- Jika karakter makan setelah satu atau lebih jendela terlewat, makanan tetap menambah Satiety sesuai porsi; pengali jam makan terlewat direset setelah makan.
-- Jendela yang berlalu ketika karakter sedang tidur malam tidak menambah hitungan.
-- Jika karakter tidak bisa makan karena dikurung, tidak sadar, terikat, atau situasi lain yang benar-benar menghalangi makan, jam makan yang lewat tetap tercatat sebagai kesempatan makan yang hilang hanya jika karakter terjaga. Jangan menggambarkan pilihan sengaja ketika tidak ada pilihan yang masuk akal.
+- Sebuah jendela dihitung terlewat ketika jendela itu berakhir tanpa karakter makan, selama karakter terjaga dan punya kesempatan yang wajar untuk makan. Jendela yang berlalu saat tidur malam yang dilindungi tidak dihitung.
+- Pengali baru mulai berlaku pada interval terjaga setelah jendela dinyatakan terlewat. Jangan menerapkannya kembali ke interval yang sudah dihitung.
+- Setelah karakter benar-benar mengonsumsi makanan/minuman yang layak, reset hitungan jendela makan terlewat menjadi 0 untuk interval berikutnya. Makanan tetap memulihkan Satiety sesuai efek resmi item meskipun dikonsumsi di luar jendela makan.
+- Jika karakter terkurung, tidak sadar, terikat, atau situasi nyata lain menghalangi akses/kemampuan makan, jangan menyebutnya sengaja melewatkan makan. Hitung hanya kesempatan makan yang benar-benar ada; jangan menambahkan pengali saat karakter tidak punya pilihan wajar.
+- Jangan menambahkan pengurangan tetap khusus hanya karena sebuah jendela terlewat. Dampaknya diterapkan melalui pengali F terhadap pengurangan selama waktu terjaga berikutnya.
 
 ## 6. Tidur Malam dan Penguncian Satiety
 
@@ -101,52 +129,52 @@ Tidur malam normal adalah kebutuhan biologis dan pengecualian resmi dari batas d
 
 ## 7. Kondisi Tubuh dan Pengubah Khusus
 
-Kondisi tubuh mengubah laju pengurangan Satiety dengan mengalikan nilai dasar. Gunakan pengali kondisi paling sesuai yang didukung kejadian; kategori yang saling tumpang tindih tidak boleh ditumpuk satu sama lain.
+Kondisi tubuh mengubah laju pengurangan Satiety dengan faktor B. Pilih satu kategori kelelahan yang paling sesuai dengan kondisi aktual; kategori yang saling tumpang tindih tidak boleh ditumpuk.
 
-| Kondisi tubuh | Pengali |
+| Kondisi tubuh | Pengali B |
 |---|---:|
 | Normal / lelah ringan | ×1,00 |
-| Kelelahan nyata | ×1,10 |
-| Kelelahan berat | ×1,25 |
-| Kelelahan ekstrem | ×1,50 |
+| Kelelahan nyata | ×1,25 |
+| Kelelahan berat | ×1,75 |
+| Kelelahan ekstrem | ×2,50 |
 
-- Kelelahan harus memiliki dasar, misalnya aktivitas berkepanjangan, perjalanan berat, latihan, kurang istirahat, atau kejadian lain yang masuk akal. Jangan memberikan kelelahan otomatis hanya karena giliran berlalu.
-- Kategori kelelahan di atas adalah pengali alternatif, bukan bonus yang ditumpuk. Jika karakter mengalami kelelahan ekstrem, gunakan ×1,50, bukan ×1,10 ×1,25 ×1,50.
-- Cedera, penyakit, racun, demam, kehamilan, perubahan usia, cuaca, atau keadaan khusus tidak mendapat pengali default dari modul ini. Terapkan pengali hanya jika ada aturan resmi lain atau dampak spesifik yang sudah ditetapkan dalam riwayat.
-- Aktivitas yang menguras tenaga boleh menggunakan kategori kelelahan yang sesuai bila kondisi itu benar-benar timbul. Jangan menambahkan pengali aktivitas terpisah jika dampaknya sudah terwakili oleh kondisi kelelahan yang sama.
+- Kelelahan harus memiliki dasar kejadian, misalnya aktivitas berkepanjangan, perjalanan berat, latihan intensif, kurang istirahat, atau perjuangan survival.
+- Pengali kondisi tubuh adalah kategori alternatif. Jika karakter mengalami kelelahan ekstrem, gunakan ×2,50 saja, bukan ×1,25 ×1,75 ×2,50.
+- Cedera, penyakit, racun, demam, kehamilan, usia, cuaca, atau kondisi khusus lain tidak mendapat pengali default dari modul ini. Terapkan hanya jika ada aturan resmi lain atau efek spesifik yang telah ditetapkan.
+- Jangan memberikan pengali kelelahan otomatis hanya karena giliran berlalu. Klasifikasi harus didukung aktivitas, kondisi, atau kejadian yang benar-benar terjadi.
+- Aktivitas dan kondisi tubuh boleh menjadi faktor terpisah hanya jika keduanya menggambarkan efek independen. Batas gabungan pengali ×8,00 pada §4 tetap berlaku.
 
 ### Keunggulan atau kelemahan biologis/supranatural
 
-Genetik, garis keturunan, kutukan, berkah langit, konstitusi khusus, Martial Soul, obat, teknik, relik, atau efek supernatural **boleh** mengubah metabolisme, tetapi tidak otomatis melakukannya.
+Genetik, garis keturunan, kutukan, berkah langit, konstitusi khusus, Martial Soul, obat, teknik, relik, atau efek supernatural boleh mengubah metabolisme, tetapi tidak otomatis melakukannya.
 
-1. Pastikan sifat atau efek tersebut benar-benar tercatat atau diperoleh melalui kejadian yang sah.
-2. Tentukan apakah efek memengaruhi kebutuhan makan/metabolisme secara eksplisit.
-3. Jika efek menyatakan besaran numerik, gunakan nilai resmi tersebut sebagai pengali `M`.
-4. Jika efek menyatakan dampak tetapi belum memberi angka, catat sebagai efek kualitatif dan jangan menciptakan persentase. Tandai nilai numeriknya sebagai belum ditentukan sampai aturan atau pemilik proyek menetapkannya. Sifat bawaan tubuh yang tercatat dapat mengubah cara lapar atau kelelahan terlihat dan ditoleransi dalam narasi, tetapi tidak otomatis mengurangi laju numerik Satiety. Jangan menghapus kebutuhan biologis atau memberi kekebalan penuh tanpa aturan resmi; jangan pula memaksakan gejala yang bertentangan dengan sifat yang sudah ditetapkan.
-5. Jangan menyimpulkan bahwa keturunan kuat otomatis tidak lapar, kutukan otomatis meningkatkan hunger, atau berkah otomatis menurunkan hunger tanpa bukti.
+1. Pastikan sifat atau efek tersebut tercatat atau diperoleh melalui kejadian yang sah.
+2. Tentukan apakah efek secara eksplisit memengaruhi kebutuhan makan/metabolisme.
+3. Jika efek memiliki besaran numerik resmi, gunakan sebagai faktor S.
+4. Jika efek hanya kualitatif, jangan menciptakan angka. Catat dampak naratifnya tanpa mengubah laju Satiety numerik sampai nilai resmi ditetapkan.
+5. Jangan menyimpulkan bahwa keturunan kuat otomatis tidak lapar, kutukan otomatis meningkatkan hunger, atau berkah otomatis menurunkan hunger tanpa sumber yang sah.
 
-Semua pengubah yang benar-benar independen dapat dikalikan, tetapi:
-- Jangan menghitung efek yang sama dua kali.
-- Jangan menumpuk kategori kelelahan.
-- Jangan mengarang angka untuk pengubah yang belum ditetapkan.
-- Catat sumber setiap pengubah yang aktif agar dapat diaudit.
+Semua pengubah independen boleh dikalikan sebelum batas gabungan ×8,00 diterapkan, tetapi jangan menghitung efek yang sama dua kali, menumpuk kategori kelelahan, atau mengarang angka.
 
 ## 8. Urutan Resolusi Wajib GM
 
-Setiap kali waktu berlalu, makan terjadi, atau kondisi tubuh berubah:
+Setiap kali waktu berlalu, aktivitas berubah, makanan/minuman dikonsumsi, atau kondisi tubuh berubah:
 
-1. Baca timestamp sebelumnya dan tentukan berapa lama karakter benar-benar terjaga.
-2. Kecualikan periode tidur malam yang dilindungi §6; Satiety tetap terkunci selama periode itu.
-3. Tentukan tingkat/Spirit Realm yang tercatat dan waktu dasar dari §3.
-4. Tentukan kondisi tubuh saat periode aktif itu, termasuk kategori kelelahan yang didukung.
-5. Perbarui jumlah jendela makan terlewat jika jendela berakhir saat karakter terjaga dan punya kesempatan makan.
-6. Tentukan pengubah khusus hanya dari aturan resmi atau kejadian yang tercatat.
-7. Hitung pengurangan menggunakan §4 dan semua pengali yang sah.
-8. Terapkan perubahan Satiety dari makanan yang benar-benar dikonsumsi, sesuai porsi.
-9. Batasi Satiety pada 0–100 dan catat hasil akhirnya di profil.
-10. Jangan mengubah HP, Qi, injury, atau kondisi lain hanya karena Satiety berubah, kecuali sumber resmi lain atau kejadian yang sah menetapkan hubungan itu.
+1. Ambil timestamp terakhir yang sah dan tentukan durasi dunia yang benar-benar berlalu.
+2. Pisahkan durasi menjadi segmen jika jenis aktivitas, kondisi tubuh, status terjaga, atau pengali berubah.
+3. Kecualikan tidur malam yang dilindungi §6. Selama tidur itu, Satiety terkunci pada nilai saat tidur dimulai.
+4. Tentukan Spirit Realm/status tubuh dan waktu dasar dari §3.
+5. Klasifikasikan setiap interval terjaga dengan tepat satu kategori aktivitas dari §4.
+6. Perbarui hitungan jendela makan hanya ketika jendela berakhir dan syarat kesempatan makan terpenuhi. Pengali baru berlaku ke interval berikutnya.
+7. Tentukan satu pengali kondisi tubuh dan faktor khusus yang benar-benar didukung sumber resmi.
+8. Hitung pengurangan per segmen memakai §4, terapkan batas pengali gabungan ×8,00, jumlahkan segmen, dan batasi pengurangan pada Satiety yang tersedia.
+9. Terapkan efek konsumsi hanya jika item benar-benar dimakan/diminum. Gunakan efek Satiety resmi item jika tersedia; jika tidak, gunakan kategori porsi §2 berdasarkan jenis dan jumlah yang jelas mendukungnya. Jangan menyimpulkan efek dari tier saja.
+10. Batasi nilai akhir pada 0–100 dan simpan nilai terbaru pada profil serta riwayat sesi.
+11. Untuk setiap aktivitas terbaru, sebutkan Satiety dalam respons: tampilkan perubahan dan nilai sebelum → sesudah bila berubah; jika tidak berubah, nyatakan nilai tetap dan alasan (misalnya tidur malam yang dilindungi atau tidak ada waktu terjaga yang berlalu).
+12. Jika Satiety berubah, sertakan dalam laporan perubahan dan LEDGER LOG bersama perubahan state lain yang berasal dari tindakan yang sama, lalu gunakan penanda inline-code Log tercatat! setelah kalimat narasi perubahan yang terverifikasi. Urutan, bentuk ledger, dan pemakaian penanda mengikuti templates/AUTHORITY_ORDER.md, templates/GAMEPLAY_RESPONSE_TEMPLATE.md, dan core/10_ECONOMY_SYSTEM.md.
+13. Jangan mengubah HP, Qi, injury, atau kondisi lain hanya karena Satiety berubah, kecuali sumber resmi lain atau kejadian sah menetapkan hubungan itu.
 
-Jika timestamp, Spirit Realm, periode tidur, atau kondisi penting tidak diketahui, jangan menebak angka secara diam-diam. Gunakan informasi yang tersedia, tandai nilai yang belum dapat ditentukan, dan minta klarifikasi hanya bila diperlukan untuk menyelesaikan hasil.
+Jika timestamp, Spirit Realm, periode tidur, kategori aktivitas, atau kondisi penting tidak diketahui, jangan menebak angka secara diam-diam. Gunakan data terverifikasi yang tersedia dan ungkapkan celahnya; minta klarifikasi hanya jika tanpa itu hasil tidak bisa diselesaikan dengan aman dan konsisten.
 
 ## 9. Format Profil
 

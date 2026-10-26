@@ -54,7 +54,7 @@ Example: a valid score of 68 gives **Tier 5 (Prediksi GM · 68 poin)**. This is 
 
 ## 4. World Appraisal Institution
 
-The worldwide institution is the **Merzkava Appraisal Authority (MAA)**, commonly called the **Appraisal Office** or **Kantor Appraisal**. Its recognized offices and accredited examiners operate across all major powers and established settlements, with mobile examiners and referral arrangements for remote villages, dangerous frontiers, hidden territories, and unusual specimens. A local office's existence does not mean every remote location has a permanent building or immediate service.
+The worldwide institution is the **Merzkava Appraisal Authority (MAA)**, commonly called the **Appraisal Office** or **Kantor Appraisal**. Its service is recognized throughout the world: every settled region can access appraisal through a branch, accredited local desk, scheduled examiner route, or referral to a mobile specialist. Major powers and established settlements have recognized service points; remote villages, dangerous frontiers, hidden territories, and unusual specimens are served through field examiners or specialist referrals. Worldwide availability does not guarantee an office building in every village or immediate service at every location.
 
 The MAA examines and classifies:
 - food, medicine, herbs, materials, equipment, loot, and other goods;

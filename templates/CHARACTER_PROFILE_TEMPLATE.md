@@ -50,9 +50,27 @@ Pertahankan nama dan urutan field sesuai `templates/GAMEPLAY_RESPONSE_TEMPLATE.m
 
 `Day left` hanya menghitung jeda minimum antara penyerapan Spirit Ring yang berhasil; ini bukan penghitung waktu breakthrough Kultivasi atau aktivitas lain.
 
-- Hitung akumulasi durasi dunia yang dijalani secara normal di luar Kultivasi sejak penyerapan ring terakhir yang berhasil. Waktu Kultivasi harus dicatat sebagai durasi yang dikecualikan dari jam jeda, walaupun timestamp dunia tetap maju.
-- Jangan memakai selisih timestamp mentah saja apabila rentang tersebut mencakup Kultivasi; kurangi hanya durasi normal yang memenuhi syarat dan jangan kurangi durasi Kultivasi.
-- Bulatkan sisa interval positif ke atas dalam satuan 24 jam: 1 jam tersisa = `1 Day left`, 24 jam = `1 Day left`, 25 jam = `2 Day left`. Ini hitung mundur durasi, bukan hitungan pergantian tanggal kalender.
-- Tulis `0 Day left` hanya ketika akumulasi waktu normal yang memenuhi syarat benar-benar mencapai jeda minimum. Nilai nol bukan jaminan breakthrough atau penyerapan ring sah/berhasil.
-- Jika timestamp, jumlah ring, atau riwayat yang memisahkan durasi Kultivasi dari waktu normal tidak diketahui/bertentangan, tulis `Belum ditetapkan Day left`; jangan tulis `??? Day left` atau menebak nol.
-- Perbarui berdasarkan durasi dunia baru dan jenis aktivitas yang tercatat; pergantian giliran saja tidak mengurangi nilai, dan Kultivasi tidak pernah menguranginya.
+**Formulasi kanonis `Day left` (wajib):**
+
+Definisikan:
+- `T_min` = interval minimum resmi untuk penyerapan berikutnya, sesuai jumlah ring yang telah berhasil diserap dan tabel interval di `bestiary/SPIRIT_BEAST_RULES.md`.
+- `T_eligible` = total durasi waktu dunia yang benar-benar dijalani secara normal di luar Kultivasi sejak penyerapan Spirit Ring terakhir yang berhasil.
+- `T_remaining` = sisa interval yang harus dipenuhi.
+
+Rumus:
+```text
+T_remaining = max(0, T_min - T_eligible)
+
+Jika T_remaining = 0:
+    Day left = 0
+Jika T_remaining > 0:
+    Day left = ceil(T_remaining / 24 jam)
+```
+
+`T_eligible` adalah akumulasi durasi yang memenuhi syarat, bukan selisih timestamp mentah. Waktu dari aksi normal, aktivitas harian, perjalanan, istirahat, atau tidur hanya dihitung selama waktu dunia benar-benar berlalu dan tidak tumpang tindih dengan durasi lain. **Semua durasi yang diklasifikasikan sebagai Kultivasi dikecualikan sepenuhnya dari `T_eligible`**, termasuk time skip Kultivasi hingga satu bulan. Timestamp dan kalender dunia tetap maju selama Kultivasi, tetapi `T_eligible` dan `Day left` tidak berubah akibat durasi tersebut.
+
+Pembulatan dilakukan pada sisa interval: sisa 1 jam hingga 24 jam = `1 Day left`; sisa lebih dari 24 jam hingga 48 jam = `2 Day left`. Angka hanya menjadi `0 Day left` saat `T_eligible >= T_min`. Jangan mengurangi satu hari penuh hanya karena giliran berganti atau tanggal kalender berubah.
+
+Jika riwayat penyerapan atau catatan durasi normal/Kultivasi tidak cukup untuk menghitung `T_eligible` secara andal, gunakan `Belum ditetapkan Day left`; jangan memperkirakan dan jangan menganggap cooldown selesai. Untuk ring kedua hingga kesembilan, `Day left = 0` adalah gerbang wajib yang terpisah dari Sync/bottleneck, ketersediaan ring, item, toleransi tubuh, dan syarat resmi lainnya.
+
+Gunakan formulasi di atas sebagai satu-satunya metode hitung. Nilai yang ditampilkan pada profil harus berasal dari `T_min` dan akumulasi `T_eligible` yang dapat ditelusuri dalam riwayat sesi.

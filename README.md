@@ -54,7 +54,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![WORLD UPDATE LOG](https://img.shields.io/badge/WORLD_UPDATE_LOG-FFFFFF?style=for-the-badge&labelColor=151515)
 
-<sub>WORLD ARCHIVE · v0.4.94</sub>
+<sub>WORLD ARCHIVE · v0.4.95</sub>
 
 **✦ ──── ❖ ──── ✦**
 
@@ -65,6 +65,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 **✦ ──── ❖ ──── ✦**
 
 </div>
+
+- ✦ **Martial Soul Chance and Independent Classification Aligned**  
+  The awakening module keeps the 1–100 rarity draw (Common, Uncommon, Rare, Epic, Legendary, Myth), the separate evidence-based inherent-quality score, and the single 10% mutation draw independent. Numbered universal tiers and invented rarity labels are explicitly excluded; provisional classifications cannot overwrite the actual rarity result.
 
 - ✦ **GM Action Prompt Distinguished from Player Invocation**  
   The canonical gameplay template has absolute priority for GM output and ends with the exact prompt “••• Tentukan Aksimu (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧”. The player invocation template is explicitly limited to player input and cannot override GM response formatting.
@@ -80,9 +83,6 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 - ✧ **Martial Soul Rarity Kept Separate from Tier 1–9**  
   INDEX and Authority Order clarify that universal Tier 1–9 assessment applies to items, artifacts, and Beasts—not Martial Soul rarity.
-
-- ✧ **Independent Martial Soul Quality Appraisal Preserved**  
-  The dedicated quality assessment uses the six official rarity names provisionally and cannot replace or overwrite a valid rarity draw.
 
 <div align="center">
 

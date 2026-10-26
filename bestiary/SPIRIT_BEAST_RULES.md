@@ -9,17 +9,17 @@ Gunakan kategori Beast yang ditetapkan lore resmi. Jangan menciptakan tier atau 
 
 Setelah Spirit Beast dikalahkan, Spirit Ring dapat muncul mengambang di atas tubuhnya. Kekalahan Beast tidak membuat ring otomatis berhasil diserap. Penyerapan harus diselesaikan sesuai `core/SPIRIT_RING_RULES.md`.
 
-## 1.2 Tier Usia Beast — Rumus dan Tabel Kanonis
+## 1.2 Beast Age Grade — Rumus dan Tabel Kanonis
 
-**Tier usia Beast** adalah kelas kalkulasi berdasarkan umur spesimen, bukan tingkatan kekuatan/kategori Beast, bukan Spirit Realm, dan bukan tier appraisal MAA. Istilah seperti Spirit Beast, Demonic Beast, dan Heavenly Beast tetap merupakan kategori/lore tersendiri. Angka Tier 1–9 pada tabel ini hanya menunjukkan kelompok umur untuk perhitungan yang membutuhkan klasifikasi usia.
+**Beast Age Grade** adalah kelas kalkulasi berdasarkan umur spesimen, bukan tingkatan kekuatan/kategori Beast, bukan Spirit Realm, dan bukan tier appraisal MAA. Setelah disebut lengkap, istilah singkatnya adalah **Age Grade**. Istilah seperti Spirit Beast, Demonic Beast, dan Heavenly Beast tetap merupakan kategori/lore tersendiri. Angka 1–9 pada tabel ini hanya menunjukkan kelompok umur untuk perhitungan yang membutuhkan klasifikasi usia.
 
 Gunakan umur aktual yang diketahui. Rumus klasifikasinya:
 
-`TierUsia(A) = tier terkecil yang rentang umurnya mencakup A`
+`AgeGrade(A) = Age Grade terkecil yang rentang umurnya mencakup A`
 
-dengan `A` = umur Beast dalam tahun. Cocokkan umur dengan tabel; jangan mengubah tier berdasarkan nama, kategori, kemampuan, atau dugaan kekuatan Beast. Jika umur belum diketahui, tandai tier usia belum ditetapkan—jangan menebaknya dari kategori Beast.
+dengan `A` = umur Beast dalam tahun. Cocokkan umur dengan tabel; jangan mengubah Age Grade berdasarkan nama, kategori, kemampuan, atau dugaan kekuatan Beast. Jika umur belum diketahui, tandai Age Grade belum ditetapkan—jangan menebaknya dari kategori Beast.
 
-| Tier usia | Umur Beast |
+| Age Grade | Umur Beast |
 |---:|---:|
 | 1 | 10–150 tahun |
 | 2 | 151–999 tahun |
@@ -31,9 +31,9 @@ dengan `A` = umur Beast dalam tahun. Cocokkan umur dengan tabel; jangan mengubah
 | 8 | 200.000–499.999 tahun |
 | 9 | 500.000 tahun ke atas; rentang lazim dapat mencapai sekitar 4.000.000 tahun dan lebih |
 
-**Tier 9 tidak memiliki batas maksimum tetap.** Beast berumur lebih dari 4 juta tahun tetap Tier Usia 9; angka 4 juta bukan batas keras. Contoh kanonis: Heavenly Beast di Azerion Forest berumur **7.290.422 tahun**, sehingga masuk **Tier Usia 9**. Beast ini adalah Beast yang mampu melukai Beiming Han ketika Beiming Han masih berstatus Demonic Beast. Fakta itu tidak mengubah arti Tier Usia 9 dan tidak menjadikan tier usia sebagai kategori Beast.
+**Age Grade 9 tidak memiliki batas maksimum tetap.** Beast berumur lebih dari 4 juta tahun tetap berada pada Age Grade 9; angka 4 juta bukan batas keras. Contoh kanonis: Heavenly Beast di Azerion Forest berumur **7.290.422 tahun**, sehingga masuk **Age Grade 9**. Beast ini adalah Beast yang mampu melukai Beiming Han ketika Beiming Han masih berstatus Demonic Beast. Fakta itu tidak mengubah arti Age Grade 9 dan tidak menjadikan Age Grade sebagai kategori Beast.
 
-Tier usia juga tidak sama dengan warna Spirit Ring. Tentukan warna ring dari tabel warna resmi di `core/SPIRIT_RING_RULES.md`; tentukan Tier Usia Beast dari tabel ini. Keduanya boleh berbeda karena batas klasifikasinya memang berbeda.
+Age Grade juga tidak sama dengan warna Spirit Ring. Tentukan warna ring dari tabel warna resmi di `core/SPIRIT_RING_RULES.md`; tentukan Age Grade Beast dari tabel ini. Keduanya boleh berbeda karena batas klasifikasinya memang berbeda.
 
 ## 1.1 Estimating Hunt Danger Without Invented Odds
 

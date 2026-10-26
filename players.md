@@ -19,8 +19,8 @@ Saat bootstrap karakter terdaftar, gunakan tautan **RAW** untuk mengambil isi fi
 
 | Karakter | File karakter | Status |
 |---|---|---|
-| Yuha | [players/Yuha.md](players/Yuha.md) · [RAW](https://raw.githubusercontent.com/Antarezka/merzkava-universe/refs/heads/main/players/Yuha.md?v=66958122) | Snapshot awal terdaftar |
-| Nafila | [players/Nafila.md](players/Nafila.md) · [RAW](https://raw.githubusercontent.com/Antarezka/merzkava-universe/refs/heads/main/players/Nafila.md?v=34317fb5) | Snapshot awal terdaftar |
+| Yuha | [players/Yuha.md](players/Yuha.md) · [RAW](https://raw.githubusercontent.com/Antarezka/merzkava-universe/refs/heads/main/players/Yuha.md?v=2) | Snapshot awal terdaftar |
+| Nafila | [players/Nafila.md](players/Nafila.md) · [RAW](https://raw.githubusercontent.com/Antarezka/merzkava-universe/refs/heads/main/players/Nafila.md?v=2) | Snapshot awal terdaftar |
 
 ## Menambahkan Karakter
 Buat satu file individual di folder `players/` untuk setiap karakter, lalu tambahkan satu entri ke tabel di atas. Gunakan `templates/CHARACTER_PROFILE_TEMPLATE.md` untuk definisi field dan `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` untuk format gameplay.

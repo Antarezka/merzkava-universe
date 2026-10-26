@@ -162,7 +162,7 @@ Template visual bukan sekadar contoh dekorasi. `templates/GAMEPLAY_RESPONSE_TEMP
 
 Sebelum mengirim respons, verifikasi secara visual terhadap template canonical:
 
-- Urutan keseluruhan: blok waktu → narasi dan laporan perubahan → `Log tercatat!` lalu satu `LEDGER LOG` jika Satiety/uang/item/equipment/loot/aset benar-benar berubah → empat seksi profil di bawah → catatan penutup → `Aksiku : --`.
+- Urutan keseluruhan: blok waktu → narasi dan laporan perubahan → `Log tercatat!` lalu satu `LEDGER LOG` jika Satiety/uang/item/equipment/loot/aset benar-benar berubah → empat seksi profil di bawah → catatan penutup → `Tentukan Aksimu : --`.
 - Empat seksi profil harus tetap terpisah dan memakai judul serta pembatas canonical: `PROFIL KARAKTER`, `INV & KEUANGAN`, `TEKNIK & TUJUAN`, `CATATAN PEMAIN & KONSISTENSI`.
 - Di `PROFIL KARAKTER`, pertahankan urutan persis: `Nama`, `Usia`, `Spirit Realm`, `Sync progress`, `Spirit Ring Absorption`, `Martial Soul`, `Thinker Grade`, `HP`, `Satiety`, `Qi`, `Kondisi Tubuh`, `Equipment`.
 - Di `INV & KEUANGAN`, pertahankan urutan `Inventory` → `Assets Bangunan` → `Wallet (wealth)`; Wallet harus ditampilkan dengan lima denominasi canonical `xc | xs | xg | zj | az` sesuai template.
@@ -174,7 +174,7 @@ Sebelum mengirim respons, verifikasi secara visual terhadap template canonical:
 
 ## 6. Format Jawaban
 
-Setiap respons gameplay—baik respons pertama setelah CONVO, recall, maupun giliran lanjutan—wajib mengikuti templates/GAMEPLAY_RESPONSE_TEMPLATE.md secara persis untuk urutan, nama field, timestamp visual, narasi, profil, catatan pemain, sekat, dan baris Aksiku : --. Pemeriksaan event dilakukan di belakang layar dan tidak menambah field atau mengubah format canonical.
+Setiap respons gameplay—baik respons pertama setelah CONVO, recall, maupun giliran lanjutan—wajib mengikuti templates/GAMEPLAY_RESPONSE_TEMPLATE.md secara persis untuk urutan, nama field, timestamp visual, narasi, profil, catatan pemain, sekat, dan baris Tentukan Aksimu : --. Pemeriksaan event dilakukan di belakang layar dan tidak menambah field atau mengubah format canonical.
 
 Definisi field bersumber dari templates/CHARACTER_PROFILE_TEMPLATE.md. Perhitungan waktu bersumber dari Time Rules. Jangan menyalin format penuh ke prompt ini atau membuat format tandingan.
 

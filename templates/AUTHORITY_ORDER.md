@@ -179,3 +179,14 @@ Setiap respons gameplay—baik respons pertama setelah CONVO, recall, maupun gil
 Definisi field bersumber dari templates/CHARACTER_PROFILE_TEMPLATE.md. Perhitungan waktu bersumber dari Time Rules. Jangan menyalin format penuh ke prompt ini atau membuat format tandingan.
 
 **MODE: NO STEP** berarti jangan memberi menu pilihan atau daftar opsi bernomor. Akhiri adegan pada situasi terbuka agar player menentukan tindakan sendiri.
+
+
+## 5B. Tier, Penilaian Sementara, dan Kantor Appraisal
+
+Untuk semua barang, makanan, obat, bahan, loot, Relic, Ancient Artifact, Artificial Artifact, dan jenis Beast, periksa sumber kanon topik terlebih dahulu. Jika tier resmi sudah ditetapkan, gunakan persis dan jangan hitung ulang. Jika tier belum diketahui atau sumbernya meragukan, ikuti penuh `core/TIER_ASSESSMENT_AND_APPRAISAL.md`.
+
+- Hasil Kantor Appraisal resmi MAA untuk subjek yang diperiksa menjadi prioritas tertinggi ketika canon sebelumnya belum pasti. Catat ID catatan appraisal bila tersedia.
+- Tanpa hasil appraisal, GM boleh menggunakan skor universal hanya jika bukti cukup; wajib memberi label `Prediksi GM` dan mencatat skor serta bukti ringkas. Prediksi bukan canon resmi.
+- Jika bukti tidak cukup, tulis `Tier belum ditetapkan — appraisal diperlukan`; jangan memaksa angka.
+- Jangan samakan tier kualitas barang dengan Spirit Realm, Spirit Ring tier, Thinker Grade, kekuatan tempur, usia, atau kelangkaan. Jangan mengubah tier item/beast lama tanpa bukti bahwa ruling berlaku untuk subjek yang sama.
+- Untuk konsumsi dan LEDGER LOG, gunakan tier kanon, hasil appraisal resmi, atau prediksi GM yang dilabeli dengan jelas. Jangan menulis prediksi seolah-olah tier resmi.

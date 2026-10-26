@@ -85,7 +85,7 @@ Each applicable dimension uses the same rubric: 0 = tested/verified negligible; 
 
 These bands are a fallback for an **inherent-quality assessment**, not a second rarity draw and not an automatic rewrite of the awakening result. Keep the wording **Prediksi GM · [score] poin · klasifikasi inheren sementara** until an authorized appraisal or owner-approved canon decision confirms it. Do not present the score band as the result of the rarity chance table.
 
-Preserve existing named canon exactly, including **Myth Tier** and **Tier 7 Peak** where those terms are already explicitly recorded. Do not convert these established titles into numeric tiers, rename them to match the score bands, or invent a mapping between them and the six rarity labels. If the relationship is not explicitly established for that subject, record the terms separately and request appraisal/owner clarification rather than assuming equivalence.
+Rarity Martial Soul hanya boleh memakai enam istilah resmi: **Common, Uncommon, Rare, Epic, Legendary, Myth**. Semua label lama untuk rarity yang memakai istilah numerik atau gabungan seperti “Myth Tier” harus diselaraskan ke istilah resmi saja. Jangan membuat istilah rarity tambahan. Skor inheren hanya memberi klasifikasi sementara berdasarkan enam istilah ini dan tidak menggantikan hasil undian rarity.
 
 ### Awakening resolution order with independent assessment
 

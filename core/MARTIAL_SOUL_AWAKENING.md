@@ -112,13 +112,14 @@ GM harus mengikuti urutan ini setiap kali karakter menjalani awakening yang hasi
 
 1. Pastikan karakter memenuhi syarat usia dan proses awakening benar-benar berlangsung.
 2. Tentukan bentuk dasar Martial Soul dengan mempertimbangkan informasi karakter yang sah, termasuk kecenderungan keluarga atau leluhur yang benar-benar diketahui. Bentuk Martial Soul tidak memiliki daftar tertutup dan dapat berupa bentuk lazim maupun tidak lazim, termasuk fenomena seperti kabut atau asap. Jangan mengarang silsilah, leluhur, atau kemampuan tersembunyi. Kecenderungan genetik memengaruhi pertimbangan bentuk, bukan mengubah tabel peluang rarity.
-3. Undi rarity awal menggunakan tabel di Bagian 2.
-4. Tampilkan narasi anomali atau gejolak yang menandai adanya kesempatan terakhir untuk menerima risiko mutasi. Narasi ini wajib diberikan setelah rarity awal diketahui oleh GM, tetapi sebelum hasil awakening ditetapkan secara final.
-5. Berikan keputusan kepada pemain: menghentikan proses dan mempertahankan hasil awal, atau bertahan untuk mengambil peluang mutasi.
-6. Jika pemain memilih berhenti, tetapkan Martial Soul awal tanpa mutasi. Tidak ada undian mutasi.
-7. Jika pemain memilih bertahan, lakukan tepat satu undian mutasi dengan peluang 10% sesuai Bagian 4.
-8. Tetapkan hasil akhir berdasarkan undian. Jangan mengulang undian atau mengubah hasil demi cerita.
-9. Catat hasil final dan fakta yang telah dikonfirmasi dalam profil gameplay. Jangan mencatat kemungkinan yang tidak terjadi sebagai fakta.
+3. Undi rarity awal sekali menggunakan tabel di Bagian 2.
+4. Tentukan tier Martial Soul secara terpisah: gunakan tier canon yang sudah pasti; jika tidak tersedia, ikuti skor khusus di Bagian 2A hanya jika bukti cukup. Catat sebagai prediksi sementara, bukan canon resmi. Jangan memakai hasil rarity sebagai skor tier.
+5. Tampilkan narasi anomali atau gejolak yang menandai adanya kesempatan terakhir untuk menerima risiko mutasi. Narasi ini wajib diberikan setelah rarity diketahui, tetapi sebelum keputusan mutasi dan hasil akhir.
+6. Berikan keputusan kepada pemain: menghentikan proses dan mempertahankan hasil awal, atau bertahan untuk mengambil peluang mutasi.
+7. Jika pemain memilih berhenti, tetapkan Martial Soul awal dengan rarity dan tier yang sudah ditentukan; tidak ada undian mutasi.
+8. Jika pemain memilih bertahan, lakukan tepat satu undian mutasi dengan peluang 10% sesuai Bagian 4.
+9. Tetapkan hasil akhir berdasarkan undian. Jika mutasi mengubah karakteristik yang relevan, evaluasi ulang tier hanya berdasarkan sifat hasil mutasi yang benar-benar ditetapkan; jangan otomatis menaikkan/menurunkan tier atau mengundi ulang rarity/mutasi.
+10. Catat hasil final dan fakta yang telah dikonfirmasi dalam profil gameplay. Jangan mencatat kemungkinan yang tidak terjadi sebagai fakta.
 
 GM tidak boleh memilihkan keputusan untuk karakter pemain. Jika pemain belum menjawab, hentikan resolusi pada titik keputusan; jangan menganggap diam sebagai persetujuan untuk bertahan.
 
@@ -175,7 +176,8 @@ Setelah rarity awal diundi dan sebelum hasil final ditetapkan, GM wajib menyampa
 
 GM wajib menjaga hal-hal berikut:
 
-- Rarity diundi sebelum pilihan mutasi ditawarkan.
+- Rarity diundi sebelum pilihan mutasi ditawarkan; tier dinilai secara terpisah berdasarkan canon atau skor Bagian 2A.
+- Rarity chance, tier Martial Soul, dan mutation chance adalah tiga hal berbeda. Tidak ada satu pun yang secara otomatis menentukan dua hal lainnya.
 - Kesempatan mengambil risiko diberikan setiap kali proses awakening yang relevan berlangsung; jangan menghilangkannya hanya karena GM tidak menyukai kemungkinan hasil.
 - Keputusan berhenti atau bertahan hanya dibuat oleh pemain.
 - Peluang mutasi selalu 10% dan hanya satu undian per keputusan bertahan.

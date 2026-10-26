@@ -31,6 +31,7 @@ Saat pemain memakai trigger awal yang merujuk INDEX.md dan players.md, perlakuka
 2. **Pilih mode sesi.** Sesi berlanjut memakai profil gameplay terakhir dan kejadian setelahnya, bukan snapshot awal. Sesi baru memakai snapshot karakter terdaftar setelah template canonical dimuat. Karakter baru mengikuti template dan Authority Order tanpa mengarang rahasia inti atau kemampuan formal.
 3. **Ikuti urutan bootstrap terperinci pada bagian “Gerbang format → profil player → ekonomi” di bawah.** Bagian itu adalah sumber langkah operasional lengkap untuk template, profil, Wallet, modul relevan, event, dan validasi.
 4. **Gunakan navigasi dinamis selama gameplay.** Periksa `world/DYNAMIC_EVENTS.md` sebelum adegan pertama dan setiap giliran; baca hanya modul yang relevan dengan karakter, lokasi, waktu, dan aksi. Jika sumber wajib gagal diakses, sebutkan sumbernya dan jangan berpura-pura gate selesai. Mulai gameplay langsung tanpa laporan bootstrap.
+5. **Transaksi dan perubahan state:** ikuti `templates/AUTHORITY_ORDER.md` untuk narasi natural, penanda `Log tersimpan!`, dan validasi ledger; ikuti `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` untuk urutan tampilannya. `core/10_ECONOMY_SYSTEM.md` tetap menjadi sumber format serta aturan ledger uang/item. Penanda bukan klaim bahwa data telah ditulis ke GitHub.
 
 ### Gerbang format → profil player → ekonomi (URUTAN MUTLAK)
 

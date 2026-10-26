@@ -21,7 +21,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ![THE NOTICEBOARD](https://img.shields.io/badge/THE_NOTICEBOARD-FFFFFF?style=for-the-badge&labelColor=151515)
 
-![Merzkava Universe colorful noticeboard: six framed panels introducing the world, hidden places, the cost of power, thinkers, the living calendar, and rumors](assets/noticeboard.svg?v=2)
+![Merzkava Universe colorful noticeboard: six framed panels introducing the world, hidden places, the cost of power, thinkers, the living calendar, and rumors](assets/noticeboard.svg?v=3)
 
 ---
 

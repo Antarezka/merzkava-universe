@@ -127,7 +127,7 @@ Penaklukan Spirit Beast dan proses penyerapan Spirit Ring adalah bagian yang ber
 - Saat Sync progress mencapai **cap kompatibilitas ring yang sedang diproses**, karakter mencapai batas kompatibilitas normalnya. Cap ini bisa kurang dari 100% (misalnya 45%) dan tidak boleh dipaksa menjadi 100%. **Sinkronisasi kekuatan 100%** adalah konsep terpisah dari field Sync progress: artinya karakter menguasai kekuatan Spirit Ring sepenuhnya, setara dengan saat Spirit Beast asalnya menggunakannya. Itu adalah hasil penguasaan penuh, bukan syarat universal untuk mencapai bottleneck atau melakukan breakthrough.
 - Sinkronisasi 100% nyaris mustahil melalui penyerapan paksa. Jika Spirit Beast secara sukarela menyerahkan ringnya, sinkronisasi 100% lebih mungkin dicapai, tetapi tidak dijamin.
 - Usia Spirit Ring tidak memiliki batas mutlak hanya berdasarkan angka; toleransi tubuh dan kompatibilitas tetap menentukan. Rentang warna ring tetap mengikuti tabel di atas, sementara warna untuk usia 500.000 tahun ke atas belum ditetapkan.
-- Gunakan formula kompatibilitas, PowerScale, dan Qi yang tercantum di `core/SPIRIT_RING_RULES.md`. Jangan mengganti rumus atau mengarang nilai input yang belum diketahui.
+- Gunakan formula kompatibilitas tunggal di `core/SPIRIT_RING_RULES.md` §6.1, termasuk penalti kesenjangan tier, kondisi tubuh/Martial Soul, bonus combat/metode, dan pengecualian penyerahan sukarela. Cap sekitar 80% sudah menandakan kompatibilitas jenius; 90% ke atas jauh lebih langka dan 100% merupakan pencapaian istimewa, bukan default. PowerScale dan Qi tetap mengikuti rumus di modul yang sama. Jangan mengganti rumus atau mengarang input yang belum diketahui.
 
 ## 7. Konsistensi dengan WORLD.md
 

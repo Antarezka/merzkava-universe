@@ -1,6 +1,6 @@
 # Merzkava Universe — Spirit Ring Rules
 
-Status: Modul mekanik resmi; formula v1 untuk kompatibilitas, power scale, dan Qi dirancang dari arahan pemilik proyek.
+Status: Modul mekanik resmi; formula cap kompatibilitas berbasis kesenjangan tier dan penyerahan sukarela, PowerScale, serta Qi mengikuti rumus di bawah.
 Cakupan: usia dan warna Spirit Ring, kemunculan ring, penyerapan, sinkronisasi, power scale, Qi, serta hubungan dengan bottleneck dan breakthrough.
 
 Aturan dalam modul ini harus dipertahankan secara konsisten. Jangan menghapus atau mengganti mekanik yang telah disepakati hanya karena rinciannya tidak tertulis di WORLD.md. Untuk tingkat kultivasi, gunakan istilah kanonis **Spirit Realm** sebagaimana ditetapkan dalam `core/CULTIVATION_SYSTEM.md`; jangan gunakan `Realm` atau `Cultivation Realm` sebagai istilah singkatan untuk tingkat kultivasi.
@@ -357,9 +357,9 @@ Catat usia ring Aᵢ dalam tahun. Jumlahkan usia seluruh ring yang telah berhasi
 
 Hitung power scale ring dengan usia sebagai faktor dominan dan kompatibilitas keseluruhan sebagai faktor pengubah yang lebih kecil:
 
-**PowerScale = AgeTotal × (0,75 + 0,25 × C_total / 100)**
+**PowerScale = AgeTotal × (0,50 + 0,50 × C_total / 100)**
 
-Artinya, usia semua ring merupakan fondasi utama kekuatan; kompatibilitas keseluruhan memengaruhi hasil paling banyak 25%. Tier Beast memengaruhi power scale melalui nilai kompatibilitas, bukan sebagai pengali usia tambahan. Jangan menyamakan dua karakter hanya karena jumlah ringnya sama: usia dan kompatibilitas ring mereka bisa berbeda. PowerScale adalah indeks perbandingan kekuatan dari sistem ring, bukan otomatis angka damage atau jaminan menang dalam pertarungan.
+Artinya, usia seluruh ring dan kompatibilitas keseluruhan sama-sama menjadi faktor utama PowerScale: usia membentuk dasar, sementara C_total mengubah hasil dalam rentang 50%–100% dari AgeTotal. Contoh: C_total 80 menghasilkan pengali 0,90; C_total 50 menghasilkan 0,75; C_total 0 tetap menghasilkan 0,50 agar kompatibilitas rendah tidak menghapus kontribusi usia ring sepenuhnya. Tier Beast memengaruhi PowerScale melalui cap kompatibilitas, bukan sebagai pengali usia tambahan. Jangan menyamakan dua karakter hanya karena jumlah ringnya sama: usia dan kompatibilitas ring mereka bisa berbeda. PowerScale adalah indeks perbandingan kekuatan dari sistem ring, bukan otomatis angka damage atau jaminan menang dalam pertarungan.
 
 ### 6.4. Qi berdasarkan jumlah ring
 

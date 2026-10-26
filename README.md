@@ -54,7 +54,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![WORLD UPDATE LOG](https://img.shields.io/badge/WORLD_UPDATE_LOG-FFFFFF?style=for-the-badge&labelColor=151515)
 
-<sub>WORLD ARCHIVE · v0.4.70</sub>
+<sub>WORLD ARCHIVE · v0.4.81</sub>
 
 **✦ ──── ❖ ──── ✦**
 
@@ -66,20 +66,20 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
-- ✧ **Martial Soul Rarity Uses Named Terms Only**  
-  Rarity is expressed as Common, Uncommon, Rare, Epic, Legendary, or Myth—never as numeric Tier 1–9.
+- ✧ **Martial Soul Rarity Terminology Standardized**  
+  Martial Soul rarity uses only Common, Uncommon, Rare, Epic, Legendary, and Myth; numeric tier labels and legacy rarity aliases are removed.
 
 - ✦ **Independent Inherent-Quality Assessment**  
-  Added a dedicated evidence-based score for provisional Martial Soul quality classification without overwriting the actual rarity draw.
+  The dedicated evidence-based score provides a provisional classification using the six official names without replacing the actual rarity draw.
 
-- ❖ **Established Canon Titles Preserved**  
-  Existing terms such as Myth Tier and Tier 7 Peak remain exactly as recorded; no unapproved mapping or renaming is inferred.
+- ❖ **Canon Profiles and World References Aligned**  
+  Established Martial Soul entries and summaries use the same six rarity terms consistently.
 
-- ⟡ **Awakening and Mutation Remain Separate**  
-  The rarity draw, provisional quality assessment, and single 10% mutation roll retain distinct purposes and procedures.
+- ⟡ **Appraisal Authority Integration**  
+  MAA assesses uncertain Martial Soul classification through the dedicated method and does not override an actual rarity draw.
 
 - ✧ **INDEX & Authority Order Alignment**  
-  Updated the Martial Soul, appraisal, navigation, and GM authority rules to enforce named rarity terminology consistently.
+  Updated navigation and GM procedures to prevent numeric tier terminology from being used as Martial Soul rarity.
 
 <div align="center">
 

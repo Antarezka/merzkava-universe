@@ -32,25 +32,9 @@ Persyaratan item pada bagian ini berlaku sebagai syarat breakthrough untuk menye
 - Item yang dikonsumsi atau rusak selama proses harus dicatat sebagai konsekuensi hanya jika aturan atau kejadian yang sah menetapkannya.
 - Mengalahkan Beast, memiliki ring yang muncul, atau mencapai bottleneck tidak menggantikan persyaratan item.
 
-## Status Kanonis Spirit Ring Absorption
+## Rujukan Status Spirit Ring Absorption
 
-Status ditentukan oleh tahap karakter terlebih dahulu, lalu kelayakan proses penyerapan berikutnya. Tampilkan **tepat satu status**, jangan menampilkan alternatif sekaligus, dan jangan menambahkan alasan/label lain di dalam field profil.
-
-- **Mortal, tidak sedang menjalani Awakening:** `Spirit Ring Absorption: not eligible yet | ??? Day left`
-- **Proses Martial Soul Awakening sedang berlangsung:** `Spirit Ring Absorption: pending | ??? Day left`
-- **Awakening selesai, belum pernah menyerap ring pertama, syarat ring pertama terpenuhi:** `Spirit Ring Absorption: eligible | ??? Day left`
-- **Awakening selesai, belum pernah menyerap ring pertama, syarat ring pertama belum terpenuhi:** `Spirit Ring Absorption: not eligible yet | ??? Day left`
-- **Spirit Realm 1–8, syarat penyerapan berikutnya belum lengkap:** `Spirit Ring Absorption: not eligible yet | N Day left`
-- **Spirit Realm 1–8, seluruh syarat karakter/proses penyerapan berikutnya terpenuhi:** `Spirit Ring Absorption: eligible | 0 Day left`
-- **Spirit Realm 9 (Spirit Primordial), batas puncak sistem:** `Spirit Ring Absorption: max | ∞ Day left`
-
-Aturan:
-- `pending` hanya digunakan selama proses Awakening benar-benar berlangsung, bukan sekadar karena karakter belum Awakening.
-- Untuk Mortal yang tidak sedang menjalani Awakening, tampilkan `Spirit Ring Absorption: not eligible yet | ??? Day left`.
-- Setelah Awakening selesai tetapi sebelum penyerapan pertama berhasil, `Day left` adalah `???` karena jeda belum dimulai. Awakening sendiri tidak otomatis memberikan ring atau membuat status `eligible`.
-- Pada Spirit Realm 1–8, cooldown positif berarti `not eligible yet`. Cooldown nol hanyalah satu gerbang; status `eligible` hanya jika seluruh syarat resmi lain terpenuhi. Ketersediaan ring fisik tetap terpisah dari kelayakan karakter/proses.
-- Spirit Realm 9 selalu `max | ∞ Day left`. Sembilan slot adalah batas sistem; jangan hitung cooldown ke ring kesepuluh, jangan tampilkan `eligible`, dan jangan menambahkan Spirit Realm atau slot kesepuluh tanpa revisi canon eksplisit pemilik.
-- `Belum ditetapkan Day left` hanya untuk save lama yang diketahui pernah menyerap ring tetapi riwayat waktunya tidak cukup untuk merekonstruksi cooldown. Jangan gunakan untuk Mortal, Awakening, karakter yang belum pernah menyerap ring, atau Spirit Realm 9.
+Gunakan pemetaan tunggal di `templates/CHARACTER_PROFILE_TEMPLATE.md`. Interval minimum pada tabel di bawah adalah sumber resmi `T_min`; perhitungan `Day left` dan pengecualian waktu Kultivasi mengikuti `gameplay/TIME_AND_ACTION_RULES.md` §7. Jeda minimum bukan jaminan keberhasilan penyerapan.
 
 ## 3. Jeda Minimum Antar-Penyerapan Spirit Ring
 
@@ -67,7 +51,7 @@ Jeda dihitung dari waktu penyerapan Spirit Ring sebelumnya yang berhasil sampai 
 | Ring 7 → Ring 8 | 3 tahun |
 | Ring 8 → Ring 9 | 4 tahun |
 
-Jeda ini adalah waktu minimum, bukan jaminan bahwa penyerapan akan berhasil. Pemetaan status mengikuti `templates/CHARACTER_PROFILE_TEMPLATE.md`: Mortal tanpa Awakening aktif = `not eligible yet | ??? Day left`; Awakening aktif = `pending | ??? Day left`; setelah Awakening, evaluasi kelayakan ring pertama dan gunakan `??? Day left`; Spirit Realm 1–8 memakai status kelayakan dan cooldown; Spirit Realm 9 selalu `max | ∞ Day left` karena tidak ada ring berikutnya. Pemetaan status mengikuti `templates/CHARACTER_PROFILE_TEMPLATE.md`: Mortal tanpa Awakening aktif = `not eligible yet | ??? Day left`; Awakening aktif = `pending | ??? Day left`; setelah Awakening, evaluasi kelayakan ring pertama dan gunakan `??? Day left`; Spirit Realm 1–8 memakai status kelayakan dan cooldown; Spirit Realm 9 selalu `max | ∞ Day left` karena tidak ada ring berikutnya. Jika karakter belum pernah menyerap Spirit Ring, jeda antarpenyerapan belum berlaku dan profil harus menampilkan `??? Day left`. **Setiap penyerapan yang berhasil langsung menjadi titik awal cooldown berikutnya:** tetapkan `T_eligible = 0` dan isi `Day left` berdasarkan interval resmi menuju ring berikutnya saat itu juga. Gunakan hanya formulasi kanonis `Day left` di `gameplay/TIME_AND_ACTION_RULES.md` §7: `T_remaining = max(0, T_min - T_eligible)`; jika sisa nol, `Day left = 0`, selain itu `Day left = ceil(T_remaining / 24 jam)`. `T_eligible` hanya mengakumulasi waktu dunia normal di luar Kultivasi; semua durasi Kultivasi dikecualikan meskipun timestamp dunia maju. Catat durasi time skip Kultivasi dalam riwayat sesi agar bisa dikecualikan. `Belum ditetapkan Day left` hanya berlaku untuk state lama yang diketahui pernah menyerap ring tetapi tidak memiliki data cukup untuk merekonstruksi cooldown, bukan untuk karakter yang belum pernah menyerap ring atau penyerapan yang baru berhasil. Untuk ring kedua dan seterusnya sebelum Spirit Realm 9, `Day left = 0` wajib dipenuhi terpisah dari syarat Sync, ring, item, toleransi tubuh, dan aturan resmi lain.
+Jeda ini adalah waktu minimum, bukan jaminan bahwa penyerapan akan berhasil. Setelah setiap penyerapan berhasil, mulai cooldown berikutnya saat itu juga dengan `T_eligible = 0`. Gunakan hanya rumus di `gameplay/TIME_AND_ACTION_RULES.md` §7; waktu Kultivasi dikecualikan sepenuhnya. `Belum ditetapkan Day left` hanya untuk riwayat lama yang diketahui memiliki penyerapan berhasil tetapi catatan waktunya tidak cukup. Untuk ring kedua hingga kesembilan, `Day left = 0` wajib dipenuhi terpisah dari Sync, ketersediaan ring, item, toleransi tubuh, dan syarat resmi lain.
 
 Jika penyerapan dipaksakan sebelum jeda minimum, GM wajib menetapkan deviasi minimal dan menentukan tingkatnya berdasarkan seberapa besar jeda yang dilanggar, kondisi tubuh, serta bukti yang tersedia. Deviasi dapat ringan hingga berat. Jangan mengarang angka peluang atau jumlah damage yang tidak memiliki rumus resmi.
 

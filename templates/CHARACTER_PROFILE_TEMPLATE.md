@@ -10,20 +10,19 @@ Pertahankan nama dan urutan field sesuai `templates/GAMEPLAY_RESPONSE_TEMPLATE.m
 2. `Usia`: usia karakter yang tercatat.
 3. `Spirit Realm`: selalu tulis nama field dan tingkat kultivasi sebagai `Spirit Realm` (bukan `Realm` atau `Cultivation Realm`), beserta Stage dan progres sesuai sistem resmi. Mortal ditulis `Mortal/0`, bukan `Spirit Realm 0`.
 4. `Sync progress`: progres saat ini dibandingkan dengan cap kompatibilitas ring saat ini. Cap tidak selalu 100%; misalnya `45%/45%` berarti cap telah tercapai. Ini bukan penguasaan penuh atas kekuatan ring. Jika karakter belum memiliki Spirit Ring yang sedang diproses, tampilkan `0%/0%` dan jelaskan bahwa belum ada cap kompatibilitas aktif; jangan gunakan `???`.
-5. `Spirit Ring Absorption`: status tunggal dan format `status | Day left` wajib mengikuti bagian **Status Kanonis Spirit Ring Absorption** di bawah. Jangan menambahkan alasan atau label lain ke dalam field.
-6. `Day left`: sisa jeda minimum antarpenyerapan Spirit Ring yang berhasil. Rumus, interval, pengecualian waktu Kultivasi, serta penanganan riwayat lama mengikuti bagian **Perhitungan Day left — Pengecualian Penyerapan Spirit Ring** di bawah dan `gameplay/TIME_AND_ACTION_RULES.md` §7. `??? Day left` berarti jeda belum dimulai; `Belum ditetapkan Day left` hanya untuk riwayat lama yang diketahui memiliki penyerapan berhasil tetapi data waktu tidak cukup. Spirit Realm 9 selalu memakai `∞ Day left`.
-7. `Martial Soul`: Martial Soul karakter sesuai sumber resmi dan riwayat.
-8. `Thinker Grade`: grade yang sudah ditetapkan oleh mekanik/riwayat.
-9. `HP`: current HP dan maksimum HP mengikuti `core/HP_SYSTEM.md`.
-10. `Satiety`: nilai kenyang 0–100 mengikuti `core/HUNGER_AND_METABOLISM.md`; bukan HP atau Qi. Format tampilan wajib `Satiety: nilai/100`. Jika snapshot awal dibuat sebelum field ini ditambahkan, tetapkan estimasi awal GM yang wajar saat bootstrap sesi baru berdasarkan modul tersebut; jangan otomatis memakai 0 atau 100, jangan menyimpulkan kekebalan/metabolisme khusus tanpa sumber, dan jangan mengubah snapshot hanya untuk mengisi state sesi.
-11. `Qi`: nilai/state Qi yang benar-benar ditetapkan oleh sumber resmi dan riwayat; jangan mengarang batas atau pemulihan.
-12. `Kondisi Tubuh`: kondisi fisik yang didukung kejadian dan mekanik, termasuk cedera yang relevan.
-13. `Equipment`: perlengkapan yang sedang dimiliki/digunakan sesuai state.
-14. `Inventory`: barang bawaan yang tercatat.
-15. `Assets Bangunan`: hanya bangunan atau properti yang benar-benar dimiliki karakter dan tercatat sebagai aset. Penghasilan, tabungan, uang tunai, dan barang bawaan bukan Assets Bangunan; uang hanya dicatat pada `Wallet (wealth)`, sedangkan barang bawaan dicatat pada `Inventory`.
-16. `Wallet (wealth)`: saldo mata uang sesuai sistem ekonomi dan transaksi tercatat. Pertahankan format canonical: `... xc | ... xs | ... xg | ... zj | ... az`; jangan mengarang kurs atau saldo.
-17. `Teknik / Kemampuan`: kemampuan serta rincian Spirit Ring yang dimiliki, dengan fungsi jelas dan sumber yang sah.
-18. `Tujuan Saat Ini`: tujuan karakter yang dinyatakan pemain atau sudah tercatat; jangan mengambil alih keputusan pemain.
+5. `Spirit Ring Absorption`: status tunggal dan format `status | Day left` wajib mengikuti bagian **Status Kanonis Spirit Ring Absorption** di bawah. Nilai `Day left` merupakan bagian dari field ini, bukan field profil terpisah. Jangan menambahkan alasan atau label lain ke dalam field.
+6. `Martial Soul`: Martial Soul karakter sesuai sumber resmi dan riwayat.
+7. `Thinker Grade`: grade yang sudah ditetapkan oleh mekanik/riwayat.
+8. `HP`: current HP dan maksimum HP mengikuti `core/HP_SYSTEM.md`.
+9. `Satiety`: nilai kenyang 0–100 mengikuti `core/HUNGER_AND_METABOLISM.md`; bukan HP atau Qi. Format tampilan wajib `Satiety: nilai/100`. Jika snapshot awal dibuat sebelum field ini ditambahkan, tetapkan estimasi awal GM yang wajar saat bootstrap sesi baru berdasarkan modul tersebut; jangan otomatis memakai 0 atau 100, jangan menyimpulkan kekebalan/metabolisme khusus tanpa sumber, dan jangan mengubah snapshot hanya untuk mengisi state sesi.
+10. `Qi`: nilai/state Qi yang benar-benar ditetapkan oleh sumber resmi dan riwayat; jangan mengarang batas atau pemulihan.
+11. `Kondisi Tubuh`: kondisi fisik yang didukung kejadian dan mekanik, termasuk cedera yang relevan.
+12. `Equipment`: perlengkapan yang sedang dimiliki/digunakan sesuai state.
+13. `Inventory`: barang bawaan yang tercatat.
+14. `Assets Bangunan`: hanya bangunan atau properti yang benar-benar dimiliki karakter dan tercatat sebagai aset. Penghasilan, tabungan, uang tunai, dan barang bawaan bukan Assets Bangunan; uang hanya dicatat pada `Wallet (wealth)`, sedangkan barang bawaan dicatat pada `Inventory`.
+15. `Wallet (wealth)`: saldo mata uang sesuai sistem ekonomi dan transaksi tercatat. Pertahankan format canonical: `... xc | ... xs | ... xg | ... zj | ... az`; jangan mengarang kurs atau saldo.
+16. `Teknik / Kemampuan`: kemampuan serta rincian Spirit Ring yang dimiliki, dengan fungsi jelas dan sumber yang sah.
+17. `Tujuan Saat Ini`: tujuan karakter yang dinyatakan pemain atau sudah tercatat; jangan mengambil alih keputusan pemain.
 
 ## Sumber Currency dan Konsistensi Saldo
 

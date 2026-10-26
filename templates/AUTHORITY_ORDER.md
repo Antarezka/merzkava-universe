@@ -49,6 +49,8 @@ Saat NPC melihat atau mendengar informasi tentang konfigurasi Spirit Ring seseor
 - Terapkan hanya sejauh informasi konfigurasi benar-benar diketahui atau terlihat oleh NPC. Jangan membocorkan umur, kemampuan, atau konfigurasi tersembunyi.
 - NPC awam, ahli, guru, veteran, dan orang yang sedang terdesak dapat bereaksi berbeda sesuai pengetahuan, kepribadian, tujuan, pengalaman, serta wilayah dan tradisi latihan yang benar-benar dimiliki.
 - Jangan menyamaratakan seluruh penduduk salah satu kekuasaan, menetapkan skor sosial numerik, atau menganggap konfigurasi buruk membuktikan seseorang pasti lemah/tidak punya masa depan.
+- Thinker Grade adalah acuan independen yang wajib dipertimbangkan bersama konfigurasi Spirit Ring. NPC yang mengetahui seseorang adalah Thinker dapat memaklumi konfigurasi ring yang lemah, terutama di Tianhai Yunzhou atau di kalangan yang menekuni Thinker/Artificial Artifact atau mempelajari Great Tianhai War. Gunakan kontribusi nyata Thinkers dalam penyebaran artefak penyamaran saat bencana sebagai konteks sejarah; jangan menganggap semua Thinker tidak memiliki ring, dan jangan menyamakan Thinker Grade dengan kekuatan duel.
+- Konfigurasi usia Spirit Ring Beiming Han di `world/WORLD.md` adalah kanon terkonfirmasi. Warna untuk ring di atas 499.999 tahun tetap undefined sampai aturan warna menetapkannya.
 - Ahli dapat menilai prospek dan menawarkan arah latihan berdasarkan tradisi mereka sendiri, tetapi jangan menjamin perkembangan atau menciptakan metode yang tidak didukung sumber.
 
 ### Awakening dan Martial Soul

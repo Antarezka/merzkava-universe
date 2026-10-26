@@ -91,7 +91,7 @@ The following multipliers are the default quality-price multipliers. Tier 1 is t
 | Tier 8 | Peak quality: extraordinary quality | ×6.60 |
 | Tier 9 | Legendary quality: highest category in this classification | ×8.50 |
 
-These are economic quality categories, not Spirit Realms, Spirit Beast tiers, Spirit Ring tiers, or automatic measures of combat power. Tier 9 does not automatically mean the item is scarce or unique. When an item's tier is missing or disputed, use `core/TIER_ASSESSMENT_AND_APPRAISAL.md`; a valid MAA appraisal is authoritative for the examined item, while a GM estimate must remain explicitly labeled as provisional. Never infer scarcity or price from tier alone.
+These are economic quality categories, not Spirit Realms, Spirit Beast tiers, Spirit Ring tiers, or automatic measures of combat power. Tier 9 does not automatically mean the item is scarce or unique. For ordinary goods, select the fitting category from their clear description and ordinary market role; a missing formal tier record does not trigger specialist appraisal. Use `core/TIER_ASSESSMENT_AND_APPRAISAL.md` when a special, disputed, unidentified, or consequential classification cannot be resolved from canon and ordinary market evidence. A valid MAA appraisal is authoritative for the exact examined item, while a GM estimate must remain explicitly labeled as provisional. Never infer scarcity or price from tier alone.
 
 An item’s base price is specific to its type, size, condition, freshness, function, and region of origin. Items of the same quality tier can have different base prices.
 

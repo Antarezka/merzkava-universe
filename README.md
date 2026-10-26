@@ -54,9 +54,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![WORLD UPDATE LOG](https://img.shields.io/badge/WORLD_UPDATE_LOG-FFFFFF?style=for-the-badge&labelColor=151515)
 
-![NIGHTLY VERSION — dark blue filled badge with black text outlined in white](assets/nightly-version.svg?v=1)
-
-<sub>WORLD ARCHIVE · v0.4.97</sub>
+![NIGHTLY](assets/nightly-version.svg?v=2) <sub>v0.4.97</sub>
 
 **✦ ──── ❖ ──── ✦**
 

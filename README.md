@@ -73,7 +73,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
   Removed obsolete migration notes from nine compatibility pointer files, keeping the regional files as the sole canonical source and avoiding duplicate biographies or rosters.
 
 - ❖ **Player RAW Bootstrap Links Normalized**  
-  Yuha and Nafila's registered RAW links now use the agreed `?v=2` cache parameter in `players.md`.
+  Registered player RAW links in `players.md` use the agreed `?v=2` cache parameter.
 
 - ⟡ **Martial Soul Rarity Kept Separate from Tier 1–9**  
   INDEX and Authority Order clarify that universal Tier 1–9 assessment applies to items, artifacts, and Beasts—not Martial Soul rarity.

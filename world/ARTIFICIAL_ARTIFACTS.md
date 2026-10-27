@@ -9,6 +9,10 @@ An Artificial Artifact is manufactured by a Thinker using suitable materials, pa
 
 An artifact's tier is not a Spirit Realm or Spirit Ring tier. A high tier does not automatically mean an artifact is universally useful in combat; the documented function, conditions, limitations, ownership, and actual availability determine its use. If an artifact's tier is missing or disputed, use `core/TIER_ASSESSMENT_AND_APPRAISAL.md`: MAA's completed ruling is authoritative for the examined item when canon was uncertain; any GM estimate remains labeled provisional until then.
 
+### Unidentified Artificial Artifacts
+
+When an Artificial Artifact's identity or exact item details have not yet been established by canon or the GM, use the exact player-facing label `*Unknown* *membutuhkan appraisal untuk lebih pastinya*` in Inventory, Equipment, loot, and item descriptions. Do not replace it with `???` or invent a model, creator, function, tier, value, or provenance. Appraisal may establish only the facts supported by its actual findings; hidden functions remain hidden until legitimately discovered.
+
 ## 2. Established Technology Context
 
 ### 2.1 Tianhai Yunzhou

@@ -624,7 +624,7 @@ Tianhai Yunzhou memiliki jaringan layanan Medicine Hall Society untuk penduduk p
 
 Para tabib di kawasan ini menangani cedera pertempuran, penyakit selama perjalanan, racun makhluk laut, dan dampak lingkungan atau pekerjaan yang berbahaya. Ketersediaan obat dan bahan ramuan dapat berbeda menurut lokasi dan kondisi perdagangan. Tabib independen, praktisi keluarga, dan ahli herbal lokal tetap dapat bekerja di luar Society.
 
-Tianhai Yunzhou juga memiliki asosiasi dagang independen yang mewakili kepentingan pedagang dan profesi, mengoordinasikan layanan, serta berbagi informasi komersial. Mereka tidak menetapkan semua harga, menggantikan kewenangan pemerintah, atau membentuk satu monopoli dagang. Nama, cakupan lokal, dan remit's masing-masing dicatat di `world/REGION_TIANHAI_YUNZHOU.md` §14.2.
+Tianhai Yunzhou juga memiliki asosiasi dagang independen yang mewakili kepentingan pedagang dan profesi, mengoordinasikan layanan, serta berbagi informasi komersial. Mereka tidak menetapkan semua harga, menggantikan kewenangan pemerintah, atau membentuk satu monopoli dagang. Nama, cakupan lokal, dan remit masing-masing dicatat di `world/REGION_TIANHAI_YUNZHOU.md` §14.2.
 
 Spirit Hunters Guild memiliki jaringan kontrak lokal di Tianhai Yunzhou. Penempatan dan fungsi tiap titik dicatat di `world/REGION_TIANHAI_YUNZHOU.md` §14.1. Layanannya mencakup berbagai kontrak, bukan hanya perburuan Spirit Beast; keberadaan titik layanan tidak menjadikannya polisi umum, memberi kendali atas otoritas pelabuhan, atau menjamin kontrak selalu tersedia.
 

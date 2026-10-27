@@ -66,7 +66,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![WORLD UPDATE LOG](https://img.shields.io/badge/WORLD_UPDATE_LOG-FFFFFF?style=for-the-badge&labelColor=151515)
 
-![NIGHTLY](assets/nightly-version.svg?v=2) <sub>v1.4.103</sub> &nbsp; ![STABLE](assets/stable-version.svg?v=1) <sub>v1.0.0</sub>
+![NIGHTLY](assets/nightly-version.svg?v=2) <sub>v1.4.104</sub> &nbsp; ![STABLE](assets/stable-version.svg?v=1) <sub>v1.0.0</sub>
 
 **✦ ──── ❖ ──── ✦**
 
@@ -78,9 +78,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
-- ✦ **Player Converse Header Separator**  
-  Hash: ``a084f84`` | Ver: ``Nightly-v1.4.100``  
-  Standardized the Nightly header separator to use a regular hyphen, keeping the displayed version format consistent.
+- ✦ **Mandatory NPC Identity Display and Knowledge Boundary**  
+  Hash: ``f484b21`` | Ver: ``Nightly-v1.4.104``  
+  Every NPC mention uses double backticks; unidentified NPCs display as ``npc ???`` until the player learns their identity in-world. GM Authority must then switch to the identified name.
 
 - ✦ **Unified NPC Discovery Order Across INDEX and Authority**  
   Regional INDEX → local NPC table → registry/official roster → canonical profile, with consistent handling of descriptive references and continuity.

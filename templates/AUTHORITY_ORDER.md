@@ -121,11 +121,10 @@ Footer kanonis berakhir dengan:
 
 Jangan menampilkan laporan bootstrap, daftar file, atau menu pilihan sebagai pengganti adegan gameplay.
 
-## 9. NPC lookup, continuity, and knowledge boundaries
+## 9. NPC decisions and continuity
 
-- **Source ownership:** discovery order and navigation belong to `INDEX.md` §5 and `world/CANON_LOAD_ROUTER.md`; NPC categories and permitted improvisation belong to `world/NPC_MANAGEMENT.md`. Follow that route whenever NPC canon is relevant rather than copying its steps here.
-- **Decision duty:** before narrating, verify that the best-supported NPC candidate fits the confirmed scene, location, last-known status, travel context, relevant event, and established relationships. A profile or roster entry alone does not prove physical presence.
-- **Descriptive references:** a title, kinship, appearance, occupation, rank, or partial description is a lookup clue. Resolve it through the shared route before asking the player for a name or using a temporary NPC.
-- **No unsupported canon:** if required lookup finds no plausible canonical match, use only a temporary/background NPC permitted by `world/NPC_MANAGEMENT.md`; leave unsupported identity, power, affiliation, history, and relationships unspecified. Persistent named additions require owner approval.
-- **Audit/edit duty:** inspect legacy `world/NPC_<NAME>.md` files before classifying them. Synchronize only affected canonical profiles, regional registries, local tables, office/faction rosters, and navigation references. Resolve conflicts using `world/CANON_DECISIONS_AND_PRECEDENCE.md` and `world/REGIONAL_REPOSITORY_ARCHITECTURE.md`.
-- **Knowledge boundary:** separate public facts, character-known information, rumors, beliefs, and GM-only secrets. Never reveal a secret merely because the GM has read the profile.
+The detailed discovery order, regional navigation, registry/profile ownership, descriptive-reference matching, and temporary-NPC limits are defined by `INDEX.md` §5, `world/CANON_LOAD_ROUTER.md`, and `world/NPC_MANAGEMENT.md`. Follow that route whenever NPC canon can affect a scene; this section does not create a parallel lookup procedure.
+
+Before narrating, verify that the strongest supported candidate fits the confirmed scene, location, last-known status, plausible travel, relevant events, and established relationships. A profile or roster entry alone does not prove physical presence. If no plausible canonical match remains after the required lookup, use only a limited temporary/background NPC permitted by `world/NPC_MANAGEMENT.md`; persistent named additions require owner approval.
+
+Keep public facts, character-known information, rumors, beliefs, and GM-only secrets distinct. Do not invent missing identity, power, affiliation, history, relationships, or whereabouts, and never reveal a secret merely because the GM has read the profile. For repository edits, inspect legacy `world/NPC_<NAME>.md` paths and synchronize only affected canonical profiles, registries, local tables, office/faction rosters, and navigation links.

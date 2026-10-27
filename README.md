@@ -5,9 +5,9 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 <div align="center">
 
-![Merzkava Universe — warm orange, black, yellow, coral and white title banner](assets/merzkava-header.svg)
+![Merzkava Universe — warm orange, black, yellow, coral and white title banner](assets/merzkava-header.svg?v=2)
 
-![Three colorful panels arranged as descending stairs, enlarged 15 percent on a transparent background](assets/world-tags.svg?v=3)
+![Three colorful panels arranged as descending stairs, enlarged 15 percent on a transparent background](assets/world-tags.svg?v=4)
 
 ### A CULTIVATION WORLD THAT DOESN'T STAND STILL.
 
@@ -33,7 +33,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ![THE NOTICEBOARD](https://img.shields.io/badge/THE_NOTICEBOARD-FFFFFF?style=for-the-badge&labelColor=151515)
 
-![Merzkava Universe noticeboard introducing its three powers, hidden territories, consequential choices, Thinkers and Artificial Artifacts, a living world, and rumors versus facts](assets/noticeboard.svg?v=5)
+![Merzkava Universe noticeboard introducing its three powers, hidden territories, consequential choices, Thinkers and Artificial Artifacts, a living world, and rumors versus facts](assets/noticeboard.svg?v=6)
 
 ---
 
@@ -147,7 +147,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" alt="GitHub" />
 
-![STABLE](assets/stable-version.svg?v=1)
+![STABLE](assets/stable-version.svg?v=2)
 
 <sub><span style="color:#D4AF37"><strong>v2.4.105</strong></span></sub>
 
@@ -156,7 +156,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" alt="GitHub" />
 
-![NIGHTLY](assets/nightly-version.svg?v=2)
+![NIGHTLY](assets/nightly-version.svg?v=3)
 
 <sub><span style="color:#D4AF37"><strong>v2.4.106</strong></span></sub>
 
@@ -174,9 +174,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
-- ✦ **Independent RP System Benchmark — Investigation Dossier Redesign**  
-  Hash: ``b37bd38`` | Ver: ``Nightly-v2.4.106``  
-  Replaced the geometric banner with skewed case-file paper, a metal corner clip, crimson review stamp, evidence labels, and handwritten-style annotations. Cache reference advanced to `v=3`.
+- ✦ **README Visual Assets — Investigation Dossier Restyle**  
+  Hash: ``dfc12b3`` | Ver: ``Nightly-v2.4.106``  
+  Restyled the main header, noticeboard panels, genre tags, and Stable/Nightly badges with skewed paper, clips, evidence labels, and layered file edges. Preserved the original content order, panel placement, and Persona 4-inspired orange, black, white, yellow, and coral palette; updated image cache references.
 
 - ✦ **Regional Canon Load Path and Cross-Reference Validation**  
   Regional scenes must follow the canon router, load relevant local authorities, and reconcile conflicts through the binding precedence rules.

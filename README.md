@@ -222,9 +222,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 **SHARE THE ADVENTURE** &nbsp; <a href="https://github.com/Antarezka/merzkava-universe">Explore Merzkava Universe</a> &nbsp; <a href="https://github.com/Antarezka/merzkava-universe"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="22" alt="GitHub repository" /></a>
 
-<sub><span style="color:#555555">HOW TO PLAY?</span></sub>
 
-<img src="assets/authority-phantom.svg?v=2" alt="Discord — 🝰 Reach Authority_Phantom" width="270" />
 
 ---
 

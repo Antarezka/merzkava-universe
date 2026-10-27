@@ -129,7 +129,7 @@ For the full canonical roster, including twelve clan heads and five dojo masters
 
 ## 11. Travel and Location Network
 
-Use `world/LOCATION_AND_ROUTE_NETWORK.md` as the canonical route format and travel-validation procedure. This module records only the confirmed inter-power corridor below; blank or unlisted connections remain unknown.
+Use `world/LOCATION_AND_ROUTE_NETWORK.md` as the canonical route format and travel-validation procedure, and `world/THREE_POWER_PERSPECTIVE_MAPS.md` for the shared mapped overland/maritime corridor framework. The table below records confirmed air corridors; unlisted local roads, settlement connections, and crossings remain unknown.
 
 | Origin | Destination | Route / transport | Intermediate stops | Access / constraints | Fare / service | Travel time / source | Canon status |
 |---|---|---|---|---|---|---|---|

@@ -15,6 +15,10 @@ The North is comparatively isolated by terrain and climate. The sea connects dis
 
 Golden Dragon Empire lies in the east, Tianhai Yunzhou floats above the southwestern ocean, and Beiming Gu lies in the north. Large tracts of wilderness and difficult terrain separate the major powers. The sea names remain `???` pending an official naming decision. A precise world map, scale, compass bearings between all regions, and verified travel distances have not yet been established. Do not draw conclusions about exact proximity or travel duration from this outline alone.
 
+## 1A. Connected tree and inter-power transit
+
+For one connected navigation tree linking all three major powers, their regional branches, canonical source paths, and confirmed inter-power transit corridors, use [`world/WORLD_NAVIGATION_TREE.md`](WORLD_NAVIGATION_TREE.md). The mapped transit network currently connects Golden Dragon Empire ↔ Tianhai Yunzhou and Beiming Gu ↔ Tianhai Yunzhou. Golden Dragon Empire ↔ Beiming Gu has no established direct route; the mapped path between them is indirect via Tianhai Yunzhou. See the tree and `world/LOCATION_AND_ROUTE_NETWORK.md` for edge status, fares, operating window, and unresolved details.
+
 ## 2. Golden Dragon Empire — Eastern Regions
 
 The Golden Dragon Empire's seven major regions are established in `world/WORLD.md`:

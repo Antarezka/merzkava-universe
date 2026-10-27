@@ -13,6 +13,14 @@
 | Ji Zhaoning | Elder twin princess; focused on Thinker development; not awakened | Current whereabouts unconfirmed | [JI_ZHAONING.md](JI_ZHAONING.md) |
 | Ji Ningzhao | Younger twin princess; awakened cultivator | Current whereabouts unconfirmed | [JI_NINGZHAO.md](JI_NINGZHAO.md) |
 
+## Known recurring visitor from another power
+
+| NPC | Established connection / behavior | Home / visit location status | Canonical full profile |
+|---|---|---|---|
+| Beiming Nerva | Beiming Han's older sister; a recurring visitor to Tianhai Yunzhou who sometimes disguises herself as a student | Home affiliation: Beiming Gu; visits the northern area of Tianhai Yunzhou and uses Beichen Cultivator Academy as a cover location. Exact campus district and official enrollment are not established. Her identity is GM-sensitive. | [BEIMING_NERVA.md](../../beiming-gu/npcs/BEIMING_NERVA.md) |
+
+This entry records a recurring visitor, not a Tianhai resident or officially enrolled student. Keep her true identity hidden from player-facing narration until discovered in-world.
+
 ## Institutional and officeholder roster
 
 - [POWER_STRUCTURE.md](POWER_STRUCTURE.md) — authoritative roster for established court, civil/military, district, clan, dojo, and Thinker-institution officeholders.
@@ -22,4 +30,5 @@
 
 - Keep one row per established recurring/major NPC.
 - Link to the one canonical full profile; do not duplicate biographies.
+- Record home/usual residence, usual base, last-confirmed whereabouts, and recurring visits separately when established; a recurring visitor is not automatically a resident or officeholder.
 - Unknown information remains unknown. Do not invent NPCs to fill empty categories.

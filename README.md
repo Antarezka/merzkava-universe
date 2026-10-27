@@ -78,6 +78,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
+- ✦ **README Update Log Formatting Standard**  
+  Hash: ``a084f84`` | Ver: ``Nightly-v1.4.100``  
+  Future README updates use double backticks for Hash and Ver labels for both Nightly and Stable. Each update summary is limited to six bullets, with each bullet description kept to four lines or fewer.
+
 - ✦ **Unified NPC Discovery Order Across INDEX and Authority**  
   Regional INDEX → local NPC table → registry/official roster → canonical profile, with consistent handling of descriptive references and continuity.
   Unidentified items now use the exact player-facing label `*Unknown* *membutuhkan appraisal untuk lebih pastinya*` across gameplay, character profiles, inventory, equipment, loot, transactions, artifacts, and consumption records. Appraisal reveals only facts supported by its findings; unknown prices, tiers, functions, rarity, and dangers must not be invented.

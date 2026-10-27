@@ -70,16 +70,20 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 <tr>
 <td align="center">
 
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" alt="GitHub" />
+
 ![STABLE](assets/stable-version.svg?v=1)
 
-<sub>v2.4.105</sub>
+<sub><span style="color:#D4AF37"><strong>v2.4.105</strong></span></sub>
 
 </td>
 <td align="center">
 
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" alt="GitHub" />
+
 ![NIGHTLY](assets/nightly-version.svg?v=2)
 
-<sub>v2.4.105</sub>
+<sub><span style="color:#D4AF37"><strong>v2.4.105</strong></span></sub>
 
 </td>
 </tr>

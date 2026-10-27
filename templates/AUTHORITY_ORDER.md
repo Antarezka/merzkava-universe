@@ -121,31 +121,11 @@ Footer kanonis berakhir dengan:
 
 Jangan menampilkan laporan bootstrap, daftar file, atau menu pilihan sebagai pengganti adegan gameplay.
 
-## 9. Mandatory NPC discovery and scene-loading procedure
+## 9. NPC lookup, continuity, and knowledge boundaries
 
-Whenever an action, conversation, travel segment, location, faction, institution, political matter, or lore question involves an NPC, use the following route before narrating. This applies equally to major NPCs and supporting/background NPCs; the depth of loading changes with relevance, not the requirement to look in the right place.
-
-1. **Route first:** consult `INDEX.md` §5 and `world/CANON_LOAD_ROUTER.md`; use `world/NPC_MANAGEMENT.md` for NPC categories, knowledge boundaries, and permitted improvisation. Do not treat memory, an old response, or a search excerpt as a substitute for the current canonical source.
-2. **Locate the scene:** read the relevant `world/REGION_*.md` module and the specific settlement, location, institution, or faction section. Use the corresponding regional index:
-   - Golden Dragon Empire → `regions/golden-dragon-empire/INDEX.md`
-   - Tianhai Yunzhou → `regions/tianhai-yunzhou/INDEX.md`
-   - Beiming Gu → `regions/beiming-gu/INDEX.md`
-   - Elsewhere or cross-regional → the matching world/regional module and confirmed affiliations; never assign an unsupported regional origin.
-3. **Search existing rosters before inventing:** check the relevant `npcs/REGISTRY.md`, the local NPC table, and the relevant office/faction roster. For Tianhai Yunzhou also check `npcs/POWER_STRUCTURE.md`; for Golden Dragon Empire officials check `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md` and `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`. Check `world/FACTIONS.md` and the relevant academy, institution, or faction module if membership or authority matters.
-4. **Load the right detail level:**
-   - Major/recurring named NPC central to the scene: open their canonical full profile and relevant relationship, faction, history, location, and event sources.
-   - Named official or faction officeholder: verify both the dedicated profile (if present) and the authoritative appointment/office roster.
-   - Local or supporting NPC: check the matching location/institution/faction table first, then follow any linked profile or roster entry.
-   - Ordinary resident, unnamed guard, merchant, attendant, witness, or one-scene NPC: use established local facts and the limits in `world/NPC_MANAGEMENT.md`. Do not invent a permanent identity/profile merely to fill a scene.
-5. **Respect knowledge and continuity:** distinguish public facts, personal knowledge, rumors, beliefs, and GM-only secrets. A profile's existence does not mean an NPC knows its contents. Check last-confirmed status, whereabouts, relationships, injuries, and persistent consequences against relevant current events and confirmed scenes before acting on them.
-6. **If no entry is found:** do not immediately conclude the NPC does not exist. Check the local table, registry, official/faction roster, relevant legacy file, and source cross-links. If still absent, portray only the kind of situational NPC allowed by `world/NPC_MANAGEMENT.md`; keep unsupported identity, powers, affiliation, history, and relationships unspecified. Persistent named additions require owner approval.
-7. **When editing or auditing:** inspect each relevant `world/NPC_<NAME>.md` file before deciding it is duplicate or a compatibility pointer. Do not delete or silently supersede legacy sources by filename alone. Keep the canonical profile, regional registry, local table, office/faction roster, regional index, and global navigation synchronized wherever each actually references the NPC. Follow `world/CANON_DECISIONS_AND_PRECEDENCE.md` and `world/REGIONAL_REPOSITORY_ARCHITECTURE.md` for conflicts and ownership.
-
-### NPC lookup and continuity — delegated source route
-
-- Urutan penemuan NPC, regional index, tabel lokasi, registry, roster, dan profil dijelaskan di `INDEX.md` §5 serta `world/CANON_LOAD_ROUTER.md`. Ikuti jalur itu; bagian ini tidak menggandakan daftar navigasinya.
-- Tugas Authority Order adalah menilai kecocokan kandidat dan keputusan adegan: profil yang ada tidak membuktikan NPC sedang hadir. Cocokkan lokasi terakhir yang terkonfirmasi, perjalanan, status, hubungan, peristiwa, dan konteks adegan dari sumber relevan.
-- Jika pemain menyebut NPC melalui gelar, hubungan, ciri, atau deskripsi tanpa nama, selesaikan lookup melalui jalur INDEX sebelum memilih NPC sementara. Jangan otomatis meminta pemain menyebut nama atau mengarang NPC sebelum pencarian sumber yang diwajibkan.
-- Untuk NPC biasa atau sementara, ikuti batas improvisasi di `world/NPC_MANAGEMENT.md`. Jika lookup wajib tidak menemukan kandidat canon yang masuk akal, gunakan hanya detail situasional yang didukung konteks; identitas, kekuatan, afiliasi, sejarah, dan hubungan yang tidak diketahui tetap tidak ditetapkan. NPC bernama yang persisten memerlukan persetujuan owner.
-- Saat audit/edit, periksa isi setiap file legacy `world/NPC_<NAME>.md` sebelum mengklasifikasikannya. Sinkronkan hanya sumber yang benar-benar terdampak—profil canonical, registry, tabel lokal, roster jabatan/faksi, dan tautan navigasi—mengikuti `world/CANON_DECISIONS_AND_PRECEDENCE.md` serta `world/REGIONAL_REPOSITORY_ARCHITECTURE.md`.
-- Pisahkan fakta publik, pengetahuan karakter, rumor, keyakinan, dan rahasia GM. Membaca profil penuh tidak memberi izin untuk membocorkan informasi yang belum dapat diketahui karakter.
+- **Source ownership:** discovery order and navigation belong to `INDEX.md` §5 and `world/CANON_LOAD_ROUTER.md`; NPC categories and permitted improvisation belong to `world/NPC_MANAGEMENT.md`. Follow that route whenever NPC canon is relevant rather than copying its steps here.
+- **Decision duty:** before narrating, verify that the best-supported NPC candidate fits the confirmed scene, location, last-known status, travel context, relevant event, and established relationships. A profile or roster entry alone does not prove physical presence.
+- **Descriptive references:** a title, kinship, appearance, occupation, rank, or partial description is a lookup clue. Resolve it through the shared route before asking the player for a name or using a temporary NPC.
+- **No unsupported canon:** if required lookup finds no plausible canonical match, use only a temporary/background NPC permitted by `world/NPC_MANAGEMENT.md`; leave unsupported identity, power, affiliation, history, and relationships unspecified. Persistent named additions require owner approval.
+- **Audit/edit duty:** inspect legacy `world/NPC_<NAME>.md` files before classifying them. Synchronize only affected canonical profiles, regional registries, local tables, office/faction rosters, and navigation references. Resolve conflicts using `world/CANON_DECISIONS_AND_PRECEDENCE.md` and `world/REGIONAL_REPOSITORY_ARCHITECTURE.md`.
+- **Knowledge boundary:** separate public facts, character-known information, rumors, beliefs, and GM-only secrets. Never reveal a secret merely because the GM has read the profile.

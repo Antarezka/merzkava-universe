@@ -77,6 +77,7 @@ Tujuan Saat Ini: ...
 • Sync progress, Spirit Ring Absorption, HP, Satiety, Qi, serta Wallet mengikuti sumber resmi dan state aktif.
 • Jika tidak ada Spirit Ring yang sedang diproses, gunakan Sync progress 0%/0%.
 • `Day left = 0` bukan jaminan penyerapan berhasil.
+• Siklus waktu memakai label singkat: Dini hari, Subuh, Pagi, Siang, Sore, atau Malam. Tentukan berdasarkan waktu dunia yang tercatat; jangan mengarang jam batas jika sumber resmi belum menetapkannya.
 • Tampilkan `Log tercatat!` dan LEDGER LOG hanya jika perubahan state yang relevan benar-benar terjadi.
 • Pada footer, gunakan padanan singkat “Tentukan Aksimu” dalam bahasa yang digunakan pemain; jangan tampilkan instruksi ini sebagai teks footer.
 • Jangan mengklaim perubahan tersimpan ke GitHub jika belum dilakukan dan diverifikasi.

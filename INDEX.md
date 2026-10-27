@@ -105,13 +105,11 @@ Router regional mempertahankan detail yang sebelumnya berada di INDEX agar tidak
 
 **Mandatory NPC display rule:** every player-facing NPC reference must use double backticks. Until the player-character learns an NPC's identity in-world, display exactly ``npc ???``; after legitimate identification, GM Authority must switch to the identified name in double backticks. Full enforcement and knowledge-boundary rules are owned by `templates/AUTHORITY_ORDER.md`, `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`, and `world/NPC_MANAGEMENT.md`.
 
-NPC discovery, regional routing, roster checks, canonical profile selection, descriptive/unnamed NPC matching, legacy-file handling, and knowledge boundaries are governed by `world/CANON_LOAD_ROUTER.md` and `world/NPC_MANAGEMENT.md`.
+**One route only: NPC → Map.** After the normal `INDEX.md` → `templates/AUTHORITY_ORDER.md` bootstrap, open the relevant canonical NPC profile (use its regional registry only to find the profile), follow its home/base/last-confirmed location to the matching map/regional module, then use that map's established local places and context to ground the scene. The profile answers **who/whereabouts**; the map answers **what is established at that location**.
 
-Required entry path remains `INDEX.md` → `templates/AUTHORITY_ORDER.md` → the relevant regional INDEX/router → local canonical source. Use `world/CANON_DECISIONS_AND_PRECEDENCE.md` and `world/REGIONAL_REPOSITORY_ARCHITECTURE.md` when canon conflicts, ownership, or legacy paths matter. Do not duplicate the detailed lookup procedure here; the router owns it.
+- Golden Dragon Empire: use the relevant `world/REGION_*.md`; for the imperial family, use `world/REGION_LONGYUAN.md`.
+- Tianhai Yunzhou: use `world/REGION_TIANHAI_YUNZHOU.md`.
+- Beiming Gu: use `world/REGION_BEIMING_GU.md` for all seven districts.
+- Check a government/faction roster only when the scene depends on that office or membership. Check route/geography/time sources only when travel matters.
 
-- Golden Dragon Empire: `regions/golden-dragon-empire/INDEX.md` → `regions/golden-dragon-empire/npcs/REGISTRY.md`
-- Tianhai Yunzhou: `regions/tianhai-yunzhou/INDEX.md` → `regions/tianhai-yunzhou/npcs/REGISTRY.md` and, when relevant, `regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`
-- Beiming Gu: `regions/beiming-gu/INDEX.md` → `regions/beiming-gu/npcs/REGISTRY.md`
-- Elsewhere or cross-regional scenes: use the relevant `world/REGION_*.md`, location/faction source, and shared router. Never infer physical presence from a profile alone.
-
-For ordinary gameplay, load only the matching region, roster, and profiles needed for the scene. For a full NPC audit or repository edit, trace every affected profile, registry, local table, legacy pointer, and cross-reference. A missing entry is a discoverability gap to investigate—not permission to invent canon.
+Do not make every registry, regional INDEX, roster, and profile a mandatory reading chain. Never invent finer map details or assume an NPC is physically present just because their profile lists a home or regional affiliation. Use `world/CANON_DECISIONS_AND_PRECEDENCE.md` and `world/REGIONAL_REPOSITORY_ARCHITECTURE.md` only when canon conflicts, ownership, or legacy paths matter.

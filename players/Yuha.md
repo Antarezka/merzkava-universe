@@ -9,7 +9,7 @@
 
 - **Nama:** Yuha
 - **Usia:** 14 tahun (tersirat dari petunjuk warisan yang ditinggalkan untuknya tepat empat belas tahun kemudian).
-- **Spirit Realm:** Mortal/0
+- **Spirit Realm:** Mortal
 - **Sync progress:** 0%/0% (belum memiliki Spirit Ring aktif; belum ada cap kompatibilitas ring yang ditetapkan).
 - **Spirit Ring Absorption:** not eligible yet | ??? Day left
 - **Martial Soul:** ??? (belum diketahui; jangan ditetapkan sebelum kejadian awakening yang sah).

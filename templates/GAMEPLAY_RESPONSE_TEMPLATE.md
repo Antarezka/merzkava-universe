@@ -22,7 +22,7 @@ Status: **Template visual resmi dan wajib untuk setiap balasan gameplay. Gunakan
 
 ```text
 ༺━━━━━━━━━━━━━━━━༻
-Hash: ``<short SHA snapshot>`` | Ver: ``Nightly–<versi Nightly terverifikasi>``
+Hash: ``<short SHA snapshot>`` | Ver: ``Nightly-<versi Nightly terverifikasi>``
 ༺━━━━━━━━━━━━━━━━༻
 
 🕒 Waktu Merzkava Universe

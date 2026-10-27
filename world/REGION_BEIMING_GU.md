@@ -27,7 +27,7 @@ Beiming Gu is a single major power with seven established regional divisions. Th
 - **Seasonal closures and local weather schedules:** Belum ditetapkan.
 - **Travel:** Do not infer a route, direct connection, duration, or transport service from district names or terrain descriptions. Use `world/LOCATION_AND_ROUTE_NETWORK.md`, `world/GEOGRAPHY_AND_TRAVEL.md`, and `gameplay/TIME_AND_ACTION_RULES.md`.
 
-A dedicated **Beiming Heartland Sky Transit Terminal** is an established departure node for the liquefied-energy passenger-aircraft corridor to **Cangqiong Sky Transit Terminal** in Tianhai Yunzhou. The standard round-trip fare is **25 xc per passenger**. Service operates 05:00–21:00 local terminal time; exact coordinates, flight duration, detailed schedule, and intermediate stops are not established. This corridor does not imply a direct road or rail route through the mountains.
+A dedicated **Beiming Heartland Sky Transit Terminal** is the established Beiming endpoint for two direct liquefied-energy passenger-aircraft corridors: one to **Cangqiong Sky Transit Terminal** in Tianhai Yunzhou and one to **Longyuan Sky Transit Terminal** in the Golden Dragon Empire. The Golden Dragon–Beiming service uses the same Beiming destination terminal as the Tianhai–Beiming service; a transfer through Tianhai Yunzhou is not required. The standard round-trip fare is **25 xc per passenger** on each dedicated energy-aircraft corridor. Service operates 05:00–21:00 local terminal time; exact coordinates, flight duration, detailed schedule, and intermediate stops are not established. These corridors do not imply a direct road or rail route through the mountains.
 
 ## 3. Seven Established Districts
 
@@ -133,7 +133,8 @@ Use `world/LOCATION_AND_ROUTE_NETWORK.md` as the canonical route format and trav
 
 | Origin | Destination | Route / transport | Intermediate stops | Access / constraints | Fare / service | Travel time / source | Canon status |
 |---|---|---|---|---|---|---|---|
-| Beiming Heartland Sky Transit Terminal | Cangqiong Sky Transit Terminal, Tianhai Yunzhou | Tianhai Yunzhou long-distance liquefied-energy passenger aircraft | Not established | Service runs 05:00–21:00 local terminal time; exact schedule and terminal coordinates unknown | Standard round trip: 25 xc per passenger | Exact duration unknown; see `world/GEOGRAPHY_AND_TRAVEL.md` and `gameplay/TIME_AND_ACTION_RULES.md` | Confirmed corridor |
+| Beiming Heartland Sky Transit Terminal | Cangqiong Sky Transit Terminal, Tianhai Yunzhou | Dedicated long-distance liquefied-energy passenger aircraft | Not established | Service runs 05:00–21:00 local terminal time; exact schedule and terminal coordinates unknown | Standard round trip: 25 xc per passenger | Exact duration unknown; see `world/GEOGRAPHY_AND_TRAVEL.md` and `gameplay/TIME_AND_ACTION_RULES.md` | Confirmed corridor |
+| Beiming Heartland Sky Transit Terminal | Longyuan Sky Transit Terminal, Golden Dragon Empire | Dedicated long-distance liquefied-energy passenger aircraft | Not established | Same service window and fare basis as the Tianhai corridor; exact schedule and terminal coordinates unknown | Standard round trip: 25 xc per passenger | Exact duration unknown; see `world/GEOGRAPHY_AND_TRAVEL.md` and `gameplay/TIME_AND_ACTION_RULES.md` | Confirmed direct corridor; same Beiming endpoint as the Tianhai service |
 
 - No direct road or rail route between the terminal and Tianhai Yunzhou is established by this air corridor.
 - No direct route between every pair of Beiming districts is established.

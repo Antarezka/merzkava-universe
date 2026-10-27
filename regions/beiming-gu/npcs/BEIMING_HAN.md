@@ -10,7 +10,10 @@
 - Family: Son of the founder of Beiming Gu; younger biological brother of Beiming Nerva; adoptive father of Beiming Xenhwa and Beiming Jingheng.
 - Age: Unknown; kept undisclosed.
 - Species / appearance / pronouns: Not otherwise established.
-- Current location: Beiming Gu is his established home/affiliation; exact current whereabouts are not established.
+- Home / usual residence: Beiming Gu; principal residence of the highest known authority, but the named residence and exact district are not established.
+- Usual base / duty location: Beiming Gu leadership; exact official residence/compound is not named.
+- Last confirmed location / current whereabouts: Beiming Gu affiliation is established; exact current whereabouts are not confirmed.
+- Recurring visits / cover locations: No recurring visits or cover identity are established.
 - Occupation / role: Highest known figure of Beiming Gu.
 - Affiliation: Beiming Gu.
 - Social status: Revered founding-line figure and leading authority of Beiming Gu.

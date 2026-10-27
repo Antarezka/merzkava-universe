@@ -95,3 +95,30 @@ Router regional mempertahankan detail yang sebelumnya berada di INDEX agar tidak
 - NPC utama/berulang memiliki satu profil penuh canonical yang ditautkan registry; periksa roster sebelum membuat pejabat atau anggota faksi. NPC biasa/temporer mengikuti `world/NPC_MANAGEMENT.md`.
 - Data regional baru mengikuti urutan: identitas → geografi → permukiman/kehidupan → ekonomi/sumber daya → kultivasi/Spirit Beast/Thinker → faksi/otoritas → NPC → konflik/event → rute/panduan GM. Referensikan sumber bersama, jangan menduplikasinya.
 - Jangan mengklaim event/proposal telah menjadi canon atau tersimpan tanpa persetujuan dan perubahan repo terverifikasi.
+
+## 5. NPC navigation — mandatory lookup path
+
+Use this path whenever a scene, question, or audit involves a named person, an official, a faction member, a local resident, or an unnamed supporting NPC. Do not stop after reading this index.
+
+1. Read `world/CANON_LOAD_ROUTER.md` and `world/NPC_MANAGEMENT.md` for source selection, NPC knowledge, and the distinction between established, temporary, and proposed NPCs.
+2. Identify the NPC's **known location, affiliation, office, or scene context**. Then open the matching regional index:
+   - Golden Dragon Empire: `regions/golden-dragon-empire/INDEX.md`
+   - Tianhai Yunzhou: `regions/tianhai-yunzhou/INDEX.md`
+   - Beiming Gu: `regions/beiming-gu/INDEX.md`
+   - For another region or cross-regional subject, use the relevant `world/REGION_*.md` module and `world/MAP_AND_REGIONS.md`; do not force the NPC into one of the three powers without canon support.
+3. Check the relevant regional `npcs/REGISTRY.md` before creating, naming, or describing an established recurring NPC. For Tianhai Yunzhou, also check `regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`; for Golden Dragon Empire officials, check `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md` and `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`.
+4. Follow the registry entry to the **single canonical full profile** when the NPC matters to the scene. For local supporting characters, also inspect the NPC table beside the relevant settlement, institution, faction, or location in its `world/REGION_*.md` or dedicated module. Check `world/FACTIONS.md` and the relevant institution module when affiliation or rank matters.
+5. For ordinary residents, unnamed attendants, merchants, guards, witnesses, and one-scene characters, follow `world/NPC_MANAGEMENT.md`: use established local context and only the improvisation latitude it permits. Do not require a permanent profile for every background person, and do not promote improvised details to persistent canon without owner approval.
+6. Before editing an existing NPC, inspect any matching `world/NPC_<NAME>.md` legacy file and its inbound links. Treat it as a source until its contents prove it is only a pointer; do not delete or silently override it. Update the canonical profile, registry, local table, and navigation links that are actually affected.
+7. Keep public facts, character-known information, rumors, beliefs, and GM-only secrets separate. A profile or secret note is not proof that every NPC or player character knows it.
+
+### NPC entry points
+
+- Global routing and NPC handling: `world/CANON_LOAD_ROUTER.md` → `world/NPC_MANAGEMENT.md`
+- Golden Dragon Empire: `regions/golden-dragon-empire/INDEX.md` → `regions/golden-dragon-empire/npcs/REGISTRY.md`
+- Tianhai Yunzhou: `regions/tianhai-yunzhou/INDEX.md` → `regions/tianhai-yunzhou/npcs/REGISTRY.md` + `regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`
+- Beiming Gu: `regions/beiming-gu/INDEX.md` → `regions/beiming-gu/npcs/REGISTRY.md`
+- Local/side NPCs: matching `world/REGION_*.md` location table or relevant faction/institution module → registry/profile if an established entry exists; otherwise `world/NPC_MANAGEMENT.md`
+- Canon conflict and legacy-file precedence: `world/CANON_DECISIONS_AND_PRECEDENCE.md` + `world/REGIONAL_REPOSITORY_ARCHITECTURE.md`
+
+For a normal gameplay turn, load only the relevant regional index, roster/table, and profiles needed for the scene. For a full NPC audit or repository edit, trace every affected registry, profile, local table, legacy source, and cross-reference. A missing table row is a discoverability gap to investigate, not permission to invent canon.

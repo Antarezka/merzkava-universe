@@ -3,6 +3,8 @@
 **Status:** Regional reference; core ruling-family NPCs and the Great Tianhai War are established canon.  
 **Canon policy:** This module consolidates established information from `world/WORLD.md`, `world/MAP_AND_REGIONS.md`, and `world/FACTIONS.md`. Blank details remain unconfirmed; proposals are not canon until approved by the owner.
 
+**Connected world tree:** [`world/WORLD_NAVIGATION_TREE.md`](WORLD_NAVIGATION_TREE.md) maps this power into the shared three-power hierarchy and records established inter-power transit. Use it as navigation only; this file remains authoritative for its own subject.
+
 ## 1. Confirmed Foundation
 
 - **Power / territory:** Tianhai Yunzhou, a maritime power centered on a giant floating island above the southwestern ocean.

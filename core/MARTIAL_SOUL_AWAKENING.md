@@ -3,7 +3,7 @@
 Status: Modul mekanik resmi.
 Cakupan: undian rarity Martial Soul, penilaian kualitas inheren yang berdiri sendiri, peluang mutasi, pilihan pemain, prosedur resolusi, dan batas perilaku GM.
 
-Modul ini adalah sumber mekanik utama untuk proses awakening dan mutasi Martial Soul. `core/MARTIAL_SOUL.md` tetap menjadi sumber karakteristik, lore, serta interpretasi umum Martial Soul. Jika ada pertentangan mengenai peluang atau prosedur awakening, modul ini yang berlaku untuk bagian tersebut.
+Modul ini adalah sumber mekanik utama untuk proses awakening dan mutasi Martial Soul. **Format hasil untuk pemain:** bungkus setiap hasil final undian rarity, chance mutasi, hasil mutasi, dan nilai yang dihasilkan formula dengan empat tanda bintang di kedua sisi (`****<hasil final>****`), baik hasil berhasil maupun gagal. Format setiap label rarity/klasifikasi dengan pola ``*<istilah>*`` di dalam double backtick; penjelasan tetap di luar backtick. `core/MARTIAL_SOUL.md` tetap menjadi sumber karakteristik, lore, serta interpretasi umum Martial Soul. Jika ada pertentangan mengenai peluang atau prosedur awakening, modul ini yang berlaku untuk bagian tersebut.
 
 ---
 
@@ -91,11 +91,11 @@ Rarity Martial Soul hanya boleh memakai enam istilah resmi: **Common, Uncommon, 
 
 1. Confirm eligibility and the awakening event.
 2. Establish the base Martial Soul form from known, legitimate character/family evidence; do not invent a lineage.
-3. Perform the single 1–100 rarity draw from Section 2 and record its named result exactly.
+3. Perform the single 1–100 rarity draw from Section 2 and record its named result exactly and display the resolved result as `****<hasil rarity>****`.
 4. Assess inherent qualities from established canon first; if no classification is recorded, use this score method only when evidence is sufficient. Record any score as a provisional assessment, never as the rarity draw result.
 5. Present the mandatory mutation-anomaly narrative and let the player choose whether to stop or continue.
 6. If the player stops, finalize the base Martial Soul with its already determined rarity; keep any inherent-quality score explicitly provisional and separate. Do not roll mutation.
-7. If the player continues, perform exactly one mutation draw at 10%. Mutation may change traits and therefore may warrant reassessment, but do not automatically change the rarity. Reassess only from the actual resulting traits and available evidence; do not reroll rarity or mutation.
+7. If the player continues, perform exactly one mutation draw at 10% and display the resolved mutation outcome as `****<hasil mutasi>****`. Mutation may change traits and therefore may warrant reassessment, but do not automatically change the rarity. Reassess only from the actual resulting traits and available evidence; do not reroll rarity or mutation.
 8. If evidence is too limited or mutation effects are not mechanically established, preserve unknown details and request appraisal rather than fabricating a score or effect.
 
 A completed **Merzkava Appraisal Authority (MAA)** ruling is authoritative for the specific examined Martial Soul when its classification was previously unknown or uncertain. The examiner must distinguish the awakening rarity already drawn from any assessed inherent-quality classification. Appraisal does not change the chance draw, grant abilities, establish lineage, guarantee combat victory, or override an already definitive owner-confirmed canon decision.

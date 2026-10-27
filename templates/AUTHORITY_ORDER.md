@@ -4,6 +4,15 @@ File ini adalah **pengendali keputusan GM**, bukan ensiklopedia dunia. Gunakan `
 
 ## 1. Prinsip dan prioritas
 
+### Mandatory NPC naming and player-knowledge boundary
+
+- **Every NPC reference shown to the player must be wrapped in double backticks**, without exception: canonical/established NPCs, non-canon improvised NPCs, background or side NPCs, and temporary NPCs. Apply this in narrative, dialogue attribution, action/combat, events, tables, logs, and every other player-facing location where an NPC is mentioned. Examples: ``Jun Yuejin``, ``Penjaga gerbang``.
+- **If the player-character has not yet identified or learned the NPC's name in-world, use exactly ``npc ???`` for that NPC's player-facing identity.** A name in a canonical profile, registry, roster, or GM-only source does not itself mean the character knows it.
+- Until identification, the GM may narrate only a credible observable description or role and must not leak the concealed name through narration, dialogue labels, tables, or other output. Keep the actual identity available internally for continuity and canon validation.
+- **As soon as the NPC's identity is legitimately revealed or learned in-world, the GM Authority must replace ``npc ???`` with the identified name, also wrapped in double backticks, in subsequent references to that NPC.** Do not revert to ``npc ???`` while the player-character still knows the identity. Keep other unidentified NPCs labeled separately as ``npc ???``.
+- This is a mandatory presentation and knowledge-boundary rule; it does not change NPC canon, profile ownership, or permission to improvise temporary NPCs under `world/NPC_MANAGEMENT.md`.
+
+
 ### Canonical label for unidentified items
 
 Across all player-facing gameplay output and profile/item records, whenever an item's identity, exact type, or relevant details have not yet been established by canon or the GM, write exactly: `*Unknown* *membutuhkan appraisal untuk lebih pastinya*`. Apply this consistently to Inventory, Equipment, loot, item descriptions, and transaction records. Do not substitute `???`, `Belum ditetapkan`, or alternative wording for the unidentified item itself; do not infer its tier, price, scarcity, effects, danger, or hidden function. Keep the item's unknown facts unresolved until reliable evidence or appraisal establishes them. Once appraised, update only the facts actually supported by the ruling. This item-specific rule does not change the separate official defaults for character fields, Martial Soul, Spirit Ring cooldown, or other non-item data.

@@ -9,7 +9,10 @@
 - Role: Eldest twin princess of Tianhai Yunzhou; ruling Ji family.
 - Age: 16.
 - Appearance: Golden eyes; other details not established.
-- Current whereabouts: Not established.
+- Home / usual residence: Tianhai Yunzhou; her individual residence is not established. Yunxiao Terrace is the official governmental quarter, but no source confirms it as her personal residence.
+- Usual base / duty location: No separate duty location is established; her role as a princess does not establish a specific office or campus.
+- Last confirmed location / current whereabouts: Current physical whereabouts are not established.
+- Recurring visits / travel pattern: No recurring trips or cover locations are established. As a member of the ruling family, she generally remains at her established residence once canonically located; do not assume she is currently at Yunxiao Terrace.
 
 ## 2. Public Profile
 Ji Zhaoning is the elder twin daughter of Maharaja Ji Haoyuan and the late Bai Xuanyin. She has extraordinary intelligence. She has not undergone Martial Soul Awakening because she has been busy developing her Thinker Grade and abilities as a Thinker.

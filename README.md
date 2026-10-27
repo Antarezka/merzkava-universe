@@ -84,7 +84,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 <td>
 <strong>WORLD DESIGN</strong> <sub>— Worldbuilding & setting depth</sub><br/>
 <strong>9.2 / 10</strong><br/>
-<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰</span><span style="color:#D9D9D9">▰▱</span><br/>
+<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱</span>
 <sub>Three major powers, distinct political and cultural structures, hidden territories, factions, resources, and connected world lore.</sub>
 </td>
 </tr>
@@ -92,7 +92,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 <td>
 <strong>GAMEPLAY SYSTEM</strong> <sub>— Mechanics & progression</sub><br/>
 <strong>9.0 / 10</strong><br/>
-<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰</span><span style="color:#D9D9D9">▰▱</span><br/>
+<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱</span>
 <sub>Cultivation realms, Martial Souls, Spirit Rings, Spirit Beasts, Sync progress, eligibility conditions, and defined character-state fields.</sub>
 </td>
 </tr>
@@ -100,7 +100,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 <td>
 <strong>STATE CONTINUITY</strong> <sub>— State tracking & continuity</sub><br/>
 <strong>9.0 / 10</strong><br/>
-<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰</span><span style="color:#D9D9D9">▰▱</span><br/>
+<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱</span>
 <sub>Character profiles track HP, Satiety, Qi, equipment, inventory, building assets, and the five-denomination Xuan currency wallet.</sub>
 </td>
 </tr>
@@ -108,7 +108,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 <td>
 <strong>GM AUTHORITY</strong> <sub>— Rule hierarchy & source control</sub><br/>
 <strong>9.2 / 10</strong><br/>
-<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰</span><span style="color:#D9D9D9">▰▱</span><br/>
+<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱</span>
 <sub>Authority and gameplay templates define source precedence, validation requirements, and boundaries for unsupported mechanics and hidden information.</sub>
 </td>
 </tr>
@@ -116,7 +116,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 <td>
 <strong>WORLD SIMULATION</strong> <sub>— Long-term simulation potential</sub><br/>
 <strong>8.5 / 10</strong><br/>
-<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱</span><br/>
+<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱</span>
 <sub>NPC priorities, regional resources, travel risks, trade, political tensions, and lasting consequences provide systems for ongoing world activity.</sub>
 </td>
 </tr>
@@ -124,7 +124,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 <td>
 <strong>NARRATIVE & AGENCY</strong> <sub>— Narrative & player agency</sub><br/>
 <strong>8.0 / 10</strong><br/>
-<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱</span><br/>
+<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱</span>
 <sub>Scene-based narration, social hooks, character goals, and open-ended action prompts support player-directed story progression.</sub>
 </td>
 </tr>
@@ -132,7 +132,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 <td>
 <strong>RULE ENFORCEMENT</strong> <sub>— Rule enforcement & error resistance</sub><br/>
 <strong>7.5 / 10</strong><br/>
-<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▱</span><span style="color:#D9D9D9">▱▱</span><br/>
+<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱▱</span>
 <sub>Explicit validation and state-change rules establish checks for unsupported actions and records; the parameter covers the rule controls defined by the system.</sub>
 </td>
 </tr>

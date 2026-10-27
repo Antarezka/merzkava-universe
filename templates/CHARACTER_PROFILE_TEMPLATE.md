@@ -8,7 +8,7 @@ Pertahankan nama dan urutan field sesuai `templates/GAMEPLAY_RESPONSE_TEMPLATE.m
 
 1. `Nama`: nama karakter yang tercatat.
 2. `Usia`: usia karakter yang tercatat.
-3. `Spirit Realm`: selalu tulis nama field dan tingkat kultivasi sebagai `Spirit Realm` (bukan `Realm` atau `Cultivation Realm`), beserta Stage dan progres sesuai sistem resmi. Mortal ditulis `Mortal/0`, bukan `Spirit Realm 0`.
+3. `Spirit Realm`: selalu tulis nama field dan tingkat kultivasi sebagai `Spirit Realm` (bukan `Realm` atau `Cultivation Realm`), beserta Stage dan progres sesuai sistem resmi. Mortal ditulis `Mortal` sebagai status dasar sebelum Spirit Realm 1; jangan menuliskannya sebagai `Mortal/0` atau `Spirit Realm 0`.
 4. `Sync progress`: progres saat ini dibandingkan dengan cap kompatibilitas ring saat ini. Cap tidak selalu 100%; misalnya `45%/45%` berarti cap telah tercapai. Ini bukan penguasaan penuh atas kekuatan ring. Jika karakter belum memiliki Spirit Ring yang sedang diproses, tampilkan `0%/0%` dan jelaskan bahwa belum ada cap kompatibilitas aktif; jangan gunakan `???`.
 5. `Spirit Ring Absorption`: status tunggal dan format `status | Day left` wajib mengikuti bagian **Status Kanonis Spirit Ring Absorption** di bawah. Nilai `Day left` merupakan bagian dari field ini, bukan field profil terpisah. Jangan menambahkan alasan atau label lain ke dalam field.
 6. `Martial Soul`: Martial Soul karakter sesuai sumber resmi dan riwayat.

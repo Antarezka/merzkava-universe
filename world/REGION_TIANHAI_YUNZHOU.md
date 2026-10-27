@@ -3,7 +3,7 @@
 **Status:** Regional reference; core ruling-family NPCs and the Great Tianhai War are established canon.  
 **Canon policy:** This module consolidates established information from `world/WORLD.md`, `world/MAP_AND_REGIONS.md`, and `world/FACTIONS.md`. Blank details remain unconfirmed; proposals are not canon until approved by the owner.
 
-**Connected world tree:** [`world/WORLD_NAVIGATION_TREE.md`](WORLD_NAVIGATION_TREE.md) maps this power into the shared three-power hierarchy and records established inter-power transit. Use it as navigation only; this file remains authoritative for its own subject.
+**Connected world tree:** [`world/WORLD_NAVIGATION_TREE.md`](WORLD_NAVIGATION_TREE.md) maps the shared power hierarchy. [`world/THREE_POWER_PERSPECTIVE_MAPS.md`](THREE_POWER_PERSPECTIVE_MAPS.md) shows Tianhai's perspective on maritime approaches, the mainland overland corridors, and the three direct air corridors. Use those maps as navigation aids; this file remains authoritative for Tianhai's local route graph and canon.
 
 ## 1. Confirmed Foundation
 

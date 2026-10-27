@@ -83,7 +83,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![NIGHTLY](assets/nightly-version.svg?v=2)
 
-<sub><span style="color:#D4AF37"><strong>v2.4.105</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v2.4.106</strong></span></sub>
 
 </td>
 </tr>
@@ -116,8 +116,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **Gameplay Hash + Nightly Version Header**  
   Player Converse requires a seven-character Hash from the active pinned snapshot and the Nightly version from that same snapshot's `NIGHTLY_VERSION.md`. The identity line appears immediately above the Merzkava time header.
 
-- ✦ **Beast Age Grade Formula and Open-Ended Age Grade 9**  
-  Beast Age Grade uses actual specimen age and classifies age only—not Beast category, Spirit Realm, or appraisal strength. Grade 9 starts at 500,000 years and has no hard upper limit.
+- ✦ **README Release Tags: GitHub Icons and Gold Version Labels**  
+  Hash: ``6d73226`` | Ver: ``Nightly-v2.4.106``  
+  Added GitHub icons above Stable/Nightly tags and gold version labels; this presentation patch advances Nightly only.
 
 
 <div align="center">

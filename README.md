@@ -174,9 +174,8 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
-- ✦ **Independent RP System Benchmark — Mobile-Friendly White Header and Colored Bars**  
-  Hash: ``52cdae6`` | Ver: ``Nightly-v2.4.106``  
-  Refined the benchmark with a white title panel, centered italic heading, compact mobile-friendly rows, colored score bars, and the evaluated snapshot identity.
+- ✦ **Independent RP System Benchmark — Wide SVG Header and Color Accent**  
+  Added a white title panel with black typography and a wide coral, orange, yellow, and white SVG accent; removed the snapshot hash/version line for a cleaner visitor-facing presentation.
 
 - ✦ **Regional Canon Load Path and Cross-Reference Validation**  
   Regional scenes must follow the canon router, load relevant local authorities, and reconcile conflicts through the binding precedence rules.

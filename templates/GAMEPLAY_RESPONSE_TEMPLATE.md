@@ -9,7 +9,7 @@ Status: **Template visual resmi dan wajib untuk setiap balasan gameplay. Gunakan
 - Ganti setiap placeholder dengan state terverifikasi. Jangan menampilkan teks instruksi dalam tanda kurung siku sebagai isi respons final. Jika nilai nonnumerik belum diketahui, gunakan `Belum ditetapkan` atau `Tidak ada` sesuai definisi profil; jangan menghapus field.
 - `LEDGER LOG` adalah satu-satunya blok yang bersifat kondisional: tampilkan hanya jika ada perubahan state yang memenuhi aturan ledger. Jika tidak ada perubahan yang relevan, hilangkan blok ledger dan pembatas ledger terkait saja—**jangan pernah menghilangkan bagan profil atau bagian visual lainnya**.
 - Sebelum mengirim, cocokkan respons dengan template ini dari header hingga footer. Jika satu bagian wajib, field, pembatas, atau footer hilang/berubah urutan, respons belum valid dan harus diperbaiki sebelum dikirim.
-- Narasi hanya boleh menyatakan apa yang diketahui karakter. Jangan membocorkan catatan GM, potensi tersembunyi, asal-usul misterius, atau kemampuan yang belum disadari karakter sebagai fakta yang diketahui olehnya.
+- Jaga pemisahan pengetahuan GM dan karakter. Jangan membocorkan catatan GM, potensi tersembunyi, asal-usul misterius, atau kemampuan yang belum disadari sebagai fakta terbuka sebelum ada pengungkapan yang sah; tampilkan hanya gejala yang benar-benar dapat diamati sampai karakter memiliki dasar untuk memahaminya.
 
 ```text
 🕒 Waktu Merzkava Universe

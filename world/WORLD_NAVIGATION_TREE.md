@@ -77,6 +77,13 @@ MERZKAVA UNIVERSE
 │   │   └── Misty Shoals — outer maritime zone and exploration
 │   ├── Institutions: world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md
 │   ├── NPC power structure: regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md
+│   ├── Established local anchors (full route graph in §§12–14)
+│   │   ├── Yunxiao Terrace — Court Steps
+│   │   ├── Lanternwake Village → Glasscurrent Hamlet
+│   │   ├── Xuanchao Ward → Northwatch Quay → Reedmist Fishing Village
+│   │   ├── Cangqiong Harbor ↔ Westwake Anchorage
+│   │   ├── Haiyue Market → Pearlstep Landing → Bluefin Cove → Windglass Islet
+│   │   └── Cangqiong Sky Transit Terminal — inter-power passenger hub
 │   ├── Local route graph and services: world/REGION_TIANHAI_YUNZHOU.md §§12–14
 │   ├── Transit node: Cangqiong Sky Transit Terminal
 │   └── NPCs: regions/tianhai-yunzhou/INDEX.md → npcs/REGISTRY.md → relevant profile

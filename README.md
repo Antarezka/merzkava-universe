@@ -93,9 +93,8 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **Martial Soul Chance and Classification Unified Without Tier Labels**  
   The awakening module keeps the rarity chance, inherent-quality assessment, and mutation chance as separate procedures in one authoritative source. Martial Soul uses only the established names Common, Uncommon, Rare, Epic, Legendary, and Myth—never numeric Tier 1–9 labels or invented rarity names. The inherent-quality assessment cannot overwrite the actual rarity draw, and obsolete conflicting classifications are not retained.
 
-- ✦ **GM Action Prompt Distinguished from Player Invocation**  
-  The canonical gameplay template has absolute priority for GM output and ends with the exact prompt “••• Tentukan Aksimu (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧”. The player invocation template is explicitly limited to player input and cannot override GM response formatting.
-
+- ✦ **GM Footer, Day-Cycle Label, and Player Invocation Aligned**  
+  The canonical gameplay template uses a compact `Siklus` label for Dini hari, Subuh, Pagi, Siang, Sore, or Malam, and ends with `•••_@GM_Authority: Tentukan Aksimu (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧`. The action prompt is localized to the player's language; the instruction to localize it stays out of the footer. The player invocation template remains limited to player input and cannot override GM response formatting.
 - ✦ **Tier-Gap Spirit Ring Compatibility and Voluntary Handover Formula**  
   Each ring's compatibility cap now starts at 100, subtracts a tier-threat gap penalty plus evidence-based body/Martial Soul penalties, then adds only supported combat and method bonuses. Genuine voluntary soul-ring handover receives a distinct high bonus and reduced tier penalty; ordinary forced acquisition cannot reach a 100 cap. The 80% range marks exceptional compatibility, while 100% remains rare and evidence-driven. Overall compatibility now contributes 50% of the PowerScale multiplier, making it a major power factor alongside total ring age.
 

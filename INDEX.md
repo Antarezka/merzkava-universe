@@ -68,6 +68,7 @@ Pilih sumber berdasarkan aksi dan lokasi; jika beberapa sistem terdampak, baca s
 - `templates/WORLD_EVENT_UPDATE_TEMPLATE.md`: proposal event; bukan canon sampai disetujui dan di-commit owner/admin.
 - Modul mekanik/world adalah otoritas untuk cakupannya. `players.md` adalah indeks; `players/<Nama>.md` adalah snapshot awal; profil gameplay terakhir beserta kejadian sesudahnya adalah state aktif.
 - Penilaian universal dan Kantor Appraisal: `core/TIER_ASSESSMENT_AND_APPRAISAL.md`. Martial Soul memakai formulasi khusus `core/MARTIAL_SOUL_AWAKENING.md`; rarity hasil undian terpisah dari kualitas inheren.
+- **Label item yang belum teridentifikasi:** jika identitas, jenis pasti, atau detail relevan suatu item belum ditetapkan oleh kanon/GM, tampilkan persis `*Unknown* *membutuhkan appraisal untuk lebih pastinya*` di Inventory, Equipment, loot, deskripsi, dan transaksi. Jangan gunakan `???` sebagai label item atau mengarang tier, harga, fungsi, kelangkaan, maupun bahaya. Ikuti `core/TIER_ASSESSMENT_AND_APPRAISAL.md`; aturan ini hanya untuk item, bukan field karakter atau data dunia lain.
 
 ## Daftar pintu masuk kanonis
 

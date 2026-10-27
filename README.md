@@ -78,7 +78,8 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
-- ✦ **Canonical Unknown Item Label and Appraisal Consistency**  
+- ✦ **Unified NPC Discovery Order Across INDEX and Authority**  
+  Regional INDEX → local NPC table → registry/official roster → canonical profile, with consistent handling of descriptive references and continuity.
   Unidentified items now use the exact player-facing label `*Unknown* *membutuhkan appraisal untuk lebih pastinya*` across gameplay, character profiles, inventory, equipment, loot, transactions, artifacts, and consumption records. Appraisal reveals only facts supported by its findings; unknown prices, tiers, functions, rarity, and dangers must not be invented.
 
 - ✦ **Gameplay Hash + Nightly Version Header**  

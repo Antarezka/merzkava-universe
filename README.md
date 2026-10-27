@@ -24,7 +24,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ### ✦ READY-TO-COPY ROLEPLAY HASH ✦
 
-**Latest pinned source:** `ef155b1`
+**Latest pinned source:** `e3a3d36`
 
 </div>
 <!-- RP_SOURCE_END -->
@@ -96,7 +96,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
   Beast Age Grade uses actual specimen age and classifies age only—not Beast category, Spirit Realm, or appraisal strength. Grade 9 starts at 500,000 years and has no hard upper limit.
 
 - ✦ **Unified Ledger Markers and Immersive Converse Narration**  
-  Hash: ``abb2ecf`` | Ver: ``Nightly-v1.4.101``  
+  Hash: ``e3a3d36`` | Ver: ``Nightly-v1.4.101``  
   Money, item, and Satiety changes now share one verified ledger flow with natural `🝰 MASUK/KELUAR` and `⧟` markers, while passive Converse keeps context-relevant NPC dialogue and scene detail active.
 
 <div align="center">

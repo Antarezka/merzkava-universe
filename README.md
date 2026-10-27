@@ -98,9 +98,6 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **Pinned-Commit Roleplay Source and Automatic Hash Refresh**  
   The README provides a copyable pinned commit for consistent gameplay sources. GitHub Actions refreshes the pin without letting the README chase its own update commit.
 
-- ✦ **Lean GM Routing and Pinned Snapshot Consistency**  
-  INDEX and Authority Order route detailed canon to authoritative modules loaded as needed. Bootstrap reads all gameplay sources from one pinned SHA to prevent mixing snapshots.
-
 <div align="center">
 
 **✧ ── ✦ ── ❖ ── ✦ ── ✧**

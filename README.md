@@ -119,9 +119,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
-- ✦ **Major Release: Stable v2 and Nightly v2 Baseline**  
-  Hash: ``be515dc`` | Ver: ``Stable-v2.4.105`` / ``Nightly-v2.4.105``  
-  Major version advances to 2; minor 4 and patch 105 follow the accumulated Nightly update history.
+- ✦ **Independent RP System Benchmark**  
+  Hash: ``1fd9845`` | Ver: ``Nightly-v2.4.106``  
+  Added a parameter-based benchmark covering worldbuilding, progression mechanics, state continuity, GM authority, simulation, narrative agency, and rule enforcement.
 
 - ✦ **Regional Canon Load Path and Cross-Reference Validation**  
   Regional scenes must follow the canon router, load relevant local authorities, and reconcile conflicts through the binding precedence rules.

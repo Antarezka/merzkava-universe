@@ -10,7 +10,7 @@
 - Species / people: Human unless otherwise established later.
 - Occupation / role: Kepala Minghu Clan.
 - Affiliation: Beiming Gu; clan affiliation as listed above.
-- Home / usual residence: Beiming Gu; principal regional base of Minghu Clan, but the compound and exact district are not established.
+- Home / usual residence: Beiming Gu; personal residence and exact district are not established.
 - Usual base / duty location: Head of Minghu Clan in Beiming Gu; exact headquarters location is not established.
 - Last confirmed location / current whereabouts: Beiming Gu affiliation is established; exact current whereabouts are not confirmed.
 - Recurring visits / cover locations: No recurring visits or cover identity are established.

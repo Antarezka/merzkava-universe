@@ -8,6 +8,7 @@
 - **Power / jurisdiction context:** Golden Dragon Empire
 - **Established identity:** Maritime trade, diplomacy, and sea routes.
 - **Canonical overview:** `world/MAP_AND_REGIONS.md` and `world/WORLD.md`
+- **Connected route map:** `world/THREE_POWER_PERSPECTIVE_MAPS.md` maps Dongxing as the mainland maritime approach to Cangqiong Harbor in Tianhai Yunzhou. This is a mixed land-and-sea travel framework; sea name, sailing path, schedule, fare, and duration remain unspecified.
 
 ## 2. Geography and Boundaries
 - General position: Distant maritime belt — wealthy ports coexist with neglected inland and outer-coast communities. Exact coordinates and surveyed borders remain undefined.

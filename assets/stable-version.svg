@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="20" viewBox="0 0 94 20" role="img" aria-labelledby="title desc">
+  <title id="title">Stable</title>
+  <desc id="desc">Bright orange stable release badge with black lettering.</desc>
+  <rect x="1" y="1" width="92" height="18" rx="3" fill="#FFB36B" stroke="#E99542" stroke-width="1"/>
+  <text x="47" y="14" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="900" letter-spacing=".4" fill="#151515">STABLE</text>
+</svg>

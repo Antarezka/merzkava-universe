@@ -14,6 +14,12 @@
 
 This is a relative geographic framework, not a scaled map. Exact coordinates, distances, borders, and travel times remain unknown unless established elsewhere.
 
+## 1.1 Shared western and northern route relationships
+
+The western side of Tianhai Yunzhou's floating position above the southwestern ocean faces a sea-side approach toward the Lawless Territories. The easiest known entrance to Azerion Forest lies in the Lawless Territories, and the forest extends onward into Golden Dragon Empire territory.
+
+At the Golden Dragon-facing forest boundary, a rushing river forms a trap-like barrier; a small Golden Dragon Empire prison island lies in the middle of the fast-water route. Its river name, exact crossing, and coordinates are not established. From Beiming Gu, the Azerion connection instead follows the northern coast to the ruined/labyrinth exit associated with the lake ruins and Mega Colossal Labyrinth. The labyrinth's internal geography is unknown; this is a dangerous ruined route, not a surveyed public road.
+
 ## 2. Wild Regions and Sky Mountains
 
 The spaces between major powers include forests, mountain ranges, deep ravines, valleys, remote basins, and high mountain ranges whose summits rise above the sea of clouds. These remote peaks shelter two distinct, exceptionally secluded traditions: the Ancient Shamanism clan/sect and a Buddhist clan. Their established lore, known hierarchy, powers, and encounter boundaries are recorded in `world/ANCIENT_SHAMANISM_AND_BUDDHIST_CLANS.md`. Exact mountain names, coordinates, and routes remain unestablished; do not place either group inside one of the three major powers without canon support.

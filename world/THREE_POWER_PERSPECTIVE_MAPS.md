@@ -58,6 +58,12 @@
     Tianhai Yunzhou (floating island above southwestern ocean)
        └─ WESTERN side / sea-facing approach ~~~ [EXTERNAL] Lawless Territories
            └─ easiest known entrance → Azerion Forest
+               ├─ EASTERN forest boundary ··· rushing-river trap ···
+               │  [small Golden Dragon Empire prison island midstream]
+               │  → Golden Dragon Empire
+               └─ CENTRAL LAKE → ruins → Mega Colossal Labyrinth
+                  └··· northern deep-sea coast / ruined exit ···
+                     → Beiming Gu northern coastal approach
 
 ### Golden Dragon → Beiming Gu
 
@@ -103,6 +109,13 @@ All seven regions remain part of the same imperial branch: **Longyuan, Canglan, 
     └─ Misty Shoals (outer maritime district)
        └─ Lanternwake Village → Glasscurrent Hamlet
 
+    WESTERN SEA-FACING APPROACH ~~~ [EXTERNAL] Lawless Territories
+       └─ easiest known entrance → Azerion Forest
+           ├─ EASTERN boundary ··· rushing-river trap ··· [small prison island]
+           │  → Golden Dragon Empire
+           └─ central lake ruins → Mega Colossal Labyrinth
+              └··· northern deep-sea ruined exit ··· → Beiming coast
+
 ### Tianhai Yunzhou → Golden Dragon Empire
 
 **To Golden Dragon Empire:** Cangqiong Harbor → vessel crossing to Dongxing → Xingluo → confirmed internal routes toward the intended destination. Separately, Azerion Forest reaches the empire-facing frontier through a rushing-river trap corridor with a small Golden Dragon Empire prison island in midstream.
@@ -144,6 +157,14 @@ The seven districts are **Yunxiao Terrace, Tianji Core, Cangqiong Harbor, Haiyue
     ├─ Silverpine Wilds (pine forest, Spirit Beasts, herbs, hunting)
     ├─ Hollowmoon Valley (remote valleys and secluded paths)
     └─ Ironroot Reach (minerals, raw materials, workshops)
+
+    BEIMING NORTHERN COAST ··· [EXTERNAL] Azerion Forest's ruined exit
+       ← Mega Colossal Labyrinth ← central lake ruins in Azerion Forest
+       ├─ forest's eastern boundary ··· rushing-river trap ···
+       │  [small Golden Dragon Empire prison island midstream]
+       │  → Golden Dragon Empire
+       └─ Lawless Territories ← easiest known forest entrance
+          ← western sea-facing approach from Tianhai Yunzhou
 
 ### Beiming Gu → Golden Dragon Empire
 

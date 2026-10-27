@@ -122,3 +122,15 @@ Use this path whenever a scene, question, or audit involves a named person, an o
 - Canon conflict and legacy-file precedence: `world/CANON_DECISIONS_AND_PRECEDENCE.md` + `world/REGIONAL_REPOSITORY_ARCHITECTURE.md`
 
 For a normal gameplay turn, load only the relevant regional index, roster/table, and profiles needed for the scene. For a full NPC audit or repository edit, trace every affected registry, profile, local table, legacy source, and cross-reference. A missing table row is a discoverability gap to investigate, not permission to invent canon.
+
+### Resolving NPC references when the player does not know the name
+
+The player may refer to an NPC by title, relationship, appearance, role, behavior, or a partial description rather than a proper name—for example, “the emperor's daughter,” “the golden-eyed girl,” “the guard at this gate,” or “the wandering physician.” Treat these as **NPC lookup clues**, not permission to invent a new person.
+
+1. Start with the current scene and confirmed location; narrow the candidate set using the local place, institution, faction, household, office, or event.
+2. Search the relevant local NPC table and roster/registry for entries matching the NPC's role or relationship, then compare documented appearance, age, affiliation, Martial Soul, behavior, and other supplied clues only where those facts are recorded.
+3. Follow the strongest candidate to their canonical profile and verify that the profile, current whereabouts, status, and scene context fit. Treat titles, kinship descriptions, aliases, and physical traits as alternate lookup keys even when the player's wording does not match the profile's exact name.
+4. Use the combined evidence—scene/location first, then role or relationship, then distinguishing traits and recent context—to identify the best-supported match. Do not select a character from one generic trait alone when several candidates fit.
+5. If one candidate is clearly supported, use that NPC's canonical data in the scene without requiring the player to provide the name. Reveal only what the player character could perceive or legitimately know; do not expose hidden profile fields or GM-only secrets.
+6. If several candidates remain plausible, keep the identity unconfirmed in narration and use only observable, supported details. Ask the player for clarification only if the ambiguity materially changes the action or outcome. If no canonical candidate fits after the required lookup, use only an appropriately limited temporary NPC under `world/NPC_MANAGEMENT.md`; do not retrofit an existing NPC or create persistent canon by assumption.
+

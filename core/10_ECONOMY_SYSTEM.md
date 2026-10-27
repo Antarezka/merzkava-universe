@@ -294,8 +294,8 @@ The money and item ledgers above are mandatory audit records. The same reporting
 **Required response order:** immersive in-world narration and relevant active dialogue → natural in-narrative report of each verified change with before → signed change → after → inline-code `Log tercatat!` exactly once after the report → one combined visible `LEDGER LOG` → reconciled character profile. A transaction must be described naturally in the narration itself, not hidden in the ledger alone. During passive player conversation, keep the scene alive with relevant sensory detail, active NPC dialogue/reactions, and local activity supported by canon, location, time, NPC knowledge, and established agendas. Do not force random events, invent facts, or take control of the player's character.
 
 **Inline change-marker convention:** place the marker inside the natural narrative/change-report sentence:
-- **🝰 MASUK · [item/uang + jumlah]** ``⧟ [Tier/Grade/Rarity/Quality/``Unknown`` jika diketahui atau relevan]`` for a verified increase to the player's holdings/balance.
-- **🝰 KELUAR · [item/uang + jumlah]** ``⧟ [Tier/Grade/Rarity/Quality/``Unknown`` jika diketahui atau relevan]`` for a verified decrease, expense, consumed item, outgoing transfer, loss, or sale.
+- **🝰 MASUK · [item/uang + jumlah]** ``⧟ [Tier/Grade/Rarity/Quality/Unknown jika diketahui atau relevan]`` for a verified increase to the player's holdings/balance.
+- **🝰 KELUAR · [item/uang + jumlah]** ``⧟ [Tier/Grade/Rarity/Quality/Unknown jika diketahui atau relevan]`` for a verified decrease, expense, consumed item, outgoing transfer, loss, or sale.
 - For an exchange, show separate MASUK and KELUAR markers in the same narrative report, then use one combined ledger block. Use `🝰 PERUBAHAN` only for a verified condition/location change that is neither an inflow nor an outflow.
 - Include only supported, relevant attributes. For an unidentified item, use the exact name ```Unknown`` *membutuhkan appraisal untuk lebih pastinya*`; never invent its tier, grade, rarity, quality, price, or function. Ordinary goods with clear identities may use routine market categories; missing specialist appraisal alone does not make an everyday item's identity unknown.
 - After the complete verified change sentence, write **`Log tercatat!`** exactly once. It confirms a session-ledger entry, not a GitHub write. Do not add another confirmation line.
@@ -308,7 +308,7 @@ Use this mobile-friendly visible format; include only affected fields and preser
 ╭─ LEDGER LOG · #[ID]
 │ Peristiwa/Aksi: [aksi/peristiwa penyebab perubahan]
 │ [Waktu] · [Berhasil/Gagal/Dibatalkan]
-│ 🝰 Item/Equipment/Loot/Aset: [MASUK/KELUAR · nama · ×jumlah · ⧟ tier/grade/rarity/quality/``Unknown`` jika relevan · sumber/tujuan · awal → perubahan → akhir]
+│ 🝰 Item/Equipment/Loot/Aset: [MASUK/KELUAR · nama · ×jumlah · ⧟ tier/grade/rarity/quality/Unknown jika relevan · sumber/tujuan · awal → perubahan → akhir]
 │ 🝰 Uang: [MASUK/KELUAR · sumber/penerima · jumlah · saldo awal → perubahan bersih → saldo akhir · kembalian jika ada]
 │ Satiety: [awal → ±delta → akhir · penyebab/kategori/durasi jika relevan]
 ╰─

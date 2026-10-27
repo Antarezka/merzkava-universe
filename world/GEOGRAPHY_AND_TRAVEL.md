@@ -3,6 +3,8 @@
 **Status:** Official foundational worldbuilding module.
 **Scope:** World orientation, wild regions, sky mountains, beast habitats, ruins, and transport.
 
+**Connected world tree:** [`world/WORLD_NAVIGATION_TREE.md`](WORLD_NAVIGATION_TREE.md) maps this power into the shared three-power hierarchy and records established inter-power transit. Use it as navigation only; this file remains authoritative for its own subject.
+
 ## 1. Major Geographic Orientation
 
 - Golden Dragon Empire lies in the eastern part of the world.

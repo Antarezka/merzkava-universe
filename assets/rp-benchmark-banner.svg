@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+  <title id="title">Merzkava Universe — RP System Benchmark</title>
+  <desc id="desc">A wide, colorful geometric accent in coral, orange, yellow, white, and black above a white title panel.</desc>
+  <rect width="1200" height="190" fill="#151515"/>
+  <g>
+    <path d="M0 0H1200V20L1120 20 1085 48 1035 20 955 20 920 56 870 20 790 20 755 44 705 20 625 20 590 60 540 20 460 20 425 45 375 20 295 20 260 58 210 20 130 20 95 46 45 20 0 20Z" fill="#FFB36B"/>
+    <path d="M0 20H1200V30H0Z" fill="#FFE066"/>
+    <path d="M0 30H1200V40H0Z" fill="#F25C54"/>
+    <path d="M0 40H1200V50H0Z" fill="#151515"/>
+    <path d="M0 50L45 50 70 72 95 50 165 50 190 76 215 50 285 50 310 72 335 50 405 50 430 78 455 50 525 50 550 72 575 50 645 50 670 78 695 50 765 50 790 72 815 50 885 50 910 78 935 50 1005 50 1030 72 1055 50 1125 50 1150 76 1175 50 1200 50V62H0Z" fill="#FFFFFF" opacity=".95"/>
+  </g>
+  <rect x="22" y="66" width="1156" height="100" rx="2" fill="#FFFFFF"/>
+  <rect x="22" y="66" width="10" height="100" fill="#F25C54"/>
+  <rect x="32" y="66" width="8" height="100" fill="#FFB36B"/>
+  <rect x="40" y="66" width="5" height="100" fill="#FFE066"/>
+  <text x="600" y="108" text-anchor="middle" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800" letter-spacing="1.1">MERZKAVA UNIVERSE</text>
+  <text x="600" y="143" text-anchor="middle" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" letter-spacing="2.4">— RP SYSTEM BENCHMARK —</text>
+  <g transform="translate(0 176)">
+    <rect x="0" y="0" width="1200" height="14" fill="#FFB36B"/>
+    <path d="M0 0H120L136 7 120 14H0Z M136 0H256L272 7 256 14H136Z M272 0H392L408 7 392 14H272Z M408 0H528L544 7 528 14H408Z M544 0H664L680 7 664 14H544Z M680 0H800L816 7 800 14H680Z M816 0H936L952 7 936 14H816Z M952 0H1072L1088 7 1072 14H952Z M1088 0H1200V14H1088L1104 7Z" fill="#F25C54"/>
+    <path d="M0 0H60L76 7 60 14H0Z M300 0H360L376 7 360 14H300Z M600 0H660L676 7 660 14H600Z M900 0H960L976 7 960 14H900Z" fill="#FFE066"/>
+  </g>
+</svg>

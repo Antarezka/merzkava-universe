@@ -101,6 +101,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **Disaster-Driven Scarcity Integrated into Unified Pricing Formula**  
   The existing item-pricing formula now accounts for documented disaster impacts through one effective scarcity multiplier: minor disruption ×1.10–1.25, moderate ×1.30–1.60, major ×1.70–2.20, and catastrophic ×2.30–3.00. The effect applies only to goods and markets whose supply is affected, reflects stock and alternative routes, eases as recovery is verified, and must not double-count the same shortage under seasonal scarcity or local adjustments.
 
+- ✦ **Mandatory Gameplay Layout and Character-Knowledge Guardrails Reinforced**  
+  The gameplay template, GM Authority Order, and player invocation now explicitly require every response to retain the complete canonical time header, all profile/finance/technique/consistency panels, visual dividers, five-denomination Wallet, and footer—even on short turns or when state does not change. Only the ledger block is conditional. GM-only traits and undiscovered potential must not be narrated as facts the character already knows.
+
 <div align="center">
 
 **✧ ── ✦ ── ❖ ── ✦ ── ✧**

@@ -4,6 +4,11 @@ File ini adalah **pengendali keputusan GM**, bukan ensiklopedia dunia. Gunakan `
 
 ## 1. Prinsip dan prioritas
 
+### Canonical label for unidentified items
+
+Across all player-facing gameplay output and profile/item records, whenever an item's identity, exact type, or relevant details have not yet been established by canon or the GM, write exactly: `*Unknown* *membutuhkan appraisal untuk lebih pastinya*`. Apply this consistently to Inventory, Equipment, loot, item descriptions, and transaction records. Do not substitute `???`, `Belum ditetapkan`, or alternative wording for the unidentified item itself; do not infer its tier, price, scarcity, effects, danger, or hidden function. Keep the item's unknown facts unresolved until reliable evidence or appraisal establishes them. Once appraised, update only the facts actually supported by the ruling. This item-specific rule does not change the separate official defaults for character fields, Martial Soul, Spirit Ring cooldown, or other non-item data.
+
+
 ### Gerbang wajib format gameplay — prioritas sebelum narasi
 
 - Sebelum menyusun isi respons, ikuti jalur wajib `INDEX.md` → `templates/AUTHORITY_ORDER.md` → template dan state kanonis yang relevan. Terapkan `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` sebagai kerangka wajib. Jangan melewati INDEX atau Authority Order, dan jangan mulai dengan menulis narasi bebas lalu menganggap bagan sebagai tambahan opsional.

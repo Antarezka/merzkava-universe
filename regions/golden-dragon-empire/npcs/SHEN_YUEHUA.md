@@ -10,7 +10,10 @@
 - **Full name:** Shen Yuehua (沈月华)
 - **Public name / title:** Empress of the Golden Dragon Empire
 - **Age:** 33
-- **Current location:** Longyuan; exact residence not specified
+- **Home / usual residence:** Golden Dragon Empire, Longyuan; imperial-family residence/palace name and exact placement are not established.
+- **Usual base / duty location:** Imperial household and court in Longyuan; exact personal residence and assigned work location are not specified.
+- **Last confirmed location / current whereabouts:** Longyuan is the established regional location; current physical presence there is not confirmed.
+- **Recurring visits / travel pattern:** No recurring personal travel pattern is established. As a senior imperial-family member, Shen Yuehua generally stays at the imperial residence unless duties or a credible event require travel.
 - **Occupation / role:** Empress; member of the main branch of the Shen family
 - **Affiliation:** Jun imperial family by marriage; Shen family by birth
 - **Social status:** Empress; born into a powerful family

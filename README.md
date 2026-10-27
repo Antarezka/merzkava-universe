@@ -79,7 +79,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 </div>
 
 - ✦ **README Update Log Formatting Standard**  
-  Hash: ``e81fa78`` | Ver: ``Nightly-v1.4.100``  
+  Hash: ``a084f84`` | Ver: ``Nightly-v1.4.100``  
   Future README updates use double backticks for Hash and Ver labels for both Nightly and Stable. Each update summary is limited to six bullets, with each bullet description kept to four lines or fewer.
 
 - ✦ **Unified NPC Discovery Order Across INDEX and Authority**  
@@ -96,7 +96,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
   Beast Age Grade uses actual specimen age and classifies age only—not Beast category, Spirit Realm, or appraisal strength. Grade 9 starts at 500,000 years and has no hard upper limit.
 
 - ✦ **Authority Hierarchy and Bootstrap Deduplication**  
-  Hash: ``7eb7a28`` | Ver: ``Nightly-v1.4.100``  
+  Hash: ``e81fa78`` | Ver: ``Nightly-v1.4.100``  
   INDEX owns bootstrap and navigation; Authority Order owns GM decisions; the gameplay template owns the visual contract. NPC lookup details now live in the canonical router, player snapshots are read from `ACTIVE_SHA`, and Mortal is no longer labeled as Realm 0.
 
 <div align="center">

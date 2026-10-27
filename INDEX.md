@@ -106,7 +106,7 @@ NPC discovery, regional routing, roster checks, canonical profile selection, des
 Required entry path remains `INDEX.md` → `templates/AUTHORITY_ORDER.md` → the relevant regional INDEX/router → local canonical source. Use `world/CANON_DECISIONS_AND_PRECEDENCE.md` and `world/REGIONAL_REPOSITORY_ARCHITECTURE.md` when canon conflicts, ownership, or legacy paths matter. Do not duplicate the detailed lookup procedure here; the router owns it.
 
 - Golden Dragon Empire: `regions/golden-dragon-empire/INDEX.md` → `regions/golden-dragon-empire/npcs/REGISTRY.md`
-- Tianhai Yunzhou: `regions/tianhai-yunzhou/INDEX.md` → `regions/tianhai-yunzhou/npcs/REGISTRY.md` and, when relevant, `POWER_STRUCTURE.md`
+- Tianhai Yunzhou: `regions/tianhai-yunzhou/INDEX.md` → `regions/tianhai-yunzhou/npcs/REGISTRY.md` and, when relevant, `regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`
 - Beiming Gu: `regions/beiming-gu/INDEX.md` → `regions/beiming-gu/npcs/REGISTRY.md`
 - Elsewhere or cross-regional scenes: use the relevant `world/REGION_*.md`, location/faction source, and shared router. Never infer physical presence from a profile alone.
 

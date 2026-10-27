@@ -19,24 +19,34 @@
 
     GOLDEN DRAGON EMPIRE — EASTERN POWER
     ├─ LONGYUAN ─ Huanglongcheng
+    │  ├─ Huanglong Prefecture / Jade Seal Prefecture
+    │  ├─ Dragonwell Village / Willowbend Village
     │  └─ Imperial Dragon Road ─ Yuxi
-    │     [Imperial Heartland Circuit: Huanglong + Jade Seal prefectures]
-    ├─ CANGLAN ─ Qinghe ━ Twin River Route ━ Jiangbei
-    │  [Riverlands Circuit; river/road links vary locally]
-    ├─ JINYUE ─ Yumai ━ Ore Vein Road ━ Tieyun
-    │  [Mineral Lands Circuit]
-    ├─ TIANFENG ─ Tianshu ━ Cloudstep Scholar Road ━ Yunding
-    │  [Scholarly Heights Circuit]
-    ├─ YANLING ─ Honglu ━ Furnace Spine Road ━ Huifeng
-    │  [Furnace Mountains Circuit]
+    ├─ CANGLAN ─ Qinghe / Jiangbei
+    │  ├─ Qinghe Prefecture / Jiangbei Prefecture
+    │  ├─ Reedbank Village / Fish Lantern Village
+    │  └─ Twin River Route ━ Qinghe ━ Jiangbei
+    ├─ JINYUE ─ Yumai
+    │  ├─ Jadevein Prefecture / Ironcloud Prefecture
+    │  ├─ Orebrook Village / Jade Hollow Village
+    │  └─ Ore Vein Road ━ Yumai ━ Tieyun
+    ├─ TIANFENG ─ Tianshu
+    │  ├─ Heavenly Script Prefecture / Cloud Summit Prefecture
+    │  ├─ Inkstone Village / Crane Rest Village
+    │  └─ Cloudstep Scholar Road ━ Tianshu ━ Yunding
+    ├─ YANLING ─ Honglu
+    │  ├─ Red Furnace Prefecture / Ashen Peak Prefecture
+    │  ├─ Ashbrook Village / Ember Hollow Village
+    │  └─ Furnace Spine Road ━ Honglu ━ Huifeng
     ├─ BAIYUE ─ Beiguan
+    │  ├─ Northwatch Prefecture
     │  ├─ Watchfire Village / Stonegate Village
     │  └══ northern land corridor ··· [EXTERNAL] Nine Frost Wastes
     │      ··· mountain foothills and snow valleys
     │      ══ Stonegate March ━ Frostveil Range ━ Beiming Heartland
     │      → Beiming Gu
     └─ XINGLUO ─ Dongxing
-       ├─ Salt Lantern Village
+       ├─ Eastern Star Prefecture / Salt Lantern Village
        ├─ Frontier–Maritime Relay ━ Beiguan
        └~~~ coastal and open-water leg ~~~ Cangqiong Harbor
            → Tianhai Yunzhou (floating island)

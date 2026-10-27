@@ -3,6 +3,8 @@
 **Scope:** Navigation index for Tianhai Yunzhou canon and NPC references within `Antarezka/merzkava-universe`.
 **Status:** This is the permanent in-repository regional directory under the current architecture, not a staging area for an external repository. Regional facts remain in `world/REGION_TIANHAI_YUNZHOU.md` and its linked canonical modules; NPC registries and profiles are linked below.
 
+**Connected world tree and transit:** [WORLD_NAVIGATION_TREE.md](../../world/WORLD_NAVIGATION_TREE.md) connects this regional branch to the other two major powers and lists established transit corridors. It is a navigation aid; follow the linked canon sources for details.
+
 ## NPC loading order
 
 1. Read the central [INDEX](../../INDEX.md), [Authority Order](../../templates/AUTHORITY_ORDER.md), and [NPC Management](../../world/NPC_MANAGEMENT.md).

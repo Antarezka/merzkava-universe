@@ -39,7 +39,22 @@ MERZKAVA UNIVERSE
 │   │   │   └── Northwatch Prefecture
 │   │   └── Xingluo → Dongxing
 │   │       └── Eastern Star Prefecture
-│   ├── County circuits: 6; official named villages: 13
+│   ├── Six county circuits (cross-prefecture service layer)
+│   │   ├── Imperial Heartland Circuit → Huanglong + Jade Seal
+│   │   ├── Riverlands Circuit → Qinghe + Jiangbei
+│   │   ├── Mineral Lands Circuit → Jadevein + Ironcloud
+│   │   ├── Scholarly Heights Circuit → Heavenly Script + Cloud Summit
+│   │   ├── Furnace Mountains Circuit → Red Furnace + Ashen Peak
+│   │   └── Frontier–Maritime Circuit → Northwatch + Eastern Star
+│   ├── 13 officially registered named villages
+│   │   ├── Longyuan → Dragonwell Village, Willowbend Village
+│   │   ├── Canglan → Reedbank Village, Fish Lantern Village
+│   │   ├── Jinyue → Orebrook Village, Jade Hollow Village
+│   │   ├── Tianfeng → Inkstone Village, Crane Rest Village
+│   │   ├── Yanling → Ashbrook Village, Ember Hollow Village
+│   │   ├── Baiyue → Watchfire Village, Stonegate Village
+│   │   └── Xingluo → Salt Lantern Village
+│   ├── Other named hamlets/local settlements → see the atlas; not official villages
 │   ├── Local modules: world/REGION_LONGYUAN.md, REGION_CANGLAN.md,
 │   │   REGION_JINYUE.md, REGION_TIANFENG.md, REGION_YANLING.md,
 │   │   REGION_BAIYUE.md, REGION_XINGLUO.md
@@ -104,7 +119,9 @@ using the two established corridors. A direct GDE–Beiming route is NOT establi
 
 ### Golden Dragon Empire administrative hierarchy
 
-The atlas is authoritative for the seven regions, twelve prefectures, six county circuits, and thirteen officially registered named villages. The tree lists regional seats and prefectures for navigation; consult the atlas for county-circuit membership, village classification, and exact parent relationships. Do not revive superseded counts or promote hamlets to official villages.
+The atlas is authoritative for the seven regions, twelve prefectures, six county circuits, and thirteen officially registered named villages. The tree lists the established regional seats, prefectures, circuits, and official village roster for navigation. County circuits coordinate two prefectures each; they are a cross-prefecture service layer, not another region or a tiny district nested under one prefecture. Consult the atlas for exact parent relationships, the 21 separately classified hamlets/local settlements, and the named local route framework. Do not revive superseded counts or promote hamlets to official villages.
+
+The atlas also establishes these six named administrative corridors: **Imperial Dragon Road** (Huanglongcheng ↔ Yuxi), **Twin River Route** (Qinghe ↔ Jiangbei), **Ore Vein Road** (Yumai ↔ Tieyun), **Cloudstep Scholar Road** (Tianshu ↔ Yunding), **Furnace Spine Road** (Honglu ↔ Huifeng), and **Frontier–Maritime Relay** (Beiguan ↔ Eastern Star). The last is a staged land/sea administrative relay, not one direct road. These route names do not establish exact distances or travel times; use the atlas and local regional modules for route legs and constraints.
 
 ### Tianhai Yunzhou district hierarchy
 

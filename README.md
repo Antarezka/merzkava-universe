@@ -64,17 +64,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <div align="center">
 
-*✦ INDEPENDENT RP BENCHMARK ✦*
-
-<table align="center" width="100%">
-<tr>
-<td align="center" bgcolor="#FFFFFF">
-<strong><span style="color:#151515">MERZKAVA UNIVERSE — RP SYSTEM BENCHMARK</span></strong>
-</td>
-</tr>
-</table>
-
-**SNAPSHOT: HASH ``e1152a8`` · VER ``Nightly-v2.4.106``**
+![MERZKAVA UNIVERSE — RP SYSTEM BENCHMARK](assets/rp-benchmark-banner.svg?v=1)
 
 </div>
 

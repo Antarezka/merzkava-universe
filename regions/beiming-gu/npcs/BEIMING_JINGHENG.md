@@ -9,7 +9,10 @@
 - Age: 17
 - Species / people: Human.
 - Family: Adoptive son of Beiming Han; adoptive brother of Beiming Xenhwa.
-- Current location: Beiming Gu is his established regional affiliation; exact current whereabouts are not established.
+- Home / usual residence: Beiming Gu; exact home, district, and residence are not established.
+- Usual base / duty location: No separate duty location or formal institutional base is established.
+- Last confirmed location / current whereabouts: Beiming Gu affiliation is established; exact current whereabouts are not confirmed.
+- Recurring visits / cover locations: No recurring visits or cover identity are established.
 - Occupation / formal rank: Not established.
 
 ## 2. Public Profile

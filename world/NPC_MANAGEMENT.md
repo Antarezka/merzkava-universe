@@ -64,7 +64,22 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for detailed recurring/major NPC profile
 
 ## 5. Local placement and realism
 
-1. Check the location/settlement description, its local NPC table, relevant official rosters, faction membership, and known routes.
+### A. Required location fields for every established NPC profile
+
+Every established recurring/major NPC profile must distinguish these location fields. Use the same field names across all three regional branches:
+
+- **Home / usual residence:** the canon-supported home area, district, settlement, residence, or institution, from broadest to most specific.
+- **Usual base / duty location:** where the NPC normally works, governs, studies, or serves, only when distinct or relevant.
+- **Last confirmed location / current whereabouts:** the last location established by canon or gameplay; do not imply continuous presence.
+- **Recurring visits / cover locations:** known repeat destinations, disguises, or temporary patterns, clearly distinguished from a permanent home or official membership.
+
+Use official map names and the most specific level actually supported by canon (for example, region → district/area → settlement/institution → named building). Do not invent a palace, street, campus placement, district, coordinates, or route to make a field look complete. If a finer location is unknown, write **“Exact district/building not established”** or **“Belum ditetapkan”**. For a character with only a regional affiliation, record that region as the broad home/affiliation and keep the precise residence unknown.
+
+A recurring visit is not a permanent transfer. A disguise is not proof of official enrollment or employment. A home location does not prove the NPC is currently there. The GM must use the route network and current events when moving an NPC between locations; never teleport an NPC merely because the story needs them.
+
+## 5. Local placement and realism
+
+1. Check the location/settlement description, its local NPC table, relevant official rosters, faction membership, and known routes. Fill each profile's home/base/last-confirmed-location fields only from those sources.
 2. Match occupation, resources, authority, and services to the settlement. A remote village does not automatically have capital-level services or elite experts.
 3. An NPC's presence in a regional module does not prove they are physically present in the current scene, available to meet, or known to the player.
 4. An NPC's temporary location change does not automatically change their canonical home or the in-repository location of their canonical profile.

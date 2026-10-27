@@ -102,16 +102,26 @@ MERZKAVA UNIVERSE
     ├── Transit node: Beiming Heartland Sky Transit Terminal
     └── NPCs: regions/beiming-gu/INDEX.md → npcs/REGISTRY.md → relevant profile
 
-CROSS-POWER TRANSIT
-├── Golden Dragon Empire: Longyuan Terminal
-│   └── dedicated liquefied-energy passenger aircraft ↔ Cangqiong Terminal
-│       └── Tianhai Yunzhou
-└── Beiming Gu: Beiming Heartland Terminal
-    └── dedicated liquefied-energy passenger aircraft ↔ Cangqiong Terminal
-        └── Tianhai Yunzhou
+CROSS-POWER TRANSIT — THREE CONNECTED POWER NODES
+├── Golden Dragon Empire: Longyuan Sky Transit Terminal
+│   ├── dedicated liquefied-energy passenger aircraft ↔ Cangqiong Terminal
+│   │   └── Tianhai Yunzhou
+│   └── dedicated liquefied-energy passenger aircraft ↔ Beiming Heartland Terminal
+│       └── Beiming Gu
+├── Tianhai Yunzhou: Cangqiong Sky Transit Terminal
+│   ├── dedicated liquefied-energy passenger aircraft ↔ Longyuan Terminal
+│   │   └── Golden Dragon Empire
+│   └── dedicated liquefied-energy passenger aircraft ↔ Beiming Heartland Terminal
+│       └── Beiming Gu
+└── Beiming Gu: Beiming Heartland Sky Transit Terminal
+    ├── dedicated liquefied-energy passenger aircraft ↔ Cangqiong Terminal
+    │   └── Tianhai Yunzhou
+    └── dedicated liquefied-energy passenger aircraft ↔ Longyuan Terminal
+        └── Golden Dragon Empire
 
-Golden Dragon Empire ↔ Beiming Gu: connected indirectly through Tianhai Yunzhou
-using the two established corridors. A direct GDE–Beiming route is NOT established.
+All three powers have a direct mapped connection to each other. The GDE–Beiming corridor uses
+the same Beiming Heartland Sky Transit Terminal as the Tianhai–Beiming corridor; it is a
+separate origin-to-destination edge, not a requirement to transfer through Tianhai Yunzhou.
 ```
 
 > **Tree-reading rule:** A branch shows source hierarchy and known geographic organization. It does not prove that every child location has a direct road, that every district is internally mapped, or that all routes are open. For actual movement, use the route edges in §3.
@@ -144,7 +154,7 @@ The seven district names and broad identities are established in one consolidate
 |---|---|---|---|---|---|---|
 | Longyuan Sky Transit Terminal ↔ Cangqiong Sky Transit Terminal | Both directions | Dedicated Tianhai Yunzhou liquefied-energy Artificial Artifact passenger aircraft | **25 xc per passenger, round trip** | **05:00–21:00 local terminal time** | No intermediate stop established; exact duration, departure frequency, and aircraft capacity unknown | Established corridor |
 | Beiming Heartland Sky Transit Terminal ↔ Cangqiong Sky Transit Terminal | Both directions | Dedicated Tianhai Yunzhou liquefied-energy Artificial Artifact passenger aircraft | **25 xc per passenger, round trip** | **05:00–21:00 local terminal time** | No intermediate stop established; exact duration, departure frequency, and aircraft capacity unknown | Established corridor |
-| Golden Dragon Empire ↔ Beiming Gu directly | Neither direction confirmed | None established | Not established | Not established | No direct route or timetable established | **Unknown edge — do not invent** |
+| Longyuan Sky Transit Terminal ↔ Beiming Heartland Sky Transit Terminal | Both directions | Dedicated Tianhai Yunzhou liquefied-energy Artificial Artifact passenger aircraft | **25 xc per passenger, round trip** | **05:00–21:00 local terminal time** | No intermediate stop established; exact duration, departure frequency, and aircraft capacity unknown | Established direct corridor; same Beiming destination terminal as the Tianhai–Beiming service |
 
 ### Connected travel between all three powers
 
@@ -152,8 +162,8 @@ The established network is connected as a graph through Tianhai Yunzhou:
 
 - **Golden Dragon Empire → Tianhai Yunzhou:** use Longyuan Sky Transit Terminal ↔ Cangqiong Sky Transit Terminal.
 - **Beiming Gu → Tianhai Yunzhou:** use Beiming Heartland Sky Transit Terminal ↔ Cangqiong Sky Transit Terminal.
-- **Golden Dragon Empire → Beiming Gu (or reverse):** the only currently established mapped option is a two-leg journey via Tianhai Yunzhou. The traveler must complete the first corridor, enter/transfer within Tianhai Yunzhou under applicable access rules, then use the second corridor. This is a graph path, not a direct flight.
-- The **25 xc fare is a round-trip fare for each listed corridor**, not a one-way fare. Do not derive a one-way price or invent a bundled GDE–Beiming fare. For a multi-leg itinerary, verify ticket conditions and the fare basis rather than assuming the total is automatically priced.
+- **Golden Dragon Empire ↔ Beiming Gu:** a direct corridor connects Longyuan Sky Transit Terminal and Beiming Heartland Sky Transit Terminal. It uses the same Beiming destination terminal as the established Tianhai Yunzhou–Beiming Gu corridor; travel does not require a transfer through Tianhai Yunzhou.
+- The **25 xc fare is the standard round-trip fare per passenger for each dedicated energy-aircraft corridor**, including the direct Longyuan–Beiming Heartland corridor. Do not infer a one-way price, bundled fare, exact duration, or departure time.
 - When the dedicated aircraft service is closed or unavailable, ordinary Qi-powered flying ships are established as a 24-hour alternative subject to access and operating conditions. A comparable round trip costs **86 xc per passenger**. Do not infer exact departure times, duration, or guaranteed availability.
 - Aircraft service may be suspended for weather, security, maintenance, or fuel-supply disruption. Check current events and scene conditions before resolving travel.
 - Transit hours use each terminal's local time. Exact time-zone offsets and flight duration are not established.

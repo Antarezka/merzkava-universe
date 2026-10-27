@@ -287,32 +287,43 @@ Item-ledger requirements:
 9. The item ledger is an audit trail, not a replacement for the character profile's Inventory, Equipment, or Assets fields and not authorization to create a separate profile field or module. Maintain it in the ongoing session record/history so it can be continued and checked across turns.
 10. Before finalizing any gameplay response that changes items, verify the item-ledger entries, quantities and resulting states, related money-ledger entries, and displayed profile. Do not claim the ledger has been permanently saved to GitHub unless the repository write was actually completed and verified.
 
-### Visible LEDGER LOG in Gameplay Responses
+### Unified Ledger, Natural Change Markers, and Immersive Narration
 
-The money and item ledgers above are mandatory audit records. The same player-facing reporting standard also applies to every actual Satiety change. Show one concise, unified LEDGER LOG whenever Satiety, money, items, equipment, loot, or assets change; include only fields relevant to that event.
+The money and item ledgers above are mandatory audit records. The same reporting standard applies to every actual Satiety change and every tracked change to Equipment, loot, or Assets. Keep the full chronological, append-only audit trail in ongoing session history; the visible block is a compact player-facing summary, not proof of a GitHub write.
 
-**Required response order:** natural in-world narrative → explicit change report with before, delta, and after for every affected field → inline-code `Log tercatat!` after the relevant sentence, only once the result is verified → one visible `LEDGER LOG` → updated canonical character profile. For Satiety, the **full session audit record** must include the activity/consumption cause, elapsed duration where relevant, activity category, every multiplier actually applied, calculation, Satiety before, signed change, and Satiety after. The **visible compact report/log** needs only the relevant Satiety before → change → after values, plus category/duration when useful; do not force every multiplier into the player-facing block. For consumption, state the exact item name, quantity, actual effect, and resulting Inventory/Satiety in the combined event report/log as appropriate. Include the economic tier/quality when it is known or materially relevant; ordinary goods may use their routine economic category without specialist appraisal. For special or disputed classifications, follow `core/TIER_ASSESSMENT_AND_APPRAISAL.md` and clearly distinguish canon, official MAA ruling, and provisional GM prediction. Never present a prediction as official. For money/items/assets, include the known name, quantity, relevant tier/quality, source/recipient, and amount in the audit trail; keep the visible log concise. Do not add a separate confirmation line. If no tracked field changed, omit marker and log. The marker confirms a session-ledger entry, not a GitHub write.
+**Required response order:** immersive in-world narration and relevant active dialogue → natural in-narrative report of each verified change with before → signed change → after → inline-code `Log tercatat!` exactly once after the report → one combined visible `LEDGER LOG` → reconciled character profile. A transaction must be described naturally in the narration itself, not hidden in the ledger alone. During passive player conversation, keep the scene alive with relevant sensory detail, active NPC dialogue/reactions, and local activity supported by canon, location, time, NPC knowledge, and established agendas. Do not force random events, invent facts, or take control of the player's character.
 
-Use this compact mobile-friendly format. Include only affected fields, but preserve before → change → after for each changed state. A purchase followed by immediate consumption is **one combined event and one visible log**, not separate logs for payment, Inventory, and Satiety.
+**Inline change-marker convention:** place the marker inside the natural narrative/change-report sentence:
+- `**🝰 MASUK · [item/uang + jumlah]** ``⧟ [Tier/Grade/Rarity/Quality/Unknown jika diketahui atau relevan]``` for a verified increase to the player's holdings/balance.
+- `**🝰 KELUAR · [item/uang + jumlah]** ``⧟ [Tier/Grade/Rarity/Quality/Unknown jika diketahui atau relevan]``` for a verified decrease, expense, consumed item, outgoing transfer, loss, or sale.
+- For an exchange, show separate MASUK and KELUAR markers in the same narrative report, then use one combined ledger block. Use `🝰 PERUBAHAN` only for a verified condition/location change that is neither an inflow nor an outflow.
+- Include only supported, relevant attributes. For an unidentified item, use the exact name `*Unknown* *membutuhkan appraisal untuk lebih pastinya*`; never invent its tier, grade, rarity, quality, price, or function. Ordinary goods with clear identities may use routine market categories; missing specialist appraisal alone does not make an everyday item's identity unknown.
+- After the complete verified change sentence, write inline-code `Log tercatat!` exactly once. It confirms a session-ledger entry, not a GitHub write. Do not add another confirmation line.
+
+**Example pattern only (replace all values with verified session state):** “Pedagang itu menerima 23 xc dan menyerahkan satu roti. Wallet: [saldo awal] → −23 xc → [saldo akhir]; Inventory: 0 → +1 roti → 1. **🝰 KELUAR · 23 xc** ``⧟ Xuan Copper`` · **🝰 MASUK · 1× roti** ``⧟ Tier 1 / kualitas rutin``. `Log tercatat!`” For Satiety changes, include before → delta → after and the cause/duration or consumed item when relevant. If Satiety does not change, still state its current value and why; do not create a ledger solely for an unchanged value.
+
+Use this mobile-friendly visible format; include only affected fields and preserve before → change → after:
 
 ```text
 ╭─ LEDGER LOG · #[ID]
-│ [Waktu] · [Status]
-│ Item: [nama · kualitas/tier jika diketahui atau relevan; untuk barang umum gunakan kategori ekonomi rutin · ×jumlah → Inventory akhir]
-│ Uang: [saldo awal → −biaya bersih → saldo akhir; kembalian jika ada]
-│ Satiety: [awal → ±delta → akhir · kategori/durasi jika relevan]
+│ Peristiwa/Aksi: [aksi/peristiwa penyebab perubahan]
+│ [Waktu] · [Berhasil/Gagal/Dibatalkan]
+│ 🝰 Item/Equipment/Loot/Aset: [MASUK/KELUAR · nama · ×jumlah · ⧟ tier/grade/rarity/quality/Unknown jika relevan · sumber/tujuan · awal → perubahan → akhir]
+│ 🝰 Uang: [MASUK/KELUAR · sumber/penerima · jumlah · saldo awal → perubahan bersih → saldo akhir · kembalian jika ada]
+│ Satiety: [awal → ±delta → akhir · penyebab/kategori/durasi jika relevan]
 ╰─
 ```
 
-Omit unaffected lines. If several items change, list them compactly on the same item line; if payment uses a larger denomination, add a brief note for amount paid, price, and change returned. Never invent a tier, price, quantity, or Satiety effect. The visible log is intentionally concise; keep the detailed append-only audit trail in session history.
+For multiple item movements, use one concise subentry per distinct movement under the same event ID. For a payment with a larger denomination, reconcile amount handed over, price, change returned, and net expense. A purchase followed by immediate consumption is one combined event and one visible log, not separate logs for payment, Inventory, and Satiety.
 
-Visible-log rules:
-1. Show the change report and log after the narrative and before the character profile; do not put transaction narration after the profile.
-2. For purchases, sales, and consumption, show all affected money, item, and Satiety changes in the same compact visible event and one log; cross-reference detailed audit entries only when useful. Ensure the Wallet, Inventory, and Satiety in the profile match the verified closing state.
-3. For payment using a larger denomination, separately show the amount handed over, item/service price, change returned, and net expense. Example: 1 xs paid for a 23 xc item means 77 xc change and a net expense of 23 xc, assuming the transaction was completed as described.
-4. If a transaction fails or is cancelled, show its true status only when the event materially affects the response; do not record an expense, income, or item transfer that did not occur. If a deposit, partial payment, debt, barter, or refund actually changes state, record only the change that occurred.
-5. Keep the full chronological, append-only ledger in the ongoing session history. The visible block is a player-facing summary, not a substitute for the complete audit details specified above.
-6. Do not display a ledger on turns with no tracked state change. Satiety must still be mentioned after every latest activity even when it remains unchanged; in that case explain why and do not add a ledger unless another tracked state changed. Do not add ledger fields to the canonical character profile and do not claim permanent GitHub persistence unless an actual repository write is completed and verified.
+Audit rules:
+1. Record each distinct money transaction and item movement as its own chronological, append-only audit entry, even when linked under one visible event. Cross-reference related money/item entries.
+2. Show one combined visible ledger for all state changes from the same action/event. Wallet, Inventory, Equipment, Assets, and Satiety must match the verified closing state.
+3. If a transaction fails or is cancelled, do not record money/item changes that did not occur. Record only the verified portion of partial payment, deposit, debt, barter, refund, or transfer.
+4. If no tracked state changed, omit both `Log tercatat!` and the visible ledger. Satiety must still be mentioned after the latest activity, even if unchanged.
+5. Keep full Satiety calculation details in session history: cause, duration, activity category, every applied multiplier, calculation, before, signed change, and after. The visible log may stay concise.
+6. Before sending, reconcile the cause, money and item entries, quantities, currency conversion/change, relevant item quality/tier, Satiety, and resulting profile. If prior ledger history is missing or truncated, disclose the gap and reconcile from the latest verifiable state without inventing history.
+7. The ledger is not a profile field and does not replace the character profile. Do not claim permanent GitHub persistence unless a repository write was completed and verified.
 
 ## 8. Global Wealth Distribution
 

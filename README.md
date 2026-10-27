@@ -66,7 +66,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![WORLD UPDATE LOG](https://img.shields.io/badge/WORLD_UPDATE_LOG-FFFFFF?style=for-the-badge&labelColor=151515)
 
-![NIGHTLY](assets/nightly-version.svg?v=2) <sub>v1.4.102</sub> &nbsp; ![STABLE](assets/stable-version.svg?v=1) <sub>v1.0.0</sub>
+![NIGHTLY](assets/nightly-version.svg?v=2) <sub>v1.4.103</sub> &nbsp; ![STABLE](assets/stable-version.svg?v=1) <sub>v1.0.0</sub>
 
 **✦ ──── ❖ ──── ✦**
 
@@ -78,9 +78,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
-- ✦ **README Update Log Formatting Standard**  
+- ✦ **Player Converse Header Separator**  
   Hash: ``a084f84`` | Ver: ``Nightly-v1.4.100``  
-  Future README updates use double backticks for Hash and Ver labels for both Nightly and Stable. Each update summary is limited to six bullets, with each bullet description kept to four lines or fewer.
+  Standardized the Nightly header separator to use a regular hyphen, keeping the displayed version format consistent.
 
 - ✦ **Unified NPC Discovery Order Across INDEX and Authority**  
   Regional INDEX → local NPC table → registry/official roster → canonical profile, with consistent handling of descriptive references and continuity.

@@ -2,7 +2,11 @@
 
 This specialist router is loaded only when regional, NPC, settlement, or territorial canon is relevant. The central `INDEX.md` remains the bootstrap and general navigation entry point.
 
-## 1. Regional Modules and NPC References
+## 1. Connected Tree and Transit Entry
+
+For the full connected navigation tree across all three major powers, their established regional branches, canonical source paths, and the inter-power transit graph, start at [`world/WORLD_NAVIGATION_TREE.md`](WORLD_NAVIGATION_TREE.md). It is a navigation index, not a replacement for source files. For travel, verify each edge in `world/LOCATION_AND_ROUTE_NETWORK.md`, `world/GEOGRAPHY_AND_TRAVEL.md`, both endpoint regional modules, and `gameplay/TIME_AND_ACTION_RULES.md`. The confirmed cross-power graph has two dedicated corridors through Tianhai Yunzhou; a direct Golden Dragon Empire–Beiming Gu route is not established.
+
+## 2. Regional Modules and NPC References
 
 The three major powers are **Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu**. They are represented by regional folders/modules inside this one repository, not separate GitHub repositories. Canonical full NPC profiles and registries are maintained under `regions/<power>/npcs/`; the regional INDEX and registry guide NPC lookup, while the relevant regional module remains the source for established regional/location context unless another canonical source is explicitly linked. For Beiming Gu, the single canonical module is `world/REGION_BEIMING_GU.md`. Legacy `world/NPC_*.md` files must be inspected individually: treat each as a legacy source until its actual contents confirm that it is a compatibility pointer. Do not invent missing canon from scaffold headings. For NPC handling, use `world/NPC_MANAGEMENT.md`, the relevant regional module, the regional NPC registry, and `templates/NPC_PROFILE_TEMPLATE.md`.
 

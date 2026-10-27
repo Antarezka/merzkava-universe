@@ -84,7 +84,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 - ✦ **Unified NPC Discovery Order Across INDEX and Authority**  
   Regional INDEX → local NPC table → registry/official roster → canonical profile, with consistent handling of descriptive references and continuity.
-  Unidentified items now use the exact player-facing label `*Unknown* *membutuhkan appraisal untuk lebih pastinya*` across gameplay, character profiles, inventory, equipment, loot, transactions, artifacts, and consumption records. Appraisal reveals only facts supported by its findings; unknown prices, tiers, functions, rarity, and dangers must not be invented.
+  Unidentified items now use the exact player-facing label ``*Unknown*`` **membutuhkan appraisal untuk lebih pastinya** across gameplay, character profiles, inventory, equipment, loot, transactions, artifacts, and consumption records. Appraisal reveals only facts supported by its findings; unknown prices, tiers, functions, rarity, and dangers must not be invented.
 
 - ✦ **Gameplay Hash + Nightly Version Header**  
   Player Converse now requires a seven-character Hash from the active pinned snapshot and the Nightly version from that same snapshot's `NIGHTLY_VERSION.md`. The identity line appears immediately above the Merzkava time header.
@@ -96,8 +96,8 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
   Beast Age Grade uses actual specimen age and classifies age only—not Beast category, Spirit Realm, or appraisal strength. Grade 9 starts at 500,000 years and has no hard upper limit.
 
 - ✦ **Unified Ledger and Immersive Converse Narration**  
-  Hash: ``31cab97`` | Ver: ``Nightly-v1.4.102``  
-  Money, item, and Satiety changes share one verified ledger flow; unidentified item labels now format ``Unknown`` with double backticks consistently.
+  Hash: ``37eb326`` | Ver: ``Nightly-v1.4.103``  
+  Classification labels use double-backtick italic terms with explanations outside; resolved chance, combat, gacha, and formula results use four-asterisk wrappers.
 
 <div align="center">
 

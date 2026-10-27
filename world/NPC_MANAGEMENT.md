@@ -66,6 +66,16 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for detailed recurring/major NPC profile
 
 ### A. Required location fields for every established NPC profile
 
+### High-ranking NPC residence and travel tendency
+
+High-ranking figures—such as sovereigns, senior rulers, clan heads, senior institutional leaders, and exceptionally powerful figures—normally remain at their established residence or principal base and travel relatively rarely. The GM should treat their residence as the default likely location, not assume they are wandering around the world or conveniently present wherever the player goes.
+
+They may leave for a credible reason grounded in their duties, goals, security needs, relationships, emergencies, or established events. Record confirmed journeys and last-known whereabouts; do not invent routine trips or claim they are physically present without support. This is a behavioral tendency, not an absolute restriction.
+
+**Explicit exception — Beiming Nerva:** Nerva frequently turns up in Tianhai Yunzhou and sometimes uses a student disguise at Beichen Cultivator Academy. Preserve this established recurring behavior; do not apply the usual stay-at-home tendency to her as if she were an ordinary high-ranking NPC. Her visits still do not mean she is always there.
+
+### A. Required location fields for every established NPC profile
+
 Every established recurring/major NPC profile must distinguish these location fields. Use the same field names across all three regional branches:
 
 - **Home / usual residence:** the canon-supported home area, district, settlement, residence, or institution, from broadest to most specific.

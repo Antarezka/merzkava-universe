@@ -64,7 +64,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <div align="center">
 
-![MERZKAVA UNIVERSE — RP SYSTEM BENCHMARK](assets/rp-benchmark-banner.svg?v=2)
+![MERZKAVA UNIVERSE — RP SYSTEM BENCHMARK](assets/rp-benchmark-banner.svg?v=3)
 
 </div>
 
@@ -174,8 +174,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
-- ✦ **Independent RP System Benchmark — Editorial SVG Redesign**  
-  Reworked the banner into an asymmetric editorial layout with generous white space, crisp black typography, and restrained coral, orange, and yellow geometric accents. The visitor-facing snapshot hash/version line remains removed.
+- ✦ **Independent RP System Benchmark — Investigation Dossier Redesign**  
+  Hash: ``b37bd38`` | Ver: ``Nightly-v2.4.106``  
+  Replaced the geometric banner with skewed case-file paper, a metal corner clip, crimson review stamp, evidence labels, and handwritten-style annotations. Cache reference advanced to `v=3`.
 
 - ✦ **Regional Canon Load Path and Cross-Reference Validation**  
   Regional scenes must follow the canon router, load relevant local authorities, and reconcile conflicts through the binding precedence rules.

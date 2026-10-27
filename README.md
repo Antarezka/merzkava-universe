@@ -85,7 +85,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <sub>Mechanics & progression · 9.0 / 10</sub>
 
-<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱</span>
+<span style="color:#F25C54">▰▰▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱</span>
 
 <sub>Cultivation realms, Martial Souls, Spirit Rings, Spirit Beasts, Sync progress, eligibility conditions, and defined character-state fields.</sub>
 
@@ -93,7 +93,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <sub>State tracking & continuity · 9.0 / 10</sub>
 
-<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱</span>
+<span style="color:#F25C54">▰▰▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱</span>
 
 <sub>Character profiles track HP, Satiety, Qi, equipment, inventory, building assets, and the five-denomination Xuan currency wallet.</sub>
 
@@ -101,7 +101,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <sub>Rule hierarchy & source control · 9.2 / 10</sub>
 
-<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰</span><span style="color:#FFE066">▰</span><span style="color:#D9D9D9">▱</span>
+<span style="color:#F25C54">▰▰▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱</span>
 
 <sub>Authority and gameplay templates define source precedence, validation requirements, and boundaries for unsupported mechanics and hidden information.</sub>
 
@@ -109,7 +109,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <sub>Long-term simulation potential · 8.5 / 10</sub>
 
-<span style="color:#F25C54">▰▰▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰▰▰▰▰▰▱</span><span style="color:#D9D9D9">▱▱▱</span>
+<span style="color:#F25C54">▰▰▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱▱</span>
 
 <sub>NPC priorities, regional resources, travel risks, trade, political tensions, and lasting consequences provide systems for ongoing world activity.</sub>
 

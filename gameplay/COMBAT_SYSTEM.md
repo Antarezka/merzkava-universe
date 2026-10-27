@@ -5,6 +5,8 @@
 
 ## 1. Core Rules
 
+**Player-facing result formatting:** whenever a resolved combat outcome or formula-derived combat value is reported, wrap the final result in four asterisks on both sides, using `****<hasil final>****`. This includes hit/miss, initiative roll outcome, hit chance/roll outcome, damage, HP loss, injury severity/classification, and final combat status. Apply the universal classification-label format from `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` to any displayed tier, grade, quality, or similar label.
+
 - Use this module for combat resolution, `core/SPIRIT_RING_RULES.md` for PowerScale/Qi, `core/HP_SYSTEM.md` for maximum HP, `core/INJURY_SYSTEM.md` for injury classification and recovery, `gameplay/TIME_AND_ACTION_RULES.md` for elapsed time, and `core/HUNGER_AND_METABOLISM.md` for Satiety.
 - PowerScale is a baseline comparison, not a guaranteed hit or victory.
 - A turn is a combatant's opportunity to perform **one declared action**, not a limit of one physical hit. One action may contain multiple strikes or a combo when the move, declared intent, and circumstances support them.
@@ -69,7 +71,7 @@ Then apply only a defense that is actually present and relevant:
 | Strong | 40% |
 | Exceptional, explicitly supported | 50% maximum |
 
-Round final damage up to a whole HP; a successful damaging hit deals at least 1 HP. Record damage as `HP lost: N (X% of target maximum HP)`. Use target maximum HP as the damage base, but subtract the result from current HP. If current or maximum HP is unknown, do not fabricate it; consult `core/HP_SYSTEM.md`.
+Round final damage up to a whole HP; a successful damaging hit deals at least 1 HP. Record damage as `****HP lost: N (X% of target maximum HP)****`. Use target maximum HP as the damage base, but subtract the result from current HP. If current or maximum HP is unknown, do not fabricate it; consult `core/HP_SYSTEM.md`.
 
 ## 5. Multiple Hits and Combos
 

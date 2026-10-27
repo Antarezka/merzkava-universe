@@ -95,8 +95,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **Beast Age Grade Formula and Open-Ended Age Grade 9**  
   Beast Age Grade uses actual specimen age and classifies age only—not Beast category, Spirit Realm, or appraisal strength. Grade 9 starts at 500,000 years and has no hard upper limit.
 
-- ✦ **Pinned-Commit Roleplay Source and Automatic Hash Refresh**  
-  The README provides a copyable pinned commit for consistent gameplay sources. GitHub Actions refreshes the pin without letting the README chase its own update commit.
+- ✦ **Authority Hierarchy and Bootstrap Deduplication**  
+  Hash: ``7eb7a28`` | Ver: ``Nightly-v1.4.100``  
+  INDEX owns bootstrap and navigation; Authority Order owns GM decisions; the gameplay template owns the visual contract. NPC lookup details now live in the canonical router, player snapshots are read from `ACTIVE_SHA`, and Mortal is no longer labeled as Realm 0.
 
 <div align="center">
 

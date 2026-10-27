@@ -98,6 +98,14 @@ Azerion Forest extends from the Lawless Territories into **Golden Dragon Empire*
 
 The forest also has a distinct northern coastal exit associated with the lake ruins and the **Mega Colossal Labyrinth**. This is relevant to the approach from **Beiming Gu** along the northern coastline: the route is a dangerous ruined/labyrinth exit, not an ordinary surveyed road through Azerion Forest. The labyrinth's interior has no complete map; do not invent its internal corridors or treat the route as safe or guaranteed.
 
+## 3.1 Western Tianhai approach and shared Azerion connections
+
+The western side of Tianhai Yunzhou's floating position above the southwestern ocean faces a sea-side approach toward the **Lawless Territories**. The easiest known entrance to **Azerion Forest** lies in the Lawless Territories. This does not mean Tianhai Yunzhou is physically joined to the mainland by a road.
+
+Azerion Forest extends from Lawless Territories into **Golden Dragon Empire** territory. At the forest–empire boundary, a rushing river creates a trap-like barrier. A small island in the middle of this fast-water route is a prison island owned by Golden Dragon Empire. The river and island are obstacles, not a routine public crossing. The river name, exact banks, crossing method, island coordinates, and prison layout remain unspecified.
+
+A separate northern coastal exit is associated with the lake ruins and the **Mega Colossal Labyrinth**. This is relevant to the approach from **Beiming Gu** along the northern coastline: it is a dangerous ruined/labyrinth route, not an ordinary surveyed road through Azerion Forest. The labyrinth's interior has no complete map; do not invent its internal corridors or treat it as safe or guaranteed.
+
 ## 4. Azerion Forest and Inner Azerion
 
 **Azerion Forest** is a vast, dangerous forest and a major habitat for Spirit Beasts. It is one of the principal hunting grounds where humans seek Spirit Beasts for compatible Spirit Rings. The forest crosses territorial boundaries and extends from the Lawless Territories into the territory of the **Golden Dragon Empire**. **Dead Zone** is not another name for the whole forest: humans use that name for its deepest inner/core zone, which they know to avoid.

@@ -82,7 +82,7 @@ For the authoritative requirements, limitations, and GM rules, see `core/THINKER
 ## 6. Artifact Entry Template
 
 ```markdown
-### AAF-XXX — [Artifact Name]
+### AAF-XXX — [Known name, or `*Unknown* *membutuhkan appraisal untuk lebih pastinya*` if unidentified]
 - **Tier:** [Official tier or ???]
 - **Type / function:** [Documented function]
 - **Creator / Thinker:** [Known name or ???]

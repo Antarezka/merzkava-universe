@@ -76,6 +76,13 @@ The North's harsh climate and difficult access contribute to its isolation. Spec
 
 Lawless Territories are not one unified country. They include communities and groups outside the direct jurisdiction of the three major powers. Some areas are dangerous, but the term does not mean every settlement lacks local laws or ordinary residents. Their established underground economy, neutral refuge network, poor agricultural soil, illegal arenas, elite auctions, cross-border smuggling, and Azerion Forest are documented in world/LAWLESS_TERRITORIES.md. Azerion Forest's easiest known entrance lies in the Lawless Territories, while the forest extends into Golden Dragon Empire territory. It is a major Spirit Beast habitat and human Spirit Ring hunting ground. Humans call its deepest inner/core zone the Dead Zone and know to avoid it. A vast central lake contains mutated sea rocks and an entrance to ruins leading to the Mega Colossal Labyrinth, which is as vast as the Golden Dragon Empire and exits to the northern deep-sea coast. Its northern region contains Inner Azerion, a prosperous hidden city run economically by half-beast people and concealed by dense illusion fog; only veteran forest-goers and local hunter tribes know safe routes in. See the Lawless Territories module for full canon.
 
+### 5.0 Shared Azerion–Lawless–Tianhai–Beiming geographic links
+
+- The western side of Tianhai Yunzhou's floating position above the southwestern ocean faces a sea-side approach toward the **Lawless Territories**. The Lawless Territories contain Azerion Forest's easiest known entrance.
+- **Azerion Forest** extends from Lawless Territories into **Golden Dragon Empire** territory. At the empire-facing boundary, a rushing river forms a trap-like barrier, with a small Golden Dragon Empire prison island in the middle of the fast-water route. No river name, crossing, or island coordinates are established.
+- From **Beiming Gu**, the Azerion connection is along the northern coast to the forest's ruined/labyrinth exit. That exit connects to the underground ruins and Mega Colossal Labyrinth reached from the enormous central lake. It is not a normal road, and the labyrinth's interior remains unmapped.
+- Keep these as three different approaches: **Tianhai west → Lawless Territories → easiest forest entrance; Azerion Forest → rushing-river trap / prison island → Golden Dragon Empire; Beiming northern coast → ruined/labyrinth exit of Azerion Forest.** Do not collapse them into one road or infer a safe crossing.
+
 ### 5.1 Ashen Borderlands
 
 **General position:** Outside the western and southwestern borders of the Golden Dragon Empire.

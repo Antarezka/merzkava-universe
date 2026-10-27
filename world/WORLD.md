@@ -606,19 +606,19 @@ Nama-nama desa, sekte, dan organisasi dalam bagian ini merupakan usulan kanon aw
 
 IX. MEDICINE HALL SOCIETY
 
-5.1 Identitas dan fungsi
+9.1 Identitas dan fungsi
 
 Medicine Hall Society adalah jaringan tabib, alkemis, ahli pengobatan, dan praktisi penyembuhan yang beroperasi di berbagai wilayah Merzkava Universe.
 
 Mereka bukan kekuatan politik tunggal yang menguasai seluruh dunia. Pengaruhnya berasal dari kebutuhan masyarakat terhadap pengobatan, pengetahuan medis, ramuan, dan perawatan setelah pertempuran atau proses kultivasi yang berbahaya.
 
-5.2 Pusat utama
+9.2 Pusat utama
 
 Balai utama Medicine Hall Society berada di wilayah Golden Dragon Empire. Lokasi ini berfungsi sebagai pusat koordinasi, penyimpanan pengetahuan medis, pelatihan, serta pertukaran informasi di antara para praktisi.
 
 Keberadaan balai utama tidak berarti seluruh tabib di dunia berada di bawah kendali langsungnya. Tabib independen, keluarga medis, dan organisasi pengobatan lokal tetap dapat beroperasi di luar jaringan tersebut.
 
-5.3 Komunitas Tianhai Yunzhou
+9.3 Komunitas Tianhai Yunzhou
 
 Tianhai Yunzhou memiliki jaringan layanan Medicine Hall Society untuk penduduk pulau, pelaut, awak kapal, kultivator, pekerja pelabuhan, dan korban kecelakaan laut maupun industri. Titik layanan, cakupan, dan batas tiap lokasi ditetapkan dalam `world/REGION_TIANHAI_YUNZHOU.md` §14.3. Kehadiran titik layanan tidak menjamin tabib senior, persediaan lengkap, atau layanan gratis.
 
@@ -630,13 +630,13 @@ Spirit Hunters Guild memiliki jaringan kontrak lokal di Tianhai Yunzhou. Penempa
 
 Rincian fungsi dan batas setiap titik layanan dijabarkan dalam `world/REGION_TIANHAI_YUNZHOU.md`. Tianhai Yunzhou juga memiliki tepat satu Aula Agung Kebangkitan Martial Soul di pusat peradaban utamanya, sebagaimana masing-masing dari tiga kekuasaan utama memiliki satu Aula pada pusat peradabannya sendiri. Aula ini bukan jaringan cabang di seluruh kota atau distrik.
 
-5.4 Tabib keliling
+9.4 Tabib keliling
 
 Medicine Hall Society juga memiliki tabib keliling yang berpindah di antara kota, desa, jalur perdagangan, dan wilayah terpencil.
 
 Sebagian bekerja secara mandiri, sementara yang lain menerima penugasan dari balai atau komunitas setempat. Tabib keliling dapat ditemukan bahkan di Lawless Territories, meskipun perjalanan ke sana memiliki risiko besar.
 
-5.5 Netralitas dan batasan
+9.5 Netralitas dan batasan
 
 Medicine Hall Society berusaha mempertahankan reputasi sebagai penyedia pengobatan yang tidak secara otomatis berpihak pada satu kekuatan politik.
 
@@ -656,7 +656,7 @@ X. ORGANISASI LINTAS KEKUATAN
 
 Tiga organisasi berikut memiliki jaringan atau aktivitas di berbagai kekuatan besar. Keberadaan mereka tidak berarti seluruh cabang memiliki kekuatan, sumber daya, atau loyalitas yang sama.
 
-6.1 Night Veil Pavilion
+10.1 Night Veil Pavilion
 
 Organisasi yang berkaitan dengan pembunuhan bayaran, pengumpulan informasi rahasia, infiltrasi, dan pekerjaan tersembunyi.
 
@@ -664,7 +664,7 @@ Jaringannya dapat mencakup penghubung, informan, pelaksana misi, dan tempat pert
 
 Night Veil Pavilion bukan organisasi yang mahatahu. Informasi yang diperoleh bergantung pada jaringan, biaya, risiko, dan keberhasilan penyelidikan.
 
-6.2 Myriad Ledger Exchange
+10.2 Myriad Ledger Exchange
 
 Organisasi perantara yang bergerak dalam perdagangan informasi, pencarian kontak, penghubungan pembeli dan penjual, serta penyediaan informasi pasar.
 
@@ -672,7 +672,7 @@ Layanannya dapat digunakan untuk menemukan barang, tenaga ahli, peluang perdagan
 
 Myriad Ledger Exchange tidak menjamin bahwa semua informasi yang diperjualbelikan benar, lengkap, atau masih berlaku.
 
-6.3 Ninefold Concord Bank
+10.3 Ninefold Concord Bank
 
 Lembaga keuangan yang berusaha mempertahankan hubungan dengan berbagai kekuatan politik dan pusat perdagangan.
 
@@ -680,7 +680,7 @@ Aktivitasnya dapat mencakup penyimpanan kekayaan, transfer dana, pencatatan utan
 
 Netralitas Ninefold Concord Bank terutama bertujuan menjaga kepercayaan dan kelangsungan operasionalnya. Hal tersebut tidak membuat seluruh cabangnya kebal terhadap tekanan politik, perampokan, penipuan, atau konflik.
 
-6.4 Batasan organisasi
+10.4 Batasan organisasi
 
 Ketiga organisasi tersebut tidak otomatis memiliki kendali penuh atas setiap wilayah tempat mereka beroperasi.
 
@@ -698,20 +698,20 @@ Ekonomi Merzkava Universe berkembang melalui pertanian, kerajinan, pertambangan,
 
 Ketersediaan barang serta harga dapat berbeda berdasarkan lokasi, musim, jalur transportasi, kelangkaan bahan, risiko perjalanan, dan situasi politik.
 
-7.1 Perbedaan ekonomi antarwilayah
+11.1 Perbedaan ekonomi antarwilayah
 
 - Golden Dragon Empire: memiliki pusat pemerintahan, lahan pertanian, pertambangan, pusat akademi, bengkel artefak, dan pelabuhan perdagangan.
 - Tianhai Yunzhou: mengandalkan perdagangan maritim, pelayaran, sumber daya laut, pengolahan hasil tangkapan, dan industri artefak yang mendukung kehidupan di pulau terapung.
 - Beiming Gu: mengandalkan sumber daya wilayah utara, perburuan, bahan dari lingkungan dingin, hasil tambang, dan produksi yang menyesuaikan kondisi geografis.
 - Lawless Territories: memiliki perdagangan yang tidak stabil, barang selundupan, hasil eksplorasi, sumber daya berisiko tinggi, serta harga yang dapat meningkat karena minimnya pasokan.
 
-7.2 Harga dan ketersediaan
+11.2 Harga dan ketersediaan
 
 Tidak ada satu harga yang otomatis berlaku di seluruh dunia. Barang yang murah di pusat produksi dapat menjadi mahal di desa terpencil karena biaya transportasi dan risiko perjalanan.
 
 Barang langka tidak otomatis tersedia hanya karena seorang karakter memiliki uang. Ketersediaannya tetap bergantung pada pemasok, lokasi, hubungan, dan kondisi dunia.
 
-7.3 Modul ekonomi terpisah
+11.3 Modul ekonomi terpisah
 
 Aturan resmi mata uang, kurs, harga, kualitas barang, kelangkaan musiman, distribusi, penyesuaian pasar, dan transaksi ditetapkan di `core/10_ECONOMY_SYSTEM.md`. Gunakan modul itu sebagai satu-satunya acuan mekanik ekonomi. `world/WEALTH_DISTRIBUTION.md` hanya menetapkan baseline persebaran total kekayaan global, sedangkan `world/SOCIAL_STRATIFICATION.md` menjelaskan kelas sosial dan kondisi hidup; keduanya tidak menggantikan aturan kurs atau transaksi.
 
@@ -724,7 +724,7 @@ Merzkava Universe memiliki sejarah panjang yang belum seluruhnya diketahui oleh 
 
 Namun, tidak setiap reruntuhan merupakan peninggalan zaman purba, dan tidak setiap artefak kuat berasal dari peradaban kuno.
 
-8.1 Artefak Tianhai Yunzhou
+12.1 Artefak Tianhai Yunzhou
 
 Artefak Tingkat 9 yang menopang Tianhai Yunzhou merupakan hasil rekayasa dan pembuatan, bukan otomatis relik kuno yang ditemukan secara kebetulan.
 
@@ -732,13 +732,13 @@ Rincian mengenai pencipta, bahan, metode pembuatan, sumber energi, mekanisme pen
 
 GM tidak boleh mengarang rincian tersebut sebagai fakta kanon permanen tanpa penetapan lebih lanjut.
 
-8.2 Penemuan relik
+12.2 Penemuan relik
 
 Relik dapat ditemukan melalui eksplorasi, ekspedisi, perdagangan, penelitian, atau kejadian lain yang masuk akal.
 
 Keberadaan relik tidak menjamin karakter akan berhasil mendapatkannya. Lokasi, jebakan, penjaga, persaingan, kondisi fisik, serta konsekuensi penemuan tetap dapat memengaruhi hasil.
 
-8.3 Pengetahuan yang belum diketahui
+12.3 Pengetahuan yang belum diketahui
 
 Informasi sejarah yang hilang tidak otomatis diketahui oleh karakter, NPC, sekte, atau kerajaan.
 
@@ -804,7 +804,7 @@ END OF WORLD LORE & POLITICAL ATLAS
 
 ---
 
-X. WANLUO SACRED EXPANSE AND WORLD KNOWLEDGE TOWER
+APPENDIX — WANLUO SACRED EXPANSE AND WORLD KNOWLEDGE TOWER
 
 The World Knowledge Tower is an ancient divine relic from the Early Golden Age. It is not owned by the Shen family; the Shen family is one of several major parties entrusted with rights and responsibilities in administering it.
 

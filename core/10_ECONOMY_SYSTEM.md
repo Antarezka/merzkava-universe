@@ -75,7 +75,7 @@ The Golden Dragon Empire's public awakening visit generally occurs once every tw
 
 ### Unidentified item display and pricing
 
-If an item's identity, exact type, or relevant properties have not yet been established by canon or the GM, display it as ``*Unknown* *membutuhkan appraisal untuk lebih pastinya*`` in Inventory, Equipment, loot, transactions, and player-facing item descriptions. Use this exact label consistently; do not substitute `???`, `Belum ditetapkan`, or another generic placeholder for the unidentified item itself. Do not infer its price, quality tier, scarcity, effects, or danger from this label. Do not finalize an item-specific price or transaction-dependent description until the required identity/details are established; ordinary market items with known identities continue to use normal pricing without mandatory appraisal. Follow `core/TIER_ASSESSMENT_AND_APPRAISAL.md` for identification and appraisal. After appraisal, update only the facts actually established by the ruling.
+If an item's identity, exact type, or relevant properties have not yet been established by canon or the GM, display it as ``*Unknown*`` **membutuhkan appraisal untuk lebih pastinya** in Inventory, Equipment, loot, transactions, and player-facing item descriptions. Use this exact label consistently; do not substitute `???`, `Belum ditetapkan`, or another generic placeholder for the unidentified item itself. Do not infer its price, quality tier, scarcity, effects, or danger from this label. Do not finalize an item-specific price or transaction-dependent description until the required identity/details are established; ordinary market items with known identities continue to use normal pricing without mandatory appraisal. Follow `core/TIER_ASSESSMENT_AND_APPRAISAL.md` for identification and appraisal. After appraisal, update only the facts actually established by the ruling.
 
 ## 2. Nine Item-Quality Tiers
 
@@ -294,13 +294,13 @@ The money and item ledgers above are mandatory audit records. The same reporting
 **Required response order:** immersive in-world narration and relevant active dialogue → natural in-narrative report of each verified change with before → signed change → after → inline-code `Log tercatat!` exactly once after the report → one combined visible `LEDGER LOG` → reconciled character profile. A transaction must be described naturally in the narration itself, not hidden in the ledger alone. During passive player conversation, keep the scene alive with relevant sensory detail, active NPC dialogue/reactions, and local activity supported by canon, location, time, NPC knowledge, and established agendas. Do not force random events, invent facts, or take control of the player's character.
 
 **Inline change-marker convention:** place the marker inside the natural narrative/change-report sentence:
-- **🝰 MASUK · [item/uang + jumlah]** ``⧟ [Tier/Grade/Rarity/Quality/Unknown jika diketahui atau relevan]`` for a verified increase to the player's holdings/balance.
-- **🝰 KELUAR · [item/uang + jumlah]** ``⧟ [Tier/Grade/Rarity/Quality/Unknown jika diketahui atau relevan]`` for a verified decrease, expense, consumed item, outgoing transfer, loss, or sale.
+- **🝰 MASUK · [item/uang + jumlah]** ⧟ ``*<Tier/Grade/Rarity/Quality/Unknown>*`` [keterangan jika relevan] for a verified increase to the player's holdings/balance.
+- **🝰 KELUAR · [item/uang + jumlah]** ⧟ ``*<Tier/Grade/Rarity/Quality/Unknown>*`` [keterangan jika relevan] for a verified decrease, expense, consumed item, outgoing transfer, loss, or sale.
 - For an exchange, show separate MASUK and KELUAR markers in the same narrative report, then use one combined ledger block. Use `🝰 PERUBAHAN` only for a verified condition/location change that is neither an inflow nor an outflow.
-- Include only supported, relevant attributes. For an unidentified item, use the exact name ``*Unknown* *membutuhkan appraisal untuk lebih pastinya*``; never invent its tier, grade, rarity, quality, price, or function. Ordinary goods with clear identities may use routine market categories; missing specialist appraisal alone does not make an everyday item's identity unknown.
+- Include only supported, relevant attributes. For an unidentified item, use the exact name ``*Unknown*`` **membutuhkan appraisal untuk lebih pastinya**; never invent its tier, grade, rarity, quality, price, or function. Ordinary goods with clear identities may use routine market categories; missing specialist appraisal alone does not make an everyday item's identity unknown.
 - After the complete verified change sentence, write **`Log tercatat!`** exactly once. It confirms a session-ledger entry, not a GitHub write. Do not add another confirmation line.
 
-**Example pattern only (replace all values with verified session state):** “Pedagang itu menerima 23 xc dan menyerahkan satu roti. Wallet: [saldo awal] → −23 xc → [saldo akhir]; Inventory: 0 → +1 roti → 1. **🝰 KELUAR · 23 xc** ``⧟ Xuan Copper`` · **🝰 MASUK · 1× roti** ``⧟ Tier 1 / kualitas rutin``. **`Log tercatat!`**” For Satiety changes, include before → delta → after and the cause/duration or consumed item when relevant. If Satiety does not change, still state its current value and why; do not create a ledger solely for an unchanged value.
+**Example pattern only (replace all values with verified session state):** “Pedagang itu menerima 23 xc dan menyerahkan satu roti. Wallet: [saldo awal] → −23 xc → [saldo akhir]; Inventory: 0 → +1 roti → 1. **🝰 KELUAR · 23 xc** ⧟ ``*Xuan Copper*`` · **🝰 MASUK · 1× roti** ⧟ ``*Tier 1*`` / ``*kualitas rutin*``. **`Log tercatat!`**” For Satiety changes, include before → delta → after and the cause/duration or consumed item when relevant. If Satiety does not change, still state its current value and why; do not create a ledger solely for an unchanged value.
 
 Use this mobile-friendly visible format; include only affected fields and preserve before → change → after:
 
@@ -308,7 +308,7 @@ Use this mobile-friendly visible format; include only affected fields and preser
 ╭─ LEDGER LOG · #[ID]
 │ Peristiwa/Aksi: [aksi/peristiwa penyebab perubahan]
 │ [Waktu] · [Berhasil/Gagal/Dibatalkan]
-│ 🝰 Item/Equipment/Loot/Aset: [MASUK/KELUAR · nama · ×jumlah · ⧟ tier/grade/rarity/quality/Unknown jika relevan · sumber/tujuan · awal → perubahan → akhir]
+│ 🝰 Item/Equipment/Loot/Aset: [MASUK/KELUAR · nama · ×jumlah · ⧟ ``*tier/grade/rarity/quality/Unknown*`` [keterangan jika relevan] · sumber/tujuan · awal → perubahan → akhir]
 │ 🝰 Uang: [MASUK/KELUAR · sumber/penerima · jumlah · saldo awal → perubahan bersih → saldo akhir · kembalian jika ada]
 │ Satiety: [awal → ±delta → akhir · penyebab/kategori/durasi jika relevan]
 ╰─

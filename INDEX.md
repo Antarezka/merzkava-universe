@@ -96,7 +96,7 @@ Router regional mempertahankan detail yang sebelumnya berada di INDEX agar tidak
 ## 4. Standar pemeliharaan canon
 
 - NPC utama/berulang memiliki satu profil penuh canonical yang ditautkan registry; periksa roster sebelum membuat pejabat atau anggota faksi. NPC biasa/temporer mengikuti `world/NPC_MANAGEMENT.md`.
-- Data regional baru mengikuti urutan: identitas → geografi → permukiman/kehidupan → ekonomi/sumber daya → kultivasi/Spirit Beast/Thinker → faksi/otoritas → NPC → konflik/event → rute/panduan GM. Referensikan sumber bersama, jangan menduplikasinya.
+- Format dan urutan modul regional mengikuti `templates/REGIONAL_MODULE_TEMPLATE.md`; tanggung jawab folder dan kepemilikan sumber mengikuti `world/REGIONAL_REPOSITORY_ARCHITECTURE.md`. Referensikan sumber bersama, jangan menduplikasi data.
 - Jangan mengklaim event/proposal telah menjadi canon atau tersimpan tanpa persetujuan dan perubahan repo terverifikasi.
 
 ## 5. NPC navigation

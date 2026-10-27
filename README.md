@@ -218,7 +218,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <sub><span style="color:#555555">HOW TO PLAY?</span></sub>
 
-<img src="assets/authority-phantom.svg?v=3" alt="Discord icon — 🝰 Reach Authority_Phantom" width="210" />
+<img src="assets/authority-phantom.svg?v=4" alt="Discord icon — Reach 🝰 Authority_Phantom" width="210" />
 
 ### READY TO STEP INTO MERZKAVA?
 

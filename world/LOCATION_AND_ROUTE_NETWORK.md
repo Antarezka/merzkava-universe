@@ -20,7 +20,13 @@ Treat each named location as a node and each confirmed route as a separate conne
 
 Each route record should specify origin → destination; route type; access conditions; usual transport; known intermediate stops; travel-time source and estimate status; economic/social function; risks and disruptions; and canon source/confidence.
 
-## 3. Regional location-network table
+## 3. Connected three-power transit overview
+
+Use [`world/WORLD_NAVIGATION_TREE.md`](WORLD_NAVIGATION_TREE.md) as the cross-power navigation index and canonical transit summary. It maps the confirmed edges from Longyuan Sky Transit Terminal (Golden Dragon Empire) to Cangqiong Sky Transit Terminal (Tianhai Yunzhou), and from Beiming Heartland Sky Transit Terminal (Beiming Gu) to Cangqiong Sky Transit Terminal. Both dedicated liquefied-energy passenger-aircraft corridors operate 05:00–21:00 local terminal time and have a standard **25 xc per passenger round-trip fare**; exact duration and timetable remain unknown. Ordinary Qi-powered flying ships are a 24-hour alternative under normal access/operating conditions, with a comparable **86 xc round-trip fare**.
+
+Golden Dragon Empire and Beiming Gu are connected in the current confirmed graph only by the two-leg path through Tianhai Yunzhou. **No direct GDE–Beiming route is established.** Do not invent a direct edge, one-way fare, combined itinerary fare, duration, or guaranteed transfer. Resolve each leg separately and check current events and access conditions. The tree is a navigation aid; this file and the endpoint regional modules remain authoritative for route validation.
+
+## 4. Regional location-network table
 
 Every regional module should maintain a compact route table. Include only confirmed or explicitly owner-approved provisional routes.
 
@@ -30,7 +36,7 @@ Every regional module should maintain a compact route table. Include only confir
 
 Do not fill this table with fabricated connections merely to remove blanks. If the owner asks the GM to develop the region, proposed connections must first be labeled **Proposal — pending owner confirmation**.
 
-## 4. Connectivity and realism rules
+## 5. Connectivity and realism rules
 
 - Not every village connects directly to a city. Some destinations require passing through a bridge, ferry, village, pass, gate, or port.
 - Rivers, mountain ridges, ravines, forests, seas, walls, and hostile territory shape viable routes; do not draw straight-line roads through obstacles without an established crossing.
@@ -42,17 +48,17 @@ Do not fill this table with fabricated connections merely to remove blanks. If t
 - Travel can create encounters, delays, tolls, fatigue, cargo costs, rumors, and relationships when justified by location, time, and recorded conditions; these are not guaranteed events.
 - Route changes caused by floods, war, landslides, Spirit Beast activity, blockades, or political decisions must be supported by a recorded event or explicitly framed as a new scene event.
 
-## 5. Location-level life and economy
+## 6. Location-level life and economy
 
 For each major settlement or exploration anchor, describe when established: settlement role and approximate scale (no invented precise population totals); local authority; daily rhythm, customs, public services, and access limitations; local skills, labor, resources, and goods; imports and needs; actual markets, craft, transport, lodging, medical, education, or Thinker services; nearby points of interest and access; recurring NPCs and canonical profiles; and local conflicts or events.
 
 A small village may have a distinct economic role without needing a permanent profile for every resident or shop. Ordinary people can be portrayed situationally under `world/NPC_MANAGEMENT.md`.
 
-## 6. Travel resolution
+## 7. Travel resolution
 
 Before resolving travel: (1) identify origin and destination; (2) load regional modules for both ends and known intermediate places; (3) verify connection, route type, stops, transport, and restrictions; (4) check current events; (5) resolve duration and action costs using `gameplay/TIME_AND_ACTION_RULES.md`; (6) update the scene location only after travel completes.
 
-## 7. Owner workflow
+## 8. Owner workflow
 
 - [ ] Confirm settlements and parent jurisdictions.
 - [ ] Add only geographically plausible, owner-approved routes.

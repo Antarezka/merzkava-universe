@@ -128,11 +128,11 @@ separate origin-to-destination edge, not a requirement to transfer through Tianh
 
 ## 2. Canonical regional source directory
 
-| Power / branch | Primary regional source | Administrative / supplementary authority | NPC path |
+| Power / branch | Primary regional source | Administrative / supplementary authority | NPC ↔ Map path |
 |---|---|---|---|
-| Golden Dragon Empire | The matching `world/REGION_<REGION>.md` file for the scene | `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`; governance, officials, and population-services files as needed | `regions/golden-dragon-empire/INDEX.md` → `npcs/REGISTRY.md` → relevant profile |
-| Tianhai Yunzhou | `world/REGION_TIANHAI_YUNZHOU.md` | `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md`; NPC power structure; local routes and service networks in §§12–14 of the regional module | `regions/tianhai-yunzhou/INDEX.md` → `npcs/REGISTRY.md` → relevant profile |
-| Beiming Gu | `world/REGION_BEIMING_GU.md` (all seven districts) | The consolidated module is the source for district-level confirmed facts; unspecified settlements and routes remain unspecified | `regions/beiming-gu/INDEX.md` → `npcs/REGISTRY.md` → relevant profile |
+| Golden Dragon Empire | The matching `world/REGION_<REGION>.md` file for the scene | `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`; governance, officials, and population-services files as needed | NPC → profile → map; or map → local NPC entries → plausible profiles |
+| Tianhai Yunzhou | `world/REGION_TIANHAI_YUNZHOU.md` | `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md`; NPC power structure; local routes and service networks in §§12–14 of the regional module | NPC → profile → map; or map → local NPC entries → plausible profiles |
+| Beiming Gu | `world/REGION_BEIMING_GU.md` (all seven districts) | The consolidated module is the source for district-level confirmed facts; unspecified settlements and routes remain unspecified | NPC → profile → map; or map → local NPC entries → plausible profiles |
 
 ### Golden Dragon Empire administrative hierarchy
 

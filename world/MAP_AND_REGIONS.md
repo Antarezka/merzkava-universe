@@ -64,6 +64,8 @@ The North includes mountain chains, cold forests, highlands, valleys, and diffic
 | Hollowmoon Valley | Remote valley settlements and secluded paths | Retreats, isolated communities, hidden routes |
 | Ironroot Reach | Minerals, raw materials, workshops | Mining and basic processing |
 
+For the consolidated regional structure, all seven district foundations, confirmed routes, NPC navigation, and explicit unknowns, use `world/REGION_BEIMING_GU.md`; the older seven district-specific files are compatibility pointers, not independent canon sources.
+
 The North's harsh climate and difficult access contribute to its isolation. Specific road distances, settlement coordinates, and seasonal closure schedules are not established. A Beiming Heartland Sky Transit Terminal is established as the northern departure node for the dedicated liquefied-energy aircraft corridor to Tianhai Yunzhou; this does not imply a direct road or rail connection through the mountains.
 
 ## 5. Lawless Territories

@@ -1,6 +1,15 @@
 # Merzkava Universe — Canonical Gameplay Response Template
 
-Status: **Template visual resmi balasan gameplay. Gunakan susunan dan teks template di bawah ini persis; ganti placeholder dengan data gameplay yang terverifikasi.**
+Status: **Template visual resmi dan wajib untuk setiap balasan gameplay. Gunakan susunan, urutan, ornamen, pembatas, nama field, dan footer di bawah ini persis; ganti placeholder dengan data gameplay yang terverifikasi.**
+
+## Aturan Kepatuhan Wajib
+
+- Template ini adalah **kerangka output**, bukan contoh opsional. Setiap giliran gameplay—termasuk respons pertama, recall, adegan dialog singkat, dan giliran tanpa perubahan state—wajib memuat header waktu, pembatas pembuka, narasi, seluruh bagan profil, seluruh bagan inventaris/keuangan, seluruh bagan teknik/tujuan, catatan konsistensi, dan footer.
+- **Dilarang mengirim narasi bebas saja.** Adegan pendek tidak menjadi pengecualian. Jangan menghilangkan bagan hanya karena nilainya tidak berubah, informasinya sederhana, atau tidak ada aksi pemain yang eksplisit.
+- Ganti setiap placeholder dengan state terverifikasi. Jangan menampilkan teks instruksi dalam tanda kurung siku sebagai isi respons final. Jika nilai nonnumerik belum diketahui, gunakan `Belum ditetapkan` atau `Tidak ada` sesuai definisi profil; jangan menghapus field.
+- `LEDGER LOG` adalah satu-satunya blok yang bersifat kondisional: tampilkan hanya jika ada perubahan state yang memenuhi aturan ledger. Jika tidak ada perubahan yang relevan, hilangkan blok ledger dan pembatas ledger terkait saja—**jangan pernah menghilangkan bagan profil atau bagian visual lainnya**.
+- Sebelum mengirim, cocokkan respons dengan template ini dari header hingga footer. Jika satu bagian wajib, field, pembatas, atau footer hilang/berubah urutan, respons belum valid dan harus diperbaiki sebelum dikirim.
+- Narasi hanya boleh menyatakan apa yang diketahui karakter. Jangan membocorkan catatan GM, potensi tersembunyi, asal-usul misterius, atau kemampuan yang belum disadari karakter sebagai fakta yang diketahui olehnya.
 
 ```text
 🕒 Waktu Merzkava Universe

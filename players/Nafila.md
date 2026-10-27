@@ -9,7 +9,7 @@
 
 - **Nama:** Nafila
 - **Usia:** Belum ditetapkan.
-- **Spirit Realm:** Mortal/0
+- **Spirit Realm:** Mortal
 - **Sync progress:** 0%/0% (belum memiliki Spirit Ring aktif; belum ada cap kompatibilitas ring yang ditetapkan).
 - **Spirit Ring Absorption:** not eligible yet | ??? Day left
 - **Martial Soul:** ??? (belum menjalani atau menyelesaikan awakening yang sah; jangan menetapkan Martial Soul sebelum kejadian awakening).

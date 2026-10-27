@@ -10,7 +10,10 @@
 - **Full name:** Jun Haotian (君昊天)
 - **Public name / title:** Emperor of the Golden Dragon Empire
 - **Age:** 42
-- **Current location:** Longyuan; exact residence not specified
+- **Home / usual residence:** Golden Dragon Empire, Longyuan; imperial residence/palace name and exact placement are not established.
+- **Usual base / duty location:** Imperial court in Longyuan; the exact residence and court compound are not specified.
+- **Last confirmed location / current whereabouts:** Longyuan is the established regional location; current physical presence there is not confirmed.
+- **Recurring visits / travel pattern:** No recurring personal travel pattern is established. As emperor, he generally remains at the imperial residence unless duties or a credible event require travel.
 - **Occupation / role:** Emperor; highest ruler of the Golden Dragon Empire
 - **Affiliation:** Golden Dragon Empire; Jun imperial family
 - **Social status:** Emperor

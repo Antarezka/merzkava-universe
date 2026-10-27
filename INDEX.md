@@ -99,45 +99,15 @@ Router regional mempertahankan detail yang sebelumnya berada di INDEX agar tidak
 - Data regional baru mengikuti urutan: identitas → geografi → permukiman/kehidupan → ekonomi/sumber daya → kultivasi/Spirit Beast/Thinker → faksi/otoritas → NPC → konflik/event → rute/panduan GM. Referensikan sumber bersama, jangan menduplikasinya.
 - Jangan mengklaim event/proposal telah menjadi canon atau tersimpan tanpa persetujuan dan perubahan repo terverifikasi.
 
-## 5. NPC navigation — mandatory lookup path
+## 5. NPC navigation
 
-Use this same discovery order whenever a scene, action, question, travel segment, or audit involves a named, unnamed, or descriptively referenced NPC. The lookup depth depends on relevance; the lookup route itself is mandatory.
+NPC discovery, regional routing, roster checks, canonical profile selection, descriptive/unnamed NPC matching, legacy-file handling, and knowledge boundaries are governed by `world/CANON_LOAD_ROUTER.md` and `world/NPC_MANAGEMENT.md`.
 
-1. **Enter through the central route:** follow `INDEX.md` → `templates/AUTHORITY_ORDER.md`; then consult `world/CANON_LOAD_ROUTER.md` and `world/NPC_MANAGEMENT.md`. Use `world/CANON_DECISIONS_AND_PRECEDENCE.md` when canon conflicts, legacy sources, or ownership rules are relevant.
-2. **Anchor and select the region:** establish the player's confirmed location, current scene, institution/faction, event, and immediate context. Open the matching regional INDEX:
-   - Golden Dragon Empire: `regions/golden-dragon-empire/INDEX.md`
-   - Tianhai Yunzhou: `regions/tianhai-yunzhou/INDEX.md`
-   - Beiming Gu: `regions/beiming-gu/INDEX.md`
-   - Elsewhere/cross-regional: use the relevant `world/REGION_*.md`, `world/MAP_AND_REGIONS.md`, and confirmed affiliations; never force an unsupported regional origin.
-3. **Inspect the exact local source:** read the relevant `world/REGION_*.md` module or dedicated location, settlement, institution, and faction module. Check the NPC table beside the matching location/organization first. Use established location context; do not infer physical presence from a profile alone.
-4. **Cross-check the roster:** consult the relevant regional `npcs/REGISTRY.md`, then the authoritative office/faction roster where applicable. For Tianhai Yunzhou, check `regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`; for Golden Dragon Empire officials, check `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md` and `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`. Check `world/FACTIONS.md` and the relevant institution module when membership or rank matters.
-5. **Open only the relevant canonical profile:** follow the registry/roster entry to the single canonical full profile for a major or recurring NPC central to the scene. For local supporting characters, use the local table and follow a profile link if one exists. Check relevant relationship, status, travel, route, and event sources as needed.
-6. **Handle ordinary and temporary NPCs:** for residents, attendants, merchants, guards, witnesses, and one-scene characters, follow `world/NPC_MANAGEMENT.md`. Do not require a permanent profile for every background person, and do not promote improvisation to persistent canon without owner approval.
-7. **Check legacy files before editing:** inspect any matching `world/NPC_<NAME>.md` and inbound links. Treat it as a source until its contents prove it is only a compatibility pointer. Synchronize only affected canonical profiles, registries, local tables, office/faction rosters, and navigation links.
-8. **Protect knowledge and continuity:** separate public facts, character-known information, rumors, beliefs, and GM-only secrets. Verify current whereabouts/status against confirmed scenes, travel context, and `world/DYNAMIC_EVENTS.md` when relevant. Never reveal secrets just because the GM read a profile.
+Required entry path remains `INDEX.md` → `templates/AUTHORITY_ORDER.md` → the relevant regional INDEX/router → local canonical source. Use `world/CANON_DECISIONS_AND_PRECEDENCE.md` and `world/REGIONAL_REPOSITORY_ARCHITECTURE.md` when canon conflicts, ownership, or legacy paths matter. Do not duplicate the detailed lookup procedure here; the router owns it.
 
-Do not stop after the index or registry. Follow cross-references and canon dependencies relevant to the scene, but do not load every NPC profile or all global lore for an unrelated routine turn.
-### NPC entry points
-
-- Global routing and NPC handling: `world/CANON_LOAD_ROUTER.md` → `world/NPC_MANAGEMENT.md`
 - Golden Dragon Empire: `regions/golden-dragon-empire/INDEX.md` → `regions/golden-dragon-empire/npcs/REGISTRY.md`
-- Tianhai Yunzhou: `regions/tianhai-yunzhou/INDEX.md` → `regions/tianhai-yunzhou/npcs/REGISTRY.md` + `regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`
+- Tianhai Yunzhou: `regions/tianhai-yunzhou/INDEX.md` → `regions/tianhai-yunzhou/npcs/REGISTRY.md` and, when relevant, `POWER_STRUCTURE.md`
 - Beiming Gu: `regions/beiming-gu/INDEX.md` → `regions/beiming-gu/npcs/REGISTRY.md`
-- Local/side NPCs: matching `world/REGION_*.md` location table or relevant faction/institution module → registry/profile if an established entry exists; otherwise `world/NPC_MANAGEMENT.md`
-- Canon conflict and legacy-file precedence: `world/CANON_DECISIONS_AND_PRECEDENCE.md` + `world/REGIONAL_REPOSITORY_ARCHITECTURE.md`
+- Elsewhere or cross-regional scenes: use the relevant `world/REGION_*.md`, location/faction source, and shared router. Never infer physical presence from a profile alone.
 
-For a normal gameplay turn, load only the relevant regional index, roster/table, and profiles needed for the scene. For a full NPC audit or repository edit, trace every affected registry, profile, local table, legacy source, and cross-reference. A missing table row is a discoverability gap to investigate, not permission to invent canon.
-
-### Resolving NPC references when the player does not know the name
-
-The player may refer to an NPC by title, relationship, appearance, role, behavior, or a partial description rather than a proper name—for example, “the emperor's daughter,” “the golden-eyed girl,” “the guard at this gate,” or “the wandering physician.” Treat these as **NPC lookup clues**, not permission to invent a new person.
-
-1. Start with the current scene and confirmed location; narrow the candidate set using the local place, institution, faction, household, office, or event.
-2. Follow the shared discovery order: open the matching regional INDEX; inspect the relevant regional/location/institution/faction module and its local NPC table; cross-check the regional `npcs/REGISTRY.md` and authoritative office/faction roster; then follow the strongest matching entry to its canonical profile. Compare role, relationship, appearance, age, affiliation, Martial Soul, behavior, and other supplied clues only where those facts are recorded.
-3. Follow the strongest candidate to their canonical profile and verify that the profile, current whereabouts, status, and scene context fit. Treat titles, kinship descriptions, aliases, and physical traits as alternate lookup keys even when the player's wording does not match the profile's exact name.
-4. Rank matches using the player's confirmed location and physical proximity. Compare each candidate's last-confirmed location, local presence, assignment, and access to the scene; prefer the best-fitting NPC nearest to the player using confirmed geography and route connections, never invented distances.
-5. Check travel context as well: an NPC who is travelling, in transit, escorting someone, or moving between locations can be the correct match if their documented traits, route, timing, and scene context fit. Verify whereabouts and movement from relevant travel sources, current events, and established scene continuity; do not assume a profile means the NPC is present.
-6. If several candidates still fit, keep investigating and rank them by the combined evidence—location/proximity, plausible travel, role/relationship, documented distinguishing traits, and recent context. **Do not stop at ambiguity or ask the player to provide the name by default.** Select the strongest contextually supported candidate and continue without inventing missing facts; keep unverified identity details out of narration.
-7. Load the selected NPC's canonical profile and relevant location, travel, relationship, faction, office, and event sources into the working context. Reveal only what the player character can observe or legitimately know; never expose GM-only secrets.
-8. Only if the required lookup finds no plausible canonical match, use an appropriately limited temporary NPC under `world/NPC_MANAGEMENT.md`. Do not retrofit an existing NPC or create persistent canon by assumption.
-
+For ordinary gameplay, load only the matching region, roster, and profiles needed for the scene. For a full NPC audit or repository edit, trace every affected profile, registry, local table, legacy pointer, and cross-reference. A missing entry is a discoverability gap to investigate—not permission to invent canon.

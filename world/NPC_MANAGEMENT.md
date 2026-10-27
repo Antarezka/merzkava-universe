@@ -66,33 +66,29 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for detailed recurring/major NPC profile
 
 ### A. Required location fields for every established NPC profile
 
-### High-ranking NPC residence and travel tendency
+Every established recurring/major NPC profile must distinguish these fields, using consistent labels across all three regional branches:
 
-High-ranking figures—such as sovereigns, senior rulers, clan heads, senior institutional leaders, and exceptionally powerful figures—normally remain at their established residence or principal base and travel relatively rarely. The GM should treat their residence as the default likely location, not assume they are wandering around the world or conveniently present wherever the player goes.
+- **Home / usual residence:** canon-supported home area, district, settlement, residence, or institution, from broadest to most specific.
+- **Usual base / duty location:** where the NPC normally governs, works, studies, or serves, when distinct or relevant.
+- **Last confirmed location / current whereabouts:** the last location established by canon or gameplay; it is not a guarantee of continuous presence.
+- **Recurring visits / cover locations:** known repeat destinations, disguises, or temporary patterns, clearly distinguished from permanent residence or official membership.
 
-They may leave for a credible reason grounded in their duties, goals, security needs, relationships, emergencies, or established events. Record confirmed journeys and last-known whereabouts; do not invent routine trips or claim they are physically present without support. This is a behavioral tendency, not an absolute restriction.
+Use official map names at the most specific level supported by canon (region → district/area → settlement/institution → named building). Do not invent a palace, street, campus placement, district, coordinates, or route to fill a field. If finer detail is unknown, state **“Exact district/building not established”** or **“Belum ditetapkan.”** Regional affiliation alone does not establish a specific residence.
 
-**Explicit exception — Beiming Nerva:** Nerva frequently turns up in Tianhai Yunzhou and sometimes uses a student disguise at Beichen Cultivator Academy. Preserve this established recurring behavior; do not apply the usual stay-at-home tendency to her as if she were an ordinary high-ranking NPC. Her visits still do not mean she is always there.
+### B. High-ranking NPC residence and travel tendency
 
-### A. Required location fields for every established NPC profile
+High-ranking figures—including sovereigns, senior rulers, clan heads, senior institutional leaders, and exceptionally powerful figures—normally remain at their established residence or principal base and travel relatively rarely. Treat their residence as the default likely location once established; do not assume they wander around the world or conveniently appear wherever the player goes.
 
-Every established recurring/major NPC profile must distinguish these location fields. Use the same field names across all three regional branches:
+They may leave for a credible reason grounded in duties, goals, security needs, relationships, emergencies, or established events. Record confirmed journeys and last-known whereabouts. Do not invent routine trips or claim an NPC is physically present without support. This is a behavioral tendency, not an absolute restriction.
 
-- **Home / usual residence:** the canon-supported home area, district, settlement, residence, or institution, from broadest to most specific.
-- **Usual base / duty location:** where the NPC normally works, governs, studies, or serves, only when distinct or relevant.
-- **Last confirmed location / current whereabouts:** the last location established by canon or gameplay; do not imply continuous presence.
-- **Recurring visits / cover locations:** known repeat destinations, disguises, or temporary patterns, clearly distinguished from a permanent home or official membership.
+**Explicit exception — Beiming Nerva:** Nerva frequently turns up in Tianhai Yunzhou and sometimes uses a student disguise at Beichen Cultivator Academy. Preserve this established recurring behavior; do not apply the usual stay-at-home tendency to her as if she were an ordinary high-ranking NPC. Her visits do not mean she is always there, and her disguise does not establish official enrollment.
 
-Use official map names and the most specific level actually supported by canon (for example, region → district/area → settlement/institution → named building). Do not invent a palace, street, campus placement, district, coordinates, or route to make a field look complete. If a finer location is unknown, write **“Exact district/building not established”** or **“Belum ditetapkan”**. For a character with only a regional affiliation, record that region as the broad home/affiliation and keep the precise residence unknown.
+### C. Placement and continuity checks
 
-A recurring visit is not a permanent transfer. A disguise is not proof of official enrollment or employment. A home location does not prove the NPC is currently there. The GM must use the route network and current events when moving an NPC between locations; never teleport an NPC merely because the story needs them.
-
-## 5. Local placement and realism
-
-1. Check the location/settlement description, its local NPC table, relevant official rosters, faction membership, and known routes. Fill each profile's home/base/last-confirmed-location fields only from those sources.
+1. Check the location/settlement description, its local NPC table, relevant official rosters, faction membership, and known routes. Fill home/base/last-confirmed-location fields only from those sources.
 2. Match occupation, resources, authority, and services to the settlement. A remote village does not automatically have capital-level services or elite experts.
 3. An NPC's presence in a regional module does not prove they are physically present in the current scene, available to meet, or known to the player.
-4. An NPC's temporary location change does not automatically change their canonical home or the in-repository location of their canonical profile.
+4. A temporary location change does not change canonical home or the repository location of the canonical profile.
 5. Regional presence does not establish that a faction controls every settlement in that region.
 6. If an officeholder or faction member is established by an authoritative roster, reference it instead of inventing a conflicting holder.
 

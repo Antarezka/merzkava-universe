@@ -132,7 +132,7 @@ The Spirit Hunters Guild is a broad contract-and-jobs Guild, not an organization
 
 The Guild is not a unified government or universal police force. Do not assume a branch, legal jurisdiction, permanent membership, uniform rules, or ability to enforce a bounty everywhere. Local presence and influence must follow canon or events.
 
-**Established Tianhai Yunzhou presence:** `world/REGION_TIANHAI_YUNZHOU.md` establishes a main contract office at Haiyue Market, a harbor contract desk at Cangqiong Harbor, a freight/expedition desk at Westwake Anchorage, and a limited notice/referral point at Pearlstep Landing. These are service points, not proof of uniform jurisdiction, permanent staffing, or authority over Tianhai Yunzhou's government, military, customs, or Lawless Territories.
+**Established Tianhai Yunzhou presence:** the exact Guild desks and their local functions are maintained in `world/REGION_TIANHAI_YUNZHOU.md` §14.1. Treat them as local service points, not proof of uniform jurisdiction, permanent staffing, or authority over Tianhai Yunzhou's government, military, customs, or Lawless Territories.
 
 ## 7. Lawless Territory Organizations
 
@@ -158,7 +158,7 @@ Lawless Territories are not a single faction or unified state. The following gro
 
 ## 8. Medicine Hall Society
 
-The Medicine Hall Society is a neutral medical network spread across the world. Its overall hierarchy, world leadership, and universal fee schedule remain unestablished. The central headquarters is in the Golden Dragon Empire; the Society also has an established Tianhai Yunzhou service network, detailed in `world/REGION_TIANHAI_YUNZHOU.md`, with points at Haiyue Market, Cangqiong Harbor, Northwatch Quay, Westwake Anchorage, Bluefin Cove, and Pearlstep Landing.
+The Medicine Hall Society is a neutral medical network spread across the world. Its overall hierarchy, world leadership, and universal fee schedule remain unestablished. The central headquarters is in the Golden Dragon Empire; Tianhai Yunzhou also has an established local service network whose exact points and boundaries are maintained in `world/REGION_TIANHAI_YUNZHOU.md` §14.3.
 
 The Society's neutral intent does not guarantee that neutrality can never be violated, that every point is fully staffed, or that treatment is free. Independent healers, family practitioners, and local herbalists may work outside the Society. Do not assume every healer belongs to it.
 
@@ -198,9 +198,9 @@ The Ordo is not omniscient and does not automatically defeat every threat. Repor
 
 Tianhai Yunzhou has several independent trade and professional associations. They represent member interests and coordinate commercial services; they are not a single monopoly, government ministry, or authority over customs and harbor security. Their established local remits are:
 
-- **Haiyue Merchants' Association** — Haiyue Market; merchant representation, commodity-quality disputes, bulk orders, commercial notices, and buyer/seller introductions.
-- **Cangqiong Shipowners and Freight Union** — Cangqiong Harbor and Westwake Anchorage; freight coordination, cargo-handling standards, berth-service negotiations, crew referrals, and shipping-risk information.
-- **Linggong Artisans' Trade Association** — Linggong District, with commercial contacts at Haiyue Market; workshop-buyer links, material specifications, bulk procurement, and repair referrals for craft and Artificial Artifact industries.
-- **Misty Shoals Fishers and Pilots Association** — participating fishing and pilot communities in Misty Shoals; market information, pilot availability, local-weather observations, and supply/repair requests.
+- **Haiyue Merchants' Association** — merchant representation, commodity-quality disputes, and bulk-order coordination.
+- **Cangqiong Shipowners and Freight Union** — freight coordination, cargo-handling standards, and shipping-risk information.
+- **Linggong Artisans' Trade Association** — workshop-buyer links and procurement/repair coordination for craft and Artificial Artifact industries.
+- **Misty Shoals Fishers and Pilots Association** — fishing-market information, pilot availability, and local-weather observations.
 
-These associations may compete or cooperate. Their exact leaders, membership rules, fees, prices, exclusive rights, and formal agreements remain unspecified. The Tianhai Yunzhou-specific locations and service boundaries are maintained in `world/REGION_TIANHAI_YUNZHOU.md`.
+These associations may compete or cooperate. Their exact local placements, leaders, membership rules, fees, prices, exclusive rights, and formal agreements remain unspecified unless established in play or approved canon. Detailed locations, boundaries, and full remits are maintained in `world/REGION_TIANHAI_YUNZHOU.md` §14.2.

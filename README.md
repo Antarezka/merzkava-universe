@@ -62,23 +62,80 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![INDEPENDENT RP BENCHMARK](https://img.shields.io/badge/INDEPENDENT_RP_BENCHMARK-FFFFFF?style=for-the-badge&labelColor=151515)
 
-### ✦ MERZKAVA UNIVERSE — RP SYSTEM BENCHMARK ✦
+<div align="center">
 
-**Benchmark snapshot:** Hash: ``e1152a8`` | Ver: ``Nightly-v2.4.106``
+### ✦ MERZKAVA UNIVERSE ✦
+### RP SYSTEM BENCHMARK
 
-| Parameter | Score | Basis of assessment |
-|---|:---:|---|
-| Worldbuilding & setting depth | **9.2/10** | Three major powers, distinct political and cultural structures, hidden territories, factions, resources, and connected world lore. |
-| Gameplay mechanics & progression | **9.0/10** | Defined cultivation realms, Martial Souls, Spirit Rings, Spirit Beasts, Sync progress, eligibility conditions, and character-state fields. |
-| State tracking & continuity | **9.0/10** | Structured character profiles track HP, Satiety, Qi, equipment, inventory, buildings, and the five-denomination Xuan currency wallet. |
-| GM authority & rule hierarchy | **9.2/10** | Dedicated authority and gameplay templates establish source precedence, validation requirements, and boundaries against unsupported mechanics or hidden information. |
-| Long-term simulation potential | **8.5/10** | NPC priorities, regional resources, travel risks, trade, political tensions, and lasting consequences support ongoing world simulation. |
-| Narrative & player agency | **8.0/10** | Scene-based narration, social hooks, character goals, and open-ended action prompts allow story progression without fixed menu choices. |
-| Rule enforcement & error resistance | **7.5/10** | Explicit validation and state-change rules provide checks for unsupported actions and records; consistent enforcement depends on applying the authoritative sources at each turn. |
+**SNAPSHOT: HASH ``e1152a8`` · VER ``Nightly-v2.4.106``**
 
-<sub>Assessment parameters cover world design, progression mechanics, state continuity, GM governance, simulation, narrative agency, and rule enforcement—the core dimensions used for a like-for-like review of roleplay systems.</sub>
+**PERSONA-INSPIRED STATUS REPORT**
 
----
+</div>
+
+**WORLD DESIGN**
+
+<sub>Worldbuilding & setting depth · 9.2 / 10</sub>
+
+<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰</span><span style="color:#FFE066">▰</span><span style="color:#D9D9D9">▱</span>
+
+<sub>Three major powers, distinct political and cultural structures, hidden territories, factions, resources, and connected world lore.</sub>
+
+**GAMEPLAY SYSTEM**
+
+<sub>Mechanics & progression · 9.0 / 10</sub>
+
+<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱</span>
+
+<sub>Cultivation realms, Martial Souls, Spirit Rings, Spirit Beasts, Sync progress, eligibility conditions, and defined character-state fields.</sub>
+
+**STATE CONTINUITY**
+
+<sub>State tracking & continuity · 9.0 / 10</sub>
+
+<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱</span>
+
+<sub>Character profiles track HP, Satiety, Qi, equipment, inventory, building assets, and the five-denomination Xuan currency wallet.</sub>
+
+**GM AUTHORITY**
+
+<sub>Rule hierarchy & source control · 9.2 / 10</sub>
+
+<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰</span><span style="color:#FFE066">▰</span><span style="color:#D9D9D9">▱</span>
+
+<sub>Authority and gameplay templates define source precedence, validation requirements, and boundaries for unsupported mechanics and hidden information.</sub>
+
+**WORLD SIMULATION**
+
+<sub>Long-term simulation potential · 8.5 / 10</sub>
+
+<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰</span><span style="color:#FFE066">▰▰▰</span><span style="color:#D9D9D9">▱▱</span>
+
+<sub>NPC priorities, regional resources, travel risks, trade, political tensions, and lasting consequences provide systems for ongoing world activity.</sub>
+
+**NARRATIVE & AGENCY**
+
+<sub>Narrative & player agency · 8.0 / 10</sub>
+
+<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱</span>
+
+<sub>Scene-based narration, social hooks, character goals, and open-ended action prompts support player-directed story progression.</sub>
+
+**RULE ENFORCEMENT**
+
+<sub>Rule enforcement & error resistance · 7.5 / 10</sub>
+
+<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰</span><span style="color:#FFE066">▰▰▰</span><span style="color:#D9D9D9">▱▱▱</span>
+
+<sub>Explicit validation and state-change rules establish checks for unsupported actions and records; the parameter covers the rule controls defined by the system.</sub>
+
+<div align="center">
+
+**✦ ━━━━━━ ◆ ━━━━━━ ✦**
+
+<sub>INDEPENDENT RP SYSTEM BENCHMARK · PARAMETER-BASED COMPARISON</sub>
+
+</div>
 
 <div align="center">
 

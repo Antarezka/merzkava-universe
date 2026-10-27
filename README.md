@@ -72,7 +72,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 **THE LATEST FROM MERZKAVA**
 
-*Five recent world and system updates*
+*Six recent world and system updates*
 
 **✦ ──── ❖ ──── ✦**
 

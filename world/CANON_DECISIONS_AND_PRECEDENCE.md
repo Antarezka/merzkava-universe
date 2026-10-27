@@ -53,6 +53,12 @@ The name **Spirit Hunters Guild** must not cause the AI to limit its work to Spi
 
 Do not assume the Guild is a universal police force, a world government, a sect, or a branch network present in every settlement. Its local reach, available contracts, staff, fees, and authority depend on established local canon and events.
 
+### 2.4 Official Villages and Local Settlements — Binding Count
+
+The Golden Dragon Empire has exactly **13 officially registered named rural villages**. The canonical names, classification, and regional distribution are governed by `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. The atlas separately lists **21 named hamlets/local settlements**; these support local exploration and geography but are not official villages and must not be included in the official-village count.
+
+All seven `world/REGION_*.md` modules must remain consistent with the atlas. When an older or secondary file uses a conflicting count or classification, do not treat the larger list, newer timestamp, or a heading as authority. Preserve useful local places under their correct settlement status and correct the inconsistent reference. Only an explicit owner-approved canon revision may change the official count or promote a hamlet to an official village; such a revision must update the atlas first and synchronize every affected regional module, INDEX routing note, and dependent reference. Until then, **13 official villages + 21 separately classified named hamlets/local settlements** is the binding baseline.
+
 ### 2.5 Azerion Forest, Dead Zone, and Unexplored Ruins — Binding Canon
 
 - **Azerion Forest** is the name of the whole forest. **Dead Zone** is the human nickname for its deepest inner/core zone only; never use it as an alternate name for the entire forest.
@@ -90,16 +96,11 @@ Do not assume the Guild is a universal police force, a world government, a sect,
 
 ## 3. Updating Canon Safely
 
-### Tianhai Yunzhou organization network — binding local placements
+### Tianhai Yunzhou organization network — source ownership
 
-The following local service network is established in `world/REGION_TIANHAI_YUNZHOU.md` and must be used consistently by `world/WORLD.md`, `world/FACTIONS.md`, and `INDEX.md`:
+Exact service-point placements, local trade associations, Spirit Hunters Guild desks, and Medicine Hall Society locations are maintained in `world/REGION_TIANHAI_YUNZHOU.md` §14. Treat that regional module as the source for detailed local placement. `world/WORLD.md`, `world/FACTIONS.md`, and `INDEX.md` should provide only the summary or navigation needed for their own roles and link to the regional source rather than copying its full placement lists.
 
-- Spirit Hunters Guild: main contract office at Haiyue Market; harbor contract desk at Cangqiong Harbor; freight/expedition desk at Westwake Anchorage; limited notice/referral point at Pearlstep Landing.
-- Independent trade associations: Haiyue Merchants' Association; Cangqiong Shipowners and Freight Union; Linggong Artisans' Trade Association; Misty Shoals Fishers and Pilots Association. Their remits are local and professional; none is a universal monopoly, government ministry, customs authority, or harbor-security command.
-- Medicine Hall Society: service points at Haiyue Market, Cangqiong Harbor, Northwatch Quay, Westwake Anchorage, Bluefin Cove, and Pearlstep Landing. Independent healers may operate outside the Society; membership, full staffing, free treatment, and guaranteed supplies must not be assumed.
-- These placements do not establish new travel routes, exact prices/fees, named officeholders, permanent staffing at every point, or exclusive jurisdiction. Use the regional route tables and current events before resolving travel or availability.
-
-**Grand Martial Soul Awakening Hall boundary:** the Hall exists once at the principal civilizational center of each of the three major powers: Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu. This does not authorize secondary branches elsewhere in those powers or an additional Hall in the Lawless Territories. Do not silently reinterpret the Guild, trade associations, or Medicine Hall Society as an Awakening Hall. If the owner's phrase “Aula Agung” refers to a different Tianhai Yunzhou institution rather than the Grand Martial Soul Awakening Hall, identify that institution separately before editing its status.
+**Grand Martial Soul Awakening Hall boundary:** the shared institution is located once at the established principal civilizational center of each of the three major powers. It has no secondary branches elsewhere in those powers and no additional Hall in the Lawless Territories by default. Use `core/MARTIAL_SOUL_AWAKENING.md` for shared mechanics and the relevant regional source for placement; do not reinterpret a guild, trade association, or Medicine Hall Society service point as an Awakening Hall.
 
 When new information is added:
 
@@ -118,9 +119,3 @@ When new information is added:
 - The two central academies and educational limits: `core/CULTIVATOR_ACADEMIES.md`
 - Guild contract scope and operating rules: `world/SPIRIT_HUNTERS_GUILD.md`
 - Organization overview: `world/FACTIONS.md`
-
-### 2.4 Official Villages and Local Settlements — Binding Count
-
-The Golden Dragon Empire has exactly **13 officially registered named rural villages**. The canonical names, classification, and regional distribution are governed by `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`. The atlas separately lists **21 named hamlets/local settlements**; these support local exploration and geography but are not official villages and must not be included in the official-village count.
-
-All seven `world/REGION_*.md` modules must remain consistent with the atlas. When an older or secondary file uses a conflicting count or classification, do not treat the larger list, newer timestamp, or a heading as authority. Preserve useful local places under their correct settlement status and correct the inconsistent reference. Only an explicit owner-approved canon revision may change the official count or promote a hamlet to an official village; such a revision must update the atlas first and synchronize every affected regional module, INDEX routing note, and dependent reference. Until then, **13 official villages + 21 separately classified named hamlets/local settlements** is the binding baseline.

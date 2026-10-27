@@ -65,31 +65,6 @@ Aturan:
 - Spirit Realm 9 selalu `max | ∞ Day left`. Sembilan slot adalah batas sistem; jangan hitung cooldown ke ring kesepuluh, jangan tampilkan `eligible`, dan jangan menambahkan Spirit Realm atau slot kesepuluh tanpa revisi canon eksplisit pemilik.
 - `Belum ditetapkan Day left` hanya untuk save lama yang diketahui pernah menyerap ring tetapi riwayat waktunya tidak cukup untuk merekonstruksi cooldown. Jangan gunakan untuk Mortal, Awakening, karakter yang belum pernah menyerap ring, atau Spirit Realm 9.
 
-## Perhitungan Day left — Pengecualian Penyerapan Spirit Ring
+## Rujukan Perhitungan Day left
 
-`Day left` hanya menghitung jeda minimum antara penyerapan Spirit Ring yang berhasil; ini bukan penghitung waktu breakthrough Kultivasi atau aktivitas lain. Sebelum penyerapan Spirit Ring pertama yang berhasil, jeda belum berlaku sehingga gunakan `??? Day left` bersama status tahap yang benar: `not eligible yet | ??? Day left` untuk Mortal tanpa Awakening aktif; `pending | ??? Day left` selama Awakening aktif; setelah Awakening selesai, `eligible | ??? Day left` jika syarat ring pertama terpenuhi atau `not eligible yet | ??? Day left` jika belum. Jangan gunakan `Belum ditetapkan Day left` sebelum ada penyerapan berhasil.
-
-**Formulasi kanonis `Day left` (wajib):**
-
-Definisikan:
-- `T_min` = interval minimum resmi untuk penyerapan berikutnya, sesuai jumlah ring yang telah berhasil diserap dan tabel interval di `bestiary/SPIRIT_BEAST_RULES.md`.
-- `T_eligible` = total durasi waktu dunia yang benar-benar dijalani secara normal di luar Kultivasi sejak penyerapan Spirit Ring terakhir yang berhasil.
-- `T_remaining` = sisa interval yang harus dipenuhi.
-
-Rumus:
-```text
-T_remaining = max(0, T_min - T_eligible)
-
-Jika T_remaining = 0:
-    Day left = 0
-Jika T_remaining > 0:
-    Day left = ceil(T_remaining / 24 jam)
-```
-
-`T_eligible` adalah akumulasi durasi yang memenuhi syarat, bukan selisih timestamp mentah. Waktu dari aksi normal, aktivitas harian, perjalanan, istirahat, atau tidur hanya dihitung selama waktu dunia benar-benar berlalu dan tidak tumpang tindih dengan durasi lain. **Semua durasi yang diklasifikasikan sebagai Kultivasi dikecualikan sepenuhnya dari `T_eligible`**, termasuk time skip Kultivasi hingga satu bulan. Timestamp dan kalender dunia tetap maju selama Kultivasi, tetapi `T_eligible` dan `Day left` tidak berubah akibat durasi tersebut.
-
-Pembulatan dilakukan pada sisa interval: sisa 1 jam hingga 24 jam = `1 Day left`; sisa lebih dari 24 jam hingga 48 jam = `2 Day left`. Angka hanya menjadi `0 Day left` saat `T_eligible >= T_min`. Jangan mengurangi satu hari penuh hanya karena giliran berganti atau tanggal kalender berubah.
-
-Setiap penyerapan berhasil yang masih menyisakan ring berikutnya (Ring 1–8) menjadi titik awal yang tercatat: set `T_eligible = 0` dan langsung isi `Day left` dari interval resmi. Pengecualian: setelah Ring 9 tercapai, Spirit Realm 9 memakai `max | ∞ Day left` dan tidak memiliki cooldown lanjutan. Jika belum pernah ada penyerapan berhasil, tampilkan status sesuai tahap dengan `??? Day left` karena jeda belum berlaku. `Belum ditetapkan Day left` hanya berlaku untuk state lama yang pernah menyerap ring tetapi tidak memiliki data cukup untuk merekonstruksi cooldown, bukan untuk karakter tanpa ring atau penyerapan yang baru diselesaikan. Untuk ring kedua hingga kesembilan pada Spirit Realm 1–8, `Day left = 0` adalah gerbang wajib yang terpisah dari Sync/bottleneck, ketersediaan ring, item, toleransi tubuh, dan syarat resmi lainnya.
-
-Gunakan formulasi di atas sebagai satu-satunya metode hitung. Nilai yang ditampilkan pada profil harus berasal dari `T_min` dan akumulasi `T_eligible` yang dapat ditelusuri dalam riwayat sesi.
+Template ini hanya menetapkan format field dan pemetaan status `Spirit Ring Absorption`. Rumus, akumulasi waktu yang memenuhi syarat, konversi durasi, dan perhitungan `Day left` hanya ditetapkan di `gameplay/TIME_AND_ACTION_RULES.md` §7; interval minimum `T_min` hanya ditetapkan di `bestiary/SPIRIT_BEAST_RULES.md` §3. Jangan menyalin atau membuat formulasi hitung alternatif di template ini.

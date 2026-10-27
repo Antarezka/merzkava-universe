@@ -10,7 +10,10 @@
 - **Full name:** Jun Ruiyuan (君睿渊)
 - **Public name / title:** Crown Prince of the Golden Dragon Empire
 - **Age:** 17
-- **Current location:** Longyuan; exact residence not specified
+- **Home / usual residence:** Golden Dragon Empire, Longyuan; imperial-family residence/palace name and exact placement are not established.
+- **Usual base / duty location:** Imperial household and court in Longyuan; exact personal residence and assigned work location are not specified.
+- **Last confirmed location / current whereabouts:** Longyuan is the established regional location; current physical presence there is not confirmed.
+- **Recurring visits / travel pattern:** No recurring personal travel pattern is established. As a senior imperial-family member, Jun Ruiyuan generally stays at the imperial residence unless duties or a credible event require travel.
 - **Occupation / role:** Crown Prince and eldest child of the Emperor and Empress
 - **Affiliation:** Jun imperial family; Golden Dragon Empire
 - **Social status:** Imperial heir

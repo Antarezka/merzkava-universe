@@ -1,6 +1,6 @@
 # Merzkava Universe — Canonical Gameplay Response Template
 
-Status: **Template visual resmi dan wajib untuk setiap balasan gameplay. Gunakan susunan, urutan, ornamen, pembatas, dan nama field di bawah ini; ganti placeholder dengan data gameplay yang terverifikasi. Teks instruksi GM di luar kerangka output tidak ditampilkan kepada pemain.**
+Status: **Template visual resmi dan wajib untuk setiap balasan gameplay. Gunakan susunan, urutan, ornamen, pembatas, nama field, dan footer di bawah ini persis; ganti placeholder dengan data gameplay yang terverifikasi.**
 
 ## Aturan Kepatuhan Wajib
 
@@ -98,10 +98,10 @@ Tujuan Saat Ini: ...
 • `Day left = 0` bukan jaminan penyerapan berhasil.
 • Siklus waktu memakai label singkat: Dini hari, Subuh, Pagi, Siang, Sore, atau Malam. Tentukan berdasarkan waktu dunia yang tercatat; jangan mengarang jam batas jika sumber resmi belum menetapkannya.
 • Tampilkan `Log tercatat!` dan LEDGER LOG hanya jika perubahan state yang relevan benar-benar terjadi.
-• Jangan menampilkan instruksi internal GM sebagai bagian dari respons pemain. Penutup harus berupa ajakan singkat kepada pemain untuk menentukan aksi, dalam bahasa yang digunakan pemain.
+• Pada footer, gunakan padanan singkat “Tentukan Aksimu” dalam bahasa yang digunakan pemain; jangan tampilkan instruksi ini sebagai teks footer.
 • Jangan mengklaim perubahan tersimpan ke GitHub jika belum dilakukan dan diverifikasi.
 
 ✦ Enjoy your convo, player! ✦
 ━━━━━━━━━━━━━━━━━━━━━━━━
-•••_Tentukan Aksimu (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧
+•••_@GM_Authority: Tentukan Aksimu (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧
 ```

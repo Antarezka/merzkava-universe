@@ -101,6 +101,8 @@ Router regional mempertahankan detail yang sebelumnya berada di INDEX agar tidak
 
 ## 5. NPC navigation
 
+**Mandatory NPC display rule:** every player-facing NPC reference must use double backticks. Until the player-character learns an NPC's identity in-world, display exactly ``npc ???``; after legitimate identification, GM Authority must switch to the identified name in double backticks. Full enforcement and knowledge-boundary rules are owned by `templates/AUTHORITY_ORDER.md`, `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`, and `world/NPC_MANAGEMENT.md`.
+
 NPC discovery, regional routing, roster checks, canonical profile selection, descriptive/unnamed NPC matching, legacy-file handling, and knowledge boundaries are governed by `world/CANON_LOAD_ROUTER.md` and `world/NPC_MANAGEMENT.md`.
 
 Required entry path remains `INDEX.md` → `templates/AUTHORITY_ORDER.md` → the relevant regional INDEX/router → local canonical source. Use `world/CANON_DECISIONS_AND_PRECEDENCE.md` and `world/REGIONAL_REPOSITORY_ARCHITECTURE.md` when canon conflicts, ownership, or legacy paths matter. Do not duplicate the detailed lookup procedure here; the router owns it.

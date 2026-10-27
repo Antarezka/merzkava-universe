@@ -73,6 +73,15 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for detailed recurring/major NPC profile
 
 ## 6. Agency and knowledge boundaries
 
+### Mandatory player-facing NPC naming
+
+- Wrap **every NPC reference** in double backticks wherever it appears in player-facing output: narrative, dialogue, combat, events, descriptions, tables, logs, and all other contexts. This applies equally to canonical/established NPCs, non-canon improvised NPCs, background/side NPCs, and temporary NPCs. Examples: ``Jun Yuejin``, ``Penjaga gerbang``.
+- Until the player-character has legitimately learned or identified an NPC's name in-world, the exact display label is ``npc ???``. Do not reveal the name merely because GM sources, a registry, roster, or canonical profile contains it. A visible description or role may be used when credible.
+- When the identity is introduced or otherwise discovered through a valid in-world event, immediately switch subsequent player-facing references to the identified name in double backticks. Never revert to ``npc ???`` for that same NPC while the character retains that knowledge.
+- Multiple unidentified NPCs may each display as ``npc ???``; preserve their distinct internal identities and continuity without leaking names.
+- These rules govern presentation and character knowledge, not whether an NPC is canon. Canonical NPCs, improvised minor NPCs, and temporary NPCs all follow the same display rule.
+
+
 For recurring/major NPCs, establish where canon supports it: role and affiliation; public personality; immediate and long-term goals; knowledge sources and limits; resources, relationships, and constraints; reasons to cooperate, bargain, refuse, deceive, flee, or fight; behavioral boundaries; and current status/last confirmed interaction.
 
 NPCs have their own goals. They are not automatically friendly, hostile, omniscient, or available whenever the player wants them. Do not claim a fully simulated daily schedule or unseen action without an established procedure or recorded event.

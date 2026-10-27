@@ -60,80 +60,87 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </details>
 
-![INDEPENDENT RP BENCHMARK](https://img.shields.io/badge/INDEPENDENT_RP_BENCHMARK-FFFFFF?style=for-the-badge&labelColor=151515)
-
 <div align="center">
 
-### ✦ MERZKAVA UNIVERSE ✦
-### RP SYSTEM BENCHMARK
+*✦ INDEPENDENT RP BENCHMARK ✦*
+
+### MERZKAVA UNIVERSE — RP SYSTEM BENCHMARK
 
 **SNAPSHOT: HASH ``e1152a8`` · VER ``Nightly-v2.4.106``**
 
-**PERSONA-INSPIRED STATUS REPORT**
+*PERSONA-INSPIRED STATUS REPORT*
 
-</div>
-
-**WORLD DESIGN**
-
-<sub>Worldbuilding & setting depth · 9.2 / 10</sub>
-
-<span style="color:#F25C54">▰▰▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱</span>
-
-<sub>Three major powers, distinct political and cultural structures, hidden territories, factions, resources, and connected world lore.</sub>
-
-**GAMEPLAY SYSTEM**
-
-<sub>Mechanics & progression · 9.0 / 10</sub>
-
-<span style="color:#F25C54">▰▰▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱</span>
-
-<sub>Cultivation realms, Martial Souls, Spirit Rings, Spirit Beasts, Sync progress, eligibility conditions, and defined character-state fields.</sub>
-
-**STATE CONTINUITY**
-
-<sub>State tracking & continuity · 9.0 / 10</sub>
-
-<span style="color:#F25C54">▰▰▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱</span>
-
-<sub>Character profiles track HP, Satiety, Qi, equipment, inventory, building assets, and the five-denomination Xuan currency wallet.</sub>
-
-**GM AUTHORITY**
-
-<sub>Rule hierarchy & source control · 9.2 / 10</sub>
-
-<span style="color:#F25C54">▰▰▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱</span>
-
-<sub>Authority and gameplay templates define source precedence, validation requirements, and boundaries for unsupported mechanics and hidden information.</sub>
-
-**WORLD SIMULATION**
-
-<sub>Long-term simulation potential · 8.5 / 10</sub>
-
-<span style="color:#F25C54">▰▰▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱▱</span>
-
-<sub>NPC priorities, regional resources, travel risks, trade, political tensions, and lasting consequences provide systems for ongoing world activity.</sub>
-
-**NARRATIVE & AGENCY**
-
-<sub>Narrative & player agency · 8.0 / 10</sub>
-
-<span style="color:#F25C54">▰▰▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱▱▱</span>
-
-<sub>Scene-based narration, social hooks, character goals, and open-ended action prompts support player-directed story progression.</sub>
-
-**RULE ENFORCEMENT**
-
-<sub>Rule enforcement & error resistance · 7.5 / 10</sub>
-
-<span style="color:#F25C54">▰▰▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱▱▱▱</span>
-
-<sub>Explicit validation and state-change rules establish checks for unsupported actions and records; the parameter covers the rule controls defined by the system.</sub>
-
-<div align="center">
+<table align="center" width="96%">
+<thead>
+<tr>
+<th align="left">PARAMETER</th>
+<th align="center">SCORE</th>
+<th align="left">STATUS BAR</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>WORLD DESIGN</strong><br/><sub>Worldbuilding & setting depth</sub></td>
+<td align="center"><strong>9.2 / 10</strong></td>
+<td><span style="color:#F25C54">▰▰▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱</span></td>
+</tr>
+<tr>
+<td colspan="3"><sub>Three major powers, distinct political and cultural structures, hidden territories, factions, resources, and connected world lore.</sub></td>
+</tr>
+<tr>
+<td><strong>GAMEPLAY SYSTEM</strong><br/><sub>Mechanics & progression</sub></td>
+<td align="center"><strong>9.0 / 10</strong></td>
+<td><span style="color:#F25C54">▰▰▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱</span></td>
+</tr>
+<tr>
+<td colspan="3"><sub>Cultivation realms, Martial Souls, Spirit Rings, Spirit Beasts, Sync progress, eligibility conditions, and defined character-state fields.</sub></td>
+</tr>
+<tr>
+<td><strong>STATE CONTINUITY</strong><br/><sub>State tracking & continuity</sub></td>
+<td align="center"><strong>9.0 / 10</strong></td>
+<td><span style="color:#F25C54">▰▰▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱</span></td>
+</tr>
+<tr>
+<td colspan="3"><sub>Character profiles track HP, Satiety, Qi, equipment, inventory, building assets, and the five-denomination Xuan currency wallet.</sub></td>
+</tr>
+<tr>
+<td><strong>GM AUTHORITY</strong><br/><sub>Rule hierarchy & source control</sub></td>
+<td align="center"><strong>9.2 / 10</strong></td>
+<td><span style="color:#F25C54">▰▰▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱</span></td>
+</tr>
+<tr>
+<td colspan="3"><sub>Authority and gameplay templates define source precedence, validation requirements, and boundaries for unsupported mechanics and hidden information.</sub></td>
+</tr>
+<tr>
+<td><strong>WORLD SIMULATION</strong><br/><sub>Long-term simulation potential</sub></td>
+<td align="center"><strong>8.5 / 10</strong></td>
+<td><span style="color:#F25C54">▰▰▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱▱▱▱</span></td>
+</tr>
+<tr>
+<td colspan="3"><sub>NPC priorities, regional resources, travel risks, trade, political tensions, and lasting consequences provide systems for ongoing world activity.</sub></td>
+</tr>
+<tr>
+<td><strong>NARRATIVE & AGENCY</strong><br/><sub>Narrative & player agency</sub></td>
+<td align="center"><strong>8.0 / 10</strong></td>
+<td><span style="color:#F25C54">▰▰▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱▱▱</span></td>
+</tr>
+<tr>
+<td colspan="3"><sub>Scene-based narration, social hooks, character goals, and open-ended action prompts support player-directed story progression.</sub></td>
+</tr>
+<tr>
+<td><strong>RULE ENFORCEMENT</strong><br/><sub>Rule enforcement & error resistance</sub></td>
+<td align="center"><strong>7.5 / 10</strong></td>
+<td><span style="color:#F25C54">▰▰▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱▱▱▱</span></td>
+</tr>
+<tr>
+<td colspan="3"><sub>Explicit validation and state-change rules establish checks for unsupported actions and records; the parameter covers the rule controls defined by the system.</sub></td>
+</tr>
+</tbody>
+</table>
 
 **✦ ━━━━━━ ◆ ━━━━━━ ✦**
 
-<sub>INDEPENDENT RP SYSTEM BENCHMARK · PARAMETER-BASED COMPARISON</sub>
+<sub>*INDEPENDENT RP SYSTEM BENCHMARK · PARAMETER-BASED COMPARISON*</sub>
 
 </div>
 
@@ -174,9 +181,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
-- ✦ **Independent RP System Benchmark — Persona-Inspired Stat Bars**  
+- ✦ **Independent RP System Benchmark — Centered Score Table with Persona-Inspired Bars**  
   Hash: ``52cdae6`` | Ver: ``Nightly-v2.4.106``  
-  Presented benchmark parameters as colored status bars with concise descriptions and the evaluated snapshot identity.
+  Organized benchmark parameters into a centered table with colored status bars, concise descriptions, and the evaluated snapshot identity.
 
 - ✦ **Regional Canon Load Path and Cross-Reference Validation**  
   Regional scenes must follow the canon router, load relevant local authorities, and reconcile conflicts through the binding precedence rules.

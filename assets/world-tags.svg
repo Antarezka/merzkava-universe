@@ -1,21 +1,40 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-labelledby="title desc">
-  <title id="title">Merzkava Universe staircase genre tags</title>
-  <desc id="desc">Only three colorful text panels arranged as descending stairs. Transparent background. No balls, dots, trails, or other decorations.</desc>
-  <g transform="translate(-77 -27) scale(1.15)">
-    <g>
-      <rect x="148" y="42" width="322" height="82" rx="3" fill="#151515"/>
-      <rect x="155" y="49" width="308" height="68" rx="2" fill="#FFB36B"/>
-      <text x="309" y="89" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="800" text-anchor="middle" letter-spacing=".7" fill="#151515">EASTERN FANTASY</text>
-    </g>
-    <g>
-      <rect x="348" y="137" width="300" height="82" rx="3" fill="#151515"/>
-      <rect x="355" y="144" width="286" height="68" rx="2" fill="#FFE066"/>
-      <text x="498" y="184" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800" text-anchor="middle" letter-spacing="1" fill="#151515">CULTIVATION</text>
-    </g>
-    <g>
-      <rect x="526" y="232" width="376" height="82" rx="3" fill="#151515"/>
-      <rect x="533" y="239" width="362" height="68" rx="2" fill="#F25C54"/>
-      <text x="714" y="279" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="800" text-anchor="middle" letter-spacing=".5" fill="#FFFFFF">WORLD IN MOTION</text>
+<title id="title">Merzkava Universe staircase genre tags</title>
+<desc id="desc">Three clipped paper labels arranged as descending stairs, preserving the original order and transparent background. Warm orange, yellow, coral, and black.</desc>
+<g transform="translate(-77 -27) scale(1.15)">
+  <g transform="rotate(-2 309 83)">
+    <rect x="155" y="50" width="322" height="82" fill="#151515"/>
+    <rect x="148" y="42" width="322" height="82" fill="#FFB36B" stroke="#151515" stroke-width="3"/>
+    <path d="M148 42H470V55H148Z" fill="#151515"/>
+    <text x="309" y="51" font-family="monospace" font-size="8" font-weight="900" letter-spacing="1.5" text-anchor="middle" fill="#FFFFFF">FIELD FILE / 01</text>
+    <text x="309" y="96" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="900" text-anchor="middle" letter-spacing=".7" fill="#151515">EASTERN FANTASY</text>
+    <path d="M159 113L204 113" stroke="#F25C54" stroke-width="4"/>
+    <g transform="rotate(-8 173 48)">
+      <rect x="157" y="31" width="35" height="19" rx="3" fill="#E1DED6" stroke="#151515" stroke-width="1.5"/>
+      <rect x="168" y="28" width="13" height="25" rx="2" fill="#FFFFFF" stroke="#151515" stroke-width="1.3"/>
     </g>
   </g>
+  <g transform="rotate(1.5 498 178)">
+    <rect x="355" y="145" width="300" height="82" fill="#151515"/>
+    <rect x="348" y="137" width="300" height="82" fill="#FFE066" stroke="#151515" stroke-width="3"/>
+    <path d="M348 137H648V150H348Z" fill="#151515"/>
+    <text x="498" y="146" font-family="monospace" font-size="8" font-weight="900" letter-spacing="1.5" text-anchor="middle" fill="#FFFFFF">FIELD FILE / 02</text>
+    <text x="498" y="191" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="900" text-anchor="middle" letter-spacing="1" fill="#151515">CULTIVATION</text>
+    <path d="M359 208L405 208" stroke="#F25C54" stroke-width="4"/>
+    <g transform="rotate(7 628 145)">
+      <rect x="609" y="129" width="32" height="18" fill="#F25C54" stroke="#151515" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g transform="rotate(-1.4 714 273)">
+    <rect x="533" y="240" width="376" height="82" fill="#151515"/>
+    <rect x="526" y="232" width="376" height="82" fill="#F25C54" stroke="#151515" stroke-width="3"/>
+    <path d="M526 232H902V245H526Z" fill="#151515"/>
+    <text x="714" y="241" font-family="monospace" font-size="8" font-weight="900" letter-spacing="1.5" text-anchor="middle" fill="#FFFFFF">FIELD FILE / 03</text>
+    <text x="714" y="286" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="900" text-anchor="middle" letter-spacing=".5" fill="#FFFFFF">WORLD IN MOTION</text>
+    <path d="M538 303L584 303" stroke="#FFE066" stroke-width="4"/>
+    <g transform="rotate(7 878 242)">
+      <rect x="860" y="226" width="31" height="18" fill="#FFE066" stroke="#151515" stroke-width="1.5"/>
+    </g>
+  </g>
+</g>
 </svg>

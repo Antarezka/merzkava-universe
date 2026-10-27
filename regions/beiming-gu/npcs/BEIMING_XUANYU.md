@@ -10,7 +10,10 @@
 - Species / people: Human unless otherwise established later.
 - Occupation / role: Kepala Beiming Clan; salah satu dari dua Thinker Grade 9 yang tercatat berada di Beiming Gu.
 - Affiliation: Beiming Gu; clan affiliation as listed above.
-- Current location: Beiming Gu affiliation established; exact current whereabouts are not established.
+- Home / usual residence: Beiming Gu; principal Beiming Gu base of the named clan, but the compound and exact district are not established.
+- Usual base / duty location: Head of the named clan in Beiming Gu; exact headquarters location is not established.
+- Last confirmed location / current whereabouts: Beiming Gu affiliation is established; exact current whereabouts are not confirmed.
+- Recurring visits / cover locations: No recurring visits or cover identity are established.
 
 ## 2. Public Profile
 - Appearance: Northern clothing and practical cold-weather gear suited to their role; distinctive personal details remain open for later canon.

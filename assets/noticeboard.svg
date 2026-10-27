@@ -1,64 +1,111 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="1120" viewBox="0 0 960 1120" role="img" aria-labelledby="title desc">
-  <rect width="960" height="1120" fill="#0D1117"/>
-  <title id="title">Merzkava Universe — The Noticeboard</title>
-  <desc id="desc">Six framed panels introducing Merzkava's three powers, hidden territories, consequential choices, Thinkers and Artificial Artifacts, a living world, and the difference between rumor and fact.</desc>
-  <g font-family="Arial, Helvetica, sans-serif">
-    <rect x="34" y="28" width="892" height="94" rx="3" fill="#151515"/>
-    <path d="M34 28H926V122H34Z" fill="none" stroke="#FFB36B" stroke-width="4"/>
-    <text x="62" y="61" fill="#FFFFFF" font-size="17" font-weight="700" letter-spacing="3">MERZKAVA UNIVERSE / FIELD NOTES</text>
-    <text x="62" y="99" fill="#FFFFFF" font-size="32" font-weight="900" letter-spacing="1">THE NOTICEBOARD</text>
+<title id="title">Merzkava Universe — The Noticeboard</title>
+<desc id="desc">Six dossier-style paper files introducing Merzkava's powers, hidden territories, consequential choices, Thinkers, a living world, and rumors versus facts. The original reading order and panel arrangement are preserved.</desc>
+<rect width="960" height="1120" fill="#F5F1E8"/>
+<path d="M0 0H960V1120H0Z" fill="none" stroke="#151515" stroke-width="12"/>
+<path d="M22 0L960 0V22L22 22Z" fill="#FFB36B"/>
+<g font-family="Arial, Helvetica, sans-serif">
+  <g transform="rotate(-.8 480 75)">
+    <rect x="40" y="37" width="892" height="94" fill="#C9C1B3" opacity=".65"/>
+    <rect x="34" y="28" width="892" height="94" fill="#FFFFFF" stroke="#151515" stroke-width="4"/>
+    <path d="M34 28H926V122H34Z" fill="none" stroke="#F25C54" stroke-width="3" stroke-dasharray="8 5"/>
+    <text x="62" y="61" fill="#625B52" font-size="15" font-weight="800" letter-spacing="3">MERZKAVA UNIVERSE / FIELD NOTES</text>
+    <text x="60" y="99" fill="#151515" font-size="32" font-weight="900" letter-spacing="1">THE NOTICEBOARD</text>
+    <g transform="rotate(-9 65 33)">
+      <rect x="43" y="13" width="69" height="30" rx="5" fill="#D9D6CF" stroke="#151515" stroke-width="2"/>
+      <rect x="65" y="8" width="24" height="40" rx="4" fill="#FFFFFF" stroke="#151515" stroke-width="2"/>
+      <path d="M71 14V42M77 14V42M83 14V42" stroke="#A6A29A" stroke-width="1.2"/>
+    </g>
+    <g transform="rotate(7 864 92)">
+      <rect x="824" y="83" width="78" height="24" fill="#FFE066" stroke="#151515" stroke-width="2"/>
+      <text x="863" y="99" text-anchor="middle" fill="#151515" font-family="monospace" font-size="9" font-weight="900">INDEX 01</text>
+    </g>
+  </g>
 
-    <rect x="34" y="145" width="892" height="224" rx="3" fill="#FFB36B"/>
+  <g transform="rotate(.45 480 257)">
+    <rect x="42" y="154" width="892" height="224" fill="#C9C1B3" opacity=".75"/>
+    <rect x="34" y="145" width="892" height="224" fill="#FFB36B" stroke="#151515" stroke-width="4"/>
     <rect x="34" y="145" width="892" height="48" fill="#151515"/>
-    <path d="M34 145H926V369H34Z" fill="none" stroke="#151515" stroke-width="4"/>
-    <text x="58" y="176" fill="#FFFFFF" font-size="18" font-weight="700" letter-spacing="1.5">01 / THREE GREAT POWERS</text>
+    <path d="M52 202L52 353" stroke="#F25C54" stroke-width="5"/>
+    <text x="58" y="176" fill="#FFFFFF" font-size="18" font-weight="800" letter-spacing="1.5">01 / THREE GREAT POWERS</text>
     <text x="60" y="235" fill="#151515" font-size="34" font-weight="900">THREE POWERS.</text>
     <text x="60" y="276" fill="#151515" font-size="34" font-weight="900">THREE WAYS TO RISE.</text>
     <text x="60" y="322" fill="#151515" font-size="19">Martial Souls, Spirit Rings, and rival ambitions shape the world.</text>
+    <g transform="rotate(7 852 333)">
+      <rect x="794" y="319" width="112" height="28" fill="#F25C54" stroke="#151515" stroke-width="2"/>
+      <text x="850" y="338" text-anchor="middle" fill="#151515" font-family="monospace" font-size="10" font-weight="900">KEY EVIDENCE</text>
+    </g>
+  </g>
 
-    <rect x="34" y="393" width="426" height="202" rx="3" fill="#FFE066"/>
+  <g transform="rotate(-1.1 247 494)">
+    <rect x="41" y="402" width="426" height="202" fill="#C9C1B3" opacity=".75"/>
+    <rect x="34" y="393" width="426" height="202" fill="#FFE066" stroke="#151515" stroke-width="4"/>
     <rect x="34" y="393" width="426" height="44" fill="#151515"/>
-    <path d="M34 393H460V595H34Z" fill="none" stroke="#151515" stroke-width="4"/>
-    <text x="54" y="422" fill="#FFFFFF" font-size="16" font-weight="800" letter-spacing="1">02 / BEYOND THE KNOWN WORLD</text>
+    <text x="54" y="422" fill="#FFFFFF" font-size="15" font-weight="800" letter-spacing=".8">02 / BEYOND THE KNOWN WORLD</text>
     <text x="56" y="476" fill="#151515" font-size="23" font-weight="900">RUINS KEEP</text>
     <text x="56" y="505" fill="#151515" font-size="23" font-weight="900">OLD SECRETS.</text>
     <text x="56" y="548" fill="#151515" font-size="16">Hidden factions. Dangerous routes. Uncharted places.</text>
+    <path d="M411 451L444 451L444 484" fill="none" stroke="#F25C54" stroke-width="5"/>
+  </g>
 
-    <rect x="482" y="393" width="444" height="202" rx="3" fill="#F25C54"/>
+  <g transform="rotate(.8 704 494)">
+    <rect x="489" y="402" width="444" height="202" fill="#C9C1B3" opacity=".75"/>
+    <rect x="482" y="393" width="444" height="202" fill="#F25C54" stroke="#151515" stroke-width="4"/>
     <rect x="482" y="393" width="444" height="44" fill="#151515"/>
-    <path d="M482 393H926V595H482Z" fill="none" stroke="#151515" stroke-width="4"/>
-    <text x="502" y="422" fill="#FFFFFF" font-size="16" font-weight="800" letter-spacing="1">03 / CHOICES HAVE CONSEQUENCES</text>
+    <text x="502" y="422" fill="#FFFFFF" font-size="15" font-weight="800" letter-spacing=".6">03 / CHOICES HAVE CONSEQUENCES</text>
     <text x="504" y="476" fill="#151515" font-size="25" font-weight="900">POWER CAN</text>
     <text x="504" y="506" fill="#151515" font-size="25" font-weight="900">COST YOU.</text>
     <text x="504" y="548" fill="#151515" font-size="16">Your strength won't erase every consequence.</text>
+    <g transform="rotate(-8 884 572)">
+      <rect x="837" y="552" width="65" height="24" fill="#FFE066" stroke="#151515" stroke-width="1.5"/>
+      <text x="869" y="568" text-anchor="middle" fill="#151515" font-family="monospace" font-size="9" font-weight="900">CAUTION</text>
+    </g>
+  </g>
 
-    
-    <rect x="34" y="619" width="892" height="156" fill="#FFFFFF"/>
+  <g transform="rotate(-.35 480 697)">
+    <rect x="41" y="628" width="892" height="156" fill="#C9C1B3" opacity=".75"/>
+    <rect x="34" y="619" width="892" height="156" fill="#FFFFFF" stroke="#151515" stroke-width="4"/>
     <rect x="34" y="619" width="892" height="43" fill="#FFB36B"/>
-    <path d="M34 619H926V775H34Z" fill="none" stroke="#151515" stroke-width="4"/>
-    <text x="58" y="647" fill="#151515" font-size="17" font-weight="800" letter-spacing="1.2">04 / THINKERS &amp; ARTIFICIAL ARTIFACTS</text>
+    <text x="58" y="647" fill="#151515" font-size="17" font-weight="900" letter-spacing="1.2">04 / THINKERS &amp; ARTIFICIAL ARTIFACTS</text>
     <text x="58" y="706" fill="#151515" font-size="27" font-weight="900">NOT EVERY PATH TO POWER BEGINS WITH CULTIVATION.</text>
-    <text x="58" y="744" fill="#151515" font-size="18">Thinkers shape knowledge, formulations, and artifacts through skill.</text>
+    <text x="58" y="744" fill="#514B45" font-size="18">Thinkers shape knowledge, formulations, and artifacts through skill.</text>
+    <g transform="rotate(5 861 642)">
+      <rect x="819" y="627" width="84" height="23" fill="#F25C54" stroke="#151515" stroke-width="1.5"/>
+      <text x="861" y="642" text-anchor="middle" fill="#151515" font-family="monospace" font-size="9" font-weight="900">RESEARCH</text>
+    </g>
+  </g>
 
-    <rect x="34" y="799" width="546" height="182" rx="3" fill="#FFB36B"/>
+  <g transform="rotate(.65 307 890)">
+    <rect x="41" y="808" width="546" height="182" fill="#C9C1B3" opacity=".75"/>
+    <rect x="34" y="799" width="546" height="182" fill="#FFB36B" stroke="#151515" stroke-width="4"/>
     <rect x="34" y="799" width="546" height="43" fill="#151515"/>
-    <path d="M34 799H580V981H34Z" fill="none" stroke="#151515" stroke-width="4"/>
     <text x="56" y="827" fill="#FFFFFF" font-size="16" font-weight="800" letter-spacing="1">05 / A LIVING WORLD</text>
     <text x="56" y="881" fill="#151515" font-size="26" font-weight="900">THE WORLD</text>
     <text x="56" y="912" fill="#151515" font-size="26" font-weight="900">KEEPS MOVING.</text>
     <text x="56" y="950" fill="#151515" font-size="16">Trade, festivals, NPC agendas, and rivalries move on.</text>
+  </g>
 
-    <rect x="602" y="799" width="324" height="182" rx="3" fill="#FFE066"/>
+  <g transform="rotate(-.7 764 890)">
+    <rect x="609" y="808" width="324" height="182" fill="#C9C1B3" opacity=".75"/>
+    <rect x="602" y="799" width="324" height="182" fill="#FFE066" stroke="#151515" stroke-width="4"/>
     <rect x="602" y="799" width="324" height="43" fill="#151515"/>
-    <path d="M602 799H926V981H602Z" fill="none" stroke="#151515" stroke-width="4"/>
-    <text x="622" y="827" fill="#FFFFFF" font-size="16" font-weight="800" letter-spacing="1">06 / FOLLOW THE EVIDENCE</text>
+    <text x="622" y="827" fill="#FFFFFF" font-size="15" font-weight="800" letter-spacing=".5">06 / FOLLOW THE EVIDENCE</text>
     <text x="622" y="881" fill="#151515" font-size="26" font-weight="900">RUMORS</text>
     <text x="622" y="912" fill="#151515" font-size="26" font-weight="900">AREN'T FACTS</text>
     <text x="622" y="950" fill="#151515" font-size="16">Discover the truth; don't assume it.</text>
-
-    <rect x="34" y="1005" width="892" height="83" rx="3" fill="#151515"/>
-    <path d="M34 1005H926V1088H34Z" fill="none" stroke="#F25C54" stroke-width="4"/>
-    <text x="58" y="1040" fill="#FFFFFF" font-size="17" font-weight="800" letter-spacing="2">LOOK CLOSER</text>
-    <text x="58" y="1067" fill="#FFFFFF" font-size="20" font-weight="900">YOUR NEXT CLUE IS IN THE WORLD ARCHIVE →</text>
+    <path d="M886 857L908 857L908 882" fill="none" stroke="#F25C54" stroke-width="4"/>
   </g>
+
+  <g transform="rotate(.5 480 1046)">
+    <rect x="41" y="1014" width="892" height="83" fill="#C9C1B3" opacity=".75"/>
+    <rect x="34" y="1005" width="892" height="83" fill="#151515" stroke="#F25C54" stroke-width="4"/>
+    <text x="58" y="1040" fill="#FFE066" font-size="17" font-weight="800" letter-spacing="2">LOOK CLOSER</text>
+    <text x="58" y="1067" fill="#FFFFFF" font-size="20" font-weight="900">YOUR NEXT CLUE IS IN THE WORLD ARCHIVE →</text>
+    <g transform="rotate(8 870 1046)">
+      <rect x="831" y="1020" width="70" height="44" fill="#F25C54" stroke="#FFFFFF" stroke-width="1.5"/>
+      <text x="866" y="1038" text-anchor="middle" fill="#151515" font-size="9" font-weight="900">CASE</text>
+      <text x="866" y="1053" text-anchor="middle" fill="#151515" font-size="13" font-weight="900">CLOSED?</text>
+    </g>
+  </g>
+</g>
 </svg>

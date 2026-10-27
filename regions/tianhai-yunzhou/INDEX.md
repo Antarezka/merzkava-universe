@@ -5,13 +5,12 @@
 
 **Connected world tree and transit:** [WORLD_NAVIGATION_TREE.md](../../world/WORLD_NAVIGATION_TREE.md) connects this regional branch to the other two major powers and lists established transit corridors. It is a navigation aid; follow the linked canon sources for details.
 
-## NPC loading order
+## NPC → Map path
 
-1. Read the central [INDEX](../../INDEX.md), [Authority Order](../../templates/AUTHORITY_ORDER.md), and [NPC Management](../../world/NPC_MANAGEMENT.md).
-2. Read the [Tianhai Yunzhou regional module](../../world/REGION_TIANHAI_YUNZHOU.md).
-3. Check the [NPC Registry](npcs/REGISTRY.md).
-4. Consult the [Power Structure roster](npcs/POWER_STRUCTURE.md) for court, civil/military, district, clan, dojo, and Thinker-institution officeholders.
-5. Open the canonical detailed profile only when relevant.
+1. Open the relevant canonical NPC profile (use the registry only to locate it).
+2. Follow the profile's home/base/last-confirmed location to the [Tianhai Yunzhou regional module](../../world/REGION_TIANHAI_YUNZHOU.md).
+3. Use the map's established local places and context to ground the scene. Check the [Power Structure roster](npcs/POWER_STRUCTURE.md) only when the scene depends on an officeholder or authority.
+4. Do not invent a more specific location or assume the NPC is physically present without support.
 
 ## Canonical NPC files
 

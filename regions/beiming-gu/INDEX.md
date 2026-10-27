@@ -5,13 +5,12 @@
 
 **Connected world tree and transit:** [WORLD_NAVIGATION_TREE.md](../../world/WORLD_NAVIGATION_TREE.md) connects this regional branch to the other two major powers and lists established transit corridors. It is a navigation aid; follow the linked canon sources for details.
 
-## NPC loading order
+## NPC → Map path
 
-1. Read the central [INDEX](../../INDEX.md), [Authority Order](../../templates/AUTHORITY_ORDER.md), and [NPC Management](../../world/NPC_MANAGEMENT.md).
-2. Read the consolidated [Beiming Gu Regional Reference](../../world/REGION_BEIMING_GU.md), which is the single canonical regional module for all seven districts.
-3. Check the [NPC Registry](npcs/REGISTRY.md).
-4. Open only the canonical profile relevant to the scene; keep GM-only secrets separate from player-character knowledge.
-5. Use `templates/NPC_PROFILE_TEMPLATE.md` when a future owner-approved profile needs to be added.
+1. Open the relevant canonical NPC profile (use the registry only to locate it).
+2. Follow the profile's home/base/last-confirmed location to the consolidated [Beiming Gu Regional Reference](../../world/REGION_BEIMING_GU.md), the single map source for all seven districts.
+3. Use the map's established local places and context to ground the scene; keep GM-only secrets separate from player-character knowledge.
+4. Do not invent a more specific location or assume the NPC is physically present without support.
 
 ## Canonical NPC directory
 

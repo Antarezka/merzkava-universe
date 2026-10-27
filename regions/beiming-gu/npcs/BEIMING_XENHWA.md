@@ -9,7 +9,10 @@
 - Age: 17
 - Species / people: Half-beast; white nine-tailed fox.
 - Family: Adoptive daughter of Beiming Han; adoptive sister of Beiming Jingheng.
-- Current location: Beiming Gu is her established regional affiliation; exact current whereabouts are not established.
+- Home / usual residence: Beiming Gu; exact home, district, and residence are not established.
+- Usual base / duty location: No separate duty location or formal institutional base is established.
+- Last confirmed location / current whereabouts: Beiming Gu affiliation is established; exact current whereabouts are not confirmed.
+- Recurring visits / cover locations: No recurring visits or cover identity are established.
 - Occupation / role, pronouns, and formal social rank: Not otherwise established.
 
 ## 2. Public Profile

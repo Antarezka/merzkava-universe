@@ -3,7 +3,7 @@
 **Purpose:** Three matching route-line maps, one from each major power's perspective, showing internal regional structure, land corridors, mixed land/river/sea journeys, wilderness crossings, and the three established air corridors.
 **Map status:** Owner-requested connected geographic framework. This is a relative schematic, not a scale map; it does not define coordinates, distances, journey times, or exact borders.
 **Route status:** Existing confirmed connections retain their established status. The land and maritime corridors below are mapped travel frameworks requested for the world map; exact local pathing, access, safety, schedules, and travel times remain conditional or unspecified. They do not establish unnamed settlements, checkpoints, fees, or precise crossings.
-**Orientation:** Golden Dragon Empire is east; Beiming Gu is north; Tianhai Yunzhou is a giant floating island above the southwestern ocean. Lawless Territories and the Wanluo Sacred Expanse remain outside the direct jurisdiction of the three powers.
+**Orientation:** Golden Dragon Empire is east; Beiming Gu is north; Tianhai Yunzhou is a giant floating island above the southwestern ocean. The western side of Tianhai's floating position faces a sea-side approach toward the Lawless Territories, where Azerion Forest's easiest known entrance lies. Azerion Forest extends into Golden Dragon Empire territory and has a separate northern coastal ruined/labyrinth exit relevant to the Beiming approach. Lawless Territories and the Wanluo Sacred Expanse remain outside the direct jurisdiction of the three powers.
 
 ## Reading key
 
@@ -62,7 +62,7 @@
 
 ### Golden Dragon → Tianhai Yunzhou
 
-**Mixed land-and-sea corridor:** use established routes within the empire toward the maritime region of Xingluo and its regional seat Dongxing; continue by coastal/open-water vessel to Cangqiong Harbor, then follow Tianhai Yunzhou's local route network.
+**Connections to Tianhai Yunzhou and the western Lawless approach:** (A) the maritime itinerary from Xingluo / Dongxing to Cangqiong Harbor; and (B) from the western side of Tianhai Yunzhou's floating position, the sea-facing approach toward Lawless Territories and Azerion Forest's easiest known entrance. Route B is distinct from the Dongxing itinerary and does not pass through Golden Dragon's prison-island river trap.
 
 - This does not claim every Golden Dragon region has a direct road to Dongxing. Internal interregional legs must be verified in the relevant regional module; where a connection is not listed, it remains an uncharted local leg rather than an assumed road.
 - Dongxing is the mapped mainland maritime departure point for this corridor; Cangqiong Harbor is the receiving harbor on Tianhai Yunzhou.
@@ -78,6 +78,8 @@ All seven regions remain part of the same imperial branch: **Longyuan, Canglan, 
     TIANHAI YUNZHOU — FLOATING ISLAND ABOVE THE SOUTHWESTERN OCEAN
     ├─ Cangqiong Harbor (west; main harbor)
     │  ├─ Westwake Anchorage
+    │  ├~~~ western sea-facing approach ~~~ [EXTERNAL] Lawless Territories
+    │  │  └─ easiest known entrance → Azerion Forest
     │  ├─ Cangqiong Sky Transit Terminal ⇧ AIR ⇧ Longyuan Terminal
     │  ├─ Cangqiong Sky Transit Terminal ⇧ AIR ⇧ Beiming Heartland Terminal
     │  └~~~ coastal/open-water vessel route ~~~ Dongxing
@@ -95,7 +97,9 @@ All seven regions remain part of the same imperial branch: **Longyuan, Canglan, 
 
 ### Tianhai Yunzhou → Golden Dragon Empire
 
-**Mixed land-and-sea corridor:** Cangqiong Harbor → vessel crossing to Dongxing → Xingluo, Golden Dragon Empire → inland journey through documented Golden Dragon routes toward the intended destination.
+**To Golden Dragon Empire:** Cangqiong Harbor → vessel crossing to Dongxing → Xingluo → confirmed internal routes toward the intended destination. Separately, Azerion Forest reaches the empire-facing frontier through a rushing-river trap corridor with a small Golden Dragon Empire prison island in midstream.
+
+**To Lawless Territories and Azerion Forest:** from the western side of Tianhai Yunzhou's floating position, follow the sea-facing approach toward Lawless Territories, then the easiest known entrance into Azerion Forest. This is not the same route as the Dongxing maritime corridor.
 
 - Dongxing is the mapped mainland maritime access point; it is not a claim that every imperial region is directly adjacent to Xingluo.
 - Continue from Xingluo only along route legs confirmed by the Golden Dragon regional sources or established through exploration.
@@ -118,7 +122,9 @@ The seven districts are **Yunxiao Terrace, Tianji Core, Cangqiong Harbor, Haiyue
     BEIMING GU — NORTHERN POWER
     ├─ Beiming Heartland (administration and main settlements)
     │  ├─ Beiming Heartland Sky Transit Terminal ⇧ AIR ⇧ Cangqiong Terminal
-    │  └─ Beiming Heartland Sky Transit Terminal ⇧ AIR ⇧ Longyuan Terminal
+    │  ├─ Beiming Heartland Sky Transit Terminal ⇧ AIR ⇧ Longyuan Terminal
+    │  └··· northern coastal shoreline → Azerion Forest's ruined/labyrinth exit
+        ← underground ruins ← central lake entrance in Azerion Forest
     ├─ Stonegate March (mountain passages and border defense)
     │  └══ southern approach ··· Nine Frost Wastes [EXTERNAL]
     │      ··· snow valleys / cold forest margins
@@ -137,9 +143,11 @@ The seven districts are **Yunxiao Terrace, Tianji Core, Cangqiong Harbor, Haiyue
 - Beiming's seven districts are not yet assigned a full adjacency order. The map therefore shows only the districts directly relevant to this corridor and lists the others without pretending their borders or roads are surveyed.
 - Exact pass names, checkpoints, settlements, duration, and seasonal closures remain unspecified.
 
-### Beiming Gu → Tianhai Yunzhou
+### Beiming Gu → Azerion Forest and Tianhai Yunzhou
 
-**Mixed land-and-sea corridor:** Beiming Heartland → Stonegate March → Nine Frost Wastes → northern/western Lawless Territories → mainland coastal approach → vessel crossing to Cangqiong Harbor.
+**Azerion coastal/ruined corridor:** Beiming Gu → northern coastal shoreline → the sea-facing northern exit of Azerion Forest's ruins / Mega Colossal Labyrinth. This is a hazardous ruined route associated with the exit from the ruins, not a normal public road or surveyed shortcut through the forest. The ruins' internal route is unknown and must be explored in play.
+
+**Separate route to Tianhai Yunzhou:** Beiming Heartland → Stonegate March → Nine Frost Wastes → northern/western Lawless Territories → mainland coastal approach → vessel crossing to Cangqiong Harbor. Exact mainland landing and maritime path remain unassigned.
 
 - The mainland landing point and maritime route are not yet assigned a proper name; the corridor is a geographic travel framework, not a guaranteed ship timetable.
 - The established direct air service Beiming Heartland Sky Transit Terminal ↔ Cangqiong Sky Transit Terminal is the defined scheduled alternative.
@@ -157,7 +165,7 @@ These external regions provide shared geographic context and can appear on more 
 |---|---|---|
 | **Nine Frost Wastes** | Wild northern areas outside Beiming Gu's official defenses; snowfields, frozen valleys, conifer forests, difficult mountains | Northern land corridor between the Beiming approach and the wider mainland frontier; hazardous and not uniformly controlled |
 | **Ashen Borderlands** | Outside the western and southwestern borders of Golden Dragon Empire; known villages and organizations | Optional western/southwestern wilderness context; not a mandatory leg on the mapped northern corridor |
-| **Azerion Forest** | Vast Spirit Beast forest extending from Lawless Territories into Golden Dragon Empire; enormous central lake, hidden Inner Azerion, dangerous Dead Zone | A major dangerous side-region in the wider mainland map, not a shortcut presumed safe or a mandatory route between powers |
+| **Azerion Forest** | Vast Spirit Beast forest extending from Lawless Territories into Golden Dragon Empire; enormous central lake, hidden Inner Azerion, dangerous Dead Zone; rushing-river trap corridor and Golden Dragon's small prison island at its imperial boundary; lake ruins connect to the Mega Colossal Labyrinth and its northern deep-sea exit | Main forest entrance is in Lawless Territories; the Golden Dragon boundary route is obstructed by rushing water and the prison island; Beiming's coastal approach uses the northern ruined/labyrinth exit, not a presumed safe forest road |
 | **Black Tide Expanse** | Remote islands and sea routes outside Tianhai Yunzhou's direct control | Maritime context for sea travel and island routes; no specific vessel route or timetable is implied |
 | **Wanluo Sacred Expanse** | Green plain around the World Knowledge Tower, surrounded by ancient forests and mountains; pilgrimage roads converge there | A major crossroads region in the wider world, but its exact location relative to the three powers remains unconfirmed; do not insert it as a fixed stop on these corridors without a later location decision |
 | **High cloud-sea mountains** | Remote peaks shelter the Ancient Shamanism clan/sect and a separate Buddhist clan | Remote landmark system; exact coordinates and routes remain unknown, and neither group is assigned to a power by this map |
@@ -167,7 +175,8 @@ These external regions provide shared geographic context and can appear on more 
 - **Mountains and passes** constrain land travel; a corridor may require a pass or a detour, and winter access may change.
 - **Forests and valleys** may offer cover, resources, and side paths while increasing the risk of getting lost, ambush, or Spirit Beast encounters.
 - **Rivers and lakes** can support boat travel or force a crossing. A named river crossing or ferry is not assumed unless a source establishes it.
-- **The central lake of Azerion Forest** and the Mega Colossal Labyrinth beneath it are dangerous exploration features, not a normal public transport interchange.
+- **The central lake of Azerion Forest** and the Mega Colossal Labyrinth beneath it are dangerous exploration features, not a normal public transport interchange. The labyrinth's exit opens to the northern deep-sea coast and is the ruined exit associated with the Beiming coastal approach; its internal passages remain unmapped.
+- **Golden Dragon's forest boundary:** a rushing river forms a trap-like barrier; a small prison island owned by Golden Dragon Empire lies in the middle of that rushing-water route. Do not invent a river name, bridge, safe ford, island coordinates, or prison details.
 - **The sea around Tianhai Yunzhou** must be crossed by a suitable vessel or the established energy-aircraft service; the floating island is not treated as a continuous mainland road.
 - The route framework never implies that a route is safe, open, free, fast, or accessible to every traveler.
 

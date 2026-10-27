@@ -162,11 +162,11 @@ The Medicine Hall Society is a neutral medical network spread across the world. 
 
 The Society's neutral intent does not guarantee that neutrality can never be violated, that every point is fully staffed, or that treatment is free. Independent healers, family practitioners, and local herbalists may work outside the Society. Do not assume every healer belongs to it.
 
-## 8. Hidden Mountain Traditions
+## 9. Hidden Mountain Traditions
 
 Two established hidden groups dwell among remote peaks above the sea of clouds, beyond the ordinary reach of the three major powers: the Ancient Shamanism clan/sect and a separate Buddhist clan. They are not listed as ordinary regional factions because their precise mountain locations and routes are not established. Their canon hierarchy, Martial Souls, philosophies, and encounter constraints are maintained in [`world/ANCIENT_SHAMANISM_AND_BUDDHIST_CLANS.md`](ANCIENT_SHAMANISM_AND_BUDDHIST_CLANS.md). Do not invent a formal name for the Buddhist clan, a precise headcount for it, additional leaders, or political allegiance.
 
-## 9. Faction Interaction Rules
+## 10. Faction Interaction Rules
 
 - Do not invent faction membership, rank, secret identity, alliance, feud, or current orders as established fact.
 - Faction descriptions are general tendencies and areas of influence, not rules that every member behaves identically.
@@ -176,7 +176,7 @@ Two established hidden groups dwell among remote peaks above the sea of clouds, 
 - Political power, military strength, personal combat power, economic influence, and information networks are distinct.
 - New factions or relationships may become canon through explicit owner approval or recorded gameplay, but must not be retroactively inserted into prior events.
 
-## 9. Ordo Suci Tianming
+## 11. Ordo Suci Tianming
 
 **Type:** World-spanning religious organization.  
 **Status:** Established organization concept; formal leadership and hierarchy remain undefined.
@@ -194,7 +194,7 @@ Ordo Suci Tianming jointly manages the World Knowledge Tower with an alliance of
 The Ordo is not omniscient and does not automatically defeat every threat. Reports must be verified, and response can be affected by distance, delayed information, political interests, and limited resources. Its religious standing does not grant it absolute civil authority over Wanluo or universal law-enforcement power in every territory.
 
 
-## 10. Tianhai Yunzhou Trade Associations
+## 12. Tianhai Yunzhou Trade Associations
 
 Tianhai Yunzhou has several independent trade and professional associations. They represent member interests and coordinate commercial services; they are not a single monopoly, government ministry, or authority over customs and harbor security. Their established local remits are:
 

@@ -28,6 +28,20 @@ The perspective maps also document the requested overland and mixed land/sea cor
 
 Golden Dragon Empire and Beiming Gu have a confirmed direct corridor between Longyuan Sky Transit Terminal and Beiming Heartland Sky Transit Terminal. Tianhai Yunzhou remains a separate direct connection to Beiming Gu via that same Beiming terminal. Do not force a transfer through Tianhai Yunzhou when the direct corridor is available. Exact duration, departure frequency, and guaranteed availability remain unknown; check current events and access conditions. The tree is a navigation aid; this file and the endpoint regional modules remain authoritative for route validation.
 
+
+### 3.1 Owner-requested land and maritime corridor framework
+
+The perspective maps connect the three powers through broad overland and mixed land/sea itineraries as well as the established air corridors. These are approved **corridor-level map links**, not proof that every local road, mountain pass, river crossing, ferry, mainland landing, or port-to-port sailing schedule has been surveyed. Validate each local segment against its regional module; resolve missing segments through exploration rather than inventing infrastructure.
+
+| Perspective / endpoints | Mapped corridor sequence | Mode | Status and limits |
+|---|---|---|---|
+| Golden Dragon Empire ↔ Beiming Gu | Beiguan (Baiyue) → Nine Frost Wastes (external northern wilderness) → Stonegate March → Frostveil Range → Beiming Heartland | Land; overland travel | Owner-requested mapped corridor. Exact pass, road alignment, settlements, distance, and duration unknown; weather, cold, terrain, and security affect access. Separate from the direct air corridor. |
+| Golden Dragon Empire ↔ Tianhai Yunzhou | Golden Dragon internal route network toward Xingluo / Dongxing → coastal and open-water vessel leg → Cangqiong Harbor | Land + sea | Owner-requested mixed corridor. Do not assume every imperial region has a direct road to Dongxing; verify internal legs. Sea name, exact sailing path, ship schedule, fare, and duration unknown. |
+| Tianhai Yunzhou ↔ Beiming Gu | Cangqiong Harbor → mainland coastal approach (exact landing unassigned) → Lawless Territories / northern wilderness → Nine Frost Wastes → Stonegate March → Frostveil Range → Beiming Heartland | Sea + land | Owner-requested mixed corridor. Mainland landing, port, local road alignment, settlements, vessel schedule, fare, and duration unknown. Not a land bridge from the floating island. |
+
+The named outer areas retain their own jurisdictional status: Nine Frost Wastes and Lawless Territories are not absorbed into either neighboring power by appearing on a route. Azerion Forest, Black Tide Expanse, Wanluo Sacred Expanse, and the high cloud-sea mountains are shown as wider-world geographic context or optional side regions, not mandatory transit points. See [the three perspective maps](THREE_POWER_PERSPECTIVE_MAPS.md) for all three views.
+
+
 | Longyuan Sky Transit Terminal (Golden Dragon Empire) | Beiming Heartland Sky Transit Terminal (Beiming Gu) | Dedicated long-distance Artificial Artifact energy-aircraft | No intermediate stop established | Ticket, safety inspection, compatible fuel supply, aircraft availability; weather, security, maintenance, and supply disruption may suspend service | Passenger travel, official delegations, traders, and light baggage | Not set | Established direct inter-power corridor; standard round-trip fare 25 xc per passenger; exact duration and schedule unknown |
 
 ## 4. Regional location-network table

@@ -126,7 +126,24 @@ Default scarcity multipliers:
 
 For the first four states, the multiplier applies to the item's quality-adjusted base price. Extreme scarcity has no universal fixed price; the GM must use grounded local circumstances and avoid arbitrary price jumps.
 
-Scarcity is evaluated for the relevant supply market. If a source region suffers a shortage, imported goods can carry a higher price. However, a destination with substantial old stock or alternative suppliers may experience a smaller increase or no increase at all. Apply a documented local-market adjustment when such evidence supports it.
+### Disaster-Driven Scarcity
+
+A recorded disaster can intensify scarcity when it demonstrably damages production, stored goods, harvests, transport routes, market access, or other parts of the supply chain. Use the following disaster-impact multiplier as a guide to the resulting scarcity of each affected item in the affected market:
+
+| Disaster impact on the item's supply | Disaster scarcity multiplier |
+|---|---:|
+| Minor disruption | ×1.10–1.25 |
+| Moderate disruption | ×1.30–1.60 |
+| Major disruption | ×1.70–2.20 |
+| Catastrophic disruption | ×2.30–3.00 |
+
+These are bounded ranges, not automatic prices or a multiplier applied to every good in the region. Choose a value within the relevant range using recorded damage, remaining stock, duration, access to alternative suppliers, and the condition of supply routes. Use the lower end when reserves or alternate routes cushion the shock; use the upper end when the item is directly affected and substitutes are scarce. The catastrophic range is the maximum default disaster-driven scarcity multiplier; exceeding ×3.00 requires explicit owner-approved canon.
+
+**Integration rule:** the pricing formula uses one effective Scarcity Multiplier. Assess the ordinary seasonal scarcity and the disaster's actual supply impact together, then select the effective multiplier that represents the resulting shortage. Do not multiply a seasonal scarcity multiplier by a disaster multiplier when both describe the same shortage. If clearly independent supply pressures affect the item, explain the evidence and account for their combined effect only once in the effective scarcity assessment.
+
+Apply the disaster effect only to goods whose supply is affected. A flooded grain route may raise grain prices without raising the price of unrelated locally produced tools. Markets outside the disaster area may experience a smaller increase or none, depending on their inventories, routes, and suppliers. Do not apply the same disruption again as a second local-market or demand adjustment.
+
+Disaster scarcity persists only while the recorded supply disruption remains consequential. It must ease as stock, production, and routes recover; do not reset prices instantly when the immediate disaster ends, and do not continue the increase after recovery is established. Record the event and its scope in `world/DYNAMIC_EVENTS.md` when its consequences meet that module's persistence criteria. The event record establishes the cause and ongoing status; this economy module determines the price calculation.
 
 ## 5. Distribution and Destination-Market Adjustment
 
@@ -168,7 +185,7 @@ Calculate in this order:
 1. **Tier 1 Base Price** — the item's ordinary local price in its source market under normal seasonal and market conditions. Set it according to the item's identity, type, size, function, freshness, and region; it is not a universal price shared by every item.
 2. **Tier Multiplier** — use the official quality multiplier in §2: Tier 1 ×1.00, Tier 2 ×1.30, Tier 3 ×1.70, Tier 4 ×2.20, Tier 5 ×2.90, Tier 6 ×3.80, Tier 7 ×5.00, Tier 8 ×6.60, Tier 9 ×8.50. Quality tier does not itself establish scarcity, rarity by quantity, or combat power.
 3. **Condition Multiplier** — assess the actual item condition, not its tier: damaged but usable ×0.70; worn or partly impaired ×0.85; ordinary usable condition ×1.00; unusually well-preserved and verified ×1.10. Apply the category supported by inspection, canon, or appraisal. If the item is spoiled or unusable, do not treat it as an ordinary saleable item; follow the item's specific rules. Do not add a separate antique/historical premium under condition unless an official appraisal or item-specific canon supports it.
-4. **Scarcity Multiplier** — use the relevant supply market's seasonal scarcity from §4: normal ×1.00, mild ×1.40, moderate ×1.80, severe ×2.40. Extreme scarcity has no fixed multiplier; determine it from remaining stock, actual supply routes, and recorded market conditions. Reduce or omit a source-scarcity effect only when destination stock or alternative suppliers support that decision.
+4. **Scarcity Multiplier** — use the effective scarcity for the relevant supply market under §4, including seasonal conditions and any documented disaster-driven supply disruption. For a disaster, use the impact bands in §4's **Disaster-Driven Scarcity** table (×1.10–1.25 minor, ×1.30–1.60 moderate, ×1.70–2.20 major, ×2.30–3.00 catastrophic) when supported by the actual effect on the item's supply. This is one effective multiplier, not an automatic extra factor: do not multiply seasonal and disaster values when they represent the same shortage. Extreme scarcity without a defensible fixed multiplier must be priced from remaining stock, actual supply routes, and recorded market conditions. Reduce or omit the effect when destination stock or alternative suppliers support that decision.
 5. **Demand Multiplier** — assess current demand for this specific item in the relevant market: weak demand ×0.80; ordinary demand ×1.00; high demand ×1.20; very high demand ×1.50. An exceptional, time-limited demand spike may reach ×2.00 only when a concrete event or recorded market evidence supports it. Record the reason. Do not reuse demand already counted in another factor, and do not apply an exceptional multiplier merely because an item is valuable.
 6. **Distribution Adjustment** — add the supported net cost or saving for the actual trade route, including transport, handling, storage, spoilage during transport, tolls, insurance, and route risk. It may be positive or negative.
 7. **Local Market Adjustment** — add a documented destination-specific amount for factors not already represented above, such as merchant competition, a local inventory surplus, or a market-specific restriction. Do not count seasonal scarcity, demand, or transport costs again here if they have already been included in their dedicated factors.

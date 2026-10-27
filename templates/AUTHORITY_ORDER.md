@@ -108,7 +108,7 @@ Setiap respons gameplay, termasuk giliran pertama, recall, dialog singkat, dan g
 
 `LEDGER LOG` boleh tidak ditampilkan hanya jika tidak ada perubahan state yang memenuhi aturan ledger. Pengecualian ini tidak berlaku pada bagan profil atau bagian visual lain. Jangan mengganti bagan dengan ringkasan inline, tabel, daftar, atau narasi saja. Isi semua field dari state yang berlaku; jika belum diketahui, gunakan default resmi dari `templates/CHARACTER_PROFILE_TEMPLATE.md` tanpa menghapus field.
 
-Sebelum mengirim, lakukan pemeriksaan akhir: (1) header waktu lengkap; (2) semua bagan dan field muncul dalam urutan template; (3) Wallet memakai lima denominasi `xc | xs | xg | zj | az`; (4) footer ada dan tepat; (5) tidak ada rahasia GM yang ditulis sebagai pengetahuan karakter. Jika satu syarat gagal, susun ulang respons sebelum mengirim.
+Sebelum mengirim, lakukan pemeriksaan akhir: (1) header waktu lengkap; (2) semua bagan dan field muncul dalam urutan template; (3) `Spirit Ring Absorption` cocok tepat dengan status tahap kanonis dan selalu memakai `status | Day left`; untuk Mortal tanpa Awakening, gunakan `not eligible yet | ??? Day left`; (4) Wallet memakai urutan denominasi persis `xc | xs | xg | zj | az` dengan nominal yang sama seperti state sumber—jangan mengurutkan berdasarkan nilai atau menyalin urutan keliru dari respons sebelumnya; (5) footer ada dan tepat; (6) sumber world yang dipanggil telah ditelusuri ke dependensi canon relevan; (7) tidak ada rahasia GM yang ditulis sebagai pengetahuan karakter. Jika satu syarat gagal, susun ulang respons sebelum mengirim.
 
 Footer kanonis berakhir dengan:
 

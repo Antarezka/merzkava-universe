@@ -4,7 +4,7 @@ This specialist router is loaded only when regional, NPC, settlement, or territo
 
 ## 1. Regional Modules and NPC References
 
-The three major powers are **Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu**. They are represented by regional folders/modules inside this one repository, not separate GitHub repositories. Canonical full NPC profiles and registries are maintained under `regions/<power>/npcs/`; the regional INDEX and registry guide NPC lookup, while the relevant `world/REGION_*.md` module remains the source for established regional/location context unless another canonical source is explicitly linked. Legacy `world/NPC_*.md` files must be inspected individually: treat each as a legacy source until its actual contents confirm that it is a compatibility pointer. Do not invent missing canon from scaffold headings. For NPC handling, use `world/NPC_MANAGEMENT.md`, the relevant regional module, the regional NPC registry, and `templates/NPC_PROFILE_TEMPLATE.md`.
+The three major powers are **Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu**. They are represented by regional folders/modules inside this one repository, not separate GitHub repositories. Canonical full NPC profiles and registries are maintained under `regions/<power>/npcs/`; the regional INDEX and registry guide NPC lookup, while the relevant regional module remains the source for established regional/location context unless another canonical source is explicitly linked. For Beiming Gu, the single canonical module is `world/REGION_BEIMING_GU.md`. Legacy `world/NPC_*.md` files must be inspected individually: treat each as a legacy source until its actual contents confirm that it is a compatibility pointer. Do not invent missing canon from scaffold headings. For NPC handling, use `world/NPC_MANAGEMENT.md`, the relevant regional module, the regional NPC registry, and `templates/NPC_PROFILE_TEMPLATE.md`.
 
 ### Golden Dragon Empire
 - civil and military governance across the Golden Dragon Empire — `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md`
@@ -38,13 +38,8 @@ The three major powers are **Golden Dragon Empire, Tianhai Yunzhou, and Beiming 
 - Ji Ningzhao, younger twin princess — `regions/tianhai-yunzhou/npcs/JI_NINGZHAO.md`
 
 ### Beiming Gu
-- Beiming Heartland — `world/REGION_BEIMING_HEARTLAND.md`
-- Frostveil Range — `world/REGION_FROSTVEIL_RANGE.md`
-- Azureflame Basin — `world/REGION_AZUREFLAME_BASIN.md`
-- Silverpine Wilds — `world/REGION_SILVERPINE_WILDS.md`
-- Stonegate March — `world/REGION_STONEGATE_MARCH.md`
-- Hollowmoon Valley — `world/REGION_HOLLOWMOON_VALLEY.md`
-- Ironroot Reach — `world/REGION_IRONROOT_REACH.md`
+- **Single canonical regional reference for all seven districts** — `world/REGION_BEIMING_GU.md`
+- Compatibility pointers retained for old district paths: `world/REGION_BEIMING_HEARTLAND.md`, `world/REGION_FROSTVEIL_RANGE.md`, `world/REGION_AZUREFLAME_BASIN.md`, `world/REGION_SILVERPINE_WILDS.md`, `world/REGION_STONEGATE_MARCH.md`, `world/REGION_HOLLOWMOON_VALLEY.md`, and `world/REGION_IRONROOT_REACH.md`. These are navigation redirects, not separate canon sources.
 - Beiming Gu NPC registry and full roster — `regions/beiming-gu/npcs/REGISTRY.md`; established profiles: `regions/beiming-gu/npcs/BEIMING_HAN.md`, `regions/beiming-gu/npcs/BEIMING_XENHWA.md`, `regions/beiming-gu/npcs/BEIMING_JINGHENG.md`, `regions/beiming-gu/npcs/BEIMING_NERVA.md`; clan/dojo roster profiles are linked from the registry.
 
 ### Lawless Territories
@@ -76,7 +71,7 @@ The three major powers are **Golden Dragon Empire, Tianhai Yunzhou, and Beiming 
 - Regional module standard — `templates/REGIONAL_MODULE_TEMPLATE.md`
 - Canonical full NPC profile standard — `templates/NPC_PROFILE_TEMPLATE.md`
 
-**Required regional workflow:** when a scene involves a named region, first perform the applicable global canon/precedence checks in the `Mandatory Territorial Canon Load Path — All Major Powers` below, then load the exact regional module from `world/REGION_*.md` for local context. Check the NPC table beside the relevant settlement, institution, or faction heading; use the regional NPC registry for broader roster audits, then consult only the canonical profile of an established recurring/major NPC relevant to the scene. When travel is involved, verify the route through `world/LOCATION_AND_ROUTE_NETWORK.md`, the relevant origin/destination regional modules, and `world/GEOGRAPHY_AND_TRAVEL.md`; resolve duration only through `gameplay/TIME_AND_ACTION_RULES.md`. Do not assume direct connections between all locations.
+**Required regional workflow:** when a scene involves a named region, first perform the applicable global canon/precedence checks in the `Mandatory Territorial Canon Load Path — All Major Powers` below, then load the relevant canonical regional module for local context. For Beiming Gu, read `world/REGION_BEIMING_GU.md` rather than treating the seven compatibility pointers as separate sources. Check the NPC table beside the relevant settlement, institution, or faction heading; use the regional NPC registry for broader roster audits, then consult only the canonical profile of an established recurring/major NPC relevant to the scene. When travel is involved, verify the route through `world/LOCATION_AND_ROUTE_NETWORK.md`, the relevant origin/destination regional modules, and `world/GEOGRAPHY_AND_TRAVEL.md`; resolve duration only through `gameplay/TIME_AND_ACTION_RULES.md`. Do not assume direct connections between all locations.
 
 **Regional data format:** use `templates/REGIONAL_MODULE_TEMPLATE.md` as the single structural standard. This router owns source discovery, not a second regional-content template. Preserve existing canon when relocation risks losing facts, and cross-reference shared records rather than duplicating them.
 
@@ -90,7 +85,7 @@ The three major powers are **Golden Dragon Empire, Tianhai Yunzhou, and Beiming 
 
 Untuk gameplay, lore, audit, atau edit yang melibatkan Golden Dragon Empire, Tianhai Yunzhou, Beiming Gu, atau Lawless Territories:
 1. Baca `world/CANON_DECISIONS_AND_PRECEDENCE.md`; baca `world/WORLD.md` dan `world/MAP_AND_REGIONS.md` bila konteks global/lintas wilayah relevan.
-2. Baca modul `world/REGION_*.md` yang sesuai; untuk Lawless Territories baca `world/LAWLESS_TERRITORIES.md`.
+2. Baca modul regional kanonis yang sesuai; untuk seluruh tujuh distrik Beiming Gu gunakan `world/REGION_BEIMING_GU.md`, dan untuk Lawless Territories baca `world/LAWLESS_TERRITORIES.md`.
 3. Ikuti INDEX ke sumber khusus pemerintahan, faksi, institusi, layanan, ekonomi, atau NPC. Untuk NPC, gunakan `regions/<power>/INDEX.md` dan `regions/<power>/npcs/REGISTRY.md`, lalu baca profil canonical yang relevan.
 4. Untuk perjalanan, verifikasi rute melalui `world/LOCATION_AND_ROUTE_NETWORK.md`, modul wilayah asal/tujuan, dan `world/GEOGRAPHY_AND_TRAVEL.md`; durasi hanya dari `gameplay/TIME_AND_ACTION_RULES.md`.
 5. Untuk audit lintas wilayah, baca semua roster/register yang terdampak. Jangan mengasumsikan koneksi langsung atau memindahkan hitungan, pemerintahan, harga, institusi, dan norma sosial antar-kekuasaan.

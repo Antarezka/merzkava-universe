@@ -66,7 +66,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![WORLD UPDATE LOG](https://img.shields.io/badge/WORLD_UPDATE_LOG-FFFFFF?style=for-the-badge&labelColor=151515)
 
-![NIGHTLY](assets/nightly-version.svg?v=2) <sub>v1.4.98</sub> &nbsp; ![STABLE](assets/stable-version.svg?v=1) <sub>v1.0.0</sub>
+![NIGHTLY](assets/nightly-version.svg?v=2) <sub>v1.4.99</sub> &nbsp; ![STABLE](assets/stable-version.svg?v=1) <sub>v1.0.0</sub>
 
 **✦ ──── ❖ ──── ✦**
 
@@ -77,6 +77,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 **✦ ──── ❖ ──── ✦**
 
 </div>
+
+- ✦ **Canonical Unknown Item Label and Appraisal Consistency**  
+  Unidentified items now use the exact player-facing label `*Unknown* *membutuhkan appraisal untuk lebih pastinya*` across gameplay, character profiles, inventory, equipment, loot, transactions, artifacts, and consumption records. Appraisal reveals only facts supported by its findings; unknown prices, tiers, functions, rarity, and dangers must not be invented.
 
 - ✦ **Gameplay Hash + Nightly Version Header**  
   Player Converse now requires a seven-character Hash from the active pinned snapshot and the Nightly version from that same snapshot's README. The identity line appears immediately above the Merzkava time header.
@@ -93,8 +96,6 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **Lean GM Routing and Pinned Snapshot Consistency**  
   INDEX and Authority Order route detailed canon to authoritative modules loaded as needed. Bootstrap reads all gameplay sources from one pinned SHA to prevent mixing snapshots.
 
-- ✦ **Martial Soul Chance and Classification Unified Without Tier Labels**  
-  One authoritative source separates rarity chance, inherent-quality assessment, and mutation chance. Martial Soul classifications use only Common, Uncommon, Rare, Epic, Legendary, and Myth—never numeric tiers.
 <div align="center">
 
 **✧ ── ✦ ── ❖ ── ✦ ── ✧**

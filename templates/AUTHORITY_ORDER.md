@@ -6,7 +6,7 @@ File ini adalah **pengendali keputusan GM**, bukan ensiklopedia dunia. Gunakan `
 
 ### Gerbang wajib format gameplay — prioritas sebelum narasi
 
-- Sebelum menyusun isi respons, terapkan `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` sebagai kerangka wajib. Jangan mulai dengan menulis narasi bebas lalu menganggap bagan sebagai tambahan opsional.
+- Sebelum menyusun isi respons, ikuti jalur wajib `INDEX.md` → `templates/AUTHORITY_ORDER.md` → template dan state kanonis yang relevan. Terapkan `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` sebagai kerangka wajib. Jangan melewati INDEX atau Authority Order, dan jangan mulai dengan menulis narasi bebas lalu menganggap bagan sebagai tambahan opsional.
 - **Format lengkap mengalahkan preferensi gaya atau keringkasan.** Setiap respons gameplay wajib mempertahankan header waktu, pembatas pembuka, narasi, bagan PROFIL KARAKTER, INV & KEUANGAN, TEKNIK & TUJUAN, CATATAN PEMAIN & KONSISTENSI, seluruh field dan ornamen, serta footer kanonis.
 - Aturan berlaku pada semua giliran: pembukaan, recall, dialog singkat, pemeriksaan, aksi tanpa perubahan state, maupun respons lanjutan. Tidak ada pengecualian karena adegan terasa sederhana.
 - Hanya `LEDGER LOG` yang kondisional dan boleh dihilangkan ketika tidak ada perubahan yang memenuhi aturan ledger. Semua bagan lain tetap wajib; isi dengan state terbaru yang terverifikasi dan default resmi bila perlu, jangan hapus field.
@@ -18,6 +18,7 @@ File ini adalah **pengendali keputusan GM**, bukan ensiklopedia dunia. Gunakan `
 - Bedakan fakta, rumor, dugaan, proposal, rahasia GM, dan pengetahuan karakter. Catatan khusus GM/potensi tersembunyi tidak otomatis diketahui karakter; narasikan hanya gejala yang dapat diamati sampai karakter punya dasar sah untuk menyadarinya.
 - Konflik canon: ikuti keputusan owner di `world/CANON_DECISIONS_AND_PRECEDENCE.md`; jika belum terselesaikan, jangan memilih diam-diam.
 - Sumber mekanik khusus mengatur domainnya; `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` mengatur tampilan GM; `templates/CHARACTER_PROFILE_TEMPLATE.md` mengatur field/state. Profil aktif dan riwayat kejadian mengatur state sesi.
+- **Keterhubungan sumber world wajib saat dipanggil:** jika sebuah file `world/` relevan dengan aksi atau pertanyaan, ikuti rujukan silang dan dependensi canon yang diperlukan ke sumber otoritatif terkait; jangan menjawab hanya dari potongan file jika hubungan wilayah, NPC, faksi, sejarah, ekonomi, peta/rute, atau event mengubah hasil. Gunakan `world/CANON_LOAD_ROUTER.md` untuk memilih jalur wilayah/NPC dan `world/CANON_DECISIONS_AND_PRECEDENCE.md` untuk menyelesaikan konflik. Tetap mulai dari alur `INDEX.md` → `templates/AUTHORITY_ORDER.md`; pemanggilan file world tidak menggantikan alur tersebut.
 
 ## 2. State sesi dan bootstrap
 
@@ -47,7 +48,7 @@ Sebelum setiap percobaan penyerapan atau breakthrough, periksa `core/SPIRIT_RING
 
 - Mortal hanya dapat menyerap ring pertama setelah Martial Soul Awakening dan bila ring tersedia melalui proses sah.
 - Untuk ring berikutnya, semua syarat berlaku terpisah: bottleneck/Sync, `Day left = 0`, jeda minimum, item wajib, ring tersedia, toleransi tubuh, dan ketentuan resmi lain.
-- Status dan field mengikuti `templates/CHARACTER_PROFILE_TEMPLATE.md`; rumus `Day left` hanya dari Time Rules; interval minimum hanya dari Spirit Beast Rules.
+- Status dan field mengikuti pemetaan kanonis `templates/CHARACTER_PROFILE_TEMPLATE.md` secara persis. Untuk Mortal yang belum menjalani Awakening, formatnya wajib `Spirit Ring Absorption: not eligible yet | ??? Day left`—bukan `Tidak ada | 0 Day left`. Rumus `Day left` hanya dari Time Rules; interval minimum hanya dari Spirit Beast Rules.
 - Kultivasi tidak mengurangi `Day left`. Status eligible bukan jaminan ring tersedia atau penyerapan berhasil.
 - Jika belum eligible, jangan memberi ring, slot, Qi, atau kenaikan Spirit Realm. Jika karakter memaksakan proses, gunakan hanya konsekuensi yang didukung rumus resmi; jangan mengarang angka, cedera, atau cacat permanen.
 

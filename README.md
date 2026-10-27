@@ -77,7 +77,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <sub>Worldbuilding & setting depth · 9.2 / 10</sub>
 
-<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰</span><span style="color:#FFE066">▰</span><span style="color:#D9D9D9">▱</span>
+<span style="color:#F25C54">▰▰▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱</span>
 
 <sub>Three major powers, distinct political and cultural structures, hidden territories, factions, resources, and connected world lore.</sub>
 
@@ -109,7 +109,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <sub>Long-term simulation potential · 8.5 / 10</sub>
 
-<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰</span><span style="color:#FFE066">▰▰▰</span><span style="color:#D9D9D9">▱▱</span>
+<span style="color:#F25C54">▰▰▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰▰▰▰▰▰▱</span><span style="color:#D9D9D9">▱▱▱</span>
 
 <sub>NPC priorities, regional resources, travel risks, trade, political tensions, and lasting consequences provide systems for ongoing world activity.</sub>
 
@@ -117,7 +117,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <sub>Narrative & player agency · 8.0 / 10</sub>
 
-<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱</span>
+<span style="color:#F25C54">▰▰▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱▱▱</span>
 
 <sub>Scene-based narration, social hooks, character goals, and open-ended action prompts support player-directed story progression.</sub>
 
@@ -125,7 +125,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <sub>Rule enforcement & error resistance · 7.5 / 10</sub>
 
-<span style="color:#F25C54">▰▰</span><span style="color:#FFB36B">▰▰▰▰▰</span><span style="color:#FFE066">▰▰▰</span><span style="color:#D9D9D9">▱▱▱</span>
+<span style="color:#F25C54">▰▰▰▰</span><span style="color:#FFB36B">▰▰▰▰▰▰▰▰▰▰▰</span><span style="color:#D9D9D9">▱▱▱▱▱</span>
 
 <sub>Explicit validation and state-change rules establish checks for unsupported actions and records; the parameter covers the rule controls defined by the system.</sub>
 
@@ -174,9 +174,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
-- ✦ **Independent RP System Benchmark**  
-  Hash: ``1fd9845`` | Ver: ``Nightly-v2.4.106``  
-  Added a parameter-based benchmark covering worldbuilding, progression mechanics, state continuity, GM authority, simulation, narrative agency, and rule enforcement.
+- ✦ **Independent RP System Benchmark — Persona-Inspired Stat Bars**  
+  Hash: ``52cdae6`` | Ver: ``Nightly-v2.4.106``  
+  Presented benchmark parameters as colored status bars with concise descriptions and the evaluated snapshot identity.
 
 - ✦ **Regional Canon Load Path and Cross-Reference Validation**  
   Regional scenes must follow the canon router, load relevant local authorities, and reconcile conflicts through the binding precedence rules.

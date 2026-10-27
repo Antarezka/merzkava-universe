@@ -8,7 +8,10 @@
 - Full name: Ji Haoyuan
 - Public title: Maharaja of Tianhai Yunzhou
 - Age/species: Not established
-- Current whereabouts: Not confirmed; Yunxiao Terrace is the official governmental quarter.
+- Home / usual residence: Tianhai Yunzhou, Yunxiao Terrace, the official governmental quarter and official residence; the exact personal residence/building is not specified.
+- Usual base / duty location: Yunxiao Terrace, as the governmental center of the Maharaja's administration.
+- Last confirmed location / current whereabouts: His current physical whereabouts are unconfirmed. His past service away from Tianhai during the Great Tianhai War is established historical context, not a current travel pattern.
+- Recurring visits / travel pattern: No recurring personal trips are established. As Maharaja, he generally remains at the official residence unless state duties or a credible event require travel.
 - Role and affiliation: Sovereign ruler of Tianhai Yunzhou; ruling Ji family.
 
 ## 2. Public Profile

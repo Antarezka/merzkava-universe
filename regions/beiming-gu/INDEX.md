@@ -3,6 +3,8 @@
 **Scope:** Navigation index for Beiming Gu canon and NPC references within `Antarezka/merzkava-universe`.
 **Status:** The registry contains four established major NPC profiles plus 12 clan heads and 5 dojo masters (21 canonical profiles total). This folder is inside `Antarezka/merzkava-universe`, not a separate GitHub repository.
 
+**Connected world tree and transit:** [WORLD_NAVIGATION_TREE.md](../../world/WORLD_NAVIGATION_TREE.md) connects this regional branch to the other two major powers and lists established transit corridors. It is a navigation aid; follow the linked canon sources for details.
+
 ## NPC loading order
 
 1. Read the central [INDEX](../../INDEX.md), [Authority Order](../../templates/AUTHORITY_ORDER.md), and [NPC Management](../../world/NPC_MANAGEMENT.md).

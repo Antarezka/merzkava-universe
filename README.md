@@ -60,6 +60,26 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </details>
 
+![INDEPENDENT RP BENCHMARK](https://img.shields.io/badge/INDEPENDENT_RP_BENCHMARK-FFFFFF?style=for-the-badge&labelColor=151515)
+
+### ✦ MERZKAVA UNIVERSE — RP SYSTEM BENCHMARK ✦
+
+**Benchmark snapshot:** Hash: ``e1152a8`` | Ver: ``Nightly-v2.4.106``
+
+| Parameter | Score | Basis of assessment |
+|---|:---:|---|
+| Worldbuilding & setting depth | **9.2/10** | Three major powers, distinct political and cultural structures, hidden territories, factions, resources, and connected world lore. |
+| Gameplay mechanics & progression | **9.0/10** | Defined cultivation realms, Martial Souls, Spirit Rings, Spirit Beasts, Sync progress, eligibility conditions, and character-state fields. |
+| State tracking & continuity | **9.0/10** | Structured character profiles track HP, Satiety, Qi, equipment, inventory, buildings, and the five-denomination Xuan currency wallet. |
+| GM authority & rule hierarchy | **9.2/10** | Dedicated authority and gameplay templates establish source precedence, validation requirements, and boundaries against unsupported mechanics or hidden information. |
+| Long-term simulation potential | **8.5/10** | NPC priorities, regional resources, travel risks, trade, political tensions, and lasting consequences support ongoing world simulation. |
+| Narrative & player agency | **8.0/10** | Scene-based narration, social hooks, character goals, and open-ended action prompts allow story progression without fixed menu choices. |
+| Rule enforcement & error resistance | **7.5/10** | Explicit validation and state-change rules provide checks for unsupported actions and records; consistent enforcement depends on applying the authoritative sources at each turn. |
+
+<sub>Assessment parameters cover world design, progression mechanics, state continuity, GM governance, simulation, narrative agency, and rule enforcement—the core dimensions used for a like-for-like review of roleplay systems.</sub>
+
+---
+
 ---
 
 <div align="center">

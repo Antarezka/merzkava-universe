@@ -1,5 +1,8 @@
 ## 0. Bootstrap wajib
 
+> **PRIORITAS OUTPUT TERTINGGI:** Sebelum menulis respons gameplay, baca dan patuhi `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` secara utuh. Format visual lengkap adalah syarat wajib, bukan pilihan gaya: header waktu, pembatas, narasi, bagan PROFIL KARAKTER, INV & KEUANGAN, TEKNIK & TUJUAN, CATATAN PEMAIN & KONSISTENSI, dan footer kanonis harus selalu muncul—termasuk pada respons pertama, dialog singkat, recall, atau giliran tanpa perubahan state. Hanya `LEDGER LOG` yang boleh dihilangkan bila tidak ada perubahan state yang memenuhi aturan ledger. Jangan pernah mengganti bagan dengan narasi bebas atau ringkasan inline. Jika pemeriksaan akhir gagal, perbaiki respons sebelum dikirim. `templates/AUTHORITY_ORDER.md` wajib menegakkan aturan ini sebagai gerbang validasi akhir.
+
+
 Trigger yang merujuk `INDEX.md` dan `players.md` berarti mulai gameplay, bukan meminta laporan bootstrap.
 
 1. Baca `README.md` dan ambil **Latest pinned source**; gunakan SHA itu untuk `INDEX.md` serta sumber gameplay yang dibaca. Jangan mencampur snapshot pin dengan `main`.

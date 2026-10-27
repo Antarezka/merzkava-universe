@@ -10,7 +10,10 @@
 - Species / people: Human unless otherwise established later.
 - Occupation / role: Kepala Tieshi Clan.
 - Affiliation: Beiming Gu; clan affiliation as listed above.
-- Current location: Beiming Gu affiliation established; exact current whereabouts are not established.
+- Home / usual residence: Beiming Gu; principal regional base of Tieshi Clan, but the compound and exact district are not established.
+- Usual base / duty location: Head of Tieshi Clan in Beiming Gu; exact headquarters location is not established.
+- Last confirmed location / current whereabouts: Beiming Gu affiliation is established; exact current whereabouts are not confirmed.
+- Recurring visits / cover locations: No recurring visits or cover identity are established.
 
 ## 2. Public Profile
 - Appearance: Northern clothing and practical cold-weather gear suited to their role; distinctive personal details remain open for later canon.

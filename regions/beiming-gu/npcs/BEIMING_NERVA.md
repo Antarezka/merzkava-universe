@@ -10,7 +10,10 @@
 - True age: Unknown / mysterious.
 - Biological age / apparent age: Approximately 18 years old.
 - Species: Not otherwise established.
-- Current location: Beiming Gu affiliation; exact whereabouts are not established.
+- Home / usual residence: Beiming Gu; exact district, settlement, and residence are not established.
+- Usual base / duty location: Not established; no formal office is confirmed.
+- Last confirmed location / current whereabouts: Exact current whereabouts are not established.
+- Recurring visits / cover locations: Frequently turns up in Tianhai Yunzhou, sometimes disguised as a student at Beichen Cultivator Academy in the island's northern area. The academy's exact district/campus placement is not established; the disguise is not official enrollment.
 - Occupation / role: Thinker Grade 9 specialist whose practical focus is utilities for infrastructure and armory systems.
 - Affiliation: Beiming Gu.
 - Public identity: Not reliably established; she sometimes disguises herself as a student at Beichen Cultivator Academy in Tianhai Yunzhou.
@@ -18,7 +21,7 @@
 ## 2. Public Profile
 - Appearance: Biologically appears to be about eighteen. Further appearance details are not established.
 - Personality: Clumsy in everyday situations, mischievous, intensely curious, and a voracious seeker of knowledge.
-- Habits: Enjoys showing up under disguise and pretending to be an ordinary student at Beichen Cultivator Academy. This is a disguise, not confirmation of official enrollment.
+- Habits: Frequently slips away to Tianhai Yunzhou and sometimes disguises herself as an ordinary student at Beichen Cultivator Academy in the island's northern area. This is a cover identity, not confirmation of official enrollment.
 - Public reputation: Her identity and reputation outside the circle of people who know her are not established.
 - Knowledge boundaries: Do not assume people recognize her or know her true age, family connection, or real purpose.
 
@@ -57,7 +60,7 @@
 ## 7. State and Continuity
 - Current status: Living; no contrary event established.
 - Exact whereabouts and current activity: Not established.
-- Confirmed recurring behavior: Disguises herself as a student at Beichen Cultivator Academy for mischief / personal purposes; the precise schedule and motives remain unspecified.
+- Confirmed recurring behavior: Frequently visits Tianhai Yunzhou and sometimes disguises herself as a student at Beichen Cultivator Academy in the northern area; exact schedule, district/campus placement, and specific motives remain unspecified.
 - Injuries, possessions, last appearance, and last interaction: Not established.
 - Record persistent changes only when they occur in canon or gameplay.
 

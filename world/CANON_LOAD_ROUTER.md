@@ -83,7 +83,7 @@ The three major powers are **Golden Dragon Empire, Tianhai Yunzhou, and Beiming 
 
 **Route and economy realism:** routes must reflect confirmed geography and transport. Some settlements require an intermediate village, bridge, ferry, pass, port, or gate. Local resources, crafts, labor, demand, and services should create plausible trade relationships, but proposals remain non-canon until owner-approved.
 
-## 2. Canon wilayah — jalur wajib
+## 3. Canon wilayah — jalur wajib
 
 ### Semua kekuasaan besar dan Lawless Territories
 
@@ -118,7 +118,7 @@ Canon tetap: **13 desa resmi bernama** dan **21 hamlet/permukiman lokal bernama 
 | Guild/layanan medis di Tianhai Yunzhou | `world/REGION_TIANHAI_YUNZHOU.md`, `world/FACTIONS.md`, `world/SPIRIT_HUNTERS_GUILD.md`; ekonomi untuk harga |
 | Dampak NPC persisten pada dunia | `world/DYNAMIC_EVENTS.md` dan alur proposal event yang disetujui; jangan klaim persistensi tanpa commit terverifikasi |
 
-## 3. Standar pemeliharaan canon
+## 4. Standar pemeliharaan canon
 
 - NPC utama/berulang memiliki satu profil penuh canonical yang ditautkan registry; periksa roster sebelum membuat pejabat atau anggota faksi. NPC biasa/temporer mengikuti `world/NPC_MANAGEMENT.md`.
 - Data regional baru mengikuti urutan: identitas → geografi → permukiman/kehidupan → ekonomi/sumber daya → kultivasi/Spirit Beast/Thinker → faksi/otoritas → NPC → konflik/event → rute/panduan GM. Referensikan sumber bersama, jangan menduplikasinya.

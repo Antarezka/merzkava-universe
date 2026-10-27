@@ -1,6 +1,6 @@
 # Merzkava Universe — Connected Power Tree & Transit Map
 
-**Purpose:** One connected navigation tree for the three major powers and their established regional branches, canonical source files, and inter-power transit.
+**Purpose:** One connected navigation tree for the three major powers and their established regional branches, canonical source files, and inter-power transit. For matching line maps from each power's perspective—including land, maritime, wilderness, and air corridors—see [`world/THREE_POWER_PERSPECTIVE_MAPS.md`](THREE_POWER_PERSPECTIVE_MAPS.md).
 **Status:** Navigation and route index. This file organizes existing canon; it does not create new settlements, borders, roads, routes, prices, or travel times.
 **Authority:** Follow `INDEX.md` → `templates/AUTHORITY_ORDER.md` → `world/CANON_DECISIONS_AND_PRECEDENCE.md`; use the linked source files for their respective facts.
 

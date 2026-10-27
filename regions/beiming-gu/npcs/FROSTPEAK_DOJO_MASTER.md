@@ -10,7 +10,7 @@
 - Species / people: Human unless otherwise established later.
 - Occupation / role: Master Frostpeak Dojo.
 - Affiliation: Beiming Gu; dojo affiliation as listed above.
-- Home / usual residence: Beiming Gu; principal base of Frostpeak Dojo, but the dojo compound and exact district are not established.
+- Home / usual residence: Beiming Gu; personal residence and exact district are not established.
 - Usual base / duty location: Master of Frostpeak Dojo in Beiming Gu; exact dojo location is not established.
 - Last confirmed location / current whereabouts: Beiming Gu affiliation is established; exact current whereabouts are not confirmed.
 - Recurring visits / cover locations: No recurring visits or cover identity are established.

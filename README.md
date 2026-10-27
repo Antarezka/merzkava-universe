@@ -96,7 +96,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
   Beast Age Grade uses actual specimen age and classifies age only—not Beast category, Spirit Realm, or appraisal strength. Grade 9 starts at 500,000 years and has no hard upper limit.
 
 - ✦ **Authority Hierarchy and Bootstrap Deduplication**  
-  Hash: ``e81fa78`` | Ver: ``Nightly-v1.4.100``  
+  Hash: ``dd3d26e`` | Ver: ``Nightly-v1.4.100``  
   INDEX owns bootstrap and navigation; Authority Order owns GM decisions; the gameplay template owns the visual contract. NPC lookup details now live in the canonical router, player snapshots are read from `ACTIVE_SHA`, and Mortal is no longer labeled as Realm 0.
 
 <div align="center">

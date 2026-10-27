@@ -4,15 +4,15 @@
 
 ## Display rule for unidentified items
 
-When an item's identity, exact type, or relevant properties have not yet been established by canon or the GM, display the item as `*Unknown* *membutuhkan appraisal untuk lebih pastinya*` wherever the player-facing item name/details are shown. Use this exact wording consistently in Inventory, Equipment, loot, item descriptions, and appraisal-related gameplay narration. Do not use this label for ordinary items whose identity and relevant details are already established. The label does not imply rarity, value, danger, a hidden power, or guaranteed appraisal success. Keep the actual unknown facts unresolved until valid evidence or appraisal establishes them. After appraisal, replace the label only for the facts the ruling actually establishes; any remaining unknown properties stay undisclosed/unconfirmed.
+When an item's identity, exact type, or relevant properties have not yet been established by canon or the GM, display the item as ``*Unknown*`` **membutuhkan appraisal untuk lebih pastinya** wherever the player-facing item name/details are shown. Use this exact wording consistently in Inventory, Equipment, loot, item descriptions, and appraisal-related gameplay narration. Do not use this label for ordinary items whose identity and relevant details are already established. The label does not imply rarity, value, danger, a hidden power, or guaranteed appraisal success. Keep the actual unknown facts unresolved until valid evidence or appraisal establishes them. After appraisal, replace the label only for the facts the ruling actually establishes; any remaining unknown properties stay undisclosed/unconfirmed.
 
 ## 1. Priority Order
 
 1. **Existing official canon:** use the exact tier recorded by the relevant official module, catalog, approved discovery, or owner-confirmed canon decision. Do not recalculate it.
 2. **Completed MAA ruling:** when this exact specimen/item has actually been examined, its valid ruling takes priority over estimates, seller claims, rumors, and ordinary records.
 3. **Routine economic classification:** for ordinary goods whose description and market role are clear (for example, standard roadside food, basic snacks, common materials, or ordinary herbs), use the fitting category in `core/10_ECONOMY_SYSTEM.md` and its pricing formula. This is a practical market classification, not a specialist appraisal; do not run the nine-dimension score or demand an MAA record just to complete an everyday transaction.
-4. **GM provisional assessment:** use the scoring method below only when a meaningful unresolved classification is needed for a special, unusual, disputed, or consequential item/specimen and there is enough concrete evidence. Mark the result **Prediksi GM**, never official canon.
-5. **Insufficient evidence:** if a special classification is genuinely necessary but evidence is inadequate, record **Tier belum ditetapkan — bukti belum cukup** and arrange appraisal when practical. Do not fabricate facts to force a score.
+4. **GM provisional assessment:** use the scoring method below only when a meaningful unresolved classification is needed for a special, unusual, disputed, or consequential item/specimen and there is enough concrete evidence. Mark the result ``*Prediksi GM*``, never official canon.
+5. **Insufficient evidence:** if a special classification is genuinely necessary but evidence is inadequate, record ``*Tier belum ditetapkan*`` — bukti belum cukup and arrange appraisal when practical. Do not fabricate facts to force a score.
 
 An appraisal ruling concerns only the specific examined specimen, batch, or item identity. It does not automatically establish the tier of every member of a species, every artifact of the same model, or every object with a similar name. The need for a specialist classification depends on the scene and the item's significance; routine pricing or consumption alone does not trigger it.
 
@@ -55,7 +55,7 @@ Use a total from **0–134 points**. Score each of the nine dimensions from **0�
 | 105–119 | Tier 8 |
 | 120–134 | Tier 9 |
 
-Example: a valid score of 68 gives **Tier 5 (Prediksi GM · 68 poin)**. This is not an official ruling until an authorized appraisal is completed or canon is updated.
+Example: a valid score of 68 gives ****``*Tier 5*`` (``*Prediksi GM*`` · 68 poin)****. This is not an official ruling until an authorized appraisal is completed or canon is updated.
 
 ## 4. World Appraisal Institution
 

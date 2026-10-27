@@ -78,32 +78,23 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
+- ✦ **Gameplay Hash + Nightly Version Header**  
+  Player Converse now requires a seven-character Hash from the active pinned snapshot and the Nightly version from that same snapshot's README. The identity line appears immediately above the Merzkava time header.
+
 - ✦ **Spirit Ring Color Bands and the Heaven Realm Threshold**  
-  Spirit Ring colors now have unique, non-repeating age bands through 15,000,000 years: Blue (#0000FF) at 1,000–9,999; Orange (#FFA500) at 100,000–499,999; Maroon at 500,000–999,999; Gold at 1,000,000–1,999,999; Purple at 2,000,000–3,999,999; Pink at 4,000,000–6,999,999; and Dark Vienna (#1E203E) at 7,000,000–15,000,000 years. Beings older than 15,000,000 years are regarded as Heaven Realm beings, above Spirit Primordial power; ring colors above that age remain unspecified.
+  Spirit Ring colors use distinct age bands through 15,000,000 years. Beyond that threshold, beings are regarded as Heaven Realm beings; higher-age ring colors remain unspecified.
 
 - ✦ **Beast Age Grade Formula and Open-Ended Age Grade 9**  
-  Beast Age Grade is calculated from the specimen's actual age using one canonical table. Age Grades classify age only—not Beast categories, Spirit Realm, or appraisal strength grades. Age Grade 9 begins at 500,000 years and has no hard upper limit; the 7,290,422-year Heavenly Beast of Azerion Forest remains Age Grade 9. Spirit Ring color is assessed separately.
+  Beast Age Grade uses actual specimen age and classifies age only—not Beast category, Spirit Realm, or appraisal strength. Grade 9 starts at 500,000 years and has no hard upper limit.
 
 - ✦ **Pinned-Commit Roleplay Source and Automatic Hash Refresh**  
-  The README now exposes a copyable commit hash for a stable snapshot of the roleplay source instead of relying on a moving `main` URL. A GitHub Actions workflow refreshes that hash after repository changes, keeping the displayed source one commit behind the newest README-refresh commit so the pinned reference does not chase itself.
+  The README provides a copyable pinned commit for consistent gameplay sources. GitHub Actions refreshes the pin without letting the README chase its own update commit.
 
 - ✦ **Lean GM Routing and Pinned Snapshot Consistency**  
-  The central INDEX is now shorter and routes regional/NPC canon through a specialist guide loaded only when relevant. Authority Order delegates detailed mechanics and ledger formulas to their single source modules. Bootstrap resolves the README's pinned SHA first, then reads all gameplay sources from that same commit to avoid mixing moving `main` content with an older snapshot.
+  INDEX and Authority Order route detailed canon to authoritative modules loaded as needed. Bootstrap reads all gameplay sources from one pinned SHA to prevent mixing snapshots.
 
 - ✦ **Martial Soul Chance and Classification Unified Without Tier Labels**  
-  The awakening module keeps the rarity chance, inherent-quality assessment, and mutation chance as separate procedures in one authoritative source. Martial Soul uses only the established names Common, Uncommon, Rare, Epic, Legendary, and Myth—never numeric Tier 1–9 labels or invented rarity names. The inherent-quality assessment cannot overwrite the actual rarity draw, and obsolete conflicting classifications are not retained.
-
-- ✦ **GM Footer, Day-Cycle Label, and Player Invocation Aligned**  
-  The canonical gameplay template uses a compact `Siklus` label for Dini hari, Subuh, Pagi, Siang, Sore, or Malam, and ends with `•••_@GM_Authority: Tentukan Aksimu (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧`. The action prompt is localized to the player's language; the instruction to localize it stays out of the footer. The player invocation template remains limited to player input and cannot override GM response formatting.
-- ✦ **Tier-Gap Spirit Ring Compatibility and Voluntary Handover Formula**  
-  Each ring's compatibility cap now starts at 100, subtracts a tier-threat gap penalty plus evidence-based body/Martial Soul penalties, then adds only supported combat and method bonuses. Genuine voluntary soul-ring handover receives a distinct high bonus and reduced tier penalty; ordinary forced acquisition cannot reach a 100 cap. The 80% range marks exceptional compatibility, while 100% remains rare and evidence-driven. Overall compatibility now contributes 50% of the PowerScale multiplier, making it a major power factor alongside total ring age.
-
-- ✦ **Disaster-Driven Scarcity Integrated into Unified Pricing Formula**  
-  The existing item-pricing formula now accounts for documented disaster impacts through one effective scarcity multiplier: minor disruption ×1.10–1.25, moderate ×1.30–1.60, major ×1.70–2.20, and catastrophic ×2.30–3.00. The effect applies only to goods and markets whose supply is affected, reflects stock and alternative routes, eases as recovery is verified, and must not double-count the same shortage under seasonal scarcity or local adjustments.
-
-- ✦ **Mandatory Gameplay Layout and Character-Knowledge Guardrails Reinforced**  
-  INDEX now puts the complete gameplay layout first in bootstrap priority, and GM Authority Order treats it as a mandatory pre-narration and final-validation gate. The gameplay template and player invocation require the canonical time header, all profile/finance/technique/consistency panels, visual dividers, five-denomination Wallet, and footer—even on short turns or when state does not change. Only the ledger block is conditional. GM-only traits and undiscovered potential must not be narrated as facts the character already knows.
-
+  One authoritative source separates rarity chance, inherent-quality assessment, and mutation chance. Martial Soul classifications use only Common, Uncommon, Rare, Epic, Legendary, and Myth—never numeric tiers.
 <div align="center">
 
 **✧ ── ✦ ── ❖ ── ✦ ── ✧**

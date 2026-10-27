@@ -9,6 +9,10 @@
 - Role: Thinker, Artificial Artifact creator, wartime contributor, and revered heroine of Tianhai Yunzhou.
 - Family: Wife of Ji Haoyuan; mother of twin daughters Ji Zhaoning and Ji Ningzhao.
 - Age, species, appearance, burial place, and memorial location: Not established.
+- Home / usual residence: Tianhai Yunzhou during her lifetime; her exact personal residence is not established.
+- Usual base / duty location: Her work and service were associated with Tianhai Yunzhou's defense and Artificial Artifact development; no specific workshop or residence is established.
+- Last confirmed location / current whereabouts: Deceased; died during the Great Tianhai War. Burial place and memorial location are not established.
+- Recurring visits / travel pattern: No recurring travel pattern is established. Do not place her in present-day scenes unless an established in-world mechanism permits it.
 - Current status: Deceased; died during the Great Tianhai War.
 
 ## 2. Public Profile

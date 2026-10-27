@@ -115,3 +115,27 @@ Footer kanonis berakhir dengan:
 `•••_@GM_Authority: Tentukan Aksimu (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧`
 
 Jangan menampilkan laporan bootstrap, daftar file, atau menu pilihan sebagai pengganti adegan gameplay.
+
+## 9. Mandatory NPC discovery and scene-loading procedure
+
+Whenever an action, conversation, travel segment, location, faction, institution, political matter, or lore question involves an NPC, use the following route before narrating. This applies equally to major NPCs and supporting/background NPCs; the depth of loading changes with relevance, not the requirement to look in the right place.
+
+1. **Route first:** consult `INDEX.md` §5 and `world/CANON_LOAD_ROUTER.md`; use `world/NPC_MANAGEMENT.md` for NPC categories, knowledge boundaries, and permitted improvisation. Do not treat memory, an old response, or a search excerpt as a substitute for the current canonical source.
+2. **Locate the scene:** read the relevant `world/REGION_*.md` module and the specific settlement, location, institution, or faction section. Use the corresponding regional index:
+   - Golden Dragon Empire → `regions/golden-dragon-empire/INDEX.md`
+   - Tianhai Yunzhou → `regions/tianhai-yunzhou/INDEX.md`
+   - Beiming Gu → `regions/beiming-gu/INDEX.md`
+   - Elsewhere or cross-regional → the matching world/regional module and confirmed affiliations; never assign an unsupported regional origin.
+3. **Search existing rosters before inventing:** check the relevant `npcs/REGISTRY.md`, the local NPC table, and the relevant office/faction roster. For Tianhai Yunzhou also check `npcs/POWER_STRUCTURE.md`; for Golden Dragon Empire officials check `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md` and `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`. Check `world/FACTIONS.md` and the relevant academy, institution, or faction module if membership or authority matters.
+4. **Load the right detail level:**
+   - Major/recurring named NPC central to the scene: open their canonical full profile and relevant relationship, faction, history, location, and event sources.
+   - Named official or faction officeholder: verify both the dedicated profile (if present) and the authoritative appointment/office roster.
+   - Local or supporting NPC: check the matching location/institution/faction table first, then follow any linked profile or roster entry.
+   - Ordinary resident, unnamed guard, merchant, attendant, witness, or one-scene NPC: use established local facts and the limits in `world/NPC_MANAGEMENT.md`. Do not invent a permanent identity/profile merely to fill a scene.
+5. **Respect knowledge and continuity:** distinguish public facts, personal knowledge, rumors, beliefs, and GM-only secrets. A profile's existence does not mean an NPC knows its contents. Check last-confirmed status, whereabouts, relationships, injuries, and persistent consequences against relevant current events and confirmed scenes before acting on them.
+6. **If no entry is found:** do not immediately conclude the NPC does not exist. Check the local table, registry, official/faction roster, relevant legacy file, and source cross-links. If still absent, portray only the kind of situational NPC allowed by `world/NPC_MANAGEMENT.md`; keep unsupported identity, powers, affiliation, history, and relationships unspecified. Persistent named additions require owner approval.
+7. **When editing or auditing:** inspect each relevant `world/NPC_<NAME>.md` file before deciding it is duplicate or a compatibility pointer. Do not delete or silently supersede legacy sources by filename alone. Keep the canonical profile, regional registry, local table, office/faction roster, regional index, and global navigation synchronized wherever each actually references the NPC. Follow `world/CANON_DECISIONS_AND_PRECEDENCE.md` and `world/REGIONAL_REPOSITORY_ARCHITECTURE.md` for conflicts and ownership.
+
+### NPC loading is relevance-based, not optional
+
+For routine gameplay, do not load every NPC profile in the repository. Load the appropriate regional index and roster, then open only profiles needed for the current scene; include supporting NPCs from local tables when they are present or relevant. For a full audit or structural change, inspect all affected NPC profiles, registries, local tables, official/faction rosters, legacy files, and incoming/outgoing links. A registry entry, local table, or profile must never be treated as a replacement for the others when they serve different discovery purposes.

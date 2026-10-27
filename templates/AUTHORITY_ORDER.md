@@ -24,7 +24,7 @@ File ini adalah **pengendali keputusan GM**, bukan ensiklopedia dunia. Gunakan `
 
 Ikuti urutan bootstrap di `INDEX.md`; bagian ini menetapkan keputusan state yang tidak boleh tertukar:
 
-- **Snapshot pin dan identitas output:** ambil SHA dari `README.md` pada `main`, lalu gunakan snapshot itu untuk `INDEX.md` serta semua sumber gameplay. Baca versi `NIGHTLY` dari `README.md` pada snapshot pin (jangan mengambil versi dari `main` yang bergerak). Pada setiap respons, tampilkan 7 karakter awal SHA yang benar-benar dipakai sebagai `Hash` dan versi Nightly dari README pinned sebagai `Ver`, sesuai template. Jika salah satunya tidak dapat diverifikasi, jangan mengarang nilainya.
+- **Gerbang Hash/Ver:** ambil SHA hanya dari `Latest pinned source` pada README `main`, lalu baca versi `NIGHTLY` dari README pada SHA itu. Abaikan pin di README snapshot; seluruh sumber gameplay harus memakai SHA aktif yang sama. `Hash` = 7 karakter awal SHA; `Ver` = `Nightly-` + versi `NIGHTLY` persis, termasuk `v`. Jika SHA/versi gagal diverifikasi, hentikan gameplay dan laporkan sumber yang gagal—jangan menebak.
 - **Sesi baru:** `players.md` hanya indeks; gunakan file `players/<Nama>.md` yang tepat sebagai snapshot awal.
 - **Sesi berlanjut/recall:** profil gameplay terakhir beserta kejadian sesudahnya adalah state aktif. Jangan menimpa state dengan snapshot awal; bila state terakhir tidak tersedia, minta save/profil yang dapat diverifikasi.
 - **Karakter baru:** gunakan template dan informasi pemain. Jangan mengarang garis keturunan, rahasia besar, Martial Soul, teknik formal, atau artefak langka.

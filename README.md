@@ -24,7 +24,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ### ✦ READY-TO-COPY ROLEPLAY HASH ✦
 
-**Latest pinned source:** `75554d6`
+**Latest pinned source:** `c29eb56`
 
 </div>
 <!-- RP_SOURCE_END -->
@@ -66,7 +66,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![WORLD UPDATE LOG](https://img.shields.io/badge/WORLD_UPDATE_LOG-FFFFFF?style=for-the-badge&labelColor=151515)
 
-![NIGHTLY](assets/nightly-version.svg?v=2) <sub>v1.4.104</sub> &nbsp; ![STABLE](assets/stable-version.svg?v=1) <sub>v1.0.0</sub>
+![NIGHTLY](assets/nightly-version.svg?v=2) <sub>v1.4.102</sub> &nbsp; ![STABLE](assets/stable-version.svg?v=1) <sub>v1.0.0</sub>
 
 **✦ ──── ❖ ──── ✦**
 
@@ -95,9 +95,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **Beast Age Grade Formula and Open-Ended Age Grade 9**  
   Beast Age Grade uses actual specimen age and classifies age only—not Beast category, Spirit Realm, or appraisal strength. Grade 9 starts at 500,000 years and has no hard upper limit.
 
-- ✦ **Player Converse Universal Formatting**  
-  Hash: ``454841b`` | Ver: ``Nightly-v1.4.104``  
-  Player Converse enforces italicized classification labels inside double backticks, four-asterisk wrappers for resolved chance/combat/gacha/formula outcomes, and canonical Hash/Ver header formatting.
+- ✦ **Unified Ledger and Immersive Converse Narration**  
+  Hash: ``d123758`` | Ver: ``Nightly-v1.4.103``  
+  Classification labels use double-backtick italic terms with explanations outside; resolved chance, combat, gacha, and formula results use four-asterisk wrappers.
 
 <div align="center">
 

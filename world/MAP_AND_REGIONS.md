@@ -17,7 +17,7 @@ Golden Dragon Empire lies in the east, Tianhai Yunzhou floats above the southwes
 
 ## 1A. Connected tree and inter-power transit
 
-For one connected navigation tree linking all three major powers, their regional branches, canonical source paths, and confirmed inter-power transit corridors, use [`world/WORLD_NAVIGATION_TREE.md`](WORLD_NAVIGATION_TREE.md). The mapped transit network currently connects Golden Dragon Empire ↔ Tianhai Yunzhou and Beiming Gu ↔ Tianhai Yunzhou. Golden Dragon Empire ↔ Beiming Gu has no established direct route; the mapped path between them is indirect via Tianhai Yunzhou. See the tree and `world/LOCATION_AND_ROUTE_NETWORK.md` for edge status, fares, operating window, and unresolved details.
+For the connected power tree, use [`world/WORLD_NAVIGATION_TREE.md`](WORLD_NAVIGATION_TREE.md). For three matching perspective maps showing internal regional branches, overland corridors, mixed land-and-sea travel, shared wilderness, and all three established direct air corridors, use [`world/THREE_POWER_PERSPECTIVE_MAPS.md`](THREE_POWER_PERSPECTIVE_MAPS.md). The direct Golden Dragon Empire ↔ Beiming Gu air corridor is established and does not require a transfer through Tianhai Yunzhou. The perspective maps also show mapped land and maritime travel frameworks; exact local road segments, landing points, schedules, distances, and durations remain unspecified unless a regional source establishes them. See `world/LOCATION_AND_ROUTE_NETWORK.md` for route status and the established air-service fare/window.
 
 ## 2. Golden Dragon Empire — Eastern Regions
 

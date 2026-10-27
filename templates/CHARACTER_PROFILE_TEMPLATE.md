@@ -18,7 +18,7 @@ Pertahankan nama dan urutan field sesuai `templates/GAMEPLAY_RESPONSE_TEMPLATE.m
 10. `Qi`: nilai/state Qi yang benar-benar ditetapkan oleh sumber resmi dan riwayat; jangan mengarang batas atau pemulihan.
 11. `Kondisi Tubuh`: kondisi fisik yang didukung kejadian dan mekanik, termasuk cedera yang relevan.
 12. `Equipment`: perlengkapan yang sedang dimiliki/digunakan sesuai state.
-13. `Inventory`: barang bawaan yang tercatat.
+13. `Inventory`: barang bawaan yang tercatat. Untuk item yang identitas, jenis pasti, atau detail relevannya belum ditetapkan oleh kanon/GM, tampilkan item tersebut dengan label persis `*Unknown* *membutuhkan appraisal untuk lebih pastinya*`; jangan menggantinya dengan `???` atau mengarang detail. Terapkan konsisten juga pada Equipment dan loot.
 14. `Assets Bangunan`: hanya bangunan atau properti yang benar-benar dimiliki karakter dan tercatat sebagai aset. Penghasilan, tabungan, uang tunai, dan barang bawaan bukan Assets Bangunan; uang hanya dicatat pada `Wallet (wealth)`, sedangkan barang bawaan dicatat pada `Inventory`.
 15. `Wallet (wealth)`: saldo mata uang sesuai sistem ekonomi dan transaksi tercatat. Pertahankan format canonical: `... xc | ... xs | ... xg | ... zj | ... az`; jangan mengarang kurs atau saldo.
 16. `Teknik / Kemampuan`: kemampuan serta rincian Spirit Ring yang dimiliki, dengan fungsi jelas dan sumber yang sah.

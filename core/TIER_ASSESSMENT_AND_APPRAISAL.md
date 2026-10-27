@@ -2,6 +2,10 @@
 
 **Authority and scope:** This module governs *specialist fallback classification* for goods, artifacts, creatures, and the worldwide appraisal authority. It is not a mandatory step in routine pricing, purchases, sales, or consumption. Ordinary goods are handled first through the economic quality categories and pricing method in `core/10_ECONOMY_SYSTEM.md`; Martial Soul score calculation and its integration with awakening rarity/mutation chances are governed separately by `core/MARTIAL_SOUL_AWAKENING.md`. This module never replaces a known canon classification or the ordinary economic pricing formula.
 
+## Display rule for unidentified items
+
+When an item's identity, exact type, or relevant properties have not yet been established by canon or the GM, display the item as `*Unknown* *membutuhkan appraisal untuk lebih pastinya*` wherever the player-facing item name/details are shown. Use this exact wording consistently in Inventory, Equipment, loot, item descriptions, and appraisal-related gameplay narration. Do not use this label for ordinary items whose identity and relevant details are already established. The label does not imply rarity, value, danger, a hidden power, or guaranteed appraisal success. Keep the actual unknown facts unresolved until valid evidence or appraisal establishes them. After appraisal, replace the label only for the facts the ruling actually establishes; any remaining unknown properties stay undisclosed/unconfirmed.
+
 ## 1. Priority Order
 
 1. **Existing official canon:** use the exact tier recorded by the relevant official module, catalog, approved discovery, or owner-confirmed canon decision. Do not recalculate it.

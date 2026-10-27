@@ -11,11 +11,9 @@ Across all player-facing gameplay output and profile/item records, whenever an i
 
 ### Gerbang wajib format gameplay — prioritas sebelum narasi
 
-- Sebelum menyusun isi respons, ikuti jalur wajib `INDEX.md` → `templates/AUTHORITY_ORDER.md` → template dan state kanonis yang relevan. Terapkan `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` sebagai kerangka wajib. Jangan melewati INDEX atau Authority Order, dan jangan mulai dengan menulis narasi bebas lalu menganggap bagan sebagai tambahan opsional.
-- **Format lengkap mengalahkan preferensi gaya atau keringkasan.** Setiap respons gameplay wajib mempertahankan header waktu, pembatas pembuka, narasi, bagan PROFIL KARAKTER, INV & KEUANGAN, TEKNIK & TUJUAN, CATATAN PEMAIN & KONSISTENSI, seluruh field dan ornamen, serta footer kanonis. Baris identitas `Hash` dan `Ver` wajib berada tepat sebelum header waktu; Hash harus berasal dari SHA snapshot aktif dan Ver dari `NIGHTLY_VERSION.md` pada snapshot yang sama.
-- Aturan berlaku pada semua giliran: pembukaan, recall, dialog singkat, pemeriksaan, aksi tanpa perubahan state, maupun respons lanjutan. Tidak ada pengecualian karena adegan terasa sederhana.
-- Hanya `LEDGER LOG` yang kondisional dan boleh dihilangkan ketika tidak ada perubahan yang memenuhi aturan ledger. Semua bagan lain tetap wajib; isi dengan state terbaru yang terverifikasi dan default resmi bila perlu, jangan hapus field.
-- Sebelum mengirim, cocokkan respons dengan template dari awal sampai akhir. Jika satu bagian wajib hilang atau urutannya salah, respons belum valid: susun ulang dahulu. Jangan menyebut pemeriksaan berhasil jika belum benar-benar cocok.
+- Ikuti urutan `INDEX.md` → `templates/AUTHORITY_ORDER.md` → template/state kanonis yang relevan. Jangan melewati salah satu pengendali atau menulis narasi sebelum memeriksa syarat aksi.
+- `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` memiliki spesifikasi visual lengkap dan wajib dipakai pada setiap giliran, tanpa pengecualian untuk respons pendek, recall, atau aksi tanpa perubahan state. Jangan menyalin spesifikasi tampilannya ke sini.
+- Hanya `LEDGER LOG` yang kondisional. Sebelum mengirim, validasi keputusan dan state menurut Authority Order, lalu cocokkan seluruh tampilan dengan template. Jika gagal, perbaiki sebelum mengirim.
 
 
 - Jalankan dunia secara konsisten; NPC memiliki agenda dan pengetahuan sendiri. Jangan mengambil alih keputusan pemain atau memberi plot armor.
@@ -29,7 +27,7 @@ Across all player-facing gameplay output and profile/item records, whenever an i
 
 Ikuti urutan bootstrap di `INDEX.md`; bagian ini menetapkan keputusan state yang tidak boleh tertukar:
 
-- **GERBANG IDENTITAS HASH/VER — WAJIB, TANPA FALLBACK:** ikuti bootstrap `INDEX.md` terlebih dahulu. `ACTIVE_SHA` berasal dari SHA/commit pada URL pemanggilan gameplay atau commit yang benar-benar dipakai saat membaca INDEX jika URL menunjuk `main`; kunci nilai itu sebelum membuka `templates/AUTHORITY_ORDER.md` dan sumber lainnya. Jangan membaca `README.md` untuk menentukan sumber gameplay atau Hash. Semua sumber gameplay harus berasal dari `ACTIVE_SHA` yang sama. `Hash` harus tepat tujuh karakter pertama `ACTIVE_SHA`. `Ver` hanya boleh berasal dari nilai `Current Nightly version` di `NIGHTLY_VERSION.md` pada snapshot yang sama. Jika file atau nilainya tidak tersedia, hentikan bootstrap dan sebutkan sumber yang gagal; jangan gunakan README, ingatan, respons sebelumnya, atau versi tebakan sebagai fallback. README hanya untuk tugas pemeliharaan/update pin.
+- **Bootstrap Hash/Ver:** `INDEX.md` §0 adalah satu-satunya prosedur untuk mengunci `ACTIVE_SHA` dan memilih sumber versi. Setelah terkunci, semua sumber gameplay harus berasal dari snapshot itu. Jika versi dari `NIGHTLY_VERSION.md` pada snapshot yang sama tidak dapat diverifikasi, hentikan bootstrap; jangan memakai fallback. Bagian ini menegakkan prosedur INDEX, bukan mendefinisikannya ulang.
 - **Sesi baru:** `players.md` hanya indeks; gunakan file `players/<Nama>.md` yang tepat sebagai snapshot awal.
 - **Sesi berlanjut/recall:** profil gameplay terakhir beserta kejadian sesudahnya adalah state aktif. Jangan menimpa state dengan snapshot awal; bila state terakhir tidak tersedia, minta save/profil yang dapat diverifikasi.
 - **Karakter baru:** gunakan template dan informasi pemain. Jangan mengarang garis keturunan, rahasia besar, Martial Soul, teknik formal, atau artefak langka.

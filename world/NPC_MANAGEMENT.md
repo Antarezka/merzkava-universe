@@ -3,19 +3,11 @@
 **Status:** Canonical GM operating guidance.
 **Purpose:** Keep NPCs easy to find by location, consistent with world canon, and independent in their motives. Follow the regional-module pattern: central INDEX → relevant regional module → location/faction NPC table → detailed profile only when needed.
 
-## 1. One navigation path
+## 1. Lookup routing and source ownership
 
-For NPC lookup, creation, auditing, or gameplay, follow this order:
+Use `INDEX.md` §5 and `world/CANON_LOAD_ROUTER.md` for the single detailed procedure for regional selection, local NPC tables, registries, canonical profiles, descriptive references, and legacy paths. Do not maintain a second navigation sequence here.
 
-1. Read the central `INDEX.md` and `templates/AUTHORITY_ORDER.md`.
-2. Read `world/WORLD.md` to confirm the exact canonical major-power names.
-3. Identify the NPC's established home/affiliation or the scene's location.
-4. Open the relevant regional/settlement module and inspect the NPC table for that location, settlement, institution, or faction.
-5. Follow the link to a detailed NPC profile only when one exists and is relevant.
-6. Check authoritative official/faction rosters, route modules, `world/DYNAMIC_EVENTS.md`, or `world/HISTORY.md` when needed.
-7. If a source does not establish a fact, label it unknown. Never invent a path, name, role, affiliation, ability, or destination repository.
-
-The regional module's NPC table is the first lookup point for local NPCs. Do not make the player or GM hunt across unrelated files to discover which NPCs belong to a place.
+This file owns NPC management after the relevant sources have been located: canonical profile structure, local placement, independent agency, knowledge boundaries, relationships, continuity, and the limits of temporary-NPC improvisation. Apply the sections below alongside the router; neither file replaces the central `INDEX.md` → `templates/AUTHORITY_ORDER.md` entry path. If a source does not establish a fact, leave it unknown rather than inventing a path, name, role, affiliation, ability, or destination repository.
 
 ## 2. Regional boundaries and canon
 

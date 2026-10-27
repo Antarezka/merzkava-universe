@@ -224,7 +224,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <sub><span style="color:#555555">HOW TO PLAY?</span></sub>
 
-<sub><span style="color:#555555">🝰 Reach Authority_Phantom</span></sub>
+<img src="assets/authority-phantom.svg?v=1" alt="Discord — Authority_Phantom" width="230" />
 
 ---
 

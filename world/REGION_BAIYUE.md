@@ -8,6 +8,7 @@
 - **Power / jurisdiction context:** Golden Dragon Empire
 - **Established identity:** Fortifications, military routes, and border defense.
 - **Canonical overview:** `world/MAP_AND_REGIONS.md` and `world/WORLD.md`
+- **Connected route map:** `world/THREE_POWER_PERSPECTIVE_MAPS.md` shows the owner-requested northern land corridor from Beiguan through the Nine Frost Wastes toward Beiming Gu. The exact local road alignment, crossings, and duration remain unspecified.
 
 ## 2. Geography and Boundaries
 - General position: Frontier periphery — vast distances, sparse civilian services, stronger focus on roads and defense. Exact coordinates and surveyed borders remain undefined.

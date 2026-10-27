@@ -68,7 +68,7 @@ New entries may be added when the owner defines them or gameplay establishes a d
 ## 4. Artifact Record Template
 
 ```markdown
-### ART-XXX — [Name or ???]
+### ART-XXX — [Known name, or `*Unknown* *membutuhkan appraisal untuk lebih pastinya*` if unidentified]
 - **Category:** [Relic / Ancient Artifact / Artificial Artifact / Unclassified]
 - **Tier:** [Official canon/appraisal tier; otherwise GM provisional prediction with score/evidence or “Tier belum ditetapkan — appraisal diperlukan”]
 - **Origin / provenance:** [Verified evidence or ???]

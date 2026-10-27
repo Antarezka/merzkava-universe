@@ -4,7 +4,7 @@ This specialist router is loaded only when regional, NPC, settlement, or territo
 
 ## 1. Connected Tree and Transit Entry
 
-For the full connected navigation tree across all three major powers, their established regional branches, canonical source paths, and the inter-power transit graph, start at [`world/WORLD_NAVIGATION_TREE.md`](WORLD_NAVIGATION_TREE.md). It is a navigation index, not a replacement for source files. For travel, verify each edge in `world/LOCATION_AND_ROUTE_NETWORK.md`, `world/GEOGRAPHY_AND_TRAVEL.md`, both endpoint regional modules, and `gameplay/TIME_AND_ACTION_RULES.md`. The confirmed cross-power graph has two dedicated corridors through Tianhai Yunzhou; a direct Golden Dragon Empire–Beiming Gu route is not established.
+For the full connected navigation tree across all three major powers, their established regional branches, canonical source paths, and the inter-power transit graph, start at [`world/WORLD_NAVIGATION_TREE.md`](WORLD_NAVIGATION_TREE.md). It is a navigation index, not a replacement for source files. For travel, verify each edge in `world/LOCATION_AND_ROUTE_NETWORK.md`, `world/GEOGRAPHY_AND_TRAVEL.md`, both endpoint regional modules, and `gameplay/TIME_AND_ACTION_RULES.md`. Three dedicated direct air corridors are established, including Longyuan Sky Transit Terminal (Golden Dragon Empire) ↔ Beiming Heartland Sky Transit Terminal (Beiming Gu); do not force a transfer through Tianhai Yunzhou. Check current access conditions and disruptions in the authoritative route and regional sources.
 
 ## 2. Regional Modules and NPC References
 

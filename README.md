@@ -66,7 +66,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![WORLD UPDATE LOG](https://img.shields.io/badge/WORLD_UPDATE_LOG-FFFFFF?style=for-the-badge&labelColor=151515)
 
-![NIGHTLY](assets/nightly-version.svg?v=2) <sub>v1.4.101</sub> &nbsp; ![STABLE](assets/stable-version.svg?v=1) <sub>v1.0.0</sub>
+![NIGHTLY](assets/nightly-version.svg?v=2) <sub>v1.4.102</sub> &nbsp; ![STABLE](assets/stable-version.svg?v=1) <sub>v1.0.0</sub>
 
 **✦ ──── ❖ ──── ✦**
 
@@ -95,9 +95,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **Beast Age Grade Formula and Open-Ended Age Grade 9**  
   Beast Age Grade uses actual specimen age and classifies age only—not Beast category, Spirit Realm, or appraisal strength. Grade 9 starts at 500,000 years and has no hard upper limit.
 
-- ✦ **Unified Ledger Markers and Immersive Converse Narration**  
-  Hash: ``e3a3d36`` | Ver: ``Nightly-v1.4.101``  
-  Money, item, and Satiety changes now share one verified ledger flow with natural `🝰 MASUK/KELUAR` and `⧟` markers, while passive Converse keeps context-relevant NPC dialogue and scene detail active.
+- ✦ **Unified Ledger and Immersive Converse Narration**  
+  Hash: ``835e6c9`` | Ver: ``Nightly-v1.4.102``  
+  Money, item, and Satiety changes share one verified ledger flow; unidentified item labels now format ``Unknown`` with double backticks consistently.
 
 <div align="center">
 

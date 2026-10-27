@@ -4,7 +4,7 @@
 **Scope:** One canonical regional module for all seven major districts of Beiming Gu.  
 **Authority:** `world/WORLD.md`, `world/MAP_AND_REGIONS.md`, `world/FACTIONS.md`, the relevant canonical NPC profiles, and recorded owner-approved decisions. This file consolidates confirmed regional facts; it does not invent missing settlements, borders, distances, prices, or local institutions.
 
-**Connected world tree:** [`world/WORLD_NAVIGATION_TREE.md`](WORLD_NAVIGATION_TREE.md) maps this power into the shared three-power hierarchy and records established inter-power transit. Use it as navigation only; this file remains authoritative for its own subject.
+**Connected world tree:** [`world/WORLD_NAVIGATION_TREE.md`](WORLD_NAVIGATION_TREE.md) maps the shared power hierarchy. [`world/THREE_POWER_PERSPECTIVE_MAPS.md`](THREE_POWER_PERSPECTIVE_MAPS.md) shows the mapped overland approach through Nine Frost Wastes and the three powers' air/sea connections. Use those maps as navigation aids; this file remains authoritative for Beiming's local canon.
 
 ## 1. Confirmed Foundation
 

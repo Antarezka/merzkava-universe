@@ -3,15 +3,14 @@
 **Status:** Canonical GM operating guidance.
 **Purpose:** Keep NPCs grounded in the established map, with consistent whereabouts and independent motives.
 
-## 1. One NPC → Map path
+## 1. One connected NPC ↔ Map path
 
-When a named/recurring NPC matters to a scene, use one simple path:
+Use the same connected path in either direction, depending on the scene's starting point:
 
-**Canonical NPC profile → location named in the profile → matching map/regional module → relevant local place, institution, or NPC entry.**
+- **NPC → Map:** open the canonical NPC profile, use `Home / usual residence`, `Usual base / duty location`, and `Last confirmed location / current whereabouts` to select the matching map/regional module, then ground the scene in its established local places, institutions, services, routes, and nearby NPC entries. A registry is only a locator when needed.
+- **Map → NPC:** when a player enters or spends time in a location, open the matching map/regional module first. Proactively inspect its local NPC tables and relevant institutions/factions, identify plausible candidates, then open their canonical profiles (using the registry only to locate those profiles) to verify role, behavior, relationships, knowledge boundaries, and whereabouts. Bring suitable candidates into the scene naturally through daily life, work, encounters, or conversation. Do not force an NPC cameo when no candidate plausibly fits.
 
-Use `Home / usual residence`, `Usual base / duty location`, and `Last confirmed location / current whereabouts` to choose where to look on the map. Read the matching map source to ground the scene in established geography, settlements, institutions, services, local NPCs, and confirmed routes. The map supplies location context; the profile supplies the NPC's identity, behavior, and continuity. A registry is only a locator when needed, not another mandatory chain of reading.
-
-Start from `INDEX.md` → `templates/AUTHORITY_ORDER.md` as usual. For Beiming Gu, use `world/REGION_BEIMING_GU.md` as the single regional source. If the map does not establish a finer location, keep it unknown. Never assume that an NPC is physically present just because their profile or home is associated with that region.
+Start from `INDEX.md` → `templates/AUTHORITY_ORDER.md` as usual. For Beiming Gu, use `world/REGION_BEIMING_GU.md` as the single regional source. If the map does not establish a finer location, keep it unknown. A profile, residence, regional affiliation, or local roster entry alone does not prove current physical presence; check last-confirmed location, duties, schedule, plausible travel, relationships, and active events. Never invent finer map details, identity, or concealed facts.
 
 ## 2. Regional boundaries and canon
 

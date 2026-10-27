@@ -66,7 +66,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![WORLD UPDATE LOG](https://img.shields.io/badge/WORLD_UPDATE_LOG-FFFFFF?style=for-the-badge&labelColor=151515)
 
-![NIGHTLY](assets/nightly-version.svg?v=2) <sub>v1.4.104</sub> &nbsp; ![STABLE](assets/stable-version.svg?v=1) <sub>v1.0.0</sub>
+![NIGHTLY](assets/nightly-version.svg?v=2) <sub>v1.4.105</sub> &nbsp; ![STABLE](assets/stable-version.svg?v=1) <sub>v1.0.0</sub>
 
 **✦ ──── ❖ ──── ✦**
 
@@ -78,27 +78,25 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
+- ✦ **Regional Canon Load Path and Cross-Reference Validation**  
+  Hash: ``d717582`` | Ver: ``Nightly-v1.4.105``  
+  Regional scenes must follow the canon router, load relevant local authorities, and reconcile conflicts through the binding precedence rules.
+
 - ✦ **Mandatory NPC Identity Display and Knowledge Boundary**  
-  Hash: ``f484b21`` | Ver: ``Nightly-v1.4.104``  
   Every NPC mention uses double backticks; unidentified NPCs display as ``npc ???`` until the player learns their identity in-world. GM Authority must then switch to the identified name.
 
-- ✦ **Unified NPC Discovery Order Across INDEX and Authority**  
-  Regional INDEX → local NPC table → registry/official roster → canonical profile, with consistent handling of descriptive references and continuity.
-  Unidentified items now use the exact player-facing label ``*Unknown*`` **membutuhkan appraisal untuk lebih pastinya** across gameplay, character profiles, inventory, equipment, loot, transactions, artifacts, and consumption records. Appraisal reveals only facts supported by its findings; unknown prices, tiers, functions, rarity, and dangers must not be invented.
+- ✦ **Unified NPC Discovery Order and Unknown-Item Labels**  
+  Regional INDEX → local NPC table → registry/official roster → canonical profile, with consistent continuity and knowledge boundaries.  
+  Unidentified items use the exact label ``*Unknown*`` **membutuhkan appraisal untuk lebih pastinya**; appraisal reveals only supported findings.
 
 - ✦ **Gameplay Hash + Nightly Version Header**  
-  Player Converse now requires a seven-character Hash from the active pinned snapshot and the Nightly version from that same snapshot's `NIGHTLY_VERSION.md`. The identity line appears immediately above the Merzkava time header.
-
-- ✦ **Spirit Ring Color Bands and the Heaven Realm Threshold**  
-  Spirit Ring colors use distinct age bands through 15,000,000 years. Beyond that threshold, beings are regarded as Heaven Realm beings; higher-age ring colors remain unspecified.
+  Player Converse requires a seven-character Hash from the active pinned snapshot and the Nightly version from that same snapshot's `NIGHTLY_VERSION.md`. The identity line appears immediately above the Merzkava time header.
 
 - ✦ **Beast Age Grade Formula and Open-Ended Age Grade 9**  
   Beast Age Grade uses actual specimen age and classifies age only—not Beast category, Spirit Realm, or appraisal strength. Grade 9 starts at 500,000 years and has no hard upper limit.
 
 - ✦ **Unified Ledger and Immersive Converse Narration**  
-  Hash: ``d123758`` | Ver: ``Nightly-v1.4.103``  
   Classification labels use double-backtick italic terms with explanations outside; resolved chance, combat, gacha, and formula results use four-asterisk wrappers.
-
 <div align="center">
 
 **✧ ── ✦ ── ❖ ── ✦ ── ✧**

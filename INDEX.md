@@ -59,6 +59,8 @@ Pilih sumber berdasarkan aksi dan lokasi; jika beberapa sistem terdampak, baca s
 
 ## 2. Batas tanggung jawab sumber
 
+`backups/` adalah arsip historis, bukan sumber aktif: jangan gunakan file di dalamnya untuk bootstrap, canon, aturan, template, versi Nightly, atau state gameplay. Buka arsip hanya jika tugasnya secara eksplisit meminta perbandingan atau riwayat; untuk gameplay dan keputusan saat ini, gunakan file aktif yang dirujuk oleh INDEX pada `ACTIVE_SHA` yang sama.
+
 - `INDEX.md`: bootstrap dan navigasi.
 - `templates/AUTHORITY_ORDER.md`: perilaku GM, resolusi aksi, konsistensi, dan ledger.
 - `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`: satu-satunya format visual gameplay.

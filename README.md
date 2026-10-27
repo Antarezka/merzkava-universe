@@ -83,7 +83,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
   Unidentified items now use the exact player-facing label `*Unknown* *membutuhkan appraisal untuk lebih pastinya*` across gameplay, character profiles, inventory, equipment, loot, transactions, artifacts, and consumption records. Appraisal reveals only facts supported by its findings; unknown prices, tiers, functions, rarity, and dangers must not be invented.
 
 - ✦ **Gameplay Hash + Nightly Version Header**  
-  Player Converse now requires a seven-character Hash from the active pinned snapshot and the Nightly version from that same snapshot's README. The identity line appears immediately above the Merzkava time header.
+  Player Converse now requires a seven-character Hash from the active pinned snapshot and the Nightly version from that same snapshot's `NIGHTLY_VERSION.md`. The identity line appears immediately above the Merzkava time header.
 
 - ✦ **Spirit Ring Color Bands and the Heaven Realm Threshold**  
   Spirit Ring colors use distinct age bands through 15,000,000 years. Beyond that threshold, beings are regarded as Heaven Realm beings; higher-age ring colors remain unspecified.

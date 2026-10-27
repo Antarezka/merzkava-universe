@@ -96,7 +96,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
   Beast Age Grade uses actual specimen age and classifies age only—not Beast category, Spirit Realm, or appraisal strength. Grade 9 starts at 500,000 years and has no hard upper limit.
 
 - ✦ **Unified Ledger and Immersive Converse Narration**  
-  Hash: ``835e6c9`` | Ver: ``Nightly-v1.4.102``  
+  Hash: ``6a9fdb2`` | Ver: ``Nightly-v1.4.102``  
   Money, item, and Satiety changes share one verified ledger flow; unidentified item labels now format ``Unknown`` with double backticks consistently.
 
 <div align="center">

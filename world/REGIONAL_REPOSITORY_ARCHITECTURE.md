@@ -64,6 +64,8 @@ For gameplay, lore questions, audits, and repository edits:
 7. Read global modules when they govern the subject or span multiple powers.
 8. If a required file cannot be fetched, state the exact gap. Never claim to have read inaccessible content.
 
+Regional content order and required fields are defined by `templates/REGIONAL_MODULE_TEMPLATE.md`; this architecture file defines repository placement and ownership, not a second regional template.
+
 Do not fetch every NPC profile for an ordinary scene. Load the complete relevant module set and registries for a comprehensive audit.
 
 ## 5. Repository maintenance and safety

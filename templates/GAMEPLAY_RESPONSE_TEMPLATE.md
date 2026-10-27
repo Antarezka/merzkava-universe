@@ -37,7 +37,9 @@ NARASI
 
 [Setiap aktivitas terbaru wajib menyebutkan Satiety. Jika berubah, jelaskan nilai awal → perubahan → nilai akhir. Jika tetap, sebutkan nilainya beserta alasan yang relevan.]
 
-[Narasi tetap imersif walau player Converse secara pasif: tampilkan suasana yang relevan, percakapan/tindakan NPC aktif sesuai pengetahuan dan agenda mereka, serta aktivitas sekitar yang didukung canon, wilayah, dan waktu. Jangan memaksa kejadian atau mengambil alih karakter pemain.]\n\n[Jika uang, item, equipment, loot, aset, atau Satiety benar-benar berubah, narasikan kejadian secara natural dengan nilai sebelum → perubahan → sesudah. Untuk item/uang, gunakan penanda inline `**🝰 MASUK/KELUAR · [item/uang + jumlah]** ``⧟ [tier/grade/rarity/quality/Unknown jika relevan]`` sesuai arah perubahan; gunakan label Unknown resmi bila identitas item belum ditetapkan. Akhiri laporan terverifikasi dengan inline-code `Log tercatat!` tepat satu kali, lalu tampilkan satu ledger gabungan. Jangan membuat penanda atau ledger untuk perubahan yang tidak terjadi.]
+[Narasi tetap imersif walau player Converse secara pasif: tampilkan suasana yang relevan, percakapan/tindakan NPC aktif sesuai pengetahuan dan agenda mereka, serta aktivitas sekitar yang didukung canon, wilayah, dan waktu. Jangan memaksa kejadian atau mengambil alih karakter pemain.]
+
+[Jika uang, item, equipment, loot, aset, atau Satiety benar-benar berubah, narasikan kejadian secara natural dengan nilai sebelum → perubahan → sesudah. Untuk item/uang, gunakan penanda inline `**🝰 MASUK/KELUAR · [item/uang + jumlah]** ``⧟ [tier/grade/rarity/quality/Unknown jika relevan]`` sesuai arah perubahan; gunakan label Unknown resmi bila identitas item belum ditetapkan. Akhiri laporan terverifikasi dengan inline-code `Log tercatat!` tepat satu kali, lalu tampilkan satu ledger gabungan. Jangan membuat penanda atau ledger untuk perubahan yang tidak terjadi.]
 
 ╭─ LEDGER LOG · #[ID]
 │ Peristiwa/Aksi: [aksi/peristiwa penyebab perubahan]

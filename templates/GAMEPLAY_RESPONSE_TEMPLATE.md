@@ -1,68 +1,48 @@
 # Merzkava Universe — Canonical Gameplay Response Template
 
-Status: **Template visual resmi dan wajib untuk setiap balasan gameplay. Gunakan susunan, urutan, ornamen, pembatas, nama field, dan footer di bawah ini persis; ganti placeholder dengan data gameplay yang terverifikasi.**
+Status: **Satu-satunya sumber resmi untuk bentuk, urutan, nama field, dan sekat visual setiap balasan gameplay.**
 
-## Aturan Kepatuhan Wajib
+Semua trigger awal (`CONVO`), recall, dan giliran lanjutan wajib mengikuti template ini. `INDEX.md` mengarahkan GM ke file ini; `AUTHORITY_ORDER.md` mengatur perilaku GM; modul waktu dan mekanik mengatur perhitungan serta konsekuensi. Jangan menyalin format lengkap ini ke file lain atau membuat format alternatif.
 
-- **Sumber dan snapshot:** ikuti bootstrap `INDEX.md` §0 dan prosedur keputusan `templates/AUTHORITY_ORDER.md`. Seluruh file yang digunakan dalam satu giliran harus berasal dari `ACTIVE_SHA` yang sama. Jangan memakai `README.md` sebagai sumber gameplay atau fallback untuk Hash/Ver. Jika sumber wajib tidak tersedia atau versi snapshot tidak dapat diverifikasi, hentikan resolusi dan sebutkan path yang gagal.
-- **Pemilihan modul dan dependensi:** gunakan tabel domain di `INDEX.md`; periksa `world/DYNAMIC_EVENTS.md` setiap giliran dan ikuti rujukan canon yang dapat mengubah hasil. Router regional/NPC dimiliki `world/CANON_LOAD_ROUTER.md`; konflik dan kepemilikan canon mengikuti `world/CANON_DECISIONS_AND_PRECEDENCE.md`. Muat hanya dependensi relevan, tetapi jangan berhenti pada cuplikan yang belum cukup untuk memutuskan hasil.
-- Jika sumber wajib tidak dapat diakses, sebutkan path yang gagal dan batasi resolusi pada fakta yang masih terverifikasi. Jangan mengarang isi sumber atau menyatakan pemeriksaan selesai.
-- Template ini adalah **kerangka output**, bukan contoh opsional. Setiap giliran gameplay—termasuk respons pertama, recall, adegan dialog singkat, dan giliran tanpa perubahan state—wajib memuat header waktu, pembatas pembuka, narasi, seluruh bagan profil, seluruh bagan inventaris/keuangan, seluruh bagan teknik/tujuan, catatan konsistensi, dan footer pemain.
-- **Dilarang mengirim narasi bebas saja.** Jangan menghilangkan bagan karena nilainya tidak berubah, informasinya sederhana, atau tidak ada aksi pemain yang eksplisit.
-- **Format universal istilah klasifikasi:** setiap istilah yang ditampilkan sebagai label tier, quality/kualitas, tingkat, grade, rarity, status, kategori, atau klasifikasi sejenis wajib memformat istilahnya saja dengan pola ``*<istilah>*``; penjelasan setelahnya berada di luar backtick. Contoh: ``*Unknown*`` **membutuhkan appraisal untuk lebih pastinya**; ``*Tier 5*``; ``*Legendary*``. Terapkan konsisten pada narasi, hasil, tabel profil, Inventory, Equipment, loot, dan ledger.
-- **Format universal hasil resolusi:** setiap hasil final yang berasal dari chance/undian/gacha, combat, atau formula/perhitungan mekanik wajib dibungkus dengan empat tanda bintang di kedua sisi: `****<hasil final>****`. Terapkan pada hasil berhasil maupun gagal, angka peluang/roll yang dilaporkan, damage/HP final, rarity/mutasi, skor atau nilai hasil formula, dan hasil mekanik serupa. Jangan gunakan format ini untuk sekadar menjelaskan rumus sebelum hasilnya diputuskan; bungkus hasil yang benar-benar diresolusikan.
-- Ganti setiap placeholder dengan state terverifikasi. Jangan menampilkan instruksi dalam tanda kurung siku sebagai isi respons final. Jika nilai belum diketahui, gunakan default resmi dari `templates/CHARACTER_PROFILE_TEMPLATE.md`; jangan menghapus field atau mengarang nilai.
-- Field `Spirit Ring Absorption` wajib memakai status tahap kanonis dari `templates/CHARACTER_PROFILE_TEMPLATE.md` dengan format `status | Day left`. Mortal yang belum menjalani Awakening wajib ditampilkan sebagai `not eligible yet | ??? Day left`, bukan `Tidak ada | 0 Day left`.
-- `Wallet (wealth)` wajib selalu memakai urutan persis `xc | xs | xg | zj | az`. Salin nominal tiap denominasi dari state aktif tanpa menukar posisi atau mengubah saldo.
-- Untuk item yang identitas, jenis pasti, atau detail relevannya belum ditetapkan oleh kanon/GM, gunakan label persis ``*Unknown*`` **membutuhkan appraisal untuk lebih pastinya** pada Inventory, Equipment, loot, transaksi, dan deskripsi item yang ditampilkan ke pemain. Jangan gunakan `???` untuk label item atau mengarang nilai, tier, fungsi, kelangkaan, maupun bahaya. Appraisal hanya memperbarui fakta yang benar-benar ditetapkan oleh hasilnya.
-- `LEDGER LOG` adalah satu-satunya blok visual kondisional. Untuk perubahan state terverifikasi, narasikan transaksi secara natural, sertakan penanda inline `🝰 MASUK/KELUAR` dan atribut relevan `⧟`, akhiri laporan dengan inline-code `Log tercatat!` tepat satu kali, lalu tampilkan satu ledger gabungan sebelum profil. Jika tidak ada perubahan relevan, hilangkan penanda dan ledger—**jangan pernah menghilangkan bagan profil atau bagian visual lain**.
-- **Validasi header sebelum kirim:** cocokkan `Hash` dengan 7 karakter awal SHA aktif dan `Ver` dengan `Nightly-` + nilai `Current Nightly version` persis dari `NIGHTLY_VERSION.md`, termasuk awalan `v`. Bungkus nilai Hash dan Ver dengan dua backtick. Jika salah satu tidak cocok atau belum terverifikasi, jangan kirim gameplay; laporkan sumber yang gagal.
-- Sebelum mengirim, jalankan dua pemeriksaan berbeda: **(a) validasi keputusan** menurut `templates/AUTHORITY_ORDER.md`—aksi, waktu, syarat, sumber daya, pengetahuan karakter, dan perubahan state didukung sumber; **(b) validasi tampilan** menurut template ini—identitas Hash/Ver, header sampai footer lengkap, urutan/field/ornamen tetap, dan hanya `LEDGER LOG` yang boleh kondisional. Jika salah satu gagal, perbaiki sebelum mengirim. Jangan menampilkan laporan bootstrap atau daftar file yang dibaca sebagai pengganti adegan gameplay.
-- Pisahkan pengetahuan GM dan karakter. Jangan membocorkan catatan GM, potensi tersembunyi, asal-usul misterius, atau kemampuan yang belum disadari sebagai fakta terbuka. Narasikan gejala yang benar-benar dapat diamati sampai karakter memiliki dasar sah untuk memahaminya.
-- **Mandatory NPC display rule:** every NPC mention in player-facing output—including canon, non-canon, side/background, and temporary NPCs in narrative, dialogue, combat, events, tables, and logs—must be wrapped in double backticks (for example, ``Jun Yuejin``). If the player-character has not yet identified or learned an NPC's name in-world, use exactly ``npc ???`` and do not expose the name from internal canon sources. Once the identity is legitimately learned or revealed in-world, GM Authority must use the identified name wrapped in double backticks for subsequent references and must not revert to ``npc ???` while the character still knows it. This rule applies every turn and is subject to the knowledge boundaries in `templates/AUTHORITY_ORDER.md` and `world/NPC_MANAGEMENT.md`.
+## Format Wajib — MODE: NO STEP
+
+Gunakan susunan vertikal dan sekat pendek agar nyaman dibaca pada layar ponsel. Pertahankan urutan field profil, nama field, dan penutup kanonis. Timestamp boleh dipecah menjadi beberapa baris pendek, tetapi seluruh nilainya wajib ada. Untuk tingkat kultivasi, gunakan field `Spirit Realm`; jangan menyingkatnya menjadi `Realm` atau menulis `Cultivation Realm`. Status awal ditulis `Mortal/0`. `???` hanya untuk identitas karakter yang benar-benar tidak dikenal atau nama Martial Soul yang belum diketahui. Field numerik yang belum tercatat diisi `0`, kecuali HP awal mengikuti inisialisasi resmi dan `Day left` hanya berlaku untuk jeda minimum penyerapan Spirit Ring; bila tidak dapat dihitung, tulis `Belum ditetapkan Day left`. Jika belum ada Spirit Ring yang sedang diproses, Sync progress ditulis `0%/0%`. Field nonnumerik lain yang belum ditetapkan ditulis `Belum ditetapkan`. Jangan pernah mengirim placeholder contoh seperti `...` sebagai nilai akhir field.
 
 ```text
-༺━━━━━━━━━━━━━━━━༻
-Hash: ``<short SHA snapshot>`` | Ver: ``Nightly-<versi Nightly terverifikasi>``
-༺━━━━━━━━━━━━━━━━༻
-
 🕒 Waktu Merzkava Universe
-Tahun: XXXX
-Era: ...
-Musim: ... | Tanggal: ...
-Hari: ... | Cuaca: ... | Jam: HH:MM | Siklus: ...
+Tahun: XXXX, Era ???
+Musim: [Semi/Panas/Gugur/Dingin] | Tanggal: DD Bulan MM
+Hari: [Senin–Minggu] | Cuaca: ... | Jam: HH:MM
 
-   ༺━━━━━━━━━━━━━━━━༻
+Narasi
+[Narasi imersif sesuai kejadian, pengetahuan karakter, kondisi dunia, dan konsekuensi yang benar-benar terjadi.]
 
-NARASI
-
-[Narasi imersif tentang situasi, dialog, tindakan NPC, lingkungan, dan hasil aksi yang diresolusikan secara sah. Jangan mengambil alih keputusan karakter pemain atau membocorkan informasi yang belum diketahui karakter.]
-
-[Setiap aktivitas terbaru wajib menyebutkan Satiety. Jika berubah, jelaskan nilai awal → perubahan → nilai akhir. Jika tetap, sebutkan nilainya beserta alasan yang relevan.]
-
-[Narasi tetap imersif walau player Converse secara pasif: tampilkan suasana yang relevan, percakapan/tindakan NPC aktif sesuai pengetahuan dan agenda mereka, serta aktivitas sekitar yang didukung canon, wilayah, dan waktu. Jangan memaksa kejadian atau mengambil alih karakter pemain.]
-
-[Jika uang, item, equipment, loot, aset, atau Satiety benar-benar berubah, narasikan kejadian secara natural dengan nilai sebelum → perubahan → sesudah. Untuk item/uang, gunakan penanda inline **🝰 MASUK/KELUAR · [item/uang + jumlah]** ⧟ ``*<tier/grade/rarity/quality/Unknown>*`` [keterangan jika relevan] sesuai arah perubahan; gunakan label ``*Unknown*`` **membutuhkan appraisal untuk lebih pastinya** bila identitas item belum ditetapkan. Akhiri laporan terverifikasi dengan **`Log tercatat!`** tepat satu kali, lalu tampilkan satu ledger gabungan. Jangan membuat penanda atau ledger untuk perubahan yang tidak terjadi.]
+[LEDGER LOG — hanya tampilkan jika transaksi/perubahan uang, item, atau aset benar-benar terjadi. Letakkan setelah narasi dan sebelum profil. Jika tidak ada perubahan, lewati bagian ini.]
 
 ╭─ LEDGER LOG · #[ID]
-│ Peristiwa/Aksi: [aksi/peristiwa penyebab perubahan]
-│ [Waktu] · [Berhasil/Gagal/Dibatalkan]
-│ 🝰 Item/Equipment/Loot/Aset: [MASUK/KELUAR · nama · ×jumlah · ⧟ ``*tier/grade/rarity/quality/Unknown*`` [keterangan jika relevan] · awal → perubahan → akhir]
-│ 🝰 Uang: [MASUK/KELUAR · sumber/penerima · jumlah · saldo awal → perubahan bersih → saldo akhir · kembalian jika ada]
-│ Satiety: [awal → ±perubahan → akhir · penyebab/kategori/durasi jika relevan]
+│ Waktu: ...
+│ Jenis: ...
+│ Pihak terkait: ...
+│ Status: Berhasil / Gagal / Dibatalkan
+│ Rincian:
+│ • Uang keluar/masuk: ...
+│ • Harga, konversi, atau kembalian: ...
+│ • Item/aset masuk/keluar: ...
+│ Saldo sebelum: ...
+│ Perubahan bersih: ...
+│ Saldo sesudah: ...
+│ Item sebelum → sesudah: ...
 ╰─
 
-━━━━━━━━━━━━━━━━━━━━━━━━
+✓ PENEGASAN LEDGER
+[Nyatakan transaksi tercatat setelah hasil dan perhitungan diverifikasi. Tegaskan saldo/inventaris diperbarui hanya jika benar-benar sudah diselaraskan.]
 
-╱━━━━━━━━━━━━━━━━━━━━━━╲
-◈━━┫ PROFIL KARAKTER ┣━━◈
-╲━━━━━━━━━━━━━━━━━━━━━━╱
-
+╭─〔 PROFIL KARAKTER 〕
 Nama: ...
 Usia: ...
-Spirit Realm: ...
+Spirit Realm: .../...
 Sync progress: ...%/...%
-Spirit Ring Absorption: ... | ... Day left
+Breakthrough: ... | ... Day left
 Martial Soul: ...
 Thinker Grade: ...
 HP: .../...
@@ -70,45 +50,39 @@ Satiety: .../100
 Qi: ...
 Kondisi Tubuh: ...
 Equipment: ...
-
-━━━━━━━━━━━━━━━━━━━━━━━━
-
-╱━━━━━━━━━━━━━━━━━━━━━━╲
-◈━━┫ INV & KEUANGAN ┣━━◈
-╲━━━━━━━━━━━━━━━━━━━━━━╱
-
+├─〔 ✉ INV & KEUANGAN 〕
 Inventory: ...
 Assets Bangunan: ...
 Wallet (wealth): ... xc | ... xs | ... xg | ... zj | ... az
-
-━━━━━━━━━━━━━━━━━━━━━━━━
-
-╱━━━━━━━━━━━━━━━━━━━━╲
-◈━━┫ TEKNIK & TUJUAN ┣━━◈
-╲━━━━━━━━━━━━━━━━━━━━╱
-
+├────────────────────
 Teknik / Kemampuan: ...
 Tujuan Saat Ini: ...
+╰────────────────────
 
-━━━━━━━━━━━━━━━━━━━━━━━━
+【 CATATAN PEMAIN & KONSISTENSI 】
 
-╱━━━━━━━━━━━━━━━━━━━━━━╲
-◈━━┫ CATATAN PEMAIN & KONSISTENSI ┣━━◈
-╲━━━━━━━━━━━━━━━━━━━━━━╱
+- GM dilarang melakukan overclaim yang memaksakan karakter ke kondisi survival, kerapuhan, atau konsekuensi tidak masuk akal tanpa dasar mekanik maupun kejadian yang jelas.
+- Profil harus konsisten dengan profil terakhir. Perubahan status wajib memiliki penyebab yang tercatat.
+- Pada sesi baru, cocokkan nama karakter di `players.md`, lalu ambil Wallet dari file `players/<Nama>.md` yang sesuai. `Assets Bangunan` hanya berisi bangunan/properti tercatat; jangan memindahkan tabungan atau penghasilan ke field itu. Jika Authority secara eksplisit menetapkan saldo, gunakan sumber Authority tersebut. Jika saldo tidak tercatat pada sumber yang berlaku, tetapkan satu saldo bootstrap konkret sesuai `core/10_ECONOMY_SYSTEM.md`. Jangan menebak dari Assets atau pekerjaan dan jangan mengundi ulang. Pada sesi berlanjut, gunakan Wallet dari profil gameplay terakhir beserta transaksi sah setelahnya.
+- Setiap teknik atau kemampuan wajib disertai deskripsi fungsi yang jelas dan sesuai modul resmi.
+- Jangan mengarang informasi yang belum ditetapkan. Gunakan `???` hanya untuk identitas karakter yang benar-benar tidak dikenal atau nama Martial Soul yang belum diketahui. Field numerik yang belum tercatat gunakan `0`; field nonnumerik lain gunakan `Belum ditetapkan` atau `Tidak ada` jika ketiadaan memang diketahui.
 
-• Profil mengikuti state gameplay terakhir dan kejadian sah setelahnya.
-• Setiap perubahan state wajib memiliki penyebab yang sah dan dapat ditelusuri.
-• Jangan mengarang mekanik, kemampuan, saldo, transaksi, kepemilikan, atau informasi tersembunyi.
-• Gunakan sumber resmi untuk validasi aksi, durasi, biaya, risiko, dan konsekuensi.
-• Sync progress, Spirit Ring Absorption, HP, Satiety, Qi, Equipment, Inventory, Assets Bangunan, serta Wallet mengikuti sumber resmi dan state aktif.
-• Jika tidak ada Spirit Ring yang sedang diproses, gunakan Sync progress 0%/0%.
-• `Day left = 0` bukan jaminan penyerapan berhasil.
-• Siklus waktu memakai label singkat: Dini hari, Subuh, Pagi, Siang, Sore, atau Malam. Tentukan berdasarkan waktu dunia yang tercatat; jangan mengarang jam batas jika sumber resmi belum menetapkannya.
-• Tampilkan `Log tercatat!` dan LEDGER LOG hanya jika perubahan state yang relevan benar-benar terjadi.
-• Pada footer, gunakan padanan singkat “Tentukan Aksimu” dalam bahasa yang digunakan pemain; jangan tampilkan instruksi ini sebagai teks footer.
-• Jangan mengklaim perubahan tersimpan ke GitHub jika belum dilakukan dan diverifikasi.
+catatan kecil:
 
-✦ Enjoy your convo, player! ✦
-━━━━━━━━━━━━━━━━━━━━━━━━
-•••_@GM_Authority: Tentukan Aksimu (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧
+- Yang terpenting, enjoy your convo, player!
+
+Aksiku : --
 ```
+
+## Aturan Penerapan
+
+- **Urutan respons:** timestamp → Narasi → LEDGER LOG dan penegasan hanya jika ada perubahan uang/item/aset → profil lengkap → CATATAN PEMAIN & KONSISTENSI → catatan kecil → `Aksiku : --`.
+- **Timestamp dan Era:** ikuti `gameplay/TIME_AND_ACTION_RULES.md`. Pada sesi baru, tentukan era sesuai prosedur di sana dan jangan tinggalkan `Era ???` dalam respons gameplay setelah bootstrap selesai. Pada sesi lanjutan, lanjutkan timestamp dan era terakhir yang sah.
+- **Ledger terlihat:** setiap transaksi atau perubahan uang, item, maupun aset yang benar-benar terjadi harus memiliki LEDGER LOG setelah narasi dan sebelum profil. Jangan tampilkan log transaksi jika tidak ada perubahan; jangan menyatakan berhasil sebelum transaksi selesai dan hasilnya diverifikasi. Detail wajib mengikuti `core/10_ECONOMY_SYSTEM.md`.
+- **Profil:** jangan mengganti, mengurutkan ulang, menghilangkan, atau menambah field profil tanpa persetujuan pemilik repository. Gunakan `templates/CHARACTER_PROFILE_TEMPLATE.md` untuk definisi field. Sekat profil ringkas di atas adalah format visual mobile; seluruh field kanonis harus tetap ada dan urutannya tidak boleh berubah.
+- **Breakthrough / Day left:** `Day left` hanya menghitung jeda minimum antarpenyerapan Spirit Ring yang berhasil, bukan timer breakthrough kultivasi umum. Ikuti `templates/CHARACTER_PROFILE_TEMPLATE.md` dan interval resmi di `bestiary/SPIRIT_BEAST_RULES.md`. `0 Day left` bukan jaminan breakthrough atau penyerapan ring berhasil.
+- **HP dan cedera:** gunakan `core/HP_SYSTEM.md` serta `core/INJURY_SYSTEM.md` sebagai dua state terpisah.
+- **Satiety:** tampilkan `Satiety: nilai/100` dan hitung hanya menurut `core/HUNGER_AND_METABOLISM.md`; tidur malam yang dilindungi mengunci nilai ini.
+- **Combat:** satu aksi dapat memuat beberapa hit atau combo jika diizinkan `gameplay/COMBAT_SYSTEM.md`; jangan menyamakan satu aksi dengan satu hit.
+- **NO STEP:** jangan menambahkan menu pilihan atau opsi bernomor. Akhiri adegan pada situasi terbuka agar player menentukan tindakan.
+- **Sumber gagal:** jangan mengaku membaca file yang tidak dapat diakses. Sebutkan keterbatasan secara singkat dan jangan menyelesaikan bagian yang bergantung pada aturan yang hilang.

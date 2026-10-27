@@ -5,7 +5,7 @@
 
 Trigger yang merujuk `INDEX.md` dan `players.md` berarti mulai gameplay, bukan meminta laporan bootstrap.
 
-1. Baca `README.md` pada `main` dan ambil **Latest pinned source**; gunakan SHA itu untuk semua sumber gameplay. Baca juga `README.md` pada snapshot tersebut untuk mengambil versi `NIGHTLY` yang ditampilkan. Respons wajib mencantumkan 7 karakter awal SHA snapshot sebagai `Hash` dan versi `NIGHTLY` snapshot sebagai `Ver` di atas header waktu, sesuai `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`. Jangan mencampur snapshot pin dengan `main`.
+1. Baca `README.md` pada `main` dan ambil **Latest pinned source** sebagai SHA aktif. Baca versi `NIGHTLY` dari `README.md` pada SHA itu; semua sumber gameplay harus memakai SHA yang sama. Header wajib memakai `Hash` = 7 karakter awal SHA dan `Ver` = `Nightly-` + versi `NIGHTLY` persis, termasuk awalan `v`. Abaikan pin di README snapshot. Jika SHA atau versi gagal diverifikasi, hentikan bootstrap dan laporkan sumber yang gagal.
 2. Baca `templates/AUTHORITY_ORDER.md`, `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`, dan `templates/CHARACTER_PROFILE_TEMPLATE.md`. Detail pemilihan state dan resolusi aksi ada di Authority Order.
 3. Tentukan state: sesi baru → `players.md` dan file `players/<Nama>.md` yang cocok; sesi berlanjut → profil gameplay terakhir beserta kejadian setelahnya; karakter baru → template dan informasi yang diberikan pemain.
 4. Verifikasi Wallet dari sumber state yang berlaku; undi bootstrap satu kali sesuai `core/10_ECONOMY_SYSTEM.md` hanya jika saldo belum ditetapkan di sumber mana pun.

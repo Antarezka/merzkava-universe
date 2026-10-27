@@ -48,8 +48,16 @@
     └─ XINGLUO ─ Dongxing
        ├─ Eastern Star Prefecture / Salt Lantern Village
        ├─ Frontier–Maritime Relay ━ Beiguan
-       └~~~ coastal and open-water leg ~~~ Cangqiong Harbor
-           → Tianhai Yunzhou (floating island)
+       └─ Azerion Forest frontier
+          └··· rushing-river trap corridor ··· [small prison island]
+              → Golden Dragon Empire side
+
+    [EXTERNAL] Lawless Territories
+       └─ easiest known entrance → Azerion Forest → Golden Dragon Empire frontier
+
+    Tianhai Yunzhou (floating island above southwestern ocean)
+       └─ WESTERN side / sea-facing approach ~~~ [EXTERNAL] Lawless Territories
+           └─ easiest known entrance → Azerion Forest
 
 ### Golden Dragon → Beiming Gu
 
@@ -105,12 +113,14 @@ All seven regions remain part of the same imperial branch: **Longyuan, Canglan, 
 - Continue from Xingluo only along route legs confirmed by the Golden Dragon regional sources or established through exploration.
 - The established direct air alternative is Cangqiong Sky Transit Terminal ↔ Longyuan Sky Transit Terminal.
 
-### Tianhai Yunzhou → Beiming Gu
+### Tianhai Yunzhou → Beiming Gu and Azerion Forest
 
-**Mixed maritime-and-land corridor:** Cangqiong Harbor → vessel crossing to a mainland approach in the northern/western travel belt → [EXTERNAL] Lawless Territories / northern wilderness route → Nine Frost Wastes → Stonegate March → Frostveil Range → Beiming Heartland.
+**Azerion connection:** the western side of Tianhai Yunzhou's floating position faces a sea-side approach toward Lawless Territories, where Azerion Forest's easiest known entrance lies.
 
-- This is a long-distance overland expedition after leaving the sea; it is not a direct land bridge from the floating island.
-- The exact mainland landing, coast name, port, road alignment, and intermediate settlements are not yet named. Do not invent a port or treat the route as a scheduled service.
+**Separate Beiming journey:** Cangqiong Harbor → mainland coastal approach (exact landing unassigned) → Lawless Territories / northern wilderness → Nine Frost Wastes → Stonegate March → Frostveil Range → Beiming Heartland.
+
+- Tianhai's western approach to Lawless Territories is not a land bridge from the floating island; the sea-side approach and exact landing remain unspecified.
+- The northern coast also links Beiming's side to Azerion Forest's ruined/labyrinth exit. This is distinct from the easier Lawless entrance and is not a surveyed safe road.
 - A separate, established direct air corridor connects Cangqiong Sky Transit Terminal ↔ Beiming Heartland Sky Transit Terminal.
 
 ### Tianhai internal map register

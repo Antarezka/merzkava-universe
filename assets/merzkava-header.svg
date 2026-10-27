@@ -1,19 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="310" viewBox="0 0 960 310" role="img" aria-labelledby="title desc">
 <title id="title">Merzkava Universe</title>
-<desc id="desc">A graphic header in warm orange, black, yellow, coral, and white.</desc>
-<rect x="20" y="20" width="920" height="270" fill="#FFB36B" stroke="#151515" stroke-width="5"/>
-<rect x="20" y="20" width="920" height="48" fill="#151515"/>
-<text x="48" y="51" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="4">FIELD NOTES  /  EASTERN FANTASY</text>
-<rect x="48" y="91" width="12" height="134" fill="#F25C54"/>
-<text x="82" y="151" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="900" letter-spacing="1">MERZKAVA</text>
-<text x="82" y="204" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900" letter-spacing="2">UNIVERSE</text>
-<rect x="82" y="229" width="255" height="38" fill="#FFE066" stroke="#151515" stroke-width="2"/>
-<text x="96" y="254" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="900" letter-spacing="1">A WORLD IN MOTION</text>
-<rect x="730" y="91" width="165" height="165" fill="#FFFFFF" stroke="#151515" stroke-width="4"/>
-<rect x="750" y="111" width="125" height="34" fill="#F25C54"/>
-<rect x="750" y="155" width="125" height="34" fill="#FFE066"/>
-<rect x="750" y="199" width="125" height="34" fill="#151515"/>
-<text x="812" y="133" text-anchor="middle" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="900">DISCOVER</text>
-<text x="812" y="177" text-anchor="middle" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="900">QUESTION</text>
-<text x="812" y="221" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="900">EXPLORE</text>
+<desc id="desc">A clipped, slightly skewed field dossier in Merzkava's warm orange, black, white, yellow, and coral palette.</desc>
+<rect width="960" height="310" fill="#FFFFFF"/>
+<path d="M0 45L960 0V310L0 270Z" fill="#151515"/>
+<path d="M0 45L960 0V24L0 69Z" fill="#F25C54"/>
+<g transform="rotate(-1.4 480 155)">
+  <path d="M28 37L927 27L938 269L40 282Z" fill="#151515" stroke="#151515" stroke-width="3"/>
+  <path d="M35 31L920 23L932 260L46 273Z" fill="#FFB36B" stroke="#151515" stroke-width="4"/>
+  <path d="M35 31L920 23L932 260L46 273Z" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-dasharray="6 5"/>
+  <rect x="56" y="49" width="847" height="37" fill="#151515"/>
+  <text x="75" y="73" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800" letter-spacing="3">FIELD DOSSIER / EASTERN FANTASY</text>
+  <text x="883" y="73" text-anchor="end" fill="#FFE066" font-family="monospace" font-size="11" font-weight="700" letter-spacing="1.4">MU—001</text>
+  <rect x="58" y="105" width="9" height="112" fill="#F25C54"/>
+  <text x="88" y="151" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="900" letter-spacing=".4">MERZKAVA</text>
+  <text x="90" y="195" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="900" letter-spacing="4">UNIVERSE</text>
+  <path d="M88 208L412 204L403 215L90 219Z" fill="#151515"/>
+  <rect x="88" y="229" width="246" height="27" fill="#FFE066" stroke="#151515" stroke-width="2"/>
+  <text x="101" y="247" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="900" letter-spacing="1">A WORLD IN MOTION</text>
+  <g transform="rotate(7 795 163)">
+    <rect x="712" y="103" width="164" height="112" fill="#FFFFFF" stroke="#151515" stroke-width="3"/>
+    <rect x="723" y="114" width="142" height="26" fill="#F25C54"/>
+    <text x="794" y="132" text-anchor="middle" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="900">DISCOVER</text>
+    <rect x="723" y="147" width="142" height="26" fill="#FFE066"/>
+    <text x="794" y="165" text-anchor="middle" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="900">QUESTION</text>
+    <rect x="723" y="180" width="142" height="24" fill="#151515"/>
+    <text x="794" y="197" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="900">EXPLORE</text>
+  </g>
+  <g transform="rotate(-10 83 39)">
+    <rect x="52" y="18" width="88" height="42" rx="6" fill="#D8D5CD" stroke="#151515" stroke-width="3"/>
+    <rect x="76" y="13" width="34" height="51" rx="6" fill="#FFFFFF" stroke="#151515" stroke-width="2"/>
+    <path d="M83 21V56M91 21V56M99 21V56" stroke="#A6A29A" stroke-width="1.4"/>
+  </g>
+  <g transform="rotate(8 872 240)">
+    <rect x="830" y="222" width="72" height="26" fill="#F25C54" stroke="#151515" stroke-width="2"/>
+    <text x="866" y="239" text-anchor="middle" fill="#151515" font-family="monospace" font-size="9" font-weight="900" letter-spacing="1">FILED</text>
+  </g>
+</g>
 </svg>

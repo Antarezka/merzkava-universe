@@ -98,8 +98,8 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **Tier-Gap Spirit Ring Compatibility and Voluntary Handover Formula**  
   Each ring's compatibility cap now starts at 100, subtracts a tier-threat gap penalty plus evidence-based body/Martial Soul penalties, then adds only supported combat and method bonuses. Genuine voluntary soul-ring handover receives a distinct high bonus and reduced tier penalty; ordinary forced acquisition cannot reach a 100 cap. The 80% range marks exceptional compatibility, while 100% remains rare and evidence-driven. Overall compatibility now contributes 50% of the PowerScale multiplier, making it a major power factor alongside total ring age.
 
-- ✧ **Unified Item Pricing and Appraisal Scope Aligned**  
-  Item prices continue to use one master formula combining economic quality tier, item condition, seasonal scarcity, demand, distribution, and local-market adjustments without double-counting factors. Routine goods—such as standard roadside food—use ordinary economic categories and local market pricing without mandatory specialist appraisal. The universal appraisal score and MAA ruling remain available for unusual, disputed, unidentified, or consequential classifications; GM predictions stay provisional and evidence-based.
+- ✦ **Disaster-Driven Scarcity Integrated into Unified Pricing Formula**  
+  The existing item-pricing formula now accounts for documented disaster impacts through one effective scarcity multiplier: minor disruption ×1.10–1.25, moderate ×1.30–1.60, major ×1.70–2.20, and catastrophic ×2.30–3.00. The effect applies only to goods and markets whose supply is affected, reflects stock and alternative routes, eases as recovery is verified, and must not double-count the same shortage under seasonal scarcity or local adjustments.
 
 <div align="center">
 

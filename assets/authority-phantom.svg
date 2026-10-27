@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="460" height="76" viewBox="0 0 460 76" role="img" aria-labelledby="title desc">
-  <title id="title">Authority_Phantom</title>
-  <desc id="desc">A black rounded tablet badge with the Discord symbol on the left and Authority_Phantom text.</desc>
-  <rect x="3" y="3" width="454" height="70" rx="19" fill="#151515" stroke="#FFB36B" stroke-width="3"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="76" viewBox="0 0 540 76" role="img" aria-labelledby="title desc">
+  <title id="title">🝰 Reach Authority_Phantom</title>
+  <desc id="desc">A black rounded tablet badge with the Discord symbol on the left and the original call to reach Authority_Phantom.</desc>
+  <rect x="3" y="3" width="534" height="70" rx="19" fill="#151515" stroke="#FFB36B" stroke-width="3"/>
   <path d="M34 24.5c-4.1-3-8.4-4.2-12.7-4.8-1.8 2.5-3.1 5.2-4 8-5.2 7.5-7.5 15.8-6.8 24.3 5.2 3.9 10.4 6.2 15.8 7.4l3.4-5.5c-1.9-.7-3.7-1.7-5.4-2.9l1.3-1c10.1 4.7 21.3 4.7 31.4 0l1.3 1c-1.7 1.2-3.5 2.2-5.4 2.9l3.4 5.5c5.4-1.2 10.6-3.5 15.8-7.4.9-9.8-1.7-18-6.8-24.3-.9-2.8-2.2-5.5-4-8-4.3.6-8.6 1.8-12.7 4.8-4.8-.7-9.8-.7-14.6 0z" transform="translate(7 0) scale(.76)" fill="#FFFFFF"/>
   <ellipse cx="34" cy="38" rx="3.1" ry="4.2" fill="#151515"/>
   <ellipse cx="49" cy="38" rx="3.1" ry="4.2" fill="#151515"/>
   <path d="M29 48c7 4 17 4 24 0" fill="none" stroke="#F25C54" stroke-width="2.5" stroke-linecap="round"/>
   <path d="M83 23v30" stroke="#FFB36B" stroke-width="2" opacity=".85"/>
-  <text x="105" y="47" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing=".3">Authority_Phantom</text>
+  <text x="105" y="46" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing=".15">🝰 Reach Authority_Phantom</text>
 </svg>

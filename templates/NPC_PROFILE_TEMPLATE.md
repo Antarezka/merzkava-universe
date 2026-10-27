@@ -9,7 +9,10 @@
 - Species / people:
 - Age:
 - Pronouns (if relevant):
-- Current location:
+- Home / usual residence (region → district/area → settlement/institution → named building, as supported):
+- Usual base / duty location (if distinct):
+- Last confirmed location / current whereabouts:
+- Recurring visits / cover locations (not permanent residence or official membership):
 - Occupation / role:
 - Affiliation:
 - Social status:
@@ -59,7 +62,7 @@ Use the official numbered form `Spirit Realm N — Spirit [tier], [stage] Stage`
 
 ## 7. State and Continuity
 - Current status:
-- Current whereabouts (if established):
+- Current whereabouts (last confirmed; not a guarantee of continuous presence):
 - Current activity / agenda:
 - Injuries or temporary conditions:
 - Possessions relevant to the scene:
@@ -77,6 +80,10 @@ Use the official numbered form `Spirit Realm N — Spirit [tier], [stage] Stage`
 
 
 ## Profile consistency notes
+
+- Every established recurring/major NPC must have home/usual residence, usual base/duty location when relevant, last-confirmed whereabouts, and recurring visits/cover locations when canon establishes them.
+- Use official map names at the most specific level supported by canon. If district, settlement, building, or exact whereabouts are unknown, say so explicitly instead of inventing a location.
+- A recurring visit, disguise, or cover identity does not imply permanent residence, official enrollment, or employment.
 
 - The current location is the last confirmed location, not a guarantee of continuous presence.
 - Keep public facts, NPC knowledge, mistaken beliefs, player-character knowledge, and GM-only secrets separate.

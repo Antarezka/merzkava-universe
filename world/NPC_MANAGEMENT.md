@@ -1,13 +1,17 @@
 # Merzkava Universe — NPC Management and Continuity
 
 **Status:** Canonical GM operating guidance.
-**Purpose:** Keep NPCs easy to find by location, consistent with world canon, and independent in their motives. Follow the regional-module pattern: central INDEX → relevant regional module → location/faction NPC table → detailed profile only when needed.
+**Purpose:** Keep NPCs grounded in the established map, with consistent whereabouts and independent motives.
 
-## 1. Lookup routing and source ownership
+## 1. One NPC → Map path
 
-Use `INDEX.md` §5 and `world/CANON_LOAD_ROUTER.md` for the single detailed procedure for regional selection, local NPC tables, registries, canonical profiles, descriptive references, and legacy paths. Do not maintain a second navigation sequence here.
+When a named/recurring NPC matters to a scene, use one simple path:
 
-This file owns NPC management after the relevant sources have been located: canonical profile structure, local placement, independent agency, knowledge boundaries, relationships, continuity, and the limits of temporary-NPC improvisation. Apply the sections below alongside the router; neither file replaces the central `INDEX.md` → `templates/AUTHORITY_ORDER.md` entry path. If a source does not establish a fact, leave it unknown rather than inventing a path, name, role, affiliation, ability, or destination repository.
+**Canonical NPC profile → location named in the profile → matching map/regional module → relevant local place, institution, or NPC entry.**
+
+Use `Home / usual residence`, `Usual base / duty location`, and `Last confirmed location / current whereabouts` to choose where to look on the map. Read the matching map source to ground the scene in established geography, settlements, institutions, services, local NPCs, and confirmed routes. The map supplies location context; the profile supplies the NPC's identity, behavior, and continuity. A registry is only a locator when needed, not another mandatory chain of reading.
+
+Start from `INDEX.md` → `templates/AUTHORITY_ORDER.md` as usual. For Beiming Gu, use `world/REGION_BEIMING_GU.md` as the single regional source. If the map does not establish a finer location, keep it unknown. Never assume that an NPC is physically present just because their profile or home is associated with that region.
 
 ## 2. Regional boundaries and canon
 

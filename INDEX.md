@@ -99,20 +99,22 @@ Router regional mempertahankan detail yang sebelumnya berada di INDEX agar tidak
 
 ## 5. NPC navigation — mandatory lookup path
 
-Use this path whenever a scene, question, or audit involves a named person, an official, a faction member, a local resident, or an unnamed supporting NPC. Do not stop after reading this index.
+Use this same discovery order whenever a scene, action, question, travel segment, or audit involves a named, unnamed, or descriptively referenced NPC. The lookup depth depends on relevance; the lookup route itself is mandatory.
 
-1. Read `world/CANON_LOAD_ROUTER.md` and `world/NPC_MANAGEMENT.md` for source selection, NPC knowledge, and the distinction between established, temporary, and proposed NPCs.
-2. Identify the NPC's **known location, affiliation, office, or scene context**. Then open the matching regional index:
+1. **Enter through the central route:** follow `INDEX.md` → `templates/AUTHORITY_ORDER.md`; then consult `world/CANON_LOAD_ROUTER.md` and `world/NPC_MANAGEMENT.md`. Use `world/CANON_DECISIONS_AND_PRECEDENCE.md` when canon conflicts, legacy sources, or ownership rules are relevant.
+2. **Anchor and select the region:** establish the player's confirmed location, current scene, institution/faction, event, and immediate context. Open the matching regional INDEX:
    - Golden Dragon Empire: `regions/golden-dragon-empire/INDEX.md`
    - Tianhai Yunzhou: `regions/tianhai-yunzhou/INDEX.md`
    - Beiming Gu: `regions/beiming-gu/INDEX.md`
-   - For another region or cross-regional subject, use the relevant `world/REGION_*.md` module and `world/MAP_AND_REGIONS.md`; do not force the NPC into one of the three powers without canon support.
-3. Check the relevant regional `npcs/REGISTRY.md` before creating, naming, or describing an established recurring NPC. For Tianhai Yunzhou, also check `regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`; for Golden Dragon Empire officials, check `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md` and `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`.
-4. Follow the registry entry to the **single canonical full profile** when the NPC matters to the scene. For local supporting characters, also inspect the NPC table beside the relevant settlement, institution, faction, or location in its `world/REGION_*.md` or dedicated module. Check `world/FACTIONS.md` and the relevant institution module when affiliation or rank matters.
-5. For ordinary residents, unnamed attendants, merchants, guards, witnesses, and one-scene characters, follow `world/NPC_MANAGEMENT.md`: use established local context and only the improvisation latitude it permits. Do not require a permanent profile for every background person, and do not promote improvised details to persistent canon without owner approval.
-6. Before editing an existing NPC, inspect any matching `world/NPC_<NAME>.md` legacy file and its inbound links. Treat it as a source until its contents prove it is only a pointer; do not delete or silently override it. Update the canonical profile, registry, local table, and navigation links that are actually affected.
-7. Keep public facts, character-known information, rumors, beliefs, and GM-only secrets separate. A profile or secret note is not proof that every NPC or player character knows it.
+   - Elsewhere/cross-regional: use the relevant `world/REGION_*.md`, `world/MAP_AND_REGIONS.md`, and confirmed affiliations; never force an unsupported regional origin.
+3. **Inspect the exact local source:** read the relevant `world/REGION_*.md` module or dedicated location, settlement, institution, and faction module. Check the NPC table beside the matching location/organization first. Use established location context; do not infer physical presence from a profile alone.
+4. **Cross-check the roster:** consult the relevant regional `npcs/REGISTRY.md`, then the authoritative office/faction roster where applicable. For Tianhai Yunzhou, check `regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`; for Golden Dragon Empire officials, check `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md` and `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`. Check `world/FACTIONS.md` and the relevant institution module when membership or rank matters.
+5. **Open only the relevant canonical profile:** follow the registry/roster entry to the single canonical full profile for a major or recurring NPC central to the scene. For local supporting characters, use the local table and follow a profile link if one exists. Check relevant relationship, status, travel, route, and event sources as needed.
+6. **Handle ordinary and temporary NPCs:** for residents, attendants, merchants, guards, witnesses, and one-scene characters, follow `world/NPC_MANAGEMENT.md`. Do not require a permanent profile for every background person, and do not promote improvisation to persistent canon without owner approval.
+7. **Check legacy files before editing:** inspect any matching `world/NPC_<NAME>.md` and inbound links. Treat it as a source until its contents prove it is only a compatibility pointer. Synchronize only affected canonical profiles, registries, local tables, office/faction rosters, and navigation links.
+8. **Protect knowledge and continuity:** separate public facts, character-known information, rumors, beliefs, and GM-only secrets. Verify current whereabouts/status against confirmed scenes, travel context, and `world/DYNAMIC_EVENTS.md` when relevant. Never reveal secrets just because the GM read a profile.
 
+Do not stop after the index or registry. Follow cross-references and canon dependencies relevant to the scene, but do not load every NPC profile or all global lore for an unrelated routine turn.
 ### NPC entry points
 
 - Global routing and NPC handling: `world/CANON_LOAD_ROUTER.md` → `world/NPC_MANAGEMENT.md`

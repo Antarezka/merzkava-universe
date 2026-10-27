@@ -66,7 +66,17 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![WORLD UPDATE LOG](https://img.shields.io/badge/WORLD_UPDATE_LOG-FFFFFF?style=for-the-badge&labelColor=151515)
 
-![NIGHTLY](assets/nightly-version.svg?v=2) <sub>v2.4.105</sub> &nbsp; ![STABLE](assets/stable-version.svg?v=1) <sub>v2.4.105</sub>
+<div>
+
+![NIGHTLY](assets/nightly-version.svg?v=2)
+
+<sub>v2.4.105</sub>
+
+![STABLE](assets/stable-version.svg?v=1)
+
+<sub>v2.4.105</sub>
+
+</div>
 
 **✦ ──── ❖ ──── ✦**
 

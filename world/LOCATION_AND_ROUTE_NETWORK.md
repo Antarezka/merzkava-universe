@@ -39,6 +39,16 @@ The perspective maps connect the three powers through broad overland and mixed l
 | Golden Dragon Empire ↔ Tianhai Yunzhou | Golden Dragon internal route network toward Xingluo / Dongxing → coastal and open-water vessel leg → Cangqiong Harbor | Land + sea | Owner-requested mixed corridor. Do not assume every imperial region has a direct road to Dongxing; verify internal legs. Sea name, exact sailing path, ship schedule, fare, and duration unknown. |
 | Tianhai Yunzhou ↔ Beiming Gu | Cangqiong Harbor → mainland coastal approach (exact landing unassigned) → Lawless Territories / northern wilderness → Nine Frost Wastes → Stonegate March → Frostveil Range → Beiming Heartland | Sea + land | Owner-requested mixed corridor. Mainland landing, port, local road alignment, settlements, vessel schedule, fare, and duration unknown. Not a land bridge from the floating island. |
 
+### 3.2 Shared Azerion Forest connections
+
+| Perspective / endpoints | Mapped corridor sequence | Mode | Status and limits |
+|---|---|---|---|
+| Tianhai Yunzhou → Lawless Territories → Azerion Forest | Western side of Tianhai's floating position / sea-facing approach → Lawless Territories → easiest known Azerion Forest entrance | Sea-side approach + wilderness | Owner-confirmed geographic relationship. No mainland landing, sea name, exact route, or travel time is assigned. Tianhai remains a floating island; no land bridge is implied. |
+| Azerion Forest → Golden Dragon Empire | Forest frontier → rushing-river trap corridor → small Golden Dragon Empire prison island in midstream → imperial side | Dangerous river-boundary route | Owner-confirmed geographic feature. Do not assume a bridge, safe ford, normal public crossing, river name, coordinates, or prison details. |
+| Beiming Gu → Azerion Forest | Beiming northern coast → ruined/labyrinth exit on Azerion's northern deep-sea coast ← Mega Colossal Labyrinth ← ruins entrance in the central lake | Coastal approach + ruined underground route | Owner-confirmed route relationship tied to the existing canon that the labyrinth exits to the northern deep-sea coast. The interior is unmapped and hazardous; do not invent internal passages or promise safe transit. |
+
+These connections describe different sides of the same forest and are not one continuous public road. The Lawless entrance is the easiest known forest entrance; the northern coastal ruined exit is the route relevant to Beiming; the rushing river and prison island form the Golden Dragon-facing obstacle.
+
 The named outer areas retain their own jurisdictional status: Nine Frost Wastes and Lawless Territories are not absorbed into either neighboring power by appearing on a route. Azerion Forest, Black Tide Expanse, Wanluo Sacred Expanse, and the high cloud-sea mountains are shown as wider-world geographic context or optional side regions, not mandatory transit points. See [the three perspective maps](THREE_POWER_PERSPECTIVE_MAPS.md) for all three views.
 
 

@@ -121,7 +121,7 @@ Footer kanonis berakhir dengan:
 
 Jangan menampilkan laporan bootstrap, daftar file, atau menu pilihan sebagai pengganti adegan gameplay.
 
-## 9. NPC decisions and continuity
+## 8. NPC decisions and continuity
 
 The detailed discovery order, regional navigation, registry/profile ownership, descriptive-reference matching, and temporary-NPC limits are defined by `INDEX.md` §5, `world/CANON_LOAD_ROUTER.md`, and `world/NPC_MANAGEMENT.md`. Follow that route whenever NPC canon can affect a scene; this section does not create a parallel lookup procedure.
 

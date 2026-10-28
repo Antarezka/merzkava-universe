@@ -18,6 +18,10 @@
 
 Beiming Gu is a single major power with seven established regional divisions. The districts are not seven separate countries or GitHub repositories.
 
+### Northern maritime connection
+
+Beiming Gu's northern coastal waters are the **Frostmirror Sea (霜镜海)**. Its eastern/southeastern maritime margin connects around the mainland's northeastern sea passage to the **Eastern Azure Sea (东青海)** of Golden Dragon Empire. This is a sea route, not a road through the mountain barrier. The Azerion ruins / Mega Colossal Labyrinth exit on the northern deep-sea coast is a dangerous ruined exit, not a normal harbor or public dock. The route framework continues through Eastern Azure Sea toward Yunmeng Sea and Tianhai Yunzhou; Guixu Canghai lies at the far-southern edge of the world beyond ordinary Black Tide Sea, not directly beside Beiming.
+
 ## 2. Geography and Boundaries
 
 - **General position:** North of the world's central continental areas; the region is comparatively isolated by terrain and climate.

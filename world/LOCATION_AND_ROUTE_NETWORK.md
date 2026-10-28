@@ -39,7 +39,24 @@ The perspective maps connect the three powers through broad overland and mixed l
 | Golden Dragon Empire ↔ Tianhai Yunzhou | Golden Dragon internal route network toward Xingluo / Dongxing → Dongxing Port → Eastern Azure Sea → eastern open-water passage → Yunmeng Sea → Cangqiong Harbor | Land + sea | Established corridor-level itinerary. Do not assume every imperial region has a direct road to Dongxing; verify internal legs. Exact sailing duration, schedule, fare, and local approach remain unspecified. |
 | Tianhai Yunzhou ↔ Beiming Gu | Cangqiong Harbor → Yunmeng Sea → Eastern Azure Sea → northeastern maritime passage → Frostmirror Sea → Beiming northern coastal approach → northern land/wilderness route → Nine Frost Wastes → Stonegate March → Frostveil Range → Beiming Heartland | Sea + land | Mapped outer-sea corridor; the Azerion labyrinth exit is not a normal port. Exact landing point, local road alignment, vessel schedule, fare, and duration remain unspecified. Not a land bridge from the floating island. |
 
-### 3.2 Maritime route network and port anchors
+### 3.2 Eastern Azure Sea ports and coastal transfers
+
+| Origin → destination | Route / waterway | Status and constraints |
+|---|---|---|
+| Dongxing Port → Cangqiong Harbor | Eastern Azure Sea → eastern open-water passage → Yunmeng Sea | Established main inter-power shipping corridor; exact duration, schedule, fare, and safe passage are not set. |
+| Mingzhu Port ↔ Eastern Azure Sea | Local port access to the Eastern Azure Sea shipping lane | Established port; individual direct links to other ports are not assumed. |
+| Lanfan Port → Wind Sail Hamlet | Coastal route | Established route; heavy goods move by boat, exact schedule unknown. |
+| Chaoguan Port → Tideglass Hamlet | Small-vessel route | Established route; storms may force a detour. |
+| Dongxing → Pearl Shoal Hamlet | Small coastal boat | Established route; landing depends on tide. |
+| Yuhai Port, Yuandeng Port, Longchao Port | Eastern Azure coastal shipping | Established port settlements; exact pairwise routes and schedules remain unspecified. |
+| Yanfeng coastal settlement | Eastern Azure coastal belt | Coastal settlement only; do not assume a dock or port. |
+| Yunmeng Sea → Wufeng Sea | Lantern Passage | Established sea-to-sea corridor; Wufeng Sea has no wind, waves, or currents. Specialized liquefied-energy Artificial Artifact vessels are favored; ambushes are uncommon, not impossible. |
+| Wufeng Sea → Eastern Azure Sea | Three-Lantern Passage | Established eastern connection; the route does not imply wind or currents inside Wufeng Sea. |
+| Beiming northern coast → Eastern Azure Sea | Northeastern maritime passage via Frostmirror Sea | Established broad coastal connection; do not use the Azerion labyrinth exit as a port. |
+| Yunmeng Sea → Lawless Territories → Black Tide Sea | Western/southern sea-facing approach and ordinary open water | Lawless is the nearest major organized region to Guixu Canghai. Black Tide Sea is ordinary water and separates Lawless from Guixu Canghai. |
+| Black Tide Sea → Guixu Canghai | Cross the southern outer boundary of Black Tide Sea | Guixu Canghai is beyond this boundary at the far-southern, frigid edge of the world; no direct shore-to-Guixu shortcut exists. |
+
+### 3.3 Shared Azerion Forest connections
 
 | Origin → destination | Route / waterway | Status and constraints |
 |---|---|---|

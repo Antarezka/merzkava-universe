@@ -153,7 +153,7 @@ Follow the connected NPC ↔ Map path defined by `INDEX.md` §5 and `world/CANON
 
 `templates/NARRATIVE_DYNAMICS.md` adalah modul operasional wajib, bukan saran gaya. Muat melalui `INDEX.md` dan terapkan pada setiap giliran gameplay.
 
-- Narasi gameplay normal wajib minimal **empat paragraf substantif**. Setiap paragraf harus mengembangkan adegan; jangan memakai pengulangan atau detail kosong untuk memenuhi jumlah. Respons lebih singkat hanya dibenarkan oleh keadaan yang benar-benar luar biasa.
+- Narasi gameplay normal wajib dikembangkan secara utuh dan substantif, dengan detail relevan yang membuat adegan terasa hidup tanpa pengulangan atau pengisi. Respons yang sangat singkat hanya layak ketika keadaan memang benar-benar luar biasa.
 - Jika adegan benar-benar stagnan, hadirkan perkembangan yang masuk akal dari konteks—aktivitas lokal, inisiatif NPC, informasi, kesempatan, pertemuan, penemuan, atau perubahan situasi. Jangan menjadikan bahaya, konflik, atau kejutan acak sebagai respons otomatis.
 - Konsekuensi adalah hasil kausal yang netral: dapat positif, netral, negatif, campuran, atau tidak berarti. Resolusikan tindakan terlebih dahulu, jaga dampak proporsional, hormati batas pengetahuan, dan jangan menggunakan konsekuensi semata-mata untuk menghukum atau memberi hadiah.
 - Pertahankan otonomi dan karakterisasi NPC. Perubahan state persisten wajib mengikuti resolusi resmi, kontinuitas state, serta alur pencatatan/persetujuan event. Narasi saja tidak menjadikan perubahan sebagai canon.

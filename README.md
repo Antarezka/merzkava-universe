@@ -60,14 +60,19 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 <img src="assets/world-archive-scattered.svg?v=1" alt="Merzkava World Archive — scattered field notes, maps, lore files and regional records" width="100%" />
 
-<div align="left">
+<div align="center">
 
-<a href="world/WORLD.md"><img src="https://img.shields.io/badge/01_EXPLORE-WORLD_LORE-151515?style=for-the-badge&labelColor=FFB36B" alt="Explore the World Lore" /></a>
+<sub>━━━━━━ ✦ ━━━━━━</sub>
 
-</div>
-<div align="right">
+<a href="world/WORLD.md"><img src="https://img.shields.io/badge/✦_WORLD_LORE-151515?style=for-the-badge&labelColor=FFB36B" alt="Explore the World Lore" /></a>
 
-<a href="world/MAP_AND_REGIONS.md"><img src="https://img.shields.io/badge/02_OPEN-MAP_%26_REGIONS-FFFFFF?style=for-the-badge&labelColor=F25C54" alt="Open Map and Regions" /></a>
+<sub>┃</sub>
+
+<sub>┃</sub>
+
+<a href="world/MAP_AND_REGIONS.md"><img src="https://img.shields.io/badge/✧_MAP_%26_REGIONS-FFFFFF?style=for-the-badge&labelColor=F25C54" alt="Open Map and Regions" /></a>
+
+<sub>━━━━━━ ✦ ━━━━━━</sub>
 
 </div>
 

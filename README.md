@@ -158,9 +158,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" alt="GitHub" />
 
-![NIGHTLY](assets/nightly-version.svg?v=6)
+![NIGHTLY](assets/nightly-version.svg?v=7)
 
-<sub><span style="color:#D4AF37"><strong>v2.4.118</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v2.4.119</strong></span></sub>
 
 </td>
 </tr>
@@ -176,6 +176,22 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
+- ✦ **Narrative Dynamics — Mandatory Gameplay Hard Gate**  
+  Hash: ``a5e9052`` / ``b737f47`` | Ver: ``Nightly-v2.4.119``  
+  Made `templates/NARRATIVE_DYNAMICS.md` mandatory in gameplay and enforced its rules in the response template. NPC autonomy, active world development, causal consequences, player agency, canon, and persistent-state boundaries are explicit requirements; narrative depth has no fixed paragraph count.
+
+- ✦ **Narrative Depth Without Forced Drama**  
+  Hash: ``38127a6`` / ``8b56251`` | Ver: ``Nightly-v2.4.118``  
+  Refined narrative guidance to keep scenes substantive and responsive while preserving NPC characterization. Removed fixed paragraph-count wording and clarified that calm scenes need depth without artificial conflict or filler.
+
+- ✦ **Neutral Consequences in Dynamic Events**  
+  Hash: ``bb914a5`` | Ver: ``Nightly-v2.4.118``  
+  Clarified that world events may produce beneficial, neutral, harmful, mixed, or no meaningful outcomes. Consequences must follow context and causality rather than being manufactured as punishment or drama.
+
+- ✦ **Narrative Dynamics in GM Authority**  
+  Hash: ``d53bd85`` / ``cf9ed60`` | Ver: ``Nightly-v2.4.118``  
+  Made narrative standards part of the authority and gameplay workflow. Preserved canon hierarchy, player agency, NPC continuity, and valid state changes while removing fixed paragraph-count requirements.
+
 - ✦ **NPC Identity, Role Labels & Proactive Introductions**  
   Hash: ``4fc15a3`` / ``51e5189`` / ``e81a5c7`` | Ver: ``Nightly-v2.4.118``  
   Refined NPC naming in GM authority, aligned the gameplay template, and updated INDEX navigation. Established context is preserved; ``npc ???`` is reserved for significant unidentified people, while background NPCs use role labels and important strangers introduce themselves when natural.
@@ -183,20 +199,3 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **NPC Youth Circles & Relationship Continuity**  
   Hash: ``aaa528b`` | Ver: ``Nightly-v2.4.118``  
   Added regional youth-circle NPC profiles and synchronized relationship direction/disposition and canon boundaries. Circles stay within their own power by default; membership does not imply prior meetings, shared location, or secret knowledge.
-
-- ✦ **Crimson Sovereign Court & Ying Wuxin**  
-  Hash: ``e26f041`` | Ver: ``Nightly-v2.4.115``  
-  Added Ying Wuxin as the concealed Spirit Realm Primordial leader of Crimson Sovereign Court above Crimson Keel Brotherhood. Integrated his Asura — Myth Martial Soul, coercive Soul Illusion, empire-scale shadow influence, and secrecy into the canonical profile, Lawless lore, faction reference, Black Tide region, map, and INDEX.
-
-- ✦ **Lawless Captive Trade — Public Secret**  
-  Hash: ``2b6169a`` | Ver: ``Nightly-v2.4.114``  
-  Established Lawless underworld networks as major suppliers of captive half-beasts to corrupt buyers connected to all three powers. The trade remains a public secret despite the three powers' official ban; participation is not assumed for every organization.
-
-- ✦ **Half-Beast Restraint Abuse & Inner Azerion Map**  
-  Hash: ``f0bbc2c`` | Ver: ``Nightly-v2.4.113``  
-  Recorded the ban on half-beast enslavement across all three major powers, corrupt restraint abuse—especially in the Lawless Territories—and the resulting rarity of openly seen half-beasts there unless strong. Added Inner Azerion as a hidden central-forest city on the map/navigation references.
-
-- ✦ **Prison Restraints & Bound Items**  
-  Hash: ``07b5277`` | Ver: ``Nightly-v2.4.112``  
-  Established restraint categories for Martial Soul suppression chains, ornamental sealing collars, physical-strength suppression, boundary binding, fear effects, and whisper-seals. Defined artifact distinctions, custody risks, and the possibility of corrupt charges or framed detainees without treating restraint effects as universal.
-

@@ -24,7 +24,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ### ✦ READY-TO-COPY ROLEPLAY HASH ✦
 
-**Latest pinned source:** `dd3908f`
+**Latest pinned source:** `4b444b9`
 
 </div>
 <!-- RP_SOURCE_END -->
@@ -176,6 +176,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
+- ✦ **Unified Maritime Map — Six Seas, Three Power Perspectives**  
+  Hash: ``4b444b9`` | Ver: ``Nightly-v2.4.108``  
+  Named the Frostmirror, Eastern Azure, Yunmeng, Wufeng, and Black Tide seas; fixed their connected routes and existing port links. Guixu Canghai now lies beyond ordinary Black Tide Sea at the world's far-southern, literally frigid edge.
+
 - ✦ **NPC & Map/Route Canon Updates**  
   Hash: ``2e1983e`` | Ver: ``Nightly-v2.4.107``  
   Updated the regional route router to recognize the established direct Golden Dragon Empire ↔ Beiming Gu air corridor, and refined NPC rules so plausible temporary residents, travelers, conversations, rumors, and routine local activity keep scenes lively without inventing permanent branches, services, or geography.
@@ -194,8 +198,6 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
   Regional INDEX → local NPC table → registry/official roster → canonical profile, with consistent continuity and knowledge boundaries.  
   Unidentified items use the exact label ``*Unknown*`` **membutuhkan appraisal untuk lebih pastinya**; appraisal reveals only supported findings.
 
-- ✦ **Gameplay Hash + Nightly Version Header**  
-  Player Converse requires a seven-character Hash from the active pinned snapshot and the Nightly version from that same snapshot's `NIGHTLY_VERSION.md`. The identity line appears immediately above the Merzkava time header.
 
 
 <div align="center">

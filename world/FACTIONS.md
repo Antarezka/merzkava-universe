@@ -55,7 +55,7 @@ These descriptions are areas of influence, not proof that every clan member shar
 
 **Official name:** Komite Auditor Keuangan Khusus Kekaisaran  
 **Type:** Specialized internal oversight and inspection committee of the Golden Dragon Empire, established to supervise ministries and subordinate government bodies. Financial audit is one part of its remit, not its sole purpose.  
-**Canonical institutional dossier:** [Imperial Special Financial Audit Committee](../regions/golden-dragon-empire/npcs/IMPERIAL_SPECIAL_FINANCIAL_AUDIT_COMMITTEE.md).
+**Canonical organization dossier:** [Komite Auditor Keuangan Khusus Kekaisaran](IMPERIAL_SPECIAL_FINANCIAL_AUDIT_COMMITTEE.md).
 
 The committee's head is established as clean and honest. The integrity of the deputy and lower-ranking personnel is unknown. Corrupt practices or evidence manipulation are possible concerns, but no such act is confirmed merely by this possibility. Do not presume every member is corrupt, and do not treat the head's integrity as proof that every subordinate is clean.
 

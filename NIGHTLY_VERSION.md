@@ -1,5 +1,5 @@
 # Merzkava Universe — Nightly Version
 
-Current Nightly version: `v2.4.112`
+Current Nightly version: `v2.4.113`
 
 This file is the canonical version source for gameplay headers. Update it whenever the Nightly version changes. `README.md` is for repository presentation and pinned-source maintenance, not gameplay bootstrap.

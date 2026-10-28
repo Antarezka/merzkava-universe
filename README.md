@@ -62,17 +62,13 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 <div align="center">
 
-<sub>━━━━━━ ✦ ━━━━━━</sub>
+<a href="world/WORLD.md"><img src="assets/kanban-world-lore.svg?v=1" alt="World Lore — vertical Japanese-style archive sign" width="190" /></a>
 
-<a href="world/WORLD.md"><img src="https://img.shields.io/badge/✦_WORLD_LORE-151515?style=for-the-badge&labelColor=FFB36B" alt="Explore the World Lore" /></a>
+<a href="world/MAP_AND_REGIONS.md"><img src="assets/kanban-map-regions.svg?v=1" alt="Map and Regions — vertical Japanese-style archive sign" width="190" /></a>
 
-<sub>┃</sub>
+<sub>THE MAP SHOWS THE WAY · THE ARCHIVE HOLDS THE DETAILS</sub>
 
-<sub>┃</sub>
-
-<a href="world/MAP_AND_REGIONS.md"><img src="https://img.shields.io/badge/✧_MAP_%26_REGIONS-FFFFFF?style=for-the-badge&labelColor=F25C54" alt="Open Map and Regions" /></a>
-
-<sub>━━━━━━ ✦ ━━━━━━</sub>
+༺━ ✦ ━༻
 
 </div>
 

@@ -174,6 +174,18 @@ Known organizations associated with the area:
 
 The terrain includes snowfields, frozen valleys, conifer forests, and difficult mountains. Exact routes, distances, and current leadership are not yet specified.
 
+### 5.4 Unified Lawless connectivity overlay — shared by all three perspectives
+
+The three Lawless regions are placed by their established relationship to neighboring powers, not by invented coordinates or a continuous border. Their appearance on a shared map does not place them under a neighboring power's jurisdiction.
+
+| Lawless region | Established map relationship | Link to the neighboring power | Limits that remain in force |
+|---|---|---|---|
+| **Ashen Borderlands** | Outside the western and southwestern borders of Golden Dragon Empire | Azerion Forest's easiest known entrance lies in Lawless Territories; the forest extends into Golden Dragon Empire territory. The empire-facing forest boundary has a rushing-river trap and a small Golden Dragon prison island midstream. | No direct road from any Ashen settlement to the forest entrance or river crossing is established. The river crossing is not a safe public route. |
+| **Black Tide Expanse** | Remote islands and sea routes outside Tianhai Yunzhou's direct control, around the Lawless maritime region | Tianhai's western/southern sea-facing approach from Yunmeng Sea leads toward Lawless Territories; ordinary Black Tide Sea lies farther south and separates Lawless from Guixu Canghai. | Black Tide Expanse is not the same thing as Black Tide Sea or Guixu Canghai. No direct harbor-to-island route, island-to-island schedule, or safe passage is established. |
+| **Nine Frost Wastes** | Northern wild areas outside Beiming Gu's official defenses | The mapped overland corridor runs between Beiguan (Baiyue, Golden Dragon Empire) and Beiming via the Nine Frost Wastes, Stonegate March, and Frostveil Range. | This corridor does not make the Wastes part of Beiming. Exact roads, passes, settlement-to-settlement links, and duration remain unspecified. |
+
+**Shared route rule:** Keep three separate geographic relationships: the western Lawless/Azerion entrance and Golden Dragon-facing river obstacle; the southwestern maritime approach and Black Tide waters; and the northern wilderness corridor through Nine Frost Wastes. Do not connect the three Lawless regions to one another by an assumed road, treat them as one governed territory, or infer direct adjacency between their settlements. Their regional files remain authoritative for named settlements and associated organizations.
+
 ## 6. Wider Wilderness and Transport
 
 Forests, mountain ranges, ravines, valleys, remote basins, and high ranges rising above the sea of clouds can exist between the major powers. The remote highest peaks shelter two distinct hidden groups: the Ancient Shamanism clan/sect and a Buddhist clan. Their established details are recorded in `world/ANCIENT_SHAMANISM_AND_BUDDHIST_CLANS.md`. Exact coordinates, mountain names, access routes, and territorial boundaries remain unknown; these groups are not automatically part of any of the three major powers. Deep, difficult-to-reach wilderness generally tends to hold higher-tier Spirit Beasts, but this is not an absolute rule. Ruins from past eras may occur throughout the world, including in deep ocean trenches. Unexplored ruins have no pre-existing complete maps; only sections actually surveyed and recorded in play may be mapped. See `world/GEOGRAPHY_AND_TRAVEL.md` for the exploration and hidden-treasure rules.

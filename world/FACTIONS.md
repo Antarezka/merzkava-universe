@@ -149,6 +149,7 @@ Lawless Territories are not a single faction or unified state. The following gro
 - **Abyssal Moon Sect:** Dark-energy techniques and methods considered heterodox by orthodox schools.
 - **Sea of Graves Hall:** Expeditions, dangerous sea routes, ruins, and trade in exploration finds.
 - **Crimson Keel Brotherhood:** Sailors and cultivators involved in smuggling, piracy, and illegal escort work; not every cell has identical goals.
+- **Crimson Sovereign Court (赤尊宫 · Chì Zūn Gōng):** A concealed power group operating above Crimson Keel Brotherhood. Its hidden leader is Ying Wuxin (嬴无心), Spirit Realm 9 — Spirit Primordial, Martial Soul Asura — Myth. The Court's influence from the shadows is comparable in reach to an empire, but it is not a fourth major power or a government of the Lawless Territories. Its membership, bases, chain of command, and control over individual Brotherhood cells remain unknown. See `world/NPC_YING_WUXIN.md` and `world/REGION_BLACK_TIDE_EXPANSE.md`.
 
 ### Nine Frost Wastes
 - **Frozen Blood Sect:** Cold-energy and blood-based cultivation methods considered dangerous by many orthodox groups.

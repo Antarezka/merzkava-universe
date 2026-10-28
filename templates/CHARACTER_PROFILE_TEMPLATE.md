@@ -10,7 +10,7 @@ Pertahankan nama dan urutan field sesuai `templates/GAMEPLAY_RESPONSE_TEMPLATE.m
 2. `Usia`: usia karakter yang tercatat.
 3. `Spirit Realm`: selalu tulis nama field dan tingkat kultivasi sebagai `Spirit Realm` (bukan `Realm` atau `Cultivation Realm`), beserta Stage dan progres sesuai sistem resmi. Mortal ditulis `Mortal` sebagai status dasar sebelum Spirit Realm 1; jangan menuliskannya sebagai `Mortal/0` atau `Spirit Realm 0`.
 4. `Sync progress`: progres saat ini dibandingkan dengan cap kompatibilitas ring saat ini. Cap tidak selalu 100%; misalnya `45%/45%` berarti cap telah tercapai. Ini bukan penguasaan penuh atas kekuatan ring. Jika karakter belum memiliki Spirit Ring yang sedang diproses, tampilkan `0%/0%` dan jelaskan bahwa belum ada cap kompatibilitas aktif; jangan gunakan `???`.
-5. `Spirit Ring Absorption`: status tunggal dan format `status | Day left` wajib mengikuti bagian **Status Kanonis Spirit Ring Absorption** di bawah. Nilai `Day left` merupakan bagian dari field ini, bukan field profil terpisah. Jangan menambahkan alasan atau label lain ke dalam field.
+5. `Spirit Ring Absorption`: status tunggal dan format `status | Day left` wajib mengikuti bagian **Status Kanonis Spirit Ring Absorption** di bawah. Nilai `Day left` merupakan bagian dari field ini, bukan field profil terpisah. Saat ditampilkan dalam gameplay, format token status sebagai label klasifikasi persis ``*<status>*`` (misalnya ``*not eligible yet*``), lalu tulis `| Day left` sesuai nilai kanonis. Jangan menambahkan alasan atau label lain ke dalam field.
 6. `Martial Soul`: Martial Soul karakter sesuai sumber resmi dan riwayat.
 7. `Thinker Grade`: grade yang sudah ditetapkan oleh mekanik/riwayat.
 8. `HP`: current HP dan maksimum HP mengikuti `core/HP_SYSTEM.md`.
@@ -37,7 +37,7 @@ Pertahankan nama dan urutan field sesuai `templates/GAMEPLAY_RESPONSE_TEMPLATE.m
 - Jangan menambah field terpisah untuk **Spirit Rings** atau **Law** tanpa persetujuan pemilik. Jumlah slot mengikuti Spirit Realm; rincian ring masuk ke **Teknik / Kemampuan** atau deskripsi Martial Soul.
 - Gunakan profil gameplay terakhir ditambah kejadian yang benar-benar terjadi. Jangan menganggap HP penuh, mengisi ulang sumber daya, mengubah saldo, atau menghapus konsekuensi tanpa sebab yang sah.
 - Estimasi praktis untuk karakter baru hanya boleh digunakan bila wajar dan harus diberi label estimasi GM. Jangan mengarang rahasia besar, garis keturunan, artefak langka, atau teknik formal.
-- `???` digunakan untuk **identitas karakter yang benar-benar tidak dikenal**, **nama Martial Soul yang belum diketahui**, dan `Day left` jika karakter belum pernah berhasil menyerap Spirit Ring karena jeda antarpenyerapan belum dimulai. Pada semua tahap sebelum penyerapan pertama, `??? Day left` tetap dipasangkan dengan status tahap yang tepat (`not eligible yet` atau `pending`, atau `eligible` bila syarat ring pertama terpenuhi). `???` tidak berarti riwayat cooldown hilang.
+- `???` digunakan untuk **identitas karakter yang benar-benar tidak dikenal**, **nama Martial Soul yang belum diketahui**, dan `Day left` jika karakter belum pernah berhasil menyerap Spirit Ring karena jeda antarpenyerapan belum dimulai. Pada semua tahap sebelum penyerapan pertama, `??? Day left` tetap dipasangkan dengan status tahap yang tepat (`not eligible yet` atau `pending`, atau `eligible` bila syarat ring pertama terpenuhi). `???` tidak berarti riwayat cooldown hilang. Dalam tampilan gameplay, format status Spirit Ring sebagai label klasifikasi ``*<status>*``; jangan biarkan token status polos ketika template mewajibkan format klasifikasi.
 - Field numerik yang belum tercatat diisi `0`, kecuali jika angka tersebut punya makna mekanik khusus yang akan menjadi klaim palsu bila dipaksa menjadi nol. Untuk `Day left`, bedakan dua keadaan: gunakan `??? Day left` jika belum pernah ada penyerapan Spirit Ring yang berhasil (jeda belum berlaku); gunakan `Belum ditetapkan Day left` hanya jika karakter pernah menyerap ring tetapi data waktu/riwayat yang dibutuhkan untuk menghitung cooldown tidak tersedia.
 - Field nonnumerik lain yang belum ditetapkan ditulis `Belum ditetapkan`; gunakan `Tidak ada` hanya jika memang diketahui tidak ada. Jangan menebak atau menciptakan fakta.
 - HP dan injury adalah state terpisah: `core/HP_SYSTEM.md` mengatur HP, sedangkan `core/INJURY_SYSTEM.md` mengatur klasifikasi dan progres pemulihan cedera.
@@ -49,13 +49,13 @@ Pertahankan nama dan urutan field sesuai `templates/GAMEPLAY_RESPONSE_TEMPLATE.m
 
 Status ditentukan oleh tahap karakter terlebih dahulu, lalu kelayakan proses penyerapan berikutnya. Tampilkan **tepat satu status**, jangan menampilkan alternatif sekaligus, dan jangan menambahkan alasan/label lain di dalam field profil.
 
-- **Mortal, tidak sedang menjalani Awakening:** `Spirit Ring Absorption: not eligible yet | ??? Day left`
-- **Proses Martial Soul Awakening sedang berlangsung:** `Spirit Ring Absorption: pending | ??? Day left`
-- **Awakening selesai, belum pernah menyerap ring pertama, syarat ring pertama terpenuhi:** `Spirit Ring Absorption: eligible | ??? Day left`
-- **Awakening selesai, belum pernah menyerap ring pertama, syarat ring pertama belum terpenuhi:** `Spirit Ring Absorption: not eligible yet | ??? Day left`
-- **Spirit Realm 1–8, syarat penyerapan berikutnya belum lengkap:** `Spirit Ring Absorption: not eligible yet | N Day left`
-- **Spirit Realm 1–8, seluruh syarat karakter/proses penyerapan berikutnya terpenuhi:** `Spirit Ring Absorption: eligible | 0 Day left`
-- **Spirit Realm 9 (Spirit Primordial), batas puncak sistem:** `Spirit Ring Absorption: max | ∞ Day left`
+- **Mortal, tidak sedang menjalani Awakening:** `Spirit Ring Absorption: ``*not eligible yet*`` | ??? Day left`
+- **Proses Martial Soul Awakening sedang berlangsung:** `Spirit Ring Absorption: ``*pending*`` | ??? Day left`
+- **Awakening selesai, belum pernah menyerap ring pertama, syarat ring pertama terpenuhi:** `Spirit Ring Absorption: ``*eligible*`` | ??? Day left`
+- **Awakening selesai, belum pernah menyerap ring pertama, syarat ring pertama belum terpenuhi:** `Spirit Ring Absorption: ``*not eligible yet*`` | ??? Day left`
+- **Spirit Realm 1–8, syarat penyerapan berikutnya belum lengkap:** `Spirit Ring Absorption: ``*not eligible yet*`` | N Day left`
+- **Spirit Realm 1–8, seluruh syarat karakter/proses penyerapan berikutnya terpenuhi:** `Spirit Ring Absorption: ``*eligible*`` | 0 Day left`
+- **Spirit Realm 9 (Spirit Primordial), batas puncak sistem:** `Spirit Ring Absorption: ``*max*`` | ∞ Day left`
 
 Aturan:
 - `pending` hanya digunakan selama proses Awakening benar-benar berlangsung, bukan sekadar karena karakter belum Awakening.

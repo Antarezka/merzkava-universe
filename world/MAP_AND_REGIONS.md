@@ -154,7 +154,7 @@ Known organizations associated with the area:
 - Sea of Graves Hall
 - Crimson Keel Brotherhood
 
-These settlements and groups do not necessarily share one government or alliance. Black Tide Expanse is a Lawless archipelago/sea-route region, not the name of every ocean and not automatically the same as Guixu Canghai. The Windless / Still-Water Sea may be relevant to wider maritime travel, but no exact route through Black Tide, port connection, or current territorial control is established here.
+These settlements and groups do not necessarily share one government or alliance. Black Tide Expanse is the Lawless archipelago/sea-route region around ordinary Black Tide Sea, not a synonym for Guixu Canghai. Guixu Canghai lies farther south beyond Black Tide Sea's outer boundary. Wufeng Sea is connected to Yunmeng Sea by Lantern Passage and toward Eastern Azure Sea by Three-Lantern Passage; current faction control over individual Black Tide islands remains locally variable.
 
 ### 5.3 Nine Frost Wastes
 

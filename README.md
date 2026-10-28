@@ -56,7 +56,19 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 <div align="center">
 
-[**EXPLORE THE WORLD LORE →**](world/WORLD.md) &nbsp; · &nbsp; [**OPEN MAP & REGIONS →**](world/MAP_AND_REGIONS.md)
+༺━━━━━━━━━━ ✦ ━━━━━━━━━━༻
+
+![WORLD ARCHIVE](https://img.shields.io/badge/WORLD_ARCHIVE-FFFFFF?style=for-the-badge&labelColor=151515)
+
+**✧ FOLLOW THE MAP. UNCOVER THE WORLD. ✧**
+
+<a href="world/WORLD.md"><img src="https://img.shields.io/badge/EXPLORE-WORLD_LORE-151515?style=for-the-badge&labelColor=FFB36B" alt="Explore the World Lore" /></a>
+
+<a href="world/MAP_AND_REGIONS.md"><img src="https://img.shields.io/badge/OPEN-MAP_%26_REGIONS-FFFFFF?style=for-the-badge&labelColor=F25C54" alt="Open Map and Regions" /></a>
+
+<sub>THE MAP SHOWS THE WAY · THE ARCHIVE HOLDS THE DETAILS</sub>
+
+༺━━━━━━━━━━ ✦ ━━━━━━━━━━༻
 
 </div>
 

@@ -3,9 +3,29 @@
 Status: Modul mekanik resmi.
 Cakupan: kategori Beast, Spirit Beast, Demonic Beast, Heavenly Beast, perilaku, persyaratan penyerapan Spirit Ring, dan item khusus.
 
-## 1. Kategori dan Sumber
+## 1. Kategori, Klasifikasi, dan Perilaku Beast
 
-Gunakan kategori Beast yang ditetapkan lore resmi. Jangan menciptakan tier atau kemampuan khusus sebagai canon tanpa dasar yang disahkan.
+Gunakan klasifikasi berikut sebagai satu sistem terpadu. Kategori utama menjelaskan jenis dan watak dasar Beast; umur, kondisi khusus, serta hasil appraisal tetap dicatat secara terpisah.
+
+### 1.1 Kategori utama
+
+| Kategori | Kekuatan output umum | Kecerdasan dan perilaku dasar |
+|---|---|---|
+| **Ordinary Beast** | Tidak memiliki kisaran output Spirit Realm yang ditetapkan secara umum. | Hewan atau makhluk liar biasa; perilakunya mengikuti naluri dan karakteristik spesies. Jangan otomatis menganggapnya mampu menghasilkan Spirit Ring. |
+| **Spirit Beast** | Bervariasi; jangan menetapkan kisaran universal hanya dari nama kategori. | Beast dengan kekuatan spiritual yang relevan dengan sistem Spirit Ring. Kecerdasan dan temperamennya bervariasi menurut spesies dan individu; tidak otomatis hostile atau jinak. Spirit Ring hanya muncul jika didukung aturan dan kejadian yang sah. |
+| **Supreme Beast** | Sekitar output Spirit Realm 6–8. | Hostile, sangat kuat, dan sadis. Tidak memiliki kecerdasan seperti Demonic Beast atau Heavenly Beast; tindakan terutama digerakkan oleh naluri berburu, menyerang, dan bertahan hidup. Insting yang kompleks tidak berarti kecerdasan rasional setara makhluk cerdas. |
+| **Demonic Beast** | Sekitar output Spirit Realm 9. | Hostile dan memiliki kecerdasan; tingkat kecerdasan, kepribadian, serta cara bertindak berbeda menurut Beast dan individu. Mereka dapat menggunakan pertimbangan dan taktik, bukan hanya naluri. |
+| **Heavenly Beast** | Sekitar output Spirit Realm 9. | Memiliki kecerdasan; tingkatnya bergantung pada Beast dan individu. Watak umumnya tenang dan pasif, serta tidak mencari masalah dengan makhluk lain yang dianggap sangat kecil dibanding dirinya. Mereka biasanya membiarkan “semut-semut” berlalu selama tidak mengusik, mengancam, atau bertingkah melewati batas. Sikap pasif bukan kelemahan dan tidak mencegah mereka membalas gangguan. |
+
+**Makna output:** kisaran Spirit Realm di atas menggambarkan skala kekuatan yang dapat dikeluarkan, bukan berarti Beast menjalani sistem kultivasi manusia, otomatis memiliki Spirit Realm/Stage tertentu, atau pasti menang melawan kultivator pada tingkat yang sama. Hasil nyata tetap mengikuti kemampuan yang terkonfirmasi, kondisi, medan, serta aturan combat.
+
+### 1.2 Sifat tambahan bukan kategori utama
+
+- **Rare/unik**, **mutated**, dan **corrupted** menjelaskan kelangkaan, perubahan, atau kondisi Beast; istilah ini tidak otomatis menggantikan kategori utamanya. Jika bukti mendukung, satu Beast dapat dicatat sebagai kategori utama beserta satu atau lebih sifat tambahan.
+- **Beast Age Grade** adalah klasifikasi umur, bukan kategori Beast, ukuran kekuatan, Spirit Realm, atau tier appraisal.
+- Tier appraisal, umur aktual, kecerdasan, ukuran tubuh, kemampuan khusus, dan kelayakan menghasilkan Spirit Ring tidak boleh ditebak hanya dari nama kategori.
+- Hostile tidak berarti setiap individu selalu menyerang tanpa konteks; resolusikan perilaku dari watak dasar, situasi, wilayah, ancaman, dan bukti spesifik. Sebaliknya, sifat pasif Heavenly Beast bukan jaminan aman jika makhluk lain mengusiknya.
+- Riwayat Azerion tetap berlaku: Beast yang dahulu merupakan Demonic Beast berubah menjadi Heavenly Beast setelah pikirannya dimurnikan oleh Beiming Han. Perubahan ini adalah kasus lore khusus yang telah ditetapkan, bukan bukti bahwa semua Demonic Beast dapat dimurnikan atau otomatis berubah kategori.
 
 Setelah Spirit Beast dikalahkan, Spirit Ring dapat muncul mengambang di atas tubuhnya. Kekalahan Beast tidak membuat ring otomatis berhasil diserap. Penyerapan harus diselesaikan sesuai `core/SPIRIT_RING_RULES.md`.
 

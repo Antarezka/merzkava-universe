@@ -5,16 +5,25 @@
   <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFF4D8"/><stop offset=".55" stop-color="#E8D8B5"/><stop offset="1" stop-color="#CBB58B"/></linearGradient>
   <linearGradient id="iron" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#080909"/><stop offset=".5" stop-color="#383838"/><stop offset="1" stop-color="#111212"/></linearGradient>
 </defs>
-<!-- Connecting chain continues toward the second plaque at the right edge -->
-<g fill="none" stroke="#080909" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M177 88 C210 106 242 112 299 103" stroke-width="4"/>
-  <path d="M177 88 C210 106 242 112 299 103" stroke="#5A5A5A" stroke-width="1.2"/>
-  <path d="M91 66 L91 26"/>
-  <path d="M91 26 C91 15 103 13 108 21 C113 29 105 37 98 32"/>
+<!-- Two substantial hanging chains; attachment points follow the plaque's slanted top edge. No central nail. -->
+<g fill="none" stroke="#070808" stroke-width="11" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M42 0 L42 83"/>
+  <path d="M160 0 L160 78"/>
 </g>
-<g fill="none" stroke="#171717" stroke-width="4">
-  <ellipse cx="91" cy="45" rx="5.5" ry="10" transform="rotate(-12 91 45)"/>
-  <ellipse cx="91" cy="58" rx="5.5" ry="10" transform="rotate(12 91 58)"/>
+<g fill="none" stroke="#5B5B5B" stroke-width="3" stroke-linecap="round">
+  <path d="M42 0 L42 83"/>
+  <path d="M160 0 L160 78"/>
+</g>
+<g fill="#151515" stroke="#B66D2C" stroke-width="2">
+  <ellipse cx="42" cy="14" rx="8" ry="13" transform="rotate(-8 42 14)"/>
+  <ellipse cx="42" cy="34" rx="8" ry="13" transform="rotate(8 42 34)"/>
+  <ellipse cx="42" cy="54" rx="8" ry="13" transform="rotate(-8 42 54)"/>
+  <ellipse cx="42" cy="74" rx="8" ry="13" transform="rotate(8 42 74)"/>
+  <ellipse cx="160" cy="12" rx="8" ry="13" transform="rotate(8 160 12)"/>
+  <ellipse cx="160" cy="32" rx="8" ry="13" transform="rotate(-8 160 32)"/>
+  <ellipse cx="160" cy="52" rx="8" ry="13" transform="rotate(8 160 52)"/>
+  <ellipse cx="160" cy="70" rx="8" ry="13" transform="rotate(-8 160 70)"/>
+  <circle cx="42" cy="83" r="7"/><circle cx="160" cy="78" r="7"/>
 </g>
 <g transform="rotate(-2 105 270)" filter="url(#shadow)">
   <path d="M27 79 L178 74 L187 424 L36 429 Z" fill="url(#iron)" stroke="#050505" stroke-width="4"/>

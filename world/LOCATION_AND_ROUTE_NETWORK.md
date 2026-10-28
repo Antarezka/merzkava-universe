@@ -55,6 +55,9 @@ The perspective maps connect the three powers through broad overland and mixed l
 | Beiming northern coast → Eastern Azure Sea | Northeastern maritime passage via Frostmirror Sea | Established broad coastal connection; do not use the Azerion labyrinth exit as a port. |
 | Yunmeng Sea → Lawless Territories → Black Tide Sea | Western/southern sea-facing approach and ordinary open water | Lawless is the nearest major organized region to Guixu Canghai. Black Tide Sea is ordinary water and separates Lawless from Guixu Canghai. |
 | Black Tide Sea → Guixu Canghai | Cross the southern outer boundary of Black Tide Sea | Guixu Canghai is beyond this boundary at the far-southern, frigid edge of the world; no direct shore-to-Guixu shortcut exists. |
+| Lawless southern coast → Southwake Port | Coastal access to the established southern Lawless port | Nearest organized port-side approach toward Guixu Canghai; no direct road from a named village is established. |
+| Southwake Port → Lanternhook Isles | Vessel route across ordinary Black Tide Sea | Small pirate/criminal leisure and black-market archipelago; exact sailing time and schedule are unknown. |
+| Lanternhook Isles → Guixu Canghai | Cross ordinary Black Tide Sea and then its southern outer boundary | Guixu remains beyond the boundary; the isles are not part of Guixu Canghai and do not guarantee safe passage. |
 
 ### 3.3 Shared Azerion Forest connections
 

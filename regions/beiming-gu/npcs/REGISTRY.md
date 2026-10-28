@@ -1,7 +1,7 @@
 # Beiming Gu — NPC Registry
 
 **Scope:** Navigation directory for established recurring/major NPCs whose canonical home or affiliation is Beiming Gu.
-**Status:** Four established major NPCs plus 12 clan heads and 5 dojo masters are registered below (21 profiles total).
+**Status:** Six established major/youth-circle NPCs plus 12 clan heads and 5 dojo masters are registered below (23 profiles total).
 **Local pattern:** central INDEX → relevant Beiming Gu regional module → local NPC table → canonical profile.
 **Repository note:** This registry and its canonical NPC profiles belong to `Antarezka/merzkava-universe` under the current single-repository architecture. They are not awaiting migration to a separate regional repository.
 
@@ -13,6 +13,15 @@
 | Beiming Xenhwa | 17-year-old half-beast; white nine-tailed fox; adoptive daughter of Beiming Han | Beiming Gu affiliation; exact whereabouts unknown | [BEIMING_XENHWA.md](BEIMING_XENHWA.md) |
 | Beiming Jingheng | 17-year-old human; adoptive son of Beiming Han | Beiming Gu affiliation; exact whereabouts unknown; secret criminal connection is GM-sensitive | [BEIMING_JINGHENG.md](BEIMING_JINGHENG.md) |
 | Beiming Nerva | Beiming Han's older biological sister; Spirit Realm 8; Thinker Grade 9; Martial Soul Kartikeya (Myth) | Home affiliation: Beiming Gu; exact residence unknown. Frequently visits Tianhai Yunzhou and sometimes uses a student disguise at Beichen Cultivator Academy; identity is GM-sensitive | [BEIMING_NERVA.md](BEIMING_NERVA.md) |
+
+## Youth circle — clan youth and local working families
+
+| NPC | Established role | Last-confirmed location | Canonical full profile |
+|---|---|---|---|
+| Xuanbing Yue | Young Xuanbing Clan member; specific branch rank and dojo affiliation unconfirmed | Beiming Gu affiliation; current presence unconfirmed | [XUANBING_YUE.md](XUANBING_YUE.md) |
+| Cangxue Beiran | Young member of a family associated with hunting and supply work; exact clan ties unconfirmed | Beiming Gu affiliation; current presence unconfirmed | [CANGXUE_BEIRAN.md](CANGXUE_BEIRAN.md) |
+
+Their detailed profiles own their motivations and relationship entries. Circle ties are not proof of a prior physical meeting, and one NPC's disposition does not automatically establish the other's.
 
 ## Clan roster — 12 clans
 

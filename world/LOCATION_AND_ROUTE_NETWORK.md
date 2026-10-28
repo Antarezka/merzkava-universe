@@ -124,3 +124,8 @@ Before resolving travel: (1) identify origin and destination; (2) load regional 
 - [ ] Connect production to realistic demand and transport.
 - [ ] Cross-reference important NPCs and faction records.
 - [ ] Update the regional module and `INDEX.md` when a new canonical location or route is accepted.
+
+
+## Hidden location: Inner Azerion
+
+Inner Azerion is a concealed half-beast city in the central Azerion Forest, hidden behind dense illusion mist. It belongs on the geographic map as a hidden landmark, not as a publicly accessible settlement node. Safe routes are known chiefly to frequent veteran visitors and local hunter tribes. The forest's central lake and submerged ruin entrance are distinct landmarks leading to the unmapped Mega Colossal Labyrinth; do not conflate the city with the ruins or assume a direct safe road between them.

@@ -149,6 +149,15 @@ Jangan menampilkan laporan bootstrap, daftar file, atau menu pilihan sebagai pen
 Follow the connected NPC ↔ Map path defined by `INDEX.md` §5 and `world/CANON_LOAD_ROUTER.md`; use `world/NPC_MANAGEMENT.md` for practical NPC and continuity guidance. Use **NPC → Map** when a known NPC anchors the scene and **Map → NPC** when the player enters or explores an area. These paths guide the GM; they are not a requirement to document every person or routine event before narrating.
 
 
+### Mandatory narrative dynamics
+
+`templates/NARRATIVE_DYNAMICS.md` adalah modul operasional wajib, bukan saran gaya. Muat melalui `INDEX.md` dan terapkan pada setiap giliran gameplay.
+
+- Narasi gameplay normal wajib minimal **empat paragraf substantif**. Setiap paragraf harus mengembangkan adegan; jangan memakai pengulangan atau detail kosong untuk memenuhi jumlah. Respons lebih singkat hanya dibenarkan oleh keadaan yang benar-benar luar biasa.
+- Jika adegan benar-benar stagnan, hadirkan perkembangan yang masuk akal dari konteks—aktivitas lokal, inisiatif NPC, informasi, kesempatan, pertemuan, penemuan, atau perubahan situasi. Jangan menjadikan bahaya, konflik, atau kejutan acak sebagai respons otomatis.
+- Konsekuensi adalah hasil kausal yang netral: dapat positif, netral, negatif, campuran, atau tidak berarti. Resolusikan tindakan terlebih dahulu, jaga dampak proporsional, hormati batas pengetahuan, dan jangan menggunakan konsekuensi semata-mata untuk menghukum atau memberi hadiah.
+- Pertahankan otonomi dan karakterisasi NPC. Perubahan state persisten wajib mengikuti resolusi resmi, kontinuitas state, serta alur pencatatan/persetujuan event. Narasi saja tidak menjadikan perubahan sebagai canon.
+
 **Narrative immersion.** Kembangkan adegan dengan narasi yang kaya, mengalir, dan imersif; hidupkan suasana, interaksi NPC, aktivitas dunia, serta perkembangan atau kejadian tak terduga yang sesuai konteks. Jangan terburu-buru merangkum hasil atau langsung menuju inti—biarkan adegan tumbuh secara alami dan menarik tanpa melanggar canon, mekanik, maupun agensi pemain.
 
 **Narrative substance without personality drift.** Perbaiki kedalaman isi dan perkembangan adegan, bukan dengan mengubah kepribadian NPC yang sudah terbentuk. Pertahankan sifat, cara bicara, dinamika relasi, dan kecenderungan karakter yang telah ditetapkan. Kembangkan percakapan dan tindakan agar memiliki isi yang relevan dengan situasi, tanpa mengubah karakterisasi yang sudah konsisten.
@@ -156,8 +165,8 @@ Follow the connected NPC ↔ Map path defined by `INDEX.md` §5 and `world/CANON
 - Jawab tindakan atau pertanyaan pemain secara spesifik dan alami. Biarkan NPC berbagi pengalaman, pendapat, keluhan, kabar, humor, ambisi, pertanyaan balik, atau detail keseharian yang sesuai dengan situasi dan karakter mereka.
 - Kembangkan percakapan dan kejadian lokal secara organik. GM boleh mengimprovisasi pengalaman baru, kegiatan setempat, interaksi sosial, rumor, masalah kecil, kesempatan, dan peristiwa baru yang masuk akal meski belum tertulis di repo. Canon adalah batas konsistensi, bukan daftar lengkap semua hal yang boleh terjadi. Jangan menyajikan improvisasi baru seolah-olah merupakan sejarah lama yang telah dikonfirmasi.
 - Buat tiap bagian adegan membawa sesuatu yang relevan—informasi, reaksi, emosi, keputusan NPC, perubahan suasana, atau kemajuan percakapan. Jangan biarkan deskripsi berulang atau dialog generik menggantikan perkembangan yang substantif.
-- Hindari mengulang pola adegan yang sama. Variasikan alur sesuai konteks dan kepribadian; percakapan santai tidak harus berakhir dengan konflik, plot twist, atau kejadian besar.
-- Jangan memanjangkan respons hanya demi terlihat imersif, dan jangan memaksakan perkembangan baru setiap giliran. Utamakan detail yang relevan, dialog yang terasa spesifik, dan perkembangan dengan tempo yang wajar.
+- Hindari mengulang pola adegan yang sama. Variasikan alur sesuai konteks dan kepribadian; percakapan santai tidak harus berakhir dengan konflik, plot twist, atau kejadian besar. Jika adegan benar-benar stagnan, ikuti `templates/NARRATIVE_DYNAMICS.md` untuk memunculkan perkembangan kontekstual.
+- Penuhi minimal empat paragraf substantif untuk narasi gameplay normal sesuai `templates/NARRATIVE_DYNAMICS.md`. Jangan memenuhi panjang dengan detail kosong atau memaksakan kejadian setiap giliran; jika adegan stagnan, kembangkan melalui pemicu yang relevan.
 - Improvisasi naratif tidak otomatis mengubah mekanik atau state persisten karakter pemain. Tetap patuhi aturan resolusi dan kontinuitas untuk perpindahan, kepemilikan, transaksi, kondisi, serta perubahan state lainnya.
 
 **Keep the world alive.** Canonical maps, profiles, rosters, and event records guide continuity but are not exhaustive lists of every resident or daily activity. Freely improvise plausible, scene-level details such as vendors, residents, guards, travelers, students, conversations, market bustle, rumors, small opportunities, and ordinary local reactions. NPCs may initiate interactions, pursue immediate interests, disagree, refuse, bargain, misunderstand, or respond to events in character. Do not halt a scene merely because a background person or everyday activity has no dedicated entry in the repository.

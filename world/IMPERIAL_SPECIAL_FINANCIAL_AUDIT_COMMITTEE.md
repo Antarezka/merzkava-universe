@@ -34,7 +34,7 @@ These are broad areas of oversight, not a grant of unlimited authority. This mod
 | Position / personnel group | Established information | Unknown / not established |
 |---|---|---|
 | Committee head | Established by the owner as clean and honest | Name, age, appearance, personal history, cultivation, Martial Soul, Spirit Rings, Thinker Grade, and individual profile |
-| Deputy | Holds or is expected to hold the deputy role within the committee's described structure | Name, personal integrity, conduct, authority limits, cultivation, Thinker Grade, and individual profile |
+| Deputy | Deputy of the committee; the role exists, but the individual's identity and conduct are not established | Name, personal integrity, conduct, authority limits, cultivation, Thinker Grade, and individual profile |
 | Other personnel | The committee has personnel below its leadership | Names, number, grades, assignments, personal integrity, and individual profiles |
 
 The head's integrity is an established fact. The deputy's and lower-ranking personnel's integrity remains unknown. Corruption or evidence manipulation may be a concern, but no particular person is confirmed to have committed either act.

@@ -160,7 +160,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![NIGHTLY](assets/nightly-version.svg?v=7)
 
-<sub><span style="color:#D4AF37"><strong>v3.0.16</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v3.0.17</strong></span></sub>
 
 </td>
 </tr>
@@ -176,24 +176,21 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
-- ✦ **Stable Release — Merzkava 3.x Begins**
-  Hash: ``e2adbd4`` | Ver: ``Stable-v3.0.16`` / ``Nightly-v3.0.16``
-  Promoted the tested gameplay baseline into the 3.x release line. Major advances to 3, minor resets to 0, and 16 patch increments are carried forward from `v2.4.105` to `v2.4.121`. Stable and Nightly now agree on the canonical release snapshot.
+- ✦ **Canon Maintenance — Committee Reference and Authority Alignment**
+  Hash: ``400f171`` | Ver: ``Nightly-v3.0.17`` · ``Stable-v3.0.16``
+  Advanced Nightly to v3.0.17 and pinned the verified snapshot. The committee dossier remains canonical under `world/`, consistent with INDEX navigation, Authority Order, and canon-precedence rules.
 
 ༺━━━━━━━━༻
 
-- ✦ **Narrative Continuity — Preserve the Living Scene**
-  Hash: ``621d782`` | Ver: ``Nightly-v2.4.121``
-  Tightened continuity so scenes build on verified prior events, preserve NPC agency, and avoid restarting or retroactively inventing interactions to justify new details.
+- ✦ **Institutional Canon — Deputy Role Clarified**
+  Hash: ``fc61a75`` | Ver: ``Nightly-v3.0.16`` · ``Stable-v3.0.16``
+  Clarified that the committee deputy position exists while the individual's identity and conduct remain unestablished. Unknown integrity is preserved without inventing corruption or misconduct.
 
 ༺━━━━━━━━༻
 
-- ✦ **World Identity — Merzkava Has Its Own Texture**
-  Hash: ``14ea7f5`` | Ver: ``Nightly-v2.4.121``
-  Reinforced the requirement that gameplay meaningfully reflects Merzkava's cultivation, culture, technology, economy, ecology, or regional conditions rather than reading as interchangeable generic fantasy.
-
-༺━━━━━━━━༻
-
+- ✦ **Regional Navigation — Stale Committee Link Fixed**
+  Hash: ``a88a5d3`` | Ver: ``Nightly-v3.0.16`` · ``Stable-v3.0.16``
+  Removed the obsolete NPC-file reference from the Golden Dragon Empire regional index and retained the correct link to the canonical organization dossier in `world/`.
 <div align="center">
 
 ![ROADMAP](https://img.shields.io/badge/ROADMAP-WHAT'S_NEXT-FFFFFF?style=for-the-badge&labelColor=151515)

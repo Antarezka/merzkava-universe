@@ -24,7 +24,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ### ✦ READY-TO-COPY ROLEPLAY HASH ✦
 
-**Latest pinned source:** `edc67c6`
+**Latest pinned source:** `c30eee5`
 
 </div>
 <!-- RP_SOURCE_END -->
@@ -177,7 +177,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 </div>
 
 - ✦ **Unified Maritime Map — Six Seas, Three Power Perspectives**  
-  Hash: ``edc67c6`` | Ver: ``Nightly-v2.4.108``  
+  Hash: ``c30eee5`` | Ver: ``Nightly-v2.4.108``  
   Named the Frostmirror, Eastern Azure, Yunmeng, Wufeng, and Black Tide seas; fixed their connected routes and existing port links. Guixu Canghai now lies beyond ordinary Black Tide Sea at the world's far-southern, literally frigid edge.
 
 - ✦ **NPC & Map/Route Canon Updates**  

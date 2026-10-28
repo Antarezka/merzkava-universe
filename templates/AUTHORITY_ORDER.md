@@ -54,6 +54,20 @@ Untuk setiap aksi:
 4. Perbarui hanya state yang benar-benar berubah; rekonsiliasi profil dengan riwayat dan ledger.
 5. Tentukan apakah dampak persisten layak diajukan sebagai proposal event. Proposal bukan canon dan bukan bukti bahwa GitHub telah diubah.
 
+
+
+### State continuity lock — lokasi, kepemilikan, dan perubahan persisten
+
+**Aturan ini wajib untuk setiap giliran, setara dengan gerbang resolusi aksi di bagian ini.** State aktif berasal dari profil gameplay terakhir yang dapat diverifikasi beserta kejadian sah setelahnya; snapshot `players/<Nama>.md` hanya menjadi titik awal sesi baru dan tidak boleh menimpa state sesi berlanjut.
+
+1. **Tetapkan baseline sebelum menulis narasi.** Ambil lokasi/posisi terakhir yang terverifikasi, timestamp, kondisi, Equipment, Inventory, aset, Wallet, dan state lain yang relevan. Jika sesi berlanjut tetapi baseline atau riwayat yang diperlukan tidak tersedia, jangan mengarang transisi atau memulihkan snapshot awal secara otomatis; minta save/profil/riwayat yang dapat diverifikasi atau batasi jawaban pada fakta yang tersedia.
+2. **Lokasi tidak berpindah sendiri.** Lokasi aktif tetap sama dengan lokasi terakhir yang terverifikasi sampai suatu aksi atau peristiwa yang sah benar-benar memindahkan karakter. Perubahan lokasi harus didukung oleh tindakan/peristiwa, waktu yang masuk akal, dan—bila melibatkan perjalanan—rute serta mekanik perjalanan resmi. Perpindahan yang belum ditempuh, hanya direncanakan, ditawarkan NPC, atau disebut sebagai kemungkinan tidak mengubah lokasi aktif. Jangan menyimpulkan karakter telah berada di tempat baru hanya karena tempat itu cocok untuk adegan.
+3. **Kepemilikan tidak berubah sendiri.** Equipment, Inventory, aset, dan Wallet harus tetap sesuai state aktif sampai ada sebab sah yang menghasilkan perubahan: misalnya pemberian yang benar-benar diterima, transaksi yang terselesaikan, barang ditemukan dan berhasil diambil, barang dipakai/dilepas, hilang, rusak, atau peristiwa lain yang didukung aturan. NPC yang menawarkan/memberikan barang tidak otomatis berarti karakter menerimanya. Barang yang sekadar disebut, terlihat, disentuh, dicoba, atau ditawarkan tidak otomatis menjadi milik karakter.
+4. **Setiap perubahan harus punya rantai sebab yang dapat ditelusuri.** Sebelum menetapkan perubahan, pastikan ada tindakan/peristiwa pemicu, hasil resolusi yang sah, serta konsekuensi yang didukung aturan dan sumber daya. Jika sebab, keberhasilan, kepemilikan, atau hasil belum terbukti, jangan masukkan perubahan ke state; lanjutkan dari state sebelumnya dan narasikan hanya hal yang memang terjadi.
+5. **Rekonsiliasi state sebelum output.** Bandingkan baseline dengan state hasil giliran. Perubahan hanya boleh muncul jika didukung rantai sebab di atas. Jika tidak ada perubahan yang sah, pertahankan nilai sebelumnya secara persis. Jika ada perubahan, selaraskan narasi, waktu, profil, Inventory/Equipment, Wallet, dan ledger sesuai domain sumber resmi; satu kejadian tidak boleh menghasilkan versi state yang saling bertentangan di bagian output berbeda.
+6. **Jangan mengisi celah dengan asumsi.** Ketika riwayat terpotong atau suatu detail tidak diketahui, jangan menciptakan perjalanan, hadiah, barang, transaksi, atau perubahan state untuk menjembatani celah tersebut. Gunakan state terakhir yang benar-benar terverifikasi; bila itu tidak cukup untuk melanjutkan secara konsisten, minta informasi yang hilang.
+7. **Adegan tetap bebas berkembang.** Aturan ini tidak membatasi improvisasi suasana, dialog, aktivitas lokal, atau tindakan NPC yang sesuai aturan living-world. Aturan ini hanya membatasi klaim tentang posisi karakter dan perubahan state persisten: improvisasi naratif tidak dengan sendirinya membuktikan perpindahan, penerimaan barang, transaksi, kepemilikan, atau perubahan status.
+
 ### Gerbang Spirit Ring
 
 Sebelum setiap percobaan penyerapan atau breakthrough, periksa `core/SPIRIT_RING_RULES.md`, `core/CULTIVATION_SYSTEM.md`, `bestiary/SPIRIT_BEAST_RULES.md`, dan `gameplay/TIME_AND_ACTION_RULES.md`; tambahkan HP, Injury, combat, lokasi, atau perjalanan bila terdampak.

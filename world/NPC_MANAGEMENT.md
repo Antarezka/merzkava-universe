@@ -148,6 +148,10 @@ The confirmed ring-age configuration recorded for Beiming Han in `world/WORLD.md
 ## 7. Relationships and continuity
 
 - Record meaningful relationships with their basis: witnessed event, family tie, employment, debt, rivalry, agreement, or other confirmed cause.
+- Use the canonical profile's relationship field to record direction and, where useful, a disposition such as pro, contra, neutral, or mixed. A label describes that NPC's own stance; it does not establish reciprocal feelings.
+- A regional youth circle is a relationship/navigation aid, not a new NPC system, faction, academy, or event. Each recurring NPC's detailed profile remains the single canonical home; registries and indexes only link to it.
+- Membership in a circle does not prove every member has met in person, knows another member's identity/secrets, shares a location, or is available in a scene. Verify presence and knowledge as usual.
+- Keep each circle within its own major power by default. Cross-power relationships or acquaintance require an established canon basis or a recorded in-world event; a recurring visitor is not automatically a member of the host power's circle.
 - Change a relationship only after a scene or confirmed event justifies it.
 - Record important persistent changes with cause, time, involved parties, and consequences.
 - Keep whereabouts and injuries aligned with the latest confirmed scene.

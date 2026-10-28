@@ -24,7 +24,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ### ✦ READY-TO-COPY ROLEPLAY HASH ✦
 
-**Latest pinned source:** `615166d`
+**Latest pinned source:** `2b6169a`
 
 </div>
 <!-- RP_SOURCE_END -->
@@ -176,6 +176,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
+- ✦ **Lawless Captive Trade — Public Secret**  
+  Hash: ``2b6169a`` | Ver: ``Nightly-v2.4.114``  
+  Established Lawless underworld networks as major suppliers of captive half-beasts to corrupt buyers connected to all three powers. The trade remains a public secret despite the three powers' official ban; participation is not assumed for every organization.
+
 - ✦ **Half-Beast Restraint Abuse & Inner Azerion Map**  
   Hash: ``f0bbc2c`` | Ver: ``Nightly-v2.4.113``  
   Recorded the ban on half-beast enslavement across all three major powers, corrupt restraint abuse—especially in the Lawless Territories—and the resulting rarity of openly seen half-beasts there unless strong. Added Inner Azerion as a hidden central-forest city on the map/navigation references.
@@ -195,7 +199,3 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **Unified Beast Taxonomy and Behavior**  
   Hash: ``746789f`` | Ver: ``Nightly-v2.4.109``  
   Consolidated Ordinary, Spirit, Supreme, Demonic, and Heavenly Beasts. Defined output ranges and behavioral baselines; rarity, mutation, corruption, and age remain separate traits.
-
-- ✦ **NPC & Map/Route Canon Updates**  
-  Hash: ``2e1983e`` | Ver: ``Nightly-v2.4.107``  
-  Updated the regional route router to recognize the established direct Golden Dragon Empire ↔ Beiming Gu air corridor, and refined NPC rules so plausible temporary residents, travelers, conversations, rumors, and routine local activity keep scenes lively without inventing permanent branches, services, or geography.

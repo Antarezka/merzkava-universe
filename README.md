@@ -158,9 +158,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" alt="GitHub" />
 
-![NIGHTLY](assets/nightly-version.svg?v=3)
+![NIGHTLY](assets/nightly-version.svg?v=4)
 
-<sub><span style="color:#D4AF37"><strong>v2.4.109</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v2.4.110</strong></span></sub>
 
 </td>
 </tr>
@@ -175,6 +175,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 **✦ ──── ❖ ──── ✦**
 
 </div>
+
+- ✦ **Lawless Territories — Three-Power Map Integration**  
+  Hash: ``0e150eb`` | Ver: ``Nightly-v2.4.110``  
+  Connected Ashen Borderlands, Black Tide Expanse, and Nine Frost Wastes to the three power perspectives, shared navigation tree, geography, and route network. Preserved jurisdiction boundaries and marked unconfirmed local routes.
 
 - ✦ **Unified Beast Taxonomy and Behavior**  
   Hash: ``746789f`` | Ver: ``Nightly-v2.4.109``  

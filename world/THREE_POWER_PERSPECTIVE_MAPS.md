@@ -55,8 +55,17 @@
           └··· rushing-river trap corridor ··· [small prison island]
               → Golden Dragon Empire side
 
-    [EXTERNAL] Lawless Territories
-       └─ easiest known entrance → Azerion Forest → Golden Dragon Empire frontier
+    [EXTERNAL] LAWLESS TERRITORIES — OUTSIDE ALL THREE POWERS
+       ├─ Ashen Borderlands [west/southwest of Golden Dragon Empire]
+       │  ├─ Settlements: Greyrock, Blackreed, Broken Bell, Dust Lantern Villages
+       │  └─ Associated groups: Blood Vow Sect, Ashen Bone Hall, Black Scripture Sect, Hollow Fang Alliance
+       ├─ Black Tide Expanse [remote islands / sea routes outside Tianhai control]
+       │  ├─ Settlements: Saltwind Village, Driftwood Haven, Mistbell Village, Redwake Village
+       │  └─ Associated groups: Dreadtide Sect, Abyssal Moon Sect, Sea of Graves Hall, Crimson Keel Brotherhood
+       ├─ Nine Frost Wastes [northern wilderness outside Beiming defenses]
+       │  ├─ Settlements: Snowmelt, Frost Hollow, Ironpine, White Cairn Villages
+       │  └─ Associated groups: Frozen Blood Sect, Black Frost Palace, Corpse Lantern Sect, Silent Maw Hall
+       └─ Easiest known entrance → Azerion Forest → Golden Dragon Empire-facing river obstacle
 
     TIANHAI YUNZHOU (floating above Yunmeng Sea)
        ├~~~ Cangqiong Harbor → Dongxing Port (Xingluo; Eastern Azure Sea)
@@ -98,6 +107,12 @@
 - Dongxing is the mapped mainland maritime departure point for this corridor; Cangqiong Harbor is the receiving harbor on Tianhai Yunzhou.
 - The southwestern ocean is Yunmeng Sea. Ship schedules, exact sailing duration, fare, and weather windows remain unestablished. The ordinary Dongxing-to-Cangqiong corridor crosses Eastern Azure Sea and Yunmeng Sea; it does not enter Wufeng Sea or Guixu Canghai.
 - The direct Longyuan Sky Transit Terminal ↔ Cangqiong Sky Transit Terminal air corridor remains the established scheduled alternative.
+
+### Golden Dragon perspective — Lawless boundary
+
+- **Ashen Borderlands** lies outside the empire's western/southwestern borders; its four named villages and four associated organizations are listed in world/REGION_ASHEN_BORDERLANDS.md. Association does not establish that a group controls a settlement or border crossing.
+- The Lawless-side easiest known entrance to **Azerion Forest** is a separate geographic link. At the forest's Golden Dragon-facing boundary, the rushing-river trap and small prison island obstruct the route. No direct road from a named Ashen village to either point is established.
+- The empire's ordinary inter-power sea route remains Dongxing Port → Eastern Azure Sea → Yunmeng Sea → Cangqiong Harbor; it does not pass through the Lawless Territories.
 
 ### Golden Dragon internal map register
 
@@ -161,6 +176,12 @@ All seven regions remain part of the same imperial branch: **Longyuan, Canglan, 
 - The northern coast also links Beiming's side to Azerion Forest's ruined/labyrinth exit. This is distinct from the easier Lawless entrance and is not a surveyed safe road.
 - A separate, established direct air corridor connects Cangqiong Sky Transit Terminal ↔ Beiming Heartland Sky Transit Terminal.
 
+### Tianhai perspective — Lawless maritime boundary
+
+- **Black Tide Expanse** is the Lawless region of remote islands and sea routes outside Tianhai Yunzhou's direct control; its four settlements and four associated organizations are listed in world/REGION_BLACK_TIDE_EXPANSE.md. This is not a unified state or proof of faction control over every island.
+- Tianhai's western/southern sea-facing approach from **Yunmeng Sea** leads toward Lawless Territories. Ordinary **Black Tide Sea** lies farther south and separates Lawless from **Guixu Canghai**, which begins beyond Black Tide Sea's southern outer boundary.
+- Cangqiong Harbor is Tianhai's main harbor, but no direct Cangqiong-to-every-island route, named Lawless landing, schedule, or guaranteed safe passage is established.
+
 ### Tianhai internal map register
 
 The seven districts are **Yunxiao Terrace, Tianji Core, Cangqiong Harbor, Haiyue Market, Linggong District, Xuanchao Ward, and Misty Shoals**. Existing named local anchors and links are shown above; use the Tianhai regional module, especially §§12–14, for the actual internal route graph. The diagram does not add train stops or assume every district has a direct train link.
@@ -215,6 +236,12 @@ The seven districts are **Yunxiao Terrace, Tianji Core, Cangqiong Harbor, Haiyue
 - The mainland landing point and maritime route are not yet assigned a proper name; the corridor is a geographic travel framework, not a guaranteed ship timetable.
 - The established direct air service Beiming Heartland Sky Transit Terminal ↔ Cangqiong Sky Transit Terminal is the defined scheduled alternative.
 - A route through Golden Dragon Empire is another possible itinerary only when its required local edges are confirmed; it is not mandatory for the direct air service.
+
+### Beiming perspective — northern Lawless boundary
+
+- **Nine Frost Wastes** lies outside Beiming Gu's official defenses; its four named villages and four associated organizations are listed in world/REGION_NINE_FROST_WASTES.md. The Wastes are not a Beiming district.
+- The mapped overland corridor is Beiming Heartland → Stonegate March → Nine Frost Wastes → Beiguan (Baiyue, Golden Dragon Empire), with exposed cold terrain and unresolved local road alignment. The corridor does not establish direct roads between all four villages or guarantee safe passage.
+- The Azerion Forest connection from Beiming is different: the northern coast reaches the dangerous ruined/labyrinth exit. It is not a public harbor and is not the same as the Lawless-side easiest forest entrance.
 
 ### Beiming internal map register
 

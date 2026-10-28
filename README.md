@@ -160,7 +160,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![NIGHTLY](assets/nightly-version.svg?v=6)
 
-<sub><span style="color:#D4AF37"><strong>v2.4.117</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v2.4.118</strong></span></sub>
 
 </td>
 </tr>
@@ -176,9 +176,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
-- ✦ **Ying Wuxin's Two Lives**  
-  Hash: ``629139a`` | Ver: ``Nightly-v2.4.117``  
-  Grounded his public life in Huanglongcheng, Longyuan, and linked it to the established imperial princess and two canonical academies. Kept his daughter's name, age, school, pavilion details, and late wife's identity unset where repo canon provides no answer.
+- ✦ **NPC Youth Circles & Relationship Continuity**  
+  Hash: ``aaa528b`` | Ver: ``Nightly-v2.4.118``  
+  Added regional youth-circle NPC profiles and synchronized relationship direction/disposition and canon boundaries. Circles stay within their own power by default; membership does not imply prior meetings, shared location, or secret knowledge.
 
 - ✦ **Crimson Sovereign Court & Ying Wuxin**  
   Hash: ``e26f041`` | Ver: ``Nightly-v2.4.115``  

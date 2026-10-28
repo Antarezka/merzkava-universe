@@ -158,9 +158,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" alt="GitHub" />
 
-![NIGHTLY](assets/nightly-version.svg?v=5)
+![NIGHTLY](assets/nightly-version.svg?v=6)
 
-<sub><span style="color:#D4AF37"><strong>v2.4.111</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v2.4.112</strong></span></sub>
 
 </td>
 </tr>
@@ -175,6 +175,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 **✦ ──── ❖ ──── ✦**
 
 </div>
+
+- ✦ **Prison Restraints & Bound Items**  
+  Hash: ``07b5277`` | Ver: ``Nightly-v2.4.112``  
+  Established restraint categories for Martial Soul suppression chains, ornamental sealing collars, physical-strength suppression, boundary binding, fear effects, and whisper-seals. Defined artifact distinctions, custody risks, and the possibility of corrupt charges or framed detainees without treating restraint effects as universal.
 
 - ✦ **Lawless Southern Port & Lanternhook Isles**  
   Hash: ``d6311ec`` | Ver: ``Nightly-v2.4.111``  

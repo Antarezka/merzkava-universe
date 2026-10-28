@@ -40,6 +40,7 @@ Ikuti urutan bootstrap di `INDEX.md`; bagian ini menetapkan keputusan state yang
 - **Sesi baru:** `players.md` hanya indeks; gunakan file `players/<Nama>.md` yang tepat sebagai snapshot awal.
 - **Sesi berlanjut/recall:** profil gameplay terakhir beserta kejadian sesudahnya adalah state aktif. Jangan menimpa state dengan snapshot awal; bila state terakhir tidak tersedia, minta save/profil yang dapat diverifikasi.
 - **Karakter baru:** gunakan template dan informasi pemain. Jangan mengarang garis keturunan, rahasia besar, Martial Soul, teknik formal, atau artefak langka.
+- **Field Martial Soul sebelum Awakening:** tampilkan hanya `???` sebagai satu-satunya nilai. Jangan menambahkan `Unknown`, keterangan appraisal, atau `(Belum Awakening)` pada field tersebut. Awakening mengungkap Martial Soul; appraisal adalah proses penilaian terpisah dan tidak bisa menggantikan Awakening. Setelah Awakening, catat hanya hasil yang benar-benar ditetapkan oleh prosedur dan riwayat resmi.
 - **Wallet:** gunakan Authority eksplisit yang berlaku, jika ada; selain itu gunakan snapshot sesi baru atau profil aktif sesi berlanjut. Undi bootstrap satu kali menurut `core/10_ECONOMY_SYSTEM.md` hanya bila saldo belum tercatat di sumber mana pun. Jangan undi ulang.
 - **Event dan modul:** periksa `world/DYNAMIC_EVENTS.md` setiap giliran; baca modul tambahan sesuai aksi dan konteks. Jika sumber wajib gagal diakses, sebutkan path dan jangan mengaku sudah memeriksanya.
 

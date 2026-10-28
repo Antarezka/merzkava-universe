@@ -14,8 +14,8 @@
 </g>
 <!-- One heavy chain hangs from the cloud and ends at one nail aligned with the tilted top rail. -->
 <g stroke-linejoin="round">
- <path d="M118 39 L144 164" fill="none" stroke="#080909" stroke-width="13" stroke-linecap="round"/>
- <path d="M115 39 L141 162" fill="none" stroke="#696969" stroke-width="3" stroke-linecap="round"/>
+ <path d="M118 39 L144 153" fill="none" stroke="#080909" stroke-width="13" stroke-linecap="round"/>
+ <path d="M115 39 L141 151" fill="none" stroke="#696969" stroke-width="3" stroke-linecap="round"/>
  <g fill="#171717" stroke="#777" stroke-width="2">
   <ellipse cx="121" cy="54" rx="7" ry="11" transform="rotate(12 121 54)"/>
   <ellipse cx="126" cy="72" rx="7" ry="11" transform="rotate(12 126 72)"/>
@@ -24,10 +24,10 @@
   <ellipse cx="138" cy="126" rx="7" ry="11" transform="rotate(12 138 126)"/>
   <ellipse cx="141" cy="144" rx="7" ry="11" transform="rotate(12 141 144)"/>
   <ellipse cx="143" cy="162" rx="7" ry="11" transform="rotate(12 143 162)"/>
-  <ellipse cx="144" cy="180" rx="7" ry="11" transform="rotate(12 144 180)"/>
+  <ellipse cx="144" cy="151" rx="7" ry="11" transform="rotate(12 144 151)"/>
  </g>
- <circle cx="144" cy="191" r="8" fill="#171717" stroke="#B84D48" stroke-width="3"/>
- <path d="M140 188 L148 194 M148 188 L140 194" stroke="#D7B27D" stroke-width="1.5"/>
+ <circle cx="144" cy="159" r="8" fill="#171717" stroke="#B84D48" stroke-width="3"/>
+ <path d="M140 156 L148 162 M148 156 L140 162" stroke="#D7B27D" stroke-width="1.5"/>
 </g>
 <g transform="rotate(4 145 410)" filter="url(#shadow)">
  <path d="M58 159 L229 171 L205 538 L34 526 Z" fill="url(#iron)" stroke="#050505" stroke-width="4"/>

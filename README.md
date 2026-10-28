@@ -58,9 +58,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ༺━ ✦ ━༻
 
-![WORLD ARCHIVE](https://img.shields.io/badge/WORLD_ARCHIVE-FFFFFF?style=for-the-badge&labelColor=151515)
-
-**✧ FOLLOW THE MAP. UNCOVER THE WORLD. ✧**
+<img src="assets/world-archive-scattered.svg?v=1" alt="Merzkava World Archive — scattered field notes, maps, lore files and regional records" width="100%" />
 
 <div align="left">
 
@@ -73,9 +71,13 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 </div>
 
+<div align="center">
+
 <sub>THE MAP SHOWS THE WAY · THE ARCHIVE HOLDS THE DETAILS</sub>
 
 ༺━ ✦ ━༻
+
+</div>
 
 </div>
 

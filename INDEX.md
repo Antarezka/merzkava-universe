@@ -107,7 +107,7 @@ Router regional mempertahankan detail yang sebelumnya berada di INDEX agar tidak
 
 ## 5. NPC navigation
 
-**Mandatory NPC display rule:** every player-facing NPC reference must use double backticks. Until the player-character learns an NPC's identity in-world, display exactly ``npc ???``; after legitimate identification, GM Authority must switch to the identified name in double backticks. Full enforcement and knowledge-boundary rules are owned by `templates/AUTHORITY_ORDER.md`, `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`, and `world/NPC_MANAGEMENT.md`.
+**Mandatory NPC display rule:** wrap every NPC reference in double backticks. Use established context for named meetings/referrals and do not reset known identities to ``npc ???``. Reserve ``npc ???`` for significant/story-relevant or potentially recurring people whose identity is genuinely unknown; proactively introduce them when conversation naturally allows, without waiting for the player to ask. Ordinary background/service NPCs use role labels such as ``NPC: Penjaga gerbang``; once named, retain role plus name, e.g. ``Penjaga Gerbang: Wang Lan``. Full rules are owned by `templates/AUTHORITY_ORDER.md`, `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`, and `world/NPC_MANAGEMENT.md`.
 
 **One connected path, used in either direction: NPC ↔ Map.** After the normal `INDEX.md` → `templates/AUTHORITY_ORDER.md` bootstrap, choose the starting point from the scene:
 

@@ -177,7 +177,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 </div>
 
 - ✦ **Crimson Sovereign Court & Ying Wuxin**  
-  Hash: ``647d864`` | Ver: ``Nightly-v2.4.115``  
+  Hash: ``e26f041`` | Ver: ``Nightly-v2.4.115``  
   Added Ying Wuxin as the concealed Spirit Realm Primordial leader of Crimson Sovereign Court above Crimson Keel Brotherhood. Integrated his Asura — Myth Martial Soul, coercive Soul Illusion, empire-scale shadow influence, and secrecy into the canonical profile, Lawless lore, faction reference, Black Tide region, map, and INDEX.
 
 - ✦ **Lawless Captive Trade — Public Secret**  

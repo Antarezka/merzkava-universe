@@ -51,6 +51,18 @@ The three rulers' proposed ring configurations are documented in `world/WORLD.md
 
 These descriptions are areas of influence, not proof that every clan member shares a profession, ability, or political loyalty. Formal rivalries, alliances, leaders, and current clan actions remain undefined unless established in gameplay or another official source.
 
+## 2A. Imperial Special Financial Audit Committee
+
+**Official name:** Komite Auditor Keuangan Khusus Kekaisaran  
+**Type:** Specialized financial-audit institution of the Golden Dragon Empire.  
+**Canonical institutional dossier:** [Imperial Special Financial Audit Committee](../regions/golden-dragon-empire/npcs/IMPERIAL_SPECIAL_FINANCIAL_AUDIT_COMMITTEE.md).
+
+The committee's head is established as clean and honest. The integrity of the deputy and lower-ranking personnel is unknown. Corrupt practices or evidence manipulation are possible concerns, but no such act is confirmed merely by this possibility. Do not presume every member is corrupt, and do not treat the head's integrity as proof that every subordinate is clean.
+
+Luca's family was accused, their assets were confiscated, and their rights were revoked in the character's established background. Luca believes his father was framed. The committee's exact role in the case, the charges, the evidence, and the identity of any responsible person have not been established. Keep suspicion, belief, and verified evidence separate; do not invent a conspiracy or a culprit.
+
+The committee's precise statutory authority, office location, named officials, internal structure, case procedures, and current assignments remain unestablished. Refer to the linked dossier and the Golden Dragon Empire NPC registry for navigation; do not invent officials or active deployments.
+
 ## 3. Golden Dragon Empire Dojos
 
 - **Golden Dragon Martial Hall:** Martial training and combat techniques.

@@ -42,6 +42,7 @@ Pilih sumber berdasarkan aksi dan lokasi; jika beberapa sistem terdampak, baca s
 | Struktur pemerintahan sipil dan militer Golden Dragon Empire, kementerian, dan jenjang administrasi | `world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md` |
 | Nama dan jumlah regional, prefektur, county, kota, kota kecil, distrik, serta desa Golden Dragon Empire | `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md` |
 | Peta, wilayah, permukiman, rute yang diketahui | `world/MAP_AND_REGIONS.md` |
+| Pelabuhan selatan Lawless, gugusan pulau hiburan kriminal, dan akses ke Guixu Canghai | `world/LAWLESS_SOUTHERN_PORT_AND_ISLES.md` |
 | Tree navigasi terhubung tiga kekuasaan dan transit antarwilayah | `world/WORLD_NAVIGATION_TREE.md` |
 | Peta garis tiga kekuasaan dari masing-masing perspektif, termasuk koridor darat dan laut | `world/THREE_POWER_PERSPECTIVE_MAPS.md` |
 | Geografi fisik, perjalanan, moda transportasi, dan batas pengetahuan rute | `world/GEOGRAPHY_AND_TRAVEL.md` |

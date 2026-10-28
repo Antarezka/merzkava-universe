@@ -53,6 +53,14 @@ The Court's existence and authority are deliberately hidden; do not treat it as 
 
 Ying Wuxin is Spirit Realm 9 — Spirit Primordial, with Martial Soul Asura — Myth. He is cold and sadistic, and conceals his capabilities so adversaries cannot reliably identify his weaknesses. His coercive Soul Illusion can invert perception of core traits and emotions. Targets may recognize the manipulation and attempt resistance or escape, only for the effect to reassert control and redirect them into submission and displayed affection. This is coercion, not genuine consent. Women held under his control must not be portrayed as voluntarily devoted merely because the ability makes them appear loving or loyal. The precise mechanics and limits remain unknown; use the canonical profile and do not invent counters or weaknesses.
 
+## 7.2 Ying Wuxin's Second Life — Restricted GM Canon
+
+Ying Wuxin also lives in the **Golden Dragon Empire** as the public owner of a clothing pavilion serving elite clientele. In private family life, he is a genuinely loving and excessively indulgent father to his biological daughter from his late wife; she can feel embarrassed or annoyed by how much he spoils her. She often visits during academy holidays and is friends with the imperial princess and her social circle.
+
+**Secret and continuity boundary:** his daughter does not know her father's identity as the concealed leader of Crimson Sovereign Court and a high-level criminal power behind Crimson Keel Brotherhood. He has never used Soul Illusion on her, and she has never been touched or influenced by it. His love for her is real, not an illusion or a performance. Keep this information restricted to GM canon until credible in-world discovery; do not expose it to the daughter, the imperial princess, her friends, or other characters without an owner-approved development.
+
+The pavilion's name and exact location, the daughter's name and age, and the late wife's identity remain unspecified. Do not invent them. This public life does not make the hidden Court a formal government or a fourth major power, and it does not lessen Ying Wuxin's coercion of other victims. See world/NPC_YING_WUXIN.md for the canonical profile.
+
 ## 7. Factions and Local Authority
 - Dreadtide Sect (associated with the area; current control unconfirmed)
 - Abyssal Moon Sect (associated with the area; current control unconfirmed)

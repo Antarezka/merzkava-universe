@@ -176,6 +176,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
+- ✦ **NPC Identity, Role Labels & Proactive Introductions**  
+  Hash: ``e81a5c7`` | Ver: ``Nightly-v2.4.118``  
+  Refined NPC naming by respecting established meeting context, reserving ``npc ???`` for significant unidentified people, requiring natural proactive introductions, and using role-based labels for everyday background NPCs.
+
 - ✦ **NPC Youth Circles & Relationship Continuity**  
   Hash: ``aaa528b`` | Ver: ``Nightly-v2.4.118``  
   Added regional youth-circle NPC profiles and synchronized relationship direction/disposition and canon boundaries. Circles stay within their own power by default; membership does not imply prior meetings, shared location, or secret knowledge.
@@ -195,8 +199,4 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **Prison Restraints & Bound Items**  
   Hash: ``07b5277`` | Ver: ``Nightly-v2.4.112``  
   Established restraint categories for Martial Soul suppression chains, ornamental sealing collars, physical-strength suppression, boundary binding, fear effects, and whisper-seals. Defined artifact distinctions, custody risks, and the possibility of corrupt charges or framed detainees without treating restraint effects as universal.
-
-- ✦ **Lawless Southern Port & Lanternhook Isles**  
-  Hash: ``d6311ec`` | Ver: ``Nightly-v2.4.111``  
-  Established Southwake Port on the southern Lawless coast and Lanternhook Isles in ordinary Black Tide Sea, with named leisure, black-market medicine, and gambling locations. Connected the route toward Guixu Canghai while preserving the intervening sea boundary and marking unknown travel details.
 

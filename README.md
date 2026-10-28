@@ -176,6 +176,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
+- ✦ **Ying Wuxin's Two Lives**  
+  Hash: ``8165d81`` | Ver: ``Nightly-v2.4.116``  
+  Added his genuine fatherly affection for his daughter, his elite clothing pavilion in the Golden Dragon Empire, her friendship with the imperial princess's circle, and strict secrecy around his criminal identity and Soul Illusion immunity for her.
+
 - ✦ **Crimson Sovereign Court & Ying Wuxin**  
   Hash: ``e26f041`` | Ver: ``Nightly-v2.4.115``  
   Added Ying Wuxin as the concealed Spirit Realm Primordial leader of Crimson Sovereign Court above Crimson Keel Brotherhood. Integrated his Asura — Myth Martial Soul, coercive Soul Illusion, empire-scale shadow influence, and secrecy into the canonical profile, Lawless lore, faction reference, Black Tide region, map, and INDEX.
@@ -196,6 +200,3 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
   Hash: ``d6311ec`` | Ver: ``Nightly-v2.4.111``  
   Established Southwake Port on the southern Lawless coast and Lanternhook Isles in ordinary Black Tide Sea, with named leisure, black-market medicine, and gambling locations. Connected the route toward Guixu Canghai while preserving the intervening sea boundary and marking unknown travel details.
 
-- ✦ **Lawless Territories — Three-Power Map Integration**  
-  Hash: ``0e150eb`` | Ver: ``Nightly-v2.4.110``  
-  Connected Ashen Borderlands, Black Tide Expanse, and Nine Frost Wastes to the three power perspectives, shared navigation tree, geography, and route network. Preserved jurisdiction boundaries and marked unconfirmed local routes.

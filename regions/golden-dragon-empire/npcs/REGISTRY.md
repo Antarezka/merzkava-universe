@@ -12,6 +12,7 @@
 | Shen Yuehua (沈月华) | Empress; main-branch member of the Shen family | Longyuan; exact residence not specified | [SHEN_YUEHUA.md](SHEN_YUEHUA.md) |
 | Jun Ruiyuan (君睿渊) | Crown Prince; eldest child | Longyuan; exact residence not specified | [JUN_RUIYUAN.md](JUN_RUIYUAN.md) |
 | Jun Yuejin (君月瑾) | Imperial Princess; second child | Longyuan; exact residence not specified | [JUN_YUEJIN.md](JUN_YUEJIN.md) |
+| Ying Wuxin | Publicly an owner of an elite clothing pavilion; concealed criminal identity is restricted GM canon | Huanglongcheng, Longyuan; exact pavilion location unconfirmed | [NPC_YING_WUXIN.md](../../../world/NPC_YING_WUXIN.md) |
 
 ## Other officials and recurring NPCs
 

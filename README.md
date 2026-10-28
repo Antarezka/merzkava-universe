@@ -160,7 +160,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![NIGHTLY](assets/nightly-version.svg?v=7)
 
-<sub><span style="color:#D4AF37"><strong>v2.4.119</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v2.4.121</strong></span></sub>
 
 </td>
 </tr>
@@ -175,6 +175,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 **✦ ──── ❖ ──── ✦**
 
 </div>
+
+- ✦ **Merzkava World Identity — Narrative Hard Gate**  
+  Hash: ``5bf2c15`` / ``d9f68d0`` / ``1bccfe4`` / ``3f95061`` / ``1cd8f35`` | Ver: ``Nightly-v2.4.121``  
+  Gameplay must show a concrete, context-appropriate link to Merzkava's cultivation systems, technology, economy, culture, society, ecology, or regional conditions. A generic-fantasy substitution test now requires revision when a scene lacks meaningful world identity.
 
 - ✦ **Player Identity — Exact-Match Bootstrap Gate**  
   Hash: ``0cc9e84`` / ``1dc39c9`` / ``25c59cd`` | Ver: ``Nightly-v2.4.120``  
@@ -195,8 +199,4 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **Neutral Consequences in Dynamic Events**  
   Hash: ``bb914a5`` | Ver: ``Nightly-v2.4.118``  
   Clarified that world events may produce beneficial, neutral, harmful, mixed, or no meaningful outcomes. Consequences must follow context and causality rather than being manufactured as punishment or drama.
-
-- ✦ **Narrative Dynamics in GM Authority**  
-  Hash: ``d53bd85`` / ``cf9ed60`` | Ver: ``Nightly-v2.4.118``  
-  Made narrative standards part of the authority and gameplay workflow. Preserved canon hierarchy, player agency, NPC continuity, and valid state changes while removing fixed paragraph-count requirements.
 

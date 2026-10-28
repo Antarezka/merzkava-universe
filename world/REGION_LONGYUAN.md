@@ -122,6 +122,7 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPC
 | Shen Yuehua (沈月华) | Longyuan; exact residence unconfirmed | Empress; main-branch member of the Shen family | Heavenly Crane, Myth; age 33; noted for her family's strategic tea-pavilion, intelligence, and Thinker traditions | [Canonical roster/profile](../regions/golden-dragon-empire/npcs/SHEN_YUEHUA.md) |
 | Jun Ruiyuan (君睿渊) | Longyuan; exact residence unconfirmed | Crown Prince; eldest child | Golden Heavenly Qilin, Myth; age 17 | [Canonical roster/profile](../regions/golden-dragon-empire/npcs/JUN_RUIYUAN.md) |
 | Jun Yuejin (君月瑾) | Longyuan; exact residence unconfirmed | Imperial Princess; second child | Golden Celestial Crane, Myth; age 16 | [Canonical roster/profile](../regions/golden-dragon-empire/npcs/JUN_YUEJIN.md) |
+| Ying Wuxin | Huanglongcheng; exact pavilion location unconfirmed | Owner of an elite clothing pavilion | Public life: indulgent father; concealed identity is GM-only and must not be disclosed without credible discovery | [Canonical profile](NPC_YING_WUXIN.md) |
 
 ## 9. Current Situations and Events
 

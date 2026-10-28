@@ -160,7 +160,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![NIGHTLY](assets/nightly-version.svg?v=3)
 
-<sub><span style="color:#D4AF37"><strong>v2.4.106</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v2.4.107</strong></span></sub>
 
 </td>
 </tr>
@@ -177,7 +177,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 </div>
 
 - ✦ **Lively Scene-Level NPC and World Improvisation**  
-  Hash: ``2e1983e`` | Ver: ``Nightly-v2.4.106``  
+  Hash: ``2e1983e`` | Ver: ``Nightly-v2.4.107``  
   Updated NPC guidance so plausible temporary residents, vendors, guards, travelers, conversations, rumors, and ordinary local activity can keep scenes lively without requiring pre-existing roster entries. Major NPCs, official roles, lasting changes, and permanent world structure still require careful canon checks.
 
 - ✦ **README Visual Assets — Investigation Dossier Restyle**  

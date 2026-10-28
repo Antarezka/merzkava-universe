@@ -164,6 +164,7 @@ Known organizations associated with the area:
 - Abyssal Moon Sect
 - Sea of Graves Hall
 - Crimson Keel Brotherhood
+- Crimson Sovereign Court (赤尊宫 · Chì Zūn Gōng) — concealed shadow authority above Crimson Keel Brotherhood; leader profile: `world/NPC_YING_WUXIN.md`.
 
 These settlements and groups do not necessarily share one government or alliance. Black Tide Expanse is the Lawless archipelago/sea-route region around ordinary Black Tide Sea, not a synonym for Guixu Canghai. Guixu Canghai lies farther south beyond Black Tide Sea's outer boundary. Wufeng Sea is connected to Yunmeng Sea by Lantern Passage and toward Eastern Azure Sea by Three-Lantern Passage; current faction control over individual Black Tide islands remains locally variable.
 

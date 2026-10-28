@@ -20,7 +20,6 @@
 - [Jun Yuejin](npcs/JUN_YUEJIN.md)
 - [Shen Yunting — youth circle](npcs/SHEN_YUNTING.md)
 - [Luo Zhenkai — youth circle](npcs/LUO_ZHENKAI.md)
-- [Komite Auditor Keuangan Khusus Kekaisaran](npcs/IMPERIAL_SPECIAL_FINANCIAL_AUDIT_COMMITTEE.md)
 
 Only established canon is listed. Do not infer missing abilities, personalities, officeholders, or relationships.
 

@@ -100,7 +100,10 @@ Bound items are also a known instrument of exploitation. Corrupt elites, officia
 
 **The three major powers—Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu—prohibit the enslavement of half-beasts.** This legal prohibition does not mean abuse has disappeared: corrupt actors may conceal captives, falsify custody records, disguise restraints as jewelry, or exploit weak enforcement. Such abuse is especially common in the Lawless Territories, where no single authority consistently enforces the three powers' laws and coercive markets can thrive.
 
-As a result, half-beasts are rarely seen openly in Lawless Territories unless they are powerful enough to defend themselves, evade capture, or make would-be captors think twice. This is a broad regional pattern, not an absolute rule: hidden captives, escaped victims, protected residents, and weaker half-beasts may still exist. A half-beast's presence or absence does not by itself establish their history, strength, or legal status.
+As a result, half-beasts are rarely seen openly in Lawless Territories unless they are powerful enough to defend themselves, evade capture, or make would-be captors think twice.
+
+The Lawless underworld's organizations and networks are the largest suppliers of enslaved half-beasts to corrupt buyers tied to all three major powers. Their cross-border trade is a **public secret** in underworld and corrupt elite circles, sustained by brokers, intermediaries, falsified custody records, and selective enforcement. All three powers officially prohibit enslavement; this canon describes corrupt individuals and networks evading or violating that ban, not an official state policy. Do not assume every Lawless organization participates: specific groups' roles require established evidence.
+ This is a broad regional pattern, not an absolute rule: hidden captives, escaped victims, protected residents, and weaker half-beasts may still exist. A half-beast's presence or absence does not by itself establish their history, strength, or legal status.
 
 These facts do not make every restraint a slave device or every holder an enslaver. The item's function, the captor's conduct, and the individual's circumstances must be established separately.
 

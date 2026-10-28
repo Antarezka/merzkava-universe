@@ -41,9 +41,9 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ![WORLD AT A GLANCE](https://img.shields.io/badge/WORLD_AT_A_GLANCE-151515?style=for-the-badge&labelColor=FFB36B)
 
-### ✦ THE WORLD MAP OF MERZKAVA ✦
+#### ✦ THE WORLD MAP OF MERZKAVA ✦
 
-*One world. Three great powers. Countless paths beyond the known horizon.*
+*Three powers. One world. Countless paths.*
 
 <a href="assets/Untitled77_20261029054536.png"><img src="assets/Untitled77_20261029054536.png" alt="Illustrative world map of Merzkava Universe" width="100%" /></a>
 

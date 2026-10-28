@@ -12,7 +12,7 @@ Status: **Template visual resmi dan wajib untuk setiap balasan gameplay. Gunakan
 - **Format universal istilah klasifikasi:** setiap istilah yang ditampilkan sebagai label tier, quality/kualitas, tingkat, grade, rarity, status, kategori, atau klasifikasi sejenis wajib memformat istilahnya saja dengan pola ``*<istilah>*``; penjelasan setelahnya berada di luar backtick. Contoh: ``*Unknown*`` **membutuhkan appraisal untuk lebih pastinya**; ``*Tier 5*``; ``*Legendary*``. Terapkan konsisten pada narasi, hasil, tabel profil, Inventory, Equipment, loot, dan ledger.
 - **Format universal hasil resolusi:** setiap hasil final yang berasal dari chance/undian/gacha, combat, atau formula/perhitungan mekanik wajib dibungkus dengan empat tanda bintang di kedua sisi: `****<hasil final>****`. Terapkan pada hasil berhasil maupun gagal, angka peluang/roll yang dilaporkan, damage/HP final, rarity/mutasi, skor atau nilai hasil formula, dan hasil mekanik serupa. Jangan gunakan format ini untuk sekadar menjelaskan rumus sebelum hasilnya diputuskan; bungkus hasil yang benar-benar diresolusikan.
 - Ganti setiap placeholder dengan state terverifikasi. Jangan menampilkan instruksi dalam tanda kurung siku sebagai isi respons final. Jika nilai belum diketahui, gunakan default resmi dari `templates/CHARACTER_PROFILE_TEMPLATE.md`; jangan menghapus field atau mengarang nilai.
-- Field `Spirit Ring Absorption` wajib memakai status tahap kanonis dari `templates/CHARACTER_PROFILE_TEMPLATE.md` dengan format `status | Day left`. Mortal yang belum menjalani Awakening wajib ditampilkan sebagai `not eligible yet | ??? Day left`, bukan `Tidak ada | 0 Day left`.
+- Field `Spirit Ring Absorption` wajib memakai status tahap kanonis dari `templates/CHARACTER_PROFILE_TEMPLATE.md` dengan format `status | Day left`. Format token status sebagai label klasifikasi ``*<status>*`` (misalnya ``*not eligible yet*``). Mortal yang belum menjalani Awakening wajib ditampilkan sebagai ``*not eligible yet*`` | ??? Day left, bukan `Tidak ada | 0 Day left`.
 - `Wallet (wealth)` wajib selalu memakai urutan persis `xc | xs | xg | zj | az`. Salin nominal tiap denominasi dari state aktif tanpa menukar posisi atau mengubah saldo.
 - Untuk item yang identitas, jenis pasti, atau detail relevannya belum ditetapkan oleh kanon/GM, gunakan label persis ``*Unknown*`` **membutuhkan appraisal untuk lebih pastinya** pada Inventory, Equipment, loot, transaksi, dan deskripsi item yang ditampilkan ke pemain. Jangan gunakan `???` untuk label item atau mengarang nilai, tier, fungsi, kelangkaan, maupun bahaya. Appraisal hanya memperbarui fakta yang benar-benar ditetapkan oleh hasilnya.
 - `LEDGER LOG` adalah satu-satunya blok visual kondisional. Untuk perubahan state terverifikasi, narasikan transaksi secara natural, sertakan penanda inline `🝰 MASUK/KELUAR` dan atribut relevan `⧟`, akhiri laporan dengan inline-code `Log tercatat!` tepat satu kali, lalu tampilkan satu ledger gabungan sebelum profil. Jika tidak ada perubahan relevan, hilangkan penanda dan ledger—**jangan pernah menghilangkan bagan profil atau bagian visual lain**.
@@ -39,7 +39,7 @@ NARASI
 
 [Narasi imersif tentang situasi, dialog, tindakan NPC, lingkungan, dan hasil aksi yang diresolusikan secara sah. Jangan mengambil alih keputusan karakter pemain atau membocorkan informasi yang belum diketahui karakter.]
 
-[Setiap aktivitas terbaru wajib menyebutkan Satiety. Jika berubah, jelaskan nilai awal → perubahan → nilai akhir. Jika tetap, sebutkan nilainya beserta alasan yang relevan.]
+[Setiap aktivitas terbaru wajib menyebutkan Satiety. Hitung dari Satiety terakhir yang terverifikasi, durasi terjaga, kategori aktivitas, jendela makan terlewat, kondisi tubuh, dan konsumsi nyata sesuai `core/HUNGER_AND_METABOLISM.md`. Jangan menyalin 100/100 hanya karena karakter tampak prima atau memiliki sifat 'jarang lapar'. Jika berubah, jelaskan nilai awal → perubahan → nilai akhir; jika tetap, sebutkan nilainya dan alasan mekanis yang membenarkannya.]
 
 [Narasi tetap imersif walau player Converse secara pasif: tampilkan suasana yang relevan, percakapan/tindakan NPC aktif sesuai pengetahuan dan agenda mereka, serta aktivitas sekitar yang didukung canon, wilayah, dan waktu. Jangan memaksa kejadian atau mengambil alih karakter pemain.]
 
@@ -63,7 +63,7 @@ Nama: ...
 Usia: ...
 Spirit Realm: ...
 Sync progress: ...%/...%
-Spirit Ring Absorption: ... | ... Day left
+Spirit Ring Absorption: ``*<status>*`` | ... Day left
 Martial Soul: ...
 Thinker Grade: ...
 HP: .../...

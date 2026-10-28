@@ -4,6 +4,10 @@ File ini adalah **indeks karakter terdaftar**, bukan tempat menyimpan perkembang
 
 ## Aturan Registry
 
+- **Identitas karakter memakai exact match saja:** nama input harus sama persis dan case-sensitive dengan nama pada registry. Dilarang fuzzy matching, menganggap nama mirip sebagai typo/alias, mengoreksi otomatis, mentransliterasi, menormalisasi Unicode, atau menyamakan/menghapus diakritik. Contoh jika `Yuha` terdaftar, `Yuma`, `Yuka`, `Yûha`, dan `Yūhá` adalah nama karakter berbeda/tidak terdaftar, bukan `Yuha`.
+- Jika input kosong atau masih berupa placeholder, tanyakan hanya apakah nama terlupa ditulis atau salah penulisan; jangan tampilkan menu pembuatan karakter.
+- Jika input berisi nama konkret yang tidak cocok persis, arahkan ke jalur bootstrap karakter baru tanpa menebak nama terdaftar yang mirip atau menanyakan apakah itu typo. Jangan mulai adegan sebelum jalur bootstrap yang sesuai selesai.
+
 - Untuk sesi baru karakter terdaftar, baca file individual yang sesuai secara utuh dari `ACTIVE_SHA` yang sudah dikunci melalui `INDEX.md`.
 - File registry dan file karakter individual adalah snapshot awal statis, bukan save gameplay aktif. Jangan menimpa sesi berlanjut dengan snapshot awal atau mengedit file pemain saat gameplay tanpa permintaan eksplisit pemilik repository.
 - Pertahankan latar karakter yang tercatat. Jangan mengarang rahasia inti, garis keturunan, Martial Soul, teknik formal, artefak langka, atau fakta canon yang belum didukung.

@@ -13,6 +13,15 @@
 | Ji Zhaoning | Elder twin princess; focused on Thinker development; not awakened | Current whereabouts unconfirmed | [JI_ZHAONING.md](JI_ZHAONING.md) |
 | Ji Ningzhao | Younger twin princess; awakened cultivator | Current whereabouts unconfirmed | [JI_NINGZHAO.md](JI_NINGZHAO.md) |
 
+## Youth circle — Thinker study and Artificial Artifact trade
+
+| NPC | Established role | Last-confirmed location | Canonical full profile |
+|---|---|---|---|
+| Lin Qiaoyu | Aspiring Thinker student; exact institution and Thinker Grade unconfirmed | Tianhai Yunzhou affiliation; current presence unconfirmed | [LIN_QIAOYU.md](LIN_QIAOYU.md) |
+| Duan Haicheng | Son of an Artificial Artifact trading family; no specific guild or workshop established | Tianhai Yunzhou affiliation; current presence unconfirmed | [DUAN_HAICHENG.md](DUAN_HAICHENG.md) |
+
+Their detailed profiles own their motivations and relationship entries. Circle ties are not proof of a prior physical meeting, and one NPC's disposition does not automatically establish the other's.
+
 ## Known recurring visitor from another power
 
 | NPC | Established connection / behavior | Home / visit location status | Canonical full profile |

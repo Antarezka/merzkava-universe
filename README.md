@@ -177,8 +177,8 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 </div>
 
 - ✦ **NPC Identity, Role Labels & Proactive Introductions**  
-  Hash: ``e81a5c7`` | Ver: ``Nightly-v2.4.118``  
-  Refined NPC naming by respecting established meeting context, reserving ``npc ???`` for significant unidentified people, requiring natural proactive introductions, and using role-based labels for everyday background NPCs.
+  Hash: ``4fc15a3`` / ``51e5189`` / ``e81a5c7`` | Ver: ``Nightly-v2.4.118``  
+  Refined NPC naming in GM authority, aligned the gameplay template, and updated INDEX navigation. Established context is preserved; ``npc ???`` is reserved for significant unidentified people, while background NPCs use role labels and important strangers introduce themselves when natural.
 
 - ✦ **NPC Youth Circles & Relationship Continuity**  
   Hash: ``aaa528b`` | Ver: ``Nightly-v2.4.118``  

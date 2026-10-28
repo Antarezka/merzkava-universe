@@ -49,17 +49,17 @@ Pertahankan nama dan urutan field sesuai `templates/GAMEPLAY_RESPONSE_TEMPLATE.m
 
 Status ditentukan oleh tahap karakter terlebih dahulu, lalu kelayakan proses penyerapan berikutnya. Tampilkan **tepat satu status**, jangan menampilkan alternatif sekaligus, dan jangan menambahkan alasan/label lain di dalam field profil.
 
-- **Mortal, tidak sedang menjalani Awakening:** `Spirit Ring Absorption: ``*not eligible yet*`` | ??? Day left`
-- **Proses Martial Soul Awakening sedang berlangsung:** `Spirit Ring Absorption: ``*pending*`` | ??? Day left`
-- **Awakening selesai, belum pernah menyerap ring pertama, syarat ring pertama terpenuhi:** `Spirit Ring Absorption: ``*eligible*`` | ??? Day left`
-- **Awakening selesai, belum pernah menyerap ring pertama, syarat ring pertama belum terpenuhi:** `Spirit Ring Absorption: ``*not eligible yet*`` | ??? Day left`
-- **Spirit Realm 1–8, syarat penyerapan berikutnya belum lengkap:** `Spirit Ring Absorption: ``*not eligible yet*`` | N Day left`
-- **Spirit Realm 1–8, seluruh syarat karakter/proses penyerapan berikutnya terpenuhi:** `Spirit Ring Absorption: ``*eligible*`` | 0 Day left`
-- **Spirit Realm 9 (Spirit Primordial), batas puncak sistem:** `Spirit Ring Absorption: ``*max*`` | ∞ Day left`
+- **Mortal, tidak sedang menjalani Awakening:** Spirit Ring Absorption: ``*not eligible yet*`` | ??? Day left
+- **Proses Martial Soul Awakening sedang berlangsung:** Spirit Ring Absorption: ``*pending*`` | ??? Day left
+- **Awakening selesai, belum pernah menyerap ring pertama, syarat ring pertama terpenuhi:** Spirit Ring Absorption: ``*eligible*`` | ??? Day left
+- **Awakening selesai, belum pernah menyerap ring pertama, syarat ring pertama belum terpenuhi:** Spirit Ring Absorption: ``*not eligible yet*`` | ??? Day left
+- **Spirit Realm 1–8, syarat penyerapan berikutnya belum lengkap:** Spirit Ring Absorption: ``*not eligible yet*`` | N Day left
+- **Spirit Realm 1–8, seluruh syarat karakter/proses penyerapan berikutnya terpenuhi:** Spirit Ring Absorption: ``*eligible*`` | 0 Day left
+- **Spirit Realm 9 (Spirit Primordial), batas puncak sistem:** Spirit Ring Absorption: ``*max*`` | ∞ Day left
 
 Aturan:
 - `pending` hanya digunakan selama proses Awakening benar-benar berlangsung, bukan sekadar karena karakter belum Awakening.
-- Untuk Mortal yang tidak sedang menjalani Awakening, tampilkan persis `Spirit Ring Absorption: not eligible yet | ??? Day left`. Jangan menggantinya dengan `Tidak ada | 0 Day left`, karena belum adanya Awakening berarti cooldown penyerapan pertama belum dimulai, bukan cooldown nol.
+- Untuk Mortal yang tidak sedang menjalani Awakening, tampilkan persis Spirit Ring Absorption: ``*not eligible yet*`` | ??? Day left. Jangan menggantinya dengan `Tidak ada | 0 Day left`, karena belum adanya Awakening berarti cooldown penyerapan pertama belum dimulai, bukan cooldown nol.
 - Setelah Awakening selesai tetapi sebelum penyerapan pertama berhasil, `Day left` adalah `???` karena jeda belum dimulai. Awakening sendiri tidak otomatis memberikan ring atau membuat status `eligible`.
 - Pada Spirit Realm 1–8, cooldown positif berarti `not eligible yet`. Cooldown nol hanyalah satu gerbang; status `eligible` hanya jika seluruh syarat resmi lain terpenuhi. Ketersediaan ring fisik tetap terpisah dari kelayakan karakter/proses.
 - Spirit Realm 9 selalu `max | ∞ Day left`. Sembilan slot adalah batas sistem; jangan hitung cooldown ke ring kesepuluh, jangan tampilkan `eligible`, dan jangan menambahkan Spirit Realm atau slot kesepuluh tanpa revisi canon eksplisit pemilik.

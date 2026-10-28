@@ -6,6 +6,8 @@
 
 When an item's identity, exact type, or relevant properties have not yet been established by canon or the GM, display the item as ``*Unknown*`` **membutuhkan appraisal untuk lebih pastinya** wherever the player-facing item name/details are shown. Use this exact wording consistently in Inventory, Equipment, loot, item descriptions, and appraisal-related gameplay narration. Do not use this label for ordinary items whose identity and relevant details are already established. The label does not imply rarity, value, danger, a hidden power, or guaranteed appraisal success. Keep the actual unknown facts unresolved until valid evidence or appraisal establishes them. After appraisal, replace the label only for the facts the ruling actually establishes; any remaining unknown properties stay undisclosed/unconfirmed.
 
+**Explicit exclusion — Martial Soul:** This item-identification display rule does **not** apply to Martial Souls. Never label a Martial Soul ``*Unknown*`` under this rule, and do not use the generic item/beast appraisal score or item-appraisal wording to resolve its identity, score, rarity, or uncertainty. Follow `core/MARTIAL_SOUL_AWAKENING.md` and `core/MARTIAL_SOUL.md` for Martial Soul-specific handling. This exclusion does not change any Martial Soul awakening, scoring, rarity, or mutation mechanics.
+
 ## 1. Priority Order
 
 1. **Existing official canon:** use the exact tier recorded by the relevant official module, catalog, approved discovery, or owner-confirmed canon decision. Do not recalculate it.

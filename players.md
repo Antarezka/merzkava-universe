@@ -26,6 +26,7 @@ Saat bootstrap karakter terdaftar, baca isi file individual secara utuh dari `AC
 | Nafila | [players/Nafila.md](players/Nafila.md) | Snapshot awal terdaftar |
 | Ilya | [players/Ilya.md](players/Ilya.md) | Snapshot awal terdaftar |
 | Elliot | [players/Elliot.md](players/Elliot.md) | Snapshot awal terdaftar |
+| Xin Hwa | [players/Xin%20Hwa.md](players/Xin%20Hwa.md) | Snapshot awal terdaftar |
 
 ## Menambahkan dan Menyimpan Karakter Baru
 Ikuti satu jalur saja: gunakan `templates/CHARACTER_PROFILE_TEMPLATE.md` untuk membangun seluruh snapshot karakter, termasuk estimasi field ambigu dan Wallet berbasis latar; gunakan `core/10_ECONOMY_SYSTEM.md` hanya untuk kurs serta aturan ekonomi, bukan untuk bootstrap Wallet terpisah. Pertahankan latar dan fakta eksplisit, tandai estimasi GM, dan jangan mengarang hasil awakening atau kemampuan yang belum diperoleh. Simpan profil lengkap dan Wallet dalam satu file `players/<Nama>.md`, kemudian tambahkan satu entri ke tabel ini. Jangan mengedit snapshot karakter lama atau fixture pengujian saat membuat standar baru. Gunakan `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` untuk format gameplay.

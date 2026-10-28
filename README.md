@@ -62,7 +62,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 <div align="center">
 
-<a href="world/WORLD.md"><img src="assets/kanban-world-lore-cloud.svg?v=5" alt="World Lore — click to open the world lore document" width="110" align="top" /></a><a href="world/MAP_AND_REGIONS.md"><img src="assets/kanban-map-regions-cloud.svg?v=5" alt="Map and Regions — click to open the map and regions document; sign begins lower than World Lore" width="110" align="top" /></a>
+<a href="world/WORLD.md"><img src="assets/kanban-world-lore-cloud.svg?v=6" alt="World Lore — click to open the world lore document" width="110" align="top" /></a><a href="world/MAP_AND_REGIONS.md"><img src="assets/kanban-map-regions-cloud.svg?v=6" alt="Map and Regions — click to open the map and regions document; sign begins lower than World Lore" width="110" align="top" /></a>
 
 </div>
 

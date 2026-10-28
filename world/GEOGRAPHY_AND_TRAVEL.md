@@ -20,6 +20,16 @@ The western side of Tianhai Yunzhou's floating position above the southwestern o
 
 At the Golden Dragon-facing forest boundary, a rushing river forms a trap-like barrier; a small Golden Dragon Empire prison island lies in the middle of the fast-water route. Its river name, exact crossing, and coordinates are not established. From Beiming Gu, the Azerion connection instead follows the northern coast to the ruined/labyrinth exit associated with the lake ruins and Mega Colossal Labyrinth. The labyrinth's internal geography is unknown; this is a dangerous ruined route, not a surveyed public road.
 
+## 1.1A Lawless Territories — shared regional placement
+
+Lawless Territories are outside the direct jurisdiction of all three major powers, but they are not one state and do not have a single continuous border or unified road network.
+
+- **Ashen Borderlands** lies outside Golden Dragon Empire's western/southwestern borders. The Lawless-side easiest known entrance to Azerion Forest is in Lawless Territories; the forest extends into Golden Dragon Empire territory. The empire-facing boundary has a rushing-river trap and a small prison island. No direct road from a named Ashen settlement to the entrance or crossing is established.
+- **Black Tide Expanse** consists of remote islands and sea routes outside Tianhai Yunzhou's direct control. Tianhai's western/southern sea-facing approach leads from Yunmeng Sea toward Lawless Territories. Ordinary Black Tide Sea lies farther south and separates Lawless from Guixu Canghai. Do not treat the Expanse, the sea, and Guixu as interchangeable names.
+- **Nine Frost Wastes** lies north of the mainland's main routes, outside Beiming Gu's official defenses. The mapped overland corridor between Beiguan and Beiming passes through the Wastes and then Stonegate March / Frostveil Range. This does not make the Wastes a Beiming district or establish a direct road between every named village.
+
+Use world/MAP_AND_REGIONS.md for the shared placement, world/THREE_POWER_PERSPECTIVE_MAPS.md for the three matching route views, and the three Lawless regional modules for settlement and faction associations. Exact local borders, coordinates, roads, passes, ports, and travel times remain undefined unless recorded by a canonical source.
+
 ## 1.2 Established Sea Systems and Maritime Routes
 
 ### Frostmirror Sea (霜镜海) — Beiming northern coast

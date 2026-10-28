@@ -13,7 +13,28 @@ Merzkava Universe is built around one vast continent with connected seas and mar
 
 The North is comparatively isolated by terrain and climate. The sea connects distant territories and supports travel, trade, diplomacy, and conflict. Lawless Territories exist outside the direct jurisdiction of the three major powers.
 
-Golden Dragon Empire lies in the east, Tianhai Yunzhou floats above the southwestern ocean, and Beiming Gu lies in the north. Large tracts of wilderness and difficult terrain separate the major powers. The sea names remain `???` pending an official naming decision. A precise world map, scale, compass bearings between all regions, and verified travel distances have not yet been established. Do not draw conclusions about exact proximity or travel duration from this outline alone.
+Golden Dragon Empire lies in the east, Tianhai Yunzhou floats above the southwestern ocean, and Beiming Gu lies in the north. Large tracts of wilderness and difficult terrain separate the major powers. The world contains multiple connected seas and maritime routes, but only **Guixu Canghai (归墟沧海)** has been named as a specific sea/ocean system so far. Other sea names, exact coastlines, straits, coordinates, distances, and verified travel durations remain unestablished. Do not infer exact proximity or travel time from this outline alone.
+
+## 1B. Sea Systems and Maritime Geography
+
+The world has multiple distinct seas and connected maritime routes. This register separates established concepts from unresolved names and positions; it is not a scaled map and does not assign invented coordinates or coastlines.
+
+| Sea / maritime area | Established concept | Land and route relationship | Unresolved details |
+|---|---|---|---|
+| **Guixu Canghai (归墟沧海)** | The most merciless named ocean system: immense depths, extreme pressure and currents, mega-tsunami danger, colossal marine beasts larger than Heavenly Beast Azerion, ancient deep-sea half-beast clans, territorial sea beasts comparable to Spirit Realm 8–9 demonic rulers, cursed spirits at Spirit Realm 8+, and an unnamed colossal graveyard. Threat intensifies with depth. | A distinct ocean system within the world's wider connected seas. Its precise approaches, neighboring coasts, and relationship to specific routes have not been assigned. | Exact location, boundaries, access routes, depths, and the identities/history of the colossal remains. |
+| **Windless / Still-Water Sea** *(descriptive working label; official name pending)* | The entire sea is literal still water: no wind, waves, or currents. Its unnatural silence makes travelers acutely hear their heartbeat, breathing, and normally imperceptible bodily sounds, potentially shaking their minds. A cursed ancient Relic is embedded at the bottom of its trench. Many Spirit Beasts of Tier 7 and above inhabit it. Spirit Realm 6+ cultivators commonly visit to train or seek a Spirit Beast candidate compatible with their Martial Soul. | Despite its psychological and maritime hazards, it is a favored corridor for vessels using specialized Artificial Artifact propulsion powered by liquefied energy, because ambushes are uncommon there. This does not make the sea harmless or guarantee safe passage. It belongs to the connected maritime network, but its exact coastal endpoint and position relative to other seas remain unassigned. | Official name, exact coast/port connections, boundaries, cause and full range of the silence, Relic identity, and specific Spirit Beast territories. |
+| **Southwestern ocean above which Tianhai Yunzhou floats** *(name pending)* | Tianhai Yunzhou's giant floating island is suspended above this southwestern ocean and is sustained by its established Tier 9 Artificial Artifact. | Tianhai's western sea-facing approach leads toward the Lawless Territories; the separate mapped maritime corridor links Cangqiong Harbor with Dongxing in Xingluo, Golden Dragon Empire. | Official ocean name, precise position of the floating island, coastlines, sailing path, and local sea transitions. |
+| **Northern coastal waters of Beiming Gu** *(name pending)* | Maritime waters associated with Beiming Gu's northern coastline. The northern coastal exit of the Azerion ruins / Mega Colossal Labyrinth is a dangerous, distinct geographic feature. | Connected to Beiming Gu's northern coastal approach. The ruined/labyrinth exit is not a normal port, safe public road, or routine maritime interchange. | Official sea name, ports, coastline shape, ordinary vessel routes, and precise relationship to deeper ocean systems. |
+| **Eastern coastal waters of Golden Dragon Empire** *(name pending)* | Coastal waters associated with the empire's maritime belt, including the established Xingluo / Dongxing access point. | Dongxing is the mapped mainland departure point for the maritime corridor to Cangqiong Harbor in Tianhai Yunzhou. This does not make every imperial region coastal. | Official sea name, exact coastlines, ports beyond established anchors, sailing route, and local straits. |
+
+### Sea-map interpretation rules
+
+- **Guixu Canghai is not the name for all oceans**, and Black Tide Expanse is a Lawless region of remote islands and sea routes, not a synonym for Guixu Canghai.
+- The Windless / Still-Water Sea's stillness applies across the entire sea, not just around its trench: no wind, waves, or currents. Do not add ordinary surface drift or hidden currents to it unless the owner later changes this rule.
+- The silence and cursed ancient Relic are established concepts; the Relic's name, origin, exact mechanism, and full effects remain unknown.
+- A vessel's specialized liquefied-energy Artificial Artifact propulsion is distinct from a conventional Qi-powered vessel and from Tianhai Yunzhou's dedicated passenger aircraft. Do not assume every ship can use that propulsion.
+- The three major-power perspectives must show the same sea systems and preserve the same unknowns. A sea appearing on a perspective map does not establish a new port, route, border, distance, or guaranteed safe passage.
+- Broad sea connectivity is part of the world framework, but exact straits and transitions between named or unnamed waters remain unknown until established in an existing map or route source.
 
 ## 1A. Connected tree and inter-power transit
 
@@ -119,7 +140,7 @@ Known organizations associated with the area:
 - Sea of Graves Hall
 - Crimson Keel Brotherhood
 
-These settlements and groups do not necessarily share one government or alliance. Exact sailing routes, distances, and current territorial control remain open.
+These settlements and groups do not necessarily share one government or alliance. Black Tide Expanse is a Lawless archipelago/sea-route region, not the name of every ocean and not automatically the same as Guixu Canghai. The Windless / Still-Water Sea may be relevant to wider maritime travel, but no exact route through Black Tide, port connection, or current territorial control is established here.
 
 ### 5.3 Nine Frost Wastes
 

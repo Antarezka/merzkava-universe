@@ -15,6 +15,7 @@ The three major powers are **Golden Dragon Empire, Tianhai Yunzhou, and Beiming 
 - Named central ministers, seven regional governors, twelve active prefectural offices, and retained former prefects/county magistrates — `world/GOLDEN_DRAGON_EMPIRE_OFFICIALS.md`
 - Population-facing services, bank and information-exchange offices, Medicine Hall Society locations, two central dormitory-based academies, and selected Ordo Suci Tianming public libraries — `world/GOLDEN_DRAGON_EMPIRE_POPULATION_SERVICES.md`
 - Seven-region, twelve-prefecture, six-county-circuit register and thirteen named rural villages — `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`
+- Ying Wuxin's public civilian life in Huanglongcheng, Longyuan, and the restricted GM canon separating it from his concealed criminal identity — `world/NPC_YING_WUXIN.md`; `world/REGION_LONGYUAN.md`; `regions/golden-dragon-empire/npcs/REGISTRY.md`
 
 **Canon lock — official villages vs. local settlements (Golden Dragon Empire):**
 - The Golden Dragon Empire has exactly **13 officially registered named villages**. The canonical names and regional distribution must be taken from `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`; the seven `world/REGION_*.md` files must agree with that register.

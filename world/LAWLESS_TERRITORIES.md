@@ -160,3 +160,12 @@ Some high-level criminal organizations based in the Lawless Territories exploite
 - Do not assume the Wayfarer Hearth Network can protect everyone or that the Heavenly Beast in Azerion Forest's deepest core can be located, provoked, defeated, or escaped automatically. Do not use “Dead Zone” as a synonym for the entire forest.
 - Resolve money, item ownership, injuries, travel time, combat, and Spirit Ring absorption through their respective official mechanics.
 - Preserve uncertainty where the canon above leaves details open.
+
+
+## Half-Beast Slave Trade — Public Secret
+
+The Lawless Territories' criminal organizations and underground networks are the **largest suppliers of enslaved half-beasts to corrupt buyers connected to all three major powers**: Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu. The trade crosses borders through intermediaries, disguised cargo, falsified custody papers, private auctions, and buyers who use respectable titles or fronts to hide their involvement. This is a **public secret** among people who work around the underworld, border commerce, private auctions, and corrupt circles—not a matter unknown to everyone, but rarely acknowledged openly by those who benefit from it.
+
+The three powers officially prohibit half-beast enslavement. The contradiction is sustained by corruption and selective enforcement: some officials, nobles, wealthy patrons, and factional figures condemn the practice publicly while quietly purchasing captives, shielding brokers, or obstructing investigations. This does **not** mean the three governments as a whole officially endorse slavery, nor that every organization or official participates. The Lawless Territories are not one unified organization; different groups may broker, transport, protect, expose, or oppose the trade, and involvement must be grounded in a named group's established actions rather than assumed from its name alone.
+
+This trade helps explain why half-beasts are rarely seen openly in Lawless Territories unless they are strong enough to resist capture or deter would-be captors. It does not mean all half-beasts are enslaved, all are weak, or every unseen half-beast is a captive. See `world/PRISON_AND_BOUND_ITEMS.md` for restraint types and abuse patterns.

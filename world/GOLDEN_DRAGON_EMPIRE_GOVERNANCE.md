@@ -56,7 +56,7 @@ The following portfolio structure is the standard recommended model:
 | Ministry of Military Affairs | Central military administration, recruitment records, supplies, and coordination with the command structure; not automatic field command over every unit |
 | Ministry of Justice | Imperial law, courts, legal procedure, appeals, and administration of penalties |
 | Ministry of Public Works | Roads, bridges, canals, flood control, public buildings, and major infrastructure |
-| Imperial Oversight Agency | Audits, misconduct investigations, official complaints, and review of abuse of authority |
+| Komite Auditor Keuangan Khusus Kekaisaran | Internal oversight of ministries and subordinate government bodies, including financial irregularities, administrative misconduct, abuse of office, and allegations involving altered records or evidence; detailed powers remain subject to established canon |
 
 The list defines portfolios, not a claim that every ministry already has named ministers, fixed subdivisions, or a fully documented legal code. Those details must be added only when established.
 

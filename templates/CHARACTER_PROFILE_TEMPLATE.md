@@ -36,6 +36,13 @@ Gunakan satu proses terpadu untuk membuat, melengkapi, dan menyimpan snapshot ka
 6. Setelah profil dan Wallet ditetapkan, simpan keduanya dalam satu file `players/<Nama>.md`, lalu tambahkan karakter ke `players.md`. File individual menjadi satu-satunya snapshot awal karakter; tidak perlu file, modul, atau jalur save uang yang terpisah. Ledger transaksi selama gameplay tetap merupakan riwayat perubahan setelah baseline, bukan bagian untuk mengarang sejarah sebelum sesi.
 7. Untuk sesi baru karakter terdaftar, gunakan snapshot persis yang tersimpan. Untuk sesi berlanjut/recall, gunakan profil gameplay terakhir dan transaksi sah setelahnya; jangan mengestimasi ulang usia, perlengkapan, atau Wallet dan jangan menimpa state aktif dengan snapshot awal.
 
+### Default Spirit Realm dan ras karakter baru
+
+- Jika player tidak menetapkan Spirit Realm dan latar tidak memberi petunjuk tegas tentang tingkat kultivasi, tetapkan **Mortal**. Jangan menyimpulkan realm tinggi hanya dari bakat, status keluarga, atau tempat tinggal.
+- Jika player tidak menetapkan ras dan latar tidak memberi petunjuk kuat, tentukan ras secara acak dari manusia atau bangsa setengah makhluk lain yang didukung `world/INTELLIGENT_PEOPLES.md`. Peluang manusia harus lebih besar daripada setiap pilihan nonmanusia; sesuaikan bobot dengan latar keluarga, asal/daerah, komunitas sekitar, dan persebaran yang didukung sumber wilayah.
+- Jangan mengarang persentase atau mengklaim tabel peluang resmi bila canon belum menetapkannya. Jangan menganggap semua penghuni suatu wilayah memiliki ras yang sama. Jika player menyebut ras secara eksplisit atau latar memberi bukti kuat tentang keluarga/komunitas tertentu, pertahankan atau gunakan bukti itu.
+- Mortal tidak berarti Martial Soul sudah Awakening. Jangan memberi Awakening, Spirit Ring, teknik formal, kekuatan rahasia, atau lineage khusus tanpa dasar canon dan proses yang sah.
+
 ## Sumber Currency dan Konsistensi Saldo
 
 - Untuk sesi baru, cocokkan nama karakter melalui `players.md`, lalu baca file individual `players/<Nama>.md` sebagai snapshot awal lengkap, termasuk Wallet. Jika Authority secara eksplisit menetapkan state awal yang sah untuk sesi tersebut, ikuti Authority. Untuk sesi berjalan/recall, gunakan Wallet pada profil gameplay terakhir lalu terapkan transaksi sah yang terjadi setelahnya.

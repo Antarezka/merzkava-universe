@@ -8,7 +8,7 @@
 - **Power / jurisdiction context:** Golden Dragon Empire
 - **Established identity:** Maritime trade, diplomacy, and sea routes.
 - **Canonical overview:** `world/MAP_AND_REGIONS.md` and `world/WORLD.md`
-- **Connected route map:** `world/THREE_POWER_PERSPECTIVE_MAPS.md` maps Dongxing as the mainland maritime approach to Cangqiong Harbor in Tianhai Yunzhou. This is a mixed land-and-sea travel framework; sea name, sailing path, schedule, fare, and duration remain unspecified.
+- **Connected route map:** `world/THREE_POWER_PERSPECTIVE_MAPS.md` maps the Eastern Azure Sea (东青海) and its connected route to Yunmeng Sea (云梦海), Tianhai Yunzhou's home waters. Dongxing Port is the primary inter-power departure wharf for Cangqiong Harbor; other established Xingluo ports serve coastal shipping and local transfer routes. Exact schedules, fares, distances, and durations remain unspecified.
 
 ## 2. Geography and Boundaries
 - General position: Distant maritime belt — wealthy ports coexist with neglected inland and outer-coast communities. Exact coordinates and surveyed borders remain undefined.
@@ -60,6 +60,24 @@ The official prefecture seats are only those listed in `world/GOLDEN_DRAGON_EMPI
 | Yuandeng | City / settlement and service hub | Former prefectural seat; Yuandeng remains a port settlement under Eastern Star Prefecture | Local civil administration; not an independent prefectural seat |
 | Longchao | City / settlement and service hub | Former prefectural seat; Longchao remains a port settlement under Eastern Star Prefecture | Local civil administration; not an independent prefectural seat |
 
+### Eastern Azure Sea — port and coastal route network
+
+All listed ports and coastal settlements belong to the Eastern Azure Sea (东青海) maritime belt of Xingluo. **Dongxing Port**, within Dongxing, is the primary departure wharf for the established route to Cangqiong Harbor in Tianhai Yunzhou. Other ports support coastal freight, local passengers, and small-vessel transfers; they are not separate prefectures.
+
+| Origin / port | Established maritime role | Connected local route | Map status |
+|---|---|---|---|
+| Dongxing Port (Dongxing) | Main inter-power departure wharf | Eastern Azure Sea → eastern open-water passage → Yunmeng Sea → Cangqiong Harbor | Established main shipping corridor |
+| Mingzhu Port | Major port under Eastern Star Prefecture | Eastern Azure coastal shipping; exact direct connections to other ports are not individually assigned | Established port; local legs conditional |
+| Lanfan Port | Major port under Eastern Star Prefecture | Coastal route toward Wind Sail Hamlet | Established coastal approach; exact schedule unknown |
+| Chaoguan Port | Port and coastal checkpoint | Small-vessel route toward Tideglass Hamlet | Established coastal approach; weather can force a detour |
+| Yuhai Port | Port settlement under Eastern Star Prefecture | Eastern Azure coastal shipping | Established port; local legs conditional |
+| Yuandeng Port | Port settlement under Eastern Star Prefecture | Eastern Azure coastal shipping | Established port; local legs conditional |
+| Longchao Port | Port settlement under Eastern Star Prefecture | Eastern Azure coastal shipping | Established port; local legs conditional |
+| Yanfeng coastal settlement | Coastal settlement; port status not established | Eastern Azure coastal belt; no direct dock is assumed | Coastal location, not a confirmed port |
+| Salt Lantern Village | Coastal fishing and salt production | Local shore/boat access; no inter-power berth is assumed | Official rural village; local access only |
+| Pearl Shoal Hamlet | Shellfish, dried fish, net-making | Small coastal boat from Dongxing; landing depends on tide | Established local route |
+| Wind Sail Hamlet | Sailcloth, rigging, wind pilots | Coastal route from Lanfan; heavy goods by boat | Established local route |
+| Tideglass Hamlet | Sea glass, salt, tide observation | Small boat from Chaoguan; storms may force a detour | Established local route |
 
 ### Official Villages and Other Local Settlements
 

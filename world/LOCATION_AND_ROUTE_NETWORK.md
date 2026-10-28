@@ -58,17 +58,6 @@ The perspective maps connect the three powers through broad overland and mixed l
 
 ### 3.3 Shared Azerion Forest connections
 
-| Origin → destination | Route / waterway | Status and constraints |
-|---|---|---|
-| Dongxing Port → Cangqiong Harbor | Eastern Azure Sea → eastern open-water passage → Yunmeng Sea | Established main inter-power shipping corridor; exact duration, schedule, fare, and safe passage are not set. |
-| Yunmeng Sea → Wufeng Sea | Lantern Passage | Established sea-to-sea corridor; Wufeng Sea has no wind, waves, or currents. Specialized liquefied-energy Artificial Artifact vessels are favored; ambushes are uncommon, not impossible. |
-| Wufeng Sea → Eastern Azure Sea | Three-Lantern Passage | Established eastern connection; the route does not imply wind or currents inside Wufeng Sea. |
-| Beiming northern coast → Eastern Azure Sea | Northeastern maritime passage via Frostmirror Sea | Established broad coastal connection; do not use the Azerion labyrinth exit as a port. |
-| Yunmeng Sea → Lawless Territories → Black Tide Sea | Western/southern sea-facing approach and ordinary open water | Lawless is the nearest major organized region to Guixu Canghai. Black Tide Sea is ordinary water and separates Lawless from Guixu Canghai. |
-| Black Tide Sea → Guixu Canghai | Cross the southern outer boundary of Black Tide Sea | Guixu Canghai is beyond this boundary at the far-southern, frigid edge of the world; no direct shore-to-Guixu shortcut exists. |
-
-### 3.3 Shared Azerion Forest connections
-
 | Perspective / endpoints | Mapped corridor sequence | Mode | Status and limits |
 |---|---|---|---|
 | Tianhai Yunzhou → Lawless Territories → Azerion Forest | Western side of Tianhai's floating position / sea-facing approach → Lawless Territories → easiest known Azerion Forest entrance | Sea-side approach + wilderness | Owner-confirmed geographic relationship. No mainland landing, sea name, exact route, or travel time is assigned. Tianhai remains a floating island; no land bridge is implied. |
@@ -76,6 +65,16 @@ The perspective maps connect the three powers through broad overland and mixed l
 | Beiming Gu → Azerion Forest | Beiming northern coast → ruined/labyrinth exit on Azerion's northern deep-sea coast ← Mega Colossal Labyrinth ← ruins entrance in the central lake | Coastal approach + ruined underground route | Owner-confirmed route relationship tied to the existing canon that the labyrinth exits to the northern deep-sea coast. The interior is unmapped and hazardous; do not invent internal passages or promise safe transit. |
 
 These connections describe different sides of the same forest and are not one continuous public road. The Lawless entrance is the easiest known forest entrance; the northern coastal ruined exit is the route relevant to Beiming; the rushing river and prison island form the Golden Dragon-facing obstacle.
+
+### 3.4 Lawless regional links and unconfirmed edges
+
+| Lawless region | Established geographic relationship | Map edge that may be used | Do not infer |
+|---|---|---|---|
+| Ashen Borderlands | Outside Golden Dragon Empire's western/southwestern borders; four named villages and four associated organizations | Lawless Territories → easiest known Azerion Forest entrance; separately, Azerion's eastern boundary → rushing-river trap → small Golden Dragon prison island → imperial side | A direct road from Greyrock, Blackreed, Broken Bell, or Dust Lantern Village to the forest entrance, river, or island; a safe ford or bridge; current faction ownership |
+| Black Tide Expanse | Remote islands and sea routes outside Tianhai's direct control; four named settlements and four associated organizations | Yunmeng Sea western/southern approach → Lawless Territories → ordinary Black Tide Sea; Black Tide Sea → Guixu Canghai only after crossing its southern outer boundary | A direct harbor-to-every-island route, a universal island chain, an assumption that Black Tide Sea is cursed, or a shortcut directly from Lawless to Guixu |
+| Nine Frost Wastes | Northern wilderness outside Beiming's official defenses; four named villages and four associated organizations | Beiguan → Nine Frost Wastes → Stonegate March → Frostveil Range → Beiming Heartland | That the Wastes are a Beiming district; direct village-to-village roads; exact pass, road alignment, safe passage, distance, or duration |
+
+The three Lawless regions are separate map branches tied to different neighboring perspectives. Their presence on one map does not establish direct adjacency or a traversable route between them. Load the relevant regional modules before resolving a local trip; a missing edge remains unconfirmed, not impossible.
 
 The named outer areas retain their own jurisdictional status: Nine Frost Wastes and Lawless Territories are not absorbed into either neighboring power by appearing on a route. Azerion Forest, Black Tide Expanse, Wanluo Sacred Expanse, and the high cloud-sea mountains are shown as wider-world geographic context or optional side regions, not mandatory transit points. See [the three perspective maps](THREE_POWER_PERSPECTIVE_MAPS.md) for all three views.
 

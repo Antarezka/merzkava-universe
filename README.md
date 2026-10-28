@@ -151,7 +151,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![STABLE](assets/stable-version.svg?v=2)
 
-<sub><span style="color:#D4AF37"><strong>v2.4.105</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v3.0.16</strong></span></sub>
 
 </td>
 <td align="center">
@@ -160,7 +160,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![NIGHTLY](assets/nightly-version.svg?v=7)
 
-<sub><span style="color:#D4AF37"><strong>v2.4.121</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v3.0.16</strong></span></sub>
 
 </td>
 </tr>
@@ -170,33 +170,61 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 **THE LATEST FROM MERZKAVA**
 
-*Six recent world and system updates*
+*Three latest world and system updates*
 
 **✦ ──── ❖ ──── ✦**
 
 </div>
 
-- ✦ **Merzkava World Identity — Narrative Hard Gate**  
-  Hash: ``5bf2c15`` / ``d9f68d0`` / ``1bccfe4`` / ``3f95061`` / ``1cd8f35`` | Ver: ``Nightly-v2.4.121``  
-  Gameplay must show a concrete, context-appropriate link to Merzkava's cultivation systems, technology, economy, culture, society, ecology, or regional conditions. A generic-fantasy substitution test now requires revision when a scene lacks meaningful world identity.
+- ✦ **Stable Release — Merzkava 3.x Begins**
+  Hash: ``e2adbd4`` | Ver: ``Stable-v3.0.16`` / ``Nightly-v3.0.16``
+  Promoted the tested gameplay baseline into the 3.x release line. Major advances to 3, minor resets to 0, and 16 patch increments are carried forward from `v2.4.105` to `v2.4.121`. Stable and Nightly now agree on the canonical release snapshot.
 
-- ✦ **Player Identity — Exact-Match Bootstrap Gate**  
-  Hash: ``0cc9e84`` / ``1dc39c9`` / ``25c59cd`` | Ver: ``Nightly-v2.4.120``  
-  Integrated strict identity matching across GM authority, INDEX bootstrap, and player registry. Only exact, case-sensitive names load registered profiles; unmatched concrete names enter new-character bootstrap.
+༺━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━༻
 
-- ✦ **Patch Fix — No Fuzzy Names or Premature Menus**  
-  Hash: ``8eb2cc7`` | Ver: ``Nightly-v2.4.120``  
-  Empty/placeholder names now trigger only a brief clarification. Similar spellings and diacritic variants never resolve to an existing player; GitHub registration remains explicit-only.
+- ✦ **Narrative Continuity — Preserve the Living Scene**
+  Hash: ``621d782`` | Ver: ``Nightly-v2.4.121``
+  Tightened continuity so scenes build on verified prior events, preserve NPC agency, and avoid restarting or retroactively inventing interactions to justify new details.
 
-- ✦ **Narrative Dynamics — Mandatory Gameplay Hard Gate**  
-  Hash: ``a5e9052`` / ``b737f47`` | Ver: ``Nightly-v2.4.119``  
-  Made `templates/NARRATIVE_DYNAMICS.md` mandatory in gameplay and enforced its rules in the response template. NPC autonomy, active world development, causal consequences, player agency, canon, and persistent-state boundaries are explicit requirements; narrative depth has no fixed paragraph count.
+༺━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━༻
 
-- ✦ **Narrative Depth Without Forced Drama**  
-  Hash: ``38127a6`` / ``8b56251`` | Ver: ``Nightly-v2.4.118``  
-  Refined narrative guidance to keep scenes substantive and responsive while preserving NPC characterization. Removed fixed paragraph-count wording and clarified that calm scenes need depth without artificial conflict or filler.
+- ✦ **World Identity — Merzkava Has Its Own Texture**
+  Hash: ``14ea7f5`` | Ver: ``Nightly-v2.4.121``
+  Reinforced the requirement that gameplay meaningfully reflects Merzkava's cultivation, culture, technology, economy, ecology, or regional conditions rather than reading as interchangeable generic fantasy.
 
-- ✦ **Neutral Consequences in Dynamic Events**  
-  Hash: ``bb914a5`` | Ver: ``Nightly-v2.4.118``  
-  Clarified that world events may produce beneficial, neutral, harmful, mixed, or no meaningful outcomes. Consequences must follow context and causality rather than being manufactured as punishment or drama.
+༺━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━༻
 
+<div align="center">
+
+![ROADMAP](https://img.shields.io/badge/ROADMAP-WHAT'S_NEXT-FFFFFF?style=for-the-badge&labelColor=151515)
+
+**✦ ──── ❖ ──── ✦**
+
+</div>
+
+```text
+MERZKAVA UNIVERSE · ROADMAP
+│
+├─ World Expansion
+│  └─ New settlements across shallow-sea areas
+│     └─ Details and connections: under design
+│
+├─ Lore Development
+│  ├─ Additional world history and regional lore
+│  └─ Heaven Realm
+│
+└─ Canon Integration
+   └─ Finalize details before adding them to active canon
+```
+
+<sub>Roadmap items are planned, not yet established canon. Details will be finalized before implementation.</sub>
+
+<div align="center">
+
+༺━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━༻
+
+*The world grows when its canon is ready.*
+
+**✦ ──── ◆ ──── ✦**
+
+</div>

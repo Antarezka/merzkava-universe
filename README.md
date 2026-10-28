@@ -176,6 +176,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
+- ✦ **Lively Scene-Level NPC and World Improvisation**  
+  Hash: ``2e1983e`` | Ver: ``Nightly-v2.4.106``  
+  Updated NPC guidance so plausible temporary residents, vendors, guards, travelers, conversations, rumors, and ordinary local activity can keep scenes lively without requiring pre-existing roster entries. Major NPCs, official roles, lasting changes, and permanent world structure still require careful canon checks.
+
 - ✦ **README Visual Assets — Investigation Dossier Restyle**  
   Hash: ``dfc12b3`` | Ver: ``Nightly-v2.4.106``  
   Restyled the main header, noticeboard panels, genre tags, and Stable/Nightly badges with skewed paper, clips, evidence labels, and layered file edges. Preserved the original content order, panel placement, and Persona 4-inspired orange, black, white, yellow, and coral palette; updated image cache references.
@@ -192,10 +196,6 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 - ✦ **Gameplay Hash + Nightly Version Header**  
   Player Converse requires a seven-character Hash from the active pinned snapshot and the Nightly version from that same snapshot's `NIGHTLY_VERSION.md`. The identity line appears immediately above the Merzkava time header.
-
-- ✦ **README Release Tags: GitHub Icons and Gold Version Labels**  
-  Hash: ``6d73226`` | Ver: ``Nightly-v2.4.106``  
-  Added GitHub icons above Stable/Nightly tags and gold version labels; this presentation patch advances Nightly only.
 
 
 <div align="center">

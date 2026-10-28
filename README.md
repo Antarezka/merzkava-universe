@@ -160,7 +160,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![NIGHTLY](assets/nightly-version.svg?v=3)
 
-<sub><span style="color:#D4AF37"><strong>v2.4.108</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v2.4.109</strong></span></sub>
 
 </td>
 </tr>
@@ -176,9 +176,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
-- ✦ **Unified Maritime Map — Six Seas, Three Power Perspectives**  
-  Hash: ``c30eee5`` | Ver: ``Nightly-v2.4.108``  
-  Named the Frostmirror, Eastern Azure, Yunmeng, Wufeng, and Black Tide seas; fixed their connected routes and existing port links. Guixu Canghai now lies beyond ordinary Black Tide Sea at the world's far-southern, literally frigid edge.
+- ✦ **Unified Beast Taxonomy and Behavior**  
+  Hash: ``441f6b5`` | Ver: ``Nightly-v2.4.109``  
+  Consolidated Ordinary, Spirit, Supreme, Demonic, and Heavenly Beasts. Defined output ranges and behavioral baselines; rarity, mutation, corruption, and age remain separate traits.
 
 - ✦ **NPC & Map/Route Canon Updates**  
   Hash: ``2e1983e`` | Ver: ``Nightly-v2.4.107``  
@@ -194,9 +194,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **Mandatory NPC Identity Display and Knowledge Boundary**  
   Every NPC mention uses double backticks; unidentified NPCs display as ``npc ???`` until the player learns their identity in-world. GM Authority must then switch to the identified name.
 
-- ✦ **Unified NPC Discovery Order and Unknown-Item Labels**  
-  Regional INDEX → local NPC table → registry/official roster → canonical profile, with consistent continuity and knowledge boundaries.  
-  Unidentified items use the exact label ``*Unknown*`` **membutuhkan appraisal untuk lebih pastinya**; appraisal reveals only supported findings.
+
 
 
 

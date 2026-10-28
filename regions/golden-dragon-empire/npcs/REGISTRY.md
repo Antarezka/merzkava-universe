@@ -14,6 +14,15 @@
 | Jun Yuejin (君月瑾) | Imperial Princess; second child | Longyuan; exact residence not specified | [JUN_YUEJIN.md](JUN_YUEJIN.md) |
 | Ying Wuxin | Publicly an owner of an elite clothing pavilion; concealed criminal identity is restricted GM canon | Huanglongcheng, Longyuan; exact pavilion location unconfirmed | [NPC_YING_WUXIN.md](../../../world/NPC_YING_WUXIN.md) |
 
+## Youth circle — imperial peers, clan youth, and trade
+
+| NPC | Established role | Last-confirmed location | Canonical full profile |
+|---|---|---|---|
+| Shen Yunting | Young Shen-family member pursuing recognition on merit; exact branch and academy unconfirmed | Longyuan affiliation; current presence unconfirmed | [SHEN_YUNTING.md](SHEN_YUNTING.md) |
+| Luo Zhenkai | Heir of a merchant family; no specific guild or shop established | Longyuan affiliation; current presence unconfirmed | [LUO_ZHENKAI.md](LUO_ZHENKAI.md) |
+
+Their detailed profiles own their motivations and relationship entries. Circle ties are not proof of a prior physical meeting, and one NPC's disposition does not automatically establish the other's.
+
 ## Other officials and recurring NPCs
 
 Use the official civil-administration roster and relevant local module for officeholders not represented by a separate detailed profile here. Do not infer a current officeholder or create a conflicting profile.

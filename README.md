@@ -37,6 +37,31 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ---
 
+<div align="center">
+
+![WORLD AT A GLANCE](https://img.shields.io/badge/WORLD_AT_A_GLANCE-151515?style=for-the-badge&labelColor=FFB36B)
+
+### ✦ THE WORLD MAP OF MERZKAVA ✦
+
+*One world. Three great powers. Countless paths beyond the known horizon.*
+
+<a href="assets/Untitled77_20261029054536.png"><img src="assets/Untitled77_20261029054536.png" alt="Illustrative world map of Merzkava Universe" width="100%" /></a>
+
+<sub>Tap the map to open the full-size image.</sub>
+
+</div>
+
+> **MAP STATUS — ILLUSTRATIVE REFERENCE**  
+> This map offers a visual overview of Merzkava Universe. Some placements, boundaries, and connections may still need verification. When a visual detail conflicts with established lore, the official world and geography documents take precedence.
+
+<div align="center">
+
+[**EXPLORE THE WORLD LORE →**](world/WORLD.md) &nbsp; · &nbsp; [**OPEN MAP & REGIONS →**](world/MAP_AND_REGIONS.md)
+
+</div>
+
+---
+
 ![NOTES LEFT ON THE BOARD](https://img.shields.io/badge/NOTES_LEFT_ON_THE_BOARD-151515?style=for-the-badge&labelColor=FFB36B)
 
 <details>
@@ -170,11 +195,17 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 **THE LATEST FROM MERZKAVA**
 
-*Three latest world and system updates*
+*Recent world and system updates*
 
 ---
 
 </div>
+
+- ✦ **World Cartography — Illustrative World Map Added**
+  Hash: ``858665f`` | Ver: ``Nightly-v3.0.17`` · ``Stable-v3.0.16``
+  Added a prominent full-width world map with a full-size image link and a clear note that official geography documents remain authoritative.
+
+༺━━━━━━━━༻
 
 - ✦ **Canon Maintenance — Committee Reference and Authority Alignment**
   Hash: ``400f171`` | Ver: ``Nightly-v3.0.17`` · ``Stable-v3.0.16``

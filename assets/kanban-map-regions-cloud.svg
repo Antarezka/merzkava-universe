@@ -13,7 +13,7 @@
  C174 39 190 49 185 64 C202 58 215 69 208 82
  C200 95 183 98 168 92 C155 105 137 106 124 97
  C109 109 92 108 81 97 C67 107 49 101 44 91 C32 95 22 88 18 77 Z"
- fill="#171513" stroke="#B66D2C" stroke-width="4"/>
+ fill="#E9A64D" stroke="#7A351F" stroke-width="4"/>
  <!-- Back curls and mane ridges: broad, raised strokes instead of thin decorative squiggles. -->
  <path d="M23 63 C13 53 23 43 32 49 C39 54 34 63 28 60
  M34 34 C28 22 42 15 51 25 C58 32 51 41 44 37
@@ -21,32 +21,32 @@
  M99 31 C100 18 117 19 122 31 C126 41 116 46 109 39
  M137 45 C142 32 157 37 159 47 C161 56 151 61 145 54
  M170 64 C180 54 193 65 187 75 C183 82 174 79 176 73"
- fill="#29211A" stroke="#F0C77F" stroke-width="3"/>
+ fill="#FFD783" stroke="#A94E25" stroke-width="3"/>
  <!-- Lion-like face nested inside the cloud: brow, cheeks, muzzle and curled whisker-clouds. -->
  <path d="M69 48 C77 38 91 38 100 46 C109 37 123 41 130 51
  C138 62 131 77 121 82 C112 91 96 91 88 82 C75 79 65 64 69 48 Z"
- fill="#B66D2C" stroke="#F0C77F" stroke-width="2.8"/>
+ fill="#F4BD61" stroke="#8B3D21" stroke-width="2.8"/>
  <path d="M75 54 C82 47 89 49 94 54 C89 60 82 61 75 58 Z
  M105 54 C112 48 121 50 125 57 C118 61 111 60 105 54 Z"
- fill="#171513" stroke="#F8D99A" stroke-width="2"/>
+ fill="#5A291C" stroke="#FFE6A3" stroke-width="2"/>
  <path d="M95 60 C88 65 89 72 97 74 C105 72 106 65 100 60 Z"
  fill="#171513" stroke="#F8D99A" stroke-width="2"/>
  <path d="M81 75 C88 78 92 77 97 74 C102 78 108 78 116 74
  M83 83 C92 88 101 88 111 82"
- fill="none" stroke="#F8D99A" stroke-width="2.6"/>
+ fill="none" stroke="#FFE6A3" stroke-width="2.6"/>
  <!-- Dense cloud scrolls form the lower mane and merge into wind ribbons. -->
  <path d="M25 77 C34 63 48 67 51 77 C54 87 43 91 37 84 C34 80 39 76 43 80
  M47 89 C54 75 69 77 72 88 C75 98 62 101 57 94
  M126 91 C128 77 143 75 149 85 C155 95 144 101 138 94
  M153 88 C161 76 176 80 177 90 C177 99 166 101 162 94"
- fill="#171513" stroke="#D49A52" stroke-width="3"/>
+ fill="#F2B957" stroke="#9D4A24" stroke-width="3"/>
  <path d="M22 91 C39 105 57 100 70 96 C83 92 91 100 103 104
  C118 110 133 101 146 98 C163 94 178 103 196 95
  M34 101 C52 112 70 108 84 104 C96 101 105 108 117 112
  M160 53 C174 43 188 47 194 56 C199 64 191 70 185 65
  C181 62 185 58 189 61
  M183 82 C197 75 213 79 225 69 C220 84 207 91 191 91"
- fill="none" stroke="#B66D2C" stroke-width="3.2"/>
+ fill="none" stroke="#E28B39" stroke-width="3.2"/>
  <path d="M123 91 l8 9 -8 9 -8 -9 Z" fill="#B84D37" stroke="#F0C77F" stroke-width="2.4"/>
  <circle cx="123" cy="100" r="3.3" fill="#FFF4D8"/>
 </g>

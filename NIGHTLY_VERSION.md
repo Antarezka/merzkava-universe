@@ -1,5 +1,5 @@
 # Merzkava Universe — Nightly Version
 
-Current Nightly version: `v3.0.16`
+Current Nightly version: `v3.0.17`
 
-This file is the canonical version source for gameplay headers. Nightly currently aligns with Stable `v3.0.16` for the tested release snapshot. Future development continues on Nightly: increment the patch for each subsequent daily update (for example, `v3.0.17`) and keep this file synchronized with the exact gameplay snapshot. `README.md` is for repository presentation and pinned-source maintenance, not gameplay bootstrap.
+This file is the canonical version source for gameplay headers. Nightly `v3.0.17` records the latest canon-maintenance snapshot, including the corrected Golden Dragon Empire committee reference and clarified deputy-role status. Stable remains `v3.0.16` until a future tested promotion. Keep this value synchronized with the exact gameplay snapshot; `README.md` is for repository presentation and pinned-source maintenance, not gameplay bootstrap.

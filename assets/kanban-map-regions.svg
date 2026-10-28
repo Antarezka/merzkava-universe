@@ -15,7 +15,7 @@
 </g>
 <path d="M78 248H142" stroke="#F25C54" stroke-width="2"/>
 <g fill="#F25C54" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700">
-<text x="110" y="274">R</text><text x="110" y="293">E</text><text x="110" y="312">G</text><text x="110" y="331">I</text><text x="110" y="350">O</text><text x="110" y="369">N</text>
+<text x="110" y="260">R</text><text x="110" y="277">E</text><text x="110" y="294">G</text><text x="110" y="311">I</text><text x="110" y="328">O</text><text x="110" y="345">N</text><text x="110" y="362">S</text>
 </g>
 <circle cx="47" cy="51" r="3" fill="#FFB36B"/><circle cx="173" cy="51" r="3" fill="#FFB36B"/><circle cx="47" cy="359" r="3" fill="#FFB36B"/><circle cx="173" cy="359" r="3" fill="#FFB36B"/>
 </g></svg>

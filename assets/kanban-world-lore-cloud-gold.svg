@@ -69,14 +69,13 @@
  <path d="M94 91 l8 9 -8 9 -8 -9 Z" fill="#B84D37" stroke="#4A2A20" stroke-width="2.4"/>
  <circle cx="94" cy="100" r="3.3" fill="#FFF4D8"/>
 </g>
-<!-- One single thick chain, visibly emerging from the cloud and ending at one nail. -->
+<!-- Chain hangs only beneath the cloud, connecting its underside to the plaque nail. -->
 <g stroke-linecap="round" stroke-linejoin="round">
- <path d="M94 61 L105 133" fill="none" stroke="#080909" stroke-width="14"/>
- <path d="M91 62 L102 132" fill="none" stroke="#777" stroke-width="3"/>
+ <path d="M102 108 L105 133" fill="none" stroke="#080909" stroke-width="14"/>
+ <path d="M102 109 L102 132" fill="none" stroke="#777" stroke-width="3"/>
  <g fill="#171717" stroke="#888" stroke-width="2">
-  <ellipse cx="96" cy="75" rx="7" ry="11" transform="rotate(-8 96 75)"/>
-  <ellipse cx="98" cy="94" rx="7" ry="11" transform="rotate(8 98 94)"/>
-  <ellipse cx="101" cy="113" rx="7" ry="11" transform="rotate(-8 101 113)"/>
+  <ellipse cx="103" cy="117" rx="6" ry="8" transform="rotate(-4 103 117)"/>
+  <ellipse cx="104" cy="129" rx="6" ry="8" transform="rotate(4 104 129)"/>
  </g>
  <circle cx="105" cy="134" r="9" fill="#171717" stroke="#B66D2C" stroke-width="3"/>
  <path d="M100 130 L110 138 M110 130 L100 138" stroke="#D7B27D" stroke-width="1.5"/>

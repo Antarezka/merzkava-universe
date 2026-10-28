@@ -70,7 +70,7 @@ Use one record per event. Preserve these fields; write `???` when the source gen
 
 - Resolve the player action using the normal official mechanics first. Only then decide whether the outcome qualifies for a world event.
 - Record outcomes, not attempted intentions. Failed, partial, interrupted, or uncertain actions must be described accordingly.
-- A consequence must be proportionate to the resolved event; do not infer a whole faction's collapse from one NPC's defeat unless the established circumstances support it.
+- A consequence must be proportionate to the resolved event; do not infer a whole faction's collapse from one NPC's defeat unless the established circumstances support it. Consequences are neutral causal outcomes, not inherently punishments: record beneficial, neutral, harmful, or mixed persistent effects when supported by the resolved outcome. Do not manufacture an adverse effect merely to make an event feel important, and do not record a benefit that has not been established.
 - Event effects persist until their recorded end condition is met or a later verified event changes them.
 - Update an existing event when its state changes; create a linked new event when a distinct consequential development occurs. Do not duplicate the same event under multiple IDs.
 - Do not advance off-screen event outcomes just because turns pass unless a recorded condition, official rule, or established NPC/faction agenda supports the change.

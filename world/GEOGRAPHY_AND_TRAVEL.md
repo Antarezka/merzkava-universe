@@ -8,7 +8,7 @@
 ## 1. Major Geographic Orientation
 
 - Golden Dragon Empire lies in the eastern part of the world.
-- Tianhai Yunzhou is a giant floating island above the **unnamed southwestern ocean**. **Guixu Canghai (归墟沧海)** is the named most merciless ocean system. The Windless / Still-Water Sea, Beiming Gu's northern coastal waters, and Golden Dragon Empire's eastern coastal waters are distinct maritime areas whose official names and precise positions remain unconfirmed.
+- Tianhai Yunzhou floats above Yunmeng Sea (云梦海) in the southwest. The network also includes Frostmirror Sea (霜镜海) off Beiming Gu, Eastern Azure Sea (东青海) off Golden Dragon Empire, Wufeng Sea (无风海), ordinary Black Tide Sea around Lawless Territories, and Guixu Canghai (归墟沧海) at the far-southern polar edge.
 - Beiming Gu lies in the north.
 - Large stretches of territory, wilderness, and difficult terrain exist between these powers. They do not share one continuous, fully governed corridor.
 
@@ -20,28 +20,52 @@ The western side of Tianhai Yunzhou's floating position above the southwestern o
 
 At the Golden Dragon-facing forest boundary, a rushing river forms a trap-like barrier; a small Golden Dragon Empire prison island lies in the middle of the fast-water route. Its river name, exact crossing, and coordinates are not established. From Beiming Gu, the Azerion connection instead follows the northern coast to the ruined/labyrinth exit associated with the lake ruins and Mega Colossal Labyrinth. The labyrinth's internal geography is unknown; this is a dangerous ruined route, not a surveyed public road.
 
-## 1.2 Established Sea Phenomena and Maritime Context
+## 1.2 Established Sea Systems and Maritime Routes
 
-### Guixu Canghai (归墟沧海)
+### Frostmirror Sea (霜镜海) — Beiming northern coast
 
-Guixu Canghai is the named most merciless ocean system, not a name for every sea. It is associated with extraordinary depth, extreme pressure and currents, mega-tsunami hazards, colossal marine creatures larger than Heavenly Beast Azerion, ancient deep-sea half-beast clans, territorial sea beasts comparable to Spirit Realm 8–9 demonic rulers, cursed spirits at Spirit Realm 8 and above, and an unnamed colossal graveyard. The danger intensifies deeper into the ocean. Its exact coordinates, coastline, neighboring waters, and access routes remain unestablished.
+Frostmirror Sea is the ordinary maritime area along Beiming Gu's northern coast. Its eastern/southeastern sailing margin connects around the mainland's northeastern maritime margin to Eastern Azure Sea. The Azerion Forest ruins / Mega Colossal Labyrinth exit lies along a dangerous deep-sea stretch of the northern coast; it is a ruined exit, not a public harbor or safe maritime interchange.
 
-### Windless / Still-Water Sea (descriptive working label; official name pending)
+### Eastern Azure Sea (东青海) — Golden Dragon eastern coast
 
-The entire sea is literal still water: there is no wind, no surface wave, and no current. Do not describe ordinary drift, wind-assisted sailing, surface chop, or hidden currents within this sea unless the owner later revises the rule. The extreme silence makes travelers acutely hear their heartbeat, breathing, internal bodily sounds, and other things normally masked by ambient noise; this can severely disturb concentration and mental composure.
+Eastern Azure Sea covers the empire's eastern maritime belt. Dongxing Port is the working wharf within the established settlement of Dongxing in Xingluo, not a separate settlement. The shipping route runs Dongxing Port → Eastern Azure Sea → eastern open-water passage → Yunmeng Sea → Cangqiong Harbor.
 
-A cursed ancient Relic is embedded at the bottom of its trench. Its identity, origin, precise mechanism, and complete range of effects are unknown. Many Spirit Beasts of Tier 7 and above inhabit this sea. Spirit Realm 6+ cultivators commonly visit to train or seek a Spirit Beast candidate compatible with their Martial Soul.
+### Yunmeng Sea (云梦海) — Tianhai home waters
 
-Despite these dangers, the sea is a favored corridor for vessels using specialized Artificial Artifact propulsion powered by liquefied energy, because ambushes are uncommon there. This preference does not imply that all vessels can use the technology, that the sea is harmless, or that a vessel can safely descend into the trench. Keep this propulsion separate from conventional Qi-powered vessels and from Tianhai Yunzhou's dedicated liquefied-energy passenger aircraft.
+Yunmeng Sea is the southwestern ocean beneath and around Tianhai Yunzhou's floating island. Cangqiong Harbor is its main maritime hub. The western/southern approach leads toward Lawless Territories; the eastern open-water passage connects to Eastern Azure Sea. Tianhai's floating island is not a mainland land bridge.
 
-### Other mapped maritime areas
+### Wufeng Sea (无风海) — the Windless Sea
 
-- **Southwestern ocean:** Tianhai Yunzhou floats above this unnamed ocean. Its western sea-facing approach leads toward Lawless Territories, and the established maritime corridor connects Cangqiong Harbor with Dongxing in Xingluo, Golden Dragon Empire. Exact coastlines, sailing paths, and transitions to other waters remain unknown.
-- **Northern coastal waters of Beiming Gu:** associated with the northern shoreline. The Azerion ruins / Mega Colossal Labyrinth exit on the northern deep-sea coast is a hazardous ruined route, not a normal harbor or safe public crossing.
-- **Eastern coastal waters of Golden Dragon Empire:** associated with the empire's maritime belt and Xingluo / Dongxing, the mapped mainland departure point for the vessel corridor to Tianhai Yunzhou.
-- **Black Tide Expanse:** a Lawless region of remote islands and sea routes outside Tianhai Yunzhou's direct control. It is not a synonym for Guixu Canghai or automatically the same as the Windless / Still-Water Sea.
+The entire Wufeng Sea has no wind, waves, or currents. Its unnatural silence makes travelers acutely hear their heartbeat, breathing, and normally imperceptible bodily sounds, potentially disturbing their mental composure. A cursed ancient Relic is embedded in the bottom of its trench; its identity, origin, mechanism, and complete effects remain unknown. Many Spirit Beasts of Tier 7 and above inhabit the sea, and Spirit Realm 6+ cultivators visit to train or seek Spirit Beast candidates compatible with their Martial Soul.
 
-These maritime areas belong to the broader connected-seas framework, but their exact straits, relative positions, local ports, and route edges remain unknown until confirmed in the existing map and route records.
+Wufeng Sea connects to Yunmeng Sea through Lantern Passage and toward Eastern Azure Sea through Three-Lantern Passage. Specialized vessels using liquefied-energy Artificial Artifact propulsion favor this corridor because ambushes are uncommon. This does not mean every vessel can use the technology or that the sea/trench is safe.
+
+### Black Tide Sea and Black Tide Expanse
+
+Black Tide Sea is ordinary open water directly south of Lawless Territories and around the remote-island region called Black Tide Expanse. It forms the normal-water buffer between Lawless Territories and Guixu Canghai. Black Tide Expanse remains a Lawless maritime region outside Tianhai Yunzhou's direct control; it is not a synonym for Guixu Canghai.
+
+### Guixu Canghai (归墟沧海) — the far-southern polar ocean
+
+Guixu Canghai lies at the world's farthest southern edge beyond the southern outer boundary of ordinary Black Tide Sea. It is literally frigid; the cold becomes more severe toward the outermost southern waters. Lawless Territories are the nearest major organized region, but ordinary Black Tide Sea separates them from Guixu Canghai.
+
+Guixu Canghai is the world's most dangerous ocean system. Recorded hazards include immense depths, crushing pressure, violent currents, mega-tsunamis, colossal marine beasts larger than Heavenly Beast Azerion, ancient deep-sea half-beast clans, territorial sea beasts comparable to Spirit Realm 8–9 demonic rulers, cursed spirits at Spirit Realm 8+, and an unnamed colossal graveyard. Danger intensifies with depth and farther south. No ordinary coastal port is established inside its outermost polar reaches.
+
+### Canonical sea-route schematic
+
+```text
+Frostmirror Sea (Beiming north coast)
+  └── northeastern maritime passage ── Eastern Azure Sea (Golden Dragon east)
+                                           └── eastern open-water passage ── Yunmeng Sea
+                                                                                ├── Cangqiong Harbor / Tianhai above
+                                                                                ├── Lantern Passage ── Wufeng Sea
+                                                                                │                      └── Three-Lantern Passage ── Eastern Azure Sea
+                                                                                └── western/southern approach ── Lawless Territories
+                                                                                                                     └── ordinary Black Tide Sea
+                                                                                                                          └── southern outer boundary
+                                                                                                                               Guixu Canghai (far-southern polar ocean)
+```
+
+This is a corridor-level map, not a scaled chart. It fixes maritime sequence and broad connections but does not establish coordinates, distances, travel durations, schedules, or guaranteed safe passage.
 
 ## 2. Wild Regions and Sky Mountains
 
@@ -85,7 +109,7 @@ Use `gameplay/TIME_AND_ACTION_RULES.md` for travel-time resolution. Transport ty
 ## 6. GM Rules
 
 1. Use this module together with `world/MAP_AND_REGIONS.md`; do not invent precise coordinates or distances.
-2. Use **Guixu Canghai (归墟沧海)** only for the specifically named most merciless ocean system. Other sea names remain unconfirmed; use the descriptive labels in §1.2 without treating them as official names.
+2. Use the established sea names and corridor order in §1.2 consistently: Frostmirror Sea, Eastern Azure Sea, Yunmeng Sea, Wufeng Sea, Black Tide Sea, and Guixu Canghai.
 3. Treat higher-tier beast density in remote wilderness as a tendency, not an absolute rule.
 4. Unexplored ruins have no pre-existing complete map. Keep maps limited to surveyed areas. Hidden treasure chambers, where present, require discovery and fulfillment of their trigger conditions; entry alone never guarantees treasure.
 5. Do not treat flying ships or energy-aircraft as common household transport. Their existence depends on the specified technology, documented corridor, and passenger access.

@@ -116,3 +116,6 @@ Router regional mempertahankan detail yang sebelumnya berada di INDEX agar tidak
 Regional map sources: Golden Dragon Empire uses the relevant `world/REGION_*.md` (imperial family scenes use `world/REGION_LONGYUAN.md`); Tianhai Yunzhou uses `world/REGION_TIANHAI_YUNZHOU.md`; Beiming Gu uses `world/REGION_BEIMING_GU.md` for all seven districts.
 
 The profile establishes **who the NPC is and what is known about them**; the map establishes **local place context and candidate leads**. For presence checks, player-knowledge boundaries, and temporary NPC/activity limits, follow `templates/AUTHORITY_ORDER.md` and `world/NPC_MANAGEMENT.md`. A home, regional affiliation, or roster entry alone does not prove physical presence. Check office/faction rosters when authority or membership matters, and route/geography/time sources when travel matters. Never invent finer map details or concealed facts.
+
+| Half-beast enslavement ban, corrupt restraint abuse, and regional safety pattern | `world/PRISON_AND_BOUND_ITEMS.md`; `world/MAP_AND_REGIONS.md` |
+| Inner Azerion hidden city and Azerion Forest map relationships | `world/THREE_POWER_PERSPECTIVE_MAPS.md`; `world/WORLD_NAVIGATION_TREE.md`; `world/LOCATION_AND_ROUTE_NETWORK.md` |

@@ -1,7 +1,7 @@
 # Beiming Gu — Regional Index
 
 **Scope:** Navigation index for Beiming Gu canon and NPC references within `Antarezka/merzkava-universe`.
-**Status:** The registry contains four established major NPC profiles plus 12 clan heads and 5 dojo masters (21 canonical profiles total). This folder is inside `Antarezka/merzkava-universe`, not a separate GitHub repository.
+**Status:** The registry contains six established major/youth-circle NPC profiles plus 12 clan heads and 5 dojo masters (23 canonical profiles total). This folder is inside `Antarezka/merzkava-universe`, not a separate GitHub repository.
 
 **Connected world tree and transit:** [WORLD_NAVIGATION_TREE.md](../../world/WORLD_NAVIGATION_TREE.md) connects this regional branch to the other two major powers and lists established transit corridors. It is a navigation aid; follow the linked canon sources for details.
 
@@ -19,6 +19,8 @@
 - [Beiming Jingheng](npcs/BEIMING_JINGHENG.md)
 - [Beiming Nerva — Beiming Han's older sister; Thinker Grade 9](npcs/BEIMING_NERVA.md)
 - [Beiming Xuanyu — Beiming Clan head, Thinker Grade 9](npcs/BEIMING_XUANYU.md)
+- [Xuanbing Yue — youth circle](npcs/XUANBING_YUE.md)
+- [Cangxue Beiran — youth circle](npcs/CANGXUE_BEIRAN.md)
 
 ## Canon safeguards
 

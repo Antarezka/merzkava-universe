@@ -176,6 +176,14 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
+- ✦ **Player Identity — Exact-Match Bootstrap Gate**  
+  Hash: ``0cc9e84`` / ``1dc39c9`` / ``25c59cd`` | Ver: ``Nightly-v2.4.120``  
+  Integrated strict identity matching across GM authority, INDEX bootstrap, and player registry. Only exact, case-sensitive names load registered profiles; unmatched concrete names enter new-character bootstrap.
+
+- ✦ **Patch Fix — No Fuzzy Names or Premature Menus**  
+  Hash: ``8eb2cc7`` | Ver: ``Nightly-v2.4.120``  
+  Empty/placeholder names now trigger only a brief clarification. Similar spellings and diacritic variants never resolve to an existing player; GitHub registration remains explicit-only.
+
 - ✦ **Narrative Dynamics — Mandatory Gameplay Hard Gate**  
   Hash: ``a5e9052`` / ``b737f47`` | Ver: ``Nightly-v2.4.119``  
   Made `templates/NARRATIVE_DYNAMICS.md` mandatory in gameplay and enforced its rules in the response template. NPC autonomy, active world development, causal consequences, player agency, canon, and persistent-state boundaries are explicit requirements; narrative depth has no fixed paragraph count.
@@ -192,10 +200,3 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
   Hash: ``d53bd85`` / ``cf9ed60`` | Ver: ``Nightly-v2.4.118``  
   Made narrative standards part of the authority and gameplay workflow. Preserved canon hierarchy, player agency, NPC continuity, and valid state changes while removing fixed paragraph-count requirements.
 
-- ✦ **NPC Identity, Role Labels & Proactive Introductions**  
-  Hash: ``4fc15a3`` / ``51e5189`` / ``e81a5c7`` | Ver: ``Nightly-v2.4.118``  
-  Refined NPC naming in GM authority, aligned the gameplay template, and updated INDEX navigation. Established context is preserved; ``npc ???`` is reserved for significant unidentified people, while background NPCs use role labels and important strangers introduce themselves when natural.
-
-- ✦ **NPC Youth Circles & Relationship Continuity**  
-  Hash: ``aaa528b`` | Ver: ``Nightly-v2.4.118``  
-  Added regional youth-circle NPC profiles and synchronized relationship direction/disposition and canon boundaries. Circles stay within their own power by default; membership does not imply prior meetings, shared location, or secret knowledge.

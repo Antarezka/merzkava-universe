@@ -22,6 +22,14 @@ Regional association does not by itself prove that an organization owns or contr
 - **Small entertainment houses:** Modest houses of entertainment cater to criminals, heterodox Spirit Realm experts, travelers, and other NPCs. They are local services, not automatically elite establishments or faction headquarters. Specific names, services, fees, and staff remain unestablished until recorded.
 - **Risk and opportunity:** Lack of one central authority creates room for independent trade, unusual services, black markets, exploitation, and local protection arrangements. It does not mean every transaction is fraudulent or every encounter is hostile.
 
+## 2.1 Concealed Shadow Authority — Crimson Sovereign Court
+
+The **Crimson Sovereign Court (赤尊宫 · Chì Zūn Gōng)** is a concealed power group whose leader, **Ying Wuxin (嬴无心)**, exercises authority over the **Crimson Keel Brotherhood** from above. His canonical NPC profile is `world/NPC_YING_WUXIN.md`; the Black Tide regional context is recorded in `world/REGION_BLACK_TIDE_EXPANSE.md`.
+
+Ying Wuxin is Spirit Realm 9 — Spirit Primordial and possesses the Martial Soul **Asura — Myth**. Cold and sadistic, he deliberately hides his identity and abilities so others cannot establish his weaknesses. His shadow influence is comparable in reach to an empire, but the Court is not a fourth major power or a unified government of the Lawless Territories. The Court's exact membership, bases, territory, chain of command, and influence over individual settlements remain unknown. Do not assume all Crimson Keel cells know his identity, or that every Lawless organization is subordinate to him.
+
+His coercive **Soul Illusion** can invert a target's perception of core personality traits and emotions. A target may recognize the manipulation and try to attack or escape, only for the effect to reassert control and redirect the target into submission and displayed affection. Such outward affection is a product of forced soul/perception manipulation, not consent or proof of the victim's genuine wishes. Women held under his control must not be depicted as voluntarily devoted on the basis of manipulated behavior. The ability's precise triggers, range, costs, countermeasures, and limits remain unknown.
+
 ## 3. Established Underground Economy and Services
 
 ### 3.1 Assassin contract brokerage — Silent Maw Hall

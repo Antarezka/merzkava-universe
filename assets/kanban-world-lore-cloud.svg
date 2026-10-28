@@ -8,18 +8,40 @@
 <!-- Oversized traditional ruyi auspicious cloud: the chain begins visibly inside the cloud. -->
 <!-- Flowing ruyi cloud scrollwork: elegant tendrils and inward curls, not rounded bun-like lobes. -->
 <!-- Classic Chinese ruyi cloud: separate curling cloud heads and long wind-swept tails. -->
-<g stroke-linejoin="round" stroke-linecap="round">
- <path d="M20 55 C7 49 11 35 22 32 C31 29 38 37 36 44 C34 50 26 49 25 44 C24 40 29 38 32 41
- C29 28 39 17 51 20 C62 23 64 34 58 42 C53 48 44 45 45 39 C46 35 51 35 53 39
- C52 26 63 16 75 19 C87 22 89 35 81 43 C74 50 65 45 68 39 C70 35 75 37 75 41
- C81 32 94 31 101 39 C107 46 103 55 95 58
- C113 50 125 53 139 60 C150 65 162 63 173 56
- C161 57 155 51 158 44 C161 37 170 37 174 43 C178 49 173 56 168 58
- C181 51 192 53 201 59" fill="none" stroke="#7A4A2A" stroke-width="4"/>
- <path d="M20 55 C34 61 43 60 53 54 C66 62 80 61 92 55 C105 61 119 61 132 56" fill="none" stroke="#E8D8B5" stroke-width="7"/>
- <path d="M20 55 C34 61 43 60 53 54 C66 62 80 61 92 55 C105 61 119 61 132 56" fill="none" stroke="#B66D2C" stroke-width="2.5"/>
- <path d="M40 53 C47 47 55 48 60 53 M73 53 C80 47 87 48 92 53 M106 54 C114 49 121 51 127 56" fill="none" stroke="#B66D2C" stroke-width="2"/>
- <circle cx="94" cy="59" r="4" fill="#B84D37" stroke="#FFF4D8" stroke-width="1.5"/>
+<!-- Rebuilt from traditional ruyi/xiangyun scroll motifs: layered cloud heads, inner spirals, flowing tails, and a clear suspension point. -->
+<g transform="translate(-25 0)" stroke-linecap="round" stroke-linejoin="round">
+ <!-- Outer silhouette: three overlapping cloud heads with long trailing vapor ribbons. -->
+ <path d="M28 69
+ C15 67 11 56 18 47 C23 40 32 40 38 45
+ C35 31 45 21 57 23 C69 24 75 34 71 44
+ C76 28 88 17 102 20 C117 22 123 35 117 47
+ C126 35 139 32 150 39 C161 46 159 59 150 65
+ C164 58 178 58 190 65 C204 72 216 69 231 59
+ C222 73 207 83 190 82 C175 81 164 76 151 79
+ C138 83 126 88 111 84 C96 81 84 76 72 82
+ C57 88 43 82 38 73 C35 71 31 70 28 69 Z"
+ fill="#171513" stroke="#B66D2C" stroke-width="3.4"/>
+ <!-- Inner ruyi scrolls: gold double-lines make the ornament read as carved traditional cloudwork. -->
+ <path d="M31 62 C23 59 26 50 33 49 C39 48 43 54 39 58
+ C37 61 33 59 34 56
+ M48 47 C42 39 48 29 58 30 C68 31 70 41 64 47
+ C60 51 54 47 57 43 C59 41 62 43 61 45
+ M83 47 C75 38 82 26 94 27 C106 28 110 39 103 47
+ C98 53 90 49 93 44 C95 41 99 43 98 46
+ M126 55 C120 47 127 39 136 42 C144 44 144 52 139 55
+ C135 58 131 54 134 51 C136 50 138 52 137 53"
+ fill="none" stroke="#F0C77F" stroke-width="2.2"/>
+ <!-- Wind ribbons sweep outward; this is not a row of puffy circles. -->
+ <path d="M42 70 C58 77 70 70 80 65 C93 59 105 63 116 69
+ C129 76 141 72 153 66 C169 59 184 68 199 68
+ M53 77 C67 82 79 78 89 73 C101 68 111 73 122 77
+ C135 82 147 78 160 73
+ M167 48 C177 39 190 40 197 47 C203 53 199 60 193 60
+ C188 60 186 55 190 53 C192 52 194 54 193 56"
+ fill="none" stroke="#B66D2C" stroke-width="2.2"/>
+ <!-- Central cloud jewel and visible chain attachment. -->
+ <path d="M100 73 l6 7 -6 7 -6 -7 Z" fill="#B84D37" stroke="#F0C77F" stroke-width="2"/>
+ <circle cx="100" cy="80" r="3" fill="#FFF4D8"/>
 </g>
 <!-- One single thick chain, visibly emerging from the cloud and ending at one nail. -->
 <g stroke-linecap="round" stroke-linejoin="round">

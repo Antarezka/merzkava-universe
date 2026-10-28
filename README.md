@@ -180,19 +180,19 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
   Hash: ``e2adbd4`` | Ver: ``Stable-v3.0.16`` / ``Nightly-v3.0.16``
   Promoted the tested gameplay baseline into the 3.x release line. Major advances to 3, minor resets to 0, and 16 patch increments are carried forward from `v2.4.105` to `v2.4.121`. Stable and Nightly now agree on the canonical release snapshot.
 
----
+༺━━━━━━━━༻
 
 - ✦ **Narrative Continuity — Preserve the Living Scene**
   Hash: ``621d782`` | Ver: ``Nightly-v2.4.121``
   Tightened continuity so scenes build on verified prior events, preserve NPC agency, and avoid restarting or retroactively inventing interactions to justify new details.
 
----
+༺━━━━━━━━༻
 
 - ✦ **World Identity — Merzkava Has Its Own Texture**
   Hash: ``14ea7f5`` | Ver: ``Nightly-v2.4.121``
   Reinforced the requirement that gameplay meaningfully reflects Merzkava's cultivation, culture, technology, economy, ecology, or regional conditions rather than reading as interchangeable generic fantasy.
 
----
+༺━━━━━━━━༻
 
 <div align="center">
 

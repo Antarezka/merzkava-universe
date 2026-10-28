@@ -14,10 +14,10 @@ Owner-approved NPC profile. Concealed leader of Crimson Sovereign Court (赤尊�
 ## Two Lives — Restricted GM Canon
 
 ### Public life in the Golden Dragon Empire
-- Ying Wuxin lives in the Golden Dragon Empire under his ordinary public identity as the owner of a clothing pavilion serving elite clientele.
+- Ying Wuxin's public civilian life is based in **Huanglongcheng, Longyuan**, the Golden Dragon Empire's imperial capital. He owns a clothing pavilion serving elite clientele; the pavilion's name, exact street or district, and public business name are not established.
 - In this life, he is known as a deeply affectionate and indulgent father to his daughter, born to him and his late wife. He spoils her so much that she sometimes feels embarrassed or irritated by the attention.
-- His daughter often visits him during academy holidays. She is a friend of the imperial princess and belongs to her social circle.
-- The pavilion's name, exact city or district, his daughter's name and age, and the identity/details of the late wife are not yet established. Do not invent them.
+- His daughter is an academy student and often visits him during academy holidays. She is friends with **Princess Jun Yuejin (君月瑾), age 16**, and belongs to her social circle. Jun Yuejin's established home is Longyuan; the imperial family's exact residence is unspecified.
+- Golden Dragon Empire canon has exactly two named central boarding academies, both in Huanglongcheng: **Imperial Foundation Academy** and **Imperial Cultivation Academy**. The daughter's attendance at an academy is established, but which of these two she attends, her name and age, the pavilion's name, and the identity/details of Ying Wuxin's late wife remain unspecified. Do not invent these details or assume the daughter is the same age as Jun Yuejin.
 
 ### Private truth
 - Ying Wuxin's affection for his biological daughter is genuine. His tenderness toward her is not an act or a product of Soul Illusion.

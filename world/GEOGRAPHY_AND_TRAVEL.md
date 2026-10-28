@@ -54,6 +54,12 @@ Wufeng Sea connects to Yunmeng Sea through Lantern Passage and toward Eastern Az
 
 Black Tide Sea is ordinary open water directly south of Lawless Territories and around the remote-island region called Black Tide Expanse. It forms the normal-water buffer between Lawless Territories and Guixu Canghai. Black Tide Expanse remains a Lawless maritime region outside Tianhai Yunzhou's direct control; it is not a synonym for Guixu Canghai.
 
+### Southwake Port and Lanternhook Isles — southern Lawless access
+
+**Southwake Port (南潮港)** is the established port on the southern coast of the Lawless Territories and the nearest organized port-side access toward Guixu Canghai. In ordinary Black Tide Sea lies **Lanternhook Isles (钩灯群岛)**, a small archipelago used by pirates and other criminals for leisure and discreet commerce.
+
+The named locations are **Red Lantern Cay (红灯屿)** for bars and entertainment pavilions, **Bitterglass Isle (苦璃岛)** for independent specialist physicians and black-market powders including poisons and antidotes, and **Dicewake Isle (骰潮岛)** for gambling and private wagers. The isles remain in ordinary Black Tide Sea, not Guixu Canghai. Route sequence: Southwake Port → ordinary Black Tide Sea → Lanternhook Isles → southern outer boundary of Black Tide Sea → Guixu Canghai. Exact coordinates, local village roads, travel durations, sailing schedules, fees, and guaranteed safe passage are not established. Full details: `world/LAWLESS_SOUTHERN_PORT_AND_ISLES.md`.
+
 ### Guixu Canghai (归墟沧海) — the far-southern polar ocean
 
 Guixu Canghai lies at the world's farthest southern edge beyond the southern outer boundary of ordinary Black Tide Sea. It is literally frigid; the cold becomes more severe toward the outermost southern waters. Lawless Territories are the nearest major organized region, but ordinary Black Tide Sea separates them from Guixu Canghai.

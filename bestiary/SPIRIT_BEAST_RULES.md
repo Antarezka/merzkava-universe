@@ -29,7 +29,7 @@ Gunakan klasifikasi berikut sebagai satu sistem terpadu. Kategori utama menjelas
 
 Setelah Spirit Beast dikalahkan, Spirit Ring dapat muncul mengambang di atas tubuhnya. Kekalahan Beast tidak membuat ring otomatis berhasil diserap. Penyerapan harus diselesaikan sesuai `core/SPIRIT_RING_RULES.md`.
 
-## 1.2 Beast Age Grade — Rumus dan Tabel Kanonis
+## 1.3 Beast Age Grade — Rumus dan Tabel Kanonis
 
 **Beast Age Grade** adalah kelas kalkulasi berdasarkan umur spesimen, bukan tingkatan kekuatan/kategori Beast, bukan Spirit Realm, dan bukan tier appraisal MAA. Setelah disebut lengkap, istilah singkatnya adalah **Age Grade**. Istilah seperti Spirit Beast, Demonic Beast, dan Heavenly Beast tetap merupakan kategori/lore tersendiri. Angka 1–9 pada tabel ini hanya menunjukkan kelompok umur untuk perhitungan yang membutuhkan klasifikasi usia.
 
@@ -59,7 +59,7 @@ Makhluk yang berusia **lebih dari 15.000.000 tahun** dipandang sebagai makhluk *
 
 Age Grade juga tidak sama dengan warna Spirit Ring. Tentukan warna ring dari tabel warna resmi di `core/SPIRIT_RING_RULES.md`; tentukan Age Grade Beast dari tabel ini. Spirit Ring dari makhluk berusia 500.000 hingga 15.000.000 tahun mengikuti rentang warna yang ditetapkan di modul tersebut. Warna Spirit Ring dari makhluk Heaven Realm di atas 15.000.000 tahun belum ditetapkan dan tidak boleh ditebak.
 
-## 1.1 Estimating Hunt Danger Without Invented Odds
+## 1.4 Estimating Hunt Danger Without Invented Odds
 
 When preparing a Spirit Beast hunt, the GM should estimate danger from the evidence available rather than assign an invented universal encounter percentage or difficulty score.
 

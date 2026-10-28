@@ -18,5 +18,7 @@
 - [Shen Yuehua](npcs/SHEN_YUEHUA.md)
 - [Jun Ruiyuan](npcs/JUN_RUIYUAN.md)
 - [Jun Yuejin](npcs/JUN_YUEJIN.md)
+- [Shen Yunting — youth circle](npcs/SHEN_YUNTING.md)
+- [Luo Zhenkai — youth circle](npcs/LUO_ZHENKAI.md)
 
 Only established canon is listed. Do not infer missing abilities, personalities, officeholders, or relationships.

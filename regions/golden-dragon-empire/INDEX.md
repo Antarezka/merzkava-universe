@@ -23,3 +23,7 @@
 - [Komite Auditor Keuangan Khusus Kekaisaran](npcs/IMPERIAL_SPECIAL_FINANCIAL_AUDIT_COMMITTEE.md)
 
 Only established canon is listed. Do not infer missing abilities, personalities, officeholders, or relationships.
+
+## Institutional and faction references
+
+- [Komite Auditor Keuangan Khusus Kekaisaran](../../world/IMPERIAL_SPECIAL_FINANCIAL_AUDIT_COMMITTEE.md) — canonical organization dossier; individual personnel profiles are maintained separately when established.

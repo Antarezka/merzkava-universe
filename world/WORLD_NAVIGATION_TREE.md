@@ -38,6 +38,9 @@ MERZKAVA UNIVERSE
 │   │   ├── Baiyue → Beiguan
 │   │   │   └── Northwatch Prefecture
 │   │   └── Xingluo → Dongxing
+│   │       ├── Dongxing Port → Eastern Azure Sea → Yunmeng Sea → Cangqiong Harbor
+│   │       ├── Other Eastern Azure Sea ports: Mingzhu, Lanfan, Chaoguan, Yuhai, Yuandeng, Longchao
+│   │       └── Local coastal transfers: Dongxing → Pearl Shoal Hamlet; Lanfan → Wind Sail Hamlet; Chaoguan → Tideglass Hamlet
 │   │       └── Eastern Star Prefecture
 │   ├── Six county circuits (cross-prefecture service layer)
 │   │   ├── Imperial Heartland Circuit → Huanglong + Jade Seal

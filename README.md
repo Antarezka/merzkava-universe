@@ -200,12 +200,6 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
   Hash: ``dfc12b3`` | Ver: ``Nightly-v2.4.106``  
   Restyled the main header, noticeboard panels, genre tags, and Stable/Nightly badges with skewed paper, clips, evidence labels, and layered file edges. Preserved the original content order, panel placement, and Persona 4-inspired orange, black, white, yellow, and coral palette; updated image cache references.
 
-- ✦ **Regional Canon Load Path and Cross-Reference Validation**  
-  Regional scenes must follow the canon router, load relevant local authorities, and reconcile conflicts through the binding precedence rules.
-
-- ✦ **Mandatory NPC Identity Display and Knowledge Boundary**  
-  Every NPC mention uses double backticks; unidentified NPCs display as ``npc ???`` until the player learns their identity in-world. GM Authority must then switch to the identified name.
-
 
 
 

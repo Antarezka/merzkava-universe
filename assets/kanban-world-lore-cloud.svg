@@ -7,12 +7,19 @@
 </defs>
 <!-- Oversized traditional ruyi auspicious cloud: the chain begins visibly inside the cloud. -->
 <!-- Flowing ruyi cloud scrollwork: elegant tendrils and inward curls, not rounded bun-like lobes. -->
+<!-- Classic Chinese ruyi cloud: separate curling cloud heads and long wind-swept tails. -->
 <g stroke-linejoin="round" stroke-linecap="round">
- <path d="M18 57 C8 52 10 40 20 35 C27 31 35 34 39 41 C33 30 40 19 51 20 C59 20 64 26 65 34 C63 19 74 9 86 13 C96 16 99 25 96 34 C103 22 116 20 124 28 C130 34 128 43 122 49 C135 43 145 47 148 56 C154 47 163 43 171 47 C182 52 179 64 168 66 C156 69 145 62 137 59 C123 65 110 62 99 58 C86 65 73 63 61 58 C49 65 34 66 25 61 C21 60 19 59 18 57 Z" fill="#E8D8B5" stroke="#7A4A2A" stroke-width="3.5"/>
- <path d="M21 48 C30 38 40 43 42 51 C36 43 39 34 47 32 C55 30 62 39 59 47 C54 39 58 29 67 27 C77 25 83 36 77 44 C72 36 78 25 88 25 C98 25 102 36 95 44 C91 35 100 28 109 32 C118 36 117 46 109 51 C120 46 131 49 137 57 C144 46 156 43 165 51" fill="none" stroke="#B66D2C" stroke-width="3"/>
- <path d="M35 57 C48 49 57 54 63 60 M70 58 C82 49 93 51 100 58 M109 58 C119 52 127 53 137 59" fill="none" stroke="#B66D2C" stroke-width="1.8"/>
- <path d="M17 35 C10 27 16 18 25 20 C32 22 31 30 25 33 M146 45 C150 34 163 31 169 39 C174 46 167 52 161 49" fill="none" stroke="#7A4A2A" stroke-width="2.5"/>
- <circle cx="94" cy="60" r="4" fill="#B84D37" stroke="#FFF4D8" stroke-width="1.5"/>
+ <path d="M20 55 C7 49 11 35 22 32 C31 29 38 37 36 44 C34 50 26 49 25 44 C24 40 29 38 32 41
+ C29 28 39 17 51 20 C62 23 64 34 58 42 C53 48 44 45 45 39 C46 35 51 35 53 39
+ C52 26 63 16 75 19 C87 22 89 35 81 43 C74 50 65 45 68 39 C70 35 75 37 75 41
+ C81 32 94 31 101 39 C107 46 103 55 95 58
+ C113 50 125 53 139 60 C150 65 162 63 173 56
+ C161 57 155 51 158 44 C161 37 170 37 174 43 C178 49 173 56 168 58
+ C181 51 192 53 201 59" fill="none" stroke="#7A4A2A" stroke-width="4"/>
+ <path d="M20 55 C34 61 43 60 53 54 C66 62 80 61 92 55 C105 61 119 61 132 56" fill="none" stroke="#E8D8B5" stroke-width="7"/>
+ <path d="M20 55 C34 61 43 60 53 54 C66 62 80 61 92 55 C105 61 119 61 132 56" fill="none" stroke="#B66D2C" stroke-width="2.5"/>
+ <path d="M40 53 C47 47 55 48 60 53 M73 53 C80 47 87 48 92 53 M106 54 C114 49 121 51 127 56" fill="none" stroke="#B66D2C" stroke-width="2"/>
+ <circle cx="94" cy="59" r="4" fill="#B84D37" stroke="#FFF4D8" stroke-width="1.5"/>
 </g>
 <!-- One single thick chain, visibly emerging from the cloud and ending at one nail. -->
 <g stroke-linecap="round" stroke-linejoin="round">

@@ -54,14 +54,14 @@ These descriptions are areas of influence, not proof that every clan member shar
 ## 2A. Imperial Special Financial Audit Committee
 
 **Official name:** Komite Auditor Keuangan Khusus Kekaisaran  
-**Type:** Specialized financial-audit institution of the Golden Dragon Empire.  
+**Type:** Specialized internal oversight and inspection committee of the Golden Dragon Empire, established to supervise ministries and subordinate government bodies. Financial audit is one part of its remit, not its sole purpose.  
 **Canonical institutional dossier:** [Imperial Special Financial Audit Committee](../regions/golden-dragon-empire/npcs/IMPERIAL_SPECIAL_FINANCIAL_AUDIT_COMMITTEE.md).
 
 The committee's head is established as clean and honest. The integrity of the deputy and lower-ranking personnel is unknown. Corrupt practices or evidence manipulation are possible concerns, but no such act is confirmed merely by this possibility. Do not presume every member is corrupt, and do not treat the head's integrity as proof that every subordinate is clean.
 
 Luca's family was accused, their assets were confiscated, and their rights were revoked in the character's established background. Luca believes his father was framed. The committee's exact role in the case, the charges, the evidence, and the identity of any responsible person have not been established. Keep suspicion, belief, and verified evidence separate; do not invent a conspiracy or a culprit.
 
-The committee's precise statutory authority, office location, named officials, internal structure, case procedures, and current assignments remain unestablished. Refer to the linked dossier and the Golden Dragon Empire NPC registry for navigation; do not invent officials or active deployments.
+The committee's remit is internal oversight across imperial ministries and the institutions beneath them. Its broad purpose includes examining administrative misconduct, abuse of office, irregular public finance, and allegations involving tampered records or evidence. These are general oversight functions, not proof that the committee has a particular power to prosecute, sentence, or independently overrule the courts. Its precise statutory authority, office location, named officials, internal structure, case procedures, and current assignments remain unestablished. Refer to the linked dossier and the Golden Dragon Empire NPC registry for navigation; do not invent officials or active deployments.
 
 ## 3. Golden Dragon Empire Dojos
 

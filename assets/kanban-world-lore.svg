@@ -20,10 +20,10 @@
   <ellipse cx="89" cy="46" rx="7" ry="11" transform="rotate(18 89 46)"/>
   <ellipse cx="94" cy="57" rx="7" ry="11" transform="rotate(18 94 57)"/>
   <ellipse cx="99" cy="68" rx="7" ry="11" transform="rotate(18 99 68)"/>
-  <ellipse cx="103" cy="77" rx="7" ry="11" transform="rotate(18 103 77)"/>
+  <ellipse cx="102" cy="68" rx="7" ry="11" transform="rotate(18 102 68)"/>
  </g>
- <circle cx="103" cy="89" r="8" fill="#171717" stroke="#B66D2C" stroke-width="3"/>
- <path d="M99 86 L107 92 M107 86 L99 92" stroke="#D7B27D" stroke-width="1.5"/>
+ <circle cx="103" cy="78" r="8" fill="#171717" stroke="#B66D2C" stroke-width="3"/>
+ <path d="M99 75 L107 81 M107 75 L99 81" stroke="#D7B27D" stroke-width="1.5"/>
 </g>
 <g transform="rotate(-2 105 270)" filter="url(#shadow)">
  <path d="M27 79 L178 74 L187 424 L36 429 Z" fill="url(#iron)" stroke="#050505" stroke-width="4"/>

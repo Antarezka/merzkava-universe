@@ -46,6 +46,9 @@
     │      ══ Stonegate March ━ Frostveil Range ━ Beiming Heartland
     │      → Beiming Gu
     └─ XINGLUO ─ Dongxing
+       ├─ Dongxing Port → Eastern Azure Sea → Yunmeng Sea → Cangqiong Harbor
+       ├─ Other Eastern Azure Sea ports: Mingzhu, Lanfan, Chaoguan, Yuhai, Yuandeng, Longchao
+       ├─ Coastal transfers: Pearl Shoal Hamlet ← Dongxing; Wind Sail Hamlet ← Lanfan; Tideglass Hamlet ← Chaoguan
        ├─ Eastern Star Prefecture / Salt Lantern Village
        ├─ Frontier–Maritime Relay ━ Beiguan
        └─ Azerion Forest frontier
@@ -71,8 +74,9 @@
 
 ### Golden Dragon perspective — maritime layer
 
-- **Eastern Azure Sea (东青海):** the empire's eastern coastal waters. Dongxing Port is the wharf within Dongxing, Xingluo, and the departure point for the established vessel corridor to Cangqiong Harbor.
+- **Eastern Azure Sea (东青海):** the empire's eastern coastal waters. Dongxing Port is the primary inter-power wharf within Dongxing, Xingluo; Mingzhu, Lanfan, Chaoguan, Yuhai, Yuandeng, and Longchao are established ports on the same maritime belt.
 - **Route to Tianhai:** Dongxing Port → Eastern Azure Sea → eastern open-water passage → Yunmeng Sea → Cangqiong Harbor. This ordinary shipping corridor does not require passage through Wufeng Sea.
+- **Local coastal links:** Dongxing → Pearl Shoal Hamlet by small coastal boat; Lanfan → Wind Sail Hamlet by coastal route; Chaoguan → Tideglass Hamlet by small boat. Weather and tides can alter or suspend these local services. Yanfeng is a coastal settlement, but no port status is assumed.
 - **Wufeng Sea (无风海):** reached from Yunmeng Sea through Lantern Passage and linked toward Eastern Azure Sea through Three-Lantern Passage. It has no wind, waves, or currents; specialized liquefied-energy Artificial Artifact vessels are favored because ambushes are uncommon.
 - **Southern waters:** ordinary Black Tide Sea lies beyond the Lawless-facing approach. Guixu Canghai lies farther south beyond Black Tide Sea's outer boundary, not beside the empire's coast.
 - Tianhai's sea-facing approach toward Lawless remains distinct from the Golden Dragon-facing Azerion river trap and prison-island boundary.

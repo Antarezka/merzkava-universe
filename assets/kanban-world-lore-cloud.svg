@@ -6,11 +6,13 @@
  <filter id="shadow" x="-30%" y="-20%" width="170%" height="160%"><feDropShadow dx="2" dy="7" stdDeviation="5" flood-color="#151515" flood-opacity=".34"/></filter>
 </defs>
 <!-- Oversized traditional ruyi auspicious cloud: the chain begins visibly inside the cloud. -->
+<!-- Flowing ruyi cloud scrollwork: elegant tendrils and inward curls, not rounded bun-like lobes. -->
 <g stroke-linejoin="round" stroke-linecap="round">
- <path d="M25 57 C10 55 8 42 17 32 C25 22 39 25 47 34 C44 17 59 7 73 17 C83 2 104 5 111 22 C124 7 146 14 149 32 C165 25 180 37 174 51 C169 62 151 64 139 58 L59 58 C46 67 32 65 25 57 Z" fill="#E8D8B5" stroke="#7A4A2A" stroke-width="4"/>
- <path d="M19 44 C29 33 41 37 47 47 C47 29 64 23 75 39 C84 20 103 24 111 41 C123 23 142 30 146 45 C156 39 165 43 169 50" fill="none" stroke="#B66D2C" stroke-width="3.5"/>
- <path d="M48 57 C60 49 73 54 81 59 M105 58 C117 50 130 53 139 59" fill="none" stroke="#B66D2C" stroke-width="2"/>
- <circle cx="94" cy="59" r="4" fill="#B84D37" stroke="#FFF4D8" stroke-width="1.5"/>
+ <path d="M18 57 C8 52 10 40 20 35 C27 31 35 34 39 41 C33 30 40 19 51 20 C59 20 64 26 65 34 C63 19 74 9 86 13 C96 16 99 25 96 34 C103 22 116 20 124 28 C130 34 128 43 122 49 C135 43 145 47 148 56 C154 47 163 43 171 47 C182 52 179 64 168 66 C156 69 145 62 137 59 C123 65 110 62 99 58 C86 65 73 63 61 58 C49 65 34 66 25 61 C21 60 19 59 18 57 Z" fill="#E8D8B5" stroke="#7A4A2A" stroke-width="3.5"/>
+ <path d="M21 48 C30 38 40 43 42 51 C36 43 39 34 47 32 C55 30 62 39 59 47 C54 39 58 29 67 27 C77 25 83 36 77 44 C72 36 78 25 88 25 C98 25 102 36 95 44 C91 35 100 28 109 32 C118 36 117 46 109 51 C120 46 131 49 137 57 C144 46 156 43 165 51" fill="none" stroke="#B66D2C" stroke-width="3"/>
+ <path d="M35 57 C48 49 57 54 63 60 M70 58 C82 49 93 51 100 58 M109 58 C119 52 127 53 137 59" fill="none" stroke="#B66D2C" stroke-width="1.8"/>
+ <path d="M17 35 C10 27 16 18 25 20 C32 22 31 30 25 33 M146 45 C150 34 163 31 169 39 C174 46 167 52 161 49" fill="none" stroke="#7A4A2A" stroke-width="2.5"/>
+ <circle cx="94" cy="60" r="4" fill="#B84D37" stroke="#FFF4D8" stroke-width="1.5"/>
 </g>
 <!-- One single thick chain, visibly emerging from the cloud and ending at one nail. -->
 <g stroke-linecap="round" stroke-linejoin="round">

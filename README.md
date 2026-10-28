@@ -228,3 +228,43 @@ MERZKAVA UNIVERSE · ROADMAP
 ---
 
 </div>
+
+<div align="center">
+
+**✧ ── ✦ ── ❖ ── ✦ ── ✧**
+
+</div>
+
+<div align="center">
+
+![LOOK CLOSER](https://img.shields.io/badge/LOOK_CLOSER-151515?style=for-the-badge&labelColor=FFB36B)
+![FOLLOW THE TRAIL](https://img.shields.io/badge/FOLLOW_THE_TRAIL-151515?style=for-the-badge&labelColor=FFE066)
+![OPEN THE ARCHIVE](https://img.shields.io/badge/OPEN_THE_ARCHIVE-FFFFFF?style=for-the-badge&labelColor=F25C54)
+
+### YOUR NEXT LEAD
+
+[**OPEN THE INDEX →**](INDEX.md) &nbsp; · &nbsp; [**ENTER THE WORLD ARCHIVE →**](world/WORLD.md)
+
+<sub>The board introduces the world. The archive holds its deeper lore, geography, factions, and systems.</sub>
+
+<sub><span style="color:#555555">HOW TO PLAY?</span></sub>
+
+<sub><span style="color:#555555">🝰 Reach Authority_Phantom</span></sub>
+
+<img src="assets/authority-phantom.svg?v=3" alt="Discord icon — 🝰 Reach Authority_Phantom" width="210" />
+
+### READY TO STEP INTO MERZKAVA?
+
+*Come discover the world, make your choices, and see where your story leads. Having fun? Bring your friends and family along—every new player brings another story to the world.*
+
+**SHARE THE ADVENTURE** &nbsp; <a href="https://github.com/Antarezka/merzkava-universe">Explore Merzkava Universe</a> &nbsp; <a href="https://github.com/Antarezka/merzkava-universe"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="22" alt="GitHub repository" /></a>
+
+---
+
+**INVESTIGATION FILE // MERZKAVA UNIVERSE**
+
+<sub>LIGHT ORANGE EDITION · ORANGE + BLACK · WHITE PAPER · YELLOW + CORAL ACCENTS</sub>
+
+*Cultivate. Create. Explore. Choose—and live with what follows.*
+
+</div>

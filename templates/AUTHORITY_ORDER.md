@@ -74,7 +74,7 @@ Sebelum setiap percobaan penyerapan atau breakthrough, periksa `core/SPIRIT_RING
 
 - Mortal hanya dapat menyerap ring pertama setelah Martial Soul Awakening dan bila ring tersedia melalui proses sah.
 - Untuk ring berikutnya, semua syarat berlaku terpisah: bottleneck/Sync, `Day left = 0`, jeda minimum, item wajib, ring tersedia, toleransi tubuh, dan ketentuan resmi lain.
-- Status dan field mengikuti pemetaan kanonis `templates/CHARACTER_PROFILE_TEMPLATE.md` secara persis. Untuk Mortal yang belum menjalani Awakening, formatnya wajib `Spirit Ring Absorption: not eligible yet | ??? Day left`—bukan `Tidak ada | 0 Day left`. Rumus `Day left` hanya dari Time Rules; interval minimum hanya dari Spirit Beast Rules.
+- Status dan field mengikuti pemetaan kanonis `templates/CHARACTER_PROFILE_TEMPLATE.md` secara persis. Format token status sebagai label klasifikasi ``*<status>*``. Untuk Mortal yang belum menjalani Awakening, formatnya wajib `Spirit Ring Absorption: ``*not eligible yet*`` | ??? Day left`—bukan `Tidak ada | 0 Day left`. Rumus `Day left` hanya dari Time Rules; interval minimum hanya dari Spirit Beast Rules.
 - Kultivasi tidak mengurangi `Day left`. Status eligible bukan jaminan ring tersedia atau penyerapan berhasil.
 - Jika belum eligible, jangan memberi ring, slot, Qi, atau kenaikan Spirit Realm. Jika karakter memaksakan proses, gunakan hanya konsekuensi yang didukung rumus resmi; jangan mengarang angka, cedera, atau cacat permanen.
 
@@ -115,7 +115,7 @@ Gunakan `core/MARTIAL_SOUL_AWAKENING.md` untuk rarity, undian, kualitas inheren,
 ## 5. Waktu, perjalanan, dan batas state
 
 - Waktu dan durasi hanya dari Time Rules; jangan menghitung interval yang sama dua kali. Setiap interval terjaga harus punya satu kategori aktivitas dan diselesaikan menurut Hunger and Metabolism.
-- Setiap aktivitas terbaru menyebut Satiety aktual atau menjelaskan mengapa nilainya tidak berubah. Tidur malam yang dilindungi mengikuti Hunger and Metabolism.
+- Setiap aktivitas terbaru menyebut Satiety aktual atau menjelaskan mengapa nilainya tidak berubah. Hitung dari state terakhir yang terverifikasi dan semua interval terjaga; jangan menganggap 100/100 tanpa sebab sah atau membiarkan sifat kualitatif seperti 'jarang lapar' membatalkan pengurangan numerik. Tidur malam yang dilindungi mengikuti Hunger and Metabolism.
 - HP dan injury adalah state terpisah. Jangan menghapus luka, racun, kerusakan equipment, utang, atau konsekuensi tanpa pemulihan sah.
 - Perjalanan harus memverifikasi rute melalui `world/LOCATION_AND_ROUTE_NETWORK.md`, wilayah asal/tujuan, dan `world/GEOGRAPHY_AND_TRAVEL.md`. Jangan menganggap semua lokasi terhubung langsung.
 - Untuk setiap segmen rute terkonfirmasi di luar permukiman, jalankan `gameplay/TRAVEL_ENCOUNTER_AMBUSH_RESCUE.md`. General Encounter dan Ambush terpisah; encounter tidak otomatis hostile dan segmen yang sama tidak boleh di-reroll.
@@ -134,7 +134,7 @@ Setiap respons gameplay, termasuk giliran pertama, recall, dialog singkat, dan g
 
 `LEDGER LOG` boleh tidak ditampilkan hanya jika tidak ada perubahan state yang memenuhi aturan ledger. Pengecualian ini tidak berlaku pada bagan profil atau bagian visual lain. Jangan mengganti bagan dengan ringkasan inline, tabel, daftar, atau narasi saja. Isi semua field dari state yang berlaku; jika belum diketahui, gunakan default resmi dari `templates/CHARACTER_PROFILE_TEMPLATE.md` tanpa menghapus field.
 
-Sebelum mengirim, lakukan pemeriksaan akhir: (1) identitas Hash/Ver akurat dan tampil sebelum header waktu; (2) header waktu lengkap; (2) semua bagan dan field muncul dalam urutan template; (3) `Spirit Ring Absorption` cocok tepat dengan status tahap kanonis dan selalu memakai `status | Day left`; untuk Mortal tanpa Awakening, gunakan `not eligible yet | ??? Day left`; (4) Wallet memakai urutan denominasi persis `xc | xs | xg | zj | az` dengan nominal yang sama seperti state sumber—jangan mengurutkan berdasarkan nilai atau menyalin urutan keliru dari respons sebelumnya; (5) footer ada dan tepat; (6) sumber world yang dipanggil telah ditelusuri ke dependensi canon relevan; (7) tidak ada rahasia GM yang ditulis sebagai pengetahuan karakter. Jika satu syarat gagal, susun ulang respons sebelum mengirim.
+Sebelum mengirim, lakukan pemeriksaan akhir: (1) identitas Hash/Ver akurat dan tampil sebelum header waktu; (2) header waktu lengkap; (2) semua bagan dan field muncul dalam urutan template; (3) `Spirit Ring Absorption` cocok tepat dengan status tahap kanonis dan selalu memakai ` ``*status*`` | Day left` dengan token status diformat sebagai label klasifikasi; untuk Mortal tanpa Awakening, gunakan ``*not eligible yet*`` | ??? Day left; (4) Wallet memakai urutan denominasi persis `xc | xs | xg | zj | az` dengan nominal yang sama seperti state sumber—jangan mengurutkan berdasarkan nilai atau menyalin urutan keliru dari respons sebelumnya; (5) footer ada dan tepat; (6) sumber world yang dipanggil telah ditelusuri ke dependensi canon relevan; (7) tidak ada rahasia GM yang ditulis sebagai pengetahuan karakter. Jika satu syarat gagal, susun ulang respons sebelum mengirim.
 
 Footer kanonis berakhir dengan:
 

@@ -94,6 +94,16 @@ Iron shackles, ropes, locked stocks, manacles, cages, weighted chains, and other
 
 Ancient Artifacts and Relics may be used as restraints if a specific example is established, but their origin category alone does not prove any binding function.
 
+## 3A. Abuse of restraints against half-beasts
+
+Bound items are also a known instrument of exploitation. Corrupt elites, officials, wealthy patrons, and criminal operators may misuse Martial Soul suppression chains, ornamental collars, physical-suppression chains, boundary seals, or other restraints to capture and enslave half-beasts.
+
+**The three major powers—Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu—prohibit the enslavement of half-beasts.** This legal prohibition does not mean abuse has disappeared: corrupt actors may conceal captives, falsify custody records, disguise restraints as jewelry, or exploit weak enforcement. Such abuse is especially common in the Lawless Territories, where no single authority consistently enforces the three powers' laws and coercive markets can thrive.
+
+As a result, half-beasts are rarely seen openly in Lawless Territories unless they are powerful enough to defend themselves, evade capture, or make would-be captors think twice. This is a broad regional pattern, not an absolute rule: hidden captives, escaped victims, protected residents, and weaker half-beasts may still exist. A half-beast's presence or absence does not by itself establish their history, strength, or legal status.
+
+These facts do not make every restraint a slave device or every holder an enslaver. The item's function, the captor's conduct, and the individual's circumstances must be established separately.
+
 ## 4. Detainee population and custody status
 
 Prisons can hold people with very different backgrounds, and the alleged offense does not determine the truth of the charge.

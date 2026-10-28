@@ -158,9 +158,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" alt="GitHub" />
 
-![NIGHTLY](assets/nightly-version.svg?v=4)
+![NIGHTLY](assets/nightly-version.svg?v=5)
 
-<sub><span style="color:#D4AF37"><strong>v2.4.110</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v2.4.111</strong></span></sub>
 
 </td>
 </tr>
@@ -175,6 +175,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 **✦ ──── ❖ ──── ✦**
 
 </div>
+
+- ✦ **Lawless Southern Port & Lanternhook Isles**  
+  Hash: ``a93c03d`` | Ver: ``Nightly-v2.4.111``  
+  Established Southwake Port on the southern Lawless coast and Lanternhook Isles in ordinary Black Tide Sea, with named leisure, black-market medicine, and gambling locations. Connected the route toward Guixu Canghai while preserving the intervening sea boundary and marking unknown travel details.
 
 - ✦ **Lawless Territories — Three-Power Map Integration**  
   Hash: ``0e150eb`` | Ver: ``Nightly-v2.4.110``  

@@ -1,7 +1,7 @@
 # Merzkava Universe — Spirit Beast Rules
 
 Status: Modul mekanik resmi.
-Cakupan: kategori Beast, Spirit Beast, Demonic Beast, Heavenly Beast, perilaku, persyaratan penyerapan Spirit Ring, dan item khusus.
+Cakupan: Ordinary Beast, Spirit Beast, Supreme Beast, Demonic Beast, Heavenly Beast, sifat tambahan, perilaku, persyaratan penyerapan Spirit Ring, dan item khusus.
 
 ## 1. Kategori, Klasifikasi, dan Perilaku Beast
 

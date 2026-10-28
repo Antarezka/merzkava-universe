@@ -68,7 +68,7 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for named NPC profiles. Do not reveal hi
 
 | Name / public identity | Location | Role | Public traits | Profile link / source |
 |---|---|---|---|---|
-| Belum ditetapkan | — | — | — | — |
+| Identity concealed; GM canon name Ying Wuxin | Concealed; exact whereabouts unknown | Hidden leader of Crimson Sovereign Court; shadow authority over Crimson Keel Brotherhood | Cold, sadistic; Spirit Realm Primordial; Martial Soul Asura — Myth. Identity and ability details are restricted in-world knowledge. | `world/NPC_YING_WUXIN.md` |
 
 ## 9. Current Situations and Events
 - Local conflicts: Belum ditetapkan

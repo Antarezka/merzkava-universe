@@ -8,7 +8,7 @@
 ## 1. Major Geographic Orientation
 
 - Golden Dragon Empire lies in the eastern part of the world.
-- Tianhai Yunzhou is a giant floating island above the southwestern ocean. The names of the surrounding seas and oceans remain `???` until officially named.
+- Tianhai Yunzhou is a giant floating island above the **unnamed southwestern ocean**. **Guixu Canghai (归墟沧海)** is the named most merciless ocean system. The Windless / Still-Water Sea, Beiming Gu's northern coastal waters, and Golden Dragon Empire's eastern coastal waters are distinct maritime areas whose official names and precise positions remain unconfirmed.
 - Beiming Gu lies in the north.
 - Large stretches of territory, wilderness, and difficult terrain exist between these powers. They do not share one continuous, fully governed corridor.
 
@@ -19,6 +19,29 @@ This is a relative geographic framework, not a scaled map. Exact coordinates, di
 The western side of Tianhai Yunzhou's floating position above the southwestern ocean faces a sea-side approach toward the Lawless Territories. The easiest known entrance to Azerion Forest lies in the Lawless Territories, and the forest extends onward into Golden Dragon Empire territory.
 
 At the Golden Dragon-facing forest boundary, a rushing river forms a trap-like barrier; a small Golden Dragon Empire prison island lies in the middle of the fast-water route. Its river name, exact crossing, and coordinates are not established. From Beiming Gu, the Azerion connection instead follows the northern coast to the ruined/labyrinth exit associated with the lake ruins and Mega Colossal Labyrinth. The labyrinth's internal geography is unknown; this is a dangerous ruined route, not a surveyed public road.
+
+## 1.2 Established Sea Phenomena and Maritime Context
+
+### Guixu Canghai (归墟沧海)
+
+Guixu Canghai is the named most merciless ocean system, not a name for every sea. It is associated with extraordinary depth, extreme pressure and currents, mega-tsunami hazards, colossal marine creatures larger than Heavenly Beast Azerion, ancient deep-sea half-beast clans, territorial sea beasts comparable to Spirit Realm 8–9 demonic rulers, cursed spirits at Spirit Realm 8 and above, and an unnamed colossal graveyard. The danger intensifies deeper into the ocean. Its exact coordinates, coastline, neighboring waters, and access routes remain unestablished.
+
+### Windless / Still-Water Sea (descriptive working label; official name pending)
+
+The entire sea is literal still water: there is no wind, no surface wave, and no current. Do not describe ordinary drift, wind-assisted sailing, surface chop, or hidden currents within this sea unless the owner later revises the rule. The extreme silence makes travelers acutely hear their heartbeat, breathing, internal bodily sounds, and other things normally masked by ambient noise; this can severely disturb concentration and mental composure.
+
+A cursed ancient Relic is embedded at the bottom of its trench. Its identity, origin, precise mechanism, and complete range of effects are unknown. Many Spirit Beasts of Tier 7 and above inhabit this sea. Spirit Realm 6+ cultivators commonly visit to train or seek a Spirit Beast candidate compatible with their Martial Soul.
+
+Despite these dangers, the sea is a favored corridor for vessels using specialized Artificial Artifact propulsion powered by liquefied energy, because ambushes are uncommon there. This preference does not imply that all vessels can use the technology, that the sea is harmless, or that a vessel can safely descend into the trench. Keep this propulsion separate from conventional Qi-powered vessels and from Tianhai Yunzhou's dedicated liquefied-energy passenger aircraft.
+
+### Other mapped maritime areas
+
+- **Southwestern ocean:** Tianhai Yunzhou floats above this unnamed ocean. Its western sea-facing approach leads toward Lawless Territories, and the established maritime corridor connects Cangqiong Harbor with Dongxing in Xingluo, Golden Dragon Empire. Exact coastlines, sailing paths, and transitions to other waters remain unknown.
+- **Northern coastal waters of Beiming Gu:** associated with the northern shoreline. The Azerion ruins / Mega Colossal Labyrinth exit on the northern deep-sea coast is a hazardous ruined route, not a normal harbor or safe public crossing.
+- **Eastern coastal waters of Golden Dragon Empire:** associated with the empire's maritime belt and Xingluo / Dongxing, the mapped mainland departure point for the vessel corridor to Tianhai Yunzhou.
+- **Black Tide Expanse:** a Lawless region of remote islands and sea routes outside Tianhai Yunzhou's direct control. It is not a synonym for Guixu Canghai or automatically the same as the Windless / Still-Water Sea.
+
+These maritime areas belong to the broader connected-seas framework, but their exact straits, relative positions, local ports, and route edges remain unknown until confirmed in the existing map and route records.
 
 ## 2. Wild Regions and Sky Mountains
 
@@ -62,7 +85,7 @@ Use `gameplay/TIME_AND_ACTION_RULES.md` for travel-time resolution. Transport ty
 ## 6. GM Rules
 
 1. Use this module together with `world/MAP_AND_REGIONS.md`; do not invent precise coordinates or distances.
-2. Keep sea names `???` until the world owner names them.
+2. Use **Guixu Canghai (归墟沧海)** only for the specifically named most merciless ocean system. Other sea names remain unconfirmed; use the descriptive labels in §1.2 without treating them as official names.
 3. Treat higher-tier beast density in remote wilderness as a tendency, not an absolute rule.
 4. Unexplored ruins have no pre-existing complete map. Keep maps limited to surveyed areas. Hidden treasure chambers, where present, require discovery and fulfillment of their trigger conditions; entry alone never guarantees treasure.
 5. Do not treat flying ships or energy-aircraft as common household transport. Their existence depends on the specified technology, documented corridor, and passenger access.

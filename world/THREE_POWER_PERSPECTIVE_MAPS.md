@@ -3,7 +3,7 @@
 **Purpose:** Three matching route-line maps, one from each major power's perspective, showing internal regional structure, land corridors, mixed land/river/sea journeys, wilderness crossings, and the three established air corridors.
 **Map status:** Owner-requested connected geographic framework. This is a relative schematic, not a scale map; it does not define coordinates, distances, journey times, or exact borders.
 **Route status:** Existing confirmed connections retain their established status. The land and maritime corridors below are mapped travel frameworks requested for the world map; exact local pathing, access, safety, schedules, and travel times remain conditional or unspecified. They do not establish unnamed settlements, checkpoints, fees, or precise crossings.
-**Orientation:** Golden Dragon Empire is east; Beiming Gu is north; Tianhai Yunzhou is a giant floating island above the southwestern ocean. The western side of Tianhai's floating position faces a sea-side approach toward the Lawless Territories, where Azerion Forest's easiest known entrance lies. Azerion Forest extends into Golden Dragon Empire territory and has a separate northern coastal ruined/labyrinth exit relevant to the Beiming approach. Lawless Territories and the Wanluo Sacred Expanse remain outside the direct jurisdiction of the three powers.
+**Orientation:** Golden Dragon Empire is east; Beiming Gu is north; Tianhai Yunzhou is a giant floating island above the **unnamed southwestern ocean**. The western side of Tianhai's floating position faces a sea-side approach toward the Lawless Territories, where Azerion Forest's easiest known entrance lies. Azerion Forest extends into Golden Dragon Empire territory and has a separate northern coastal ruined/labyrinth exit relevant to the Beiming approach. The world has multiple connected seas: **Guixu Canghai (归墟沧海)** is the most merciless named ocean system; the unnamed Windless / Still-Water Sea has no wind, waves, or currents and is a favored route for specialized liquefied-energy Artificial Artifact vessels because ambushes are uncommon. Beiming's northern coastal waters and Golden Dragon's eastern coastal waters are distinct unnamed maritime areas. Their precise relative positions, coastlines, and connecting straits remain unassigned. Lawless Territories and the Wanluo Sacred Expanse remain outside the direct jurisdiction of the three powers.
 
 ## Reading key
 
@@ -55,7 +55,7 @@
     [EXTERNAL] Lawless Territories
        └─ easiest known entrance → Azerion Forest → Golden Dragon Empire frontier
 
-    Tianhai Yunzhou (floating island above southwestern ocean)
+    Tianhai Yunzhou (floating island above unnamed southwestern ocean)
        └─ WESTERN side / sea-facing approach ~~~ [EXTERNAL] Lawless Territories
            └─ easiest known entrance → Azerion Forest
                ├─ EASTERN forest boundary ··· rushing-river trap ···
@@ -64,6 +64,13 @@
                └─ CENTRAL LAKE → ruins → Mega Colossal Labyrinth
                   └··· northern deep-sea coast / ruined exit ···
                      → Beiming Gu northern coastal approach
+
+### Golden Dragon perspective — maritime layer
+
+- **Eastern coast:** Xingluo / Dongxing is the established mainland maritime departure point. Its coastal waters remain unnamed; the mapped vessel corridor reaches Cangqiong Harbor, Tianhai Yunzhou.
+- **Windless / Still-Water Sea:** a distinct sea in the connected maritime network and a favored corridor for specialized liquefied-energy Artificial Artifact vessels because ambushes are uncommon. Exact access from Dongxing is not established.
+- **Guixu Canghai (归墟沧海):** the most merciless named ocean system. It is not automatically adjacent to the empire's coast, and no direct route from Dongxing is established.
+- The sea-facing approach from Tianhai Yunzhou toward Lawless Territories remains distinct from the Golden Dragon-facing Azerion river trap and prison-island boundary.
 
 ### Golden Dragon → Beiming Gu
 
@@ -80,7 +87,7 @@
 
 - This does not claim every Golden Dragon region has a direct road to Dongxing. Internal interregional legs must be verified in the relevant regional module; where a connection is not listed, it remains an uncharted local leg rather than an assumed road.
 - Dongxing is the mapped mainland maritime departure point for this corridor; Cangqiong Harbor is the receiving harbor on Tianhai Yunzhou.
-- The sea's official name, ship schedules, exact sailing path, fare, duration, and weather windows remain unestablished.
+- The southwestern ocean's official name, ship schedules, exact sailing path, fare, duration, and weather windows remain unestablished. The Windless / Still-Water Sea and Guixu Canghai are distinct sea systems; this corridor does not establish a direct route from Dongxing to either.
 - The direct Longyuan Sky Transit Terminal ↔ Cangqiong Sky Transit Terminal air corridor remains the established scheduled alternative.
 
 ### Golden Dragon internal map register
@@ -89,7 +96,7 @@ All seven regions remain part of the same imperial branch: **Longyuan, Canglan, 
 
 ## 2. Tianhai Yunzhou perspective
 
-    TIANHAI YUNZHOU — FLOATING ISLAND ABOVE THE SOUTHWESTERN OCEAN
+    TIANHAI YUNZHOU — FLOATING ISLAND ABOVE THE UNNAMED SOUTHWESTERN OCEAN
     ├─ Cangqiong Harbor (west; main harbor)
     │  ├─ Westwake Anchorage
     │  ├~~~ western sea-facing approach ~~~ [EXTERNAL] Lawless Territories
@@ -116,6 +123,14 @@ All seven regions remain part of the same imperial branch: **Longyuan, Canglan, 
            └─ central lake ruins → Mega Colossal Labyrinth
               └··· northern deep-sea ruined exit ··· → Beiming coast
 
+### Tianhai perspective — maritime layer
+
+- **Home waters:** Tianhai Yunzhou floats above the unnamed southwestern ocean. The island is not established as floating above Guixu Canghai or the Windless / Still-Water Sea.
+- **Lawless approach:** the island's western sea-facing approach leads toward Lawless Territories and Azerion Forest's easiest known entrance; the precise landing and local sea route remain unknown.
+- **Mainland maritime corridor:** Cangqiong Harbor connects by vessel to Dongxing in Xingluo, Golden Dragon Empire. The southwestern ocean's official name, exact sailing path, and sea transitions remain unknown.
+- **Windless / Still-Water Sea:** part of the wider connected maritime network; favored by specialized liquefied-energy Artificial Artifact vessels because ambushes are uncommon. Exact route from Tianhai is not established.
+- **Guixu Canghai (归墟沧海):** a separate, most merciless ocean system. Its approach from Tianhai is not mapped.
+
 ### Tianhai Yunzhou → Golden Dragon Empire
 
 **To Golden Dragon Empire:** Cangqiong Harbor → vessel crossing to Dongxing → Xingluo → confirmed internal routes toward the intended destination. Separately, Azerion Forest reaches the empire-facing frontier through a rushing-river trap corridor with a small Golden Dragon Empire prison island in midstream.
@@ -133,6 +148,7 @@ All seven regions remain part of the same imperial branch: **Longyuan, Canglan, 
 **Separate Beiming journey:** Cangqiong Harbor → mainland coastal approach (exact landing unassigned) → Lawless Territories / northern wilderness → Nine Frost Wastes → Stonegate March → Frostveil Range → Beiming Heartland.
 
 - Tianhai's western approach to Lawless Territories is not a land bridge from the floating island; the sea-side approach and exact landing remain unspecified.
+- Tianhai floats above the unnamed southwestern ocean, not automatically above Guixu Canghai or the Windless / Still-Water Sea. Those are separate sea systems in the wider maritime network; exact connections and straits remain unassigned.
 - The northern coast also links Beiming's side to Azerion Forest's ruined/labyrinth exit. This is distinct from the easier Lawless entrance and is not a surveyed safe road.
 - A separate, established direct air corridor connects Cangqiong Sky Transit Terminal ↔ Beiming Heartland Sky Transit Terminal.
 
@@ -166,6 +182,13 @@ The seven districts are **Yunxiao Terrace, Tianji Core, Cangqiong Harbor, Haiyue
        └─ Lawless Territories ← easiest known forest entrance
           ← western sea-facing approach from Tianhai Yunzhou
 
+### Beiming perspective — maritime layer
+
+- **Northern coast:** Beiming Gu has a distinct northern coastal-water area; its official sea name, ports, and ordinary sailing routes remain unknown.
+- **Azerion connection:** the northern deep-sea coast is associated with the hazardous ruined/labyrinth exit of Azerion Forest's Mega Colossal Labyrinth. This is not a normal harbor or safe public route.
+- **Windless / Still-Water Sea:** part of the wider connected maritime network, but its exact route to Beiming's northern coast is not established.
+- **Guixu Canghai (归墟沧海):** the most merciless named ocean system; no direct connection from Beiming's coast is established by this map.
+
 ### Beiming Gu → Golden Dragon Empire
 
 **Main mapped land corridor:** Beiming Heartland → Stonegate March → northern wilderness and snow valleys of the Nine Frost Wastes → Beiguan (Baiyue) → onward through confirmed Golden Dragon routes.
@@ -197,7 +220,11 @@ These external regions provide shared geographic context and can appear on more 
 | **Nine Frost Wastes** | Wild northern areas outside Beiming Gu's official defenses; snowfields, frozen valleys, conifer forests, difficult mountains | Northern land corridor between the Beiming approach and the wider mainland frontier; hazardous and not uniformly controlled |
 | **Ashen Borderlands** | Outside the western and southwestern borders of Golden Dragon Empire; known villages and organizations | Optional western/southwestern wilderness context; not a mandatory leg on the mapped northern corridor |
 | **Azerion Forest** | Vast Spirit Beast forest extending from Lawless Territories into Golden Dragon Empire; enormous central lake, hidden Inner Azerion, dangerous Dead Zone; rushing-river trap corridor and Golden Dragon's small prison island at its imperial boundary; lake ruins connect to the Mega Colossal Labyrinth and its northern deep-sea exit | Main forest entrance is in Lawless Territories; the Golden Dragon boundary route is obstructed by rushing water and the prison island; Beiming's coastal approach uses the northern ruined/labyrinth exit, not a presumed safe forest road |
-| **Black Tide Expanse** | Remote islands and sea routes outside Tianhai Yunzhou's direct control | Maritime context for sea travel and island routes; no specific vessel route or timetable is implied |
+| **Black Tide Expanse** | Remote islands and sea routes outside Tianhai Yunzhou's direct control | Lawless maritime region; not a synonym for Guixu Canghai and not automatically identical to the Windless / Still-Water Sea. No specific vessel route or timetable is implied |
+| **Windless / Still-Water Sea** *(working label; name pending)* | Entire sea has no wind, waves, or currents; extreme silence associated with a cursed ancient Relic in its trench; many Tier 7+ Spirit Beasts; frequented by Spirit Realm 6+ cultivators for training or compatible Spirit Beast candidates | Favored corridor for specialized liquefied-energy Artificial Artifact vessels because ambushes are uncommon. Exact coast, ports, and routes remain unassigned |
+| **Guixu Canghai (归墟沧海)** | Named, most merciless ocean system; colossal sea beasts, ancient deep-sea half-beast clans, Spirit Realm 8+ cursed spirits, unnamed colossal graveyard, mega-tsunami and extreme-depth hazards | Separate from the Windless / Still-Water Sea and from the unnamed southwestern ocean above Tianhai Yunzhou; exact access routes remain unassigned |
+| **Beiming northern coastal waters** *(name pending)* | Maritime waters associated with Beiming Gu's northern coastline | Distinct from the hazardous ruined/labyrinth exit; ordinary ports and sea routes remain unspecified |
+| **Golden Dragon eastern coastal waters** *(name pending)* | Coastal waters associated with the empire's maritime belt and Xingluo / Dongxing access point | Dongxing is the mapped mainland departure point for the vessel corridor to Cangqiong Harbor; do not imply every imperial region is coastal |
 | **Wanluo Sacred Expanse** | Green plain around the World Knowledge Tower, surrounded by ancient forests and mountains; pilgrimage roads converge there | A major crossroads region in the wider world, but its exact location relative to the three powers remains unconfirmed; do not insert it as a fixed stop on these corridors without a later location decision |
 | **High cloud-sea mountains** | Remote peaks shelter the Ancient Shamanism clan/sect and a separate Buddhist clan | Remote landmark system; exact coordinates and routes remain unknown, and neither group is assigned to a power by this map |
 
@@ -209,7 +236,10 @@ These external regions provide shared geographic context and can appear on more 
 - **The central lake of Azerion Forest** and the Mega Colossal Labyrinth beneath it are dangerous exploration features, not a normal public transport interchange. The labyrinth's exit opens to the northern deep-sea coast and is the ruined exit associated with the Beiming coastal approach; its internal passages remain unmapped.
 - **Golden Dragon's forest boundary:** a rushing river forms a trap-like barrier; a small prison island owned by Golden Dragon Empire lies in the middle of that rushing-water route. Do not invent a river name, bridge, safe ford, island coordinates, or prison details. The labyrinth's exit opens to the northern deep-sea coast and is the ruined exit associated with the Beiming coastal approach; its internal passages remain unmapped.
 - **Golden Dragon's forest boundary:** a rushing river forms a trap-like barrier; a small prison island owned by Golden Dragon Empire lies in the middle of that rushing-water route. Do not invent a river name, bridge, safe ford, island coordinates, or prison details.
-- **The sea around Tianhai Yunzhou** must be crossed by a suitable vessel or the established energy-aircraft service; the floating island is not treated as a continuous mainland road.
+- **The unnamed southwestern ocean around Tianhai Yunzhou** must be crossed by a suitable vessel or the established energy-aircraft service; the floating island is not treated as a continuous mainland road.
+- **The Windless / Still-Water Sea** has no wind, waves, or currents anywhere in the sea. Its silence is a psychological hazard; it is also a favored corridor for specialized liquefied-energy Artificial Artifact vessels because ambushes are uncommon. This does not make its deep trench or high-tier Spirit Beast habitat safe.
+- **Guixu Canghai** is a distinct ocean system and the most merciless named sea. Do not place Tianhai Yunzhou above it or assign a route into it without an approved geographic connection.
+- Beiming's northern coastal waters and Golden Dragon's eastern coastal waters are distinct, unnamed maritime areas. Exact straits, port locations, and connections between sea systems remain unknown.
 - The route framework never implies that a route is safe, open, free, fast, or accessible to every traveler.
 
 ## 5. Air corridors shared by all three perspectives

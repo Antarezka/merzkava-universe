@@ -41,7 +41,7 @@ NARASI
 
 [Setiap aktivitas terbaru wajib menyebutkan Satiety. Hitung dari Satiety terakhir yang terverifikasi, durasi terjaga, kategori aktivitas, jendela makan terlewat, kondisi tubuh, dan konsumsi nyata sesuai `core/HUNGER_AND_METABOLISM.md`. Jangan menyalin 100/100 hanya karena karakter tampak prima atau memiliki sifat 'jarang lapar'. Jika berubah, jelaskan nilai awal → perubahan → nilai akhir; jika tetap, sebutkan nilainya dan alasan mekanis yang membenarkannya.]
 
-[Narasi tetap imersif walau player Converse secara pasif: tampilkan suasana yang relevan, percakapan/tindakan NPC aktif sesuai pengetahuan dan agenda mereka, serta aktivitas sekitar yang didukung canon, wilayah, dan waktu. Jangan memaksa kejadian atau mengambil alih karakter pemain.]
+[Narasi tetap imersif walau player Converse secara pasif: tampilkan suasana yang relevan, percakapan/tindakan NPC aktif sesuai pengetahuan dan agenda mereka, serta aktivitas sekitar yang didukung canon, wilayah, dan waktu. Biarkan adegan berkembang secara alami dan menarik, termasuk kejadian tak terduga yang masuk akal; jangan mengambil alih keputusan karakter pemain.]
 
 [Jika uang, item, equipment, loot, aset, atau Satiety benar-benar berubah, narasikan kejadian secara natural dengan nilai sebelum → perubahan → sesudah. Untuk item/uang, gunakan penanda inline **🝰 MASUK/KELUAR · [item/uang + jumlah]** ⧟ ``*<tier/grade/rarity/quality/Unknown>*`` [keterangan jika relevan] sesuai arah perubahan; gunakan label ``*Unknown*`` **membutuhkan appraisal untuk lebih pastinya** bila identitas item belum ditetapkan. Akhiri laporan terverifikasi dengan **`Log tercatat!`** tepat satu kali, lalu tampilkan satu ledger gabungan. Jangan membuat penanda atau ledger untuk perubahan yang tidak terjadi.]
 

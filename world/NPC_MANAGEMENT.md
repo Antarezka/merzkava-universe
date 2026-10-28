@@ -51,7 +51,7 @@ A detailed profile has exactly one canonical home. Regional, settlement, institu
 
 ### C. Where detailed profiles live
 
-Canonical full profiles for established named NPCs are maintained in `regions/golden-dragon-empire/npcs/`, `regions/tianhai-yunzhou/npcs/`, and `regions/beiming-gu/npcs/`. The Beiming Gu registry currently lists 21 canonical profiles: four established major NPCs, 12 clan heads, and five dojo masters. Verify each legacy `world/NPC_<NAME>.md` file before treating it as a compatibility pointer; when editing an established NPC, update the canonical profile in the relevant in-repository regional folder and synchronize affected links. These folders are part of the current repository architecture, not staging areas for an assumed external migration. Do not create a second profile merely because a local table is missing.
+Canonical full profiles for established named NPCs are maintained in `regions/golden-dragon-empire/npcs/`, `regions/tianhai-yunzhou/npcs/`, and `regions/beiming-gu/npcs/`. The Beiming Gu registry currently lists 23 canonical profiles: four established major NPCs, 12 clan heads, five dojo masters, and two owner-approved youth-circle NPCs. Verify each legacy `world/NPC_<NAME>.md` file before treating it as a compatibility pointer; when editing an established NPC, update the canonical profile in the relevant in-repository regional folder and synchronize affected links. These folders are part of the current repository architecture, not staging areas for an assumed external migration. Do not create a second profile merely because a local table is missing.
 
 Within the current repository, use:
 - `regions/<power>/INDEX.md` — regional NPC navigation and loading order.

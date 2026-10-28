@@ -62,7 +62,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 <div align="center">
 
-<a href="world/WORLD.md"><img src="assets/kanban-world-lore.svg?v=3" alt="World Lore — tall vertical archive sign" width="96" align="left" /></a><a href="world/MAP_AND_REGIONS.md"><img src="assets/kanban-map-regions.svg?v=3" alt="Map and Regions — vertical archive sign beginning halfway down the World Lore sign" width="96" align="right" /></a>
+<a href="world/WORLD.md"><img src="assets/kanban-world-lore.svg?v=3" alt="World Lore — tall vertical archive sign" width="96" /></a><a href="world/MAP_AND_REGIONS.md" style="display:inline-block; vertical-align:105px; margin-left:8px;"><img src="assets/kanban-map-regions.svg?v=3" alt="Map and Regions — vertical archive sign beginning halfway down the World Lore sign" width="96" /></a>
 
 </div>
 

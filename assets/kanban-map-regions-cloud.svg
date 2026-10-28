@@ -5,32 +5,42 @@
  <linearGradient id="iron" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#080909"/><stop offset=".5" stop-color="#383838"/><stop offset="1" stop-color="#111212"/></linearGradient>
  <filter id="shadow" x="-30%" y="-20%" width="170%" height="160%"><feDropShadow dx="2" dy="7" stdDeviation="5" flood-color="#151515" flood-opacity=".34"/></filter>
 </defs>
-<!-- Long-tailed Chinese cloud-scroll ornament: layered curls, flowing ribbons, and centered suspension. -->
+<!-- Fuller, layered Chinese cloud-scroll ornament with raised cloud lobes, dense curls, and trailing vapor ribbons. -->
 <g stroke-linecap="round" stroke-linejoin="round">
- <path d="M38 62 C28 56 33 43 43 42 C51 41 57 48 53 54 C51 58 45 56 47 52
- C48 50 51 51 51 53
- C49 37 61 25 74 28 C87 30 91 42 84 51 C80 56 73 54 74 49
- C75 45 80 45 81 49
- C83 31 97 18 112 22 C127 26 131 40 122 51 C117 57 109 53 112 47
- C114 43 119 45 118 49
- C130 39 143 42 148 51 C154 60 147 67 139 68
- C158 62 171 67 183 73 C198 81 213 75 227 65
- C217 82 200 91 181 86 C166 82 155 76 142 79
- C128 83 116 89 101 83 C88 78 81 70 71 73 C58 77 47 72 38 62 Z"
- fill="#171513" stroke="#B66D2C" stroke-width="3"/>
- <path d="M41 61 C34 56 40 47 46 49 C52 51 50 57 46 57
- M62 49 C57 39 66 31 75 34 C85 37 85 46 79 50 C75 53 71 49 74 46
- M93 49 C86 38 97 27 109 30 C120 33 121 43 114 49 C110 53 105 49 108 45
- M128 61 C135 52 146 54 149 62 C152 69 144 73 139 69 C136 66 139 63 142 65"
- fill="none" stroke="#F0C77F" stroke-width="2.4"/>
- <path d="M57 67 C71 76 82 69 93 65 C106 60 117 66 128 72
- C142 80 155 76 168 70 C183 64 198 74 213 71
- M72 76 C86 82 97 77 108 73 C120 69 130 75 142 80
- C156 86 169 81 180 77
- M181 51 C192 40 207 43 211 51 C215 58 208 64 203 60 C200 57 204 54 206 57"
- fill="none" stroke="#B66D2C" stroke-width="2.2"/>
- <path d="M123 73 l7 8 -7 8 -7 -8 Z" fill="#B84D48" stroke="#F0C77F" stroke-width="2"/>
- <circle cx="123" cy="81" r="3" fill="#FFF4D8"/>
+ <!-- Dense outer body: overlapping cloud lobes create volume rather than a thin outline. -->
+ <path d="M14 66
+ C4 62 5 50 14 45 C19 42 25 44 29 49
+ C24 37 31 26 42 24 C52 22 60 29 61 39
+ C62 26 73 17 85 19 C98 21 104 31 100 43
+ C106 32 118 29 128 35 C138 41 139 51 132 59
+ C144 53 156 57 163 65 C174 75 189 72 207 60
+ C198 76 184 87 167 87 C153 87 142 79 129 81
+ C116 84 108 92 94 89 C82 87 75 78 64 78
+ C53 78 45 86 33 80 C24 76 19 71 14 66 Z"
+ fill="#171513" stroke="#B66D2C" stroke-width="3.5"/>
+ <!-- Raised highlights follow the lobes to make the cloud feel carved and layered. -->
+ <path d="M17 61 C10 56 14 48 21 49 C27 50 28 56 23 59
+ M36 45 C30 35 39 28 47 30 C56 32 58 40 52 46 C48 50 43 46 46 42
+ M66 41 C61 31 70 23 80 25 C90 27 93 36 87 42 C83 47 77 43 80 39
+ M105 51 C108 42 119 39 126 45 C132 51 127 59 121 59 C116 59 114 54 118 52"
+ fill="none" stroke="#F0C77F" stroke-width="2.6"/>
+ <!-- Filled scroll cores add density between the large cloud heads. -->
+ <path d="M29 65 C36 54 48 54 54 63 C60 72 51 78 44 73 C39 70 43 65 47 68
+ M59 61 C67 51 79 52 84 61 C89 70 81 75 75 71 C71 68 75 64 78 67
+ M91 62 C99 53 111 56 115 65 C119 74 110 78 104 73 C100 70 104 66 107 69"
+ fill="none" stroke="#C77A43" stroke-width="3"/>
+ <!-- Long, layered wind tails: flowing ribbons retain the reference's horizontal sweep. -->
+ <path d="M38 72 C51 80 61 72 72 68 C84 63 94 68 105 75
+ C118 83 131 78 144 72 C160 65 176 75 192 72
+ M49 80 C63 87 75 81 86 77 C98 73 108 79 120 84
+ C133 90 147 86 160 81
+ M157 51 C168 40 183 43 188 51 C193 59 186 65 180 61
+ C176 58 180 54 183 57
+ M171 68 C185 61 199 64 210 59 C204 71 194 76 182 75"
+ fill="none" stroke="#B66D2C" stroke-width="2.4"/>
+ <!-- Central jewel is the actual visual anchor for the hanging chain. -->
+ <path d="M123 76 l7 8 -7 8 -7 -8 Z" fill="#B84D37" stroke="#F0C77F" stroke-width="2"/>
+ <circle cx="123" cy="84" r="3" fill="#FFF4D8"/>
 </g>
 <!-- One thick chain starts inside the cloud, then connects to one nail on the tilted plaque. -->
 <g stroke-linecap="round" stroke-linejoin="round">

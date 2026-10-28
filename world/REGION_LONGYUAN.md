@@ -123,7 +123,7 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPC
 | Jun Ruiyuan (君睿渊) | Longyuan; exact residence unconfirmed | Crown Prince; eldest child | Golden Heavenly Qilin, Myth; age 17 | [Canonical roster/profile](../regions/golden-dragon-empire/npcs/JUN_RUIYUAN.md) |
 | Jun Yuejin (君月瑾) | Longyuan; exact residence unconfirmed | Imperial Princess; second child | Golden Celestial Crane, Myth; age 16 | [Canonical roster/profile](../regions/golden-dragon-empire/npcs/JUN_YUEJIN.md) |
 | Ying Wuxin | Huanglongcheng; exact pavilion location unconfirmed | Owner of an elite clothing pavilion | Public life: indulgent father; concealed identity is GM-only and must not be disclosed without credible discovery | [Canonical profile](NPC_YING_WUXIN.md) |
-| Komite Auditor Keuangan Khusus Kekaisaran | Golden Dragon Empire; exact office and current deployment unconfirmed | Imperial financial-audit institution | The head is clean; the deputy and lower personnel's integrity is unknown. Corruption or evidence manipulation is possible but not confirmed. | [Canonical institutional NPC profile](../regions/golden-dragon-empire/npcs/IMPERIAL_SPECIAL_FINANCIAL_AUDIT_COMMITTEE.md) |
+| Komite Auditor Keuangan Khusus Kekaisaran | Golden Dragon Empire; exact office and current deployment unconfirmed | Special internal oversight committee supervising ministries and subordinate government bodies; financial auditing is one part of its remit | The head is clean; the deputy and lower personnel's integrity is unknown. Corruption or evidence manipulation is possible but not confirmed. | [Canonical organization dossier](IMPERIAL_SPECIAL_FINANCIAL_AUDIT_COMMITTEE.md) |
 
 ## 9. Current Situations and Events
 

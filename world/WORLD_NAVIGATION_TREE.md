@@ -242,3 +242,18 @@ Use these status labels consistently:
 - [Tianhai Yunzhou regional module](REGION_TIANHAI_YUNZHOU.md)
 - [Beiming Gu consolidated regional module](REGION_BEIMING_GU.md)
 - [Dynamic event registry](DYNAMIC_EVENTS.md)
+
+
+## Azerion Forest — hidden central locations
+
+```text
+Azerion Forest
+  ├─ central lake
+  │   ├─ Inner Azerion — hidden half-beast city, concealed by dense illusion mist
+  │   └─ submerged ruin entrance → Mega Colossal Labyrinth → hazardous northern deep-sea exit
+  ├─ dangerous Dead Zone
+  ├─ Lawless-side easiest known entrance
+  └─ Golden Dragon-facing boundary → rushing-river trap → small prison island
+```
+
+Inner Azerion is a concealed city, not a publicly charted settlement or a guaranteed safe destination. The dense illusion mist and safe approach routes remain difficult to navigate; frequent veteran visitors and local hunter tribes are among those who know the safer paths. Exact coordinates and travel times remain undefined.

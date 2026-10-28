@@ -191,6 +191,13 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **Regional Navigation — Stale Committee Link Fixed**
   Hash: ``a88a5d3`` | Ver: ``Nightly-v3.0.16`` · ``Stable-v3.0.16``
   Removed the obsolete NPC-file reference from the Golden Dragon Empire regional index and retained the correct link to the canonical organization dossier in `world/`.
+
+<div align="center">
+
+༺━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━༻
+
+</div>
+
 <div align="center">
 
 ![ROADMAP](https://img.shields.io/badge/ROADMAP-WHAT'S_NEXT-FFFFFF?style=for-the-badge&labelColor=151515)

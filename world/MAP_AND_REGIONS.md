@@ -50,6 +50,17 @@ BEIMING GU — NORTHERN COAST
 - Specialized liquefied-energy Artificial Artifact propulsion is distinct from ordinary Qi-powered vessels and Tianhai's passenger energy-aircraft. Do not assume every ship can use it.
 - Corridor connections are established; exact coordinates, distances, sailing times, seasonal schedules, and safe-passage guarantees remain undefined unless another route record establishes them.
 
+### 1C. Southern Lawless port and leisure archipelago
+
+The southern Lawless coast now has one established maritime port: **Southwake Port (南潮港)**. It provides the nearest organized port-side access toward the world's most dangerous southern ocean, but it does not border Guixu Canghai directly.
+
+In ordinary **Black Tide Sea**, the **Lanternhook Isles (钩灯群岛)** form a small leisure and black-market archipelago frequented by pirates, smugglers, mercenaries, fugitives, and other criminals:
+- **Red Lantern Cay (红灯屿):** bars, food stalls, music rooms, entertainment pavilions, and private meeting spaces.
+- **Bitterglass Isle (苦璃岛):** independent specialist physicians and dealers in medicinal powders, poisons, antidotes, sedatives, toxins, and rare ingredients. Stock and efficacy vary.
+- **Dicewake Isle (骰潮岛):** gambling halls, private wagers, and high-stakes games with risks of debt, cheating, and intimidation.
+
+Southern route order: Lawless Territories → southern coast → Southwake Port → ordinary Black Tide Sea → Lanternhook Isles → southern outer boundary of Black Tide Sea → Guixu Canghai. The isles are in ordinary water, not Guixu Canghai. This route does not establish exact coordinates, local roads from named villages, sailing times, schedules, fees, or safe passage. See `world/LAWLESS_SOUTHERN_PORT_AND_ISLES.md`.
+
 ## 1A. Connected tree and inter-power transit
 
 For the connected power tree, use [`world/WORLD_NAVIGATION_TREE.md`](WORLD_NAVIGATION_TREE.md). For three matching perspective maps showing internal regional branches, overland corridors, mixed land-and-sea travel, shared wilderness, and all three established direct air corridors, use [`world/THREE_POWER_PERSPECTIVE_MAPS.md`](THREE_POWER_PERSPECTIVE_MAPS.md). The direct Golden Dragon Empire ↔ Beiming Gu air corridor is established and does not require a transfer through Tianhai Yunzhou. The perspective maps also show mapped land and maritime travel frameworks; exact local road segments, landing points, schedules, distances, and durations remain unspecified unless a regional source establishes them. See `world/LOCATION_AND_ROUTE_NETWORK.md` for route status and the established air-service fare/window.

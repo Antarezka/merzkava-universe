@@ -194,7 +194,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <div align="center">
 
-༺━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━༻
+༺━━━━━━ ✦ ━━━━━━༻
 
 </div>
 

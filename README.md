@@ -160,7 +160,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![NIGHTLY](assets/nightly-version.svg?v=6)
 
-<sub><span style="color:#D4AF37"><strong>v2.4.115</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v2.4.117</strong></span></sub>
 
 </td>
 </tr>
@@ -177,8 +177,8 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 </div>
 
 - ✦ **Ying Wuxin's Two Lives**  
-  Hash: ``8165d81`` | Ver: ``Nightly-v2.4.116``  
-  Added his genuine fatherly affection for his daughter, his elite clothing pavilion in the Golden Dragon Empire, her friendship with the imperial princess's circle, and strict secrecy around his criminal identity and Soul Illusion immunity for her.
+  Hash: ``629139a`` | Ver: ``Nightly-v2.4.117``  
+  Grounded his public life in Huanglongcheng, Longyuan, and linked it to the established imperial princess and two canonical academies. Kept his daughter's name, age, school, pavilion details, and late wife's identity unset where repo canon provides no answer.
 
 - ✦ **Crimson Sovereign Court & Ying Wuxin**  
   Hash: ``e26f041`` | Ver: ``Nightly-v2.4.115``  

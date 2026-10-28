@@ -60,25 +60,16 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 <img src="assets/world-archive-scattered.svg?v=1" alt="Merzkava World Archive — scattered field notes, maps, lore files and regional records" width="100%" />
 
-<div align="center">
-
-<a href="world/WORLD.md"><img src="assets/kanban-world-lore.svg?v=1" alt="World Lore — vertical Japanese-style archive sign" width="190" /></a>
-
-<a href="world/MAP_AND_REGIONS.md"><img src="assets/kanban-map-regions.svg?v=1" alt="Map and Regions — vertical Japanese-style archive sign" width="190" /></a>
-
-<sub>THE MAP SHOWS THE WAY · THE ARCHIVE HOLDS THE DETAILS</sub>
-
-༺━ ✦ ━༻
-
-</div>
-
-<div align="center">
+<table align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td align="right" valign="bottom"><a href="world/WORLD.md"><img src="assets/kanban-world-lore.svg?v=2" alt="World Lore — vertical Japanese-style archive sign" width="142" /></a></td>
+<td align="left" valign="top"><a href="world/MAP_AND_REGIONS.md"><img src="assets/kanban-map-regions.svg?v=2" alt="Map and Regions — vertical Japanese-style archive sign" width="142" /></a></td>
+</tr>
+</table>
 
 <sub>THE MAP SHOWS THE WAY · THE ARCHIVE HOLDS THE DETAILS</sub>
 
 ༺━ ✦ ━༻
-
-</div>
 
 </div>
 

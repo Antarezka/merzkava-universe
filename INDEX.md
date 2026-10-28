@@ -6,7 +6,7 @@
 Trigger yang merujuk `INDEX.md` dan `players.md` berarti mulai gameplay, bukan meminta laporan bootstrap.
 
 1. **GERBANG IDENTITAS HASH/VER — WAJIB, TANPA FALLBACK.** Mulai dari `INDEX.md` pada SHA/commit yang tercantum langsung di URL pemanggilan gameplay. Tetapkan SHA tersebut sebagai `ACTIVE_SHA`; jangan membuka `README.md` untuk memulai bootstrap atau menentukan Hash. Jika URL memakai `refs/heads/main` tanpa SHA tetap, resolusikan commit yang benar-benar digunakan untuk membaca `INDEX.md`, lalu kunci commit itu sebagai `ACTIVE_SHA` sebelum membaca sumber berikutnya. Baca `templates/AUTHORITY_ORDER.md` sesudah INDEX, lalu baca template, state, dan seluruh modul gameplay yang relevan dari `ACTIVE_SHA` yang sama tanpa mencampur file dari `main` atau snapshot lain. `Hash` adalah tepat tujuh karakter pertama `ACTIVE_SHA`. Untuk `Ver`, baca `NIGHTLY_VERSION.md` pada snapshot yang sama dan gunakan nilai `Current Nightly version` secara persis. Jangan menebak versi dari ingatan, respons lama, commit terbaru, atau nama file. Jika `NIGHTLY_VERSION.md` tidak tersedia atau nilainya tidak dapat diverifikasi, hentikan bootstrap dan laporkan sumber yang gagal; jangan membaca README sebagai fallback. **README hanya dipakai untuk tugas pemeliharaan/update pin, bukan untuk memulai gameplay.** Dilarang memakai hash alternatif atau memulai gameplay sebelum Hash dan Ver terverifikasi.
-2. Baca `templates/AUTHORITY_ORDER.md`, `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`, dan `templates/CHARACTER_PROFILE_TEMPLATE.md`. Detail pemilihan state dan resolusi aksi ada di Authority Order.
+2. Baca `templates/AUTHORITY_ORDER.md`, `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`, `templates/CHARACTER_PROFILE_TEMPLATE.md`, dan **wajib muat `templates/NARRATIVE_DYNAMICS.md` sebelum gameplay**. Modul itu mengatur kedalaman narasi, deteksi stagnasi, otonomi dunia, serta konsekuensi. Detail pemilihan state dan resolusi aksi ada di Authority Order.
 3. Tentukan state: sesi baru → `players.md` dan file `players/<Nama>.md` yang cocok; sesi berlanjut → profil gameplay terakhir beserta kejadian setelahnya; karakter baru → template dan informasi yang diberikan pemain.
 4. **Kunci kontinuitas state sebelum narasi:** untuk sesi berlanjut, tetapkan lokasi dan state terakhir yang terverifikasi sebagai baseline. Lokasi, Equipment, Inventory, aset, Wallet, dan state persisten lain tidak berubah tanpa aksi/peristiwa sah yang menjelaskan perubahan. Jangan memakai snapshot awal untuk menimpa state sesi berlanjut; ikuti prosedur kontinuitas di `templates/AUTHORITY_ORDER.md`.
 5. Verifikasi Wallet dari sumber state yang berlaku; undi bootstrap satu kali sesuai `core/10_ECONOMY_SYSTEM.md` hanya jika saldo belum ditetapkan di sumber mana pun.
@@ -19,7 +19,7 @@ Pilih sumber berdasarkan aksi dan lokasi; jika beberapa sistem terdampak, baca s
 
 | Kebutuhan | Sumber resmi |
 |---|---|
-| Definisi field profil dan konsistensi state | `templates/CHARACTER_PROFILE_TEMPLATE.md` |
+| Definisi field profil dan konsistensi state | `templates/CHARACTER_PROFILE_TEMPLATE.md` |\n| Standar narasi, deteksi stagnasi, otonomi dunia, dan konsekuensi | `templates/NARRATIVE_DYNAMICS.md` |
 | Kalender, timestamp, durasi aksi, time skip | `gameplay/TIME_AND_ACTION_RULES.md` |
 | Encounter perjalanan, ambush terpisah, dan pertolongan darurat tabib pengembara Medicine Hall Society | `gameplay/TRAVEL_ENCOUNTER_AMBUSH_RESCUE.md` |
 | Spirit Realm, Stage, Sync, bottleneck, breakthrough | `core/CULTIVATION_SYSTEM.md` |
@@ -68,7 +68,7 @@ Pilih sumber berdasarkan aksi dan lokasi; jika beberapa sistem terdampak, baca s
 
 - `INDEX.md`: bootstrap dan navigasi.
 - `templates/AUTHORITY_ORDER.md`: perilaku GM, resolusi aksi, konsistensi, dan ledger.
-- `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`: satu-satunya format visual gameplay.
+- `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`: satu-satunya format visual gameplay.\n- `templates/NARRATIVE_DYNAMICS.md`: modul wajib untuk kedalaman narasi, dinamika adegan, otonomi dunia, konsekuensi, dan kontinuitas naratif.
 - `templates/CHARACTER_PROFILE_TEMPLATE.md`: definisi field dan konsistensi state.
 - `templates/PLAYER_CONVERSATION_TEMPLATE.md`: trigger/input player saja.
 - `NIGHTLY_VERSION.md`: satu-satunya sumber versi Nightly untuk header gameplay; perbarui saat versi Nightly berubah.
@@ -82,7 +82,7 @@ Pilih sumber berdasarkan aksi dan lokasi; jika beberapa sistem terdampak, baca s
 
 - Bootstrap dan peta modul: `INDEX.md`
 - Keputusan GM, prioritas, dan ledger: `templates/AUTHORITY_ORDER.md`
-- Format respons gameplay: `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`
+- Format respons gameplay: `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`\n- Dinamika narasi dan konsekuensi: `templates/NARRATIVE_DYNAMICS.md`
 - Definisi field dan state profil: `templates/CHARACTER_PROFILE_TEMPLATE.md`
 - Indeks karakter dan snapshot awal: `players.md` → `players/<Nama>.md`
 - Router wilayah, NPC, permukiman, dan rute: `world/CANON_LOAD_ROUTER.md`

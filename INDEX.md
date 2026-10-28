@@ -50,6 +50,7 @@ Pilih sumber berdasarkan aksi dan lokasi; jika beberapa sistem terdampak, baca s
 | Lore, hierarki, Martial Soul, filosofi, dan batas pengetahuan dua klan/sekte tersembunyi di puncak lautan awan | `world/ANCIENT_SHAMANISM_AND_BUDDHIST_CLANS.md` |
 | Bangsa berakal, ciri kelompok, dan konteks perlakuan sosial | `world/INTELLIGENT_PEOPLES.md` |
 | Klan, dojo, sekte, organisasi, Medicine Hall Society, Ordo Suci Tianming | `world/FACTIONS.md` |
+| Crimson Sovereign Court, hidden leader Ying Wuxin, and its shadow authority over Crimson Keel Brotherhood | `world/FACTIONS.md`; `world/REGION_BLACK_TIDE_EXPANSE.md`; `world/NPC_YING_WUXIN.md`; `world/LAWLESS_TERRITORIES.md` |
 | Serikat Guild: kontrak lintas jenis pekerjaan, enam tingkat kesulitan, party sementara, perburuan Spirit Beast, blacklist, dan kontrak buruan Deadpool | `world/SPIRIT_HUNTERS_GUILD.md` |
 | Geografi dan lore kawasan suci Wanluo, World Knowledge Tower, distrik, jalur ziarah, serta kompleks Ordo Suci Tianming | `world/WANLUO_SACRED_EXPANSE.md` |
 | Kronologi, bukti sejarah, bencana dunia masa lampau, dan peristiwa historis yang sudah mapan | `world/HISTORY.md` |

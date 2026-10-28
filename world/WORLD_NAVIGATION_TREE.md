@@ -176,6 +176,9 @@ BEIMING GU — NORTHERN COAST
                            │                       └── Three-Lantern Passage ── Eastern Azure Sea
                            └── western/southern approach ── Lawless Territories
                                                                └── ordinary Black Tide Sea
+                                                                    ├── Southwake Port (南潮港), southern Lawless coast
+                                                                    ├── Lanternhook Isles (钩灯群岛): Red Lantern Cay / Bitterglass Isle / Dicewake Isle
+                                                                    └── southern outer boundary → Guixu Canghai (归墟沧海)
                                                                     └── southern outer boundary
                                                                          Guixu Canghai (归墟沧海), far-southern polar ocean
 ```

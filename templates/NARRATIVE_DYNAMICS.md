@@ -34,4 +34,4 @@ Bedakan improvisasi adegan sesaat dari state persisten dan canon resmi. Percakap
 
 ## Pemeriksaan sebelum output
 
-Periksa secara internal: narasi menanggapi tindakan pemain secara spesifik; memenuhi minimal empat paragraf substantif; NPC konsisten; stagnasi ditangani dengan perkembangan kontekstual; konsekuensi kausal dan proporsional serta boleh positif, netral, negatif, campuran, atau tidak berarti; canon, agensi pemain, state, dan catatan persisten tetap konsisten. Jika ada yang gagal, revisi sebelum output. Jangan tampilkan daftar pemeriksaan ini sebagai menu gameplay.
+Periksa secara internal: narasi menanggapi tindakan pemain secara spesifik dan dikembangkan secara utuh serta substantif; NPC konsisten; stagnasi ditangani dengan perkembangan kontekstual; konsekuensi kausal dan proporsional serta boleh positif, netral, negatif, campuran, atau tidak berarti; canon, agensi pemain, state, dan catatan persisten tetap konsisten. Jika ada yang gagal, revisi sebelum output. Jangan tampilkan daftar pemeriksaan ini sebagai menu gameplay.

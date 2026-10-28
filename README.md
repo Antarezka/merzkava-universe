@@ -176,9 +176,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 </div>
 
-- ✦ **Lively Scene-Level NPC and World Improvisation**  
+- ✦ **NPC & Map/Route Canon Updates**  
   Hash: ``2e1983e`` | Ver: ``Nightly-v2.4.107``  
-  Updated NPC guidance so plausible temporary residents, vendors, guards, travelers, conversations, rumors, and ordinary local activity can keep scenes lively without requiring pre-existing roster entries. Major NPCs, official roles, lasting changes, and permanent world structure still require careful canon checks.
+  Updated the regional route router to recognize the established direct Golden Dragon Empire ↔ Beiming Gu air corridor, and refined NPC rules so plausible temporary residents, travelers, conversations, rumors, and routine local activity keep scenes lively without inventing permanent branches, services, or geography.
 
 - ✦ **README Visual Assets — Investigation Dossier Restyle**  
   Hash: ``dfc12b3`` | Ver: ``Nightly-v2.4.106``  

@@ -8,22 +8,22 @@
 ## Initial Character Profile
 
 - **Nama:** Ilya
-- **Usia:** 19 tahun (ditetapkan langsung oleh pemain).
+- **Usia:** 19 anos (idade informada diretamente pelo jogador).
 - **Spirit Realm:** Mortal
-- **Sync progress:** 0%/0% (belum memiliki Spirit Ring aktif; belum ada cap kompatibilitas ring yang ditetapkan).
-- **Spirit Ring Absorption:** not eligible yet | ??? Day left
-- **Martial Soul:** ??? (belum menjalani atau menyelesaikan awakening yang sah; jangan menetapkan Martial Soul sebelum kejadian awakening).
-- **Thinker Grade:** Belum ditetapkan.
-- **HP:** 100/100 (inisialisasi sesi baru untuk Mortal menurut `core/HP_SYSTEM.md`).
-- **Satiety:** 80/100 (estimasi awal GM; bukan nilai canon yang sudah dialami dalam gameplay).
+- **Sync progress:** 0%/0% (a personagem ainda não possui um Spirit Ring ativo; nenhum limite de compatibilidade de anel foi estabelecido).
+- **Spirit Ring Absorption:** `*not eligible yet*` | ??? Day left
+- **Martial Soul:** ??? (a personagem ainda não passou nem concluiu um processo válido de Awakening; não definir seu Martial Soul antes de um evento legítimo de Awakening).
+- **Thinker Grade:** Ainda não definido.
+- **HP:** 100/100 (valor inicial de uma nova sessão para Mortal, conforme `core/HP_SYSTEM.md`).
+- **Satiety:** 80/100 (estimativa inicial conservadora do GM; não é um valor já vivenciado em gameplay).
 - **Qi:** 0.
-- **Kondisi Tubuh:** Setengah makhluk berbentuk kucing putih; memiliki mata biru dengan pupil vertikal. Pendengarannya sangat sensitif dan matanya mampu mengikuti gerakan cepat, tetapi fokusnya mudah teralihkan. Ciri-ciri ini mengikuti deskripsi pemain; jangan mengubahnya menjadi bonus numerik, kekebalan, kemampuan tempur formal, atau jaminan keberhasilan tanpa dasar mekanik yang sah.
-- **Equipment:** Pakaian sehari-hari sederhana dan alas kaki biasa (estimasi awal GM berdasarkan latar kehidupan sederhana).
-- **Inventory:** Tidak ada barang pribadi khusus yang ditetapkan. Barang dagangan yang dibantu jual merupakan milik/urusan bibi kecuali kepemilikan Ilya dinyatakan secara eksplisit.
-- **Assets Bangunan:** Tidak ada aset bangunan atau properti milik Ilya yang tercatat.
-- **Wallet (wealth):** 40 xc | 1 xs | 0 xg | 0 zj | 0 az (**estimasi awal GM yang konservatif** berdasarkan kehidupan sederhana, membantu penjualan bersama bibinya, dan tekanan biaya kebutuhan pokok; bukan hasil transaksi atau pendapatan masa lalu yang dikarang. Saldo ini menjadi baseline tetap untuk sesi baru dan tidak boleh diundi ulang).
-- **Teknik / Kemampuan:** Membantu kegiatan berjualan dan pekerjaan sehari-hari bersama bibinya (keterampilan praktis yang wajar berdasarkan latar; estimasi awal GM). Belum ada teknik kultivasi atau kemampuan formal yang tercatat.
-- **Tujuan Saat Ini:** Membantu bibinya memenuhi kebutuhan sehari-hari dan mempertahankan kehidupan mereka di tengah mahalnya bahan pangan; tujuan jangka panjang belum ditetapkan.
+- **Kondisi Tubuh:** Meio-besta com características de uma gata branca e olhos azuis com pupilas verticais. Sua audição é extremamente sensível e seus olhos conseguem acompanhar movimentos rápidos, mas ela perde o foco com facilidade. Essas características seguem a descrição do jogador; não as transforme em bônus numéricos, imunidade, habilidades formais de combate ou garantia de sucesso sem base em uma mecânica oficial.
+- **Equipment:** Roupas simples do dia a dia e calçados comuns (estimativa inicial do GM, considerando seu estilo de vida modesto).
+- **Inventory:** Nenhum item pessoal específico foi estabelecido. As mercadorias que ela ajuda a vender pertencem à tia ou são responsabilidade dela, a menos que a propriedade de Ilya seja declarada explicitamente.
+- **Assets Bangunan:** Nenhum imóvel ou propriedade pertencente a Ilya foi registrado.
+- **Wallet (wealth):** 40 xc | 1 xs | 0 xg | 0 zj | 0 az (**estimativa inicial conservadora do GM** baseada em uma vida modesta, na ajuda às vendas da tia e no alto custo dos alimentos básicos; não representa transações ou rendimentos passados inventados. Esse saldo é a base fixa para uma nova sessão e não deve ser sorteado novamente).
+- **Teknik / Kemampuan:** Ajuda nas vendas e nas tarefas cotidianas junto da tia (habilidades práticas razoáveis com base em sua história; estimativa inicial do GM). Nenhuma técnica de cultivo ou habilidade formal foi registrada.
+- **Tujuan Saat Ini:** Ajudar a tia a cobrir as necessidades diárias e manter a vida das duas em meio ao alto custo dos alimentos; nenhum objetivo de longo prazo foi definido.
 
 ## Latar Belakang Orisinal (Wajib Dipertahankan Utuh)
 
@@ -37,11 +37,11 @@ Ilya é uma jovem de 19 anos, metade besta com características de gata branca e
 
 ## Catálogo e Limites de Interpretação
 
-- Ilya é Mortal e ainda não despertou seu Martial Soul; não possui Spirit Ring e não pode absorver um antes de cumprir o processo de awakening e os requisitos oficiais.
+- Ilya é Mortal e ainda não despertou seu Martial Soul; não possui Spirit Ring e não pode absorver um antes de cumprir o processo de Awakening e os requisitos oficiais.
 - Não invente linhagem especial, potencial secreto, Martial Soul, técnica formal, artefato raro, imunidade sensorial ou capacidade sobrenatural adicional além do que o jogador descreveu.
 - A sensibilidade sonora, o acompanhamento visual de movimentos rápidos e a facilidade para perder o foco são características descritivas; seus limites e efeitos mecânicos só podem ser estabelecidos por fontes oficiais ou acontecimentos legítimos.
 - A localização inicial é uma comunidade próxima ao litoral, ainda sem nome ou região precisa estabelecidos. Trate isso como detalhe pendente, não como licença para escolher arbitrariamente um local canônico.
-- O saldo inicial é uma estimativa GM conservadora e congelada para o snapshot inicial; não atribua a ele uma história de transações anteriores. Registre todas as mudanças posteriores conforme `core/10_ECONOMY_SYSTEM.md`.
+- O saldo inicial é uma estimativa conservadora do GM, congelada no snapshot inicial; não atribua a ele um histórico de transações anteriores. Registre todas as mudanças posteriores conforme `core/10_ECONOMY_SYSTEM.md`.
 
 ## Session Continuity
 

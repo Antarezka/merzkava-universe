@@ -69,17 +69,18 @@
  <path d="M123 91 l8 9 -8 9 -8 -9 Z" fill="#B84D37" stroke="#4A2A20" stroke-width="2.4"/>
  <circle cx="123" cy="100" r="3.3" fill="#FFF4D8"/>
 </g>
-<!-- Chain visibly begins below the cloud and connects its underside to the plaque nail. -->
+<!-- Chain descends from the cloud; the plaque overlays it, and the nail is drawn on top at the true rotated nail position. -->
 <g stroke-linecap="round" stroke-linejoin="round">
- <path d="M145 100 L145 181" fill="none" stroke="#080909" stroke-width="14"/>
- <path d="M144 101 L142 179" fill="none" stroke="#777" stroke-width="3"/>
+ <path d="M145 100 L146.3 231" fill="none" stroke="#080909" stroke-width="14"/>
+ <path d="M144 101 L145.3 229" fill="none" stroke="#777" stroke-width="3"/>
  <g fill="#171717" stroke="#888" stroke-width="2">
-  <ellipse cx="145" cy="117" rx="6" ry="9" transform="rotate(0 145 117)"/>
-  <ellipse cx="145" cy="136" rx="6" ry="9" transform="rotate(0 145 136)"/>
-  <ellipse cx="145" cy="155" rx="6" ry="9" transform="rotate(0 145 155)"/>
+  <ellipse cx="145.2" cy="117" rx="6" ry="9"/>
+  <ellipse cx="145.4" cy="137" rx="6" ry="9"/>
+  <ellipse cx="145.6" cy="157" rx="6" ry="9"/>
+  <ellipse cx="145.8" cy="177" rx="6" ry="9"/>
+  <ellipse cx="146" cy="197" rx="6" ry="9"/>
+  <ellipse cx="146.2" cy="217" rx="6" ry="9"/>
  </g>
- <circle cx="145" cy="181" r="9" fill="#171717" stroke="#B84D48" stroke-width="3"/>
- <path d="M140 177 L150 185 M150 177 L140 185" stroke="#D7B27D" stroke-width="1.5"/>
 </g>
 <g transform="rotate(4 145 430)" filter="url(#shadow)">
  <path d="M58 179 L229 191 L205 558 L34 546 Z" fill="url(#iron)" stroke="#050505" stroke-width="4"/>
@@ -95,5 +96,10 @@
  <g fill="#171717" text-anchor="middle" font-family="Georgia,serif" font-size="22" font-weight="700"><text x="133" y="329">M</text><text x="131" y="357">A</text><text x="129" y="385">P</text></g>
  <path d="M98 401 L165 406" stroke="#B84D48" stroke-width="2"/>
  <g fill="#8B3B2B" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700"><text x="128" y="422">R</text><text x="127" y="439">E</text><text x="126" y="456">G</text><text x="125" y="473">I</text><text x="124" y="490">O</text><text x="123" y="507">N</text><text x="122" y="524">S</text></g>
+</g>
+<!-- Foreground nail overlays the plaque at the exact transformed center of its original nail (133,240). -->
+<g>
+ <circle cx="146.3" cy="231.2" r="10" fill="#171717" stroke="#B84D48" stroke-width="3"/>
+ <path d="M141.3 226.2 L151.3 236.2 M151.3 226.2 L141.3 236.2" stroke="#D7B27D" stroke-width="1.5"/>
 </g>
 </svg>

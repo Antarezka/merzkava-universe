@@ -92,7 +92,7 @@
 
 - This does not claim every Golden Dragon region has a direct road to Dongxing. Internal interregional legs must be verified in the relevant regional module; where a connection is not listed, it remains an uncharted local leg rather than an assumed road.
 - Dongxing is the mapped mainland maritime departure point for this corridor; Cangqiong Harbor is the receiving harbor on Tianhai Yunzhou.
-- The southwestern ocean's official name, ship schedules, exact sailing path, fare, duration, and weather windows remain unestablished. The Windless / Still-Water Sea and Guixu Canghai are distinct sea systems; this corridor does not establish a direct route from Dongxing to either.
+- The southwestern ocean is Yunmeng Sea. Ship schedules, exact sailing duration, fare, and weather windows remain unestablished. The ordinary Dongxing-to-Cangqiong corridor crosses Eastern Azure Sea and Yunmeng Sea; it does not enter Wufeng Sea or Guixu Canghai.
 - The direct Longyuan Sky Transit Terminal ↔ Cangqiong Sky Transit Terminal air corridor remains the established scheduled alternative.
 
 ### Golden Dragon internal map register
@@ -153,7 +153,7 @@ All seven regions remain part of the same imperial branch: **Longyuan, Canglan, 
 **Separate Beiming journey:** Cangqiong Harbor → mainland coastal approach (exact landing unassigned) → Lawless Territories / northern wilderness → Nine Frost Wastes → Stonegate March → Frostveil Range → Beiming Heartland.
 
 - Tianhai's western approach to Lawless Territories is not a land bridge from the floating island; the sea-side approach and exact landing remain unspecified.
-- Tianhai floats above the unnamed southwestern ocean, not automatically above Guixu Canghai or the Windless / Still-Water Sea. Those are separate sea systems in the wider maritime network; exact connections and straits remain unassigned.
+- Tianhai floats above Yunmeng Sea, not Guixu Canghai or Wufeng Sea. The named passages connecting these sea systems are shown in the maritime layer above.
 - The northern coast also links Beiming's side to Azerion Forest's ruined/labyrinth exit. This is distinct from the easier Lawless entrance and is not a surveyed safe road.
 - A separate, established direct air corridor connects Cangqiong Sky Transit Terminal ↔ Beiming Heartland Sky Transit Terminal.
 
@@ -243,8 +243,8 @@ These external regions provide shared geographic context and can appear on more 
 - **The central lake of Azerion Forest** and the Mega Colossal Labyrinth beneath it are dangerous exploration features, not a normal public transport interchange. The labyrinth's exit opens to the northern deep-sea coast and is the ruined exit associated with the Beiming coastal approach; its internal passages remain unmapped.
 - **Golden Dragon's forest boundary:** a rushing river forms a trap-like barrier; a small prison island owned by Golden Dragon Empire lies in the middle of that rushing-water route. Do not invent a river name, bridge, safe ford, island coordinates, or prison details. The labyrinth's exit opens to the northern deep-sea coast and is the ruined exit associated with the Beiming coastal approach; its internal passages remain unmapped.
 - **Golden Dragon's forest boundary:** a rushing river forms a trap-like barrier; a small prison island owned by Golden Dragon Empire lies in the middle of that rushing-water route. Do not invent a river name, bridge, safe ford, island coordinates, or prison details.
-- **The unnamed southwestern ocean around Tianhai Yunzhou** must be crossed by a suitable vessel or the established energy-aircraft service; the floating island is not treated as a continuous mainland road.
-- **The Windless / Still-Water Sea** has no wind, waves, or currents anywhere in the sea. Its silence is a psychological hazard; it is also a favored corridor for specialized liquefied-energy Artificial Artifact vessels because ambushes are uncommon. This does not make its deep trench or high-tier Spirit Beast habitat safe.
+- **Yunmeng Sea around Tianhai Yunzhou** must be crossed by a suitable vessel or the established energy-aircraft service; the floating island is not treated as a continuous mainland road.
+- **Wufeng Sea (无风海)** has no wind, waves, or currents anywhere in the sea. Its silence is a psychological hazard; it is also a favored corridor for specialized liquefied-energy Artificial Artifact vessels because ambushes are uncommon. This does not make its deep trench or high-tier Spirit Beast habitat safe.
 - **Guixu Canghai** is a distinct ocean system and the most merciless named sea. Do not place Tianhai Yunzhou above it or assign a route into it without an approved geographic connection.
 - Beiming's northern coastal waters and Golden Dragon's eastern coastal waters are distinct, unnamed maritime areas. Exact straits, port locations, and connections between sea systems remain unknown.
 - The route framework never implies that a route is safe, open, free, fast, or accessible to every traveler.

@@ -25,6 +25,23 @@ Contoh penerapan yang diperbolehkan jika didukung canon dan kondisi setempat:
 
 Contoh tersebut adalah arah naratif, bukan penetapan canon baru. Jangan menganggap setiap desa memiliki teknologi tertentu, setiap rumah mampu membeli artefak, atau setiap warga memahami teori tingkat tinggi. Verifikasi katalog, wilayah, biaya, batas penggunaan, pengetahuan lokal, dan ketersediaan dari sumber resmi yang relevan. Jika detail belum ditetapkan, gunakan praktik umum yang tidak mengunci fakta baru atau biarkan rinciannya tidak diketahui.
 
+## HARD GATE: UJI IDENTITAS DUNIA MERZKAVA
+
+Narasi yang panjang, hidup, atau memakai istilah fantasy belum otomatis terasa seperti Merzkava. Sebelum mengirim gameplay normal, GM wajib memastikan adegan memiliki setidaknya satu hubungan konkret dan relevan dengan identitas Merzkava: sistem kekuatan, teknologi, ekonomi, budaya, struktur sosial, ekologi, sejarah yang diketahui, atau kondisi wilayah. Hubungan itu harus memengaruhi tindakan, pekerjaan, percakapan, keputusan, akses, biaya, risiko, atau lingkungan. Penyebutan Martial Soul, Spirit Realm, Spirit Ring, Thinker Grade, atau Artificial Artifact tanpa fungsi nyata tidak dihitung.
+
+### Gerbang lulus/gagal
+
+1. **Hubungan konkret:** tampilkan dampak sistem dunia melalui kejadian atau aktivitas, bukan sisipan ensiklopedia.
+2. **Konteks benar:** cocokkan detail dengan canon lokasi, akses barang/teknologi, kondisi ekonomi, profesi, pengetahuan, status, dan kemampuan tokoh. Jangan menganggap semua warga memiliki Artificial Artifact, sudah Awakening, memahami teori Thinker, atau mampu membeli layanan kultivasi.
+3. **Dampak nyata:** bila suatu sistem relevan, sistem itu harus menjelaskan atau mengubah sesuatu yang terjadi. Jangan menjadikan daftar istilah sebagai pengganti adegan.
+4. **Identitas lokal:** gunakan perbedaan regional yang memang ditetapkan canon. Jangan membuat Golden Dragon Empire, Tianhai Yunzhou, Beiming Gu, dan Lawless Territories terasa saling dapat ditukar.
+5. **Uji substitusi:** tanyakan secara internal: *jika nama Merzkava dan istilah proper diganti dengan fantasy generik, apakah adegan tetap sama tanpa perubahan berarti?* Jika ya dan konteks memungkinkan identitas dunia tampil, adegan gagal dan wajib direvisi.
+6. **Pengecualian proporsional:** momen sangat singkat, tidur, keintiman, respons darurat, atau fokus emosional sempit tidak perlu menyisipkan istilah sistem secara paksa. Pengecualian tidak membenarkan sesi yang terus-menerus terasa generik.
+
+Tidak ada kuota kata kunci dan tidak semua sistem harus muncul bersamaan. Satu detail yang berdampak lebih kuat daripada banyak istilah yang hanya disebut. Contohnya dapat berupa biaya awakening yang memengaruhi rencana keluarga, keterbatasan alat yang menghambat pekerjaan, atau perbedaan pengetahuan Thinker dan pengguna alat—hanya jika sesuai konteks dan canon. Improvisasi adegan tidak boleh bertentangan dengan canon atau otomatis menjadi sejarah/state permanen.
+
+Jika pemeriksaan substitusi gagal, jangan kirim adegan apa adanya. Revisi narasi, dialog, aktivitas NPC, atau konsekuensi dengan detail canon yang tepat. Jika konteks memang tidak memungkinkan hubungan langsung, jaga kesinambungan dan jangan mengarang fakta hanya untuk meloloskan pemeriksaan.
+
 ## Kehidupan Mortal dan karakter berlatar sederhana
 
 Karakter Mortal, warga desa, pekerja biasa, keluarga miskin, dan tokoh tanpa warisan khusus tetap harus terasa hidup di dalam fantasy cultivation. Latar sederhana bukan alasan untuk menghasilkan adegan generik yang bisa dipindahkan begitu saja ke dunia modern tanpa perubahan berarti.

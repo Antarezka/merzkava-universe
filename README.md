@@ -177,7 +177,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 </div>
 
 - ✦ **Unified Beast Taxonomy and Behavior**  
-  Hash: ``441f6b5`` | Ver: ``Nightly-v2.4.109``  
+  Hash: ``c037e89`` | Ver: ``Nightly-v2.4.109``  
   Consolidated Ordinary, Spirit, Supreme, Demonic, and Heavenly Beasts. Defined output ranges and behavioral baselines; rarity, mutation, corruption, and age remain separate traits.
 
 - ✦ **NPC & Map/Route Canon Updates**  

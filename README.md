@@ -62,8 +62,12 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 <table align="center" cellpadding="0" cellspacing="0" border="0">
 <tr>
-<td align="right" valign="bottom"><a href="world/WORLD.md"><img src="assets/kanban-world-lore.svg?v=2" alt="World Lore — vertical Japanese-style archive sign" width="142" /></a></td>
-<td align="left" valign="top"><a href="world/MAP_AND_REGIONS.md"><img src="assets/kanban-map-regions.svg?v=2" alt="Map and Regions — vertical Japanese-style archive sign" width="142" /></a></td>
+<td align="right" valign="top"><a href="world/WORLD.md"><img src="assets/kanban-world-lore.svg?v=2" alt="World Lore — vertical Japanese-style archive sign" width="116" /></a></td>
+<td width="116"></td>
+</tr>
+<tr>
+<td width="116"></td>
+<td align="left" valign="top"><a href="world/MAP_AND_REGIONS.md"><img src="assets/kanban-map-regions.svg?v=2" alt="Map and Regions — vertical Japanese-style archive sign" width="116" /></a></td>
 </tr>
 </table>
 

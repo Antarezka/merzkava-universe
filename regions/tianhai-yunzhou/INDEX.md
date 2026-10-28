@@ -19,5 +19,7 @@
 - [Bai Xuanyin](npcs/BAI_XUANYIN.md)
 - [Ji Zhaoning](npcs/JI_ZHAONING.md)
 - [Ji Ningzhao](npcs/JI_NINGZHAO.md)
+- [Lin Qiaoyu — youth circle](npcs/LIN_QIAOYU.md)
+- [Duan Haicheng — youth circle](npcs/DUAN_HAICHENG.md)
 
 Do not infer missing settlement-level NPCs, secret motives, abilities, or affiliations. Background residents remain situational.

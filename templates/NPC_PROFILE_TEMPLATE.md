@@ -90,3 +90,6 @@ Use the official numbered form `Spirit Realm N — Spirit [tier], [stage] Stage`
 - Define independent goals and constraints; NPC choices must not exist solely to help or obstruct the player.
 - Record only confirmed state changes and include cause/time when known. Do not claim off-screen simulation without an established procedure.
 - Regional registries should link to this one canonical profile rather than copying its biography.
+- For recurring relationships, state the direction of the NPC's attitude (for example, supportive, rivalrous, wary, transactional, or neutral) and classify it as pro, contra, neutral, or mixed when useful. These labels describe the profiled NPC's current stance only; never assume feelings are reciprocal.
+- Give each lasting relationship a credible basis or event. A circle roster does not imply that every member has met in person, knows another member's secrets, or is currently in the same location.
+- Keep circles within their own power by default. Cross-power relationships or acquaintance require an established canon basis or a recorded in-world event.

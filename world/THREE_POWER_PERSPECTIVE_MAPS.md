@@ -144,6 +144,7 @@ All seven regions remain part of the same imperial branch: **Longyuan, Canglan, 
        └─ easiest known entrance → Azerion Forest
            ├─ EASTERN boundary ··· rushing-river trap ··· [small prison island]
            │  → Golden Dragon Empire
+           ├─ central lake → hidden Inner Azerion (central forest; concealed by dense illusion mist)
            └─ central lake ruins → Mega Colossal Labyrinth
               └··· northern deep-sea ruined exit ··· → Beiming coast
 
@@ -195,6 +196,7 @@ The seven districts are **Yunxiao Terrace, Tianji Core, Cangqiong Harbor, Haiyue
     │  ├─ Beiming Heartland Sky Transit Terminal ⇧ AIR ⇧ Longyuan Terminal
     │  └··· northern coastal shoreline → Azerion Forest's ruined/labyrinth exit
         ← underground ruins ← central lake entrance in Azerion Forest
+        └─ hidden Inner Azerion (central forest; dense illusion mist)
     ├─ Stonegate March (mountain passages and border defense)
     │  └══ southern approach ··· Nine Frost Wastes [EXTERNAL]
     │      ··· snow valleys / cold forest margins
@@ -256,7 +258,7 @@ These external regions provide shared geographic context and can appear on more 
 |---|---|---|
 | **Nine Frost Wastes** | Wild northern areas outside Beiming Gu's official defenses; snowfields, frozen valleys, conifer forests, difficult mountains | Northern land corridor between the Beiming approach and the wider mainland frontier; hazardous and not uniformly controlled |
 | **Ashen Borderlands** | Outside the western and southwestern borders of Golden Dragon Empire; known villages and organizations | Optional western/southwestern wilderness context; not a mandatory leg on the mapped northern corridor |
-| **Azerion Forest** | Vast Spirit Beast forest extending from Lawless Territories into Golden Dragon Empire; enormous central lake, hidden Inner Azerion, dangerous Dead Zone; rushing-river trap corridor and Golden Dragon's small prison island at its imperial boundary; lake ruins connect to the Mega Colossal Labyrinth and its northern deep-sea exit | Main forest entrance is in Lawless Territories; the Golden Dragon boundary route is obstructed by rushing water and the prison island; Beiming's coastal approach uses the northern ruined/labyrinth exit, not a presumed safe forest road |
+| **Azerion Forest** | Vast Spirit Beast forest extending from Lawless Territories into Golden Dragon Empire; enormous central lake, hidden Inner Azerion concealed by dense illusion mist, dangerous Dead Zone; rushing-river trap corridor and Golden Dragon's small prison island at its imperial boundary; lake ruins connect to the Mega Colossal Labyrinth and its northern deep-sea exit | Main forest entrance is in Lawless Territories; the Golden Dragon boundary route is obstructed by rushing water and the prison island; Beiming's coastal approach uses the northern ruined/labyrinth exit, not a presumed safe forest road |
 | **Frostmirror Sea (霜镜海)** | Beiming Gu's northern coastal waters; connects around the northeastern maritime margin to Eastern Azure Sea | Ordinary northern maritime approach; Azerion labyrinth exit is dangerous and is not a port |
 | **Eastern Azure Sea (东青海)** | Golden Dragon eastern coastal waters and Xingluo / Dongxing maritime belt | Dongxing Port → Eastern Azure Sea → Yunmeng Sea → Cangqiong Harbor |
 | **Yunmeng Sea (云梦海)** | Southwestern ocean beneath Tianhai Yunzhou | Tianhai's home waters; connects to Dongxing's shipping lane and the Lawless-facing approach |

@@ -154,6 +154,7 @@ All seven regions remain part of the same imperial branch: **Longyuan, Canglan, 
 - **Mainland corridor:** Cangqiong Harbor → Yunmeng Sea → Eastern Azure Sea → Dongxing Port in Xingluo, Golden Dragon Empire.
 - **Wufeng Sea:** reached from Yunmeng Sea through Lantern Passage; Three-Lantern Passage links it back toward Eastern Azure Sea. Specialized liquefied-energy Artificial Artifact vessels are favored because ambushes are uncommon; the water has no wind, waves, or currents.
 - **Lawless and southern approach:** Yunmeng Sea's western/southern approach reaches Lawless Territories, then ordinary Black Tide Sea. Guixu Canghai lies beyond Black Tide Sea's southern outer boundary; no route skips the intervening ordinary sea.
+- **Southern Lawless route:** Lawless southern coast → Southwake Port (南潮港) → ordinary Black Tide Sea → Lanternhook Isles (钩灯群岛) → southern outer boundary → Guixu Canghai. The isles contain Red Lantern Cay, Bitterglass Isle, and Dicewake Isle. Details: `world/LAWLESS_SOUTHERN_PORT_AND_ISLES.md`.
 
 ### Tianhai Yunzhou → Golden Dragon Empire
 

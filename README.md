@@ -60,15 +60,11 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 <img src="assets/world-archive-scattered.svg?v=1" alt="Merzkava World Archive — scattered field notes, maps, lore files and regional records" width="100%" />
 
-<table align="center" cellpadding="0" cellspacing="0" border="0">
-<tr>
-<td rowspan="2" align="right" valign="top"><a href="world/WORLD.md"><img src="assets/kanban-world-lore.svg?v=3" alt="World Lore — tall vertical archive sign" width="96" /></a></td>
-<td align="left" valign="top"><img src="assets/kanban-spacer.svg?v=1" width="1" height="105" alt="" /></td>
-</tr>
-<tr>
-<td align="left" valign="top"><a href="world/MAP_AND_REGIONS.md"><img src="assets/kanban-map-regions.svg?v=3" alt="Map and Regions — vertical archive sign beginning halfway down the World Lore sign" width="96" /></a></td>
-</tr>
-</table>
+<div align="center">
+
+<a href="world/WORLD.md"><img src="assets/kanban-world-lore.svg?v=3" alt="World Lore — tall vertical archive sign" width="96" align="left" /></a><a href="world/MAP_AND_REGIONS.md"><img src="assets/kanban-map-regions.svg?v=3" alt="Map and Regions — vertical archive sign beginning halfway down the World Lore sign" width="96" align="right" /></a>
+
+</div>
 
 <sub>THE MAP SHOWS THE WAY · THE ARCHIVE HOLDS THE DETAILS</sub>
 

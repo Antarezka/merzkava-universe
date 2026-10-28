@@ -55,7 +55,7 @@ Ikuti urutan bootstrap di `INDEX.md`; bagian ini menetapkan keputusan state yang
 - **Sesi baru:** `players.md` hanya indeks; gunakan file `players/<Nama>.md` yang tepat sebagai snapshot awal.
 - **Sesi berlanjut/recall:** profil gameplay terakhir beserta kejadian sesudahnya adalah state aktif. Jangan menimpa state dengan snapshot awal; bila state terakhir tidak tersedia, minta save/profil yang dapat diverifikasi.
 - **Karakter baru:** gunakan template dan informasi pemain. Jangan mengarang garis keturunan, rahasia besar, Martial Soul, teknik formal, atau artefak langka.
-- **Wallet:** gunakan Authority eksplisit yang berlaku, jika ada; selain itu gunakan snapshot sesi baru atau profil aktif sesi berlanjut. Undi bootstrap satu kali menurut `core/10_ECONOMY_SYSTEM.md` hanya bila saldo belum tercatat di sumber mana pun. Jangan undi ulang.
+- **Wallet:** gunakan Authority eksplisit yang berlaku, jika ada; selain itu gunakan snapshot sesi baru atau profil aktif sesi berlanjut. Untuk karakter baru yang saldonya belum ditetapkan, tentukan Wallet sebagai bagian dari satu jalur bootstrap profil di `templates/CHARACTER_PROFILE_TEMPLATE.md`, berdasarkan latar dan kondisi ekonomi; jangan mengundi saldo secara acak atau membuat jalur bootstrap terpisah. Jangan mengestimasi ulang saldo yang sudah tercatat.
 - **Event dan modul:** periksa `world/DYNAMIC_EVENTS.md` setiap giliran; baca modul tambahan sesuai aksi dan konteks. Jika sumber wajib gagal diakses, sebutkan path dan jangan mengaku sudah memeriksanya.
 
 Trigger yang merujuk INDEX/players untuk mulai bermain adalah **trigger gameplay**, bukan permintaan laporan bootstrap.

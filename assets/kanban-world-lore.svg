@@ -1,22 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="300" height="470" viewBox="0 0 300 470" role="img" aria-labelledby="title">
-<title id="title">World Lore — single-chain hanging archive plaque</title>
+<title id="title">World Lore — archive plaque suspended from an ancient Chinese ruyi cloud</title>
 <defs>
  <filter id="shadow" x="-30%" y="-20%" width="170%" height="160%"><feDropShadow dx="2" dy="7" stdDeviation="5" flood-color="#151515" flood-opacity=".34"/></filter>
  <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFF4D8"/><stop offset=".55" stop-color="#E8D8B5"/><stop offset="1" stop-color="#CBB58B"/></linearGradient>
  <linearGradient id="iron" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#080909"/><stop offset=".5" stop-color="#383838"/><stop offset="1" stop-color="#111212"/></linearGradient>
 </defs>
-<!-- One heavy chain, centered over the plaque; one nail is fixed to the tilted top rail. -->
+<!-- Ancient ruyi cloud: the chain visibly emerges from its center, as if suspended from the heavens. -->
+<g stroke-linejoin="round" stroke-linecap="round">
+ <path d="M42 30 C31 30 27 22 32 15 C36 8 47 9 52 15 C53 4 64 0 73 6 C79 -1 92 1 96 10 C106 2 119 8 120 18 C132 15 140 23 136 31 C132 39 120 39 111 35 L66 35 C57 40 47 38 42 30 Z" fill="#E8D8B5" stroke="#7A4A2A" stroke-width="3"/>
+ <path d="M36 23 C42 17 47 19 51 24 C54 13 65 11 73 20 C80 9 91 12 96 22 C104 13 115 17 117 26 C123 24 129 26 132 30" fill="none" stroke="#B66D2C" stroke-width="2.5"/>
+ <path d="M56 31 C65 27 72 30 78 33 M92 32 C99 28 106 29 112 33" fill="none" stroke="#B66D2C" stroke-width="1.5"/>
+ <circle cx="84" cy="34" r="3" fill="#B84D37" stroke="#FFF4D8" stroke-width="1"/>
+</g>
+<!-- One heavy chain, centered under the cloud; one nail is fixed to the tilted top rail. -->
 <g stroke-linejoin="round">
- <path d="M103 0 L103 77" fill="none" stroke="#080909" stroke-width="13" stroke-linecap="round"/>
- <path d="M100 0 L100 75" fill="none" stroke="#696969" stroke-width="3" stroke-linecap="round"/>
+ <path d="M84 35 L103 77" fill="none" stroke="#080909" stroke-width="13" stroke-linecap="round"/>
+ <path d="M82 35 L100 75" fill="none" stroke="#696969" stroke-width="3" stroke-linecap="round"/>
  <g fill="#171717" stroke="#777" stroke-width="2">
-  <ellipse cx="103" cy="12" rx="7" ry="11" transform="rotate(8 103 12)"/>
-  <ellipse cx="103" cy="30" rx="7" ry="11" transform="rotate(-8 103 30)"/>
-  <ellipse cx="103" cy="48" rx="7" ry="11" transform="rotate(8 103 48)"/>
-  <ellipse cx="103" cy="66" rx="7" ry="11" transform="rotate(-8 103 66)"/>
+  <ellipse cx="89" cy="46" rx="7" ry="11" transform="rotate(18 89 46)"/>
+  <ellipse cx="94" cy="57" rx="7" ry="11" transform="rotate(18 94 57)"/>
+  <ellipse cx="99" cy="68" rx="7" ry="11" transform="rotate(18 99 68)"/>
+  <ellipse cx="103" cy="77" rx="7" ry="11" transform="rotate(18 103 77)"/>
  </g>
- <circle cx="103" cy="78" r="8" fill="#171717" stroke="#B66D2C" stroke-width="3"/>
- <path d="M99 75 L107 81 M107 75 L99 81" stroke="#D7B27D" stroke-width="1.5"/>
+ <circle cx="103" cy="89" r="8" fill="#171717" stroke="#B66D2C" stroke-width="3"/>
+ <path d="M99 86 L107 92 M107 86 L99 92" stroke="#D7B27D" stroke-width="1.5"/>
 </g>
 <g transform="rotate(-2 105 270)" filter="url(#shadow)">
  <path d="M27 79 L178 74 L187 424 L36 429 Z" fill="url(#iron)" stroke="#050505" stroke-width="4"/>

@@ -64,7 +64,8 @@ The worldwide institution is the **Merzkava Appraisal Authority (MAA)**, commonl
 The MAA may examine and classify when specialist identification or a formal ruling is warranted:
 - goods with disputed, unusual, hidden, or mechanically consequential quality;
 - Relics, Ancient Artifacts, Artificial Artifacts, unidentified objects, and unusual loot;
-- beasts/specimens whose identity, threat, mutation, or classification materially matters to the scene;
+- beasts/specimens whose identity, threat, mutation, or classification materially matters to the scene; use the canonical Beast categories and behavioral baselines in `bestiary/SPIRIT_BEAST_RULES.md` (Ordinary Beast, Spirit Beast, Supreme Beast, Demonic Beast, and Heavenly Beast);
+- rarity, mutation, or corruption are additional traits, not automatic replacements for a Beast's main category;
 - Martial Souls, referred to the specialist procedure in `core/MARTIAL_SOUL_AWAKENING.md` rather than the generic goods/beast score.
 
 This service list does not require routine appraisal of every meal, ordinary herb, common material, or everyday purchase. Such goods use the relevant market's normal economic category unless concrete evidence makes their quality or identity meaningfully uncertain.

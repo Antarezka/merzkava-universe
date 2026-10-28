@@ -45,6 +45,14 @@ For each settlement or site, fill in details only when confirmed:
 - Thinker workshops / artifact facilities: Belum ditetapkan
 - Do not invent local power rankings, special rules, or rare abilities.
 
+## 7.1 Crimson Sovereign Court — Hidden Authority
+
+**Crimson Sovereign Court (赤尊宫 · Chì Zūn Gōng)** is a concealed power group operating above the Crimson Keel Brotherhood. Its leader is **Ying Wuxin (嬴无心)**, whose canonical profile is `world/NPC_YING_WUXIN.md`.
+
+The Court's existence and authority are deliberately hidden; do not treat it as a public government, a fourth major power, or a faction that openly controls all Black Tide settlements. Ying Wuxin's influence from the shadows is comparable in reach to an empire, while the precise chain of command, membership, territory, bases, and operational structure remain unknown. Crimson Keel Brotherhood's established activities remain smuggling, piracy, and illegal escort work; the Court's shadow authority does not imply every cell knows the leader's identity or acts under identical orders.
+
+Ying Wuxin is Spirit Realm 9 — Spirit Primordial, with Martial Soul Asura — Myth. He is cold and sadistic, and conceals his capabilities so adversaries cannot reliably identify his weaknesses. His coercive Soul Illusion can invert perception of core traits and emotions. Targets may recognize the manipulation and attempt resistance or escape, only for the effect to reassert control and redirect them into submission and displayed affection. This is coercion, not genuine consent. Women held under his control must not be portrayed as voluntarily devoted merely because the ability makes them appear loving or loyal. The precise mechanics and limits remain unknown; use the canonical profile and do not invent counters or weaknesses.
+
 ## 7. Factions and Local Authority
 - Dreadtide Sect (associated with the area; current control unconfirmed)
 - Abyssal Moon Sect (associated with the area; current control unconfirmed)

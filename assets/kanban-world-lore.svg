@@ -1,21 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="220" height="420" viewBox="0 0 220 420" role="img" aria-labelledby="title">
-<title id="title">World Lore — Merzkava Archive</title>
-<defs><filter id="s" x="-30%" y="-20%" width="160%" height="150%"><feDropShadow dx="0" dy="5" stdDeviation="4" flood-color="#151515" flood-opacity=".3"/></filter></defs>
-<g filter="url(#s)">
-<path d="M25 20H195V390H25Z" fill="#151515" stroke="#FFB36B" stroke-width="4"/>
-<path d="M35 30H185V380H35Z" fill="none" stroke="#FFB36B" stroke-width="1.5"/>
-<path d="M45 40H175V370H45Z" fill="none" stroke="#FFFFFF" stroke-opacity=".4"/>
-<path d="M15 15H205V35H15ZM15 375H205V395H15Z" fill="#FFB36B" stroke="#151515" stroke-width="3"/>
-<circle cx="110" cy="70" r="15" fill="#F25C54" stroke="#FFFFFF" stroke-width="1.5"/>
-<path d="M110 58V82M98 70H122" stroke="#FFFFFF" stroke-width="2"/>
-<text x="110" y="118" fill="#FFB36B" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" letter-spacing="3">MERZKAVA</text>
-<path d="M73 133H147" stroke="#FFFFFF" stroke-width="1"/>
-<g fill="#FFFFFF" text-anchor="middle" font-family="Georgia, serif" font-size="21" font-weight="700">
-<text x="110" y="174">W</text><text x="110" y="202">O</text><text x="110" y="230">R</text><text x="110" y="258">L</text><text x="110" y="286">D</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="470" viewBox="0 0 300 470" role="img" aria-labelledby="title">
+<title id="title">World Lore — hanging iron archive plaque</title>
+<defs>
+  <filter id="shadow" x="-30%" y="-20%" width="170%" height="160%"><feDropShadow dx="2" dy="7" stdDeviation="5" flood-color="#151515" flood-opacity=".34"/></filter>
+  <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFF4D8"/><stop offset=".55" stop-color="#E8D8B5"/><stop offset="1" stop-color="#CBB58B"/></linearGradient>
+  <linearGradient id="iron" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#080909"/><stop offset=".5" stop-color="#383838"/><stop offset="1" stop-color="#111212"/></linearGradient>
+</defs>
+<!-- Connecting chain continues toward the second plaque at the right edge -->
+<g fill="none" stroke="#080909" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M177 88 C210 106 242 112 299 103" stroke-width="4"/>
+  <path d="M177 88 C210 106 242 112 299 103" stroke="#5A5A5A" stroke-width="1.2"/>
+  <path d="M91 66 L91 26"/>
+  <path d="M91 26 C91 15 103 13 108 21 C113 29 105 37 98 32"/>
 </g>
-<path d="M78 302H142" stroke="#FFB36B" stroke-width="2"/>
-<g fill="#FFB36B" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700">
-<text x="110" y="317">L</text><text x="110" y="334">O</text><text x="110" y="351">R</text><text x="110" y="368">E</text>
+<g fill="none" stroke="#171717" stroke-width="4">
+  <ellipse cx="91" cy="45" rx="5.5" ry="10" transform="rotate(-12 91 45)"/>
+  <ellipse cx="91" cy="58" rx="5.5" ry="10" transform="rotate(12 91 58)"/>
 </g>
-<circle cx="47" cy="51" r="3" fill="#FFE066"/><circle cx="173" cy="51" r="3" fill="#FFE066"/><circle cx="47" cy="359" r="3" fill="#FFE066"/><circle cx="173" cy="359" r="3" fill="#FFE066"/>
-</g></svg>
+<g transform="rotate(-2 105 270)" filter="url(#shadow)">
+  <path d="M27 79 L178 74 L187 424 L36 429 Z" fill="url(#iron)" stroke="#050505" stroke-width="4"/>
+  <path d="M34 87 L171 82 L180 415 L43 420 Z" fill="url(#paper)" stroke="#B66D2C" stroke-width="3"/>
+  <path d="M44 97 L161 93 L169 404 L52 408 Z" fill="none" stroke="#2A2925" stroke-width="1.4"/>
+  <path d="M50 105 L155 101 L163 396 L58 400 Z" fill="none" stroke="#B66D2C" stroke-width="1"/>
+  <path d="M29 81 L177 76 L180 94 L32 99 Z" fill="#171717" stroke="#C68A48" stroke-width="2"/>
+  <circle cx="47" cy="111" r="4" fill="#151515" stroke="#D39A55" stroke-width="1.5"/><circle cx="153" cy="107" r="4" fill="#151515" stroke="#D39A55" stroke-width="1.5"/>
+  <circle cx="55" cy="395" r="4" fill="#151515" stroke="#D39A55" stroke-width="1.5"/><circle cx="160" cy="391" r="4" fill="#151515" stroke="#D39A55" stroke-width="1.5"/>
+  <circle cx="104" cy="131" r="13" fill="#B84D37" stroke="#151515" stroke-width="3"/>
+  <path d="M104 121 V141 M94 131 H114" stroke="#FFF4D8" stroke-width="2"/>
+  <text x="104" y="166" fill="#29231B" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" letter-spacing="2.3">MERZKAVA</text>
+  <path d="M68 180 L140 178" stroke="#B66D2C" stroke-width="2"/>
+  <g fill="#171717" text-anchor="middle" font-family="Georgia,serif" font-size="22" font-weight="700">
+    <text x="104" y="216">W</text><text x="104" y="243">O</text><text x="104" y="270">R</text><text x="104" y="297">L</text><text x="104" y="324">D</text>
+  </g>
+  <path d="M72 340 L136 338" stroke="#B66D2C" stroke-width="2"/>
+  <g fill="#8B3B2B" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="700">
+    <text x="104" y="356">L</text><text x="104" y="373">O</text><text x="104" y="390">R</text><text x="104" y="407">E</text>
+  </g>
+</g>
+</svg>

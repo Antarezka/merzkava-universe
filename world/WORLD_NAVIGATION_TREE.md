@@ -148,6 +148,30 @@ The seven district names and broad identities are established, but they are not 
 
 The seven district names and broad identities are established in one consolidated regional module. Exact adjacency, named towns/villages, district officials, and most internal routes remain unestablished. The seven legacy district files are compatibility pointers, not independent canon sources.
 
+## 2. Maritime network — unified sea and port graph
+
+```text
+BEIMING GU — NORTHERN COAST
+  └── Frostmirror Sea (霜镜海)
+       └── northeastern maritime passage
+            Eastern Azure Sea (东青海) ── Dongxing Port (within Dongxing, Xingluo)
+                 └── eastern open-water passage
+                      Yunmeng Sea (云梦海) ── Cangqiong Harbor (Tianhai Yunzhou)
+                           ├── Lantern Passage ── Wufeng Sea (无风海)
+                           │                       └── Three-Lantern Passage ── Eastern Azure Sea
+                           └── western/southern approach ── Lawless Territories
+                                                               └── ordinary Black Tide Sea
+                                                                    └── southern outer boundary
+                                                                         Guixu Canghai (归墟沧海), far-southern polar ocean
+```
+
+- **Frostmirror Sea** is Beiming Gu's northern coastal sea; the Azerion labyrinth exit on its coast is dangerous and is not a normal port.
+- **Eastern Azure Sea** serves the Golden Dragon eastern coast. Dongxing Port is the wharf within Dongxing, not a new settlement.
+- **Yunmeng Sea** is Tianhai Yunzhou's home ocean; the established main shipping corridor links Cangqiong Harbor with Dongxing Port.
+- **Wufeng Sea** has no wind, waves, or currents anywhere within its boundaries. It is connected by Lantern Passage to Yunmeng Sea and by Three-Lantern Passage toward Eastern Azure Sea; specialized liquefied-energy Artificial Artifact vessels are favored because ambushes are uncommon.
+- **Black Tide Sea** is ordinary water around the Lawless Black Tide Expanse and separates Lawless Territories from Guixu Canghai.
+- **Guixu Canghai** is the world's far-southern, literally frigid, most dangerous ocean, beyond the southern outer boundary of Black Tide Sea. Lawless Territories are its nearest major organized region, but not directly adjacent.
+
 ## 3. Inter-power transit graph — established edges only
 
 | Edge | Direction | Transport | Fare | Operating window | Intermediate stops / duration | Canon status |

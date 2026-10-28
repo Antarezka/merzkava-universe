@@ -57,6 +57,7 @@ Pilih sumber berdasarkan aksi dan lokasi; jika beberapa sistem terdampak, baca s
 | Form proposal untuk menambah/memperbarui event dunia; bukan canon sampai disetujui admin | `templates/WORLD_EVENT_UPDATE_TEMPLATE.md` |
 | Kategori Relic/Ancient Artifact dan katalog | `world/ARTIFACTS_AND_RELICS.md` |
 | Katalog dan lore Artificial Artifact | `world/ARTIFICIAL_ARTIFACTS.md` |
+| Penjara, bound items, rantai pengekang Martial Soul/fisik, collar penyegelan, batas area, dan tahanan salah tuduh | `world/PRISON_AND_BOUND_ITEMS.md` |
 | Satiety, kategori aktivitas dan pengali, jadwal/jendela makan terlewat, metabolisme Spirit Realm, tidur malam, konsumsi makanan, dan pengubah kondisi tubuh | `core/HUNGER_AND_METABOLISM.md` |
 
 

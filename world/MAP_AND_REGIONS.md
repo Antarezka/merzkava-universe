@@ -230,3 +230,8 @@ The **Wanluo Sacred Expanse** is a sacred region centered on the World Knowledge
 Its pilgrimage roads developed gradually through repeated travel and converge on the Tower across generations. Four connected settlement districts are recognized: Pilgrim, Scholar, Merchant, and Administration. Access to the region is open under local rules with guarding and checks, but access to the region does not grant unrestricted access to the Tower or restricted facilities.
 
 Ordo Suci Tianming, the world's largest religious organization by follower count in the current setting, maintains its headquarters—the Sanctum of Ten Thousand Vows—within the wider region, separate from the Tower. The Shen family is one of several parties with rights and responsibilities in administering the Tower; it does not own the relic. See `world/WANLUO_SACRED_EXPANSE.md` for the full geographic and institutional reference.
+
+
+## 9. Half-beast safety and restraint abuse — regional map context
+
+The three major powers prohibit the enslavement of half-beasts, but corrupt elites and criminal operators still misuse restraint devices to capture and enslave them. This abuse is especially common in the Lawless Territories. Half-beasts are therefore rarely encountered openly there unless they are strong enough to protect themselves or deter captors; this is a regional tendency, not an absolute population rule. See `world/PRISON_AND_BOUND_ITEMS.md` for restraint categories and custody context.

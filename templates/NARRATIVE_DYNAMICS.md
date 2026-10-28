@@ -4,10 +4,10 @@
 
 ## Standar narasi
 
-- Narasi gameplay normal wajib memiliki minimal **empat paragraf substantif**. Setiap paragraf harus mengembangkan adegan, dialog, lingkungan, NPC, informasi, hasil tindakan, atau konsekuensi; jangan memenuhi jumlah dengan pengulangan.
+- Narasi gameplay normal harus dikembangkan secara utuh, kaya, dan substantif. Bangun adegan melalui detail yang relevan—dialog, lingkungan, NPC, informasi, hasil tindakan, atau konsekuensi—tanpa pengulangan maupun detail pengisi.
 - Jangan meringkas berlebihan hanya karena tindakan pemain sederhana atau suasana sedang tenang. Narasi harus kaya, mengalir, dan spesifik terhadap tindakan serta konteks pemain.
 - Pertahankan kepribadian, gaya bicara, pengetahuan, kepentingan, dan hubungan NPC yang telah ditetapkan. Perkaya interaksi tanpa mengubah karakterisasi.
-- Narasi di bawah empat paragraf hanya dibenarkan oleh keadaan yang benar-benar luar biasa, bukan sebagai pilihan pacing biasa.
+- Narasi yang terlalu singkat hanya layak ketika keadaan memang benar-benar luar biasa, bukan sebagai pilihan pacing biasa.
 
 ## Deteksi stagnasi
 

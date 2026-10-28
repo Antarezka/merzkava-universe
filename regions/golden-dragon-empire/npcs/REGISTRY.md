@@ -23,9 +23,13 @@
 
 Their detailed profiles own their motivations and relationship entries. Circle ties are not proof of a prior physical meeting, and one NPC's disposition does not automatically establish the other's.
 
-## Other officials and recurring NPCs
+## Other officials, institutions, and recurring NPCs
 
-Use the official civil-administration roster and relevant local module for officeholders not represented by a separate detailed profile here. Do not infer a current officeholder or create a conflicting profile.
+| NPC / institution | Established role | Last-confirmed location | Canonical profile |
+|---|---|---|---|
+| Komite Auditor Keuangan Khusus Kekaisaran | Imperial financial-audit institution; head is clean, deputy and lower personnel's integrity unknown | Golden Dragon Empire; exact office and current deployment unconfirmed | [IMPERIAL_SPECIAL_FINANCIAL_AUDIT_COMMITTEE.md](IMPERIAL_SPECIAL_FINANCIAL_AUDIT_COMMITTEE.md) |
+
+Use the official civil-administration roster and relevant local module for officeholders not represented by a separate detailed profile here. Do not infer a current officeholder or create a conflicting profile. The committee's existence does not establish that any deputy or subordinate committed corruption or evidence manipulation.
 
 ## Registry rules
 

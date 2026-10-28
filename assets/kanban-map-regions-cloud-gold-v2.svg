@@ -71,12 +71,12 @@
 </g>
 <!-- Chain visibly begins below the cloud and connects its underside to the plaque nail. -->
 <g stroke-linecap="round" stroke-linejoin="round">
- <path d="M134 124 L145 181" fill="none" stroke="#080909" stroke-width="14"/>
- <path d="M133 125 L142 179" fill="none" stroke="#777" stroke-width="3"/>
+ <path d="M145 100 L145 181" fill="none" stroke="#080909" stroke-width="14"/>
+ <path d="M144 101 L142 179" fill="none" stroke="#777" stroke-width="3"/>
  <g fill="#171717" stroke="#888" stroke-width="2">
-  <ellipse cx="136" cy="136" rx="7" ry="10" transform="rotate(10 136 130)"/>
-  <ellipse cx="139" cy="153" rx="7" ry="10" transform="rotate(10 139 148)"/>
-  <ellipse cx="142" cy="170" rx="7" ry="10" transform="rotate(10 142 166)"/>
+  <ellipse cx="145" cy="117" rx="6" ry="9" transform="rotate(0 145 117)"/>
+  <ellipse cx="145" cy="136" rx="6" ry="9" transform="rotate(0 145 136)"/>
+  <ellipse cx="145" cy="155" rx="6" ry="9" transform="rotate(0 145 155)"/>
  </g>
  <circle cx="145" cy="181" r="9" fill="#171717" stroke="#B84D48" stroke-width="3"/>
  <path d="M140 177 L150 185 M150 177 L140 185" stroke="#D7B27D" stroke-width="1.5"/>

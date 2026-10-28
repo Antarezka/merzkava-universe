@@ -21,7 +21,7 @@
 - **Equipment:** Pakaian sehari-hari sederhana yang masih layak digunakan (estimasi GM setelah keluarganya kehilangan aset dan kedudukan). Tidak ada senjata atau perlengkapan khusus yang ditetapkan.
 - **Inventory:** Belum ada barang pribadi tertentu yang tercatat.
 - **Assets Bangunan:** Tidak ada bangunan atau properti yang tercatat sebagai milik Luca. Aset keluarga telah dikenai vonis penyitaan menurut latar belakang.
-- **Wallet (wealth):** 0 xc | 0 xs | 0 xg | 0 zj | 0 az (**estimasi awal konservatif GM**: keluarga kehilangan aset melalui vonis penyitaan, dan belum ada penghasilan pribadi Luca yang ditetapkan. Ibunya memperoleh nafkah dari berjualan bakpao, tetapi uang hasil penjualan tidak otomatis menjadi milik Luca. Saldo ini adalah baseline tetap, bukan klaim tentang transaksi masa lalu; jangan diundi ulang).
+- **Wallet (wealth):** 35 xc | 2 xs | 0 xg | 0 zj | 0 az (**estimasi awal GM**: uang pribadi terbatas untuk kebutuhan sehari-hari, dengan mempertimbangkan bahwa Luca masih hidup dalam kondisi sulit setelah keluarganya kehilangan aset. Ini bukan penghasilan ibunya dan bukan catatan transaksi masa lalu; saldo awal ini dibekukan dan tidak boleh diundi ulang).
 - **Teknik / Kemampuan:** Memiliki ketangguhan dan daya tahan mental yang terbentuk dari kesulitan hidup (deskriptif, bukan bonus mekanis). Tidak ada teknik kultivasi atau kemampuan tempur formal yang tercatat.
 - **Tujuan Saat Ini:** Bertahan dan menjadi salah satu yang terbaik di akademi agar memperoleh kemampuan serta pengaruh untuk membuktikan bahwa keluarganya tidak bersalah dan memulihkan nama baik mereka.
 
@@ -50,7 +50,7 @@ Kini, Luca bertekad untuk bertahan dan menjadi salah satu yang terbaik di akadem
 - Ketangguhan dan sikap dinginnya tidak otomatis membuktikan kemahiran duel, bonus numerik, kekebalan, atau keberhasilan yang terjamin.
 - Vonis penyitaan aset dan pencabutan hak merupakan fakta latar yang diberikan pemain; jangan mengarang tuduhan hukum spesifik, pihak yang menjebak keluarga, bukti rahasia, atau konspirasi sebagai fakta terkonfirmasi.
 - Ibunya berjualan bakpao di pasar, tetapi penghasilan tersebut tidak otomatis menjadi saldo atau kepemilikan Luca.
-- Wallet awal adalah estimasi konservatif GM yang dibekukan dalam snapshot ini. Jangan mengarang transaksi sebelumnya untuk menjelaskan saldo. Catat perubahan selanjutnya sesuai `core/10_ECONOMY_SYSTEM.md`.
+- Wallet awal sebesar `35 xc | 2 xs | 0 xg | 0 zj | 0 az` adalah estimasi GM untuk uang pribadi terbatas Luca, bukan saldo yang berasal dari penghasilan ibunya atau transaksi masa lalu. Saldo awal ini dibekukan dalam snapshot; jangan mengarang transaksi sebelumnya. Catat perubahan selanjutnya sesuai `core/10_ECONOMY_SYSTEM.md`.
 
 ## Session Continuity
 

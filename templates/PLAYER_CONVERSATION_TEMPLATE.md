@@ -12,6 +12,12 @@ CONVO — [Nama Karakter]
 
 **Aksiku:** [Tulis tindakan karakter di sini]
 
+## Jika Trigger Dikirim Tanpa Nama Karakter
+
+Jika player hanya mengirim tautan/trigger tanpa nama karakter yang jelas, GM wajib berhenti sebelum narasi dan menanyakan apakah nama belum ditulis atau salah ketik. Dalam pertanyaan yang sama, tampilkan daftar wilayah pilihan, minta pilihan Spirit Realm sambil merekomendasikan Mortal untuk pengalaman awal terbaik, dan jelaskan pilihan karakter manusia atau half-beast. Rincian wilayah, cara menangani nama yang hilang, dan aturan estimasi field ambigu mengikuti `templates/AUTHORITY_ORDER.md`.
+
+Jika player sudah memberikan nama dan latar belakang tetapi tidak mengisi field lain, jangan memaksa formulir panjang: GM mengisi detail ambigu dengan estimasi wajar berbasis latar dan canon. Jangan mengarang kemampuan, Martial Soul yang telah Awakening, Spirit Ring, garis keturunan, atau fakta penting tanpa dukungan.
+
 ## Batas Pemanggilan
 
 - INDEX adalah pintu masuk dan pengatur alur; ikuti instruksinya untuk menentukan sumber berikutnya.

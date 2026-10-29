@@ -1,7 +1,7 @@
 # Merzkava Universe — Artificial Artifacts
 
 **Status:** Artificial Artifact reference and catalog.  
-**Mechanics authority:** `core/THINKER_AND_FORMULATION.md` remains the sole source for Thinker progression, production requirements, and the official baseline success-chance matrix. This file organizes known artifacts and their documented functions.
+**Mechanics authority:** `core/THINKER_AND_FORMULATION.md` is the sole authority for the mandatory Thinker path, production requirements and baseline success-chance matrix (§5), and Artificial Artifact Condition Score (§14). This file organizes known artifacts and their documented functions only; it does not establish an alternate production or condition system.
 
 ## 1. Definition
 

@@ -35,8 +35,7 @@ Pilih sumber berdasarkan aksi dan lokasi; jika beberapa sistem terdampak, baca s
 | Combat, serangan beruntun, multi-hit, combo, damage, pertahanan | `gameplay/COMBAT_SYSTEM.md` |
 | HP | `core/HP_SYSTEM.md` |
 | Cedera dan pemulihan injury | `core/INJURY_SYSTEM.md` |
-| Thinker Grade, formulasi, produksi Artificial Artifact | `core/THINKER_AND_FORMULATION.md` |
-| Ujian resmi Thinker, kelayakan Grade 1–10, engraver blueprint, token, kontribusi institut | `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md` + `core/THINKER_AND_FORMULATION.md` |
+| **Jalur Thinker tunggal — wajib:** pendidikan dasar → tahap fokus → Apprentice Examination → Grade 1 → ujian dan prasyarat Grade berikutnya → engraver blueprint untuk Grade 7–10 → Condition Score Artificial Artifact → provenance dan catatan | `core/THINKER_AND_FORMULATION.md` (otoritas mekanik tunggal); `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md` hanya untuk administrasi institut dan konteks regional |
 | Harga, transaksi, kurs, aset, Currency | `core/10_ECONOMY_SYSTEM.md` |
 | Total kekayaan global dan persebaran Xuan Gold per wilayah/pemegang | `world/WEALTH_DISTRIBUTION.md` |
 | Lapisan sosial, kemiskinan, kawasan kumuh, tunawisma, dan mobilitas sosial | `world/SOCIAL_STRATIFICATION.md` |
@@ -77,6 +76,7 @@ Pilih sumber berdasarkan aksi dan lokasi; jika beberapa sistem terdampak, baca s
 - `NIGHTLY_VERSION.md`: satu-satunya sumber versi Nightly untuk header gameplay; perbarui saat versi Nightly berubah.
 - `world/DYNAMIC_EVENTS.md`: registry event canon; periksa setiap giliran.
 - `templates/WORLD_EVENT_UPDATE_TEMPLATE.md`: proposal event; bukan canon sampai disetujui dan di-commit owner/admin.
+- **HARD GATE THINKER:** bila aksi, karakter, NPC, ujian, pembelajaran, formulasi, produksi, appraisal kondisi Artificial Artifact, engraver, token, atau kontribusi menyentuh jalur Thinker, baca `core/THINKER_AND_FORMULATION.md` terlebih dahulu dan terapkan seluruh urutan mandatory-nya. Baca `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md` hanya untuk detail administrasi/regional yang relevan; file itu bukan jalur alternatif dan tidak boleh menimpa mekanik core. Untuk waktu/Satiety, uang, katalog fungsi artefak, dan anti-cheat, baca sumber domain masing-masing juga.
 - Modul mekanik/world adalah otoritas untuk cakupannya. `players.md` adalah indeks; `players/<Nama>.md` adalah snapshot awal; profil gameplay terakhir beserta kejadian sesudahnya adalah state aktif.
 - Penilaian universal dan Kantor Appraisal: `core/TIER_ASSESSMENT_AND_APPRAISAL.md`. Martial Soul memakai formulasi khusus `core/MARTIAL_SOUL_AWAKENING.md`; rarity hasil undian terpisah dari kualitas inheren.
 - **Label item yang belum teridentifikasi:** jika identitas, jenis pasti, atau detail relevan suatu item belum ditetapkan oleh kanon/GM, tampilkan persis `*Unknown* *membutuhkan appraisal untuk lebih pastinya*` di Inventory, Equipment, loot, deskripsi, dan transaksi. Jangan gunakan `???` sebagai label item atau mengarang tier, harga, fungsi, kelangkaan, maupun bahaya. Ikuti `core/TIER_ASSESSMENT_AND_APPRAISAL.md`; aturan ini hanya untuk item, bukan field karakter atau data dunia lain.

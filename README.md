@@ -197,7 +197,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![NIGHTLY](assets/nightly-version.svg?v=10)
 
-<sub><span style="color:#D4AF37"><strong>v3.0.26</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v3.0.28</strong></span></sub>
 
 </td>
 </tr>

@@ -1,6 +1,6 @@
 # Merzkava Universe — Spirit Ring Rules
 
-Status: Modul mekanik resmi; formula cap kompatibilitas berbasis kesenjangan tier dan penyerahan sukarela, PowerScale, serta Qi mengikuti rumus di bawah.
+Status: Modul mekanik resmi; §6.1 adalah otoritas tunggal untuk tekanan usia, cap Sync, peluang Penyerapan Spirit Ring, kecacatan permanen, dan AWR. PowerScale serta Qi tetap mengikuti rumusnya masing-masing.
 Cakupan: usia dan warna Spirit Ring, kemunculan ring, penyerapan, sinkronisasi, power scale, Qi, serta hubungan dengan bottleneck dan breakthrough.
 
 Aturan dalam modul ini harus dipertahankan secara konsisten. Jangan menghapus atau mengganti mekanik yang telah disepakati hanya karena rinciannya tidak tertulis di WORLD.md. Untuk tingkat kultivasi, gunakan istilah kanonis **Spirit Realm** sebagaimana ditetapkan dalam `core/CULTIVATION_SYSTEM.md`; jangan gunakan `Realm` atau `Cultivation Realm` sebagai istilah singkatan untuk tingkat kultivasi.
@@ -48,7 +48,7 @@ A character may hunt alone without an academy supervisor, group support, a Guild
 - This is generally the least forgiving route because the character must handle tracking, scouting, combat, escape, injuries, supplies, and the aftermath alone. The actual danger still depends on the habitat, target, preparation, equipment, character abilities, and available information.
 - Solo hunting generally demands serious preparation and a capability that is clearly adequate for the specific target—normally above an ordinary person's baseline—or a concrete advantage from relevant knowledge, equipment, reliable information, terrain, or other established circumstances. An average person may attempt it, but an attempt alone does not make the hunt feasible. A powerful cultivator is not automatically capable of defeating every target. Determine feasibility from the character's recorded capabilities and the target's established or reasonably inferred threat; do not grant a victory merely because the player chooses to hunt alone.
 - Deep or difficult-to-reach wilderness tends to contain higher-tier Spirit Beasts, but this is a tendency, not a universal law. A familiar route can still be dangerous, and a remote route does not guarantee a valuable Beast.
-- Do not add a new universal success percentage or difficulty score. Resolve actual encounters using `gameplay/COMBAT_SYSTEM.md`; use the official PowerScale/Qi, HP, and Injury rules. If critical target information is unknown, keep that uncertainty in the encounter rather than inventing exact odds.
+- Do not invent a universal hunting-encounter percentage or difficulty score; resolve the hunt using `gameplay/COMBAT_SYSTEM.md` and official PowerScale/Qi, HP, and Injury rules. For an eligible Spirit Ring absorption attempt only, use the explicit success formula in §6.1; do not transfer that formula to hunt or combat odds. If critical target information is unknown, preserve the uncertainty.
 - A character can decide to retreat. Whether escape is possible depends on distance, terrain, the Beast's abilities, injuries, pursuit, and other actual circumstances; retreat is not an automatic reset or guaranteed safety.
 
 ### Shared Rule — Hunt Difficulty Is Not Absorption Difficulty
@@ -56,7 +56,7 @@ A character may hunt alone without an academy supervisor, group support, a Guild
 1. **Finding and identifying a target:** use established habitat information, field signs, reports, and the character's actual knowledge. Treat uncertain age, tier, temperament, and numbers as uncertain.
 2. **Hunting/defeating it:** use the official combat system, including PowerScale, readiness, hit chance, damage, defense, and injury. A higher-tier or older Beast may be beyond the party's ability; do not turn that into an arbitrary numeric penalty.
 3. **Obtaining the ring:** after a Spirit Beast is defeated, its Spirit Ring may appear above the body. This does not automatically settle who owns it if the party has a valid prior agreement or a dispute arises.
-4. **Absorbing the ring:** calculate compatibility using §6.1's tier-gap penalty, body and Martial Soul penalties, proven combat-result bonus, method bonus, and the special voluntary-handover formula. Defeating the Beast alone does not raise compatibility automatically; do not use a separate acquisition factor or double-count the same advantage.
+4. **Absorbing the ring:** apply the complete unified formula in §6.1 for age pressure, Sync cap, success chance, permanent-defect risk, and AWR. Do not use the superseded tier-gap, combat-bonus, method-bonus, or voluntary-handover cap formulas, and do not invent an extra chance or double-count the same advantage.
 5. **Consequences:** if absorption fails or causes deviation, apply the existing ring, HP, injury, and cultivation rules. Do not invent a new failure probability or erase consequences because the character used an academy or guild route.
 
 ## 2. Usia Spirit Ring dan Toleransi Tubuh
@@ -231,7 +231,7 @@ Setelah pengali diterapkan, bulatkan hasil ke bilangan bulat terdekat (x,5 ke at
 
 **Hard gate kelayakan penyerapan:** sebelum menarasikan atau menyelesaikan setiap upaya Penyerapan Spirit Ring, tetapkan status `Spirit Ring Absorption` dari kondisi aktual menggunakan pemetaan kanonis di `templates/CHARACTER_PROFILE_TEMPLATE.md`. Spirit Realm 9 berstatus `max` dan tidak dapat mencoba penyerapan lanjutan. Untuk ring pertama, Mortal wajib telah mengalami Martial Soul Awakening; tidak ada syarat bottleneck atau jeda antar-ring untuk ring pertama, tetapi ring harus tersedia melalui proses yang sah. Untuk ring kedua hingga kesembilan, semua syarat resmi harus diverifikasi: Sync progress memenuhi bottleneck (Gap kurang dari 10 poin persentase), `Day left` tepat `0`, interval minimum telah dipenuhi melalui waktu normal di luar Kultivasi, ring target tersedia dan diperoleh secara sah, item wajib tersedia, kondisi tubuh memenuhi persyaratan yang berlaku, dan semua syarat resmi lain terpenuhi. **Kultivasi tidak pernah mengurangi `Day left`, sekalipun Sync progress mencapai cap selama time skip.** Ketersediaan ring fisik tidak sama dengan kelayakan karakter; profil dapat menunjukkan `eligible` meski belum ada ring target di lokasi, tetapi proses tidak dapat selesai tanpa ring yang benar-benar tersedia.
 
-Jika status `not eligible yet`, penyerapan tidak boleh berhasil hanya karena pemain mendesak, mengulang permintaan, atau menyatakan karakter memaksakannya. Jika karakter tetap mencoba, resolusikan sebagai **percobaan penyerapan paksa yang tidak memenuhi syarat**: jangan menambah jumlah ring, Qi, slot terisi, atau Spirit Realm; gunakan formula deviasi/damage di §5.1–§5.5 bila kondisi pemicunya tercakup, serta `core/INJURY_SYSTEM.md` untuk mengklasifikasikan cedera berdasarkan bukti kejadian. Formula numerik yang ada terutama mengatur deviasi terkait Gap dan pelanggaran jeda. Jika pelanggaran lain (misalnya Mortal belum Awakening atau item wajib tidak ada) tidak memiliki rumus angka khusus, jangan mengarang D, damage, peluang, atau hukuman permanen; nyatakan hasil dan cedera hanya sejauh didukung aturan serta keadaan aktual. Kondisi kritis, ancaman kematian, atau kerusakan struktural permanen boleh terjadi hanya bila didukung resolusi resmi dan kejadian—bukan sebagai hukuman otomatis karena pemain bersikeras.
+Jika status `not eligible yet`, penyerapan tidak boleh berhasil hanya karena pemain mendesak, mengulang permintaan, atau menyatakan karakter memaksakannya. Jika karakter tetap mencoba, resolusikan sebagai **percobaan penyerapan paksa yang tidak memenuhi syarat**: jangan menambah jumlah ring, Qi, slot terisi, atau Spirit Realm; gunakan formula deviasi/damage di §5.1–§5.5 bila kondisi pemicunya tercakup, serta `core/INJURY_SYSTEM.md` untuk mengklasifikasikan cedera berdasarkan bukti kejadian. Formula numerik yang ada terutama mengatur deviasi terkait Gap dan pelanggaran jeda. Jika hard gate gagal, peluang keberhasilan penyerapan adalah 0% dan tidak boleh ada penambahan ring, Qi, slot terisi, atau Spirit Realm. Gunakan §6.1 untuk risiko kecacatan hanya jika percobaan penyerapan yang nyata memang dimulai; untuk pelanggaran yang tidak menghasilkan proses penyerapan aktual, jangan mengarang damage atau hukuman permanen. Kondisi kritis, ancaman kematian, atau kerusakan struktural permanen boleh terjadi hanya bila didukung resolusi resmi dan kejadian—bukan sebagai hukuman otomatis karena pemain bersikeras.
 
 1. Tentukan nomor ring yang sedang diserap dan persentase deviasi aktual (1–100%) dari §5.1.
 2. Hitung kehilangan HP dasar memakai HP maksimum karakter, nomor ring, dan persentase deviasi sesuai §5.2.
@@ -262,99 +262,125 @@ Kemampuan yang diperoleh dari Spirit Ring terbentuk melalui interaksi antara **M
 
 ## 6. Rumus Kompatibilitas, Power Scale, dan Qi
 
-### 6.1. Kompatibilitas setiap ring
+### 6.1. Formulasi Terpadu Penyerapan, Sync, Kecacatan, dan AWR
 
-Setiap kali karakter mencoba menyerap Spirit Ring baru, GM wajib menghitung dan mencatat kompatibilitas ring TERBARU itu. Ini berlaku untuk **setiap nomor ring dari 1 sampai 9**, bukan hanya ring ketiga. Jika penyerapan berhasil, jumlah ring total bertambah satu; jika gagal, jangan menambahkan ring ke jumlah yang dimiliki.
+Bagian ini adalah **satu-satunya otoritas numerik** untuk tekanan usia Spirit Beast, cap Sync, peluang keberhasilan Penyerapan Spirit Ring, risiko kecacatan permanen, dan Anomalous World Rejection (AWR). Formula tier-gap, bonus combat/metode, dan formula penyerahan sukarela dari versi lama di bawah §6.1 **dicabut sepenuhnya** dan tidak boleh dipakai bersama formula baru. Jangan menghitung keuntungan yang sama dua kali.
 
-Cap kompatibilitas setiap ring **berawal dari 100 poin**, lalu dikurangi berdasarkan kesenjangan tier/ancaman Spirit Beast terhadap kemampuan kultivator. Setelah pengurangan dasar dihitung, tambahkan hanya bonus yang didukung kejadian nyata: seberapa dominan kultivator menang, dan apakah metode yang digunakan benar-benar melemahkan kehendak atau jiwa Beast. Penaklukan biasa tidak otomatis menaikkan cap; kemenangan saja bukan bonus.
+Istilah tingkat kultivasi yang dipakai hanya **Spirit Realm**. Sembilan nama kanonisnya tetap: Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, dan Spirit Primordial.
 
-#### A. Pengurangan dasar karena kesenjangan tier
+#### A. Tekanan usia dan toleransi Spirit Realm
 
-Tetapkan **P_tier** memakai tier Beast yang telah ditetapkan atau appraisal provisional yang memenuhi aturan bestiary/SPIRIT_BEAST_RULES.md. Bandingkan dengan **tingkat kekuatan efektif kultivator** berdasarkan Spirit Realm/Stage, PowerScale, Qi, teknik yang benar-benar tersedia, serta kondisi saat itu. Jangan menyamakan nama tier Beast dengan nomor Spirit Realm secara otomatis. Jika data tidak cukup untuk membandingkan, tandai penilaian sementara dan jangan berpura-pura bahwa selisihnya presisi.
+Gunakan usia aktual Spirit Beast dalam tahun, bukan Age Grade sebagai pengganti usia.
 
-| Kesenjangan ancaman Beast terhadap kultivator | P_tier |
-|---|---:|
-| Beast jelas lebih lemah atau berada di bawah kemampuan efektif kultivator | 0 |
-| Kurang lebih sebanding | 8 |
-| Beast satu tingkat ancaman di atas kultivator | 20 |
-| Beast dua tingkat di atas kultivator | 35 |
-| Beast tiga tingkat di atas kultivator | 50 |
-| Beast empat tingkat atau lebih di atas kultivator | 65 |
+`B(Y) = 10 × log10(1 + Y/10)`
 
-“Tingkat ancaman” berarti peringkat yang dapat dibandingkan dari bukti dan klasifikasi resmi; bila dunia belum menyediakan tangga tier numerik yang cocok, GM menggolongkan kesenjangan secara kualitatif berdasarkan appraisal dan bukti pertarungan, bukan menciptakan tier baru. Penalti ini sengaja besar: Beast yang jauh melampaui kekuatan kultivator secara alami lebih sulit diselaraskan.
+Y = usia aktual Spirit Beast dalam tahun. Toleransi:
 
-#### B. Penalti kondisi tubuh dan kecocokan Martial Soul
+| Spirit Realm | R | Toleransi T_R |
+|---|---:|---:|
+| Spirit Initiate | 1 | 30,99 |
+| Spirit Adept | 2 | 32,99 |
+| Spirit Elder | 3 | 34,99 |
+| Spirit Monarch | 4 | 36,99 |
+| Spirit King | 5 | 38,99 |
+| Spirit Ancestor | 6 | 40,99 |
+| Spirit Emperor | 7 | 50,99 |
+| Spirit Sovereign | 8 | 52,99 |
+| Spirit Primordial | 9 | 54,99 |
 
-Kedua faktor lama tetap dipertahankan sebagai penalti kecil agar perubahan ini tidak menghapus peran kondisi kultivator dan kecocokan Martial Soul:
+Rumus umum yang menghasilkan tabel:
 
-- **P_body (0–10):** 0 bila tubuh dan Qi berada dalam kondisi baik untuk proses; 2 untuk gangguan ringan; 5 untuk tekanan/cedera yang nyata; 8 untuk kondisi berat; 10 bila kondisi kritis membuat toleransi sangat buruk. Pilih berdasarkan kondisi aktual dan core/HP_SYSTEM.md serta core/INJURY_SYSTEM.md, bukan berdasarkan asumsi.
-- **P_soul (0–10):** 0 bila karakteristik Martial Soul dan ring menunjukkan resonansi yang sangat baik; 2 bila cocok; 5 bila netral atau bukti terbatas; 8 bila kecocokan buruk; 10 bila terdapat pertentangan karakteristik yang jelas. Nilai harus beralasan dari Martial Soul, Beast/ring, dan formulasi kemampuan; jangan mengarang kelemahan unsur yang tidak tercatat.
+- R = 1–6: `T_R = 46,99 − 2 × (9 − R)`
+- R = 7: `T_R = 50,99` — jembatan khusus dengan bonus toleransi +8 dibandingkan kelanjutan nilai dasar.
+- R = 8: `T_R = 52,99`
+- R = 9: `T_R = 54,99`
 
-#### C. Bonus hasil penaklukan dalam combat
+Tekanan berlebih: `X = max(0, B(Y) − T_R)`.
 
-Pilih **tepat satu P_combat** berdasarkan keseluruhan hasil pertarungan, bukan hanya pukulan terakhir:
+| Tekanan X | EAG | Makna |
+|---:|---:|---|
+| X = 0 | 0 | Tidak ada tekanan usia di atas toleransi |
+| 0 < X ≤ 6 | 1 | Penolakan ringan |
+| 6 < X ≤ 12 | 2 | Penolakan berat |
+| X > 12 | 3+ | Penolakan ekstrem |
 
-| Hasil nyata terhadap Beast | P_combat |
-|---|---:|
-| Sangat mudah dan dominan; ancaman praktis terkendali tanpa kesulitan berarti | +15 |
-| Menang jelas dengan kesulitan kecil | +10 |
-| Menang melalui pertarungan seimbang atau biaya yang berarti | +5 |
-| Sangat kepayahan, nyaris kalah, terluka berat, atau bertahan berkat keadaan yang menguntungkan | +0 |
+Untuk perhitungan, gunakan `E_eff = EAG` bila X ≤ 12. Jika X > 12, gunakan `E_eff = 3 + (X − 12)/6`. Dengan demikian, tekanan yang jauh melewati toleransi terus meningkatkan risiko; semua nilai EAG 3+ tidak diperlakukan sama.
 
-Kemenangan yang hanya terjadi karena bantuan pihak ketiga, penyelamatan, atau Beast melarikan diri bukan kemenangan dominan. Jangan memberi +15 hanya karena Beast akhirnya kalah. Jika bukti pertarungan tidak cukup, gunakan bonus yang lebih rendah dan nyatakan dasar penilaiannya.
+**Hard cap Sync:** jika EAG = 2, cap Sync `C_i` tidak boleh melebihi **20%**, walaupun rumus cap mentah menghasilkan angka lebih tinggi. Jika EAG 3+, cap tetap mengikuti rumus cap di bawah dan dapat turun sampai 0%. EAG 2 bukan jaminan gagal, tetapi keberhasilan tidak menghapus batas Sync 20%.
 
-#### D. Bonus metode yang benar-benar efektif
+#### B. Agresivitas, kesiapan, dan koreksi kompatibilitas
 
-**P_method** hanya diberikan untuk efek metode yang dapat dibuktikan dan tidak boleh menghitung ulang keuntungan yang sudah tercermin dalam P_combat:
+Tetapkan input berikut dari bukti aktual sebelum menghitung:
 
-| Metode yang terbukti efektif | P_method |
-|---|---:|
-| Perangkap, medan, penyergapan, atau taktik fisik yang hanya membatasi gerak/posisi | +0 sampai +5 |
-| Segel atau teknik yang secara nyata melemahkan kehendak, kestabilan mental, atau jiwa Beast | +10 sampai +20 |
-| Metode gagal, efeknya tidak relevan, atau klaim pelemahan tidak terbukti | +0 |
+- **G — Agresivitas Spirit Beast (0–5):** 0 = penyerahan sukarela yang sungguh-sungguh atau tidak ada perlawanan; 1 = tenang; 2 = menolak; 3 = melawan aktif; 4 = mengamuk/bermusuhan; 5 = perlawanan ekstrem yang berusaha menghancurkan penerima. Nilai ini adalah perilaku saat menjadi Spirit Ring, bukan sekadar kategori atau output kekuatan Beast.
+- **P — Kesiapan penerima (0–100):** kondisi tubuh, Satiety, kecukupan Qi, kondisi Martial Soul, dan kualitas metode penyerapan. 0 = tidak siap sama sekali; 50 = kesiapan sedang; 100 = persiapan optimal. Nilai harus mengikuti state dan kejadian nyata, bukan bonus gratis.
+- **F — Koreksi resonansi Martial Soul (−15 sampai +15):** hanya untuk kecocokan spesifik antara Martial Soul penerima dan karakteristik Spirit Ring. Nilai negatif menunjukkan konflik yang terbukti; nilai positif menunjukkan resonansi yang terbukti. Kondisi Martial Soul sudah termasuk dalam P, sehingga F tidak boleh menghitung ulang kondisi tubuh atau kesiapan.
+- **V — Penyerahan sukarela sah (0 atau 1):** 1 hanya jika Spirit Beast secara sadar dan sungguh-sungguh menyerahkan Spirit Ring sebagai bagian dari jiwanya; menyerah karena kalah, terikat, tertipu, terpaksa, atau tidak mampu melawan berarti V = 0.
 
-Pilih nilai dalam rentang menurut tingkat dampak yang benar-benar diperlihatkan. Menjebak Beast tidak otomatis berarti kultivator mengalahkannya dengan mudah; perangkap fisik saja juga tidak dihitung sebagai pelemahan mental. Bonus combat dan metode boleh dijumlahkan hanya bila mewakili dua efek yang berbeda—jangan menghitung keuntungan yang sama dua kali.
+Penyerahan sukarela menurunkan agresivitas yang teramati bila memang tidak ada perlawanan, tetapi **tidak menghapus tekanan usia atau AWR**.
 
-#### E. Penyerahan sukarela oleh Spirit Beast
+#### C. Cap kompatibilitas Sync untuk ring yang sedang diproses
 
-Penyerahan sukarela hanya berlaku bila Beast **secara sadar dan sungguh-sungguh** bersedia menyerahkan Spirit Ring sebagai bagian dari jiwanya; menyerah karena kalah, terpaksa, tertipu, terikat, atau tidak mampu melawan bukan penyerahan sukarela.
+Hitung cap mentah:
 
-Untuk kasus yang sah:
-- Gunakan **P_tier efektif = 25% × P_tier**: kesediaan sukarela mengurangi, tetapi tidak menghapus secara ajaib, penalti kesenjangan tier.
-- Tambahkan **P_voluntary = +35**.
-- P_body dan P_soul tetap dihitung dari kondisi nyata. P_combat hanya ditambahkan bila memang terjadi pertarungan dan hasilnya mendukung; tidak ada bonus combat fiktif bila Beast menyerahkan ring tanpa bertarung.
-- Tidak ada pengali perolehan generik 100/80 yang terpisah. Penyerahan sukarela ditangani oleh rumus khusus ini agar tidak dihitung dua kali.
+`C_raw = clamp(100 − 25E_eff − 3G − 0,5X + 0,10(P − 50) + F + 20V, 0, 100)`
 
-Bonus sukarela sangat besar sehingga sering membawa cap mendekati atau mencapai 100, tetapi hasil tetap berasal dari seluruh komponen. Kondisi tubuh yang sangat buruk atau ketidakcocokan yang nyata masih dapat membuat cap di bawah 100.
+Cap kompatibilitas ring:
 
-#### F. Rumus final cap kompatibilitas
+`C_i = min(C_raw, 20)` bila EAG = 2; selain itu `C_i = C_raw`.
 
-Untuk penaklukan paksa atau perolehan non-sukarela:
+`clamp(x, min, max)` membatasi hasil pada nilai minimum dan maksimum. Bulatkan hasil akhir ke bilangan bulat terdekat; nilai tepat x,5 dibulatkan ke atas. `C_i` adalah cap Sync progress untuk ring itu, bukan peluang berhasil. Format profil wajib: `Sync progress: [progres saat ini]%/[C_i]%`.
 
-**Cᵢ = clamp(100 − P_tier − P_body − P_soul + P_combat + P_method, 0, 95)**
+Jika penyerapan gagal, ring tidak ditambahkan dan C_total/PowerScale state tidak diperbarui seolah-olah ring berhasil dimiliki. Catat C_i sebagai hasil perhitungan percobaan saja. Jika berhasil, C_i menjadi cap ring terbaru dan kompatibilitas keseluruhan diperbarui menurut §6.2.
 
-Untuk penyerahan sukarela yang sah:
+#### D. Peluang keberhasilan Penyerapan Spirit Ring
 
-**Cᵢ = clamp(100 − 0,25P_tier − P_body − P_soul + P_combat + P_method + 35, 0, 100)**
+Peluang ini hanya dipakai setelah semua hard gate kelayakan resmi lulus. Jika karakter berstatus `not eligible yet`, syarat Awakening/jeda/bottleneck/item wajib tidak terpenuhi, atau ring tidak tersedia secara sah, peluang keberhasilan adalah **0%**; jangan mengundi keberhasilan untuk melewati prasyarat. Percobaan paksa tetap ditangani menurut §5.5 dan aturan cedera yang relevan.
 
-clamp(x, 0, batas) berarti hasil minimum 0 dan maksimum sesuai batas. Bulatkan hasil akhir ke bilangan bulat terdekat; nilai tepat x,5 dibulatkan ke atas. Batas 95 pada jalur non-sukarela menjaga agar kemenangan atau taktik biasa tidak dengan sendirinya menghasilkan cap 100. Cap 100 hanya terbuka pada jalur penyerahan sukarela yang sah; itu pun tidak otomatis terjadi karena penalti tubuh dan kecocokan Martial Soul masih berlaku.
+Untuk percobaan yang memenuhi syarat:
 
-#### G. Cara membaca hasil
+`P_success = clamp(95 − 15E_eff − 5G + 0,15(P − 50) + F + 10V, 5, 95)`
 
-| Cᵢ | Interpretasi cap ring |
-|---:|---|
-| 0–49% | Rendah; keselarasan ring sangat terbatas |
-| 50–64% | Sedang |
-| 65–74% | Baik |
-| 75–79% | Sangat baik |
-| 80–89% | Jenius; kompatibilitas luar biasa |
-| 90–94% | Sangat langka dan luar biasa |
-| 95–99% | Ekstrem langka; mendekati batas sempurna |
-| 100% | Pencapaian istimewa, sangat langka |
+Hasil adalah persen. Batas 5–95% berlaku hanya pada percobaan yang layak; hard gate gagal selalu berarti 0%. Keberhasilan tidak berarti Sync penuh, tidak melewati cap C_i, dan tidak otomatis memberi penguasaan kekuatan ring 100%.
 
-Rentang ini adalah interpretasi **cap kompatibilitas satu ring**, bukan label resmi Martial Soul, bukan tier Beast, dan bukan jaminan bahwa karakter otomatis menguasai kekuatan ring sepenuhnya. Cᵢ tetap menjadi batas Sync progress pada format [progres saat ini]%/[Cᵢ]%. Sync yang mencapai cap berarti bottleneck tercapai; penguasaan kekuatan ring 100% tetap konsep terpisah.
+#### E. Risiko kecacatan Martial Soul permanen
 
-Catat input, penalti, bonus, dan hasil agar GM berikutnya dapat merekonstruksi cap yang sama. Jika tier, hasil combat, metode, kondisi tubuh, atau kecocokan Martial Soul tidak cukup diketahui, tandai input terkait sebagai belum ditetapkan; jangan menyamarkan dugaan sebagai nilai pasti.
+Hitung peluang kecacatan **dengan syarat penyerapan yang layak telah gagal**:
+
+`D = clamp(5 + 10E_eff + 5G + 0,5X − 0,3P, 1, 95)`
+
+Lalu peluang kecacatan permanen keseluruhan dari percobaan layak:
+
+`P_defect = ((100 − P_success)/100) × D`
+
+D dan P_defect dinyatakan dalam persen. Gunakan P_defect sebagai peluang keseluruhan kecacatan permanen; gunakan D hanya jika perlu menjelaskan peluang kecacatan dengan syarat kegagalan sudah terjadi. Kegagalan tidak otomatis menyebabkan kecacatan permanen. Cedera sementara, kerusakan berat, dan kecacatan permanen adalah hasil berbeda yang harus diselesaikan sesuai formula, aturan injury, dan bukti kejadian. Jangan mengarang hukuman permanen di luar hasil mekanik ini.
+
+#### F. Anomalous World Rejection (AWR)
+
+AWR adalah risiko penolakan dunia terhadap keberadaan Spirit Beast yang terlalu ekstrem saat eksistensinya dijadikan Spirit Ring. Ini **bukan** penolakan tubuh penerima dan bukan sinonim kegagalan penyerapan. Periksa AWR hanya ketika Beast yang benar-benar berusia **lebih dari 7.000.000 tahun** memasuki proses konversi/penyerapan Spirit Ring; usia 7 juta tahun atau kurang memiliki AWR = 0%.
+
+`Q = (Y − 7.000.000)/1.000.000`
+
+Tentukan tingkat penolakan `S`: EAG 0 = 0; EAG 1 = 1; EAG 2 = 2; EAG 3+ = 3; gunakan S = 4 bila X > 18, sebagai penolakan ekstrem.
+
+`P_AWR = min(75, Q × (10 + 2G + 2S))`
+
+Hasil adalah persen. Formula meningkat secara berkelanjutan setelah ambang 7 juta tahun dan dipengaruhi usia, agresivitas, serta tekanan penolakan. Kesiapan P dan penyerahan sukarela V tidak menghapus AWR. Batas 75% adalah batas kalibrasi, bukan jaminan bahwa setiap kejadian akan terjadi atau bahwa dunia kebal di atasnya.
+
+Jika pemeriksaan AWR terpicu, selesaikan sebagai pemeriksaan kejadian anomali yang terpisah dari hasil penyerapan. AWR terpicu **tidak otomatis membuka gerbang dunia**; pembukaan gerbang memerlukan eskalasi kejadian yang sesuai dengan canon anomali di `world/HISTORY.md` dan keputusan canon terkait. Jangan mengarang peluang pembukaan gerbang yang belum ditetapkan, dan jangan mengubah AWR menjadi konsekuensi otomatis hanya karena Beast berusia lebih dari 7 juta tahun.
+
+#### G. Alur wajib untuk setiap percobaan
+
+1. Verifikasi status `Spirit Ring Absorption`, Awakening, slot, ring yang tersedia, item wajib, bottleneck, jeda, kondisi tubuh, dan seluruh prasyarat yang berlaku.
+2. Tentukan usia aktual Y, Spirit Realm R, G, P, F, dan V dari bukti yang tersedia. Jika input tidak diketahui, jangan menyatakannya sebagai fakta; lakukan appraisal/penilaian yang sah atau tandai hasil sebagai belum dapat dihitung.
+3. Hitung B(Y), T_R, X, EAG, dan E_eff.
+4. Hitung C_i sebagai cap Sync potensial untuk ring yang sedang diproses.
+5. Jika semua hard gate lulus, hitung P_success dan lakukan resolusi peluang sesuai prosedur mekanik yang berlaku. Jika gagal, hitung D dan P_defect; tentukan cedera aktual dengan aturan resmi tanpa menganggap kecacatan permanen otomatis.
+6. Jika Y > 7.000.000 tahun dan konversi/penyerapan benar-benar dimulai, periksa P_AWR secara terpisah. Catat hasil anomali dan eskalasinya jika terjadi; jangan menyamakan pemicu AWR dengan pembukaan gerbang.
+7. Jika penyerapan berhasil, baru tambahkan ring, perbarui C_total, AgeTotal, PowerScale, Qi, waktu penyerapan, kemampuan, dan state terkait. Terapkan batas Sync C_i; jika EAG = 2, cap maksimal 20%.
+8. Catat semua input, hasil perhitungan, hasil keberhasilan/kegagalan, risiko kecacatan, pemeriksaan AWR, dan state yang benar-benar berubah agar GM berikutnya dapat merekonstruksi hasil yang sama.
+
+Jika suatu input numerik tidak dapat dibuktikan, jangan mengarang nilai yang presisi. Formula ini menggantikan penuh formula cap kompatibilitas lama di §6.1; formula C_total, AgeTotal, PowerScale, Qi, warna ring, jeda, bottleneck, dan deviasi pada bagian lain tetap berlaku kecuali secara eksplisit disesuaikan di sini.
 
 ### 6.2. Kompatibilitas keseluruhan semua ring
 

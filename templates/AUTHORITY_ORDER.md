@@ -132,6 +132,8 @@ Gunakan `core/MARTIAL_SOUL_AWAKENING.md` untuk rarity, undian, kualitas inheren,
 | Interval minimum dan item breakthrough | `bestiary/SPIRIT_BEAST_RULES.md` |
 | Martial Soul awakening, rarity, mutasi | `core/MARTIAL_SOUL_AWAKENING.md` |
 | Thinker/formulation/Artificial Artifact | `core/THINKER_AND_FORMULATION.md` |
+
+**Mandatory Thinker hard gate:** for any Thinker-related action or state change, apply the complete single progression route in `core/THINKER_AND_FORMULATION.md` before narration or state mutation. The Institute module is administrative/regional support only and cannot override the core rules. Verify prior learning, assessed training stage, official examination/Grade, target-Tier eligibility, tool/blueprint gates, production resolution, Artificial Artifact Condition Score, current ownership/provenance, time, Satiety, and required records as applicable. If an official numerical mechanic remains undefined, do not invent it or imply that an official roll occurred.
 | Combat, combo, damage | `gameplay/COMBAT_SYSTEM.md` |
 | Harga, kurs, transaksi, aset, uang/item ledger | `core/10_ECONOMY_SYSTEM.md` |
 | Appraisal universal | `core/TIER_ASSESSMENT_AND_APPRAISAL.md` |

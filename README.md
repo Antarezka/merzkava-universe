@@ -24,7 +24,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ### ✦ READY-TO-COPY ROLEPLAY HASH ✦
 
-**Latest pinned source:** `12c025e`
+**Latest pinned source:** `9cd0955`
 
 </div>
 <!-- RP_SOURCE_END -->
@@ -212,7 +212,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 ---
 
 - ✦ **Thinker Training, Satiety & Grade 2–7 Examinations**
-  Hash: ``e9aacba`` | Ver: ``Nightly-v3.0.29`` · ``Stable-v3.0.16``
+  Hash: ``9cd0955`` | Ver: ``Nightly-v3.0.29`` · ``Stable-v3.0.16``
   Defined stage-training hours, Tier 1–10 production time and reference Satiety costs; added Grade 2–7 condition requirements, pass caps, and Grade 5+ competitive ranking.
 
 - ✦ **Artificial Artifact Condition Formula**

@@ -211,9 +211,13 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ---
 
+- ✦ **Gameplay Template · Merzkava Narrative Gate**
+  Hash: ``33408f1`` | Ver: ``Nightly-v4.0.6`` · ``Stable-v4.0.1``
+  Streamlines repeated rules and strengthens causal Merzkava identity, bounded GM improvisation, concrete timestamps, and final validation while preserving all required panels, ledger, NPC, Thinker, and anti-cheat gates.
+
 - ✦ **GM Bootstrap & Narrative Gate Optimization**
-  Hash: ``b33637e`` | Ver: ``Nightly-v4.0.5`` · ``Stable-v4.0.1``
-  Shortens the bootstrap and duplicated narrative gates; lets the GM develop plausible unestablished scene details and choose a concrete session year, while protecting canon, mechanics, player agency, and persistent state.
+  Hash: ``395c77e`` | Ver: ``Nightly-v4.0.5`` · ``Stable-v4.0.1``
+  Shortens bootstrap and narrative gates; lets the GM develop plausible unestablished scene details and choose a concrete session year while protecting canon, mechanics, player agency, and persistent state.
 
 - ✦ **Classification Label Alignment · Plain Double-Backtick Text**
   Hash: ``a9548b2`` | Ver: ``Nightly-v4.0.4`` · ``Stable-v4.0.1``

@@ -5,6 +5,9 @@
 **Profile definitions:** `templates/CHARACTER_PROFILE_TEMPLATE.md`
 **Mechanics:** Use the official modules listed in `INDEX.md`.
 
+**Informasi Tambahan untuk GM — sebelum memulai (bukan field profil):**
+Prefer Narrative: Dengan Opsi
+
 ## Initial Character Profile
 
 - **Nama:** Nafila

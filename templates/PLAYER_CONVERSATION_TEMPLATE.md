@@ -12,7 +12,7 @@ CONVO — [Nama Karakter]
 
 **Aksiku:** [Tulis tindakan karakter di sini]
 
-**Mode rekomendasi GM:** `Provide GM options: (Yes/No)` — pilih `Yes` untuk rekomendasi tindakan kontekstual setelah narasi atau `No` untuk narasi tanpa opsi rekomendasi. Dalam sesi berlanjut, pilihan eksplisit terakhir tetap berlaku sampai diubah. Pada sesi baru, jika belum ada pilihan yang terverifikasi, GM harus menanyakan mode ini dan menunggu jawaban sebelum menampilkan rekomendasi.
+**Mode rekomendasi GM:** `Provide GM options: (Yes/No)` — player memilih dengan menyisakan hanya `(Yes)` atau `(No)`. Jika keduanya masih tertulis, GM wajib memakai default tanpa opsi rekomendasi. Aturan mode, jumlah, dan format opsi diatur oleh `templates/AUTHORITY_ORDER.md` serta `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`.
 
 ## Jika Trigger Dikirim Tanpa Nama Karakter
 

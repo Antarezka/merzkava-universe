@@ -194,7 +194,7 @@ Calculate in this order:
 6. **Distribution Adjustment** — add the supported net cost or saving for the actual trade route, including transport, handling, storage, spoilage during transport, tolls, insurance, and route risk. It may be positive or negative.
 7. **Local Market Adjustment** — add a documented destination-specific amount for factors not already represented above, such as merchant competition, a local inventory surplus, or a market-specific restriction. Do not count seasonal scarcity, demand, or transport costs again here if they have already been included in their dedicated factors.
 
-If an essential input is unknown, identify it and give a clearly labeled provisional estimate only when the available evidence supports one. Do not fabricate a precise price. Round only at the final step to a usable amount in the official currency, then normalize denominations using the official exchange rates.
+If an essential input is unknown, identify it and give a clearly labeled provisional estimate only when available local evidence supports one. Do not fabricate a precise price or present an illustrative example as a universal market price. For routine goods, a reasonable estimate must still be tied to the specific local market and ordinary market evidence; if the scene supplies no defensible price, do not invent a fixed canon price—describe the quote as provisional or let the merchant state a price as a new scene fact. Round only at the final step to a usable amount in the official currency, then normalize denominations using the official exchange rates.
 
 ### Worked Example: Snow Herb in Different Supply Conditions
 
@@ -320,7 +320,7 @@ Audit rules:
 1. Record each distinct money transaction and item movement as its own chronological, append-only audit entry, even when linked under one visible event. Cross-reference related money/item entries.
 2. Show one combined visible ledger for all state changes from the same action/event. Wallet, Inventory, Equipment, Assets, and Satiety must match the verified closing state.
 3. If a transaction fails or is cancelled, do not record money/item changes that did not occur. Record only the verified portion of partial payment, deposit, debt, barter, refund, or transfer.
-4. If no tracked state changed, omit both `Log tercatat!` and the visible ledger. Satiety must still be mentioned after the latest activity, even if unchanged.
+4. If no tracked state changed, omit both `Log tercatat!` and the visible ledger. Satiety must still be mentioned after the latest activity, even if unchanged. If an action changes more than one tracked domain, use one combined visible ledger for that event while keeping distinct chronological audit subentries for each money transaction and item movement.
 5. Keep full Satiety calculation details in session history: cause, duration, activity category, every applied multiplier, calculation, before, signed change, and after. The visible log may stay concise.
 6. Before sending, reconcile the cause, money and item entries, quantities, currency conversion/change, relevant item quality/tier, Satiety, and resulting profile. If prior ledger history is missing or truncated, disclose the gap and reconcile from the latest verifiable state without inventing history.
 7. The ledger is not a profile field and does not replace the character profile. Do not claim permanent GitHub persistence unless a repository write was completed and verified.

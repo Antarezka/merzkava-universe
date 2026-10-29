@@ -1,8 +1,8 @@
 # Merzkava Universe — Nightly Version
 
-Nightly `v4.0.8` restores `INDEX.md` and `templates/AUTHORITY_ORDER.md` to their exact contents at pinned snapshot `e395735`, reversing the later edits to those two files.
+Nightly `v4.0.9` strengthens the Authority Order decision hierarchy and delegates operational narrative rules to Narrative Dynamics, which now makes everyday Merzkava life, the in-world term ahli Spirit Realm, natural Thinker/institute life, and canon-bound Spirit Realm/Spirit Ring/Spirit Beast power scaling explicit. It reduces duplicated narrative checklists without changing domain mechanics.
 
-Current Nightly version: `v4.0.8`
+Current Nightly version: `v4.0.9`
 
 Nightly `v4.0.7` shortens repeated gameplay-template prompts and makes Merzkava-specific cause-and-effect, bounded GM improvisation, NPC autonomy, timestamp/Satiety continuity, and final validation easier to scan; all visual panels, ledger rules, domain mechanics, anti-cheat, and dividers remain mandatory.
 

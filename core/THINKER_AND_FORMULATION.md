@@ -242,7 +242,7 @@ Every aspiring Thinker must complete the same binding progression route in §13.
 
 **Status: MANDATORY CANON RULE.** This section governs all players and NPCs and must be applied together with the official formulation mechanics, institute rules, time rules, Satiety rules, economy, and repository authority hierarchy.
 
-### 14.1 Absolute progression gate
+### 13.1 Absolute progression gate
 
 - Thinker knowledge and formulation mastery cannot be acquired through self-declaration, spontaneous intuition, unexplained talent, or independent practice without legitimate instruction.
 - Every aspiring Thinker must first learn foundational theory from an actual qualified teacher, dojo, clan, institution, specialist organization, or other recognized educational source. The source must genuinely teach the knowledge claimed.
@@ -250,7 +250,7 @@ Every aspiring Thinker must complete the same binding progression route in §13.
 - Every official Grade requires the relevant examination administered or recognized by the Tianhai Thinker Institute. Passing the examination for the target Grade grants that official Grade; registration, training, artifact production, recommendations, and eligibility alone do not.
 - These requirements apply equally to players and NPCs. Existing NPC credentials must be supported by canon or valid recorded history.
 
-### 14.2 Mandatory mental-focus training stages
+### 13.2 Mandatory mental-focus training stages
 
 After learning foundational theory, the student must undergo mental endurance, concentration, and focus training designed and assessed by their actual teacher or institution. The mandatory order is:
 
@@ -265,7 +265,7 @@ After learning foundational theory, the student must undergo mental endurance, c
 
 Passing the required Initiate standard grants eligibility to attempt the Apprentice Examination. It does not itself confer Thinker Grade 1 or guarantee exam success.
 
-### 14.3 Apprentice Examination and Grade 1
+### 13.3 Apprentice Examination and Grade 1
 
 - The Tianhai Thinker Institute or a formally recognized examination arrangement administers the Apprentice Examination.
 - Candidates use an Engraver's Apprentice, an examination tool bearing a pattern, emblem, or identifying mark associated with the candidate's legitimate educational origin or sponsoring tradition.
@@ -273,7 +273,7 @@ Passing the required Initiate standard grants eligibility to attempt the Apprent
 - Candidates attempt Artificial Artifact production, normally in the Tier 1–3 range as the actual examination permits. Assessment covers learned theory, formulation, engraving precision, focus, endurance, materials, tool suitability, time, and valid production mechanics.
 - A candidate who passes the Apprentice Examination receives official Thinker Grade 1. A candidate who fails receives no Grade 1 certification; any retake follows established institute rules.
 
-### 14.4 Grade 1–10 official advancement
+### 13.4 Grade 1–10 official advancement
 
 For every advancement, the candidate must register with the appropriate institute or recognized branch, pay the applicable established registration fee, satisfy all eligibility requirements, take the examination for the target Grade, and pass it. Passing the Grade N examination grants official Thinker Grade N.
 
@@ -281,13 +281,13 @@ Examinations become progressively more demanding in accordance with the target G
 
 Upon officially obtaining Grade 1, a Thinker becomes eligible to obtain a personal engraver through a qualified teacher or by purchasing one from the institute, subject to availability and the applicable price. An ordinary purchased or borrowed engraver does not satisfy the personal-design prerequisite for Grade 7 and above.
 
-### 14.5 Mandatory personal-designed engraver for Grade 7–10
+### 13.5 Mandatory personal-designed engraver for Grade 7–10
 
 Before registering for any examination targeting Grade 7, 8, 9, or 10, the candidate must personally design the engraver blueprint, establish authorship, have a qualified forger/toolmaker physically realize that exact design, own the resulting engraver, and make it available for verification. **The candidate's own blueprint is an absolute, non-waivable prerequisite.** Buying a completed engraver, borrowing a teacher's tool, or commissioning a tool based on someone else's blueprint does not qualify.
 
 The maker must satisfy applicable canonical requirements for engraver manufacture, including Spirit Realm 5 or above and relevant forging ability where that established rule applies. The maker realizes the candidate's design; this does not transfer blueprint authorship.
 
-### 14.6 Embedded series codes, authorship, and ownership
+### 13.6 Embedded series codes, authorship, and ownership
 
 Every Artificial Artifact has an embedded series code associated with its internal construction and identity. Artifacts may look alike or work similarly while having different internal structures and series codes. Appearance or function alone does not prove identity, authorship, or production history.
 
@@ -297,7 +297,7 @@ Any artifact counted toward a production prerequisite must have been genuinely m
 
 For every qualifying artifact, verify the maker, production history, series code, Tier, condition, required type, and current ownership. Artifact Tier, condition, type, authorship, and ownership are distinct facts.
 
-### 14.7 Mandatory artifact condition scale
+### 13.7 Mandatory artifact condition scale
 
 The five official condition labels, from lowest to highest, are:
 
@@ -309,7 +309,7 @@ The five official condition labels, from lowest to highest, are:
 
 Do not upgrade or infer condition from Tier, rarity, appearance, value, or owner's Grade. Use the recorded or properly assessed condition.
 
-### 14.8 Grade 7–10 eligibility gates
+### 13.8 Grade 7–10 eligibility gates
 
 These are prerequisites to register for the relevant examination, not automatic promotions.
 
@@ -324,7 +324,7 @@ These are prerequisites to register for the relevant examination, not automatic 
 
 **Grade 10:** The candidate must meet the personal-designed engraver requirement and personally produce and still own at least 10 Tier 9 Artificial Artifacts with condition Origin. All 10 must be of the weaponry type. Utility artifacts, tools, accessories, and all other non-weaponry types do not count, regardless of their Tier, condition, rarity, or value. The candidate must also satisfy the recognition and final-examination requirements below.
 
-### 14.9 Thinker tokens and Grade 10 recognition
+### 13.9 Thinker tokens and Grade 10 recognition
 
 A Thinker token is a professional identity credential, comparable in social function to a formal business card. It identifies its holder and can evidence an authorized professional relationship. It is not merely a collectible, an ordinary recommendation, or an item that can be purchased to replace trust.
 
@@ -342,7 +342,7 @@ Merzkava has **no more than five Thinker Grade 10 individuals worldwide**. Prese
 
 After satisfying artifact and recognition prerequisites, the candidate must register for and pass the official Grade 10 examination. Eligibility is not a guarantee of success.
 
-### 14.10 Institutional contribution points
+### 13.10 Institutional contribution points
 
 When a student passes an official Thinker examination, the institution or educational organization responsible for their legitimate training receives contribution points from the central institute according to the applicable contribution rules. These points belong to the institution, not automatically to the student's personal Wallet.
 
@@ -350,7 +350,7 @@ Eligible institutions may exchange points for approved scarce resources, includi
 
 Contribution points do not directly increase a student's Grade, guarantee examination success, or waive any eligibility requirement.
 
-### 14.11 Time, Satiety, and production resolution
+### 13.11 Time, Satiety, and production resolution
 
 Every production attempt must check the Thinker's verified Grade, target Tier and type, formulation, baseline success chance, materials, patterns, tool suitability, focus, mental ability, stamina, Satiety, available time, applicable action-duration limit, interruptions, and other supported conditions. Apply only officially authorized modifiers.
 
@@ -358,7 +358,7 @@ Follow the official time and Satiety modules. Ordinary actions may advance no mo
 
 The exact time and Satiety costs for the training stages and higher-Tier production are not established by this protocol. Do not turn provisional examples or suggested ranges into mandatory numerical rules until formally approved and reconciled with the official Satiety system. Do not invent Tier 2–10 multipliers, costs, thresholds, or duration values.
 
-### 14.12 Mandatory GM enforcement and records
+### 13.12 Mandatory GM enforcement and records
 
 - No self-certification, spontaneous mastery, or unearned Thinker Grade.
 - No skipped education, training assessment, examination, blueprint requirement, artifact prerequisite, or token recognition.

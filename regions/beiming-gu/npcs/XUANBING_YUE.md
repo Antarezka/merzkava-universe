@@ -31,7 +31,8 @@
 - **Martial Soul:** Not established.
 - **Spirit Rings and abilities:** Not established.
 - **Techniques / combat style:** Not established.
-- **Thinker Grade / specialties:** Not established.
+- **Thinker Grade:** ???
+- **Thinker specialties:** Not established.
 - **Equipment:** Not established.
 - **Known limitations:** Clan membership does not establish ability, rank, or dojo affiliation.
 - **Source module for mechanics:** Follow the official cultivation, Martial Soul, and Spirit Ring modules.

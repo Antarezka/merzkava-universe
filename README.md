@@ -211,17 +211,17 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ---
 
-- ✦ **Mandatory Thinker Progression — Certification, Artifact Provenance & Grade 10**
-  Hash: ``c63b4e5`` | Ver: ``Nightly-v3.0.26`` · ``Stable-v3.0.16``
-  Added mandatory instruction and training gates, official Grade examinations, personal engraver-blueprint requirements, artifact series-code and ownership verification, exact Grade 8–10 prerequisites, senior recognition tokens orderable through city branches, and institutional contribution points.
+- ✦ **Mandatory Thinker Path — Single Authority & Hard Gate**
+  Hash: ``0563f7f`` | Ver: ``Nightly-v3.0.28`` · ``Stable-v3.0.16``
+  Consolidated Thinker progression in one canonical module; INDEX and Authority Order enforce it, while the Institute and artifact catalog defer to the core rules.
+
+- ✦ **Artificial Artifact Condition Formula**
+  Hash: ``44649ab`` | Ver: ``Nightly-v3.0.27`` · ``Stable-v3.0.16``
+  Added a mandatory post-success Condition Score using Tier difficulty, maker readiness/skill/experience/consistency, environmental penalties, and Origin at 97% or higher.
 
 - ✦ **Bootstrap Authority — INDEX → Authority Order**
   Hash: ``6a5fa7b`` | Ver: ``Nightly-v3.0.25`` · ``Stable-v3.0.16``
   Gameplay bootstrap starts at `INDEX.md`, then `templates/AUTHORITY_ORDER.md`. README remains maintenance-only and cannot bootstrap gameplay or define rules.
-
-- ✦ **Ordo Suci Tianming — Red Notice Canon Alignment**
-  Hash: ``4db3f61`` | Ver: ``Nightly-v3.0.24`` · ``Stable-v3.0.16``
-  Confirmed Red Notice/Ordo enforcement follows plausible evidence, NPC knowledge, distance, and staged in-world responses; GM meta sanctions remain separate.
 
 </div>
 

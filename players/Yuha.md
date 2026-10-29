@@ -5,9 +5,6 @@
 **Profile definitions:** `templates/CHARACTER_PROFILE_TEMPLATE.md`
 **Mechanics:** Use the official modules listed in `INDEX.md`.
 
-**Informasi Tambahan untuk GM — sebelum memulai (bukan field profil):**
-Prefer Narrative: Wajib tanyakan kepada player sebelum permainan dimulai dengan opsi A. Dengan Opsi / B. Tanpa Opsi. Hanya jawaban pasti yang menetapkan pilihan; jika player tidak menjawab jelas A/B atau Yes/No, default **Tanpa Opsi (No)**. Letakkan pertanyaan ini paling bawah setelah seluruh pilihan aksi, gunakan divider format lama, tanpa judul tambahan.
-
 ## Initial Character Profile
 
 - **Nama:** Yuha

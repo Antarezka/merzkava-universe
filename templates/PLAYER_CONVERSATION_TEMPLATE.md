@@ -12,6 +12,8 @@ CONVO — [Nama Karakter]
 
 **Aksiku:** [Tulis tindakan karakter di sini]
 
+**Mode rekomendasi GM:** `Provide GM options: (Yes/No)` — pilih `Yes` untuk rekomendasi tindakan kontekstual setelah narasi atau `No` untuk narasi tanpa opsi rekomendasi. Dalam sesi berlanjut, pilihan eksplisit terakhir tetap berlaku sampai diubah. Pada sesi baru, jika belum ada pilihan yang terverifikasi, GM harus menanyakan mode ini dan menunggu jawaban sebelum menampilkan rekomendasi.
+
 ## Jika Trigger Dikirim Tanpa Nama Karakter
 
 Jika player hanya mengirim tautan/trigger tanpa nama karakter yang jelas, GM wajib berhenti sebelum narasi dan menanyakan apakah nama belum ditulis atau salah ketik. Dalam pertanyaan yang sama, tampilkan daftar wilayah pilihan, minta pilihan Spirit Realm sambil merekomendasikan Mortal untuk pengalaman awal terbaik, dan jelaskan pilihan karakter manusia atau half-beast. Rincian wilayah, cara menangani nama yang hilang, dan aturan estimasi field ambigu mengikuti `templates/AUTHORITY_ORDER.md`.

@@ -227,3 +227,9 @@ Tianhai Yunzhou has several independent trade and professional associations. The
 - **Misty Shoals Fishers and Pilots Association** — fishing-market information, pilot availability, and local-weather observations.
 
 These associations may compete or cooperate. Their exact local placements, leaders, membership rules, fees, prices, exclusive rights, and formal agreements remain unspecified unless established in play or approved canon. Detailed locations, boundaries, and full remits are maintained in `world/REGION_TIANHAI_YUNZHOU.md` §14.2.
+
+## 13. Teaching Material and Independent Learning Routes
+
+The established clans, dojos, sects, academies, and specialist organizations can offer teaching or practical knowledge only where their known role supports it. Their curriculum categories, student-facing material, Thinker qualification limits, and non-faction alternatives are consolidated in [`world/OPEN_LEARNING_PATHS_AND_WANDERING_INSTRUCTORS.md`](OPEN_LEARNING_PATHS_AND_WANDERING_INSTRUCTORS.md). Use that module to choose a plausible learning route without inventing admissions, instructors, or expertise. It does not override the official cultivation, Thinker, time, Satiety, economy, or regional rules.
+
+Players are not required to join a faction to begin or continue either path. Independent tutors and wandering practitioners may be encountered through the procedure in `world/OPEN_LEARNING_PATHS_AND_WANDERING_INSTRUCTORS.md` and `gameplay/TRAVEL_ENCOUNTER_AMBUSH_RESCUE.md`; an encounter creates an opportunity, not guaranteed recruitment or free progression.

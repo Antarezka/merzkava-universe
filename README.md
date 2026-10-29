@@ -211,13 +211,13 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ---
 
-- ✦ **Pre-Session Narrative Preference — Mandatory Choice**
-  Hash: ``d12655d`` | Ver: ``Nightly-v3.0.30`` · ``Stable-v3.0.16``
-  Every player profile now requires asking A. Dengan Opsi / B. Tanpa Opsi before play; unclear or missing answers default to No. Ask at the bottom after action choices, using the existing dividers.
+- ✦ **Single GM Options Control — Canonical**
+  Hash: ``c1e4d34`` | Ver: ``Nightly-v3.0.30`` · ``Stable-v3.0.16``
+  Retained `Provide GM options: (Yes/No)` as the only player preference control; removed the separate narrative A/B prompt from bootstrap guidance and all six player snapshots.
 
 - ✦ **Thinker Hard Gate & T.Focus Field Rules**
   Hash: ``9cae9d3`` | Ver: ``Nightly-v3.0.30`` · ``Stable-v3.0.16``
-  All six player snapshots include T.Focus and a separate pre-session GM note; preferences must be asked again rather than assumed from a saved choice.
+  All six player snapshots include the required T.Focus field; Thinker Grade and T.Focus remain separate and must be verified independently.
 
 - ✦ **Artificial Artifact Condition Formula**
   Hash: ``44649ab`` | Ver: ``Nightly-v3.0.27`` · ``Stable-v3.0.16``

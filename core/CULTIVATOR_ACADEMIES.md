@@ -6,7 +6,7 @@
 
 Cultivator Academies provide foundational education for people pursuing cultivation. They teach basic theory, physical preparation, and practical knowledge relevant to Martial Souls, Spirit Rings, combat, the world's history, and the development of Artificial Artifacts.
 
-An academy is a broad educational route; it is not automatically a sect, a dojo, a Thinker institution, or a guarantee of advancement. Individual institutions may differ in resources, teaching quality, specialization, and access, but specific differences must be established by canon or events.
+An academy is a broad educational route; it is not automatically a sect, a dojo, a Arcanist institution, or a guarantee of advancement. Individual institutions may differ in resources, teaching quality, specialization, and access, but specific differences must be established by canon or events.
 
 ## 2. FOUNDATIONAL SUBJECTS
 
@@ -51,9 +51,9 @@ The exact syllabus, disputed accounts, and the knowledge available to a particul
 ### 2.6 Artificial Artifact History and Influence
 - The emergence and spread of Artificial Artifact technology.
 - The ways this technology influenced society, knowledge exchange, and warfare.
-- The distinction between learning about Artificial Artifacts and having the specialist knowledge, materials, tools, or Thinker Grade required to formulate and manufacture them.
+- The distinction between learning about Artificial Artifacts and having the specialist knowledge, materials, tools, or Arcanist Grade required to formulate and manufacture them.
 
-Foundational history lessons do not automatically qualify a student as a Thinker or provide practical formulation skill. Detailed Thinker and production mechanics are governed by `core/THINKER_AND_FORMULATION.md`.
+Foundational history lessons do not automatically qualify a student as a Arcanist or provide practical formulation skill. Detailed Arcanist and production mechanics are governed by `core/ARCANISTRY_AND_FORMULATION.md`.
 
 ### 2.7 Other Relevant Knowledge
 Depending on the established curriculum, foundational education may also include geography, Spirit Beast awareness, major factions, travel, and other knowledge relevant to life as a cultivator. Whether a particular academy offers a subject must be established rather than assumed.
@@ -72,10 +72,10 @@ Only two specific central boarding academies exist in established Golden Dragon 
 
 - A Cultivator Academy offers broad foundational education.
 - A specialist institution, dojo, organization, or mentor may offer narrower or more advanced instruction.
-- Thinker education and access to specialized equipment, including a Formation Engraver, are not automatically included in ordinary academy education.
-- An academy may provide a pathway toward further study, but attendance alone does not confer Thinker Grade, Spirit Realm advancement, combat mastery, or access to restricted knowledge.
+- Arcanist education and access to specialized equipment, including a Formation Engraver, are not automatically included in ordinary academy education.
+- An academy may provide a pathway toward further study, but attendance alone does not confer Arcanist Grade, Spirit Realm advancement, combat mastery, or access to restricted knowledge.
 
-Outside the Golden Dragon Empire, institution counts and rules are established by regional canon rather than inferred from the Golden Dragon Empire's two-academy limit. Tianhai Yunzhou has four established Cultivator Academies, documented in `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md`; their methods are more flexible than the Golden Dragon Empire's orthodox central academies, but official cultivation, Spirit Ring, combat, and Thinker mechanics still apply. Their exact admissions, costs, and detailed curricula remain unspecified.
+Outside the Golden Dragon Empire, institution counts and rules are established by regional canon rather than inferred from the Golden Dragon Empire's two-academy limit. Tianhai Yunzhou has four established Cultivator Academies, documented in `world/TIANHAI_ACADEMIES_AND_ARCANIST_INSTITUTE.md`; their methods are more flexible than the Golden Dragon Empire's orthodox central academies, but official cultivation, Spirit Ring, combat, and Arcanist mechanics still apply. Their exact admissions, costs, and detailed curricula remain unspecified.
 
 ## 4. LIMITS OF EDUCATION
 
@@ -86,7 +86,7 @@ The GM must distinguish between what a character has been taught and what the ch
 - Do not assume every academy teaches the same curriculum or has equal resources.
 - Do not invent grades, certificates, examinations, tuition, academic years, or graduation rules.
 - Do not treat introductory Spirit Ring theory as permission to bypass official absorption requirements.
-- Do not treat knowledge of Artificial Artifacts as Thinker expertise or manufacturing capability.
+- Do not treat knowledge of Artificial Artifacts as Arcanist expertise or manufacturing capability.
 - If the specific academy, curriculum, or level of a character's education is unknown, keep that detail as `???` or establish it through play before relying on it.
 
 ## 5. GM ENFORCEMENT
@@ -96,7 +96,7 @@ When education matters in gameplay:
 1. Establish which academy, mentor, or learning route the character actually attended, if any.
 2. Determine which subjects and level of instruction are supported by the character's history.
 3. Separate theoretical knowledge from practical skill and proven mastery.
-4. Apply cultivation, Spirit Ring, combat, and Thinker mechanics from their respective official modules.
+4. Apply cultivation, Spirit Ring, combat, and Arcanist mechanics from their respective official modules.
 5. Do not grant unrecorded abilities, bonuses, qualifications, or access solely because the character attended an academy.
 
 ## 6. CANON CONTINUITY
@@ -110,6 +110,6 @@ When education matters in gameplay:
 - `core/SPIRIT_RING_RULES.md` — Spirit Ring mechanics and absorption.
 - `bestiary/SPIRIT_BEAST_RULES.md` — Spirit Beast requirements and related rules.
 - `gameplay/COMBAT_SYSTEM.md` — combat resolution.
-- `core/THINKER_AND_FORMULATION.md` — Thinker progression and Artificial Artifact formulation.
+- `core/ARCANISTRY_AND_FORMULATION.md` — Arcanist progression and Artificial Artifact formulation.
 - `world/HISTORY.md` — established historical events.
 - `world/ARTIFICIAL_ARTIFACTS.md` — Artificial Artifact lore and catalog.

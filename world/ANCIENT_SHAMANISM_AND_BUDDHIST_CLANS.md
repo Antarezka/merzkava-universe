@@ -27,11 +27,11 @@ Members possess a distinctive Martial Soul known as the **Spirit Bell**. Each in
 
 The clan borrows power from both **sacred spirits and cursed spirits**. The precise entities, methods of contact, costs, risks, rituals, limits, and combat techniques have not been established. Do not assume that borrowing from a cursed spirit automatically makes a member evil, nor that sacred spirits guarantee that a member is morally good.
 
-### 2.3 Thinker prohibition
+### 2.3 Arcanist prohibition
 
-Ancient Shamanism firmly rejects the pursuit and mastery of the **Thinker** path. Its members do not study Thinker disciplines and remain devoted to the power of their Martial Souls.
+Ancient Shamanism firmly rejects the pursuit and mastery of the **Arcanist** path. Its members do not study Arcanistry and remain devoted to the power of their Martial Souls.
 
-This is a doctrinal rejection of the Thinker path. Do not infer unrecorded mechanics such as immunity to Artificial Artifacts, inability to use ordinary tools, or automatic superiority over Thinkers.
+This is a doctrinal rejection of the Arcanist path. Do not infer unrecorded mechanics such as immunity to Artificial Artifacts, inability to use ordinary tools, or automatic superiority over Arcanists.
 
 ### 2.4 Known hierarchy and cultivation
 

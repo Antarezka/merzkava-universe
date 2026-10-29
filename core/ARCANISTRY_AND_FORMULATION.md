@@ -1,16 +1,16 @@
 # MERZKAVA UNIVERSE — THINKER & FORMULATION SYSTEM
 
-**Status:** Mandatory Thinker progression and certification protocol integrated. Artificial Artifact condition scoring is formally defined in §14. Production success chance remains separate from the quality score; random-resolution procedure, situational success modifiers, numerical training costs, and other unresolved production parameters remain undefined until formally approved.
+**Status:** Mandatory Arcanist progression and certification protocol integrated. Artificial Artifact condition scoring is formally defined in §14. Production success chance remains separate from the quality score; random-resolution procedure, situational success modifiers, numerical training costs, and other unresolved production parameters remain undefined until formally approved.
 
 
 ## MANDATORY THINKER PATH — SINGLE CANONICAL ROUTE
 
-**This path is binding for every player character and NPC.** `core/THINKER_AND_FORMULATION.md` is the single authority for Thinker progression, production chances, Artificial Artifact condition, and related maker requirements. Supporting files may explain institutional administration, regional lore, or catalogued artifacts, but may not create alternate progression routes or override this module.
+**This path is binding for every player character and NPC.** `core/THINKER_AND_FORMULATION.md` is the single authority for Arcanist progression, production chances, Artificial Artifact condition, and related maker requirements. Supporting files may explain institutional administration, regional lore, or catalogued artifacts, but may not create alternate progression routes or override this module.
 
-1. **Foundational instruction:** learn Thinker theory from a real, qualified teacher or recognized educational source that genuinely teaches it. Self-study alone, talent, wealth, cultivation, possession of artifacts, or narrative declaration cannot replace instruction.
+1. **Foundational instruction:** learn Arcanistry theory from a real, qualified teacher or recognized educational source that genuinely teaches it. Self-study alone, talent, wealth, cultivation, possession of artifacts, or narrative declaration cannot replace instruction.
 2. **Mandatory focus training:** complete the assessed stages in order: Pemula → Initiate → Beginner → Ordinary → Ahli → Expert. A stage is awarded only after the actual teacher/institution assesses the student's demonstrated progress.
-3. **Apprentice gate:** passing the required Initiate assessment grants eligibility only. Register for and pass the official Apprentice Examination using the required affiliation-marked Engraver's Apprentice; passing grants Thinker Grade 1.
-4. **Every Grade advancement:** register through the Tianhai Thinker Institute or a formally recognized examination arrangement, satisfy all established eligibility requirements, pay only established fees, and pass the examination for the target Grade. Training, eligibility, recommendations, or production alone never grant a Grade.
+3. **Apprentice gate:** passing the required Initiate assessment grants eligibility only. Register for and pass the official Apprentice Examination using the required affiliation-marked Engraver's Apprentice; passing grants Arcanist Grade 1.
+4. **Every Grade advancement:** register through the Tianhai Arcanist Institute or a formally recognized examination arrangement, satisfy all established eligibility requirements, pay only established fees, and pass the examination for the target Grade. Training, eligibility, recommendations, or production alone never grant a Grade.
 5. **Grade 7–10 tool gate:** before registering, personally design and establish authorship of the Formation Engraver blueprint; a qualified forger physically realizes that exact design; the candidate must own and present the resulting tool for verification. No substitution or waiver.
 6. **Grade 8–10 artifact gates:** verify the exact candidate-made, condition, Tier, type, series-code, and current-ownership requirements below. Grade 10 also requires genuine senior recognition and the final examination. Eligibility is not a pass.
 7. **Production and condition:** resolve production chance under §5 and the authorized resolution procedure. Only a successfully completed Artificial Artifact receives the condition score calculated under §14. Ordinary artifacts, Relics, and Ancient Artifacts do not gain Artificial Artifact production history.
@@ -22,12 +22,12 @@
 
 **Player-facing result formatting:** every resolved formulation chance, roll, production outcome, and formula-derived final value must be displayed as `****<hasil final>****`, whether successful or failed. Any displayed tier, grade, quality, status, or similar classification label must use the universal ``<istilah>`` label format inside double backticks.
 
-- Thinker has 10 tiers: Thinker Grade 1 through Thinker Grade 10.
-- Thinker progression is separate from Spirit Realm cultivation. It concerns knowledge, materials, formulations, patterns, and artifact-making processes.
-- Thinkers use metals, stone, special materials, patterns, and complex formulations to produce Artificial Artifacts.
-- Spirit Realm progression and Thinker Grade progress independently. High cultivation does not automatically make someone a great Thinker, and high Thinker Grade does not automatically make someone a powerful cultivator.
-- The first Thinkers originated in Tianhai Yunzhou. The world's strongest Thinkers emerge from this knowledge tradition; Tianhai Yunzhou's advantage includes exceptional knowledge, not only combat strength.
-- Thinker Grade determines the normal baseline capability and formulation ceiling. It does not guarantee success in every attempt.
+- Arcanist progression has 10 Grades: Arcanist Grade 1 through Arcanist Grade 10.
+- Arcanist progression is separate from Spirit Realm cultivation. It concerns knowledge, materials, formulations, patterns, and artifact-making processes.
+- Arcanists use metals, stone, special materials, patterns, and complex formulations to produce Artificial Artifacts.
+- Spirit Realm progression and Arcanist Grade progress independently. High cultivation does not automatically make someone a great Arcanist, and high Arcanist Grade does not automatically make someone a powerful cultivator.
+- The first Arcanists originated in Tianhai Yunzhou. The world's strongest Arcanists emerge from this knowledge tradition; Tianhai Yunzhou's advantage includes exceptional knowledge, not only combat strength.
+- Arcanist Grade determines the normal baseline capability and formulation ceiling. It does not guarantee success in every attempt.
 
 ## 2. THREE DISTINCT ARTIFACT ORIGINS
 
@@ -38,7 +38,7 @@ An inheritance or object left by a deity. Further properties are unknown unless 
 An artifact originating from the golden age of civilization.
 
 ### Artificial Artifact
-An artifact manufactured by a Thinker using materials, patterns, and formulations.
+An artifact manufactured by a Arcanist using materials, patterns, and formulations.
 
 These categories are distinct by origin and must not be treated as interchangeable. An Artificial Artifact is not automatically a Relic or an Ancient Artifact, and vice versa.
 
@@ -47,16 +47,16 @@ These categories are distinct by origin and must not be treated as interchangeab
 ## 3. KNOWLEDGE EXCHANGE AND CULTURAL INFLUENCE
 
 ### 3.1 Tianhai Yunzhou
-- Origin of the first Thinkers and a major center of Thinker knowledge.
+- Origin of the first Arcanists and a major center of Arcanistry knowledge.
 - The Tianhai Yunzhou Maharaja can compete through exceptional knowledge, not solely personal combat strength.
-- Thinker knowledge is one source of Tianhai Yunzhou's cultural influence.
+- Arcanistry knowledge is one source of Tianhai Yunzhou's cultural influence.
 - Knowledge and formulation development may become channels for cultural exchange, diplomacy, and rivalry.
 
 ### 3.2 Golden Dragon Empire
 - The Golden Dragon Empire is comparatively open to knowledge exchange and interaction with outside powers.
 - Exchanges between Tianhai Yunzhou and the Golden Dragon Empire are important routes for the spread of knowledge and cultural influence.
 - Exchange may affect diplomacy and relations as well as technology.
-- The spread of knowledge does not automatically give every party equal production capability. Thinker skill, materials, and formulation mastery remain limiting factors.
+- The spread of knowledge does not automatically give every party equal production capability. Arcanistry skill, materials, and formulation mastery remain limiting factors.
 
 ### 3.3 Beiming Gu and the Northern Region
 - The North is relatively isolated.
@@ -68,48 +68,48 @@ These categories are distinct by origin and must not be treated as interchangeab
 ## 4. REQUIREMENTS FOR FORMULATION AND PRODUCTION
 
 Producing an Artificial Artifact requires:
-- A formulation understood and assembled by the Thinker.
+- A formulation understood and assembled by the Arcanist.
 - Focus and concentration throughout the process.
 - Mental ability to understand, construct, and maintain complex formulation patterns.
 - Sufficient stamina/energy to continue working.
 - Suitable materials and applicable patterns.
-- A Thinker Grade capable of handling the target artifact under the normal tier limits.
+- A Arcanist Grade capable of handling the target artifact under the normal tier limits.
 
-Thinker Grade limits the artifact tier that can normally be produced. Meeting the tier requirement does not automatically guarantee success.
+Arcanist Grade limits the artifact tier that can normally be produced. Meeting the tier requirement does not automatically guarantee success.
 
 A successful formulation does not mean the process is free of cost, energy consumption, time, or consequences. Apply only costs and consequences defined by official mechanics. Do not improvise numerical stamina costs, durations, or thresholds.
 
 ## 5. BASE SUCCESS-CHANCE MATRIX — THINKER TIERS 1–10
 
-The baseline chance is determined by the difference between Thinker Grade and target Artificial Artifact tier. All values below are percentages, before any situational adjustment that is explicitly authorized by official rules.
+The baseline chance is determined by the difference between Arcanist Grade and target Artificial Artifact tier. All values below are percentages, before any situational adjustment that is explicitly authorized by official rules.
 
-| Thinker / Artifact | T1 | T2 | T3 | T4 | T5 | T6 | T7 | T8 | T9 | T10 |
+| Arcanist / Artifact | T1 | T2 | T3 | T4 | T5 | T6 | T7 | T8 | T9 | T10 |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| **Thinker G1** | 80% | 30% | 10% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |
-| **Thinker G2** | 100% | 80% | 30% | 10% | 0% | 0% | 0% | 0% | 0% | 0% |
-| **Thinker G3** | 100% | 100% | 80% | 30% | 10% | 0% | 0% | 0% | 0% | 0% |
-| **Thinker G4** | 100% | 100% | 100% | 80% | 30% | 10% | 0% | 0% | 0% | 0% |
-| **Thinker G5** | 100% | 100% | 100% | 100% | 80% | 30% | 10% | 0% | 0% | 0% |
-| **Thinker G6** | 100% | 100% | 100% | 100% | 100% | 80% | 30% | 10% | 0% | 0% |
-| **Thinker G7** | 100% | 100% | 100% | 100% | 100% | 100% | 80% | 30% | 10% | 0% |
-| **Thinker G8** | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 80% | 30% | 10% |
-| **Thinker G9** | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 80% | 30% |
-| **Thinker G10** | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 80% |
+| **Arcanist G1** | 80% | 30% | 10% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |
+| **Arcanist G2** | 100% | 80% | 30% | 10% | 0% | 0% | 0% | 0% | 0% | 0% |
+| **Arcanist G3** | 100% | 100% | 80% | 30% | 10% | 0% | 0% | 0% | 0% | 0% |
+| **Arcanist G4** | 100% | 100% | 100% | 80% | 30% | 10% | 0% | 0% | 0% | 0% |
+| **Arcanist G5** | 100% | 100% | 100% | 100% | 80% | 30% | 10% | 0% | 0% | 0% |
+| **Arcanist G6** | 100% | 100% | 100% | 100% | 100% | 80% | 30% | 10% | 0% | 0% |
+| **Arcanist G7** | 100% | 100% | 100% | 100% | 100% | 100% | 80% | 30% | 10% | 0% |
+| **Arcanist G8** | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 80% | 30% | 10% |
+| **Arcanist G9** | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 80% | 30% |
+| **Arcanist G10** | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 80% |
 
 Equivalent tier-difference rule:
 
-| Target relative to Thinker Grade | Baseline chance |
+| Target relative to Arcanist Grade | Baseline chance |
 |---|---:|
-| Artifact tier 2 or more below Thinker | 100% |
-| Artifact tier 1 below Thinker | 100% |
+| Artifact tier 2 or more below Arcanist | 100% |
+| Artifact tier 1 below Arcanist | 100% |
 | Same tier | 80% |
-| Artifact tier 1 above Thinker | 30% |
-| Artifact tier 2 above Thinker | 10% |
-| Artifact tier 3 or more above Thinker | 0% |
+| Artifact tier 1 above Arcanist | 30% |
+| Artifact tier 2 above Arcanist | 10% |
+| Artifact tier 3 or more above Arcanist | 0% |
 
-Reference example — Thinker G3: Artifact T1 = 100%; T2 = 100%; T3 = 80%; T4 = 30%; T5 = 10%; T6–T10 = 0%.
+Reference example — Arcanist G3: Artifact T1 = 100%; T2 = 100%; T3 = 80%; T4 = 30%; T5 = 10%; T6–T10 = 0%.
 
-A 0% baseline means the target cannot be produced by normal formulation at that Thinker Grade. A special talent does not bypass this ceiling unless an official exception mechanic explicitly permits it. Baseline 100% is not a guarantee against valid situational disruption; equally, the GM must not arbitrarily change the chance.
+A 0% baseline means the target cannot be produced by normal formulation at that Arcanist Grade. A special talent does not bypass this ceiling unless an official exception mechanic explicitly permits it. Baseline 100% is not a guarantee against valid situational disruption; equally, the GM must not arbitrarily change the chance.
 
 ## 6. FACTORS THAT MAY AFFECT THE ATTEMPT
 
@@ -122,13 +122,13 @@ The GM must assess actual conditions, but must not invent numerical modifiers.
 - Do not assume every attempt takes place under ideal conditions.
 
 ### Mental ability
-Mental ability affects understanding, arranging, and sustaining complex formulation patterns. Limitations may increase error risk, particularly near the Thinker's tier ceiling. Apply numeric effects only when officially defined.
+Mental ability affects understanding, arranging, and sustaining complex formulation patterns. Limitations may increase error risk, particularly near the Arcanist's tier ceiling. Apply numeric effects only when officially defined.
 
 ### Stamina/energy
 The process requires energy throughout the work.
 - Sufficient energy allows normal work.
 - Low energy may slow or disrupt work.
-- If the Thinker cannot continue, the process may fail under the applicable rules.
+- If the Arcanist cannot continue, the process may fail under the applicable rules.
 
 Numerical energy costs, work duration, and thresholds are not yet defined. The GM must not invent them.
 
@@ -137,16 +137,16 @@ Numerical energy costs, work duration, and thresholds are not yet defined. The G
 - Low-quality or poorly matched materials may reduce success only under an established rule.
 - If a required material is missing, the formulation cannot be completed unless an officially recognized substitute exists.
 
-Rare materials do not automatically produce a stronger artifact. The outcome still depends on formulation and Thinker capability.
+Rare materials do not automatically produce a stronger artifact. The outcome still depends on formulation and Arcanist capability.
 
 ### Special talent
-Relevant talents may concern pattern comprehension, concentration, processing a particular material, or a particular Artificial Artifact category. A talent applies only when relevant to the task and its effect is explicitly recorded in the character profile, talent system, or official rule. Do not invent numerical bonuses, stamina efficiency, or exceptions. A talent does not automatically bypass Thinker Grade limits.
+Relevant talents may concern pattern comprehension, concentration, processing a particular material, or a particular Artificial Artifact category. A talent applies only when relevant to the task and its effect is explicitly recorded in the character profile, talent system, or official rule. Do not invent numerical bonuses, stamina efficiency, or exceptions. A talent does not automatically bypass Arcanist Grade limits.
 
 ## 7. FORMULATION RESOLUTION PROCEDURE
 
 For each attempt, the GM must:
 
-1. Identify the Thinker's tier.
+1. Identify the Arcanist's tier.
 2. Identify the target Artificial Artifact tier and type.
 3. Read the baseline chance from the official matrix.
 4. Assess focus, mental ability, stamina, materials, and relevant talents.
@@ -161,14 +161,14 @@ Possible outcomes include success and failure. Material damage, energy consumpti
 ## 8. FUTURE FORMULATION DEVELOPMENT
 
 Artificial Artifact technology may advance through:
-- Higher Thinker Grades and improved capability.
+- Higher Arcanist Grades and improved capability.
 - Knowledge exchange between civilizations.
 - Discovery of new materials and resources.
 - Development and refinement of formulations.
 - Mastery of more complex patterns.
 - New production methods, only after they are established as official lore.
 
-Knowledge exchange between Tianhai Yunzhou and the Golden Dragon Empire may open paths for scientific development. Ancient materials in the North may support research and formation engraving. Knowledge spreading does not automatically make all civilizations equally capable; Thinker skill, materials, and formulation mastery remain limiting factors.
+Knowledge exchange between Tianhai Yunzhou and the Golden Dragon Empire may open paths for scientific development. Ancient materials in the North may support research and formation engraving. Knowledge spreading does not automatically make all civilizations equally capable; Arcanist skill, materials, and formulation mastery remain limiting factors.
 
 Mechanics for refining formulations, breakthroughs, or technologies beyond normal limits must be documented before the GM treats them as canon.
 
@@ -176,7 +176,7 @@ Mechanics for refining formulations, breakthroughs, or technologies beyond norma
 
 The GM must:
 - Read INDEX and relevant official modules according to repository procedure.
-- Use this module as the source for Thinker and formulation rules.
+- Use this module as the source for Arcanist and formulation rules.
 - Determine baseline chance from the Tier 1–10 matrix.
 - Check focus, mental ability, stamina, materials, and relevant talents.
 - Use only established modifiers and resolution methods.
@@ -188,7 +188,7 @@ The GM must:
 
 ## 10. CANON PRINCIPLE
 
-Thinker is an independent knowledge-and-formulation progression path. Thinker Grade determines baseline chance and the normal formulation ceiling. Actual conditions, materials, and talents affect the attempt only through official mechanics.
+Arcanist is an independent knowledge-and-formulation progression path. Arcanist Grade determines baseline chance and the normal formulation ceiling. Actual conditions, materials, and talents affect the attempt only through official mechanics.
 
 Narration alone does not guarantee success. The GM may not invent bonuses or exceptions, and may not override a valid resolution simply to force a preferred outcome.
 
@@ -206,14 +206,14 @@ The Formation Engraver is a specialized precision tool used to carve intricate f
 
 ### 12.1 Form and Purpose
 - Its general form resembles a surgical scalpel, but its working tip is exceptionally fine, with a very small diameter.
-- The fine tip allows a Thinker to engrave tiny, precise, and complex formation lines into artifact materials.
+- The fine tip allows a Arcanist to engrave tiny, precise, and complex formation lines into artifact materials.
 - Its purpose is precision engraving; it is not merely an ordinary knife or a general-purpose carving tool.
 - The analogy is similar to semiconductor and computer-chip fabrication: as patterns become smaller and more densely arranged, the required precision and technical sophistication increase. This is an analogy for precision and complexity, not a claim that Artificial Artifacts use modern computer-chip technology.
 
 ### 12.2 Precision and Complexity
 - Smaller, finer, and more intricate formation patterns generally demand more advanced engraving capability and control.
 - A finer tool does not by itself grant the user the knowledge or skill to create a valid formation.
-- The required tool, material, formulation, and Thinker capability must be suitable for the intended work.
+- The required tool, material, formulation, and Arcanist capability must be suitable for the intended work.
 - No exact tip diameters, precision grades, manufacturing tolerances, or numerical bonuses are established yet. Keep such values as `???` until officially defined.
 
 ### 12.3 Manufacture and Access
@@ -223,18 +223,18 @@ The Formation Engraver is a specialized precision tool used to carve intricate f
 - The tool is expensive because of the difficulty of manufacturing it and the precision required. Exact prices, quality grades, durability, and repair costs remain `???` unless established elsewhere.
 - An ordinary blacksmith without the required Spirit Realm and forging ability cannot be assumed capable of producing one.
 
-### 12.4 Entry into the Mandatory Thinker Path
+### 12.4 Entry into the Mandatory Arcanist Path
 
 An academy, dojo, clan, specialist organization, or qualified mentor may provide access to the legitimate foundational instruction required by §13. Recommendation and admission are access mechanisms only; they do not replace the mandatory training stages, official examinations, eligibility requirements, or certification.
 
-Every aspiring Thinker must complete the same binding progression route in §13. Institutions may differ in teaching methods, resources, fees, availability, and mentoring, but no institution or NPC may waive the mandatory gates unless a future explicit canon amendment authorizes a specific exception.
+Every aspiring Arcanist must complete the same binding progression route in §13. Institutions may differ in teaching methods, resources, fees, availability, and mentoring, but no institution or NPC may waive the mandatory gates unless a future explicit canon amendment authorizes a specific exception.
 
 ### 12.5 GM Enforcement
-- Do not assume an aspiring Thinker already owns a Formation Engraver.
+- Do not assume an aspiring Arcanist already owns a Formation Engraver.
 - Do not assume a common craftsman can manufacture one.
 - Check the maker's Spirit Realm and relevant forging ability when the tool's manufacture is part of the story.
 - The tool's availability, quality, and suitability must be established before it is used for precision work.
-- Owning the tool does not replace Thinker knowledge, formulation understanding, materials, or the official success rules.
+- Owning the tool does not replace Arcanistry knowledge, formulation understanding, materials, or the official success rules.
 - Do not invent exact prices, dimensions, quality tiers, production times, or special effects before they are defined.
 
 
@@ -244,10 +244,10 @@ Every aspiring Thinker must complete the same binding progression route in §13.
 
 ### 13.1 Absolute progression gate
 
-- Thinker knowledge and formulation mastery cannot be acquired through self-declaration, spontaneous intuition, unexplained talent, or independent practice without legitimate instruction.
-- Every aspiring Thinker must first learn foundational theory from an actual qualified teacher, dojo, clan, institution, specialist organization, or other recognized educational source. The source must genuinely teach the knowledge claimed.
-- Thinker Grade is independent of Spirit Realm. Cultivation level, Martial Soul rarity, wealth, reputation, and possession of artifacts do not grant Thinker Grade.
-- Every official Grade requires the relevant examination administered or recognized by the Tianhai Thinker Institute. Passing the examination for the target Grade grants that official Grade; registration, training, artifact production, recommendations, and eligibility alone do not.
+- Arcanistry knowledge and formulation mastery cannot be acquired through self-declaration, spontaneous intuition, unexplained talent, or independent practice without legitimate instruction.
+- Every aspiring Arcanist must first learn foundational theory from an actual qualified teacher, dojo, clan, institution, specialist organization, or other recognized educational source. The source must genuinely teach the knowledge claimed.
+- Arcanist Grade is independent of Spirit Realm. Cultivation level, Martial Soul rarity, wealth, reputation, and possession of artifacts do not grant Arcanist Grade.
+- Every official Grade requires the relevant examination administered or recognized by the Tianhai Arcanist Institute. Passing the examination for the target Grade grants that official Grade; registration, training, artifact production, recommendations, and eligibility alone do not.
 - These requirements apply equally to players and NPCs. Existing NPC credentials must be supported by canon or valid recorded history.
 
 ### 13.2 Mandatory mental-focus training stages
@@ -263,19 +263,19 @@ After learning foundational theory, the student must undergo mental endurance, c
 
 “Initiate” is the approved stage label replacing the provisional “Novice” wording. The teacher/institution determines exercises appropriate to its legitimate tradition and assesses progression; no stage is granted automatically by time, payment, narrative claim, or mere attendance.
 
-Passing the required Initiate standard grants eligibility to attempt the Apprentice Examination. It does not itself confer Thinker Grade 1 or guarantee exam success.
+Passing the required Initiate standard grants eligibility to attempt the Apprentice Examination. It does not itself confer Arcanist Grade 1 or guarantee exam success.
 
 ### 13.3 Apprentice Examination and Grade 1
 
-- The Tianhai Thinker Institute or a formally recognized examination arrangement administers the Apprentice Examination.
+- The Tianhai Arcanist Institute or a formally recognized examination arrangement administers the Apprentice Examination.
 - Candidates use an Engraver's Apprentice, an examination tool bearing a pattern, emblem, or identifying mark associated with the candidate's legitimate educational origin or sponsoring tradition.
 - The mark identifies affiliation only. It grants no automatic bonus, superior quality, or exemption from requirements.
 - Candidates attempt Artificial Artifact production, normally in the Tier 1–3 range as the actual examination permits. Assessment covers learned theory, formulation, engraving precision, focus, endurance, materials, tool suitability, time, and valid production mechanics.
-- A candidate who passes the Apprentice Examination receives official Thinker Grade 1. A candidate who fails receives no Grade 1 certification; any retake follows established institute rules.
+- A candidate who passes the Apprentice Examination receives official Arcanist Grade 1. A candidate who fails receives no Grade 1 certification; any retake follows established institute rules.
 
 ### 13.4 Grade 1–10 official advancement and examination standards
 
-For every advancement, the candidate must register with the appropriate institute or recognized branch, pay the applicable established registration fee, satisfy all eligibility requirements, take the examination for the target Grade, and pass it. Passing the Grade N examination grants official Thinker Grade N.
+For every advancement, the candidate must register with the appropriate institute or recognized branch, pay the applicable established registration fee, satisfy all eligibility requirements, take the examination for the target Grade, and pass it. Passing the Grade N examination grants official Arcanist Grade N.
 
 **Grades 2–6 use the Grade 1 examination format, with the target Artificial Artifact Tier raised to match the target Grade.** The candidate must complete the required production examination; from Grade 2 onward, the condition of the produced Artificial Artifact is a mandatory assessed requirement, calculated using §14. The candidate must not receive a pass merely for successful production if the condition requirement is not met. Grade 1 does not require the §14 condition score as a separate advancement prerequisite, although production success and all other stated examination requirements still apply.
 
@@ -294,9 +294,9 @@ For Grades 3–6, the stated quotas are based on an examination cohort of 40 act
 
 **Competitive ranking begins at Grade 5.** A Grade 5 or Grade 6 candidate can satisfy the basic production, condition, and eligibility requirements and still fail if a competing candidate in the same session produces both (a) a better condition result and (b) a greater quantity of qualifying Artificial Artifacts. Apply the same comparison to Grade 7 alongside its cap of 10 successful participants. The candidate's own artifacts must meet the target-Tier requirement and any stated eligibility requirements; borrowed, purchased, gifted, inherited, or other non-candidate-made artifacts never count. Do not invent a fixed minimum batch quantity where the examination notice or another canonical rule has not established one. Record each candidate's output count and condition results, and document the ranking evidence. A candidate who meets the basic standard but loses this competition is recorded as failed and receives no Grade promotion.
 
-The Grade 3–7 pass caps are independent of production success chance. They limit the number of candidates who can pass; they do not change the Thinker Grade × target Tier chance matrix or the §14 condition formula. If a competition has no qualifying comparison evidence, do not fabricate an opponent's result or automatically fail the candidate.
+The Grade 3–7 pass caps are independent of production success chance. They limit the number of candidates who can pass; they do not change the Arcanist Grade × target Tier chance matrix or the §14 condition formula. If a competition has no qualifying comparison evidence, do not fabricate an opponent's result or automatically fail the candidate.
 
-Upon officially obtaining Grade 1, a Thinker becomes eligible to obtain a personal engraver through a qualified teacher or by purchasing one from the institute, subject to availability and the applicable price. An ordinary purchased or borrowed engraver does not satisfy the personal-design prerequisite for Grade 7 and above.
+Upon officially obtaining Grade 1, a Arcanist becomes eligible to obtain a personal engraver through a qualified teacher or by purchasing one from the institute, subject to availability and the applicable price. An ordinary purchased or borrowed engraver does not satisfy the personal-design prerequisite for Grade 7 and above.
 
 ### 13.5 Mandatory personal-designed engraver for Grade 7–10
 
@@ -341,13 +341,13 @@ These are prerequisites to register for the relevant examination, not automatic 
 
 **Grade 10:** The candidate must meet the personal-designed engraver requirement and personally produce and still own at least 10 Tier 9 Artificial Artifacts with condition Origin. All 10 must be of the weaponry type. Utility artifacts, tools, accessories, and all other non-weaponry types do not count, regardless of their Tier, condition, rarity, or value. The candidate must also satisfy the recognition and final-examination requirements below.
 
-### 13.9 Thinker tokens and Grade 10 recognition
+### 13.9 Arcanist tokens and Grade 10 recognition
 
-A Thinker token is a professional identity credential, comparable in social function to a formal business card. It identifies its holder and can evidence an authorized professional relationship. It is not merely a collectible, an ordinary recommendation, or an item that can be purchased to replace trust.
+A Arcanist token is a professional identity credential, comparable in social function to a formal business card. It identifies its holder and can evidence an authorized professional relationship. It is not merely a collectible, an ordinary recommendation, or an item that can be purchased to replace trust.
 
 For Grade 10 examination eligibility, the candidate must obtain either:
-- Recognition from at least one officially recognized Thinker Grade 10; or
-- Recognition from three officially recognized Thinker Grade 9 individuals.
+- Recognition from at least one officially recognized Arcanist Grade 10; or
+- Recognition from three officially recognized Arcanist Grade 9 individuals.
 
 Recognition is a serious professional commitment that may expose both parties to shared risks, responsibilities, opportunities, and benefits. The precise scope depends on the relationship or agreement actually established; holding a token does not make its issuer automatically responsible for every action of its holder.
 
@@ -355,13 +355,13 @@ Tokens may be ordered through any city branch using the established process. Adm
 
 The recognizing NPC determines a meaningful challenge grounded in their actual knowledge, personality, interests, authority, resources, and circumstances. A challenge may require producing something, completing a difficult or lengthy undertaking, making a legitimate contribution, paying an appropriate fee, providing resources, or fulfilling another justified condition. Challenges may take substantial in-world time. NPCs must not grant recognition automatically because a candidate asks, has a high Grade, or completes an unrelated task; neither may the GM invent arbitrary demands unsupported by the NPC or setting.
 
-Merzkava has **no more than five Thinker Grade 10 individuals worldwide**. Preserve this canon limit in NPC generation and institutional records. The exceptional production prerequisites, senior recognition, and final examination help maintain this scarcity.
+Merzkava has **no more than five Arcanist Grade 10 individuals worldwide**. Preserve this canon limit in NPC generation and institutional records. The exceptional production prerequisites, senior recognition, and final examination help maintain this scarcity.
 
 After satisfying artifact and recognition prerequisites, the candidate must register for and pass the official Grade 10 examination. Eligibility is not a guarantee of success.
 
 ### 13.10 Institutional contribution points
 
-When a student passes an official Thinker examination, the institution or educational organization responsible for their legitimate training receives contribution points from the central institute according to the applicable contribution rules. These points belong to the institution, not automatically to the student's personal Wallet.
+When a student passes an official Arcanist examination, the institution or educational organization responsible for their legitimate training receives contribution points from the central institute according to the applicable contribution rules. These points belong to the institution, not automatically to the student's personal Wallet.
 
 Eligible institutions may exchange points for approved scarce resources, including rare or unique materials and important spare parts/components needed for Artificial Artifact production. Contribution rewards, exchange rates, stock, prices, and transaction records must use established economic and institutional rules. If a value or inventory has not been defined, the GM must not invent a numerical value and present it as canon.
 
@@ -369,7 +369,7 @@ Contribution points do not directly increase a student's Grade, guarantee examin
 
 ### 13.11 Training duration, Satiety costs, and production time — mandatory schedule
 
-The following schedule establishes standard minimum guided-training hours and baseline production work time. These values govern ordinary Thinker training and controlled workshop conditions; they do not guarantee mastery or production success. The actual teacher/institution must assess the student at every stage, and real interruptions, material problems, tool limitations, or environmental conditions may extend the duration when supported by the scene.
+The following schedule establishes standard minimum guided-training hours and baseline production work time. These values govern ordinary Arcanist training and controlled workshop conditions; they do not guarantee mastery or production success. The actual teacher/institution must assess the student at every stage, and real interruptions, material problems, tool limitations, or environmental conditions may extend the duration when supported by the scene.
 
 **Mental-focus training stages**
 
@@ -399,18 +399,18 @@ The stage schedule assumes up to three hours of focused practice per training da
 | Tier 9 | 24 hours | 175.0 |
 | Tier 10 | 36 hours | 262.5 |
 
-**How baseline Satiety is calculated:** production and focused Thinker practice count as **Sedang (A ×1.75)** under the official Hunger and Metabolism module. For a Mortal with normal body condition, no missed meal windows, and no special modifier, the cost is active work hours × (100 ÷ 24) × 1.75 = approximately **7.2917 Satiety per active hour**, displayed to one decimal place. The costs in both tables are reference totals across the stated work hours, not a single-turn deduction and not a claim that Satiety can go below zero. Food consumed during a multi-day process restores Satiety under the official food rules. For other Spirit Realms, body conditions, missed meal windows, or valid special modifiers, recalculate each actual awake-time interval using the official Satiety formula rather than copying the Mortal reference total.
+**How baseline Satiety is calculated:** production and focused Arcanist practice count as **Sedang (A ×1.75)** under the official Hunger and Metabolism module. For a Mortal with normal body condition, no missed meal windows, and no special modifier, the cost is active work hours × (100 ÷ 24) × 1.75 = approximately **7.2917 Satiety per active hour**, displayed to one decimal place. The costs in both tables are reference totals across the stated work hours, not a single-turn deduction and not a claim that Satiety can go below zero. Food consumed during a multi-day process restores Satiety under the official food rules. For other Spirit Realms, body conditions, missed meal windows, or valid special modifiers, recalculate each actual awake-time interval using the official Satiety formula rather than copying the Mortal reference total.
 
 **Mandatory action and continuity rules**
 - An ordinary action advances no more than 3 hours per turn. Split longer work into sequential valid actions, record progress, and account for actual interruptions and meals; do not narrate 8–36 hours as one ordinary turn.
 - Protected night sleep does not reduce Satiety. Awake rest uses the official Resting multiplier; do not charge full focused-work Satiety for time actually spent resting.
-- The tables state standard work time, not automatic success. A production attempt still uses the official Thinker Grade × target Tier baseline chance and the authorized resolution procedure. A failed or interrupted attempt does not automatically refund time or Satiety already spent; apply only costs actually incurred and consequences established by the scene, and do not invent extra material-loss fees.
+- The tables state standard work time, not automatic success. A production attempt still uses the official Arcanist Grade × target Tier baseline chance and the authorized resolution procedure. A failed or interrupted attempt does not automatically refund time or Satiety already spent; apply only costs actually incurred and consequences established by the scene, and do not invent extra material-loss fees.
 - For examinations, use the relevant target-Tier production time as the standard focused-work allowance unless the official examination notice defines a different allowance. The ordinary 3-hour-per-turn action limit still applies to the candidate's actual sequence of actions.
 - These baseline durations and costs do not define registration fees, material prices, retake rules, contribution points, or numerical success modifiers. Use the economy and institute rules for established values; never invent a fee.
 
 ### 13.12 Mandatory GM enforcement and records
 
-- No self-certification, spontaneous mastery, or unearned Thinker Grade.
+- No self-certification, spontaneous mastery, or unearned Arcanist Grade.
 - No skipped education, training assessment, examination, blueprint requirement, artifact prerequisite, or token recognition.
 - No purchased or borrowed artifact may count as candidate-made work.
 - No borrowed blueprint can satisfy the Grade 7+ personal-design requirement.
@@ -420,16 +420,16 @@ The stage schedule assumes up to three hours of focused practice per training da
 - Record official Grade changes, exam results, blueprint authorship, engraver ownership, artifact production and series codes, condition, transfers, bank storage where tracked, token recognition, and contribution-point transactions through the repository's established state/event procedures.
 - Use the last verified state and recorded events. Never invent history to make a candidate pass or fail.
 
-This protocol is mandatory and must be read together with the Tianhai Thinker Institute module, the official Satiety and time rules, the economy system, and the repository's authority and anti-cheat gates.
+This protocol is mandatory and must be read together with the Tianhai Arcanist Institute module, the official Satiety and time rules, the economy system, and the repository's authority and anti-cheat gates.
 
 
 ## 14. ARTIFICIAL ARTIFACT CONDITION FORMULA — MANDATORY
 
-**Scope:** This formula determines the *condition* of a successfully completed **Artificial Artifact**. It does not determine whether production succeeds. First resolve production using the official Thinker Grade × target Tier success-chance matrix and an authorized resolution method. Only a completed artifact receives a condition score. A failed or incomplete attempt does not receive a condition label; apply only consequences established by official rules.
+**Scope:** This formula determines the *condition* of a successfully completed **Artificial Artifact**. It does not determine whether production succeeds. First resolve production using the official Arcanist Grade × target Tier success-chance matrix and an authorized resolution method. Only a completed artifact receives a condition score. A failed or incomplete attempt does not receive a condition label; apply only consequences established by official rules.
 
 ### 14.1 Ordinary artifacts and Artificial Artifacts are distinct
 
-- This formula applies only to artifacts manufactured as **Artificial Artifacts** through Thinker formulation and production.
+- This formula applies only to artifacts manufactured as **Artificial Artifacts** through Arcanist formulation and production.
 - Ordinary/non-artificial objects or artifacts do not gain Artificial Artifact production history, Artificial Artifact experience points, or an Artificial Artifact condition score merely because they are valuable or called an artifact in narration.
 - Relics and Ancient Artifacts retain their separate origins defined in §2. Their condition must be established by the applicable official source or a properly recorded assessment; do not retroactively apply this manufacturing formula to them.
 - A production attempt's success chance and its completed product's condition score are separate values. A 100% success chance does not guarantee Origin condition.
@@ -466,7 +466,7 @@ Use full precision during calculation. Round only the final CS to two decimal pl
 | Tier 9 | 0.50 |
 | Tier 10 | 0.35 |
 
-The multiplier reduces how much readiness, skill, experience, and consistency can offset the difficulty of higher-Tier production. It does not alter the Thinker Grade success-chance matrix or permit production above the normal Tier ceiling.
+The multiplier reduces how much readiness, skill, experience, and consistency can offset the difficulty of higher-Tier production. It does not alter the Arcanist Grade success-chance matrix or permit production above the normal Tier ceiling.
 
 ### 14.4 Maker-point assessment
 
@@ -490,7 +490,7 @@ The multiplier reduces how much readiness, skill, experience, and consistency ca
 | Controls the process and handles common problems | 15–19 |
 | Exceptional, demonstrated mastery of the relevant process and difficulties | 20–25 |
 
-Thinker Grade alone does not automatically award maximum skill points. Assess skill against the actual target Tier, formulation, material, and artifact type, using recorded learning and demonstrated capability.
+Arcanist Grade alone does not automatically award maximum skill points. Assess skill against the actual target Tier, formulation, material, and artifact type, using recorded learning and demonstrated capability.
 
 **Artificial Artifact production experience (J), maximum 20**
 
@@ -543,7 +543,7 @@ Assess the actual environment during the relevant production, not merely the loc
 | 80 ≤ CS < 97 | Baik |
 | 97 ≤ CS ≤ 100 | Origin |
 
-**Origin requires a final CS of at least 97%.** A high Tier, rarity, market value, visual appearance, owner reputation, or Thinker Grade cannot independently upgrade condition. Origin is a condition classification only; it does not automatically grant additional functions, power, durability, or effects not defined elsewhere.
+**Origin requires a final CS of at least 97%.** A high Tier, rarity, market value, visual appearance, owner reputation, or Arcanist Grade cannot independently upgrade condition. Origin is a condition classification only; it does not automatically grant additional functions, power, durability, or effects not defined elsewhere.
 
 ### 14.7 Mandatory resolution and recordkeeping
 

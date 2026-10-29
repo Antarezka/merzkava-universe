@@ -9,15 +9,15 @@
 | NPC | Established role / status | Last-confirmed location or status | Canonical full profile |
 |---|---|---|---|
 | Ji Haoyuan | Maharaja of Tianhai Yunzhou; ruling Ji family | Yunxiao Terrace is the official governmental quarter; personal whereabouts unconfirmed | [JI_HAOYUAN.md](JI_HAOYUAN.md) |
-| Bai Xuanyin | Thinker Grade 10; revered heroine and Artificial Artifact creator | Deceased; died during the Great Tianhai War | [BAI_XUANYIN.md](BAI_XUANYIN.md) |
-| Ji Zhaoning | Elder twin princess; focused on Thinker development; not awakened | Current whereabouts unconfirmed | [JI_ZHAONING.md](JI_ZHAONING.md) |
+| Bai Xuanyin | Arcanist Grade 10; revered heroine and Artificial Artifact creator | Deceased; died during the Great Tianhai War | [BAI_XUANYIN.md](BAI_XUANYIN.md) |
+| Ji Zhaoning | Elder twin princess; focused on Arcanist development; not awakened | Current whereabouts unconfirmed | [JI_ZHAONING.md](JI_ZHAONING.md) |
 | Ji Ningzhao | Younger twin princess; awakened cultivator | Current whereabouts unconfirmed | [JI_NINGZHAO.md](JI_NINGZHAO.md) |
 
-## Youth circle — Thinker study and Artificial Artifact trade
+## Youth circle — Arcanist study and Artificial Artifact trade
 
 | NPC | Established role | Last-confirmed location | Canonical full profile |
 |---|---|---|---|
-| Lin Qiaoyu | Aspiring Thinker student; exact institution and Thinker Grade unconfirmed | Tianhai Yunzhou affiliation; current presence unconfirmed | [LIN_QIAOYU.md](LIN_QIAOYU.md) |
+| Lin Qiaoyu | Aspiring Arcanist student; exact institution and Arcanist Grade unconfirmed | Tianhai Yunzhou affiliation; current presence unconfirmed | [LIN_QIAOYU.md](LIN_QIAOYU.md) |
 | Duan Haicheng | Son of an Artificial Artifact trading family; no specific guild or workshop established | Tianhai Yunzhou affiliation; current presence unconfirmed | [DUAN_HAICHENG.md](DUAN_HAICHENG.md) |
 
 Their detailed profiles own their motivations and relationship entries. Circle ties are not proof of a prior physical meeting, and one NPC's disposition does not automatically establish the other's.
@@ -32,7 +32,7 @@ This entry records a recurring visitor, not a Tianhai resident or officially enr
 
 ## Institutional and officeholder roster
 
-- [POWER_STRUCTURE.md](POWER_STRUCTURE.md) — authoritative roster for established court, civil/military, district, clan, dojo, and Thinker-institution officeholders.
+- [POWER_STRUCTURE.md](POWER_STRUCTURE.md) — authoritative roster for established court, civil/military, district, clan, dojo, and Arcanist-institution officeholders.
 - Check the relevant official/faction roster before adding an officeholder. This registry does not claim every resident or every member of a faction is listed.
 
 ## Registry rules

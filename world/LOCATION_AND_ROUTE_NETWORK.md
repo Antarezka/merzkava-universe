@@ -108,7 +108,7 @@ Do not fill this table with fabricated connections merely to remove blanks. If t
 
 ## 6. Location-level life and economy
 
-For each major settlement or exploration anchor, describe when established: settlement role and approximate scale (no invented precise population totals); local authority; daily rhythm, customs, public services, and access limitations; local skills, labor, resources, and goods; imports and needs; actual markets, craft, transport, lodging, medical, education, or Thinker services; nearby points of interest and access; recurring NPCs and canonical profiles; and local conflicts or events.
+For each major settlement or exploration anchor, describe when established: settlement role and approximate scale (no invented precise population totals); local authority; daily rhythm, customs, public services, and access limitations; local skills, labor, resources, and goods; imports and needs; actual markets, craft, transport, lodging, medical, education, or Arcanist services; nearby points of interest and access; recurring NPCs and canonical profiles; and local conflicts or events.
 
 A small village may have a distinct economic role without needing a permanent profile for every resident or shop. Ordinary people can be portrayed situationally under `world/NPC_MANAGEMENT.md`.
 

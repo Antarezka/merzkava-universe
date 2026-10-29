@@ -14,7 +14,7 @@
 ## 2. Apa yang termasuk pelanggaran
 
 Pelanggaran terkonfirmasi mencakup, tanpa dibatasi pada:
-- Memalsukan atau mengubah Martial Soul Awakening, Spirit Realm, Stage, Sync, Qi, Spirit Ring, teknik, Thinker Grade, kemampuan, cedera, waktu, lokasi, item, aset, Wallet, kepemilikan, atau riwayat.
+- Memalsukan atau mengubah Martial Soul Awakening, Spirit Realm, Stage, Sync, Qi, Spirit Ring, teknik, Arcanist Grade, kemampuan, cedera, waktu, lokasi, item, aset, Wallet, kepemilikan, atau riwayat.
 - Mengabaikan prasyarat, cooldown, batas aksi/waktu, hasil combat, formula, ketersediaan sumber daya, batas pengetahuan, atau prosedur resmi.
 - Menyatakan tindakan berhasil hanya karena player menarasikannya sebagai keberhasilan.
 - Mengarang mekanisme alternatif, kemampuan, pengecualian, jalan pintas, hasil, izin/reaksi NPC, penyelamatan, atau perubahan dunia, lalu memperlakukannya sebagai fakta yang sudah sah tanpa persetujuan GM dan dasar canon.

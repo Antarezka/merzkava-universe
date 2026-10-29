@@ -11,9 +11,9 @@
 - **Population estimate:** 85 million for Tianhai Yunzhou as a whole. This is a worldbuilding estimate, not a census or a claim that all residents live on the main island.
 - **Ruler:** Maharaja Ji Haoyuan; his canonical family roster is established in `../regions/tianhai-yunzhou/npcs/JI_HAOYUAN.md`, `../regions/tianhai-yunzhou/npcs/BAI_XUANYIN.md`, `../regions/tianhai-yunzhou/npcs/JI_ZHAONING.md`, and `../regions/tianhai-yunzhou/npcs/JI_NINGZHAO.md`.
 - **Ruler's established profile:** Martial Soul — Heavenly Sky Whale; Spirit Realm 9 — Spirit Primordial, Early Stage.
-- **Strategic strengths:** Maritime trade, navigation, defense, island and sea-route logistics, and advanced Thinker knowledge.
+- **Strategic strengths:** Maritime trade, navigation, defense, island and sea-route logistics, and advanced Arcanistry knowledge.
 - **Island support:** A Tier 9 Artificial Artifact sustains the giant floating island. It is powered by processed liquefied energy refined from a specific class of energy-bearing stone/metal ore. The processing method and fuel are strategically controlled by Tianhai Yunzhou; the original maker was an ancestor of Maharaja Ji Haoyuan. The artifact's internal mechanism, exact materials, maintenance requirements, weaknesses, and authorized operators remain restricted or unconfirmed.
-- **Knowledge tradition:** The first Thinkers originated in Tianhai Yunzhou. This establishes a historical and intellectual advantage, not a monopoly on all Thinker knowledge or automatic superiority in every artifact-making task.
+- **Knowledge tradition:** The first Arcanists originated in Tianhai Yunzhou. This establishes a historical and intellectual advantage, not a monopoly on all Arcanistry knowledge or automatic superiority in every artifact-making task.
 - **Canonical overview:** `world/WORLD.md`; geographic scope and travel cautions: `world/MAP_AND_REGIONS.md`; faction summaries: `world/FACTIONS.md`.
 
 ## 2. Geography and Boundaries
@@ -34,7 +34,7 @@ These seven districts are established in `world/WORLD.md`. Their exact boundarie
 | Tianji Core | Centrally situated district associated with the floating island's support system; a central landmark within the four-area map, not a fifth cardinal area | The core may be access-restricted; access rules and operators are not yet defined |
 | Cangqiong Harbor | Main harbor for ships, sailing, logistics, and movement of goods; western area | Specific docks, fleets, routes, and harbor officials are not yet defined |
 | Haiyue Market | Trade, commodity exchange, specialist markets, and high-value transactions; eastern area | Individual markets, merchants, prices, and guilds remain to be established |
-| Linggong District | Craftspeople, engineers, artifact assemblers, and manufacturing; southern area | Specific workshops, production capacity, and ownership remain unconfirmed; the high-level Thinker Institute's remit is defined in `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md` |
+| Linggong District | Craftspeople, engineers, artifact assemblers, and manufacturing; southern area | Specific workshops, production capacity, and ownership remain unconfirmed; the high-level Arcanist Institute's remit is defined in `world/TIANHAI_ACADEMIES_AND_ARCANIST_INSTITUTE.md` |
 | Xuanchao Ward | Defense, maritime-route monitoring, force training, and security coordination; northern area | Command structure, units, ranks, and current deployments remain unconfirmed |
 | Misty Shoals | Seventh district: outer maritime zone encompassing small islands, misty waters, navigation routes, and exploration areas; not a fifth cardinal area of the main island | Does not establish exact island names, the district's precise span, safe passages, or which sites are settled |
 
@@ -45,8 +45,8 @@ Do not treat these seven district names as a complete map of every settlement or
 - **Population:** Overall estimate 85 million; distribution between the main island, outer islands, ships, and other settlements is not established.
 - **Known broad livelihoods:** Maritime trade, navigation, shipping, seafood and coastal resources, processing of marine goods, crafts, Artificial Artifact manufacturing/maintenance, liquefied-energy processing, transit operations, and technical services.
 - **Urban character:** The main island's core urban districts are noticeably more modern and infrastructure-dense than the orthodox cities of the Golden Dragon Empire. Automated Artificial Artifact-powered trains, lifts, public lighting, cargo handling, and other utility systems exist where documented below; access and service quality vary by district and income.
-- **Social structure:** Specialist technical workers and Thinkers are economically important, but the population also includes sailors, fishers, vendors, food producers, repair crews, porters, clerks, students, guards, and low-income residents. Modern infrastructure does not mean universal comfort or equal access.
-- **Local realism:** Do not assume every resident is a sailor, cultivator, Thinker, or member of an elite family. Everyday occupations and access to advanced facilities should vary by district, income, skill, and institutional affiliation.
+- **Social structure:** Specialist technical workers and Arcanists are economically important, but the population also includes sailors, fishers, vendors, food producers, repair crews, porters, clerks, students, guards, and low-income residents. Modern infrastructure does not mean universal comfort or equal access.
+- **Local realism:** Do not assume every resident is a sailor, cultivator, Arcanist, or member of an elite family. Everyday occupations and access to advanced facilities should vary by district, income, skill, and institutional affiliation.
 
 ## 5. Economy and Resources
 
@@ -57,14 +57,14 @@ Do not treat these seven district names as a complete map of every settlement or
 - **Fixed prices, wages, taxes, quotas, and export/import volumes:** Not established; apply `core/10_ECONOMY_SYSTEM.md` and do not invent exact values.
 - Apply `core/10_ECONOMY_SYSTEM.md` for currency, prices, transactions, and provenance. Do not invent fixed prices or trade volumes as canon without approval.
 
-## 6. Cultivation, Martial Souls, Spirit Beasts, and Thinkers
+## 6. Cultivation, Martial Souls, Spirit Beasts, and Arcanists
 
-- **Thinker tradition:** The first Thinkers originated in Tianhai Yunzhou; the territory is a major center of Thinker knowledge and formulation development.
-- **Thinker progression:** Independent of Spirit Realm cultivation; use `core/THINKER_AND_FORMULATION.md` as the mechanics authority.
+- **Arcanistry tradition:** The first Arcanists originated in Tianhai Yunzhou; the territory is a major center of Arcanistry knowledge and formulation development.
+- **Arcanist progression:** Independent of Spirit Realm cultivation; use `core/ARCANISTRY_AND_FORMULATION.md` as the mechanics authority.
 - **Known artifact:** Tier 9 Artificial Artifact supporting the floating island. Refer to `world/ARTIFICIAL_ARTIFACTS.md`; no additional functions may be inferred.
 - **Five established dojos:** Skywhale, Tidal Current, Stormwake, Azure Sail, and Deepwater Dojos. Their established training specializations are listed in `world/FACTIONS.md`.
-- **Four Cultivator Academies:** Beichen Cultivator Academy (North), Tianlan Supreme Academy (South; the most outstanding), Cangfan Maritime Academy (West), and Haiyue Academy (East). All teach foundational Martial Soul, Spirit Realm, Spirit Ring, Spirit Beast, combat, and related knowledge through more flexible methods than the Golden Dragon Empire's orthodox central academies. See `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md`; admissions and detailed curricula remain unspecified.
-- **High-level Thinker institution:** Tianhai Thinker Institute is the world's only established institution at this level and breadth of Thinker research. Its remit includes Formation Engraver development, materials research, formulation/mixing methods, complex formation engraving for Tier 6+, and optimization of engraving/production methods for Tier 5 and below. Its officeholders are listed in `../regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`; mechanics remain governed by `core/THINKER_AND_FORMULATION.md`.
+- **Four Cultivator Academies:** Beichen Cultivator Academy (North), Tianlan Supreme Academy (South; the most outstanding), Cangfan Maritime Academy (West), and Haiyue Academy (East). All teach foundational Martial Soul, Spirit Realm, Spirit Ring, Spirit Beast, combat, and related knowledge through more flexible methods than the Golden Dragon Empire's orthodox central academies. See `world/TIANHAI_ACADEMIES_AND_ARCANIST_INSTITUTE.md`; admissions and detailed curricula remain unspecified.
+- **High-level Arcanist institution:** Tianhai Arcanist Institute is the world's only established institution at this level and breadth of Arcanist research. Its remit includes Formation Engraver development, materials research, formulation/mixing methods, complex formation engraving for Tier 6+, and optimization of engraving/production methods for Tier 5 and below. Its officeholders are listed in `../regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`; mechanics remain governed by `core/ARCANISTRY_AND_FORMULATION.md`.
 - **Spirit Beast habitats and species:** Refer to `bestiary/SPIRIT_BEAST_RULES.md`; local species and hunting grounds remain unconfirmed.
 - Do not invent local power rankings, unique cultivation rules, artifact exceptions, or guaranteed production success.
 
@@ -110,11 +110,11 @@ This registry is the canonical index for major and recurring Tianhai Yunzhou NPC
 | Public name / identity | Location | Role | Affiliation | Profile / source | Status |
 |---|---|---|---|---|---|
 | Ji Haoyuan | Yunxiao Terrace official quarter; whereabouts unconfirmed | Maharaja; visionary leader | Tianhai Yunzhou; ruling Ji family | `../regions/tianhai-yunzhou/npcs/JI_HAOYUAN.md` | Canon; living |
-| Bai Xuanyin | Deceased; died during Great Tianhai War | Thinker Grade 10; revered heroine and artifact creator | Tianhai Yunzhou; Ji family by marriage | `../regions/tianhai-yunzhou/npcs/BAI_XUANYIN.md` | Canon; deceased |
-| Ji Zhaoning | Whereabouts unconfirmed | Elder twin princess; focused on Thinker development; not awakened | Ruling Ji family | `../regions/tianhai-yunzhou/npcs/JI_ZHAONING.md` | Canon; living, age 16 |
+| Bai Xuanyin | Deceased; died during Great Tianhai War | Arcanist Grade 10; revered heroine and artifact creator | Tianhai Yunzhou; Ji family by marriage | `../regions/tianhai-yunzhou/npcs/BAI_XUANYIN.md` | Canon; deceased |
+| Ji Zhaoning | Whereabouts unconfirmed | Elder twin princess; focused on Arcanist development; not awakened | Ruling Ji family | `../regions/tianhai-yunzhou/npcs/JI_ZHAONING.md` | Canon; living, age 16 |
 | Ji Ningzhao | Whereabouts unconfirmed | Younger twin princess; awakened cultivator | Ruling Ji family | `../regions/tianhai-yunzhou/npcs/JI_NINGZHAO.md` | Canon; living, age 16; Spirit Realm 3 Early Stage |
 
-The canonical roster for the Maharaja's court, civil administration, military/security, seven districts, twelve clan heads, five dojo masters, and Thinker institutions is `../regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`. Keep public information, NPC knowledge, mistaken beliefs, player-character knowledge, and GM-only secrets separate. Check `world/NPC_MANAGEMENT.md` and `templates/NPC_PROFILE_TEMPLATE.md`.
+The canonical roster for the Maharaja's court, civil administration, military/security, seven districts, twelve clan heads, five dojo masters, and Arcanist institutions is `../regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`. Keep public information, NPC knowledge, mistaken beliefs, player-character knowledge, and GM-only secrets separate. Check `world/NPC_MANAGEMENT.md` and `templates/NPC_PROFILE_TEMPLATE.md`.
 
 ## 10. Ruling Family and Great Tianhai War — Canon References
 
@@ -123,23 +123,23 @@ The following table is a relationship and navigation summary, not a second set o
 | NPC | Established relationship / role | Canonical full profile |
 |---|---|---|
 | Ji Haoyuan | Maharaja of Tianhai Yunzhou; husband of Bai Xuanyin; father of the twins | [Ji Haoyuan](../regions/tianhai-yunzhou/npcs/JI_HAOYUAN.md) |
-| Bai Xuanyin | Deceased heroine; wife of Ji Haoyuan; mother of the twins; Thinker Grade 10 and Artificial Artifact creator | [Bai Xuanyin](../regions/tianhai-yunzhou/npcs/BAI_XUANYIN.md) |
-| Ji Zhaoning | Elder twin princess; has not undergone Martial Soul Awakening; Thinker Grade not established | [Ji Zhaoning](../regions/tianhai-yunzhou/npcs/JI_ZHAONING.md) |
+| Bai Xuanyin | Deceased heroine; wife of Ji Haoyuan; mother of the twins; Arcanist Grade 10 and Artificial Artifact creator | [Bai Xuanyin](../regions/tianhai-yunzhou/npcs/BAI_XUANYIN.md) |
+| Ji Zhaoning | Elder twin princess; has not undergone Martial Soul Awakening; Arcanist Grade not established | [Ji Zhaoning](../regions/tianhai-yunzhou/npcs/JI_ZHAONING.md) |
 | Ji Ningzhao | Younger twin princess; awakened at Spirit Realm 3 — Spirit Elder, Early Stage | [Ji Ningzhao](../regions/tianhai-yunzhou/npcs/JI_NINGZHAO.md) |
 
 ### Great Tianhai War — retained regional canon
 
 - The Great Tianhai War was one major front of an apocalyptic, world-spanning incursion. Extreme anomalies opened gates to other worlds and the sky became a passage through which Demonic Beasts of tiers 7–9 descended across the world. Three Tier 9 Demonic Beasts specifically sought to invade and devastate Tianhai Yunzhou; their identities remain unknown.
 - Ji Haoyuan was an active World Knowledge Tower member and was away from Tianhai Yunzhou while fulfilling his duties during the catastrophe. Bai Xuanyin died during the war. Ji learned of her death while still serving and resolved to end active service, but remained on duty until the immediate threat was suppressed and the surviving Demonic Beasts had become scattered across the world; only then did he return to Tianhai Yunzhou.
-- Bai Xuanyin's artifact legacy includes weaponry, armor used by Tianhai Yunzhou soldiers, contributions to the giant protective dome, and the original design framework for the one-use Tier 8 emergency area-concealment artifact mass-produced during the world-calamity incursion. Another Tianhai Thinker Grade 10 copied the framework imperfectly; Thinkers worldwide activated the resulting devices to protect populated areas, though many areas still suffered attacks. See `world/ARTIFICIAL_ARTIFACTS.md` and Bai Xuanyin's NPC profile. The artifact details and all unestablished specifications remain governed by those sources.
+- Bai Xuanyin's artifact legacy includes weaponry, armor used by Tianhai Yunzhou soldiers, contributions to the giant protective dome, and the original design framework for the one-use Tier 8 emergency area-concealment artifact mass-produced during the world-calamity incursion. Another Tianhai Arcanist Grade 10 copied the framework imperfectly; Arcanists worldwide activated the resulting devices to protect populated areas, though many areas still suffered attacks. See `world/ARTIFICIAL_ARTIFACTS.md` and Bai Xuanyin's NPC profile. The artifact details and all unestablished specifications remain governed by those sources.
 - The exact date, duration, battlefield, identities and full count of the invading beasts, detailed battle sequence, full outcome, precise circumstances of Bai Xuanyin's death, and the name/tier/specifications of her greatest weapon remain unestablished. The broader catastrophe is documented in world/HISTORY.md; do not reduce it to the three-beast attack on Tianhai alone.
 
-### Canonical Thinker distribution notes
+### Canonical Arcanist distribution notes
 
-- **Tianhai Yunzhou:** Four Thinker Grade 10 individuals in total, including Ji Haoyuan. Grade 10 is the highest Thinker Grade and its requirements are extraordinary.
-- **Golden Dragon Empire:** One Thinker Grade 9 and six Thinker Grade 8 individuals. Counts for other grades are not established.
-- **Beiming Gu:** Two Thinker Grade 9 individuals; other Thinkers are described as Grade 4 and Grade 5, but exact counts for those grades are not established.
-- **Lawless Territories:** At least one known Thinker Grade 9; the total number and distribution by grade are not established.
+- **Tianhai Yunzhou:** Four Arcanist Grade 10 individuals in total, including Ji Haoyuan. Grade 10 is the highest Arcanist Grade and its requirements are extraordinary.
+- **Golden Dragon Empire:** One Arcanist Grade 9 and six Arcanist Grade 8 individuals. Counts for other grades are not established.
+- **Beiming Gu:** Two Arcanist Grade 9 individuals; other Arcanists are described as Grade 4 and Grade 5, but exact counts for those grades are not established.
+- **Lawless Territories:** At least one known Arcanist Grade 9; the total number and distribution by grade are not established.
 
 ## 11. Current Situations and Events
 
@@ -214,12 +214,12 @@ When adding routes, verify terrain, vertical movement across the floating island
 
 - [x] Establish the Maharaja's personal name and canonical NPC profile.
 - [x] Add the ruling family and family relationships after owner confirmation.
-- [x] Build the court and official roster with role-appropriate Spirit Realm and Thinker Grade ranges.
+- [x] Build the court and official roster with role-appropriate Spirit Realm and Arcanist Grade ranges.
 - [x] Establish the twelve clan heads and five dojo masters.
-- [x] Establish the initial Thinker institution and artifact quality-control roster.
+- [x] Establish the initial Arcanist institution and artifact quality-control roster.
 - [ ] Develop the clans' family structures and relationships.
 - [ ] Detail academy admissions, fees, examinations, full curricula, and teaching pathways.
-- [x] Establish the four cardinal areas, principal clan distribution, four academies, and the exclusive high-level Thinker Institute.
+- [x] Establish the four cardinal areas, principal clan distribution, four academies, and the exclusive high-level Arcanist Institute.
 - [x] Establish initial district-level settlements, daily-life roles, services, resource needs, and local markets.
 - [x] Establish an initial partial route network with intermediate transport constraints; exact distances and travel times remain unset.
 - [x] Establish Tianhai Yunzhou's Artificial Artifact-powered automated transit and refined liquefied-energy trade advantage.
@@ -250,7 +250,7 @@ Tianhai Yunzhou's trade associations are merchant and professional bodies, not a
 |---|---|---|---|
 | **Haiyue Merchants' Association** | Haiyue Market | Merchant representation, commodity-quality disputes, bulk-order coordination, commercial notices, and introductions between buyers and sellers | Does not set universal prices, own Haiyue Market, or replace government revenue/customs offices |
 | **Cangqiong Shipowners and Freight Union** | Cangqiong Harbor and Westwake Anchorage | Freight coordination, cargo-handling standards, berth-service negotiations, crew referrals, and shipping-risk information | Does not control all ships, guarantee safe passage, or command harbor/security personnel |
-| **Linggong Artisans' Trade Association** | Linggong District, with commercial contacts at Haiyue Market | Links workshops and buyers, coordinates material specifications, bulk procurement, and repair-service referrals for craft and Artificial Artifact industries | Does not control the Tianhai Thinker Institute, certify every artifact, or grant Thinker Grade |
+| **Linggong Artisans' Trade Association** | Linggong District, with commercial contacts at Haiyue Market | Links workshops and buyers, coordinates material specifications, bulk procurement, and repair-service referrals for craft and Artificial Artifact industries | Does not control the Tianhai Arcanist Institute, certify every artifact, or grant Arcanist Grade |
 | **Misty Shoals Fishers and Pilots Association** | Participating fishing and pilot communities in Misty Shoals | Shares practical fishing-market information, pilot availability, local-weather observations, and requests for supplies or repairs | Does not certify every route as safe or establish a permanent settlement/route where none is recorded |
 
 The associations may cooperate, compete, disagree over standards, or represent different members' interests. Their existence does not establish exclusive membership, fixed fees, exact prices, a unified leadership, or guaranteed agreement with one another. Any specific dispute or alliance must be established in play or a later owner-approved source.

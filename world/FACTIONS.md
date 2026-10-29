@@ -16,7 +16,7 @@
 
 ### 1.2 Tianhai Yunzhou
 - **Type:** Maritime power centered on a giant floating island.
-- **Established strengths:** Maritime trade, navigation, defense, advanced Thinker knowledge, and a Tier 9 Artificial Artifact that sustains the island.
+- **Established strengths:** Maritime trade, navigation, defense, advanced Arcanistry knowledge, and a Tier 9 Artificial Artifact that sustains the island.
 - **Ruler:** Maharaja of Tianhai Yunzhou.
 - **Martial Soul:** Heavenly Sky Whale.
 - **Spirit Realm:** Spirit Realm 9 — Spirit Primordial, Early Stage.
@@ -94,13 +94,13 @@ The following twelve clans and their spheres of influence are established in `wo
 | Shuijing Clan | Materials processing and craftsmanship |
 | Leiyu Clan | Combat techniques and offensive power |
 
-The current clan heads are listed in `../regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`. Principal areas are recorded in `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md`: Canglong, Xuanchao, and Leiyu in the North; Tianjing, Shuijing, and Yunzhou in the South; Haiyuan, Lingfan, and Bihai in the West; Yunhai, Haijing, and Mingzhu in the East. This is not exclusive territory ownership. Family trees, heirs, membership, internal branches, formal rivalries, alliances, and marriage ties remain unestablished unless confirmed in a dedicated source or owner-approved NPC profile.
+The current clan heads are listed in `../regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`. Principal areas are recorded in `world/TIANHAI_ACADEMIES_AND_ARCANIST_INSTITUTE.md`: Canglong, Xuanchao, and Leiyu in the North; Tianjing, Shuijing, and Yunzhou in the South; Haiyuan, Lingfan, and Bihai in the West; Yunhai, Haijing, and Mingzhu in the East. This is not exclusive territory ownership. Family trees, heirs, membership, internal branches, formal rivalries, alliances, and marriage ties remain unestablished unless confirmed in a dedicated source or owner-approved NPC profile.
 
-### Cultivator Academies and Thinker Institute
+### Cultivator Academies and Arcanist Institute
 
 Tianhai Yunzhou has four Cultivator Academies, one in each cardinal area. Tianlan Supreme Academy in the South is the most outstanding. All four teach foundational Martial Soul, Spirit Realm, Spirit Ring, Spirit Beast, and related cultivator subjects, using more flexible methods than the Golden Dragon Empire's orthodox central academies. Their exact admissions and curricula remain undefined.
 
-The Tianhai Thinker Institute is the world's sole established high-level institution with this breadth of Thinker research. It specializes in Formation Engraver development, materials, formulation/mixing methods, complex formation engraving for Tier 6 and above, and optimization for Tier 5 and below. See `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md`; official production mechanics remain in `core/THINKER_AND_FORMULATION.md`.
+The Tianhai Arcanist Institute is the world's sole established high-level institution with this breadth of Arcanist research. It specializes in Formation Engraver development, materials, formulation/mixing methods, complex formation engraving for Tier 6 and above, and optimization for Tier 5 and below. See `world/TIANHAI_ACADEMIES_AND_ARCANIST_INSTITUTE.md`; official production mechanics remain in `core/ARCANISTRY_AND_FORMULATION.md`.
 
 ### Dojos
 
@@ -230,6 +230,6 @@ These associations may compete or cooperate. Their exact local placements, leade
 
 ## 13. Teaching Material and Independent Learning Routes
 
-The established clans, dojos, sects, academies, and specialist organizations can offer teaching or practical knowledge only where their known role supports it. Their curriculum categories, student-facing material, Thinker qualification limits, and non-faction alternatives are consolidated in [`world/OPEN_LEARNING_PATHS_AND_WANDERING_INSTRUCTORS.md`](OPEN_LEARNING_PATHS_AND_WANDERING_INSTRUCTORS.md). Use that module to choose a plausible learning route without inventing admissions, instructors, or expertise. It does not override the official cultivation, Thinker, time, Satiety, economy, or regional rules.
+The established clans, dojos, sects, academies, and specialist organizations can offer teaching or practical knowledge only where their known role supports it. Their curriculum categories, student-facing material, Arcanist qualification limits, and non-faction alternatives are consolidated in [`world/OPEN_LEARNING_PATHS_AND_WANDERING_INSTRUCTORS.md`](OPEN_LEARNING_PATHS_AND_WANDERING_INSTRUCTORS.md). Use that module to choose a plausible learning route without inventing admissions, instructors, or expertise. It does not override the official cultivation, Arcanist, time, Satiety, economy, or regional rules.
 
 Players are not required to join a faction to begin or continue either path. Independent tutors and wandering practitioners may be encountered through the procedure in `world/OPEN_LEARNING_PATHS_AND_WANDERING_INSTRUCTORS.md` and `gameplay/TRAVEL_ENCOUNTER_AMBUSH_RESCUE.md`; an encounter creates an opportunity, not guaranteed recruitment or free progression.

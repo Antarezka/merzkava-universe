@@ -43,7 +43,7 @@ Silent Maw Hall acts as a **broker/intermediary** between clients and independen
 
 ### 3.2 Appraisal services — Black Scripture Sect
 
-Black Scripture Sect operates appraisal services in parts of the Lawless Territories. Its appraisers can assess artifacts, materials, Spirit Beast-related items, Formation Engravers (the formation-carving tools used by Thinkers), and other goods when they possess the relevant expertise.
+Black Scripture Sect operates appraisal services in parts of the Lawless Territories. Its appraisers can assess artifacts, materials, Spirit Beast-related items, Formation Engravers (the formation-carving tools used by Arcanists), and other goods when they possess the relevant expertise.
 
 - Some appraisers deliberately exploit customers who appear clueless, inexperienced, or unable to recognize an item's value. They may understate value, conceal uncertainty, or mislead a buyer or seller.
 - Deception is a real risk, not a rule that every appraiser always lies. Expertise, honesty, reputation, evidence, and a second opinion still matter.
@@ -66,7 +66,7 @@ Several Lawless Territories organizations sponsor or cooperate in elite auctions
 Known or plausible catalogue categories explicitly established by this canon include:
 - Rare half-beast individuals/lineages, including rare variants, traded illicitly as people rather than ordinary goods.
 - Spirit Rings preserved in compact **portable Spirit Ring stasis Artificial Artifacts**, allowing a ring to be transported and absorbed elsewhere.
-- Formation Engravers (specialized formation-carving tools used by Thinkers), including rare models with unusual or specialized attributes.
+- Formation Engravers (specialized formation-carving tools used by Arcanists), including rare models with unusual or specialized attributes.
 - Other rare items, materials, or specialized equipment when a specific listing is established.
 
 An auction listing does not prove an item's authenticity, legality, safe operation, or availability. Do not create a specific catalogue, price, seller, buyer, or auction schedule unless it is established in a scene or source.

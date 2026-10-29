@@ -87,13 +87,13 @@ These gaps must remain open. The GM may portray ordinary scene details consisten
 - **Currency and transactions:** Follow `core/10_ECONOMY_SYSTEM.md`. Do not invent a fixed regional price list or exchange rate.
 - **Inter-power trade and energy transit:** Follow the confirmed route and energy-trade information in `world/REGION_TIANHAI_YUNZHOU.md`, `world/LOCATION_AND_ROUTE_NETWORK.md`, and the economy system. Do not infer that every district exports a specific resource or controls a particular mine.
 
-## 7. Cultivation, Martial Souls, Spirit Beasts, and Thinkers
+## 7. Cultivation, Martial Souls, Spirit Beasts, and Arcanists
 
 - **Local cultivation traditions, academies, dojos, training grounds, and special rules:** Belum ditetapkan by district.
 - **Spirit Beast habitats:** Silverpine Wilds is broadly identified as Spirit Beast habitat, but specific species, tiers, population, nesting sites, and safe routes are not established here. Follow `bestiary/SPIRIT_BEAST_RULES.md`.
 - **Azureflame Basin:** Its association with blue-flame phenomena does not establish a cultivation bonus, unique Martial Soul, guaranteed treasure, special Spirit Ring, or special mechanic.
 - **Ironroot Reach:** The broad association with minerals and workshops does not establish a named workshop, its owner, production tier, or guaranteed output.
-- **Thinker Grade and formulation:** Independent from Spirit Realm cultivation; follow `core/THINKER_AND_FORMULATION.md`.
+- **Arcanist Grade and formulation:** Independent from Spirit Realm cultivation; follow `core/ARCANISTRY_AND_FORMULATION.md`.
 - **Martial Soul awakening, Spirit Ring compatibility and absorption, Spirit Realm, HP, injuries, and time:** Follow their respective canonical mechanics. Regional origin alone grants no automatic advantage.
 
 Do not invent local power rankings, exceptional abilities, rare items, unique cultivation laws, or guaranteed Spirit Beast encounters.
@@ -119,7 +119,7 @@ The regional NPC registry is the canonical roster locator. Do not duplicate full
 | Beiming Han | Beiming Gu affiliation; exact location unknown | Leluhur Utara; Spirit Realm 9 — Spirit Primordial; Blue-Flame Silver Tiger Martial Soul | `regions/beiming-gu/npcs/BEIMING_HAN.md` |
 | Beiming Xenhwa | Beiming Gu affiliation; exact location unknown | Adoptive daughter of Beiming Han; consult profile for established traits and knowledge boundaries | `regions/beiming-gu/npcs/BEIMING_XENHWA.md` |
 | Beiming Jingheng | Beiming Gu affiliation; exact location unknown | Adoptive son of Beiming Han; consult profile for established traits and knowledge boundaries | `regions/beiming-gu/npcs/BEIMING_JINGHENG.md` |
-| Beiming Nerva | Beiming Gu affiliation; exact location unknown | Beiming Han's older sister; Thinker Grade 9 | `regions/beiming-gu/npcs/BEIMING_NERVA.md` |
+| Beiming Nerva | Beiming Gu affiliation; exact location unknown | Beiming Han's older sister; Arcanist Grade 9 | `regions/beiming-gu/npcs/BEIMING_NERVA.md` |
 | Other clan heads and dojo masters | Beiming Gu affiliation; exact location not implied by registry listing | Use canonical registry/profile entries; do not infer additional traits | `regions/beiming-gu/npcs/REGISTRY.md` |
 
 For the full canonical roster, including twelve clan heads and five dojo masters, use `regions/beiming-gu/npcs/REGISTRY.md`. Check profile-level knowledge boundaries before revealing secrets. Do not invent unknown ages, Spirit Realm, Martial Soul, Spirit Rings, techniques, affiliations, motives, exact whereabouts, or punishments.

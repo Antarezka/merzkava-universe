@@ -6,7 +6,7 @@
 
 ## 1. Identity
 - Full name: Bai Xuanyin
-- Role: Thinker, Artificial Artifact creator, wartime contributor, and revered heroine of Tianhai Yunzhou.
+- Role: Arcanist, Artificial Artifact creator, wartime contributor, and revered heroine of Tianhai Yunzhou.
 - Family: Wife of Ji Haoyuan; mother of twin daughters Ji Zhaoning and Ji Ningzhao.
 - Age, species, appearance, burial place, and memorial location: Not established.
 - Home / usual residence: Tianhai Yunzhou during her lifetime; her exact personal residence is not established.
@@ -20,15 +20,15 @@ Bai Xuanyin is greatly respected in Tianhai Yunzhou as a heroic figure. She died
 
 ## 3. Capabilities
 - Spirit Realm: Spirit Realm 7 — Spirit Emperor; Stage not established.
-- Thinker Grade: Grade 10.
+- Arcanist Grade: Grade 10.
 - Martial Soul, Spirit Rings, techniques, and combat style: Not established.
 - Artifact legacy:
   - Created a weapon-type Artificial Artifact described by the owner as the strongest weapon-type Artificial Artifact in the world.
   - Created Artificial Artifact armor that remains in use by Tianhai Yunzhou soldiers.
   - Contributed to the giant protective dome that shields Tianhai Yunzhou.
-  - Created the original design framework for a wide-area emergency concealment Artificial Artifact later mass-produced during the world-calamity incursion. The resulting Tier 8 devices were imperfect copies made by another Thinker Grade 10 in Tianhai Yunzhou; each could be activated only once before destroying itself. They concealed life across a vast area to reduce detection by invading Demonic Beasts, and Thinkers from around the world deployed them to protect inhabited areas. Many areas were saved, though not all.
+  - Created the original design framework for a wide-area emergency concealment Artificial Artifact later mass-produced during the world-calamity incursion. The resulting Tier 8 devices were imperfect copies made by another Arcanist Grade 10 in Tianhai Yunzhou; each could be activated only once before destroying itself. They concealed life across a vast area to reduce detection by invading Demonic Beasts, and Arcanists from around the world deployed them to protect inhabited areas. Many areas were saved, though not all.
 - The weapon's name, tier, technical specifications, and current custodian are not established. The concealment artifact's original framework tier and technical specifications are also not established. The names, tiers, and precise technical details of the armor and dome are also not established.
-- Mechanics sources: core/THINKER_AND_FORMULATION.md; world/ARTIFICIAL_ARTIFACTS.md; core/CULTIVATION_SYSTEM.md.
+- Mechanics sources: core/ARCANISTRY_AND_FORMULATION.md; world/ARTIFICIAL_ARTIFACTS.md; core/CULTIVATION_SYSTEM.md.
 
 ## 4. Motivations and Agency
 Her specific personal goals, fears, values, and plans at the time of the war are not established. Do not invent hidden motives as historical fact. She is deceased and should not act in the present unless an established in-world mechanism allows it.

@@ -14,7 +14,7 @@
 - Usual base / duty location: Not established; no formal office is confirmed.
 - Last confirmed location / current whereabouts: Exact current whereabouts are not established.
 - Recurring visits / cover locations: Frequently turns up in Tianhai Yunzhou, sometimes disguised as a student at Beichen Cultivator Academy in the island's northern area. The academy's exact district/campus placement is not established; the disguise is not official enrollment.
-- Occupation / role: Thinker Grade 9 specialist whose practical focus is utilities for infrastructure and armory systems.
+- Occupation / role: Arcanist Grade 9 specialist whose practical focus is utilities for infrastructure and armory systems.
 - Affiliation: Beiming Gu.
 - Public identity: Not reliably established; she sometimes disguises herself as a student at Beichen Cultivator Academy in Tianhai Yunzhou.
 
@@ -28,12 +28,12 @@
 ## 3. Capabilities
 - Spirit Realm / Stage: Spirit Realm 8 — Spirit Sovereign; Stage not established.
 - Martial Soul: Kartikeya — Myth.
-- Thinker Grade / specialty: Thinker Grade 9; specialist in utility applications related to infrastructure and armory systems.
+- Arcanist Grade / specialty: Arcanist Grade 9; specialist in utility applications related to infrastructure and armory systems.
 - Established power themes: Illusions, disguise, and temperature perception.
 - Ability limits: The precise mechanics, range, cost, duration, countermeasures, and limitations of these powers are not established here. Do not treat illusion as omnipotence, disguise as automatically undetectable, or temperature perception as omniscience.
 - Spirit Rings and specific abilities: Not established; do not invent ring ages, colors, or named ring abilities.
 - Equipment: Specific personal artifacts or weapons are not established.
-- Source modules for mechanics: `core/CULTIVATION_SYSTEM.md`, `core/MARTIAL_SOUL.md`, `core/THINKER_AND_FORMULATION.md`, and relevant Spirit Ring rules.
+- Source modules for mechanics: `core/CULTIVATION_SYSTEM.md`, `core/MARTIAL_SOUL.md`, `core/ARCANISTRY_AND_FORMULATION.md`, and relevant Spirit Ring rules.
 
 ## 4. Motivations and Agency
 - Immediate goals: Not established; her pranks and academy disguises are confirmed habits, not a complete account of her motives.
@@ -65,7 +65,7 @@
 - Record persistent changes only when they occur in canon or gameplay.
 
 ## 8. Canon and Privacy Check
-- Thinker Grade and Spirit Realm are independent progression systems.
+- Arcanist Grade and Spirit Realm are independent progression systems.
 - Her true age must remain mysterious unless the owner explicitly resolves it.
 - Do not reveal her identity to students, staff, players, or NPCs without an in-world basis.
 - Do not invent official academy enrollment, a formal Beiming Gu office, exact power mechanics, family history beyond being Beiming Han's older sister, or further secrets.

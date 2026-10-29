@@ -11,7 +11,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ### A CULTIVATION WORLD THAT DOESN'T STAND STILL.
 
-**MARTIAL SOULS · SPIRIT RINGS · THINKERS · A WORLD OF CONSEQUENCES**
+**MARTIAL SOULS · SPIRIT RINGS · ARCANISTS · A WORLD OF CONSEQUENCES**
 
 *Build your strength, uncover what history buried, and find out what your choices change.*
 
@@ -33,7 +33,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ![THE NOTICEBOARD](https://img.shields.io/badge/THE_NOTICEBOARD-FFFFFF?style=for-the-badge&labelColor=151515)
 
-![Merzkava Universe noticeboard introducing its three powers, hidden territories, consequential choices, Thinkers and Artificial Artifacts, a living world, and rumors versus facts](assets/noticeboard.svg?v=6)
+![Merzkava Universe noticeboard introducing its three powers, hidden territories, consequential choices, Arcanists and Artificial Artifacts, a living world, and rumors versus facts](assets/noticeboard.svg?v=6)
 
 ---
 
@@ -95,7 +95,7 @@ Golden Dragon Empire, Tianhai Yunzhou, and Beiming Gu each have their own govern
 <details>
 <summary><strong>✦ Grow through more than raw strength</strong></summary>
 
-Martial Souls, Spirit Rings, Spirit Beasts, techniques, and the nine Spirit Realms shape cultivation. Thinkers follow a separate path through knowledge, formulations, and Artificial Artifacts. Ancient ruins, hidden factions, dangerous routes, and hard-to-find resources reward curiosity—but discovery is never guaranteed.
+Martial Souls, Spirit Rings, Spirit Beasts, techniques, and the nine Spirit Realms shape cultivation. Arcanists follow a separate path through knowledge, formulations, and Artificial Artifacts. Ancient ruins, hidden factions, dangerous routes, and hard-to-find resources reward curiosity—but discovery is never guaranteed.
 
 </details>
 

@@ -1,11 +1,11 @@
 # Merzkava Universe — Artificial Artifacts
 
 **Status:** Artificial Artifact reference and catalog.  
-**Mechanics authority:** `core/THINKER_AND_FORMULATION.md` is the sole authority for the mandatory Thinker path, production requirements and baseline success-chance matrix (§5), and Artificial Artifact Condition Score (§14). This file organizes known artifacts and their documented functions only; it does not establish an alternate production or condition system.
+**Mechanics authority:** `core/ARCANISTRY_AND_FORMULATION.md` is the sole authority for the mandatory Arcanist path, production requirements and baseline success-chance matrix (§5), and Artificial Artifact Condition Score (§14). This file organizes known artifacts and their documented functions only; it does not establish an alternate production or condition system.
 
 ## 1. Definition
 
-An Artificial Artifact is manufactured by a Thinker using suitable materials, patterns, and formulations. Artificial Artifacts are distinct from Relics and Ancient Artifacts, which are categorized by their origins.
+An Artificial Artifact is manufactured by a Arcanist using suitable materials, patterns, and formulations. Artificial Artifacts are distinct from Relics and Ancient Artifacts, which are categorized by their origins.
 
 An artifact's tier is not a Spirit Realm or Spirit Ring tier. A high tier does not automatically mean an artifact is universally useful in combat; the documented function, conditions, limitations, ownership, and actual availability determine its use. If an artifact's tier is missing or disputed, use `core/TIER_ASSESSMENT_AND_APPRAISAL.md`: MAA's completed ruling is authoritative for the examined item when canon was uncertain; any GM estimate remains labeled provisional until then.
 
@@ -16,18 +16,18 @@ When an Artificial Artifact's identity or exact item details have not yet been e
 ## 2. Established Technology Context
 
 ### 2.1 Tianhai Yunzhou
-- The first Thinkers originated in Tianhai Yunzhou.
-- Tianhai Yunzhou is a major center of Thinker knowledge and formulation development.
+- The first Arcanists originated in Tianhai Yunzhou.
+- Tianhai Yunzhou is a major center of Arcanistry knowledge and formulation development.
 - A Tier 9 Artificial Artifact sustains the giant floating island at the center of Tianhai Yunzhou; its established power source is Tianhai Yunzhou-refined liquefied energy derived from specific imported energy-bearing stone/metal ores.
 - Tianhai Yunzhou uses dedicated Artificial Artifact refining systems to process the ores and has a strategic monopoly on this refining method and the resulting standardized energy medium. The ore deposits themselves lie in other territories; named mines, contracts, exact chemical/spiritual composition, yields, prices, and reserve capacity remain unestablished.
 - Tianhai Yunzhou also operates automated trains and other modern urban utilities powered by compatible Artificial Artifact engines using the refined liquefied energy. The technology is advanced but depends on maintenance, infrastructure, containment, trained personnel, and supply continuity.
 - The island artifact's exact materials, internal mechanism, fuel consumption, maintenance procedure, redundancy, and weaknesses remain unknown.
 
 ### 2.2 Golden Dragon Empire
-The Golden Dragon Empire participates in knowledge exchange with Tianhai Yunzhou. This can spread ideas and technology, but does not automatically give all Thinkers the same skill, materials, or production capability.
+The Golden Dragon Empire participates in knowledge exchange with Tianhai Yunzhou. This can spread ideas and technology, but does not automatically give all Arcanists the same skill, materials, or production capability.
 
 ### 2.3 Beiming Gu and the North
-The northern region contains ancient materials and resources that may be useful for engraving Artificial Artifact formations. Material availability alone does not guarantee successful production; the Thinker's grade, knowledge, formulation, and suitable processing remain relevant.
+The northern region contains ancient materials and resources that may be useful for engraving Artificial Artifact formations. Material availability alone does not guarantee successful production; the Arcanist's grade, knowledge, formulation, and suitable processing remain relevant.
 
 ## 3. Known Artificial Artifact Catalog
 
@@ -46,7 +46,7 @@ The northern region contains ancient materials and resources that may be useful 
 - **Weaknesses:** ???
 - **Additional functions:** ???
 
-Only the support function and Tier 9 classification are established. Do not assume this artifact grants the Maharaja personal combat abilities or can be operated by an arbitrary Thinker.
+Only the support function and Tier 9 classification are established. Do not assume this artifact grants the Maharaja personal combat abilities or can be operated by an arbitrary Arcanist.
 
 ### AAF-006 — Emergency Area-Concealment Artifact
 - **Tier:** Tier 8.
@@ -54,18 +54,18 @@ Only the support function and Tier 9 classification are established. Do not assu
 - **Historical context:** Deployed during the ancient world-calamity incursion when Demonic Beasts of tiers 7–9 descended across the world.
 - **Documented function:** Once activated, it conceals a vast area and disguises the life within it, reducing the chance that invading Demonic Beasts will identify and target that area. It did not guarantee protection, and many areas remained exposed to attacks.
 - **Activation and lifespan:** One use only. The artifact destroys itself after activation and cannot be reused; this defect is part of its historical design.
-- **Design origin:** The design framework originated with Bai Xuanyin, the late wife of Maharaja Ji Haoyuan and a Thinker Grade 10. A different Thinker Grade 10 in Tianhai Yunzhou copied that framework imperfectly. The mass-produced artifacts were several tiers lower in quality than a perfect reproduction of Bai Xuanyin's framework would have been. No perfect reproduction was achieved.
-- **Deployment:** The devices were produced at scale. Thinkers from across the world, including most of Tianhai Yunzhou's Thinkers, traveled to many regions to activate them. Their effort saved many populated areas, but not every area was protected from the rampage of Tier 8–9 Demonic Beasts.
+- **Design origin:** The design framework originated with Bai Xuanyin, the late wife of Maharaja Ji Haoyuan and a Arcanist Grade 10. A different Arcanist Grade 10 in Tianhai Yunzhou copied that framework imperfectly. The mass-produced artifacts were several tiers lower in quality than a perfect reproduction of Bai Xuanyin's framework would have been. No perfect reproduction was achieved.
+- **Deployment:** The devices were produced at scale. Arcanists from across the world, including most of Tianhai Yunzhou's Arcanists, traveled to many regions to activate them. Their effort saved many populated areas, but not every area was protected from the rampage of Tier 8–9 Demonic Beasts.
 - **Historical legacy:** The artifact and its deployment are taught in academies as part of the world-calamity history, with Bai Xuanyin remembered as one of the great heroes who died during the catastrophe.
-- **Unknown details:** Original framework's tier, the identity of the Tianhai Thinker Grade 10 who copied it, the number of artifacts made and activated, the exact radius and duration, materials, activation method, and complete technical formulation remain unspecified.
+- **Unknown details:** Original framework's tier, the identity of the Tianhai Arcanist Grade 10 who copied it, the number of artifacts made and activated, the exact radius and duration, materials, activation method, and complete technical formulation remain unspecified.
 
 ## 4. Production Rules — Reference Only
 
-Use `core/THINKER_AND_FORMULATION.md` for all production mechanics. In particular:
-- Thinker Grade and Spirit Realm progress independently.
-- Thinker Grade establishes the normal capability ceiling for artifact production.
+Use `core/ARCANISTRY_AND_FORMULATION.md` for all production mechanics. In particular:
+- Arcanist Grade and Spirit Realm progress independently.
+- Arcanist Grade establishes the normal capability ceiling for artifact production.
 - The baseline success-chance matrix must not be duplicated or altered here.
-- Production requires a suitable formulation, materials, patterns, concentration, mental capability, stamina/energy, and sufficient Thinker Grade.
+- Production requires a suitable formulation, materials, patterns, concentration, mental capability, stamina/energy, and sufficient Arcanist Grade.
 - After successful completion only, calculate the Artificial Artifact's condition using the Condition Score formula in §14 of the core module; production success chance and final condition are separate outcomes.
 - Ordinary artifacts, Relics, and Ancient Artifacts do not gain Artificial Artifact production history or this manufacturing condition score merely by being valuable or artifact-like.
 - Situational modifiers and a formal random-resolution method remain undefined unless the mechanics source is updated.
@@ -79,7 +79,7 @@ The Formation Engraver is the specialized precision tool used to carve intricate
 
 Manufacturing the tool is exceptionally difficult and requires a capable blacksmith/forger with Spirit Realm 5 or higher and relevant forging ability. The tool is expensive; exact prices, tip dimensions, quality grades, durability, and repair costs remain `???`.
 
-For the authoritative requirements, limitations, and GM rules, see `core/THINKER_AND_FORMULATION.md`, §12. This catalog does not establish a separate crafting system.
+For the authoritative requirements, limitations, and GM rules, see `core/ARCANISTRY_AND_FORMULATION.md`, §12. This catalog does not establish a separate crafting system.
 
 ## 6. Artifact Entry Template
 
@@ -87,7 +87,7 @@ For the authoritative requirements, limitations, and GM rules, see `core/THINKER
 ### AAF-XXX — [Known name, or ``Unknown`` **membutuhkan appraisal untuk lebih pastinya** if unidentified]
 - **Tier:** [Official tier or ???]
 - **Type / function:** [Documented function]
-- **Creator / Thinker:** [Known name or ???]
+- **Creator / Arcanist:** [Known name or ???]
 - **Creation provenance:** [Recorded event, formulation, or ???]
 - **Materials:** [Verified list or ???]
 - **Formulation / pattern:** [Official record or ???]
@@ -113,7 +113,7 @@ For the authoritative requirements, limitations, and GM rules, see `core/THINKER
 
 ## 8. Relationship to Other Modules
 
-- `core/THINKER_AND_FORMULATION.md` — production rules and chance matrix.
+- `core/ARCANISTRY_AND_FORMULATION.md` — production rules and chance matrix.
 - `world/ARTIFACTS_AND_RELICS.md` — artifact origin categories and provenance.
 - `core/10_ECONOMY_SYSTEM.md` — currency and crafting restrictions.
 - `gameplay/COMBAT_SYSTEM.md` — documented artifact effects used during combat.
@@ -122,7 +122,7 @@ For the authoritative requirements, limitations, and GM rules, see `core/THINKER
 ### AAF-002 — Tianhai Yunzhou Liquefied-Energy Refining Apparatus
 - **Tier:** Varies by facility; exact tiers not established.
 - **Type / function:** Processes specific imported energy-bearing stone/metal ores into a stable liquefied energy medium for compatible Artificial Artifact engines.
-- **Creator / Thinker:** Not established; the refining tradition is maintained by Tianhai Yunzhou specialists and the Tianhai Thinker Institute.
+- **Creator / Arcanist:** Not established; the refining tradition is maintained by Tianhai Yunzhou specialists and the Tianhai Arcanist Institute.
 - **Materials:** Imported energy-bearing ore plus facility-specific components; exact recipes and ratios are restricted/unknown.
 - **Energy source:** Raw energy-bearing ore is the feedstock; processing requires a functioning refining apparatus and trained operators.
 - **Operating limits:** Only suitable ore classes and compatible apparatus can be processed. Not every stone or metal can be refined, and the resulting energy is not automatically compatible with every artifact.
@@ -136,7 +136,7 @@ For the authoritative requirements, limitations, and GM rules, see `core/THINKER
 - **Energy source:** Compatible Tianhai Yunzhou-refined liquefied energy held in a purpose-built energy vessel.
 - **Operating limits:** Requires a prepared guideway, functioning stations/signals, inspection, maintenance, and a compatible engine. Automated operation does not mean maintenance-free operation or universal passenger access.
 - **Current location:** Several established service corridors within Tianhai Yunzhou; exact engine models and station inventory are not fully catalogued.
-- **Creator / Thinker:** Not established.
+- **Creator / Arcanist:** Not established.
 - **History:** Established as a core part of Tianhai Yunzhou's modern urban transport infrastructure. Do not infer exact speed, capacity, fares, frequency, or safety guarantees without a specific route record.
 
 

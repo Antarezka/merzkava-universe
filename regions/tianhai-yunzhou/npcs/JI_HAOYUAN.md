@@ -23,10 +23,10 @@
 ## 3. Capabilities
 - Spirit Realm: Spirit Realm 9 — Spirit Primordial, Early Stage.
 - Martial Soul: Heavenly Sky Whale.
-- Thinker Grade: Grade 10, the highest Thinker Grade.
+- Arcanist Grade: Grade 10, the highest Arcanist Grade.
 - Spirit Rings, techniques, personal artifacts, and other equipment: Refer to established world sources; additional details not established.
 - Limits: Grade 10 does not guarantee success at every artifact-making task or victory in every battle.
-- Mechanics sources: core/THINKER_AND_FORMULATION.md; core/CULTIVATION_SYSTEM.md; core/MARTIAL_SOUL.md; core/SPIRIT_RING_RULES.md.
+- Mechanics sources: core/ARCANISTRY_AND_FORMULATION.md; core/CULTIVATION_SYSTEM.md; core/MARTIAL_SOUL.md; core/SPIRIT_RING_RULES.md.
 
 ## 4. Motivations and Agency
 - Long-term direction: Lead Tianhai Yunzhou with a visionary outlook.
@@ -35,7 +35,7 @@
 
 ## 5. Knowledge Boundaries
 - Specific knowledge inventory and mistaken beliefs beyond the established events below: Not fully itemized.
-- **GM-sensitive history:** He personally served as an active World Knowledge Tower member during the world-calamity incursion. His duty kept him away from Tianhai Yunzhou during the Great Tianhai War and Bai Xuanyin's death. During the wider catastrophe, Thinkers across the world activated mass-produced Tier 8 one-use concealment artifacts based on Bai Xuanyin's original design framework; the effort saved many areas but could not protect every region. He learned of her death while still serving and resolved to end active service, but continued the urgent containment obligations until the immediate threat had been suppressed and the remaining Demonic Beasts were scattered across the world; only then did he return home. Do not invent the exact moment he received the news, private reactions, or later Tower membership status beyond this established withdrawal from active service.
+- **GM-sensitive history:** He personally served as an active World Knowledge Tower member during the world-calamity incursion. His duty kept him away from Tianhai Yunzhou during the Great Tianhai War and Bai Xuanyin's death. During the wider catastrophe, Arcanists across the world activated mass-produced Tier 8 one-use concealment artifacts based on Bai Xuanyin's original design framework; the effort saved many areas but could not protect every region. He learned of her death while still serving and resolved to end active service, but continued the urgent containment obligations until the immediate threat had been suppressed and the remaining Demonic Beasts were scattered across the world; only then did he return home. Do not invent the exact moment he received the news, private reactions, or later Tower membership status beyond this established withdrawal from active service.
 - His experiences and information actually received govern what he knows.
 
 ## 6. Relationships

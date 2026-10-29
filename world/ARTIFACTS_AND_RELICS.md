@@ -1,7 +1,7 @@
 # Merzkava Universe — Ancient Artifacts and Relics
 
 **Status:** Lore catalog and provenance rules.  
-**Mechanics authority:** Artifact creation and Thinker checks are defined in `core/THINKER_AND_FORMULATION.md`; economic currency restrictions are defined in `core/10_ECONOMY_SYSTEM.md`. This file records origins, known examples, and discoveries. It does not replace those mechanics.
+**Mechanics authority:** Artifact creation and Arcanist checks are defined in `core/ARCANISTRY_AND_FORMULATION.md`; economic currency restrictions are defined in `core/10_ECONOMY_SYSTEM.md`. This file records origins, known examples, and discoveries. It does not replace those mechanics.
 
 ## 1. Artifact Origin Categories
 
@@ -16,7 +16,7 @@ An Ancient Artifact originated during the golden age of civilization. Its creato
 An object found in a ruin is not automatically an Ancient Artifact. Provenance requires supporting evidence.
 
 ### 1.3 Artificial Artifact
-An Artificial Artifact is manufactured by a Thinker using materials, patterns, and formulations. Its production system and success-chance matrix are defined in `core/THINKER_AND_FORMULATION.md`.
+An Artificial Artifact is manufactured by a Arcanist using materials, patterns, and formulations. Its production system and success-chance matrix are defined in `core/ARCANISTRY_AND_FORMULATION.md`.
 
 These categories are distinguished by origin, not merely appearance or strength. A Relic is not automatically an Ancient Artifact or an Artificial Artifact.
 
@@ -95,7 +95,7 @@ New entries may be added when the owner defines them or gameplay establishes a d
 
 ## 6. Relationship to Other Systems
 
-- **Artificial Artifact production:** `core/THINKER_AND_FORMULATION.md`.
+- **Artificial Artifact production:** `core/ARCANISTRY_AND_FORMULATION.md`.
 - **Artifact effects in combat:** `gameplay/COMBAT_SYSTEM.md`, using only documented effects.
 - **Currency and forbidden crafting uses:** `core/10_ECONOMY_SYSTEM.md`.
 - **World and political context:** `world/WORLD.md`.

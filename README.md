@@ -212,7 +212,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 ---
 
 - ✦ **GM Bootstrap & Narrative Gate Optimization**
-  Hash: ``fb38271`` | Ver: ``Nightly-v4.0.5`` · ``Stable-v4.0.1``
+  Hash: ``b33637e`` | Ver: ``Nightly-v4.0.5`` · ``Stable-v4.0.1``
   Shortens the bootstrap and duplicated narrative gates; lets the GM develop plausible unestablished scene details and choose a concrete session year, while protecting canon, mechanics, player agency, and persistent state.
 
 - ✦ **Classification Label Alignment · Plain Double-Backtick Text**

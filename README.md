@@ -222,7 +222,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![NIGHTLY](assets/nightly-version.svg?v=14)
 
-<sub><span style="color:#D4AF37"><strong>v4.0.4</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v4.0.11</strong></span></sub>
 
 </td>
 </tr>
@@ -235,6 +235,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 *Recent world and system updates*
 
 ---
+
+- ✦ **Unified Spirit Ring Absorption & AWR Calibration**
+  Hash: ``45b11e8`` | Ver: ``Nightly-v4.0.11`` · ``Stable-v4.0.1``
+  Replaces the legacy tier-gap formula with continuous age pressure, EAG Sync caps, absorption chance, permanent-defect risk, and separate AWR; INDEX and Authority Order now enforce one official route.
 
 - ✦ **Stable Version GitHub Mark Restored**
   Hash: ``e41e912`` | Ver: ``Nightly-v4.0.10`` · ``Stable-v4.0.1``

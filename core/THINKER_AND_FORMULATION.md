@@ -1,6 +1,6 @@
 # MERZKAVA UNIVERSE — THINKER & FORMULATION SYSTEM
 
-**Status:** Mandatory Thinker progression and certification protocol integrated. The baseline chance matrix is specified by the owner-provided design; situational modifiers, numerical training costs, and unresolved production parameters remain undefined until formally approved.
+**Status:** Mandatory Thinker progression and certification protocol integrated. Artificial Artifact condition scoring is formally defined in §13. Production success chance remains separate from the quality score; random-resolution procedure, situational success modifiers, numerical training costs, and other unresolved production parameters remain undefined until formally approved.
 
 ## 1. THINKER: INDEPENDENT PROGRESSION
 
@@ -140,7 +140,7 @@ For each attempt, the GM must:
 
 Possible outcomes include success and failure. Material damage, energy consumption, and additional consequences may be applied only when supported by official mechanics.
 
-**Unresolved mechanic:** a numeric conversion formula for situational factors and talents, and a formal random-resolution method, have not yet been established. Until approved, the GM must not invent percentage modifiers or pretend a random roll occurred. If a gameplay attempt requires an unresolved method, state the limitation and ask the owner/player for the chosen official resolution rule, or resolve only what the existing rules actually support.
+**Unresolved mechanic:** a numeric conversion formula for situational factors and talents affecting the *success chance*, and a formal random-resolution method, have not yet been established. The Artificial Artifact condition score is a separate mechanic defined in §13 and must not be used as the production success chance. Until success-resolution rules are approved, the GM must not invent percentage modifiers or pretend a random roll occurred. If a gameplay attempt requires an unresolved method, state the limitation and ask the owner/player for the chosen official resolution rule, or resolve only what the existing rules actually support.
 
 ## 8. FUTURE FORMULATION DEVELOPMENT
 
@@ -358,3 +358,139 @@ The exact time and Satiety costs for the training stages and higher-Tier product
 - Use the last verified state and recorded events. Never invent history to make a candidate pass or fail.
 
 This protocol is mandatory and must be read together with the Tianhai Thinker Institute module, the official Satiety and time rules, the economy system, and the repository's authority and anti-cheat gates.
+
+
+## 13. ARTIFICIAL ARTIFACT CONDITION FORMULA — MANDATORY
+
+**Scope:** This formula determines the *condition* of a successfully completed **Artificial Artifact**. It does not determine whether production succeeds. First resolve production using the official Thinker Grade × target Tier success-chance matrix and an authorized resolution method. Only a completed artifact receives a condition score. A failed or incomplete attempt does not receive a condition label; apply only consequences established by official rules.
+
+### 13.1 Ordinary artifacts and Artificial Artifacts are distinct
+
+- This formula applies only to artifacts manufactured as **Artificial Artifacts** through Thinker formulation and production.
+- Ordinary/non-artificial objects or artifacts do not gain Artificial Artifact production history, Artificial Artifact experience points, or an Artificial Artifact condition score merely because they are valuable or called an artifact in narration.
+- Relics and Ancient Artifacts retain their separate origins defined in §2. Their condition must be established by the applicable official source or a properly recorded assessment; do not retroactively apply this manufacturing formula to them.
+- A production attempt's success chance and its completed product's condition score are separate values. A 100% success chance does not guarantee Origin condition.
+
+### 13.2 Formula
+
+Calculate the final **Condition Score (CS)** as:
+
+`CS = clamp(100 - 20 - (1.2 × T) - L + ((P + K + J + C) × M), 0, 100)`
+
+Where:
+
+- `T` = target Artificial Artifact Tier, from 1 to 10.
+- `20` = fixed baseline complexity penalty for precision formulation and engraving.
+- `1.2 × T` = target-Tier difficulty penalty; a higher Tier lowers the starting score.
+- `L` = environmental penalty, from 0 to 15.
+- `P` = preparation/readiness points, from 0 to 20.
+- `K` = demonstrated production skill points, from 0 to 25.
+- `J` = verified Artificial Artifact production-experience points, from 0 to 20.
+- `C` = demonstrated consistency points, from 0 to 20.
+- `M` = Tier efficiency multiplier applied to the sum of the four maker-point categories.
+- `clamp(x, 0, 100)` means scores below 0 become 0 and scores above 100 become 100.
+
+Use full precision during calculation. Round only the final CS to two decimal places for display. For condition classification, compare the unrounded CS to the official thresholds. Display formula-derived final values in the required format: `****<final value>****`.
+
+### 13.3 Tier efficiency multiplier
+
+| Target Artificial Artifact Tier | M |
+|---:|---:|
+| Tier 1–2 | 1.00 |
+| Tier 3–4 | 0.90 |
+| Tier 5–6 | 0.80 |
+| Tier 7–8 | 0.65 |
+| Tier 9 | 0.50 |
+| Tier 10 | 0.35 |
+
+The multiplier reduces how much readiness, skill, experience, and consistency can offset the difficulty of higher-Tier production. It does not alter the Thinker Grade success-chance matrix or permit production above the normal Tier ceiling.
+
+### 13.4 Maker-point assessment
+
+**Preparation/readiness (P), maximum 20**
+
+| Evidence-based preparation | Points |
+|---|---:|
+| Critical preparation missing; not production-ready | 0–4 |
+| Partial preparation with significant gaps | 5–9 |
+| Materials, design, tools, and workspace sufficiently prepared | 10–14 |
+| All relevant preparation complete and verified | 15–18 |
+| Optimal, verified preparation with all critical requirements met | 19–20 |
+
+**Demonstrated production skill (K), maximum 25**
+
+| Demonstrated skill for the relevant production | Points |
+|---|---:|
+| Does not understand required process | 0–4 |
+| Understands basics but makes frequent process errors | 5–9 |
+| Can carry out the process independently at a basic level | 10–14 |
+| Controls the process and handles common problems | 15–19 |
+| Exceptional, demonstrated mastery of the relevant process and difficulties | 20–25 |
+
+Thinker Grade alone does not automatically award maximum skill points. Assess skill against the actual target Tier, formulation, material, and artifact type, using recorded learning and demonstrated capability.
+
+**Artificial Artifact production experience (J), maximum 20**
+
+| Completed, recorded Artificial Artifacts made by the character | Points |
+|---:|---:|
+| 0 | 0 |
+| 1–2 | 2 |
+| 3–5 | 4 |
+| 6–10 | 7 |
+| 11–20 | 10 |
+| 21–40 | 13 |
+| 41–75 | 16 |
+| 76 or more | 20 |
+
+Only distinct Artificial Artifacts actually completed by the character and supported by production records count. An ordinary artifact, a purchased/gifted/inherited/borrowed artifact, an unfinished attempt, or duplicate counting of a single output does not add experience. The count measures overall Artificial Artifact production experience; it does not by itself prove skill at every Tier.
+
+**Production consistency (C), maximum 20**
+
+| Verified production record | Points |
+|---|---:|
+| No completed production history | 0 |
+| Results frequently fail or vary substantially | 1–4 |
+| Some stability, but substantial variation remains | 5–9 |
+| Results are reasonably stable across several completed productions | 10–14 |
+| Stable results across a substantial, relevant production record | 15–18 |
+| Highly stable results across a long and relevant production record | 19–20 |
+
+Consistency must be based on recorded outcomes and comparable production difficulty. A long record of Tier 1 products alone does not prove high consistency for Tier 9 or Tier 10 work. Do not award points based only on self-declaration, elapsed time, reputation, wealth, or Grade.
+
+### 13.5 Environmental penalty (L)
+
+| Actual production environment | L |
+|---|---:|
+| Ideal: quiet, hygienic, stable, and suitable | 0 |
+| Good: only negligible disruption | 1–2 |
+| Adequate: minor distraction or minor hygiene/stability issue | 3–5 |
+| Poor: repeated disruption or notable hygiene/stability problem | 6–9 |
+| Very poor: significant instability or contamination risk | 10–12 |
+| Severely unsuitable and seriously disruptive | 13–15 |
+
+Assess the actual environment during the relevant production, not merely the location's name or reputation. A clean, quiet, stable workspace reduces the penalty; noise, interruptions, poor hygiene, and instability increase it. Do not double-penalize the same event through multiple mechanics unless separate effects are explicitly established.
+
+### 13.6 Final condition thresholds
+
+| Final Condition Score | Official condition |
+|---:|---|
+| CS < 40 | Buruk |
+| 40 ≤ CS < 65 | Rendah |
+| 65 ≤ CS < 80 | Standar |
+| 80 ≤ CS < 97 | Baik |
+| 97 ≤ CS ≤ 100 | Origin |
+
+**Origin requires a final CS of at least 97%.** A high Tier, rarity, market value, visual appearance, owner reputation, or Thinker Grade cannot independently upgrade condition. Origin is a condition classification only; it does not automatically grant additional functions, power, durability, or effects not defined elsewhere.
+
+### 13.7 Mandatory resolution and recordkeeping
+
+For every successfully completed Artificial Artifact:
+
+1. Verify the maker, target Tier, artifact type, formulation, materials, tools, and production record.
+2. Determine and record `P`, `K`, `J`, `C`, `L`, and the Tier multiplier `M), citing in-world evidence or existing records for each assessment.
+3. Calculate CS with the formula in §13.2; do not substitute intuition or a narrative adjective for the calculation.
+4. Assign the condition solely from the thresholds in §13.6.
+5. Record the result alongside the artifact's identity/series code, maker, Tier, type, date/event, condition, and current ownership under the repository's state/event procedure.
+6. Keep the production success chance and the condition score as separate recorded values.
+
+The GM must not invent production history to award experience or consistency points, and must not award Origin unless the calculated score reaches at least 97. If the evidence needed to assess a point category is unavailable, use only what is verifiable; do not assume the maximum. Apply this formula equally to players and NPCs.

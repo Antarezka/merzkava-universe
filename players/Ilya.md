@@ -11,9 +11,9 @@
 - **Usia:** 19 anos (idade informada diretamente pelo jogador).
 - **Spirit Realm:** Mortal
 - **Sync progress:** 0%/0% (a personagem ainda não possui um Spirit Ring ativo; nenhum limite de compatibilidade de anel foi estabelecido).
-- **Spirit Ring Absorption:** ``*not eligible yet*`` | ??? Day left
+- **Spirit Ring Absorption:** `*not eligible yet*` | ??? Day left
 - **Martial Soul:** ??? (a personagem ainda não passou nem concluiu um processo válido de Awakening; não definir seu Martial Soul antes de um evento legítimo de Awakening).
-- **Thinker Grade:** ``*Belum ditetapkan*``.
+- **Thinker Grade:** Ainda não definido.
 - **T.Focus:** ``*Belum ditetapkan*`` (belum ada tahap fokus Thinker yang terverifikasi; jangan menyimpulkan dari Thinker Grade).
 - **HP:** 100/100 (valor inicial de uma nova sessão para Mortal, conforme `core/HP_SYSTEM.md`).
 - **Satiety:** 80/100 (estimativa inicial conservadora do GM; não é um valor já vivenciado em gameplay).

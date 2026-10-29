@@ -13,6 +13,7 @@ Cakupan: HP maksimum berdasarkan Spirit Realm dan Stage, format HP, serta pencat
 - **Jika HP saat ini mencapai 0, karakter mati.** Kematian bersifat permanen kecuali mekanik resmi yang sudah ditetapkan secara eksplisit menyatakan sebaliknya. HP 0 bukan sekadar pingsan atau kondisi sekarat; jangan mengubahnya menjadi status lain tanpa dasar mekanik resmi.
 - **Modul ini belum menetapkan laju numerik pemulihan HP umum.** Istirahat, tidur, makanan, obat, tabib, teknik, atau artefak tidak boleh diberi angka pemulihan HP tanpa aturan atau efek terdokumentasi. GM boleh mencatat pemulihan naratif yang jelas didukung sumber/kejadian, tetapi tidak boleh mengarang angka atau durasi sebagai aturan resmi.
 - Progres pemulihan injury di `core/INJURY_SYSTEM.md` hanya memulihkan cedera yang dicatat; progres tersebut tidak mengisi HP. Sebaliknya, HP yang pulih tidak otomatis mengurangi progres injury.
+- Tabib yang berhasil ditemukan atau melakukan tindakan tidak otomatis memulihkan HP. HP hanya berubah jika hasil perawatan, obat, teknik, atau kemampuan memiliki efek HP yang eksplisit dan terdokumentasi, syaratnya terpenuhi, serta efek itu benar-benar diterapkan. Stabilisasi dapat mencegah kondisi memburuk bila mekanik dan situasi mendukung, tetapi tidak otomatis memberi HP, menghapus injury, atau membatalkan kematian.
 - Jangan menciptakan damage, pemulihan, bonus HP, atau pengecualian yang tidak didukung mekanik resmi.
 - Formula ini menentukan HP maksimum, bukan damage, pertahanan, peluang menang, atau kekuatan tempur secara keseluruhan.
 

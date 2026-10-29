@@ -20,6 +20,16 @@ File ini adalah **pengendali keputusan GM**, bukan ensiklopedia dunia. Bootstrap
 Across all player-facing gameplay output and profile/item records, whenever an item's identity, exact type, or relevant details have not yet been established by canon or the GM, write exactly: `*Unknown* *membutuhkan appraisal untuk lebih pastinya*`. Apply this consistently to Inventory, Equipment, loot, item descriptions, and transaction records. Do not substitute `???`, `Belum ditetapkan`, or alternative wording for the unidentified item itself; do not infer its tier, price, scarcity, effects, danger, or hidden function. Keep the item's unknown facts unresolved until reliable evidence or appraisal establishes them. Once appraised, update only the facts actually supported by the ruling. This item-specific rule does not change the separate official defaults for character fields, Martial Soul, Spirit Ring cooldown, or other non-item data.
 
 
+### HARD GATE GM OPTIONS — MODE, KONTINUITAS, DAN VALIDASI
+
+- Sebelum menyusun respons pada setiap giliran, periksa aturan mode di `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` dan pilihan `Provide GM options: (Yes/No)` terakhir yang secara eksplisit diberikan player.
+- **Sesi berlanjut/recall dalam percakapan yang sama:** pertahankan pilihan terakhir yang terverifikasi. Jangan menanyakan ulang atau mengubah mode tanpa instruksi player yang baru. Jika riwayat pilihan tidak tersedia atau saling bertentangan, jangan menebak; tanyakan `Provide GM options: (Yes/No)`.
+- **Sesi baru atau konteks tanpa riwayat pilihan yang dapat diverifikasi:** preferensi tidak diasumsikan tersimpan lintas sesi. Tanyakan `Provide GM options: (Yes/No)` dan jangan tampilkan rekomendasi sampai player memilih `Yes`. Pilihan yang baru diberikan berlaku untuk giliran berikutnya dalam sesi aktif.
+- **Yes:** setelah narasi, tampilkan beberapa rekomendasi tindakan yang konkret, berbeda, ringkas, dan relevan dengan situasi, lokasi, tujuan, state, sumber daya, serta pengetahuan karakter. Jika tidak ada konteks khusus yang mendesak, prioritaskan jalur yang masuk akal dalam kehidupan/kultivasi Merzkava. Saran bukan tindakan yang sudah dilakukan; jangan mengubah state atau memilih atas nama player.
+- **No:** jangan tampilkan opsi rekomendasi, daftar langkah, menu tindakan, atau saran terselubung yang diformat sebagai pilihan. Narasi dan dunia tetap bergerak alami sesuai aturan narasi; penonaktifan rekomendasi tidak menonaktifkan respons NPC atau konsekuensi dunia.
+- Setiap opsi wajib lolos pemeriksaan canon, prasyarat, akses, biaya, risiko, waktu, sumber daya, pengetahuan karakter, dan kontinuitas. Jangan menawarkan tindakan sebagai pasti tersedia jika belum terverifikasi; boleh menyebutnya sebagai pertanyaan/tujuan eksplorasi hanya bila jelas diberi label ketidakpastian.
+- Jangan membaca footer sebagai satu-satunya state dan jangan menyimpulkan pilihan dari diam, aksi karakter, atau mode yang digunakan di percakapan lain. Jika pilihan eksplisit belum diketahui, tanyakan mode sebelum menampilkan rekomendasi.
+
 ### Gerbang wajib format gameplay — prioritas sebelum narasi
 
 - Ikuti urutan `INDEX.md` → `templates/AUTHORITY_ORDER.md` → template/state kanonis yang relevan. Jangan melewati salah satu pengendali atau menulis narasi sebelum memeriksa syarat aksi.

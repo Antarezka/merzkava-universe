@@ -24,7 +24,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ### ✦ READY-TO-COPY ROLEPLAY HASH ✦
 
-**Latest pinned source:** `ced0ab3`
+**Latest pinned source:** `24caaf2`
 
 </div>
 <!-- RP_SOURCE_END -->
@@ -210,6 +210,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 *Recent world and system updates*
 
 ---
+
+- ✦ **Gameplay Response Template · Merzkava-First Narrative**
+  Hash: ``24caaf2`` | Ver: ``Nightly-v4.0.7`` · ``Stable-v4.0.1``
+  Compresses repeated narrative prompts while prioritizing Merzkava-specific cause-and-effect, bounded GM improvisation, independent NPCs, concrete timestamps, Satiety continuity, and final validation; required panels and mechanics remain mandatory.
 
 - ✦ **Gameplay Template · Merzkava Narrative Gate**
   Hash: ``33408f1`` | Ver: ``Nightly-v4.0.6`` · ``Stable-v4.0.1``

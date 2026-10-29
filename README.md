@@ -211,6 +211,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ---
 
+- ✦ **Classification Label Formatting**
+  Hash: ``9099e38`` | Ver: ``Nightly-v3.0.37`` · ``Stable-v3.0.16``
+  Replaces single-asterisk label styling with double asterisks inside double backticks for classification labels across the GM response template and relevant profile/mechanics rules.
+
 - ✦ **Ledger, Satiety & Merzkava Narrative Hardening**
   Hash: ``0f6f063`` | Ver: ``Nightly-v3.0.36`` · ``Stable-v3.0.16``
   Reconciles money, item and Satiety logs; calculates Satiety from food actually consumed; requires local pricing evidence; standardizes unknown Thinker Grade as `???`; strengthens varied cultivation/Thinker-linked scenes.
@@ -231,9 +235,6 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
   Hash: ``9cae9d3`` | Ver: ``Nightly-v3.0.30`` · ``Stable-v3.0.16``
   All six player snapshots include the required T.Focus field; Thinker Grade and T.Focus remain separate and must be verified independently.
 
-- ✦ **Artificial Artifact Condition Formula**
-  Hash: ``44649ab`` | Ver: ``Nightly-v3.0.27`` · ``Stable-v3.0.16``
-  Successful production requires a Condition Score based on Tier difficulty, maker readiness and skill, consistency, environmental penalties, and Origin.
 </div>
 
 

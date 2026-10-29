@@ -76,7 +76,18 @@ Setelah blok tersebut, GM wajib menyampaikan teguran keras yang menyebut tindaka
 - NPC tidak harus menoleransi paksaan atau klaim palsu player. Mereka boleh marah, sarkastik, meremehkan tindakan karakter, atau menolak membantu; jangan memaksa semua NPC menyukai atau memaafkan karakter.
 - Eskalasi reaksi sosial mengikuti kejadian yang benar-benar diketahui dan konsekuensi yang masuk akal. Jangan menciptakan penalti mekanik tambahan di luar sanksi yang ditetapkan.
 
-## 7. Hubungan dengan aturan lain
+## 7. Batas GM Authority, Ordo, dan penegakan in-world
+
+- `@GM_Authority` adalah suara penegakan aturan pada tingkat permainan, bukan jabatan, tokoh, organisasi, atau kewenangan hukum di dalam dunia Merzkava. Hard Gate memvalidasi pelanggaran meta, membatalkan hasil tidak sah, mencatat jumlah pelanggaran, dan menerapkan sanksi sistem.
+- Ordo Suci Tianming **bukan polisi anti-cheat** dan tidak otomatis mengetahui bahwa player melanggar aturan, melihat log meta, atau mengetahui jumlah pelanggaran. Ordo hanya dapat bertindak berdasarkan fakta in-world yang diterima melalui saksi, bukti, laporan, pengamatan, atau investigasi yang masuk akal.
+- Jangan mengubah sanksi pertama menjadi hukuman Ordo. Penalti wajibnya tetap WARNING dari GM, teguran, rollback, pencatatan, dan reaksi sangat negatif NPC yang mengetahui kejadian. NPC boleh melapor kepada otoritas hanya bila ada alasan in-world yang masuk akal; laporan itu tidak otomatis berarti Ordo menerima atau menangani perkara.
+- Sanksi kedua—kematian permanen karakter—adalah keputusan Hard Gate pada tingkat permainan, bukan hukuman pengadilan Ordo. Jangan menciptakan penangkapan, pengadilan, eksekusi, atau campur tangan Ordo sebagai pembungkus lore bagi sanksi meta tersebut. Terapkan finalitasnya langsung sesuai prosedur Hard Gate.
+- Jika tindakan karakter juga merupakan pelanggaran hukum in-world yang nyata, pisahkan dua jalur: (1) Hard Gate menangani kecurangan player; (2) otoritas lokal yang memiliki yurisdiksi menangani perbuatan karakter berdasarkan bukti, hukum setempat, dan prosedur yang sudah ditetapkan. Jangan menyamakan keduanya atau menghukum dua kali tanpa sebab yang sah.
+- Ordo dapat terlibat hanya bila kejadian yang terlihat/dilaporkan secara independen masuk dalam mandatnya—misalnya bukti kredibel tentang anomali berbahaya, ancaman terhadap kelangsungan dunia, atau laporan terkait Golden Age Ruined yang memang berada di jalur Ruined Archiver. Jangan memaksa keterlibatan Ordo untuk bypass mekanik biasa, klaim ring palsu yang hanya bersifat meta, atau tindakan yang tidak terkait mandatnya.
+- `Ruined Archiver` hanya menangani registrasi ekspedisi Ruined, peta/laporan, verifikasi, kompensasi, kerahasiaan, dan indikator anomali dalam remitnya. Cabang ini bukan pengadilan, bukan polisi universal, dan tidak boleh digunakan sebagai mesin penghukuman otomatis. Tindak lanjut hukum bergantung pada otoritas lokal; eskalasi ke Ordo bergantung pada bukti ancaman yang sesuai.
+- Simpan catatan pelanggaran anti-cheat pada log sesi/state penegakan yang berlaku. Jangan menulisnya sebagai canon publik atau `world/DYNAMIC_EVENTS.md` secara otomatis. Perubahan reputasi lokal atau world event hanya dicatat melalui prosedur terkait jika benar-benar terjadi, memiliki jalur informasi yang masuk akal, dan memenuhi syarat pencatatan.
+
+## 8. Hubungan dengan aturan lain
 
 - **Awakening/kultivasi/Spirit Ring:** validasi dengan modul mekanik resmi. Jangan memberi Awakening, ring, slot, Qi, breakthrough, atau kemampuan lewat narasi sepihak. Untuk percobaan paksa yang bukan kecurangan terkonfirmasi, gunakan konsekuensi mekanik yang sudah ada; jangan otomatis menyamakan setiap percobaan berbahaya dengan pelanggaran anti-cheat.
 - **Waktu dan aksi:** validasi durasi, batas tiga jam, batas cultivation skip, perjalanan, dan proses Day left melalui gameplay/TIME_AND_ACTION_RULES.md. Klaim durasi bukan bukti semua tindakan berhasil.

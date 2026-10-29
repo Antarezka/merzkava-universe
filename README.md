@@ -186,6 +186,8 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" alt="GitHub" />
 
+[![SAFE VERSION](https://img.shields.io/badge/SAFE_VERSION-v4.0.9-2E7D32?style=for-the-badge&labelColor=151515)](https://github.com/Antarezka/merzkava-universe/tree/backup/nightly-v4.0.9-latest)
+
 ![STABLE](assets/stable-version.svg?v=2)
 
 <sub><span style="color:#D4AF37"><strong>v4.0.1</strong></span></sub>

@@ -1,6 +1,8 @@
 # Merzkava Universe — Nightly Version
 
-Current Nightly version: `v4.0.6`
+Current Nightly version: `v4.0.7`
+
+Nightly `v4.0.7` shortens repeated gameplay-template prompts and makes Merzkava-specific cause-and-effect, bounded GM improvisation, NPC autonomy, timestamp/Satiety continuity, and final validation easier to scan; all visual panels, ledger rules, domain mechanics, anti-cheat, and dividers remain mandatory.
 
 Nightly `v4.0.6` streamlines the gameplay response template's repeated narrative gates while strengthening Merzkava-specific cause-and-effect, bounded GM improvisation, concrete session timestamps, and pre-output validation; all required profile panels, ledger rules, NPC/Thinker gates, anti-cheat, and visual dividers remain mandatory.
 

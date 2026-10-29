@@ -11,9 +11,9 @@
 - **Usia:** Belum ditetapkan.
 - **Spirit Realm:** Mortal
 - **Sync progress:** 0%/0% (belum memiliki Spirit Ring aktif; belum ada cap kompatibilitas ring yang ditetapkan).
-- **Spirit Ring Absorption:** ``*not eligible yet*`` | ??? Day left
+- **Spirit Ring Absorption:** not eligible yet | ??? Day left
 - **Martial Soul:** ??? (belum menjalani atau menyelesaikan awakening yang sah; jangan menetapkan Martial Soul sebelum kejadian awakening).
-- **Thinker Grade:** ``*Belum ditetapkan*``.
+- **Thinker Grade:** Belum ditetapkan.
 - **T.Focus:** ``*Belum ditetapkan*`` (belum ada tahap fokus Thinker yang terverifikasi; jangan menyimpulkan dari Thinker Grade).
 - **HP:** 100/100 (inisialisasi sesi baru untuk Mortal menurut `core/HP_SYSTEM.md`).
 - **Satiety:** 80/100 (estimasi awal GM; bukan nilai canon yang sudah dialami dalam gameplay).

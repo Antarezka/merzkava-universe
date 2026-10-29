@@ -195,9 +195,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" alt="GitHub" />
 
-![NIGHTLY](assets/nightly-version.svg?v=10)
+![NIGHTLY](assets/nightly-version.svg?v=11)
 
-<sub><span style="color:#D4AF37"><strong>v3.0.28</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v3.0.30</strong></span></sub>
 
 </td>
 </tr>
@@ -211,9 +211,17 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ---
 
-- ✦ **Thinker Rules Wired into Bootstrap & Authority Gates**
-  Hash: ``ed92a0c`` | Ver: ``Nightly-v3.0.30`` · ``Stable-v3.0.16``
-  INDEX and Authority Order now explicitly enforce training/Satiety, Grade 2+ condition checks, Grade 3–7 quotas and ranking evidence, and the 3-hour action limit.
+- ✦ **GM Options — Exact Three-Choice Gate**
+  Hash: ``fd3042d`` | Ver: ``Nightly-v3.0.30`` · ``Stable-v3.0.16``
+  `Yes` requires exactly three options in the A/B/C format; `No` disables recommendations, and an unresolved `Yes/No` defaults to none.
+
+- ✦ **T.Focus Separated from Thinker Grade**
+  Hash: ``cf6279e`` | Ver: ``Nightly-v3.0.30`` · ``Stable-v3.0.16``
+  Character profiles track verified focus-stage evaluation independently; ongoing training cannot automatically advance T.Focus.
+
+- ✦ **Mandatory Thinker Gameplay Hard Gate**
+  Hash: ``79dab64`` | Ver: ``Nightly-v3.0.30`` · ``Stable-v3.0.16``
+  Thinker actions must validate focus, training, Satiety, exams, quotas, blueprint authorship, artifact ownership, provenance, and records against canon.
 
 - ✦ **Artificial Artifact Condition Formula**
   Hash: ``44649ab`` | Ver: ``Nightly-v3.0.27`` · ``Stable-v3.0.16``
@@ -222,6 +230,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **Bootstrap Authority — INDEX → Authority Order**
   Hash: ``6a5fa7b`` | Ver: ``Nightly-v3.0.25`` · ``Stable-v3.0.16``
   Gameplay bootstrap starts at `INDEX.md`, then `templates/AUTHORITY_ORDER.md`. README remains maintenance-only and cannot bootstrap gameplay or define rules.
+
+- ✦ **Thinker Rules Wired into Bootstrap & Authority Gates**
+  Hash: ``ed92a0c`` | Ver: ``Nightly-v3.0.30`` · ``Stable-v3.0.16``
+  INDEX and Authority Order enforce training/Satiety, Grade 2+ condition checks, Grade 3–7 quotas and ranking evidence, and the 3-hour action limit.
 
 </div>
 

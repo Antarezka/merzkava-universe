@@ -13,7 +13,7 @@
 - **Sync progress:** 0%/0% (Elliot has no active Spirit Ring; no ring compatibility cap has been established).
 - **Spirit Ring Absorption:** `*not eligible yet*` | ??? Day left
 - **Martial Soul:** ??? (Elliot has not completed a valid Martial Soul Awakening; do not assign one before a legitimate Awakening event).
-- **Thinker Grade:** Not established.
+- **Thinker Grade:** ???
 - **T.Focus:** ``*Belum ditetapkan*`` (belum ada tahap fokus Thinker yang terverifikasi; jangan menyimpulkan dari Thinker Grade).
 - **HP:** 100/100 (new-session starting value for Mortal, according to `core/HP_SYSTEM.md`).
 - **Satiety:** 65/100 (conservative GM starting estimate; not a value already experienced during gameplay).

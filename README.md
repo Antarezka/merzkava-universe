@@ -216,8 +216,8 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
   `Yes` requires exactly three A/B/C options; `No` disables them, and unresolved `Yes/No` defaults to none.
 
 - ✦ **Thinker Hard Gate & T.Focus Field Rules**
-  Hash: ``a5b1ef3`` | Ver: ``Nightly-v3.0.30`` · ``Stable-v3.0.16``
-  All six registered player snapshots now include the mandatory T.Focus field, kept separate from Thinker Grade and formatted as a classification label.
+  Hash: ``9cae9d3`` | Ver: ``Nightly-v3.0.30`` · ``Stable-v3.0.16``
+  All six player snapshots include T.Focus plus a separate pre-session GM note for Prefer Narrative; Nafila is set to Dengan Opsi.
 
 - ✦ **Artificial Artifact Condition Formula**
   Hash: ``44649ab`` | Ver: ``Nightly-v3.0.27`` · ``Stable-v3.0.16``

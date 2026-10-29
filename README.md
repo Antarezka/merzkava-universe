@@ -197,7 +197,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![NIGHTLY](assets/nightly-version.svg?v=10)
 
-<sub><span style="color:#D4AF37"><strong>v3.0.23</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v3.0.25</strong></span></sub>
 
 </td>
 </tr>
@@ -211,43 +211,19 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ---
 
+- ✦ **Canon Consistency — Tianhai Sea Name & Version Board**
+  Hash: ``6a8e64d`` | Ver: ``Nightly-v3.0.25`` · ``Stable-v3.0.16``
+  Aligned Tianhai Yunzhou's sea name with Yunmeng Sea (云梦海), synchronized the visible Nightly version, and retained only the three latest noticeboard entries.
+
 - ✦ **Bootstrap Authority — INDEX → Authority Order**
   Hash: ``6a5fa7b`` | Ver: ``Nightly-v3.0.25`` · ``Stable-v3.0.16``
-  Gameplay bootstrap must start at `INDEX.md`, then read `templates/AUTHORITY_ORDER.md`. README is limited to changelog, version, and pin maintenance; it cannot bootstrap gameplay, define rules, or serve as fallback.
+  Gameplay bootstrap starts at `INDEX.md`, then `templates/AUTHORITY_ORDER.md`. README remains maintenance-only and cannot bootstrap gameplay or define rules.
 
 - ✦ **Ordo Suci Tianming — Red Notice Canon Alignment**
   Hash: ``4db3f61`` | Ver: ``Nightly-v3.0.24`` · ``Stable-v3.0.16``
-  Clarified mandatory Red Notice/Ordo dispatch for confirmed mechanical violations, visible fear and avoidance among informed NPCs, realistic reports and travel, and staged orientation, prison threat, and execution. GM sanctions remain distinct; players cannot erase established Ordo decisions by meta request.
-
-- ✦ **Medicine Hall — Treatment and Emergency Rescue Rules Aligned**
-  Hash: ``d79ae1a`` | Ver: ``Nightly-v3.0.20`` · ``Stable-v3.0.16``
-  Separated healer encounter chance from treatment success. Injury recovery follows class-specific rates and prerequisites; HP recovery requires an explicit documented effect. Ordinary rescue cannot reverse HP 0 death or the permanent anti-cheat death sanction.
+  Confirmed Red Notice/Ordo enforcement follows plausible evidence, NPC knowledge, distance, and staged in-world responses; GM meta sanctions remain separate.
 
 </div>
-
-- ✦ **World Cartography — Illustrative World Map Added**
-  Hash: ``858665f`` | Ver: ``Nightly-v3.0.17`` · ``Stable-v3.0.16``
-  Added a prominent full-width world map with a full-size image link and a clear note that official geography documents remain authoritative.
-
-- ✦ **Anti-Cheat Hard Gate — Highest-Priority Enforcement Integrated**
-  Hash: ``e1c0ab4`` | Ver: ``Nightly-v3.0.19`` · ``Stable-v3.0.16``
-  Added mandatory WARNING-before-reprimand, rollback, and recorded escalation. The first confirmed violation now requires very negative, natural reactions from all nearby NPCs who know of it; the second confirmed violation causes permanent death without plot armor or emergency rescue. Aligned authority, gameplay, narrative, time, cultivation, and Awakening rules.
-
-༺━━━━━━━━༻
-
-༺━━━━━━━━༻
-
-- ✦ **Canon Maintenance — Committee Reference and Authority Alignment**
-  Hash: ``400f171`` | Ver: ``Nightly-v3.0.17`` · ``Stable-v3.0.16``
-  Advanced Nightly to v3.0.17 and pinned the verified snapshot. The committee dossier remains canonical under `world/`, consistent with INDEX navigation, Authority Order, and canon-precedence rules.
-
-༺━━━━━━━━༻
-
-- ✦ **Institutional Canon — Deputy Role Clarified**
-  Hash: ``fc61a75`` | Ver: ``Nightly-v3.0.16`` · ``Stable-v3.0.16``
-  Clarified that the committee deputy position exists while the individual's identity and conduct remain unestablished. Unknown integrity is preserved without inventing corruption or misconduct.
-
-༺━━━━━━━━༻
 
 
 <div align="center">

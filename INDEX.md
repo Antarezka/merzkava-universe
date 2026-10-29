@@ -35,7 +35,7 @@ Pilih sumber berdasarkan aksi dan lokasi; jika beberapa sistem terdampak, baca s
 | Combat, serangan beruntun, multi-hit, combo, damage, pertahanan | `gameplay/COMBAT_SYSTEM.md` |
 | HP | `core/HP_SYSTEM.md` |
 | Cedera dan pemulihan injury | `core/INJURY_SYSTEM.md` |
-| **Jalur Thinker tunggal — wajib:** pendidikan dasar → tahap fokus → Apprentice Examination → Grade 1 → ujian dan prasyarat Grade berikutnya → engraver blueprint untuk Grade 7–10 → Condition Score Artificial Artifact → provenance dan catatan | `core/THINKER_AND_FORMULATION.md` (otoritas mekanik tunggal); `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md` hanya untuk administrasi institut dan konteks regional |
+| **Jalur Thinker tunggal — wajib:** pendidikan dasar → tahap fokus (durasi minimum dan Satiety) → Apprentice Examination/Grade 1 → ujian Grade berikutnya dengan Tier target → Condition Score wajib mulai Grade 2 → kuota dan perbandingan kompetitif Grade 3–7 → engraver blueprint pribadi Grade 7–10 → prasyarat khusus Grade 8–10 → provenance, kepemilikan, waktu, Satiety, dan ledger | `core/THINKER_AND_FORMULATION.md` (otoritas mekanik tunggal); `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md` hanya untuk administrasi institut dan konteks regional |
 | Harga, transaksi, kurs, aset, Currency | `core/10_ECONOMY_SYSTEM.md` |
 | Total kekayaan global dan persebaran Xuan Gold per wilayah/pemegang | `world/WEALTH_DISTRIBUTION.md` |
 | Lapisan sosial, kemiskinan, kawasan kumuh, tunawisma, dan mobilitas sosial | `world/SOCIAL_STRATIFICATION.md` |

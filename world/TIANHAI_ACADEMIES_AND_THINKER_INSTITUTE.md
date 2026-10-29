@@ -111,6 +111,6 @@ The exact point reward per Grade, exchange rates, stock, prices, and restriction
 
 ### 5.2 Administrative and continuity controls
 
-The institute must keep verifiable records of registration, eligibility, examination outcomes, official Grade changes, artifact verification, recognition tokens, and contribution-point awards/redemptions according to the repository's state and event procedures. City branches may process applicable token services, but they cannot fabricate recognition or override the issuer's authorization. Administrative access is not automatic approval.
+The institute must keep verifiable records of registration, eligibility, examination outcomes, official Grade changes, artifact verification, recognition tokens, and contribution-point awards/redemptions according to the repository's state and event procedures. Tokens may be ordered through any city branch using the established process, but branches cannot fabricate recognition or override the issuer's authorization. Administrative access is not automatic approval.
 
 All examination and production procedures remain subject to the Thinker & Formulation System, official time and Satiety rules, the economy system, and the repository's mandatory authority and anti-cheat rules.

@@ -20,7 +20,7 @@
 
 ## 1. THINKER: INDEPENDENT PROGRESSION
 
-**Player-facing result formatting:** every resolved formulation chance, roll, production outcome, and formula-derived final value must be displayed as `****<hasil final>****`, whether successful or failed. Any displayed tier, grade, quality, status, or similar classification label must use the universal ``**<istilah>**`` label format inside double backticks.
+**Player-facing result formatting:** every resolved formulation chance, roll, production outcome, and formula-derived final value must be displayed as `****<hasil final>****`, whether successful or failed. Any displayed tier, grade, quality, status, or similar classification label must use the universal ``<istilah>`` label format inside double backticks.
 
 - Thinker has 10 tiers: Thinker Grade 1 through Thinker Grade 10.
 - Thinker progression is separate from Spirit Realm cultivation. It concerns knowledge, materials, formulations, patterns, and artifact-making processes.

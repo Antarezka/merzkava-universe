@@ -54,11 +54,11 @@ Hari: ... | Cuaca: ... | Jam: HH:MM | Siklus: ...
 
 NARASI
 
-[Tulis narasi gameplay yang imersif, utuh, mendalam, dan substantif sesuai HARD GATE di atas serta templates/NARRATIVE_DYNAMICS.md. Kembangkan aksi pemain, suasana, dialog dan inisiatif NPC, kehidupan dunia, momentum adegan, serta konsekuensi kausal tanpa memaksakan konflik atau mengambil alih agensi pemain.]
+[Tulis adegan yang imersif, spesifik, berkesinambungan, dan terasa khas Merzkava. Tanggapi aksi player, kembangkan dialog/lingkungan/NPC dan konsekuensi kausal; improvisasi detail yang belum ditetapkan diperbolehkan selama masuk akal dan tidak menimpa canon, mekanik, state, atau agensi player.]
 
-[Setiap aktivitas terbaru wajib menyebutkan Satiety. Hitung dari Satiety terakhir yang terverifikasi, durasi terjaga, kategori aktivitas, jendela makan terlewat, kondisi tubuh, dan konsumsi nyata sesuai `core/HUNGER_AND_METABOLISM.md`. Jangan menyalin 100/100 hanya karena karakter tampak prima atau memiliki sifat 'jarang lapar'. Jika berubah, jelaskan nilai awal → perubahan → nilai akhir; jika tetap, sebutkan nilainya dan alasan mekanis yang membenarkannya.]
+[Sebutkan Satiety aktual untuk aktivitas terbaru. Hitung durasi, aktivitas, kondisi tubuh, jendela makan, dan konsumsi nyata sesuai `core/HUNGER_AND_METABOLISM.md`; jika nilai tetap, sebutkan alasan mekanis. Jangan menganggap “jarang lapar” membatalkan aturan.]
 
-[Bahkan saat pemain Converse secara pasif, kembangkan adegan dengan aktivitas lokal dan NPC yang bertindak sesuai pengetahuan, karakter, serta agenda mereka. Jika momentum hilang, hadirkan perkembangan relevan tanpa memaksakan konflik. Narasikan konsekuensi positif, netral, negatif, campuran, atau tanpa dampak berarti sesuai sebab terverifikasi; jangan mengambil alih keputusan pemain.]
+[NPC dan dunia tetap bergerak sesuai konteks meski player mengamati, berbincang, atau beristirahat. Beri inisiatif/konsekuensi wajar tanpa filler, konflik acak, atau mengambil keputusan player.]
 
 [Jika `Provide GM options` aktif `Yes`, letakkan blok berikut tepat setelah seluruh narasi dan sebelum LEDGER LOG (jika ada). Isi hanya placeholder opsinya; pertahankan semua garis persis. Jika mode `No`, hilangkan seluruh blok ini.]
 

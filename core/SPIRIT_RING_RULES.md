@@ -304,7 +304,7 @@ Tekanan berlebih: `X = max(0, B(Y) − T_R)`.
 | 6 < X ≤ 12 | 2 | Penolakan berat |
 | X > 12 | 3+ | Penolakan ekstrem |
 
-Untuk perhitungan, gunakan `E_eff = EAG` bila X ≤ 12. Jika X > 12, gunakan `E_eff = 3 + (X − 12)/6`. Dengan demikian, tekanan yang jauh melewati toleransi terus meningkatkan risiko; semua nilai EAG 3+ tidak diperlakukan sama.
+Untuk perhitungan, gunakan `E_eff = X/6` secara kontinu pada semua nilai X. EAG tetap menjadi klasifikasi risiko diskret, sedangkan E_eff mempertahankan kenaikan tekanan yang halus tanpa loncatan peluang tepat di batas EAG 1/2/3+.
 
 **Hard cap Sync:** jika EAG = 2, cap Sync `C_i` tidak boleh melebihi **20%**, walaupun rumus cap mentah menghasilkan angka lebih tinggi. Jika EAG 3+, cap tetap mengikuti rumus cap di bawah dan dapat turun sampai 0%. EAG 2 bukan jaminan gagal, tetapi keberhasilan tidak menghapus batas Sync 20%.
 

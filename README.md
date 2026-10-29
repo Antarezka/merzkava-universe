@@ -212,7 +212,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 ---
 
 - ✦ **Mandatory Thinker Progression — Certification, Artifact Provenance & Grade 10**
-  Hash: ``3c45584`` | Ver: ``Nightly-v3.0.26`` · ``Stable-v3.0.16``
+  Hash: ``273acf6`` | Ver: ``Nightly-v3.0.26`` · ``Stable-v3.0.16``
   Added mandatory instruction and training gates, official Grade examinations, personal engraver-blueprint requirements, artifact series-code and ownership verification, Grade 8–10 prerequisites, senior recognition tokens, and institutional contribution points.
 
 - ✦ **Bootstrap Authority — INDEX → Authority Order**

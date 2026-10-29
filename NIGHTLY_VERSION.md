@@ -1,6 +1,8 @@
 # Merzkava Universe — Nightly Version
 
-Current Nightly version: `v4.0.4`
+Current Nightly version: `v4.0.5`
+
+Nightly `v4.0.5` condenses the INDEX bootstrap and Authority Order narrative gate, streamlines Narrative Dynamics, explicitly permits bounded scene-level GM improvisation, and requires a concrete GM-selected session year when none is established. Canon, mechanics, player agency, state continuity, and persistent-world approval remain protected.
 
 Nightly `v4.0.4` aligns classification labels across INDEX, Authority Order, and the gameplay response template: labels inside double backticks contain plain text only, with explanatory emphasis kept outside the label. Nightly `v4.0.3` strengthens mechanics-driven narrative integration for cultivation/Spirit Realm/PowerScale, Martial Soul, Spirit Ring age and compatibility, Thinker progression, personal-blueprint engravers, and Artificial Artifact provenance/series codes without changing mechanics or forcing every topic into every scene. Nightly `v4.0.2` restores strict full-template gameplay output: no bootstrap preamble or meta closing question, no GM-written first-person player-character actions, no unsupported scene details, complete status panels every turn, and a default-off GM-options block when the footer remains `Yes/No`.
 

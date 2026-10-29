@@ -89,3 +89,28 @@ The Tianhai Thinker Institute and its existing roster of officials remain govern
 - The institute is unique in **institutional scope and level**, not proof that no Thinker research occurs anywhere else.
 - Use `core/CULTIVATOR_ACADEMIES.md` for general education boundaries and `core/THINKER_AND_FORMULATION.md` for the mechanics of Thinker Grade, engraving, and Artificial Artifact production.
 - Route and travel claims must be verified through `world/LOCATION_AND_ROUTE_NETWORK.md`, `world/GEOGRAPHY_AND_TRAVEL.md`, and the relevant regional modules.
+
+
+## 5. Mandatory Thinker certification and contribution administration
+
+The Tianhai Thinker Institute is the central authority for official Thinker Grade examinations and certification. Its research role does not replace its standards and credentialing role.
+
+- The Apprentice Examination is available only to students who have learned foundational theory through legitimate instruction and passed the required Initiate training assessment. Candidates use an Engraver's Apprentice bearing a valid mark associated with their educational origin or sponsoring tradition. Passing this examination grants official Thinker Grade 1.
+- Every subsequent Grade requires registration, the applicable established fee, fulfillment of that Grade's eligibility requirements, and a passing official examination. Passing the examination grants the corresponding official Grade; eligibility or participation alone does not.
+- Examinations for Grades 7–10 require a personal engraver physically made from a blueprint designed by the candidate themselves. This requirement is absolute. The candidate's authorship and the maker's qualifications must be verifiable.
+- Grade 8 requires candidate-made, currently owned collections of 10 Tier 6 artifacts, 5 Tier 5 artifacts, and 1 Tier 8 artifact of condition Rendah or higher. Grade 9 requires 30 candidate-made, currently owned Tier 8 artifacts, each condition Baik or Origin. Grade 10 requires 10 candidate-made, currently owned Tier 9 Origin weaponry artifacts, plus valid senior recognition and a passed final examination.
+- Every Artificial Artifact has an embedded series code. The institute verifies production history, code, Tier, condition, required type, and current ownership. Qualifying artifacts may be bank-stored if the storage record, capacity, ownership, and access for inspection are valid. Purchased, gifted, borrowed, or transferred-away artifacts cannot be counted as candidate-made and currently owned work.
+- Artifact condition uses five categories in order: Buruk, Rendah, Standar, Baik, Origin.
+- Grade 10 recognition requires a valid token from at least one Thinker Grade 10 or three Thinker Grade 9 individuals. Tokens are professional identity and recognition credentials, not items that can be purchased to replace the issuer's consent. Recognition challenges must be grounded in each NPC's actual knowledge, interests, authority, and circumstances. Merzkava has no more than five Thinker Grade 10 individuals worldwide.
+
+### 5.1 Contribution points for educational institutions
+
+When a student passes an official Thinker examination, the institution or educational organization responsible for their legitimate training receives contribution points from the central institute. These points are institutional assets, not the student's personal Wallet. Eligible points may be exchanged for approved scarce or unique materials and important spare parts/components used in Artificial Artifact production.
+
+The exact point reward per Grade, exchange rates, stock, prices, and restrictions must be established by the applicable economy/institute records. The GM must not invent numerical values when none are defined. Contribution points do not grant a student's Grade or waive any examination requirement.
+
+### 5.2 Administrative and continuity controls
+
+The institute must keep verifiable records of registration, eligibility, examination outcomes, official Grade changes, artifact verification, recognition tokens, and contribution-point awards/redemptions according to the repository's state and event procedures. City branches may process applicable token services, but they cannot fabricate recognition or override the issuer's authorization. Administrative access is not automatic approval.
+
+All examination and production procedures remain subject to the Thinker & Formulation System, official time and Satiety rules, the economy system, and the repository's mandatory authority and anti-cheat rules.

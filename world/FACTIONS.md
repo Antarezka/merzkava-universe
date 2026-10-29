@@ -206,6 +206,8 @@ Ordo Suci Tianming jointly manages the World Knowledge Tower with an alliance of
 
 The Ordo is not omniscient and does not automatically defeat every threat. Reports must be verified, and response can be affected by distance, delayed information, political interests, and limited resources. Its religious standing does not grant it absolute civil authority over Wanluo or universal law-enforcement power in every territory.
 
+**Boundary with GM enforcement:** Ordo Suci Tianming is not an anti-cheat police force and cannot access the GM's meta-level violation log. It responds only to in-world evidence and reports that plausibly fall within its established anomaly and world-survival mandate. Ordinary rule bypass, fabricated character progression, or a player's unilateral success claim does not automatically alert the Ordo. If a character's observable conduct independently creates a local legal case, the relevant territorial authority handles that case under applicable local jurisdiction; the Ordo becomes involved only if the evidence separately meets its mandate. The permanent-death sanction for a second confirmed anti-cheat violation is enforced by GM Authority at the game level, not issued as an in-world Ordo sentence.
+
 
 ## 12. Tianhai Yunzhou Trade Associations
 

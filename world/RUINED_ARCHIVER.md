@@ -85,4 +85,7 @@ The following remain unestablished and must not be invented as fixed canon witho
 - Do not grant Ruined Archiver's staff automatic knowledge of every Ruined or every anomaly.
 - Do not make guilds subordinate to Ruined Archiver.
 - Do not make the organization a universal police force or give it legal powers beyond the applicable local authority.
+- Do not use Ruined Archiver to detect or punish meta-level player cheating. It has no access to the GM's anti-cheat log and cannot infer a violation from narration alone.
+- If a character submits a false or altered Ruined map/report, handle the submission through the established verification and compensation process. Record what the branch can actually establish; refusal of payment or further reporting depends on evidence and established procedure, not an invented automatic punishment.
+- Escalate a case to local authorities only when the observed conduct plausibly violates local law and the branch has a credible basis to report it. Route information to the wider Ordo only when verified evidence indicates a threat within the Ordo's world-survival/anomaly remit.
 - When credible signs indicate a world-level anomaly, route the information through Ordo Suci Tianming's assessment network for potential World Knowledge Tower alliance intervention.

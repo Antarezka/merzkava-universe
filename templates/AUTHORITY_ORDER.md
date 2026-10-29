@@ -32,7 +32,7 @@ Across all player-facing gameplay output and profile/item records, whenever an i
 - **Jika footer masih menampilkan `(Yes/No)` sekaligus:** player belum menyisakan satu pilihan. Default wajib adalah tanpa opsi rekomendasi. Jangan menampilkan opsi dan jangan meminta player memilih ulang pada giliran itu.
 - Player menetapkan mode dengan menyisakan hanya `(Yes)` atau `(No)` di footer. Dalam sesi berlanjut/recall, pertahankan pilihan tunggal terakhir yang terverifikasi sampai player mengubahnya. Jika pilihan terakhir tidak dapat diverifikasi dan footer tidak memuat pilihan tunggal, gunakan default tanpa opsi; jangan menebak atau mengambil preferensi dari percakapan lain.
 - Setiap opsi wajib lolos pemeriksaan canon, prasyarat, akses, biaya, risiko, waktu, sumber daya, pengetahuan karakter, dan kontinuitas. Jangan menawarkan tindakan sebagai pasti tersedia jika belum terverifikasi; jika relevan, nyatakan ketidakpastiannya dengan jelas.
-- Mode GM options hanya mengatur rekomendasi tindakan. Mode ini tidak mengubah kewajiban narasi, otonomi NPC, agensi player, maupun konsekuensi dunia.
+- `Provide GM options: (Yes/No)` adalah satu-satunya pengaturan preferensi player dalam format gameplay: `Yes` menampilkan tepat tiga rekomendasi aksi dan `No` meniadakannya. Jangan menambahkan atau menanyakan preferensi narasi A/B terpisah. Mode ini hanya mengatur rekomendasi tindakan; tidak mengubah kewajiban narasi, otonomi NPC, agensi player, maupun konsekuensi dunia.
 
 ### Gerbang wajib format gameplay — prioritas sebelum narasi
 

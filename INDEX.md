@@ -36,7 +36,7 @@ Pilih sumber berdasarkan aksi dan lokasi; jika beberapa sistem terdampak, baca s
 | Router canon wilayah/NPC/permukiman (baca hanya jika relevan) | `world/CANON_LOAD_ROUTER.md` |
 | Prosedur awakening, chance rarity, formulasi penilaian Martial Soul, undian dan keputusan mutasi | `core/MARTIAL_SOUL_AWAKENING.md` |
 | Lore, bentuk, karakteristik, dan interpretasi Martial Soul | `core/MARTIAL_SOUL.md` |
-| Spirit Ring, kompatibilitas, penyerapan, kombinasi kemampuan, Qi, PowerScale, jalur perolehan ring | `core/SPIRIT_RING_RULES.md` |
+| Spirit Ring: tekanan usia dan toleransi Spirit Realm, EAG, cap Sync, peluang penyerapan, kecacatan permanen, AWR, kombinasi kemampuan, Qi, PowerScale, dan jalur perolehan ring — satu-satunya otoritas formula | `core/SPIRIT_RING_RULES.md` |
 | Spirit Beast, syarat ring, jeda minimum, deviasi | `bestiary/SPIRIT_BEAST_RULES.md` |
 | Penilaian tier universal dan Kantor Appraisal dunia | `core/TIER_ASSESSMENT_AND_APPRAISAL.md` |
 | Combat, serangan beruntun, multi-hit, combo, damage, pertahanan | `gameplay/COMBAT_SYSTEM.md` |
@@ -85,7 +85,7 @@ Pilih sumber berdasarkan aksi dan lokasi; jika beberapa sistem terdampak, baca s
 - `world/DYNAMIC_EVENTS.md`: registry event canon; periksa setiap giliran.
 - `templates/WORLD_EVENT_UPDATE_TEMPLATE.md`: proposal event; bukan canon sampai disetujui dan di-commit owner/admin.
 - **HARD GATE THINKER:** bila aksi, karakter, NPC, ujian, pembelajaran, formulasi, produksi, appraisal kondisi Artificial Artifact, engraver, token, atau kontribusi menyentuh jalur Thinker, baca `core/THINKER_AND_FORMULATION.md` terlebih dahulu dan terapkan seluruh urutan mandatory-nya. Baca `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md` hanya untuk detail administrasi/regional yang relevan; file itu bukan jalur alternatif dan tidak boleh menimpa mekanik core. Untuk waktu/Satiety, uang, katalog fungsi artefak, dan anti-cheat, baca sumber domain masing-masing juga.
-- Modul mekanik/world adalah otoritas untuk cakupannya. `players.md` adalah indeks; `players/<Nama>.md` adalah snapshot awal; profil gameplay terakhir beserta kejadian sesudahnya adalah state aktif.
+- Modul mekanik/world adalah otoritas untuk cakupannya. Untuk Penyerapan Spirit Ring, `core/SPIRIT_RING_RULES.md` §5.5 dan §6.1 adalah satu-satunya sumber aktif untuk cap Sync, peluang berhasil, kecacatan permanen, dan AWR; formula lama tidak boleh dipakai atau digabungkan. Ikuti hard gate di `templates/AUTHORITY_ORDER.md`. `players.md` adalah indeks; `players/<Nama>.md` adalah snapshot awal; profil gameplay terakhir beserta kejadian sesudahnya adalah state aktif.
 - Penilaian universal dan Kantor Appraisal: `core/TIER_ASSESSMENT_AND_APPRAISAL.md`. Martial Soul memakai formulasi khusus `core/MARTIAL_SOUL_AWAKENING.md`; rarity hasil undian terpisah dari kualitas inheren.
 - **Label item yang belum teridentifikasi:** jika identitas, jenis pasti, atau detail relevan suatu item belum ditetapkan oleh kanon/GM, tampilkan persis ``Unknown`` **membutuhkan appraisal untuk lebih pastinya** di Inventory, Equipment, loot, deskripsi, dan transaksi. Jangan gunakan `???` sebagai label item atau mengarang tier, harga, fungsi, kelangkaan, maupun bahaya. Ikuti `core/TIER_ASSESSMENT_AND_APPRAISAL.md`; aturan ini hanya untuk item, bukan field karakter atau data dunia lain.
 

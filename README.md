@@ -22,9 +22,9 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ![RP SOURCE](https://img.shields.io/badge/RP_SOURCE-PINNED_COMMIT-151515?style=for-the-badge&labelColor=FFB36B)
 
-### ✦ LATEST SNAPSHOT REFERENCE · MAINTENANCE ONLY ✦
+### ✦ READY-TO-COPY ROLEPLAY HASH ✦
 
-**Latest pinned source:** `6a5fa7b`
+**Latest pinned source:** `56ac6ca`
 
 </div>
 <!-- RP_SOURCE_END -->

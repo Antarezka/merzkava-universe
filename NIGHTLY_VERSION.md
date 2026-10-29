@@ -1,6 +1,8 @@
 # Merzkava Universe — Nightly Version
 
-Current Nightly version: `v4.0.7`
+Nightly `v4.0.8` restores `INDEX.md` and `templates/AUTHORITY_ORDER.md` to their exact contents at pinned snapshot `e395735`, reversing the later edits to those two files.
+
+Current Nightly version: `v4.0.8`
 
 Nightly `v4.0.7` shortens repeated gameplay-template prompts and makes Merzkava-specific cause-and-effect, bounded GM improvisation, NPC autonomy, timestamp/Satiety continuity, and final validation easier to scan; all visual panels, ledger rules, domain mechanics, anti-cheat, and dividers remain mandatory.
 

@@ -22,14 +22,17 @@ Across all player-facing gameplay output and profile/item records, whenever an i
 
 ### HARD GATE GM OPTIONS — MODE, KONTINUITAS, DAN VALIDASI
 
-- Sebelum menyusun respons pada setiap giliran, periksa aturan mode di `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` dan pilihan `Provide GM options: (Yes/No)` terakhir yang secara eksplisit diberikan player.
-- **Sesi berlanjut/recall dalam percakapan yang sama:** pertahankan pilihan terakhir yang terverifikasi. Jangan menanyakan ulang atau mengubah mode tanpa instruksi player yang baru. Jika riwayat pilihan tidak tersedia atau saling bertentangan, jangan menebak; tanyakan `Provide GM options: (Yes/No)`.
-- **Sesi baru atau konteks tanpa riwayat pilihan yang dapat diverifikasi:** preferensi tidak diasumsikan tersimpan lintas sesi. Tanyakan `Provide GM options: (Yes/No)` dan jangan tampilkan rekomendasi sampai player memilih `Yes`. Pilihan yang baru diberikan berlaku untuk giliran berikutnya dalam sesi aktif.
-- **Yes:** setelah narasi, tampilkan beberapa rekomendasi tindakan yang konkret, berbeda, ringkas, dan relevan dengan situasi, lokasi, tujuan, state, sumber daya, serta pengetahuan karakter. Jika tidak ada konteks khusus yang mendesak, prioritaskan jalur yang masuk akal dalam kehidupan/kultivasi Merzkava. Saran bukan tindakan yang sudah dilakukan; jangan mengubah state atau memilih atas nama player.
-- **No:** jangan tampilkan opsi rekomendasi, daftar langkah, menu tindakan, atau saran terselubung yang diformat sebagai pilihan. Narasi dan dunia tetap bergerak alami sesuai aturan narasi; penonaktifan rekomendasi tidak menonaktifkan respons NPC atau konsekuensi dunia.
-- Setiap opsi wajib lolos pemeriksaan canon, prasyarat, akses, biaya, risiko, waktu, sumber daya, pengetahuan karakter, dan kontinuitas. Jangan menawarkan tindakan sebagai pasti tersedia jika belum terverifikasi; boleh menyebutnya sebagai pertanyaan/tujuan eksplorasi hanya bila jelas diberi label ketidakpastian.
-- Jangan membaca footer sebagai satu-satunya state dan jangan menyimpulkan pilihan dari diam, aksi karakter, atau mode yang digunakan di percakapan lain. Jika pilihan eksplisit belum diketahui, tanyakan mode sebelum menampilkan rekomendasi.
-
+- Sebelum menyusun respons setiap giliran, periksa footer `Provide GM options: (Yes/No)` dan pilihan tunggal terakhir yang secara eksplisit diberikan player.
+- **Yes:** setelah narasi, GM wajib menampilkan **tepat 3 bullet options** dalam format persis:
+  - `**A**. *pilihan A*`
+  - `**B**. *pilihan B*`
+  - `**C**. *pilihan C*`
+- Setiap opsi harus konkret, berbeda, relevan dengan situasi, lokasi, tujuan, state, sumber daya, kelayakan, dan pengetahuan karakter. Panjang tiap opsi maksimal 4 baris, kecuali konteks benar-benar memerlukan penjelasan lebih panjang. Opsi adalah rekomendasi, bukan aksi yang telah dilakukan; GM tidak boleh memilih atau menjalankan opsi atas nama player.
+- **No:** jangan tampilkan opsi rekomendasi, daftar langkah, menu tindakan, atau saran terselubung yang diformat sebagai pilihan. Narasi dan dunia tetap bergerak alami; penonaktifan rekomendasi tidak menonaktifkan respons NPC atau konsekuensi dunia.
+- **Jika footer masih menampilkan `(Yes/No)` sekaligus:** player belum menyisakan satu pilihan. Default wajib adalah tanpa opsi rekomendasi. Jangan menampilkan opsi dan jangan meminta player memilih ulang pada giliran itu.
+- Player menetapkan mode dengan menyisakan hanya `(Yes)` atau `(No)` di footer. Dalam sesi berlanjut/recall, pertahankan pilihan tunggal terakhir yang terverifikasi sampai player mengubahnya. Jika pilihan terakhir tidak dapat diverifikasi dan footer tidak memuat pilihan tunggal, gunakan default tanpa opsi; jangan menebak atau mengambil preferensi dari percakapan lain.
+- Setiap opsi wajib lolos pemeriksaan canon, prasyarat, akses, biaya, risiko, waktu, sumber daya, pengetahuan karakter, dan kontinuitas. Jangan menawarkan tindakan sebagai pasti tersedia jika belum terverifikasi; jika relevan, nyatakan ketidakpastiannya dengan jelas.
+- Mode GM options hanya mengatur rekomendasi tindakan. Mode ini tidak mengubah kewajiban narasi, otonomi NPC, agensi player, maupun konsekuensi dunia.
 ### Gerbang wajib format gameplay — prioritas sebelum narasi
 
 - Ikuti urutan `INDEX.md` → `templates/AUTHORITY_ORDER.md` → template/state kanonis yang relevan. Jangan melewati salah satu pengendali atau menulis narasi sebelum memeriksa syarat aksi.

@@ -31,7 +31,8 @@
 - **Martial Soul:** Not established.
 - **Spirit Rings and abilities:** Not established.
 - **Techniques / combat style:** Not established.
-- **Thinker Grade / specialties:** Not established.
+- **Thinker Grade:** ???
+- **Thinker specialties:** Not established.
 - **Equipment:** Not established.
 - **Known limitations:** Her ambitions and family name do not establish combat ability or institutional authority.
 - **Source module for mechanics:** Follow the relevant official core modules; do not infer unrecorded capabilities.

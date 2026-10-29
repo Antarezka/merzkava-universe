@@ -1,6 +1,22 @@
 # MERZKAVA UNIVERSE — THINKER & FORMULATION SYSTEM
 
-**Status:** Mandatory Thinker progression and certification protocol integrated. Artificial Artifact condition scoring is formally defined in §13. Production success chance remains separate from the quality score; random-resolution procedure, situational success modifiers, numerical training costs, and other unresolved production parameters remain undefined until formally approved.
+**Status:** Mandatory Thinker progression and certification protocol integrated. Artificial Artifact condition scoring is formally defined in §14. Production success chance remains separate from the quality score; random-resolution procedure, situational success modifiers, numerical training costs, and other unresolved production parameters remain undefined until formally approved.
+
+
+## MANDATORY THINKER PATH — SINGLE CANONICAL ROUTE
+
+**This path is binding for every player character and NPC.** `core/THINKER_AND_FORMULATION.md` is the single authority for Thinker progression, production chances, Artificial Artifact condition, and related maker requirements. Supporting files may explain institutional administration, regional lore, or catalogued artifacts, but may not create alternate progression routes or override this module.
+
+1. **Foundational instruction:** learn Thinker theory from a real, qualified teacher or recognized educational source that genuinely teaches it. Self-study alone, talent, wealth, cultivation, possession of artifacts, or narrative declaration cannot replace instruction.
+2. **Mandatory focus training:** complete the assessed stages in order: Pemula → Initiate → Beginner → Ordinary → Ahli → Expert. A stage is awarded only after the actual teacher/institution assesses the student's demonstrated progress.
+3. **Apprentice gate:** passing the required Initiate assessment grants eligibility only. Register for and pass the official Apprentice Examination using the required affiliation-marked Engraver's Apprentice; passing grants Thinker Grade 1.
+4. **Every Grade advancement:** register through the Tianhai Thinker Institute or a formally recognized examination arrangement, satisfy all established eligibility requirements, pay only established fees, and pass the examination for the target Grade. Training, eligibility, recommendations, or production alone never grant a Grade.
+5. **Grade 7–10 tool gate:** before registering, personally design and establish authorship of the Formation Engraver blueprint; a qualified forger physically realizes that exact design; the candidate must own and present the resulting tool for verification. No substitution or waiver.
+6. **Grade 8–10 artifact gates:** verify the exact candidate-made, condition, Tier, type, series-code, and current-ownership requirements below. Grade 10 also requires genuine senior recognition and the final examination. Eligibility is not a pass.
+7. **Production and condition:** resolve production chance under §5 and the authorized resolution procedure. Only a successfully completed Artificial Artifact receives the condition score calculated under §14. Ordinary artifacts, Relics, and Ancient Artifacts do not gain Artificial Artifact production history.
+8. **Time, Satiety, provenance, and records:** apply the official time, Satiety, economy, ownership, anti-cheat, and event/state procedures. Keep evidence for education, stage assessments, examinations, Grade changes, tool-blueprint authorship, each Artificial Artifact, its series code and condition, recognition, and institutional contribution points.
+
+**Unspecified values stay unspecified.** Do not invent training duration or Satiety costs, examination fees, Grade 2–6 rubrics, success-roll mechanics, situational modifiers, production failure costs, contribution-point amounts, or other numerical values that have not been approved. If a required rule is unresolved, state the limitation and do not simulate a fictional official roll or grant an unearned result.
 
 ## 1. THINKER: INDEPENDENT PROGRESSION
 
@@ -140,7 +156,7 @@ For each attempt, the GM must:
 
 Possible outcomes include success and failure. Material damage, energy consumption, and additional consequences may be applied only when supported by official mechanics.
 
-**Unresolved mechanic:** a numeric conversion formula for situational factors and talents affecting the *success chance*, and a formal random-resolution method, have not yet been established. The Artificial Artifact condition score is a separate mechanic defined in §13 and must not be used as the production success chance. Until success-resolution rules are approved, the GM must not invent percentage modifiers or pretend a random roll occurred. If a gameplay attempt requires an unresolved method, state the limitation and ask the owner/player for the chosen official resolution rule, or resolve only what the existing rules actually support.
+**Unresolved mechanic:** a numeric conversion formula for situational factors and talents affecting the *success chance*, and a formal random-resolution method, have not yet been established. The Artificial Artifact condition score is a separate mechanic defined in §14 and must not be used as the production success chance. Until success-resolution rules are approved, the GM must not invent percentage modifiers or pretend a random roll occurred. If a gameplay attempt requires an unresolved method, state the limitation and ask the owner/player for the chosen official resolution rule, or resolve only what the existing rules actually support.
 
 ## 8. FUTURE FORMULATION DEVELOPMENT
 
@@ -207,14 +223,11 @@ The Formation Engraver is a specialized precision tool used to carve intricate f
 - The tool is expensive because of the difficulty of manufacturing it and the precision required. Exact prices, quality grades, durability, and repair costs remain `???` unless established elsewhere.
 - An ordinary blacksmith without the required Spirit Realm and forging ability cannot be assumed capable of producing one.
 
-### 12.4 Becoming a Thinker
-People who want to pursue the Thinker path commonly seek formal or recognized routes to prove their aptitude and gain access to instruction, tools, and professional networks. Possible routes include:
-- Applying to an academy or institution that teaches relevant knowledge.
-- Entering a dojo or specialist organization with a recognized Thinker or formulation tradition.
-- Receiving a recommendation from an established Thinker, mentor, or influential contact.
-- Other routes may exist if established through canon or recorded events.
+### 12.4 Entry into the Mandatory Thinker Path
 
-These are common pathways, not a universal requirement that every Thinker must follow the same route. Admission standards, examinations, fees, certification, and institutional hierarchies remain undefined unless documented. A recommendation may provide access to a trial or opportunity; it does not automatically prove competence or grant Thinker Grade.
+An academy, dojo, clan, specialist organization, or qualified mentor may provide access to the legitimate foundational instruction required by §13. Recommendation and admission are access mechanisms only; they do not replace the mandatory training stages, official examinations, eligibility requirements, or certification.
+
+Every aspiring Thinker must complete the same binding progression route in §13. Institutions may differ in teaching methods, resources, fees, availability, and mentoring, but no institution or NPC may waive the mandatory gates unless a future explicit canon amendment authorizes a specific exception.
 
 ### 12.5 GM Enforcement
 - Do not assume an aspiring Thinker already owns a Formation Engraver.
@@ -225,11 +238,11 @@ These are common pathways, not a universal requirement that every Thinker must f
 - Do not invent exact prices, dimensions, quality tiers, production times, or special effects before they are defined.
 
 
-## 10. MANDATORY THINKER EDUCATION, CERTIFICATION, AND GRADE PROGRESSION
+## 13. MANDATORY THINKER EDUCATION, CERTIFICATION, AND GRADE PROGRESSION
 
 **Status: MANDATORY CANON RULE.** This section governs all players and NPCs and must be applied together with the official formulation mechanics, institute rules, time rules, Satiety rules, economy, and repository authority hierarchy.
 
-### 10.1 Absolute progression gate
+### 14.1 Absolute progression gate
 
 - Thinker knowledge and formulation mastery cannot be acquired through self-declaration, spontaneous intuition, unexplained talent, or independent practice without legitimate instruction.
 - Every aspiring Thinker must first learn foundational theory from an actual qualified teacher, dojo, clan, institution, specialist organization, or other recognized educational source. The source must genuinely teach the knowledge claimed.
@@ -237,7 +250,7 @@ These are common pathways, not a universal requirement that every Thinker must f
 - Every official Grade requires the relevant examination administered or recognized by the Tianhai Thinker Institute. Passing the examination for the target Grade grants that official Grade; registration, training, artifact production, recommendations, and eligibility alone do not.
 - These requirements apply equally to players and NPCs. Existing NPC credentials must be supported by canon or valid recorded history.
 
-### 10.2 Mandatory mental-focus training stages
+### 14.2 Mandatory mental-focus training stages
 
 After learning foundational theory, the student must undergo mental endurance, concentration, and focus training designed and assessed by their actual teacher or institution. The mandatory order is:
 
@@ -252,7 +265,7 @@ After learning foundational theory, the student must undergo mental endurance, c
 
 Passing the required Initiate standard grants eligibility to attempt the Apprentice Examination. It does not itself confer Thinker Grade 1 or guarantee exam success.
 
-### 10.3 Apprentice Examination and Grade 1
+### 14.3 Apprentice Examination and Grade 1
 
 - The Tianhai Thinker Institute or a formally recognized examination arrangement administers the Apprentice Examination.
 - Candidates use an Engraver's Apprentice, an examination tool bearing a pattern, emblem, or identifying mark associated with the candidate's legitimate educational origin or sponsoring tradition.
@@ -260,7 +273,7 @@ Passing the required Initiate standard grants eligibility to attempt the Apprent
 - Candidates attempt Artificial Artifact production, normally in the Tier 1–3 range as the actual examination permits. Assessment covers learned theory, formulation, engraving precision, focus, endurance, materials, tool suitability, time, and valid production mechanics.
 - A candidate who passes the Apprentice Examination receives official Thinker Grade 1. A candidate who fails receives no Grade 1 certification; any retake follows established institute rules.
 
-### 10.4 Grade 1–10 official advancement
+### 14.4 Grade 1–10 official advancement
 
 For every advancement, the candidate must register with the appropriate institute or recognized branch, pay the applicable established registration fee, satisfy all eligibility requirements, take the examination for the target Grade, and pass it. Passing the Grade N examination grants official Thinker Grade N.
 
@@ -268,13 +281,13 @@ Examinations become progressively more demanding in accordance with the target G
 
 Upon officially obtaining Grade 1, a Thinker becomes eligible to obtain a personal engraver through a qualified teacher or by purchasing one from the institute, subject to availability and the applicable price. An ordinary purchased or borrowed engraver does not satisfy the personal-design prerequisite for Grade 7 and above.
 
-### 10.5 Mandatory personal-designed engraver for Grade 7–10
+### 14.5 Mandatory personal-designed engraver for Grade 7–10
 
 Before registering for any examination targeting Grade 7, 8, 9, or 10, the candidate must personally design the engraver blueprint, establish authorship, have a qualified forger/toolmaker physically realize that exact design, own the resulting engraver, and make it available for verification. **The candidate's own blueprint is an absolute, non-waivable prerequisite.** Buying a completed engraver, borrowing a teacher's tool, or commissioning a tool based on someone else's blueprint does not qualify.
 
 The maker must satisfy applicable canonical requirements for engraver manufacture, including Spirit Realm 5 or above and relevant forging ability where that established rule applies. The maker realizes the candidate's design; this does not transfer blueprint authorship.
 
-### 10.6 Embedded series codes, authorship, and ownership
+### 14.6 Embedded series codes, authorship, and ownership
 
 Every Artificial Artifact has an embedded series code associated with its internal construction and identity. Artifacts may look alike or work similarly while having different internal structures and series codes. Appearance or function alone does not prove identity, authorship, or production history.
 
@@ -284,7 +297,7 @@ Any artifact counted toward a production prerequisite must have been genuinely m
 
 For every qualifying artifact, verify the maker, production history, series code, Tier, condition, required type, and current ownership. Artifact Tier, condition, type, authorship, and ownership are distinct facts.
 
-### 10.7 Mandatory artifact condition scale
+### 14.7 Mandatory artifact condition scale
 
 The five official condition labels, from lowest to highest, are:
 
@@ -296,7 +309,7 @@ The five official condition labels, from lowest to highest, are:
 
 Do not upgrade or infer condition from Tier, rarity, appearance, value, or owner's Grade. Use the recorded or properly assessed condition.
 
-### 10.8 Grade 7–10 eligibility gates
+### 14.8 Grade 7–10 eligibility gates
 
 These are prerequisites to register for the relevant examination, not automatic promotions.
 
@@ -311,7 +324,7 @@ These are prerequisites to register for the relevant examination, not automatic 
 
 **Grade 10:** The candidate must meet the personal-designed engraver requirement and personally produce and still own at least 10 Tier 9 Artificial Artifacts with condition Origin. All 10 must be of the weaponry type. Utility artifacts, tools, accessories, and all other non-weaponry types do not count, regardless of their Tier, condition, rarity, or value. The candidate must also satisfy the recognition and final-examination requirements below.
 
-### 10.9 Thinker tokens and Grade 10 recognition
+### 14.9 Thinker tokens and Grade 10 recognition
 
 A Thinker token is a professional identity credential, comparable in social function to a formal business card. It identifies its holder and can evidence an authorized professional relationship. It is not merely a collectible, an ordinary recommendation, or an item that can be purchased to replace trust.
 
@@ -329,7 +342,7 @@ Merzkava has **no more than five Thinker Grade 10 individuals worldwide**. Prese
 
 After satisfying artifact and recognition prerequisites, the candidate must register for and pass the official Grade 10 examination. Eligibility is not a guarantee of success.
 
-### 10.10 Institutional contribution points
+### 14.10 Institutional contribution points
 
 When a student passes an official Thinker examination, the institution or educational organization responsible for their legitimate training receives contribution points from the central institute according to the applicable contribution rules. These points belong to the institution, not automatically to the student's personal Wallet.
 
@@ -337,7 +350,7 @@ Eligible institutions may exchange points for approved scarce resources, includi
 
 Contribution points do not directly increase a student's Grade, guarantee examination success, or waive any eligibility requirement.
 
-### 10.11 Time, Satiety, and production resolution
+### 14.11 Time, Satiety, and production resolution
 
 Every production attempt must check the Thinker's verified Grade, target Tier and type, formulation, baseline success chance, materials, patterns, tool suitability, focus, mental ability, stamina, Satiety, available time, applicable action-duration limit, interruptions, and other supported conditions. Apply only officially authorized modifiers.
 
@@ -345,7 +358,7 @@ Follow the official time and Satiety modules. Ordinary actions may advance no mo
 
 The exact time and Satiety costs for the training stages and higher-Tier production are not established by this protocol. Do not turn provisional examples or suggested ranges into mandatory numerical rules until formally approved and reconciled with the official Satiety system. Do not invent Tier 2–10 multipliers, costs, thresholds, or duration values.
 
-### 10.12 Mandatory GM enforcement and records
+### 14.12 Mandatory GM enforcement and records
 
 - No self-certification, spontaneous mastery, or unearned Thinker Grade.
 - No skipped education, training assessment, examination, blueprint requirement, artifact prerequisite, or token recognition.
@@ -360,18 +373,18 @@ The exact time and Satiety costs for the training stages and higher-Tier product
 This protocol is mandatory and must be read together with the Tianhai Thinker Institute module, the official Satiety and time rules, the economy system, and the repository's authority and anti-cheat gates.
 
 
-## 13. ARTIFICIAL ARTIFACT CONDITION FORMULA — MANDATORY
+## 14. ARTIFICIAL ARTIFACT CONDITION FORMULA — MANDATORY
 
 **Scope:** This formula determines the *condition* of a successfully completed **Artificial Artifact**. It does not determine whether production succeeds. First resolve production using the official Thinker Grade × target Tier success-chance matrix and an authorized resolution method. Only a completed artifact receives a condition score. A failed or incomplete attempt does not receive a condition label; apply only consequences established by official rules.
 
-### 13.1 Ordinary artifacts and Artificial Artifacts are distinct
+### 14.1 Ordinary artifacts and Artificial Artifacts are distinct
 
 - This formula applies only to artifacts manufactured as **Artificial Artifacts** through Thinker formulation and production.
 - Ordinary/non-artificial objects or artifacts do not gain Artificial Artifact production history, Artificial Artifact experience points, or an Artificial Artifact condition score merely because they are valuable or called an artifact in narration.
 - Relics and Ancient Artifacts retain their separate origins defined in §2. Their condition must be established by the applicable official source or a properly recorded assessment; do not retroactively apply this manufacturing formula to them.
 - A production attempt's success chance and its completed product's condition score are separate values. A 100% success chance does not guarantee Origin condition.
 
-### 13.2 Formula
+### 14.2 Formula
 
 Calculate the final **Condition Score (CS)** as:
 
@@ -392,7 +405,7 @@ Where:
 
 Use full precision during calculation. Round only the final CS to two decimal places for display. For condition classification, compare the unrounded CS to the official thresholds. Display formula-derived final values in the required format: `****<final value>****`.
 
-### 13.3 Tier efficiency multiplier
+### 14.3 Tier efficiency multiplier
 
 | Target Artificial Artifact Tier | M |
 |---:|---:|
@@ -405,7 +418,7 @@ Use full precision during calculation. Round only the final CS to two decimal pl
 
 The multiplier reduces how much readiness, skill, experience, and consistency can offset the difficulty of higher-Tier production. It does not alter the Thinker Grade success-chance matrix or permit production above the normal Tier ceiling.
 
-### 13.4 Maker-point assessment
+### 14.4 Maker-point assessment
 
 **Preparation/readiness (P), maximum 20**
 
@@ -457,7 +470,7 @@ Only distinct Artificial Artifacts actually completed by the character and suppo
 
 Consistency must be based on recorded outcomes and comparable production difficulty. A long record of Tier 1 products alone does not prove high consistency for Tier 9 or Tier 10 work. Do not award points based only on self-declaration, elapsed time, reputation, wealth, or Grade.
 
-### 13.5 Environmental penalty (L)
+### 14.5 Environmental penalty (L)
 
 | Actual production environment | L |
 |---|---:|
@@ -470,7 +483,7 @@ Consistency must be based on recorded outcomes and comparable production difficu
 
 Assess the actual environment during the relevant production, not merely the location's name or reputation. A clean, quiet, stable workspace reduces the penalty; noise, interruptions, poor hygiene, and instability increase it. Do not double-penalize the same event through multiple mechanics unless separate effects are explicitly established.
 
-### 13.6 Final condition thresholds
+### 14.6 Final condition thresholds
 
 | Final Condition Score | Official condition |
 |---:|---|
@@ -482,14 +495,14 @@ Assess the actual environment during the relevant production, not merely the loc
 
 **Origin requires a final CS of at least 97%.** A high Tier, rarity, market value, visual appearance, owner reputation, or Thinker Grade cannot independently upgrade condition. Origin is a condition classification only; it does not automatically grant additional functions, power, durability, or effects not defined elsewhere.
 
-### 13.7 Mandatory resolution and recordkeeping
+### 14.7 Mandatory resolution and recordkeeping
 
 For every successfully completed Artificial Artifact:
 
 1. Verify the maker, target Tier, artifact type, formulation, materials, tools, and production record.
 2. Determine and record `P`, `K`, `J`, `C`, `L`, and the Tier multiplier `M), citing in-world evidence or existing records for each assessment.
-3. Calculate CS with the formula in §13.2; do not substitute intuition or a narrative adjective for the calculation.
-4. Assign the condition solely from the thresholds in §13.6.
+3. Calculate CS with the formula in §14.2; do not substitute intuition or a narrative adjective for the calculation.
+4. Assign the condition solely from the thresholds in §14.6.
 5. Record the result alongside the artifact's identity/series code, maker, Tier, type, date/event, condition, and current ownership under the repository's state/event procedure.
 6. Keep the production success chance and the condition score as separate recorded values.
 

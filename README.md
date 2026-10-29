@@ -197,7 +197,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![NIGHTLY](assets/nightly-version.svg?v=7)
 
-<sub><span style="color:#D4AF37"><strong>v3.0.17</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v3.0.19</strong></span></sub>
 
 </td>
 </tr>
@@ -218,8 +218,8 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
   Added a prominent full-width world map with a full-size image link and a clear note that official geography documents remain authoritative.
 
 - ✦ **Anti-Cheat Hard Gate — Highest-Priority Enforcement Integrated**
-  Hash: ``9fcad19`` | Ver: ``Nightly-v3.0.18`` · ``Stable-v3.0.16``
-  Added mandatory WARNING-before-reprimand, rejection and rollback of invalid claims, recorded escalation, contextual NPC reactions, and permanent death without emergency rescue on the second confirmed violation. Aligned bootstrap, authority, gameplay, narrative, time, cultivation, and Awakening rules.
+  Hash: ``e1c0ab4`` | Ver: ``Nightly-v3.0.19`` · ``Stable-v3.0.16``
+  Added mandatory WARNING-before-reprimand, rollback, and recorded escalation. The first confirmed violation now requires very negative, natural reactions from all nearby NPCs who know of it; the second confirmed violation causes permanent death without plot armor or emergency rescue. Aligned authority, gameplay, narrative, time, cultivation, and Awakening rules.
 
 ༺━━━━━━━━༻
 

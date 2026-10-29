@@ -17,7 +17,7 @@ File ini adalah **pengendali keputusan GM**, bukan ensiklopedia dunia. Bootstrap
 
 ### Canonical label for unidentified items
 
-Across all player-facing gameplay output and profile/item records, whenever an item's identity, exact type, or relevant details have not yet been established by canon or the GM, write exactly: ``Unknown`` **membutuhkan appraisal untuk lebih pastinya**. Apply this consistently to Inventory, Equipment, loot, item descriptions, and transaction records. Do not substitute `???`, `Belum ditetapkan`, or alternative wording for the unidentified item itself; do not infer its tier, price, scarcity, effects, danger, or hidden function. Keep the item's unknown facts unresolved until reliable evidence or appraisal establishes them. Once appraised, update only the facts actually supported by the ruling. This item-specific rule does not change the separate official defaults for character fields, Martial Soul, Spirit Ring cooldown, or other non-item data.
+Across all player-facing gameplay output and profile/item records, whenever an item's identity, exact type, or relevant details have not yet been established by canon or the GM, write exactly: `*Unknown* *membutuhkan appraisal untuk lebih pastinya*`. Apply this consistently to Inventory, Equipment, loot, item descriptions, and transaction records. Do not substitute `???`, `Belum ditetapkan`, or alternative wording for the unidentified item itself; do not infer its tier, price, scarcity, effects, danger, or hidden function. Keep the item's unknown facts unresolved until reliable evidence or appraisal establishes them. Once appraised, update only the facts actually supported by the ruling. This item-specific rule does not change the separate official defaults for character fields, Martial Soul, Spirit Ring cooldown, or other non-item data.
 
 
 ### HARD GATE GM OPTIONS — MODE, KONTINUITAS, DAN VALIDASI
@@ -114,7 +114,7 @@ Sebelum setiap percobaan penyerapan atau breakthrough, periksa `core/SPIRIT_RING
 
 - Mortal hanya dapat menyerap ring pertama setelah Martial Soul Awakening dan bila ring tersedia melalui proses sah.
 - Untuk ring berikutnya, semua syarat berlaku terpisah: bottleneck/Sync, `Day left = 0`, jeda minimum, item wajib, ring tersedia, toleransi tubuh, dan ketentuan resmi lain.
-- Status dan field mengikuti pemetaan kanonis `templates/CHARACTER_PROFILE_TEMPLATE.md` secara persis. Format token status sebagai label klasifikasi ``<status>``. Untuk Mortal yang belum menjalani Awakening, formatnya wajib Spirit Ring Absorption: ``not eligible yet`` | ??? Day left—bukan `Tidak ada | 0 Day left`. Rumus `Day left` hanya dari Time Rules; interval minimum hanya dari Spirit Beast Rules.
+- Status dan field mengikuti pemetaan kanonis `templates/CHARACTER_PROFILE_TEMPLATE.md` secara persis. Format token status sebagai label klasifikasi ``**<status>**``. Untuk Mortal yang belum menjalani Awakening, formatnya wajib Spirit Ring Absorption: ``**not eligible yet**`` | ??? Day left—bukan `Tidak ada | 0 Day left`. Rumus `Day left` hanya dari Time Rules; interval minimum hanya dari Spirit Beast Rules.
 - Kultivasi tidak mengurangi `Day left`. Status eligible bukan jaminan ring tersedia atau penyerapan berhasil.
 - Jika belum eligible, jangan memberi ring, slot, Qi, atau kenaikan Spirit Realm. Jika karakter memaksakan proses, gunakan hanya konsekuensi yang didukung rumus resmi; jangan mengarang angka, cedera, atau cacat permanen.
 
@@ -177,26 +177,13 @@ Setiap respons gameplay, termasuk giliran pertama, recall, dialog singkat, dan g
 
 `LEDGER LOG` boleh tidak ditampilkan hanya jika tidak ada perubahan state yang memenuhi aturan ledger. Pengecualian ini tidak berlaku pada bagan profil atau bagian visual lain. Jangan mengganti bagan dengan ringkasan inline, tabel, daftar, atau narasi saja. Isi semua field dari state yang berlaku; jika Thinker Grade personal belum terverifikasi, gunakan persis ``???``; T.Focus tetap memakai status kanonis tersendiri. Untuk field lain, gunakan default resmi dari `templates/CHARACTER_PROFILE_TEMPLATE.md` tanpa menghapus field.
 
-Sebelum mengirim, lakukan pemeriksaan akhir: (1) identitas Hash/Ver akurat dan tampil sebelum header waktu; (2) header waktu lengkap; (2) semua bagan dan field muncul dalam urutan template; (3) `Spirit Ring Absorption` cocok tepat dengan status tahap kanonis dan selalu memakai format label status ``<status>`` diikuti `| Day left`; untuk Mortal tanpa Awakening, gunakan ``not eligible yet`` | ??? Day left; (4) Wallet memakai urutan denominasi persis `xc | xs | xg | zj | az` dengan nominal yang sama seperti state sumber—jangan mengurutkan berdasarkan nilai atau menyalin urutan keliru dari respons sebelumnya; (5) footer ada dan tepat; (6) sumber world yang dipanggil telah ditelusuri ke dependensi canon relevan; (7) tidak ada rahasia GM yang ditulis sebagai pengetahuan karakter. Jika satu syarat gagal, susun ulang respons sebelum mengirim.
+Sebelum mengirim, lakukan pemeriksaan akhir: (1) identitas Hash/Ver akurat dan tampil sebelum header waktu; (2) header waktu lengkap; (2) semua bagan dan field muncul dalam urutan template; (3) `Spirit Ring Absorption` cocok tepat dengan status tahap kanonis dan selalu memakai format label status ``**<status>**`` diikuti `| Day left`; untuk Mortal tanpa Awakening, gunakan ``**not eligible yet**`` | ??? Day left; (4) Wallet memakai urutan denominasi persis `xc | xs | xg | zj | az` dengan nominal yang sama seperti state sumber—jangan mengurutkan berdasarkan nilai atau menyalin urutan keliru dari respons sebelumnya; (5) footer ada dan tepat; (6) sumber world yang dipanggil telah ditelusuri ke dependensi canon relevan; (7) tidak ada rahasia GM yang ditulis sebagai pengetahuan karakter. Jika satu syarat gagal, susun ulang respons sebelum mengirim.
 
 Footer kanonis berakhir dengan:
 
 `•••_@GM_Authority: Tentukan Aksimu (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧`
 
 Jangan menampilkan laporan bootstrap, daftar file, atau menu pilihan sebagai pengganti adegan gameplay.
-
-## HARD GATE: Jangan menyimpang dari template gameplay
-
-Setelah bootstrap dan validasi sumber berhasil, trigger gameplay harus langsung menghasilkan satu giliran gameplay lengkap; bukan laporan bootstrap, bukan ringkasan karakter, dan bukan prosa pembuka bebas.
-
-- Gunakan `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` sebagai bentuk respons wajib dari baris Hash/Ver sampai footer. Semua bagan profil dan inventaris tetap ditampilkan setiap giliran, termasuk saat tidak ada perubahan state. Hanya LEDGER LOG dan opsi GM yang boleh dihilangkan sesuai kondisi yang ditetapkan template.
-- Jangan memulai dengan pengantar meta tentang telah membaca/menyerap seluruh dokumen. Jangan mengganti adegan dengan pertanyaan “bagaimana memulai?” atau tawaran untuk memilihkan respons NPC. Akhiri hanya dengan footer kanonis.
-- Jangan menulis tindakan, ucapan, niat, atau pikiran karakter pemain sebagai orang pertama atas inisiatif GM. Narasikan situasi, konsekuensi yang sah, serta tindakan/ucapan NPC; tunggu pilihan karakter dari pemain.
-- Jangan menambahkan fasilitas, alat, fungsi Artifak Buatan, biaya, aroma, kemampuan, atau fakta tempat yang belum didukung canon/konteks. Latar karakter boleh menjadi dasar narasi, tetapi tidak mengizinkan retcon atau penambahan asal-usul.
-- Jika footer masih menunjukkan `Provide GM options: (Yes/No)`, default tanpa opsi rekomendasi. Jangan meminta player memilih mode ulang di respons itu.
-- Perbedaan antara snapshot sesi baru dan sesi berlanjut harus dijaga. Untuk sesi baru, baca profil awal terdaftar; untuk sesi berlanjut, jangan reset atau menyalin ulang semua latar sebagai pembukaan. Lanjutkan dari adegan dan state terakhir yang sah.
-
-Sebelum mengirim, lakukan pemeriksaan visual eksplisit: (1) Hash dan Ver terverifikasi di paling atas; (2) header waktu lengkap; (3) narasi berkesinambungan dan tidak mengendalikan karakter pemain; (4) empat bagian state hadir dalam urutan template; (5) footer persis; (6) tidak ada pengantar meta atau pertanyaan penutup di luar footer. Jika satu saja gagal, revisi sebelum mengirim.
 
 ## 8. NPC decisions, living scenes, and continuity
 

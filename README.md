@@ -211,9 +211,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ---
 
-- ✦ **Restore INDEX & Authority Order**
-  Hash: ``abd9ca1`` | Ver: ``Nightly-v4.0.8`` · ``Stable-v4.0.1``
-  Restores both files to the exact versions from snapshot `e395735`; gameplay response-template changes remain untouched.
+- ✦ **Authority Hierarchy & Living Merzkava Narrative**
+  Hash: ``c271cf4`` | Ver: ``Nightly-v4.0.9`` · ``Stable-v4.0.1``
+  Tightens GM decision precedence and makes Narrative Dynamics the single operational narrative gate: everyday Merzkava life, ahli Spirit Realm, Thinker institutes, and canon-bound power scaling are mandatory in context without forced exposition.
 
 - ✦ **Gameplay Response Template · Merzkava-First Narrative**
   Hash: ``24caaf2`` | Ver: ``Nightly-v4.0.7`` · ``Stable-v4.0.1``
@@ -231,9 +231,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
   Hash: ``a9548b2`` | Ver: ``Nightly-v4.0.4`` · ``Stable-v4.0.1``
   Aligns classification labels across INDEX, Authority Order, and the gameplay response template; appraisal explanations remain outside the label.
 
-- ✦ **Mechanics-Driven Narrative Integration**
-  Hash: ``0ec920d`` | Ver: ``Nightly-v4.0.3`` · ``Stable-v4.0.1``
-  Strengthens causal scene-level use of cultivation, Spirit Realm/PowerScale, Martial Soul, Spirit Ring, Thinker progression, personal-blueprint engravers, and Artificial Artifact provenance/series codes without forcing every topic into every scene.
+
 </div>
 
 

@@ -185,7 +185,30 @@ This is a narrative encounter table, not a guarantee of contact or recruitment. 
 - Do not reroll solely because the result is inconvenient. A check may be skipped when the scene has no genuine encounter opportunity or a confirmed event already determines who is present.
 - This procedure does not replace the separate ambush check or emergency rescue check in `gameplay/TRAVEL_ENCOUNTER_AMBUSH_RESCUE.md`.
 
-### 5.3 Making contact meaningful
+### 5.3 Making Contact Meaningful: Wandering Teachers Are Hard to Recruit
+
+**A chance encounter is not an invitation to become a teacher.** Most wandering practitioners value their independence, conceal their capabilities, protect their methods, or have urgent personal aims. They are deliberately harder to recruit than an ordinary academy tutor or an organization that publicly accepts students. Even a respectful request can be refused without explanation.
+
+Apply these rules whenever a player tries to recruit, pressure, corner, threaten, deceive, follow persistently, or force a wandering practitioner to teach:
+
+1. **Refusal is a valid and common outcome.** The wanderer may ignore the request, decline briefly, conceal their identity or expertise, end the conversation, leave, or refuse all future contact. Do not convert every meeting into a recruitment opportunity.
+2. **Read the situation and the NPC.** Resolve the practitioner's temperament, motives, risk tolerance, current task, local laws, power gap, witnesses, escape routes, and what the player actually did. A teacher who is busy, secretive, suspicious, traumatized, hunted, or protecting a method may react very differently from a sociable traveller.
+3. **No guaranteed persuasion.** Repeated requests, gifts, payment, flattery, high player status, or a successful social roll do not automatically create trust or agreement. Payment only helps if the practitioner is willing to sell that service. Trust must be earned through consistent conduct and meaningful interaction.
+4. **Coercion can have severe, lasting consequences.** If the player threatens, restrains, attacks, blackmails, stalks, or otherwise forces the wanderer, resolve the response according to the NPC's actual capability, personality, resources, and surroundings. Plausible outcomes include the practitioner escaping, injuring the player, setting a trap, deceiving the player with false or incomplete instruction, taking payment under false pretences, disabling a limb or otherwise causing a lasting injury, calling allies or local authorities, exposing the player's conduct, or becoming a persistent enemy. A severe response—including permanent disability or death—is possible only where the established capability, intent, and mechanics support it; it is never an automatic punishment.
+5. **Deception is not free progress.** A wanderer may deliberately teach an incorrect method, omit a critical warning, supply a misleading map or manual, or accept payment without delivering the promised service. Whether the player detects the deception depends on available evidence, expertise, checks, and official mechanics. Never secretly award valid mastery for a fraudulent lesson.
+6. **Consequences must be resolved and recorded.** Apply official combat, HP, injury, time, economy, law, and ledger rules. Record injuries, lost items, debts, evidence, witnesses, reputation, hostile relationships, and lasting disability when actually established. Do not announce a severe consequence and then leave its mechanical effects untracked.
+7. **Do not force the NPC to win or lose.** A powerful wanderer may choose to withdraw rather than fight; a weaker one may escape through planning or allies. Neither a guaranteed player victory nor an omnipotent teacher is permitted. Keep the NPC's knowledge, capabilities, resources, and motives consistent.
+8. **The player retains agency.** Present the NPC's observable response and resulting situation, then allow the player to choose their next action. Never decide that the player willingly accepts a deal, confesses, joins a faction, or submits to training.
+
+**Escalation principle:** a polite first request usually risks refusal, not violence. Persistent harassment increases distrust; threats or coercion may trigger immediate defensive action; physical restraint or an attempted assault can provoke serious retaliation. Calibrate the response to the actual act and context—do not punish a player merely for asking once, and do not soften credible consequences just to preserve a convenient teaching route.
+
+### 5.4 Making Contact Meaningful
+
+Finding a teacher is only the start. Resolve whether the teacher notices the player, chooses to speak, is willing and able to teach, has time and materials, and can safely demonstrate the subject. Instruction may require payment, work, travel, trust, an assessment, or a reciprocal exchange. Costs must use `core/10_ECONOMY_SYSTEM.md`; training time and Satiety must follow the official mechanics.
+
+The teacher may offer only a first lesson, a basic manual, a referral, a practice task, or a chance to observe. The player can decline, leave, negotiate, or seek another route. No NPC may decide that the player's character accepts an apprenticeship or joins a faction.
+
+
 
 Finding a teacher is only the start. Resolve whether the teacher notices the player, chooses to speak, is willing and able to teach, has time and materials, and can safely demonstrate the subject. Instruction may require payment, work, travel, trust, an assessment, or a reciprocal exchange. Costs must use `core/10_ECONOMY_SYSTEM.md`; training time and Satiety must follow the official mechanics.
 

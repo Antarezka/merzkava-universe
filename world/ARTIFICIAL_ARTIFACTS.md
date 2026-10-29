@@ -11,7 +11,7 @@ An artifact's tier is not a Spirit Realm or Spirit Ring tier. A high tier does n
 
 ### Unidentified Artificial Artifacts
 
-When an Artificial Artifact's identity or exact item details have not yet been established by canon or the GM, use the exact player-facing label `*Unknown* *membutuhkan appraisal untuk lebih pastinya*` in Inventory, Equipment, loot, and item descriptions. Do not replace it with `???` or invent a model, creator, function, tier, value, or provenance. Appraisal may establish only the facts supported by its actual findings; hidden functions remain hidden until legitimately discovered.
+When an Artificial Artifact's identity or exact item details have not yet been established by canon or the GM, use the exact player-facing label ``Unknown`` **membutuhkan appraisal untuk lebih pastinya** in Inventory, Equipment, loot, and item descriptions. Do not replace it with `???` or invent a model, creator, function, tier, value, or provenance. Appraisal may establish only the facts supported by its actual findings; hidden functions remain hidden until legitimately discovered.
 
 ## 2. Established Technology Context
 
@@ -84,7 +84,7 @@ For the authoritative requirements, limitations, and GM rules, see `core/THINKER
 ## 6. Artifact Entry Template
 
 ```markdown
-### AAF-XXX — [Known name, or `*Unknown* *membutuhkan appraisal untuk lebih pastinya*` if unidentified]
+### AAF-XXX — [Known name, or ``Unknown`` **membutuhkan appraisal untuk lebih pastinya** if unidentified]
 - **Tier:** [Official tier or ???]
 - **Type / function:** [Documented function]
 - **Creator / Thinker:** [Known name or ???]

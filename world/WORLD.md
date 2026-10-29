@@ -648,7 +648,7 @@ Namun, netralitas tersebut bukan jaminan keselamatan mutlak.
 - Racun, penyakit, kerusakan meridian, dan efek samping teknik kultivasi dapat memerlukan penanganan khusus.
 - Tabib tetap dapat menjadi sasaran pemerasan, penculikan, konflik politik, atau permusuhan pribadi.
 
-Kehadiran Medicine Hall Society tidak menghapus risiko kematian dan tidak menjamin setiap karakter dapat memperoleh pengobatan yang dibutuhkan.
+Kehadiran Medicine Hall Society tidak menghapus risiko kematian dan tidak menjamin setiap karakter dapat memperoleh pengobatan yang dibutuhkan. Keberhasilan perawatan dan progres cedera mengikuti `core/INJURY_SYSTEM.md`; perubahan HP hanya mengikuti `core/HP_SYSTEM.md`. Status sebagai anggota Society, tabib senior, atau tabib keliling bukan bonus penyembuhan otomatis. Penyelamatan darurat mengikuti `gameplay/TRAVEL_ENCOUNTER_AMBUSH_RESCUE.md`, dengan pengecualian final untuk kematian akibat sanksi anti-cheat kedua di `templates/ANTI_CHEAT_HARD_GATE.md`.
 
 ---
 

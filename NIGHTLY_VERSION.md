@@ -1,6 +1,6 @@
 # Merzkava Universe — Nightly Version
 
-Current Nightly version: `v3.0.37`
+Current Nightly version: `v4.0.1`
 
 Nightly `v3.0.37` standardizes classification labels to double asterisks inside double backticks, reducing single-asterisk styling while keeping label boundaries explicit across gameplay, character profiles, Thinker mechanics, and Martial Soul awakening.
 

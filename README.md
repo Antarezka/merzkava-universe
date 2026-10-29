@@ -195,9 +195,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" alt="GitHub" />
 
-![NIGHTLY](assets/nightly-version.svg?v=9)
+![NIGHTLY](assets/nightly-version.svg?v=10)
 
-<sub><span style="color:#D4AF37"><strong>v3.0.21</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v3.0.22</strong></span></sub>
 
 </td>
 </tr>
@@ -211,9 +211,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ---
 
-- ✦ **GM Authority × Ordo Suci Tianming — Jurisdiction Boundaries Clarified**
-  Hash: ``34b723b`` | Ver: ``Nightly-v3.0.21`` · ``Stable-v3.0.16``
-  Separated meta-level anti-cheat enforcement from in-world institutional action. Ordo cannot see GM violation logs or police ordinary bypass; Ruined Archiver verifies Ruined-related evidence, while actual local legal cases remain with the proper territorial authority.
+- ✦ **Ordo Suci Tianming — Mandatory Mechanical-Anomaly Response**
+  Hash: ``2817f73`` | Ver: ``Nightly-v3.0.22`` · ``Stable-v3.0.16``
+  Verified actions outside world mechanics now trigger a mandatory Ordo representative's formal warning, then an imprisonment threat for knowing defiance, and execution only if the character persists after that threat. GM anti-cheat remains separate; detection and travel are not instantaneous.
 
 - ✦ **Medicine Hall — Treatment and Emergency Rescue Rules Aligned**
   Hash: ``d79ae1a`` | Ver: ``Nightly-v3.0.20`` · ``Stable-v3.0.16``

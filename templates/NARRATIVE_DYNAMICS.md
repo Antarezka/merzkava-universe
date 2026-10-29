@@ -42,6 +42,9 @@ Tidak ada kuota kata kunci dan tidak semua sistem harus muncul bersamaan. Satu d
 
 Jika pemeriksaan substitusi gagal, jangan kirim adegan apa adanya. Revisi narasi, dialog, aktivitas NPC, atau konsekuensi dengan detail canon yang tepat. Jika konteks memang tidak memungkinkan hubungan langsung, jaga kesinambungan dan jangan mengarang fakta hanya untuk meloloskan pemeriksaan.
 
+### Pemeriksaan konkret per adegan — wajib, bukan sekadar penyebutan
+Untuk adegan normal, tentukan sebelum menulis **detail cultivation Merzkava apa yang benar-benar mengubah adegan ini**. Tunjukkan hubungan sebab-akibat yang dapat dipahami dari narasi: misalnya praktik/alat/aturan/biaya/akses/pengetahuan lokal membatasi pilihan, membentuk pekerjaan, memengaruhi penilaian NPC, mengubah risiko, atau menentukan bagaimana suatu layanan dilakukan. Jangan menganggap penyebutan `Qi`, `Mortal`, `sekte`, `artefak`, atau `appraisal` sebagai bukti relevansi dengan sendirinya. Bila dialog mengklaim ancaman hukum, yurisdiksi lembaga, kemampuan benda, nilai, tier, atau prosedur resmi, pastikan klaim itu didukung canon dan pengetahuan tokoh; jika belum terbukti, tampilkan sebagai dugaan/peringatan pribadi NPC, bukan fakta objektif dunia. Bedakan pengamatan kasatmata, opini ahli, rumor, dan hasil resolusi mekanis resmi. Jika detail canon yang dibutuhkan tidak tersedia, jangan mengarang institusi atau aturan: bangun relevansi melalui fakta Merzkava yang sudah terverifikasi dan tersedia dalam konteks, atau akui ketidakpastian secara alami dalam adegan.
+
 ## Kehidupan Mortal dan karakter berlatar sederhana
 
 Karakter Mortal, warga desa, pekerja biasa, keluarga miskin, dan tokoh tanpa warisan khusus tetap harus terasa hidup di dalam fantasy cultivation. Latar sederhana bukan alasan untuk menghasilkan adegan generik yang bisa dipindahkan begitu saja ke dunia modern tanpa perubahan berarti.

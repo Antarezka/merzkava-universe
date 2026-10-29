@@ -195,9 +195,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" alt="GitHub" />
 
-![NIGHTLY](assets/nightly-version.svg?v=11)
+![NIGHTLY](assets/nightly-version.svg?v=12)
 
-<sub><span style="color:#D4AF37"><strong>v3.0.30</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v3.0.34</strong></span></sub>
 
 </td>
 </tr>
@@ -210,6 +210,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 *Recent world and system updates*
 
 ---
+
+- ✦ **Open Learning Paths & Wandering Instructors**
+  Hash: ``b53af5e`` | Ver: ``Nightly-v3.0.34`` · ``Stable-v3.0.16``
+  Maps established organizations to fitting student material and adds independent Spirit Realm/Thinker teachers as location-aware random encounters, without forcing faction membership or bypassing official progression.
 
 - ✦ **Narrative-Aligned Opening Gate**
   Hash: ``a5c706d`` | Ver: ``Nightly-v3.0.33`` · ``Stable-v3.0.16``

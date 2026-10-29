@@ -227,7 +227,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 - ✦ **Safe Version & Rollback Baseline Locked**
   Hash: ``32babe3`` | Ver: ``Nightly-v4.0.10`` · ``Stable-v4.0.1``
-  Preserves the accepted v4.0.10 snapshot on `SAFE-VERSION-v4.0.10` and documents the protected repo structure and recovery procedure in `SAFE_VERSION.md`.
+  Preserves the accepted v4.0.10 snapshot on `SAFE-VERSION-v4.0.10` and documents the preserved repo structure and recovery procedure in `SAFE_VERSION.md`.
 
 - ✦ **Narrative Density & Mandatory Contextual GM Options**
   Hash: ``09fc0b3`` | Ver: ``Nightly-v4.0.10`` · ``Stable-v4.0.1``

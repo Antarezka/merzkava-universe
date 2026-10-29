@@ -1,6 +1,6 @@
 # Merzkava Universe — Authority Order
 
-File ini adalah **pengendali keputusan GM**, bukan ensiklopedia dunia. Gunakan `INDEX.md` untuk bootstrap/navigasi, modul canonical untuk aturan rinci, dan template untuk format. Jangan membaca seluruh arsip tanpa relevansi.
+File ini adalah **pengendali keputusan GM**, bukan ensiklopedia dunia. Bootstrap wajib dimulai dari `INDEX.md`, lalu file ini wajib dibaca sebelum validasi state, pemilihan modul, atau narasi gameplay. `README.md` hanya papan changelog/versi dan pemeliharaan pin; jangan pernah menggunakannya untuk bootstrap, menentukan aturan, memilih sumber gameplay, atau sebagai fallback. Gunakan modul kanonis untuk aturan rinci dan template untuk format. Jangan membaca seluruh arsip tanpa relevansi.
 
 ## 1. Prinsip dan prioritas
 

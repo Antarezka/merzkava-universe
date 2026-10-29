@@ -1,8 +1,8 @@
 # Merzkava Universe — Nightly Version
 
-Nightly `v4.0.10` substantially increases the required frequency of concrete Merzkava details across narrative beats and strengthens GM-options enforcement: when enabled, exactly three distinct options are mandatory, including a context-grounded conversation/social topic or a valid contextual observation alternative. The rules preserve player agency, canon, mechanics, visual layout, and the explicit Yes/No mode.
+Nightly `v4.0.11` replaces the legacy Spirit Ring compatibility formula completely with one age-pressure model for Spirit Realm tolerance, EAG, Sync cap, absorption success chance, permanent Martial Soul defect risk, and separate AWR checks above 7,000,000 years. INDEX and Authority Order now hard-route all attempts to the same formula; AWR does not automatically open a world gate. All v4.0.10 narrative-density and GM-options rules remain in force.
 
-Current Nightly version: `v4.0.10`
+Current Nightly version: `v4.0.11`
 
 Nightly `v4.0.7` shortens repeated gameplay-template prompts and makes Merzkava-specific cause-and-effect, bounded GM improvisation, NPC autonomy, timestamp/Satiety continuity, and final validation easier to scan; all visual panels, ledger rules, domain mechanics, anti-cheat, and dividers remain mandatory.
 

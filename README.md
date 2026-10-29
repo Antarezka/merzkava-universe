@@ -215,9 +215,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
   Hash: ``fd3042d`` | Ver: ``Nightly-v3.0.30`` · ``Stable-v3.0.16``
   `Yes` requires exactly three A/B/C options; `No` disables them, and unresolved `Yes/No` defaults to none.
 
-- ✦ **Thinker Hard Gate & T.Focus**
-  Hash: ``79dab64`` | Ver: ``Nightly-v3.0.30`` · ``Stable-v3.0.16``
-  T.Focus requires verified evaluation separate from Thinker Grade; Thinker actions validate training, Satiety, exams, quotas, blueprint authorship, ownership, provenance, and records.
+- ✦ **Thinker Hard Gate & T.Focus Field Rules**
+  Hash: ``2f5503f`` | Ver: ``Nightly-v3.0.30`` · ``Stable-v3.0.16``
+  T.Focus is mandatory in the profile, uses verified assessment and classification formatting, and remains separate from Thinker Grade.
 
 - ✦ **Artificial Artifact Condition Formula**
   Hash: ``44649ab`` | Ver: ``Nightly-v3.0.27`` · ``Stable-v3.0.16``

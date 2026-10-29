@@ -4,6 +4,12 @@
 **Scope:** Travel-segment encounter checks, separate ambush checks, and emergency rescue attempts involving wandering Medicine Hall Society healers.
 **Authority:** This module governs these procedures and probabilities only. It does not override canon routes, dynamic events, combat, HP, injury, time, economy, faction lore, or character-state rules.
 
+## 0. Wandering Teacher Encounters
+
+For unplanned encounters with potential teachers or independent practitioners, also apply `world/OPEN_LEARNING_PATHS_AND_WANDERING_INSTRUCTORS.md`. This check is distinct from ambush and emergency rescue checks: do not combine their rolls, reuse their outcomes, or trigger them merely because the player is injured. Consider a single wandering-teacher/general encounter check when a scene provides a genuine opportunity—travel, exploration, public activity, entering a settlement, seeking instruction, or an appropriate time skip. The learning-path module defines the virtual d100 procedure and location-fit constraints.
+
+A wandering teacher may appear without belonging to any faction, but must have a plausible route, purpose, knowledge, and reason to be present. Do not place one inside sealed/private/secure locations or hidden and dangerous areas without grounded access. Do not make a teacher automatically willing, able, safe, affordable, or personally invested in the player. Finding one does not grant techniques, Spirit Realm progress, Thinker Grades, artifacts, or examination passes; all official mechanics and character-state rules remain binding.
+
 ## 1. Mandatory Use
 
 Whenever a player travels outside a settlement or through a route segment where an encounter could reasonably occur, consult this module. Before resolving travel, verify the confirmed route, terrain, transport, duration, intermediate stops, restrictions, and relevant events using `world/LOCATION_AND_ROUTE_NETWORK.md`, `world/MAP_AND_REGIONS.md`, `world/GEOGRAPHY_AND_TRAVEL.md`, relevant regional modules, `world/DYNAMIC_EVENTS.md`, and `gameplay/TIME_AND_ACTION_RULES.md`.

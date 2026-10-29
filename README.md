@@ -224,7 +224,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 ---
 
 - ✦ **Narrative Density & Mandatory Contextual GM Options**
-  Hash: ``2e678f3`` | Ver: ``Nightly-v4.0.10`` · ``Stable-v4.0.1``
+  Hash: ``09fc0b3`` | Ver: ``Nightly-v4.0.10`` · ``Stable-v4.0.1``
   Raises concrete Merzkava detail frequency throughout substantive scenes and hard-gates three distinct GM options when enabled, including a relevant in-world conversation/social topic or contextual observation alternative.
 
 - ✦ **Authority Hierarchy & Living Merzkava Narrative**

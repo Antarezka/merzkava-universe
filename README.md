@@ -195,9 +195,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" alt="GitHub" />
 
-![NIGHTLY](assets/nightly-version.svg?v=7)
+![NIGHTLY](assets/nightly-version.svg?v=8)
 
-<sub><span style="color:#D4AF37"><strong>v3.0.19</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v3.0.20</strong></span></sub>
 
 </td>
 </tr>
@@ -210,6 +210,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 *Recent world and system updates*
 
 ---
+
+- ✦ **Medicine Hall — Treatment and Emergency Rescue Rules Aligned**
+  Hash: ``d79ae1a`` | Ver: ``Nightly-v3.0.20`` · ``Stable-v3.0.16``
+  Separated healer encounter chance from treatment success. Injury recovery follows class-specific rates and prerequisites; HP recovery requires an explicit documented effect. Ordinary rescue cannot reverse HP 0 death or the permanent anti-cheat death sanction.
 
 </div>
 

@@ -188,7 +188,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![STABLE](assets/stable-version.svg?v=2)
 
-<sub><span style="color:#D4AF37"><strong>v3.0.16</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v4.0.0</strong></span></sub>
 
 </td>
 <td align="center">
@@ -197,7 +197,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![NIGHTLY](assets/nightly-version.svg?v=13)
 
-<sub><span style="color:#D4AF37"><strong>v3.0.35</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v4.0.1</strong></span></sub>
 
 </td>
 </tr>
@@ -211,9 +211,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ---
 
-- ✦ **Classification Label Formatting**
-  Hash: ``9099e38`` | Ver: ``Nightly-v3.0.37`` · ``Stable-v3.0.16``
-  Replaces single-asterisk label styling with double asterisks inside double backticks for classification labels across the GM response template and relevant profile/mechanics rules.
+- ✦ **Double-Backtick Classification Labels · 4.x Stable Promotion**
+  Hash: ``6c91334`` | Ver: ``Nightly-v4.0.1`` · ``Stable-v4.0.0``
+  Removes asterisks from classification labels so only the label text sits inside double backticks; promotes the tested Stable line to 4.x and keeps Nightly one patch above Stable.
 
 - ✦ **Ledger, Satiety & Merzkava Narrative Hardening**
   Hash: ``0f6f063`` | Ver: ``Nightly-v3.0.36`` · ``Stable-v3.0.16``
@@ -234,7 +234,6 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **Thinker Hard Gate & T.Focus Field Rules**
   Hash: ``9cae9d3`` | Ver: ``Nightly-v3.0.30`` · ``Stable-v3.0.16``
   All six player snapshots include the required T.Focus field; Thinker Grade and T.Focus remain separate and must be verified independently.
-
 </div>
 
 

@@ -24,7 +24,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ### ✦ READY-TO-COPY ROLEPLAY HASH ✦
 
-**Latest pinned source:** `1f084a9`
+**Latest pinned source:** `3fe395a`
 
 </div>
 <!-- RP_SOURCE_END -->
@@ -197,7 +197,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![NIGHTLY](assets/nightly-version.svg?v=10)
 
-<sub><span style="color:#D4AF37"><strong>v3.0.22</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v3.0.23</strong></span></sub>
 
 </td>
 </tr>
@@ -211,9 +211,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ---
 
-- ✦ **Ordo Suci Tianming — Mandatory Mechanical-Anomaly Response**
-  Hash: ``2817f73`` | Ver: ``Nightly-v3.0.22`` · ``Stable-v3.0.16``
-  Verified actions outside world mechanics now trigger a mandatory Ordo representative's formal warning, then an imprisonment threat for knowing defiance, and execution only if the character persists after that threat. GM anti-cheat remains separate; detection and travel are not instantaneous.
+- ✦ **Ordo Suci Tianming — Red Notice & Natural Enforcement**
+  Hash: ``3fe395a`` | Ver: ``Nightly-v3.0.23`` · ``Stable-v3.0.16``
+  Red Notice now drives natural in-world consequences: informed NPCs may avoid, refuse aid, or report sightings; Ordo dispatch, orientation/rehabilitation, imprisonment threat, and mandatory execution follow staged procedure. GM warnings stay separate, while detection and travel remain realistic.
 
 - ✦ **Medicine Hall — Treatment and Emergency Rescue Rules Aligned**
   Hash: ``d79ae1a`` | Ver: ``Nightly-v3.0.20`` · ``Stable-v3.0.16``

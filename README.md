@@ -211,9 +211,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ---
 
-- ✦ **Mandatory Thinker Path — Single Authority & Hard Gate**
-  Hash: ``0563f7f`` | Ver: ``Nightly-v3.0.28`` · ``Stable-v3.0.16``
-  Consolidated Thinker progression in one canonical module; INDEX and Authority Order enforce it, while the Institute and artifact catalog defer to the core rules.
+- ✦ **Thinker Training, Satiety & Grade 2–7 Examinations**
+  Hash: ``e9aacba`` | Ver: ``Nightly-v3.0.29`` · ``Stable-v3.0.16``
+  Defined stage-training hours, Tier 1–10 production time and reference Satiety costs; added Grade 2–7 condition requirements, pass caps, and Grade 5+ competitive ranking.
 
 - ✦ **Artificial Artifact Condition Formula**
   Hash: ``44649ab`` | Ver: ``Nightly-v3.0.27`` · ``Stable-v3.0.16``

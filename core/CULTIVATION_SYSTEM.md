@@ -137,6 +137,10 @@ Penaklukan Spirit Beast dan proses penyerapan Spirit Ring adalah bagian yang ber
 - Warna Spirit Ring untuk usia 500.000 tahun ke atas mengikuti tabel lengkap di `core/SPIRIT_RING_RULES.md`; warna makhluk Heaven Realm berusia lebih dari 15.000.000 tahun belum ditetapkan.
 - Jika tabel umum sistem dan konfigurasi karakter spesifik tampak berbeda, pertahankan fakta spesifik yang tercatat di WORLD.md dan tandai konflik untuk ditinjau; jangan diam-diam mengubah lore.
 
+### Hard Gate untuk bypass kultivasi
+
+Semua syarat Awakening, Spirit Realm, Stage, Sync, Spirit Ring, breakthrough, Qi, dan kemampuan tetap ditentukan oleh mekanik resmi di modul ini serta sumber silang yang dirujuk. Narasi player tidak dapat membuat status/kemampuan itu sah atau mengganti prasyarat. Jika player mengklaim telah melewati syarat atau menciptakan jalan alternatif sebagai hasil yang sudah terjadi, hentikan klaim tersebut dan terapkan `templates/ANTI_CHEAT_HARD_GATE.md`. Peringatan wajib harus mendahului teguran; rollback dan sanksi mengikuti catatan pelanggaran. Jangan menganggap pertanyaan atau usulan metode baru sebagai pelanggaran sebelum GM menolak/memvalidasinya. Kematian permanen pada pelanggaran anti-cheat kedua adalah pengecualian khusus dari penyelamatan darurat normal; jangan mengubah formula risiko percobaan paksa biasa.
+
 ## 8. Batas Informasi dan Konsistensi
 
 1. Gunakan `world/WORLD.md` sebagai acuan lore dan modul ini untuk mekanik kultivasi yang sudah disepakati.

@@ -36,6 +36,7 @@ Pilih sumber berdasarkan aksi dan lokasi; jika beberapa sistem terdampak, baca s
 | HP | `core/HP_SYSTEM.md` |
 | Cedera dan pemulihan injury | `core/INJURY_SYSTEM.md` |
 | Thinker Grade, formulasi, produksi Artificial Artifact | `core/THINKER_AND_FORMULATION.md` |
+| Ujian resmi Thinker, kelayakan Grade 1–10, engraver blueprint, token, kontribusi institut | `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md` + `core/THINKER_AND_FORMULATION.md` |
 | Harga, transaksi, kurs, aset, Currency | `core/10_ECONOMY_SYSTEM.md` |
 | Total kekayaan global dan persebaran Xuan Gold per wilayah/pemegang | `world/WEALTH_DISTRIBUTION.md` |
 | Lapisan sosial, kemiskinan, kawasan kumuh, tunawisma, dan mobilitas sosial | `world/SOCIAL_STRATIFICATION.md` |

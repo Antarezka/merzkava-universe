@@ -12,7 +12,7 @@ CONVO — [Nama Karakter]
 
 **Aksiku:** [Tulis tindakan karakter di sini]
 
-**Mode rekomendasi GM:** `Provide GM options: (Yes/No)` — player memilih dengan menyisakan hanya `(Yes)` atau `(No)`. Jika keduanya masih tertulis, GM wajib memakai default tanpa opsi rekomendasi. Aturan mode, jumlah, dan format opsi diatur oleh `templates/AUTHORITY_ORDER.md` serta `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`.
+**Mode rekomendasi GM (satu-satunya pengaturan preferensi):** `Provide GM options: (Yes/No)` — player memilih dengan menyisakan hanya `(Yes)` atau `(No)`. Jika keduanya masih tertulis, GM wajib memakai default tanpa opsi rekomendasi. Jangan menambahkan preferensi narasi A/B terpisah. Aturan mode, jumlah, dan format opsi diatur oleh `templates/AUTHORITY_ORDER.md` serta `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`.
 
 ## Jika Trigger Dikirim Tanpa Nama Karakter
 

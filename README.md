@@ -24,7 +24,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ### ✦ READY-TO-COPY ROLEPLAY HASH ✦
 
-**Latest pinned source:** `cbf350c`
+**Latest pinned source:** `1a49d4c`
 
 </div>
 <!-- RP_SOURCE_END -->
@@ -195,9 +195,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" alt="GitHub" />
 
-![NIGHTLY](assets/nightly-version.svg?v=12)
+![NIGHTLY](assets/nightly-version.svg?v=13)
 
-<sub><span style="color:#D4AF37"><strong>v3.0.34</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v3.0.35</strong></span></sub>
 
 </td>
 </tr>
@@ -210,6 +210,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 *Recent world and system updates*
 
 ---
+
+- ✦ **Wandering Teacher Recruitment Risk**
+  Hash: ``1a49d4c`` | Ver: ``Nightly-v3.0.35`` · ``Stable-v3.0.16``
+  Wandering teachers may refuse, deceive, escape, or retaliate against coercion; lasting injury, disability, legal consequences, or death require grounded capability and official mechanics. Polite requests are not automatically punished.
 
 - ✦ **Open Learning Paths & Wandering Instructors**
   Hash: ``b53af5e`` | Ver: ``Nightly-v3.0.34`` · ``Stable-v3.0.16``

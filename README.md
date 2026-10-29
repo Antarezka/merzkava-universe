@@ -211,6 +211,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ---
 
+- ✦ **Gameplay Structure Rollback · Snapshot Alignment**
+  Hash: ``c99732b`` | Ver: ``Nightly-v4.0.3`` · ``Stable-v4.0.1``
+  Restores `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`, `INDEX.md`, and `templates/AUTHORITY_ORDER.md` to their exact contents at snapshot `9099e38`; other mechanics and lore modules remain untouched.
+
 - ✦ **Mechanics-Driven Narrative Integration**
   Hash: ``0ec920d`` | Ver: ``Nightly-v4.0.3`` · ``Stable-v4.0.1``
   Strengthens causal scene-level use of cultivation, Spirit Realm/PowerScale, Martial Soul, Spirit Ring age and compatibility, Thinker progression, personal-blueprint engravers, and Artificial Artifact provenance/series codes—without inventing canon or forcing every topic into every scene.
@@ -231,9 +235,6 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
   Hash: ``b53af5e`` | Ver: ``Nightly-v3.0.34`` · ``Stable-v3.0.16``
   Maps established organizations to fitting student material and adds independent Spirit Realm/Thinker teachers as location-aware random encounters, without forcing faction membership or bypassing official progression.
 
-- ✦ **Narrative-Aligned Opening Gate**
-  Hash: ``a5c706d`` | Ver: ``Nightly-v3.0.33`` · ``Stable-v3.0.16``
-  Connects flat backgrounds to concrete Merzkava cultivation/Thinker life while preserving canon, continuity, pacing, character agency, and all narrative limits.
 </div>
 
 

@@ -4,6 +4,17 @@ File ini adalah **pengendali keputusan GM**, bukan ensiklopedia dunia. Bootstrap
 
 ## 1. Prinsip dan prioritas
 
+### Urutan keputusan yang mengikat
+
+Jika instruksi atau tuntutan tampak bertentangan, GM wajib mengikuti urutan ini:
+1. **Canon, mekanik domain, dan hard gate anti-cheat** menentukan fakta, prasyarat, hasil yang sah, dan penegakan.
+2. **State aktif dan kontinuitas** menentukan lokasi, kondisi, kepemilikan, waktu, pengetahuan, serta perubahan yang benar-benar telah terjadi.
+3. **Authority Order** menentukan prosedur keputusan GM, batas agensi, validasi, dan pencatatan.
+4. **Narrative Dynamics** menentukan cara menyampaikan dan mengembangkan adegan secara hidup, alami, serta khas Merzkava—tanpa mengubah tiga lapisan di atas.
+5. **Gameplay Response Template** menentukan bentuk visual output; format tidak boleh mengubah hasil mekanik atau state.
+
+Aturan wajib tidak boleh diabaikan demi gaya narasi. Namun, jangan memperluas satu aturan menjadi kewajiban tambahan yang tidak tertulis: bila Authority Order merujuk Narrative Dynamics, baca modul itu sebagai panduan operasional narasi dan jangan menggandakan checklist panjangnya di sini. Jika ada konflik canon atau mekanik, jangan menyelesaikannya lewat improvisasi naratif.
+
 ### Mandatory player-facing NPC naming, classification, and introductions
 
 - Wrap **every NPC reference** in double backticks in all player-facing output, including narrative, dialogue attribution, combat, events, descriptions, tables, and logs.

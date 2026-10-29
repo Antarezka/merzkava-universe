@@ -195,9 +195,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" alt="GitHub" />
 
-![NIGHTLY](assets/nightly-version.svg?v=13)
+![NIGHTLY](assets/nightly-version.svg?v=14)
 
-<sub><span style="color:#D4AF37"><strong>v4.0.2</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v4.0.4</strong></span></sub>
 
 </td>
 </tr>
@@ -210,6 +210,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 *Recent world and system updates*
 
 ---
+
+- ✦ **Classification Label Alignment · Plain Double-Backtick Text**
+  Hash: ``a9548b2`` | Ver: ``Nightly-v4.0.4`` · ``Stable-v4.0.1``
+  Removes asterisks from labels inside double backticks while preserving `Unknown` and keeping appraisal explanation outside the label. Aligns INDEX, Authority Order, and the gameplay response template.
 
 - ✦ **Gameplay Structure Rollback · Snapshot Alignment**
   Hash: ``c99732b`` | Ver: ``Nightly-v4.0.3`` · ``Stable-v4.0.1``
@@ -230,10 +234,6 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **Wandering Teacher Recruitment Risk**
   Hash: ``1a49d4c`` | Ver: ``Nightly-v3.0.35`` · ``Stable-v3.0.16``
   Wandering teachers may refuse, deceive, escape, or retaliate against coercion; lasting injury, disability, legal consequences, or death require grounded capability and official mechanics. Polite requests are not automatically punished.
-
-- ✦ **Open Learning Paths & Wandering Instructors**
-  Hash: ``b53af5e`` | Ver: ``Nightly-v3.0.34`` · ``Stable-v3.0.16``
-  Maps established organizations to fitting student material and adds independent Spirit Realm/Thinker teachers as location-aware random encounters, without forcing faction membership or bypassing official progression.
 
 </div>
 

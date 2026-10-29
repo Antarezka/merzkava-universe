@@ -66,6 +66,8 @@ Use `core/THINKER_AND_FORMULATION.md` for all production mechanics. In particula
 - Thinker Grade establishes the normal capability ceiling for artifact production.
 - The baseline success-chance matrix must not be duplicated or altered here.
 - Production requires a suitable formulation, materials, patterns, concentration, mental capability, stamina/energy, and sufficient Thinker Grade.
+- After successful completion only, calculate the Artificial Artifact's condition using the Condition Score formula in §14 of the core module; production success chance and final condition are separate outcomes.
+- Ordinary artifacts, Relics, and Ancient Artifacts do not gain Artificial Artifact production history or this manufacturing condition score merely by being valuable or artifact-like.
 - Situational modifiers and a formal random-resolution method remain undefined unless the mechanics source is updated.
 - The GM must not invent numeric bonuses, costs, durations, material substitutions, or exceptions.
 

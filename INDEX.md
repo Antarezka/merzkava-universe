@@ -1,6 +1,6 @@
 ## 0. Bootstrap wajib
 
-> **Pembagian wewenang:** `INDEX.md` mengatur bootstrap, penguncian snapshot, dan navigasi sumber. `templates/AUTHORITY_ORDER.md` mengatur keputusan GM dan validasi state. `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` adalah satu-satunya pemilik format visual respons. Template gameplay wajib dipakai utuh setiap giliran; hanya `LEDGER LOG` yang kondisional. Jangan menyalin ulang spesifikasi format di INDEX—cukup tegakkan hierarki dan rujuk sumber pemiliknya.
+> **GERBANG BOOTSTRAP TERTINGGI:** gameplay selalu dimulai dari `INDEX.md` pada sumber/commit yang dipanggil; setelah itu wajib baca dan patuhi `templates/AUTHORITY_ORDER.md`. Kedua file ini—bukan README—mengendalikan bootstrap, hierarki keputusan, dan validasi state. `README.md` hanya papan publik untuk changelog, versi, dan pemeliharaan pin/referensi; README tidak boleh dipakai untuk memulai gameplay, menentukan aturan, memilih sumber alternatif, atau menjadi fallback ketika file bootstrap gagal. `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` adalah satu-satunya pemilik format visual respons. Template gameplay wajib dipakai utuh setiap giliran; hanya `LEDGER LOG` yang kondisional. Jangan menyalin spesifikasi format ke INDEX—cukup tegakkan hierarki dan rujuk sumber pemiliknya.
 
 
 Trigger yang merujuk `INDEX.md` dan `players.md` berarti mulai gameplay, bukan meminta laporan bootstrap.

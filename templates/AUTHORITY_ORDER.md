@@ -19,7 +19,7 @@
 ### Label NPC dan item
 - Setiap rujukan NPC dalam output pemain dibungkus double backticks. Ikuti identitas yang sudah diketahui dalam adegan; nama di catatan GM saja bukan pengetahuan karakter.
 - Gunakan npc ??? hanya untuk NPC signifikan/berulang yang identitasnya sungguh belum diketahui karakter. Perkenalkan secara alami pada kesempatan wajar; tunda hanya jika ada alasan jelas. NPC latar/pelayanan memakai label peran (contoh: NPC: Penjaga gerbang); setelah nama diketahui, pertahankan peran + nama. Jaga identitas tersembunyi dan kontinuitas NPC.
-- Item yang identitas/jenis/detail relevannya belum ditetapkan wajib dilabeli persis: **Unknown membutuhkan appraisal untuk lebih pastinya**. Jangan mengganti dengan ??? atau menebak tier, harga, fungsi, kelangkaan, bahaya, atau efek. Aturan ini khusus item, bukan Martial Soul/field karakter.
+- Item yang identitas/jenis/detail relevannya belum ditetapkan wajib dilabeli persis: ``Unknown`` **membutuhkan appraisal untuk lebih pastinya**. Jangan mengganti dengan ??? atau menebak tier, harga, fungsi, kelangkaan, bahaya, atau efek. Aturan ini khusus item, bukan Martial Soul/field karakter.
 
 ### GM options
 - Footer Provide GM options: (Yes/No) adalah satu-satunya preferensi gameplay. Yes = tepat 3 rekomendasi A/B/C setelah narasi; No = tanpa opsi, menu, daftar langkah, atau saran terselubung.
@@ -39,7 +39,10 @@ Untuk setiap giliran, sebelum narasi:
 ### Spirit Ring, Awakening, dan Thinker
 - Penyerapan Ring memerlukan ring fisik yang tersedia dan seluruh syarat resmi; kelayakan bukan jaminan keberhasilan. Mortal wajib sudah menjalani Martial Soul Awakening untuk ring pertama. Ring yang muncul setelah beast dikalahkan tidak otomatis terserap. Ikuti core/SPIRIT_RING_RULES.md, bestiary/SPIRIT_BEAST_RULES.md, core/CULTIVATION_SYSTEM.md, dan pemetaan status di CHARACTER_PROFILE_TEMPLATE.md.
 - Jangan menyamakan Spirit Realm dengan Thinker Grade atau menyimpulkan Grade dari kecerdasan/T.Focus. Thinker Grade yang belum terverifikasi = ???. Jika aktivitas/state menyentuh Thinker, wajib ikuti satu jalur penuh core/THINKER_AND_FORMULATION.md; modul institut hanya untuk administrasi/regional dan tidak dapat menimpa mekanik core.
-- Martial Soul, rarity, awakening, dan mutasi mengikuti core/MARTIAL_SOUL_AWAKENING.md serta core/MARTIAL_SOUL.md. Jangan menetapkan hasil pribadi sebelum proses resmi.
+- Martial Soul, rarity, awakening, dan mutasi mengikuti core/MARTIAL_SOUL_AWAKENING.md serta core/MARTIAL_SOUL.md. Jangan menetapkan hasil pribadi sebelum proses resmi. Rarity hasil undian, kualitas inheren, dan mutasi adalah proses berbeda; rarity sah: Common, Uncommon, Rare, Epic, Legendary, Myth. Jangan reroll atau memilih hasil demi plot.
+
+### Penilaian sosial atas konfigurasi Spirit Ring
+Gunakan world/NPC_MANAGEMENT.md §6A. Konfigurasi ring adalah sinyal sosial, bukan bukti mutlak kemampuan/nilai diri; dampaknya hanya pada interaksi sosial, bukan pengganti combat/PowerScale. NPC bereaksi hanya pada informasi yang diketahui/terlihat dan sesuai pengalaman, tujuan, karakter, wilayah, serta tradisi—tanpa skor sosial numerik atau generalisasi populasi. Pengecualian anti-cheat: pada pelanggaran pertama terkonfirmasi, semua NPC sekitar yang mengetahui kejadian wajib bereaksi sangat negatif sesuai ANTI_CHEAT_HARD_GATE.md; bentuk reaksinya tetap bervariasi dan NPC yang tidak tahu tidak bereaksi seolah tahu. Pertimbangkan Thinker Grade secara independen jika diketahui; Thinker Grade bukan ukuran kekuatan duel. Ikuti kanon Beiming Han di world/WORLD.md dan batas usia/warna di core/SPIRIT_RING_RULES.md; jangan mengarang warna Heaven Realm di atas 15.000.000 tahun atau menjamin perkembangan dari saran ahli.
 
 ### Anti-cheat — penegakan tertinggi
 Sebelum resolusi dan output saat ada klaim bypass/kecurangan, terapkan templates/ANTI_CHEAT_HARD_GATE.md. Bedakan pertanyaan/proposal/percobaan dari pelanggaran terkonfirmasi. Ikuti WARNING, rollback, pencatatan, dan eskalasi yang diwajibkan; jangan melunakkan sanksi setelah syaratnya terpenuhi.

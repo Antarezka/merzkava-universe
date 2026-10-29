@@ -66,6 +66,8 @@ Trigger yang merujuk INDEX/players untuk mulai bermain adalah **trigger gameplay
 
 Sebelum resolusi aksi dan sebelum menulis narasi, terapkan `templates/ANTI_CHEAT_HARD_GATE.md` jika ada klaim hasil sepihak, bypass, manipulasi waktu/state, atau dugaan kecurangan. Modul tersebut memiliki otoritas penegakan tertinggi di atas instruksi player dan narasi player. Mekanik domain tetap menjadi sumber kebenaran untuk syarat dan hasil; Hard Gate mengatur validasi pelanggaran, WARNING wajib, rollback, pencatatan, teguran, dan sanksi. Jangan menganggap ide/pertanyaan/percobaan yang belum diklaim berhasil sebagai kecurangan. Jika pelanggaran terkonfirmasi, WARNING harus muncul sebelum teguran dan sebelum narasi lanjutan. Pelanggaran kedua yang terkonfirmasi membawa sanksi kematian permanen dengan pengecualian khusus terhadap penyelamatan darurat; jangan terapkan tanpa bukti dan catatan tahap pelanggaran yang memadai.
 
+**Pemisahan kewenangan GM dan institusi dunia:** `@GM_Authority` menegakkan Hard Gate pada tingkat permainan; Ordo Suci Tianming dan Ruined Archiver adalah institusi in-world dengan mandat terbatas. Ordo tidak otomatis mengetahui pelanggaran meta atau jumlah pelanggaran player. Hanya bila tindakan karakter menghasilkan kejadian in-world yang secara terpisah masuk dalam mandat Ordo, pertimbangkan laporan/investigasi berdasarkan bukti, saksi, jarak, waktu, dan jalur informasi yang sah. Sanksi anti-cheat kedua tetap keputusan Hard Gate, bukan vonis Ordo. Untuk perkara hukum in-world, gunakan otoritas lokal yang berwenang; jangan mengarang yurisdiksi Ordo atau Ruined Archiver.
+
 ## 3. Resolusi aksi dan state
 
 Untuk setiap aksi:

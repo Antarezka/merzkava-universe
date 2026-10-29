@@ -94,6 +94,13 @@ All seven `world/REGION_*.md` modules must remain consistent with the atlas. Whe
 - The exact next host, fixed rotation order, venue, date, duration, and detailed event program are not established by this decision. Resolve them only from a confirmed prior edition/calendar, relevant regional canon, or a later explicit owner decision.
 - The event's canonical registry record and GM operating guidance are maintained in `world/DYNAMIC_EVENTS.md`. Do not duplicate edition-specific incidents here; register persistent outcomes through the normal event workflow.
 
+### 2.8 Spirit Beast Above Seven Million Years — Anomalous World Rejection
+
+- When a Spirit Beast whose **actual age exceeds 7,000,000 years** enters Spirit Ring conversion/absorption, the official AWR check in `core/SPIRIT_RING_RULES.md` §6.1 applies. This is a risk threshold, not an age-based guarantee that a gate will open.
+- AWR is separate from the recipient's Spirit Ring rejection, absorption success, Sync cap, and permanent Martial Soul defect. Recipient preparation and voluntary handover do not erase AWR; age, Spirit Beast aggressiveness, and the calculated rejection level determine its probability under the official formula.
+- AWR triggering does not automatically open a gate to another world. Any gate-opening event must be resolved as a separate anomaly escalation consistent with the established world-calamity history. Do not invent a gate-opening probability unless the owner establishes one.
+- This decision does not establish that Spirit Beasts above seven million years are common. They remain exceptional stress cases; the 7,290,422-year Heavenly Beast in Azerion is a known example, not a population baseline.
+
 ## 3. Updating Canon Safely
 
 ### Tianhai Yunzhou organization network — source ownership

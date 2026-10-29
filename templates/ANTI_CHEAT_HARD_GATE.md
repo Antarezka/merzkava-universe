@@ -50,7 +50,11 @@ Setelah blok tersebut, GM wajib menyampaikan teguran keras yang menyebut tindaka
 
 - Hentikan tindakan, tolak hasil yang diklaim, dan rollback perubahan tidak sah ke state terakhir yang terverifikasi.
 - Berikan peringatan wajib dan teguran keras.
-- Terapkan penalti pertama yang secara eksplisit telah ditentukan oleh pemilik sistem dalam aturan/riwayat canon yang dapat diverifikasi. Jangan mengarang jenis atau angka penalti baru. Jika detail penalti pertama tidak dapat ditemukan di sumber aktif, tetap terapkan rollback dan teguran, catat kekosongan aturan, dan jangan mengklaim penalti spesifik yang tidak terverifikasi.
+- **Penalti pertama yang ditetapkan pemilik sistem adalah REAKSI SOSIAL SANGAT NEGATIF dari seluruh NPC di sekitar yang secara masuk akal menyaksikan, mendengar, atau mengetahui kejadian tersebut.** GM wajib menarasikan reaksi itu secara natural dan konkret, disesuaikan dengan jenis kecurangan, tingkat keterlaluan, konteks, kepribadian, kepentingan, pengetahuan, serta norma sosial setempat.
+- Reaksi dapat berupa terkejut, jijik, menganggap karakter bodoh/gila/ceroboh, menertawakan, merendahkan, mengasihani, kehilangan respek, memarahi, menjauh, menolak membantu atau melayani, memperingatkan orang lain, atau melapor kepada otoritas—pilih respons yang masuk akal, bukan daftar wajib yang dipaksakan serentak. Untuk tindakan yang jelas mustahil atau sangat sembrono, warga dapat memperlakukannya seperti orang yang mencoba terbang tanpa sayap atau persiapan: dianggap tidak waras, ditertawakan, diremehkan, atau dikasihani.
+- **Semua NPC sekitar yang mengetahui kejadian harus bereaksi negatif**, tetapi reaksi tiap orang tidak harus identik. Jangan membuat NPC yang tidak melihat, mendengar, atau belum mendapat informasi ikut bereaksi seolah-olah mereka tahu. Reputasi buruk dapat menyebar kemudian hanya melalui jalur informasi yang masuk akal.
+- Reaksi sosial harus sesuai dengan apa yang mereka pahami sebagai kecurangan/bypass. Jika NPC tidak mengetahui aturan meta atau niat player, mereka menilai tindakan yang tampak dan akibatnya—bukan tiba-tiba mengetahui sistem anti-cheat atau isi pikiran player.
+- Reaksi sosial ini adalah penalti pertama yang wajib, bukan pengganti WARNING, teguran keras, rollback, atau pencatatan pelanggaran. Jangan menambahkan denda, cedera, penjara, atau penalti mekanik lain secara otomatis kecuali didukung aturan atau sebab-akibat dunia yang sah.
 
 ### Pelanggaran kedua yang terkonfirmasi
 
@@ -89,6 +93,7 @@ Setelah blok tersebut, GM wajib menyampaikan teguran keras yang menyebut tindaka
 - [ ] Catatan pelanggaran diperiksa sebelum menentukan tahap sanksi.
 - [ ] Blok WARNING ditampilkan sebelum teguran keras.
 - [ ] Hasil tidak sah dibatalkan dan state dipulihkan ke titik valid.
-- [ ] Penalti tidak dikarang; kematian permanen hanya pada pelanggaran kedua yang terkonfirmasi.
+- [ ] Penalti pertama: reaksi sangat negatif dari seluruh NPC sekitar yang mengetahui kejadian, dinarasikan secara natural dan sesuai konteks.
+- [ ] Kematian permanen hanya pada pelanggaran kedua yang terkonfirmasi.
 - [ ] Reaksi NPC sesuai pengetahuan dan karakterisasi.
 - [ ] Narasi, profil, waktu, dan ledger konsisten.

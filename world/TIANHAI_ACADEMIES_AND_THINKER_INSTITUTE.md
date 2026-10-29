@@ -1,6 +1,6 @@
 # Tianhai Yunzhou — Four Academies and the High Thinker Institute
 
-**Status:** Canon established from the owner's regional direction.
+**Status:** Canon established from the owner's regional direction. Thinker progression and production mechanics are centrally governed by `core/THINKER_AND_FORMULATION.md`.
 **Scope:** Cardinal geography of the giant floating island, placement of its twelve clans, four Cultivator Academies, and the exclusive high-level Thinker research institution.
 **Related sources:** `world/REGION_TIANHAI_YUNZHOU.md`, `../regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`, `world/FACTIONS.md`, `core/CULTIVATOR_ACADEMIES.md`, `core/THINKER_AND_FORMULATION.md`.
 
@@ -91,8 +91,9 @@ The Tianhai Thinker Institute and its existing roster of officials remain govern
 - Route and travel claims must be verified through `world/LOCATION_AND_ROUTE_NETWORK.md`, `world/GEOGRAPHY_AND_TRAVEL.md`, and the relevant regional modules.
 
 
-## 5. Mandatory Thinker certification and contribution administration
+## 6. Mandatory Thinker certification and contribution administration
 
+**Administrative implementation only — not a second progression ruleset.** The binding route, stage sequence, production chance, Artificial Artifact condition formula, Grade prerequisites, and GM enforcement are defined solely in `core/THINKER_AND_FORMULATION.md`. This section describes the Institute's role and recordkeeping. If wording here appears inconsistent with the core module, the core module governs and this section must be reconciled; neither the Institute nor another institution may waive a mandatory gate.
 The Tianhai Thinker Institute is the central authority for official Thinker Grade examinations and certification. Its research role does not replace its standards and credentialing role.
 
 - The Apprentice Examination is available only to students who have learned foundational theory through legitimate instruction and passed the required Initiate training assessment. Candidates use an Engraver's Apprentice bearing a valid mark associated with their educational origin or sponsoring tradition. Passing this examination grants official Thinker Grade 1.
@@ -100,17 +101,17 @@ The Tianhai Thinker Institute is the central authority for official Thinker Grad
 - Examinations for Grades 7–10 require a personal engraver physically made from a blueprint designed by the candidate themselves. This requirement is absolute. The candidate's authorship and the maker's qualifications must be verifiable.
 - Grade 8 requires candidate-made, currently owned collections of 10 Tier 6 artifacts, 5 Tier 5 artifacts, and 1 Tier 8 artifact of condition exactly Rendah. Grade 9 requires 30 candidate-made, currently owned Tier 8 artifacts, each condition Baik or Origin. Grade 10 requires 10 candidate-made, currently owned Tier 9 Origin weaponry artifacts, plus valid senior recognition and a passed final examination.
 - Every Artificial Artifact has an embedded series code. The institute verifies production history, code, Tier, condition, required type, and current ownership. Qualifying artifacts may be bank-stored if the storage record, capacity, ownership, and access for inspection are valid. Purchased, gifted, borrowed, or transferred-away artifacts cannot be counted as candidate-made and currently owned work.
-- Artifact condition uses five categories in order: Buruk, Rendah, Standar, Baik, Origin.
+- Artificial Artifact condition uses the five categories Buruk, Rendah, Standar, Baik, Origin. The numeric Condition Score and threshold mapping are governed by §14 of `core/THINKER_AND_FORMULATION.md`; this institute module does not assign or override condition scores.
 - Grade 10 recognition requires a valid token from at least one Thinker Grade 10 or three Thinker Grade 9 individuals. Tokens are professional identity and recognition credentials, not items that can be purchased to replace the issuer's consent. Recognition challenges must be grounded in each NPC's actual knowledge, interests, authority, and circumstances. Merzkava has no more than five Thinker Grade 10 individuals worldwide.
 
-### 5.1 Contribution points for educational institutions
+### 6.1 Contribution points for educational institutions
 
 When a student passes an official Thinker examination, the institution or educational organization responsible for their legitimate training receives contribution points from the central institute. These points are institutional assets, not the student's personal Wallet. Eligible points may be exchanged for approved scarce or unique materials and important spare parts/components used in Artificial Artifact production.
 
 The exact point reward per Grade, exchange rates, stock, prices, and restrictions must be established by the applicable economy/institute records. The GM must not invent numerical values when none are defined. Contribution points do not grant a student's Grade or waive any examination requirement.
 
-### 5.2 Administrative and continuity controls
+### 6.2 Administrative and continuity controls
 
 The institute must keep verifiable records of registration, eligibility, examination outcomes, official Grade changes, artifact verification, recognition tokens, and contribution-point awards/redemptions according to the repository's state and event procedures. Tokens may be ordered through any city branch using the established process, but branches cannot fabricate recognition or override the issuer's authorization. Administrative access is not automatic approval.
 
-All examination and production procedures remain subject to the Thinker & Formulation System, official time and Satiety rules, the economy system, and the repository's mandatory authority and anti-cheat rules.
+All examination and production procedures follow the single mandatory path in `core/THINKER_AND_FORMULATION.md`, plus the official time and Satiety rules, economy system, and repository authority and anti-cheat rules. This institute module does not create alternate routes or numeric mechanics.

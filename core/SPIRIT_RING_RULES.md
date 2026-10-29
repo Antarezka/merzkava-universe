@@ -229,6 +229,8 @@ Setelah pengali diterapkan, bulatkan hasil ke bilangan bulat terdekat (x,5 ke at
 
 ### 5.5. Alur wajib GM
 
+**Otoritas angka:** §5.1–§5.4 hanya menangani deviasi dan dampak HP. Semua perhitungan tekanan usia, toleransi Spirit Realm, EAG, cap Sync, peluang keberhasilan, risiko kecacatan permanen, dan AWR harus dihitung hanya dari §6.1. Jika ada perbedaan redaksi di bagian lain, §6.1 menjadi sumber numerik untuk kelompok formula tersebut; jangan menyalin atau menghitung ulang rumusnya di §5.5.
+
 **Hard gate kelayakan penyerapan:** sebelum menarasikan atau menyelesaikan setiap upaya Penyerapan Spirit Ring, tetapkan status `Spirit Ring Absorption` dari kondisi aktual menggunakan pemetaan kanonis di `templates/CHARACTER_PROFILE_TEMPLATE.md`. Spirit Realm 9 berstatus `max` dan tidak dapat mencoba penyerapan lanjutan. Untuk ring pertama, Mortal wajib telah mengalami Martial Soul Awakening; tidak ada syarat bottleneck atau jeda antar-ring untuk ring pertama, tetapi ring harus tersedia melalui proses yang sah. Untuk ring kedua hingga kesembilan, semua syarat resmi harus diverifikasi: Sync progress memenuhi bottleneck (Gap kurang dari 10 poin persentase), `Day left` tepat `0`, interval minimum telah dipenuhi melalui waktu normal di luar Kultivasi, ring target tersedia dan diperoleh secara sah, item wajib tersedia, kondisi tubuh memenuhi persyaratan yang berlaku, dan semua syarat resmi lain terpenuhi. **Kultivasi tidak pernah mengurangi `Day left`, sekalipun Sync progress mencapai cap selama time skip.** Ketersediaan ring fisik tidak sama dengan kelayakan karakter; profil dapat menunjukkan `eligible` meski belum ada ring target di lokasi, tetapi proses tidak dapat selesai tanpa ring yang benar-benar tersedia.
 
 Jika status `not eligible yet`, penyerapan tidak boleh berhasil hanya karena pemain mendesak, mengulang permintaan, atau menyatakan karakter memaksakannya. Jika karakter tetap mencoba, resolusikan sebagai **percobaan penyerapan paksa yang tidak memenuhi syarat**: jangan menambah jumlah ring, Qi, slot terisi, atau Spirit Realm; gunakan formula deviasi/damage di §5.1–§5.5 bila kondisi pemicunya tercakup, serta `core/INJURY_SYSTEM.md` untuk mengklasifikasikan cedera berdasarkan bukti kejadian. Formula numerik yang ada terutama mengatur deviasi terkait Gap dan pelanggaran jeda. Jika hard gate gagal, peluang keberhasilan penyerapan adalah 0% dan tidak boleh ada penambahan ring, Qi, slot terisi, atau Spirit Realm. Gunakan §6.1 untuk risiko kecacatan hanya jika percobaan penyerapan yang nyata memang dimulai; untuk pelanggaran yang tidak menghasilkan proses penyerapan aktual, jangan mengarang damage atau hukuman permanen. Kondisi kritis, ancaman kematian, atau kerusakan struktural permanen boleh terjadi hanya bila didukung resolusi resmi dan kejadian—bukan sebagai hukuman otomatis karena pemain bersikeras.
@@ -244,7 +246,7 @@ Jika status `not eligible yet`, penyerapan tidak boleh berhasil hanya karena pem
 
 Jika penyerapan gagal, jangan menambahkan ring ke jumlah yang dimiliki. Terapkan konsekuensi kegagalan dan deviasi sesuai kejadian yang benar-benar terjadi.
 
-Penyerapan paksa membuat sinkronisasi 100% nyaris mustahil. Penyerahan sukarela oleh Spirit Beast membuat sinkronisasi 100% lebih mungkin, tetapi tidak menjamin keberhasilan.
+Penyerapan paksa tidak memberi bonus kompatibilitas atau keberhasilan. Penyerahan sukarela yang benar-benar sah hanya memberi pengaruh `V` yang sudah tercantum di §6.1; pengaruh tersebut tidak menjamin keberhasilan, Sync 100%, atau menghapus tekanan usia dan AWR. Jangan menerapkan bonus sukarela tambahan di luar formula §6.1.
 ### 5.6. Pembentukan dan kombinasi kemampuan Spirit Ring
 
 Kemampuan yang diperoleh dari Spirit Ring terbentuk melalui interaksi antara **Martial Soul yang sudah dimiliki**, karakteristik Spirit Beast/ring yang diserap, rumusan atau formulasi kemampuan, serta hasil sinkronisasi. Spirit Ring memperluas atau mengombinasikan kemampuan Martial Soul; hasilnya tidak harus menjadi salinan langsung kemampuan Beast.
@@ -347,13 +349,13 @@ Hasil adalah persen. Batas 5–95% berlaku hanya pada percobaan yang layak; hard
 
 Hitung peluang kecacatan **dengan syarat penyerapan yang layak telah gagal**:
 
-`D = clamp(5 + 10E_eff + 5G + 0,5X − 0,3P, 1, 95)`
+`P_defect_fail = clamp(5 + 10E_eff + 5G + 0,5X − 0,3P, 1, 95)`
 
 Lalu peluang kecacatan permanen keseluruhan dari percobaan layak:
 
-`P_defect = ((100 − P_success)/100) × D`
+`P_defect = ((100 − P_success)/100) × P_defect_fail`
 
-D dan P_defect dinyatakan dalam persen. Gunakan P_defect sebagai peluang keseluruhan kecacatan permanen; gunakan D hanya jika perlu menjelaskan peluang kecacatan dengan syarat kegagalan sudah terjadi. Kegagalan tidak otomatis menyebabkan kecacatan permanen. Cedera sementara, kerusakan berat, dan kecacatan permanen adalah hasil berbeda yang harus diselesaikan sesuai formula, aturan injury, dan bukti kejadian. Jangan mengarang hukuman permanen di luar hasil mekanik ini.
+`P_defect_fail` dan `P_defect` dinyatakan dalam persen. Gunakan `P_defect` sebagai peluang keseluruhan kecacatan permanen; gunakan `P_defect_fail` hanya jika perlu menjelaskan peluang kecacatan dengan syarat kegagalan sudah terjadi. Notasi ini dibedakan dari `D`, yang di §5 berarti persentase deviasi. Kegagalan tidak otomatis menyebabkan kecacatan permanen. Cedera sementara, kerusakan berat, dan kecacatan permanen adalah hasil berbeda yang harus diselesaikan sesuai formula, aturan injury, dan bukti kejadian. Jangan mengarang hukuman permanen di luar hasil mekanik ini.
 
 #### F. Anomalous World Rejection (AWR)
 

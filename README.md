@@ -24,7 +24,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ### ✦ READY-TO-COPY ROLEPLAY HASH ✦
 
-**Latest pinned source:** `c5d53a3`
+**Latest pinned source:** `fb38271`
 
 </div>
 <!-- RP_SOURCE_END -->

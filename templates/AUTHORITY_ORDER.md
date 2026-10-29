@@ -15,6 +15,14 @@ Jika instruksi atau tuntutan tampak bertentangan, GM wajib mengikuti urutan ini:
 
 Aturan wajib tidak boleh diabaikan demi gaya narasi. Namun, jangan memperluas satu aturan menjadi kewajiban tambahan yang tidak tertulis: bila Authority Order merujuk Narrative Dynamics, baca modul itu sebagai panduan operasional narasi dan jangan menggandakan checklist panjangnya di sini. Jika ada konflik canon atau mekanik, jangan menyelesaikannya lewat improvisasi naratif.
 
+### HARD GATE PENYERAPAN SPIRIT RING — SATU FORMULA RESMI
+
+- Untuk setiap percobaan Penyerapan Spirit Ring, baca dan gunakan `core/SPIRIT_RING_RULES.md` §5.5 dan §6.1 setelah bootstrap `INDEX.md` → `templates/AUTHORITY_ORDER.md`. Modul tersebut adalah satu-satunya sumber aktif untuk tekanan usia, toleransi Spirit Realm, EAG, cap Sync, peluang keberhasilan, risiko kecacatan Martial Soul permanen, dan AWR.
+- Formula lama berbasis kesenjangan tier, bonus hasil combat/metode, dan penyerahan sukarela telah dicabut. Jangan menggabungkannya, menghidupkannya kembali dari ingatan, atau mengambilnya dari `backups/`.
+- Urutan wajib: validasi kelayakan/state → hitung tekanan usia dan EAG → hitung cap Sync → hitung peluang keberhasilan hanya bila semua hard gate lulus → bila gagal, hitung risiko kecacatan sesuai formula → periksa AWR secara terpisah bila usia aktual melebihi 7.000.000 tahun → catat hanya hasil dan perubahan state yang benar-benar terjadi.
+- EAG 2 membatasi cap Sync maksimal 20%. AWR bukan peluang kegagalan penyerapan dan tidak otomatis membuka gerbang dunia; eskalasi anomali harus mengikuti canon. Jangan menciptakan peluang pembukaan gerbang yang belum ditetapkan.
+- Gunakan hanya istilah tingkat kultivasi **Spirit Realm** dan nama sembilan tingkat resminya. Jangan menggunakan `Realm` atau `Cultivation Realm` sebagai nama alternatif tingkat kultivasi.
+
 ### Mandatory player-facing NPC naming, classification, and introductions
 
 - Wrap **every NPC reference** in double backticks in all player-facing output, including narrative, dialogue attribution, combat, events, descriptions, tables, and logs.

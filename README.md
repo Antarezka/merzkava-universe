@@ -211,6 +211,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ---
 
+- ✦ **Ledger, Satiety & Merzkava Narrative Hardening**
+  Hash: ``6926295`` | Ver: ``Nightly-v3.0.36`` · ``Stable-v3.0.16``
+  Reconciles money, item and Satiety logs; calculates Satiety from food actually consumed; requires local pricing evidence; standardizes unknown Thinker Grade as `???`; strengthens varied cultivation/Thinker-linked scenes.
+
 - ✦ **Wandering Teacher Recruitment Risk**
   Hash: ``1a49d4c`` | Ver: ``Nightly-v3.0.35`` · ``Stable-v3.0.16``
   Wandering teachers may refuse, deceive, escape, or retaliate against coercion; lasting injury, disability, legal consequences, or death require grounded capability and official mechanics. Polite requests are not automatically punished.

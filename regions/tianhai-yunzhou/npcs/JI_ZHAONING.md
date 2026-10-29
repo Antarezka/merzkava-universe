@@ -21,7 +21,7 @@ Ji Zhaoning is the elder twin daughter of Maharaja Ji Haoyuan and the late Bai X
 - Spirit Realm: None established; she has not undergone awakening.
 - Martial Soul: Not yet awakened or established.
 - Spirit Rings and techniques: None established.
-- Thinker Grade: Not established. Her focus on Thinker development does not itself determine her current grade.
+- Thinker Grade: ???. Her focus on Thinker development does not itself determine her current grade.
 - Equipment and limitations beyond her unawakened status: Not established.
 - Mechanics sources: core/THINKER_AND_FORMULATION.md; core/MARTIAL_SOUL_AWAKENING.md; core/CULTIVATION_SYSTEM.md.
 

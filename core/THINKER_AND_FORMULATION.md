@@ -305,7 +305,7 @@ These are prerequisites to register for the relevant examination, not automatic 
 **Grade 8:** The candidate must meet the personal-designed engraver requirement and have personally produced and still own all of the following:
 - At least 10 Tier 6 Artificial Artifacts.
 - At least 5 Tier 5 Artificial Artifacts.
-- At least 1 Tier 8 Artificial Artifact with condition Rendah or higher.
+- At least 1 Tier 8 Artificial Artifact with condition exactly Rendah.
 
 **Grade 9:** The candidate must meet the personal-designed engraver requirement and have personally produced and still own at least 30 Tier 8 Artificial Artifacts, every one of which has condition Baik or Origin.
 

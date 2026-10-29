@@ -237,8 +237,8 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 ---
 
 - ✦ **Unified Spirit Ring Absorption & AWR Calibration**
-  Hash: ``45b11e8`` | Ver: ``Nightly-v4.0.11`` · ``Stable-v4.0.1``
-  Replaces the legacy tier-gap formula with continuous age pressure, EAG Sync caps, absorption chance, permanent-defect risk, and separate AWR; INDEX and Authority Order now enforce one official route.
+  Hash: ``07cae10`` | Ver: ``Nightly-v4.0.11`` · ``Stable-v4.0.1``
+  Consolidates all numeric absorption formulas in §6.1, removes conflicting legacy voluntary-sync wording, separates permanent-defect chance from the §5 deviation variable, and keeps INDEX/Authority Order routed to one source.
 
 - ✦ **Stable Version GitHub Mark Restored**
   Hash: ``e41e912`` | Ver: ``Nightly-v4.0.10`` · ``Stable-v4.0.1``

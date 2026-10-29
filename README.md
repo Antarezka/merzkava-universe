@@ -22,11 +22,9 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ![RP SOURCE](https://img.shields.io/badge/RP_SOURCE-PINNED_COMMIT-151515?style=for-the-badge&labelColor=FFB36B)
 
-### ✦ LATEST SNAPSHOT REFERENCE · MAINTENANCE ONLY ✦
+### ✦ READY-TO-COPY ROLEPLAY HASH ✦
 
-**Latest pinned source:** `4db3f61`
-
-<sub>Reference for maintaining the gameplay trigger and update log only. Bootstrap authority is `INDEX.md` → `templates/AUTHORITY_ORDER.md`; README is never a gameplay bootstrap source or fallback.</sub>
+**Latest pinned source:** `78c671d`
 
 </div>
 <!-- RP_SOURCE_END -->

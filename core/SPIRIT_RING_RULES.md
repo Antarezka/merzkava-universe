@@ -363,9 +363,9 @@ AWR adalah risiko penolakan dunia terhadap keberadaan Spirit Beast yang terlalu 
 
 Tentukan tingkat penolakan `S`: EAG 0 = 0; EAG 1 = 1; EAG 2 = 2; EAG 3+ = 3; gunakan S = 4 bila X > 18, sebagai penolakan ekstrem.
 
-`P_AWR = min(75, Q × (10 + 2G + 2S))`
+`P_AWR = min(75, Q × (15 + 3G + 3S))`
 
-Hasil adalah persen. Formula meningkat secara berkelanjutan setelah ambang 7 juta tahun dan dipengaruhi usia, agresivitas, serta tekanan penolakan. Kesiapan P dan penyerahan sukarela V tidak menghapus AWR. Batas 75% adalah batas kalibrasi, bukan jaminan bahwa setiap kejadian akan terjadi atau bahwa dunia kebal di atasnya.
+Hasil adalah persen. Formula meningkat secara berkelanjutan setelah ambang 7 juta tahun dan dikalibrasi agresif: usia, agresivitas, serta tekanan penolakan dapat menaikkan AWR dengan cepat ketika usia jauh melampaui ambang. Kesiapan P dan penyerahan sukarela V tidak menghapus AWR. Batas 75% adalah batas kalibrasi, bukan jaminan bahwa setiap kejadian akan terjadi atau bahwa dunia kebal di atasnya.
 
 Jika pemeriksaan AWR terpicu, selesaikan sebagai pemeriksaan kejadian anomali yang terpisah dari hasil penyerapan. AWR terpicu **tidak otomatis membuka gerbang dunia**; pembukaan gerbang memerlukan eskalasi kejadian yang sesuai dengan canon anomali di `world/HISTORY.md` dan keputusan canon terkait. Jangan mengarang peluang pembukaan gerbang yang belum ditetapkan, dan jangan mengubah AWR menjadi konsekuensi otomatis hanya karena Beast berusia lebih dari 7 juta tahun.
 

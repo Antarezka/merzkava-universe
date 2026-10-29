@@ -212,7 +212,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 ---
 
 - ✦ **Double-Backtick Classification Labels · 4.x Stable Promotion**
-  Hash: ``6c91334`` | Ver: ``Nightly-v4.0.1`` · ``Stable-v4.0.0``
+  Hash: ``cd5a4a7`` | Ver: ``Nightly-v4.0.1`` · ``Stable-v4.0.0``
   Removes asterisks from classification labels so only the label text sits inside double backticks; promotes the tested Stable line to 4.x and keeps Nightly one patch above Stable.
 
 - ✦ **Ledger, Satiety & Merzkava Narrative Hardening**

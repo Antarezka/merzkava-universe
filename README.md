@@ -24,7 +24,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ### ✦ READY-TO-COPY ROLEPLAY HASH ✦
 
-**Latest pinned source:** `c58e3c8`
+**Latest pinned source:** `34b723b`
 
 </div>
 <!-- RP_SOURCE_END -->
@@ -195,9 +195,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" alt="GitHub" />
 
-![NIGHTLY](assets/nightly-version.svg?v=8)
+![NIGHTLY](assets/nightly-version.svg?v=9)
 
-<sub><span style="color:#D4AF37"><strong>v3.0.20</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v3.0.21</strong></span></sub>
 
 </td>
 </tr>
@@ -210,6 +210,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 *Recent world and system updates*
 
 ---
+
+- ✦ **GM Authority × Ordo Suci Tianming — Jurisdiction Boundaries Clarified**
+  Hash: ``34b723b`` | Ver: ``Nightly-v3.0.21`` · ``Stable-v3.0.16``
+  Separated meta-level anti-cheat enforcement from in-world institutional action. Ordo cannot see GM violation logs or police ordinary bypass; Ruined Archiver verifies Ruined-related evidence, while actual local legal cases remain with the proper territorial authority.
 
 - ✦ **Medicine Hall — Treatment and Emergency Rescue Rules Aligned**
   Hash: ``d79ae1a`` | Ver: ``Nightly-v3.0.20`` · ``Stable-v3.0.16``

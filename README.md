@@ -211,9 +211,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ---
 
-- ✦ **Single GM Options Control — Canonical**
-  Hash: ``ae241e3`` | Ver: ``Nightly-v3.0.30`` · ``Stable-v3.0.16``
-  Kept `Provide GM options: (Yes/No)` as the only player preference control across bootstrap guidance and all six player snapshots.
+- ✦ **Gameplay Dividers & Merzkava Narrative Gate**
+  Hash: ``048429`` | Ver: ``Nightly-v3.0.30`` · ``Stable-v3.0.16``
+  Enforced exact divider placement and strengthened concrete cultivation-world relevance without weakening narrative depth or canon checks.
 
 - ✦ **Thinker Hard Gate & T.Focus Field Rules**
   Hash: ``9cae9d3`` | Ver: ``Nightly-v3.0.30`` · ``Stable-v3.0.16``

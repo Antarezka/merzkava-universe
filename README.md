@@ -200,6 +200,8 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 <tr>
 <td align="center">
 
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" alt="GitHub" />
+
 ![STABLE](assets/stable-version.svg?v=2)
 
 <sub><span style="color:#D4AF37"><strong>v4.0.1</strong></span></sub>
@@ -225,6 +227,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ---
 
+- ✦ **Stable Version GitHub Mark Restored**
+  Hash: ``e41e912`` | Ver: ``Nightly-v4.0.10`` · ``Stable-v4.0.1``
+  Restores the GitHub symbol above the Stable badge, matching the Nightly version cell without changing version assets or layout.
+
 - ✦ **Safe Version & Rollback Baseline Locked**
   Hash: ``32babe3`` | Ver: ``Nightly-v4.0.10`` · ``Stable-v4.0.1``
   Preserves the accepted v4.0.10 snapshot on `SAFE-VERSION-v4.0.10` and documents the preserved repo structure and recovery procedure in `SAFE_VERSION.md`.
@@ -244,10 +250,6 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **Gameplay Template · Merzkava Narrative Gate**
   Hash: ``33408f1`` | Ver: ``Nightly-v4.0.6`` · ``Stable-v4.0.1``
   Streamlines repeated rules and strengthens causal Merzkava identity, bounded GM improvisation, concrete timestamps, and final validation while preserving all required panels, ledger, NPC, Thinker, and anti-cheat gates.
-
-- ✦ **Classification Label Alignment · Plain Double-Backtick Text**
-  Hash: ``a9548b2`` | Ver: ``Nightly-v4.0.4`` · ``Stable-v4.0.1``
-  Aligns classification labels across INDEX, Authority Order, and the gameplay response template; appraisal explanations remain outside the label.
 
 
 </div>

@@ -20,7 +20,7 @@
 
 - **General position:** The southwestern ocean; the territory is centered on a giant floating island.
 - **Exact coordinates, borders, scale, neighboring islands, and distances:** Not established.
-- **Sea name:** Not yet officially named.
+- **Sea name:** Yunmeng Sea (云梦海), the southwestern ocean beneath and around Tianhai Yunzhou's floating island. See `world/MAP_AND_REGIONS.md` and `world/GEOGRAPHY_AND_TRAVEL.md` for the canonical maritime network.
 - **Routes to other powers and ports:** Three direct inter-power Artificial Artifact air-transit corridors connect the three powers: Longyuan Sky Transit Terminal ↔ Cangqiong Sky Transit Terminal, Beiming Heartland Sky Transit Terminal ↔ Cangqiong Sky Transit Terminal, and Longyuan Sky Transit Terminal ↔ Beiming Heartland Sky Transit Terminal. The direct Golden Dragon–Beiming service uses the same Beiming destination terminal as the Tianhai–Beiming service; a transfer through Tianhai Yunzhou is not required. Exact coordinates, distances, and travel times remain unknown. Verify route access and disruptions through `world/LOCATION_AND_ROUTE_NETWORK.md`, `world/GEOGRAPHY_AND_TRAVEL.md`, and `gameplay/TIME_AND_ACTION_RULES.md`.
 - **Sea access:** Maritime routes remain strategically important, but these air-transit corridors do not establish specific sea routes, ship schedules, blockades, or current control.
 

@@ -173,7 +173,7 @@ Lawless Territories are not a single faction or unified state. The following gro
 
 The Medicine Hall Society is a neutral medical network spread across the world. Its overall hierarchy, world leadership, and universal fee schedule remain unestablished. The central headquarters is in the Golden Dragon Empire; Tianhai Yunzhou also has an established local service network whose exact points and boundaries are maintained in `world/REGION_TIANHAI_YUNZHOU.md` §14.3.
 
-The Society's neutral intent does not guarantee that neutrality can never be violated, that every point is fully staffed, or that treatment is free. Independent healers, family practitioners, and local herbalists may work outside the Society. Do not assume every healer belongs to it.
+The Society's neutral intent does not guarantee that neutrality can never be violated, that every point is fully staffed, or that treatment is free. Independent healers, family practitioners, and local herbalists may work outside the Society. Do not assume every healer belongs to it. Healer presence and affiliation do not guarantee treatment success: resolve injury care under `core/INJURY_SYSTEM.md`, HP changes under `core/HP_SYSTEM.md`, and wandering-healer emergency encounters under `gameplay/TRAVEL_ENCOUNTER_AMBUSH_RESCUE.md`. No universal skill tier, cure rate, medicine stock, or fee schedule is established.
 
 ## 9. Hidden Mountain Traditions
 

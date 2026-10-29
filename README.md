@@ -24,7 +24,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ### ✦ READY-TO-COPY ROLEPLAY HASH ✦
 
-**Latest pinned source:** `e59c05a`
+**Latest pinned source:** `fd3042d`
 
 </div>
 <!-- RP_SOURCE_END -->
@@ -213,28 +213,15 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 - ✦ **GM Options — Exact Three-Choice Gate**
   Hash: ``fd3042d`` | Ver: ``Nightly-v3.0.30`` · ``Stable-v3.0.16``
-  `Yes` requires exactly three options in the A/B/C format; `No` disables recommendations, and an unresolved `Yes/No` defaults to none.
+  `Yes` requires exactly three A/B/C options; `No` disables them, and unresolved `Yes/No` defaults to none.
 
-- ✦ **T.Focus Separated from Thinker Grade**
-  Hash: ``cf6279e`` | Ver: ``Nightly-v3.0.30`` · ``Stable-v3.0.16``
-  Character profiles track verified focus-stage evaluation independently; ongoing training cannot automatically advance T.Focus.
-
-- ✦ **Mandatory Thinker Gameplay Hard Gate**
+- ✦ **Thinker Hard Gate & T.Focus**
   Hash: ``79dab64`` | Ver: ``Nightly-v3.0.30`` · ``Stable-v3.0.16``
-  Thinker actions must validate focus, training, Satiety, exams, quotas, blueprint authorship, artifact ownership, provenance, and records against canon.
+  T.Focus requires verified evaluation separate from Thinker Grade; Thinker actions validate training, Satiety, exams, quotas, blueprint authorship, ownership, provenance, and records.
 
 - ✦ **Artificial Artifact Condition Formula**
   Hash: ``44649ab`` | Ver: ``Nightly-v3.0.27`` · ``Stable-v3.0.16``
-  Added a mandatory post-success Condition Score using Tier difficulty, maker readiness/skill/experience/consistency, environmental penalties, and Origin at 97% or higher.
-
-- ✦ **Bootstrap Authority — INDEX → Authority Order**
-  Hash: ``6a5fa7b`` | Ver: ``Nightly-v3.0.25`` · ``Stable-v3.0.16``
-  Gameplay bootstrap starts at `INDEX.md`, then `templates/AUTHORITY_ORDER.md`. README remains maintenance-only and cannot bootstrap gameplay or define rules.
-
-- ✦ **Thinker Rules Wired into Bootstrap & Authority Gates**
-  Hash: ``ed92a0c`` | Ver: ``Nightly-v3.0.30`` · ``Stable-v3.0.16``
-  INDEX and Authority Order enforce training/Satiety, Grade 2+ condition checks, Grade 3–7 quotas and ranking evidence, and the 3-hour action limit.
-
+  Successful production requires a Condition Score based on Tier difficulty, maker readiness and skill, consistency, environmental penalties, and Origin.
 </div>
 
 

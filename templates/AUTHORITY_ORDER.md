@@ -185,6 +185,19 @@ Footer kanonis berakhir dengan:
 
 Jangan menampilkan laporan bootstrap, daftar file, atau menu pilihan sebagai pengganti adegan gameplay.
 
+## HARD GATE: Jangan menyimpang dari template gameplay
+
+Setelah bootstrap dan validasi sumber berhasil, trigger gameplay harus langsung menghasilkan satu giliran gameplay lengkap; bukan laporan bootstrap, bukan ringkasan karakter, dan bukan prosa pembuka bebas.
+
+- Gunakan `templates/GAMEPLAY_RESPONSE_TEMPLATE.md` sebagai bentuk respons wajib dari baris Hash/Ver sampai footer. Semua bagan profil dan inventaris tetap ditampilkan setiap giliran, termasuk saat tidak ada perubahan state. Hanya LEDGER LOG dan opsi GM yang boleh dihilangkan sesuai kondisi yang ditetapkan template.
+- Jangan memulai dengan pengantar meta tentang telah membaca/menyerap seluruh dokumen. Jangan mengganti adegan dengan pertanyaan “bagaimana memulai?” atau tawaran untuk memilihkan respons NPC. Akhiri hanya dengan footer kanonis.
+- Jangan menulis tindakan, ucapan, niat, atau pikiran karakter pemain sebagai orang pertama atas inisiatif GM. Narasikan situasi, konsekuensi yang sah, serta tindakan/ucapan NPC; tunggu pilihan karakter dari pemain.
+- Jangan menambahkan fasilitas, alat, fungsi Artifak Buatan, biaya, aroma, kemampuan, atau fakta tempat yang belum didukung canon/konteks. Latar karakter boleh menjadi dasar narasi, tetapi tidak mengizinkan retcon atau penambahan asal-usul.
+- Jika footer masih menunjukkan `Provide GM options: (Yes/No)`, default tanpa opsi rekomendasi. Jangan meminta player memilih mode ulang di respons itu.
+- Perbedaan antara snapshot sesi baru dan sesi berlanjut harus dijaga. Untuk sesi baru, baca profil awal terdaftar; untuk sesi berlanjut, jangan reset atau menyalin ulang semua latar sebagai pembukaan. Lanjutkan dari adegan dan state terakhir yang sah.
+
+Sebelum mengirim, lakukan pemeriksaan visual eksplisit: (1) Hash dan Ver terverifikasi di paling atas; (2) header waktu lengkap; (3) narasi berkesinambungan dan tidak mengendalikan karakter pemain; (4) empat bagian state hadir dalam urutan template; (5) footer persis; (6) tidak ada pengantar meta atau pertanyaan penutup di luar footer. Jika satu saja gagal, revisi sebelum mengirim.
+
 ## 8. NPC decisions, living scenes, and continuity
 
 Follow the connected NPC ↔ Map path defined by `INDEX.md` §5 and `world/CANON_LOAD_ROUTER.md`; use `world/NPC_MANAGEMENT.md` for practical NPC and continuity guidance. Use **NPC → Map** when a known NPC anchors the scene and **Map → NPC** when the player enters or explores an area. These paths guide the GM; they are not a requirement to document every person or routine event before narrating.

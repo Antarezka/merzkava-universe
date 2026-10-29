@@ -65,8 +65,7 @@ Hash: ``<short SHA snapshot>`` | Ver: ``Nightly-<versi Nightly terverifikasi>``
 ༺━━━━━━━━━━━━━━━━༻
 
 🕒 Waktu Merzkava Universe
-Tahun: <tahun konkret>
-Era: ...
+Tahun: <tahun konkret> Era <nama era>
 Musim: ... | Tanggal: ...
 Hari: ... | Cuaca: ... | Jam: HH:MM | Siklus: ...
 

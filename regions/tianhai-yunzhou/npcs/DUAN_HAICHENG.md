@@ -31,7 +31,8 @@
 - **Martial Soul:** Not established.
 - **Spirit Rings and abilities:** Not established.
 - **Techniques / combat style:** Not established.
-- **Thinker Grade / specialties:** Not established.
+- **Thinker Grade:** ???
+- **Thinker specialties:** Not established.
 - **Equipment:** Not established.
 - **Known limitations:** Commercial experience does not establish Thinker certification, artifact craftsmanship, or combat skill.
 - **Source module for mechanics:** `core/THINKER_AND_FORMULATION.md`; other capabilities follow relevant official modules.

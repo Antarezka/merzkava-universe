@@ -211,30 +211,17 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ---
 
+- ✦ **GM Bootstrap & Narrative Gate Optimization**
+  Hash: ``9eb1920`` | Ver: ``Nightly-v4.0.5`` · ``Stable-v4.0.1``
+  Shortens the bootstrap and duplicated narrative gates; lets the GM develop plausible unestablished scene details and choose a concrete session year, while protecting canon, mechanics, player agency, and persistent state.
+
 - ✦ **Classification Label Alignment · Plain Double-Backtick Text**
   Hash: ``a9548b2`` | Ver: ``Nightly-v4.0.4`` · ``Stable-v4.0.1``
-  Removes asterisks from labels inside double backticks while preserving `Unknown` and keeping appraisal explanation outside the label. Aligns INDEX, Authority Order, and the gameplay response template.
-
-- ✦ **Gameplay Structure Rollback · Snapshot Alignment**
-  Hash: ``c99732b`` | Ver: ``Nightly-v4.0.3`` · ``Stable-v4.0.1``
-  Restores `templates/GAMEPLAY_RESPONSE_TEMPLATE.md`, `INDEX.md`, and `templates/AUTHORITY_ORDER.md` to their exact contents at snapshot `9099e38`; other mechanics and lore modules remain untouched.
+  Aligns classification labels across INDEX, Authority Order, and the gameplay response template; appraisal explanations remain outside the label.
 
 - ✦ **Mechanics-Driven Narrative Integration**
   Hash: ``0ec920d`` | Ver: ``Nightly-v4.0.3`` · ``Stable-v4.0.1``
-  Strengthens causal scene-level use of cultivation, Spirit Realm/PowerScale, Martial Soul, Spirit Ring age and compatibility, Thinker progression, personal-blueprint engravers, and Artificial Artifact provenance/series codes—without inventing canon or forcing every topic into every scene.
-
-- ✦ **Double-Backtick Classification Labels · 4.x Stable Promotion**
-  Hash: ``cd5a4a7`` | Ver: ``Nightly-v4.0.1`` · ``Stable-v4.0.0``
-  Removes asterisks from classification labels so only the label text sits inside double backticks; establishes the 4.x release line.
-
-- ✦ **Ledger, Satiety & Merzkava Narrative Hardening**
-  Hash: ``0f6f063`` | Ver: ``Nightly-v3.0.36`` · ``Stable-v3.0.16``
-  Reconciles money, item and Satiety logs; calculates Satiety from food actually consumed; requires local pricing evidence; standardizes unknown Thinker Grade as `???`; strengthens varied cultivation/Thinker-linked scenes.
-
-- ✦ **Wandering Teacher Recruitment Risk**
-  Hash: ``1a49d4c`` | Ver: ``Nightly-v3.0.35`` · ``Stable-v3.0.16``
-  Wandering teachers may refuse, deceive, escape, or retaliate against coercion; lasting injury, disability, legal consequences, or death require grounded capability and official mechanics. Polite requests are not automatically punished.
-
+  Strengthens causal scene-level use of cultivation, Spirit Realm/PowerScale, Martial Soul, Spirit Ring, Thinker progression, personal-blueprint engravers, and Artificial Artifact provenance/series codes without forcing every topic into every scene.
 </div>
 
 

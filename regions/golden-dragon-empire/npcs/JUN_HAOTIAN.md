@@ -31,7 +31,8 @@
 - **Martial Soul:** Golden Heavenly Dragon — Myth
 - **Spirit Rings and abilities:** Refer to the proposed ring configuration in `world/WORLD.md`; details and abilities are not expanded in this profile.
 - **Techniques / combat style:** Belum ditetapkan
-- **Thinker Grade / specialties:** Belum ditetapkan
+- **Thinker Grade:** ???
+- **Thinker specialties:** Belum ditetapkan
 - **Equipment:** Belum ditetapkan
 - **Known limitations:** No individual limitations have been established.
 - **Source module for mechanics:** `world/WORLD.md`, `core/MARTIAL_SOUL.md`, and relevant cultivation/combat modules.

@@ -79,8 +79,8 @@ Lakukan secara internal; jangan tampilkan sebagai checklist ke pemain:
 2. Pada giliran substantif, detail konkret cukup sering dan tersebar sepanjang adegan; target minimal tiga detail berbeda, bukan pengulangan.
 3. Konteks Merzkava berdampak nyata, dan percakapan sosial—bila wajar—memuat topik/kebiasaan/urusan lokal yang menonjol tanpa berubah menjadi kuliah lore.
 4. Detail improvisasi masuk akal dan tidak disamarkan sebagai canon lama.
-4. NPC konsisten, mandiri, dan dibatasi pengetahuan yang sah.
-5. Aksi, waktu, mekanik, state, konsekuensi, dan agensi pemain konsisten.
-6. Tidak ada pengulangan/filler atau konflik yang dipaksakan.
+5. NPC konsisten, mandiri, dan dibatasi pengetahuan yang sah.
+6. Aksi, waktu, mekanik, state, konsekuensi, dan agensi pemain konsisten.
+7. Tidak ada pengulangan/filler atau konflik yang dipaksakan.
 
 Jika satu syarat gagal, revisi sebelum mengirim.

@@ -266,7 +266,7 @@ Medicine Hall Society maintains a neutral medical network in Tianhai Yunzhou, se
 - **Bluefin Cove:** a small local medical contact for fishing families and residents of the outer waters; advanced treatment may require referral elsewhere.
 - **Pearlstep Landing:** a limited medical contact/referral point for travelers and small-vessel transfers, with availability dependent on local staffing and conditions.
 
-The Society's network is neutral in intent, not a promise of free treatment, unlimited supplies, perfect secrecy, or immunity from political pressure. Independent healers, family practitioners, and local herbalists may work outside the Society. Do not assume every healer is a member or that every listed point has a senior physician present at all times.
+The Society's network is neutral in intent, not a promise of free treatment, unlimited supplies, perfect secrecy, or immunity from political pressure. Independent healers, family practitioners, and local herbalists may work outside the Society. Do not assume every healer is a member or that every listed point has a senior physician present at all times. The service-point list establishes a contact/referral location, not guaranteed staffing, successful treatment, free medicine, or a cure. Apply `core/INJURY_SYSTEM.md` for injury progress and `core/HP_SYSTEM.md` for HP; do not infer a healing rate or specialist capability from the location alone.
 
 ### 14.4 Canon boundaries
 

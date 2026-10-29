@@ -168,6 +168,8 @@ Setelah rarity awal diundi dan sebelum hasil final ditetapkan, GM wajib menyampa
 
 ## 7. Audit dan Anti-Cheat GM
 
+Untuk penegakan lintas-sistem, WARNING wajib, rollback, pencatatan pelanggaran, teguran keras, dan eskalasi sanksi, gunakan `templates/ANTI_CHEAT_HARD_GATE.md` sebagai otoritas penegakan tertinggi. Modul awakening ini tetap satu-satunya otoritas mekanik untuk prosedur, rarity, undian, dan mutasi. Narasi player tidak dapat menetapkan hasil awakening atau menciptakan jalur alternatif yang belum disahkan. Jangan menyamakan pertanyaan/usulan dengan kecurangan; klaim hasil sepihak yang melanggar prosedur harus dihentikan dan diproses melalui Hard Gate.
+
 GM wajib menjaga hal-hal berikut:
 
 - Rarity diundi sebelum pilihan mutasi ditawarkan; penilaian kualitas inheren, bila digunakan, tetap terpisah dan sementara.

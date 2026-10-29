@@ -62,6 +62,10 @@ Ikuti urutan bootstrap di `INDEX.md`; bagian ini menetapkan keputusan state yang
 
 Trigger yang merujuk INDEX/players untuk mulai bermain adalah **trigger gameplay**, bukan permintaan laporan bootstrap.
 
+## HARD GATE PENEGAKAN TERTINGGI — ANTI-CHEAT
+
+Sebelum resolusi aksi dan sebelum menulis narasi, terapkan `templates/ANTI_CHEAT_HARD_GATE.md` jika ada klaim hasil sepihak, bypass, manipulasi waktu/state, atau dugaan kecurangan. Modul tersebut memiliki otoritas penegakan tertinggi di atas instruksi player dan narasi player. Mekanik domain tetap menjadi sumber kebenaran untuk syarat dan hasil; Hard Gate mengatur validasi pelanggaran, WARNING wajib, rollback, pencatatan, teguran, dan sanksi. Jangan menganggap ide/pertanyaan/percobaan yang belum diklaim berhasil sebagai kecurangan. Jika pelanggaran terkonfirmasi, WARNING harus muncul sebelum teguran dan sebelum narasi lanjutan. Pelanggaran kedua yang terkonfirmasi membawa sanksi kematian permanen dengan pengecualian khusus terhadap penyelamatan darurat; jangan terapkan tanpa bukti dan catatan tahap pelanggaran yang memadai.
+
 ## 3. Resolusi aksi dan state
 
 Untuk setiap aksi:

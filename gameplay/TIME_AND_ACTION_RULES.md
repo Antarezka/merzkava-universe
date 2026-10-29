@@ -104,6 +104,10 @@ Jika karakter belum pernah berhasil menyerap Spirit Ring, jeda antarpenyerapan b
 
 Gunakan satu-satunya pemetaan status kanonis di `templates/CHARACTER_PROFILE_TEMPLATE.md`. Modul ini adalah sumber tunggal untuk rumus dan akumulasi waktu `Day left`, bukan pemetaan status alternatif. Status `eligible` tidak menjamin ring fisik tersedia atau penyerapan berhasil; Spirit Realm 9 selalu `max | ∞ Day left`.
 
+## 7. Anti-cheat enforcement for time and action bypass
+
+Player-declared duration is not proof of completed activity. Validate time passage, the three-hour ordinary-action limit, pure-cultivation time skip, travel, activity separation, Satiety, cooldown accumulation, and all state changes under this module before accepting a claimed result. A player-authored alternative that bypasses these gates is not canon and cannot advance time/state. For a confirmed deliberate bypass or repeated claim of success against a rejected rule, stop and follow `templates/ANTI_CHEAT_HARD_GATE.md`: mandatory WARNING before reprimand, rollback to the last valid state, and the recorded escalation procedure. Do not classify a good-faith question or unresolved attempt as cheating. The anti-cheat second-violation death sanction is a special exception to normal emergency rescue; it does not alter rescue rules for ordinary gameplay incidents.
+
 ## 8. Required Continuity Check
 
 Before sending each gameplay response, verify:

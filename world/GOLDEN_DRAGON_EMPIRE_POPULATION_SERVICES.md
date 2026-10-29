@@ -172,7 +172,7 @@ Medicine Hall Society remains a neutral medical network. This register adds one 
 **Medical network principles**
 - Regional halls coordinate referrals, medical knowledge, and supplies within their means; prefectural clinics provide a local point of contact.
 - Neutrality is a declared institutional principle, not a guarantee that every practitioner is honest or that treatment is free.
-- Special treatments, rare medicines, emergency capacity, prices, and individual doctors must be established in context. Do not infer a cure from the Society's name.
+- Special treatments, rare medicines, emergency capacity, prices, and individual doctors must be established in context. Do not infer a cure from the Society's name. A listed clinic is a service hub/referral point, not a guarantee of a particular specialist, stock, immediate attendance, or successful treatment. Apply `core/INJURY_SYSTEM.md` for injury recovery and `core/HP_SYSTEM.md` for HP; do not derive treatment rates from branch status.
 
 ## 6. Cultivator Academies — two central boarding academies
 

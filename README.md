@@ -239,19 +239,6 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
   Hash: ``09fc0b3`` | Ver: ``Nightly-v4.0.10`` · ``Stable-v4.0.1``
   Raises concrete Merzkava detail frequency throughout substantive scenes and hard-gates three distinct GM options when enabled, including a relevant in-world conversation/social topic or contextual observation alternative.
 
-- ✦ **Authority Hierarchy & Living Merzkava Narrative**
-  Hash: ``af2c709`` | Ver: ``Nightly-v4.0.9`` · ``Stable-v4.0.1``
-  Tightens GM decision precedence and makes Narrative Dynamics the single operational narrative gate: everyday Merzkava life, ahli Spirit Realm, Thinker institutes, and canon-bound power scaling are mandatory in context without forced exposition.
-
-- ✦ **Gameplay Response Template · Merzkava-First Narrative**
-  Hash: ``24caaf2`` | Ver: ``Nightly-v4.0.7`` · ``Stable-v4.0.1``
-  Compresses repeated narrative prompts while prioritizing Merzkava-specific cause-and-effect, bounded GM improvisation, independent NPCs, concrete timestamps, Satiety continuity, and final validation; required panels and mechanics remain mandatory.
-
-- ✦ **Gameplay Template · Merzkava Narrative Gate**
-  Hash: ``33408f1`` | Ver: ``Nightly-v4.0.6`` · ``Stable-v4.0.1``
-  Streamlines repeated rules and strengthens causal Merzkava identity, bounded GM improvisation, concrete timestamps, and final validation while preserving all required panels, ledger, NPC, Thinker, and anti-cheat gates.
-
-
 </div>
 
 

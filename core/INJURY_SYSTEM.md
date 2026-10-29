@@ -54,6 +54,8 @@ Pengobatan hanya dihitung bila semua syarat yang relevan terpenuhi:
 
 Jika seluruh syarat terpenuhi, gunakan laju kolom **Dengan perawatan tepat**. Jika hanya sebagian terpenuhi, jangan otomatis memberikan bonus penuh. Jika pengobatan salah atau berbahaya, efeknya ditentukan oleh fakta dan konsekuensi yang didukung situasi; jangan mengarang efek pasti.
 
+**Batas kemampuan tabib:** keberadaan atau afiliasi tabib dengan Medicine Hall Society tidak otomatis menentukan tingkat keahlian, menjamin keberhasilan, atau memberi bonus angka. Nilai tindakan dari diagnosis/bukti yang tersedia, kecocokan prosedur, kompetensi yang sudah ditetapkan atau secara wajar dibuktikan dalam adegan, alat dan obat yang benar-benar tersedia, serta waktu dan kondisi pasien. Bila kompetensi atau efektivitas khusus belum ditetapkan, gunakan laju dasar **Dengan perawatan tepat** hanya setelah semua syarat §4 terpenuhi; jangan menambah bonus karena gelar, reputasi, atau afiliasi saja. Penanganan darurat/stabilisasi adalah tindakan awal, bukan berarti injury sudah sembuh.
+
 ## 5. Istirahat, Aktivitas, dan Komplikasi
 
 - Istirahat penuh berarti karakter tidak melakukan aktivitas yang mengganggu pemulihan dan mendapat kesempatan memulihkan diri.

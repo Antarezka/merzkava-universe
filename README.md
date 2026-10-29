@@ -24,7 +24,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ### ✦ READY-TO-COPY ROLEPLAY HASH ✦
 
-**Latest pinned source:** `5b6f4f3`
+**Latest pinned source:** `abd9ca1`
 
 </div>
 <!-- RP_SOURCE_END -->
@@ -210,6 +210,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 *Recent world and system updates*
 
 ---
+
+- ✦ **Restore INDEX & Authority Order**
+  Hash: ``abd9ca1`` | Ver: ``Nightly-v4.0.8`` · ``Stable-v4.0.1``
+  Restores both files to the exact versions from snapshot `e395735`; gameplay response-template changes remain untouched.
 
 - ✦ **Gameplay Response Template · Merzkava-First Narrative**
   Hash: ``24caaf2`` | Ver: ``Nightly-v4.0.7`` · ``Stable-v4.0.1``

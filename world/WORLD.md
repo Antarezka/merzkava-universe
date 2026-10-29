@@ -818,6 +818,8 @@ The region's authority is divided by function: regional administration handles c
 
 Ordo Suci Tianming is the world's largest religious organization by follower count in the current setting and is trusted by many powerful individuals and institutions. Its central headquarters is the Sanctum of Ten Thousand Vows, a dedicated religious complex within Wanluo but separate from the World Knowledge Tower. The complex includes a Great Hall of Vows, World Observation Archive, Observation Tower, Threat Assessment Hall, Order Response Compound, and public pilgrim facilities. Its formal doctrine, founder, leader, hierarchy, and founding date remain unestablished. Its named specialist branch, Ruined Archiver, maintains a branch in every city and gathers, verifies, compensates for, and confidentially archives intelligence from Golden Age Ruined; see `world/RUINED_ARCHIVER.md`.
 
+**Mechanical-anomaly enforcement:** A verified character action outside the world's established mechanics is an anomaly. Once it can be detected in-world, the Ordo must dispatch a representative for a formal warning. Knowing defiance after the warning brings an explicit threat of imprisonment; continued violation after that threat brings an in-world death sentence and execution. This is a staged mandate, not instant omniscience: detection, report, travel time, and actual contact must be narrated plausibly. Mere questions, proposals, approved experiments, and rejected meta-level claims that never manifest as in-world action are not grounds for Ordo punishment. GM-level anti-cheat sanctions remain a separate enforcement layer.
+
 
 ## Golden Dragon Empire — Governance Reference
 

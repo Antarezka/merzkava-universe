@@ -1,6 +1,6 @@
 # MERZKAVA UNIVERSE — THINKER & FORMULATION SYSTEM
 
-**Status:** Draft mechanics integrated into the repository; baseline chance matrix is specified by the owner-provided design. Situational modifiers and resolution method remain undefined until formally approved.
+**Status:** Mandatory Thinker progression and certification protocol integrated. The baseline chance matrix is specified by the owner-provided design; situational modifiers, numerical training costs, and unresolved production parameters remain undefined until formally approved.
 
 ## 1. THINKER: INDEPENDENT PROGRESSION
 
@@ -321,7 +321,7 @@ For Grade 10 examination eligibility, the candidate must obtain either:
 
 Recognition is a serious professional commitment that may expose both parties to shared risks, responsibilities, opportunities, and benefits. The precise scope depends on the relationship or agreement actually established; holding a token does not make its issuer automatically responsible for every action of its holder.
 
-Tokens may be requested or processed through a city branch that provides the relevant service, subject to established procedures. Administrative access does not mean recognition can be purchased without the issuer's authorization. The institute must verify the token, issuer identity, issuer Grade, and validity of the recognition.
+Tokens may be ordered through any city branch using the established process. Administrative access does not mean recognition can be purchased without the issuer's authorization; the issuer's actual recognition and token validity must still be verified. The institute must verify the token, issuer identity, issuer Grade, and validity of the recognition.
 
 The recognizing NPC determines a meaningful challenge grounded in their actual knowledge, personality, interests, authority, resources, and circumstances. A challenge may require producing something, completing a difficult or lengthy undertaking, making a legitimate contribution, paying an appropriate fee, providing resources, or fulfilling another justified condition. Challenges may take substantial in-world time. NPCs must not grant recognition automatically because a candidate asks, has a high Grade, or completes an unrelated task; neither may the GM invent arbitrary demands unsupported by the NPC or setting.
 

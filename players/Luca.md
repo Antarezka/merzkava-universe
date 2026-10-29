@@ -11,9 +11,10 @@
 - **Usia:** 16 tahun (diberikan langsung oleh pemain).
 - **Spirit Realm:** Mortal
 - **Sync progress:** 0%/0% (Luca belum memiliki Spirit Ring aktif; belum ada cap kompatibilitas ring yang ditetapkan).
-- **Spirit Ring Absorption:** `*not eligible yet*` | ??? Day left
+- **Spirit Ring Absorption:** ``*not eligible yet*`` | ??? Day left
 - **Martial Soul:** ??? (Luca belum menjalani atau menyelesaikan proses Awakening yang sah; jangan menetapkan Martial Soul sebelum kejadian Awakening yang sah).
-- **Thinker Grade:** Belum ditetapkan.
+- **Thinker Grade:** ``*Belum ditetapkan*``.
+- **T.Focus:** ``*Belum ditetapkan*`` (belum ada tahap fokus Thinker yang terverifikasi; jangan menyimpulkan dari Thinker Grade).
 - **HP:** 100/100 (nilai awal sesi baru untuk Mortal, sesuai `core/HP_SYSTEM.md`).
 - **Satiety:** 75/100 (estimasi awal konservatif GM; bukan nilai yang telah dialami dalam gameplay).
 - **Qi:** 0.

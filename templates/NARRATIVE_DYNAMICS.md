@@ -115,6 +115,7 @@ Untuk penanganan, tahapan, WARNING wajib, rollback, pencatatan, dan sanksi, ikut
 - Semua NPC sekitar yang mengetahui kejadian harus menunjukkan reaksi negatif, tetapi bentuk dan intensitasnya berbeda sesuai kepribadian, kepentingan, norma setempat, dan apa yang mereka pahami. NPC yang tidak melihat, mendengar, atau belum menerima informasi tidak boleh ikut bereaksi seolah-olah tahu; reputasi dapat menyebar hanya melalui jalur informasi yang masuk akal. NPC tidak mengetahui niat meta player atau aturan anti-cheat di luar informasi yang tersedia bagi mereka.
 - Reaksi sosial adalah penalti pertama yang wajib, bersama WARNING, teguran keras, rollback, dan pencatatan pelanggaran yang diwajibkan Hard Gate. Jangan menambahkan denda, cedera, penjara, atau hukuman mekanik otomatis lain tanpa dasar canon atau sebab-akibat yang sah.
 - Jangan menjadikan otonomi NPC sebagai alasan untuk melewati prosedur anti-cheat, mengarang hukuman tambahan, atau menghapus sanksi resmi. Jangan pula menghukum kreativitas atau pertanyaan yang diajukan sebagai usulan sebelum GM memutuskan hasilnya.
+- **Jangan samakan penegakan GM dengan pengetahuan institusi in-world.** Ordo Suci Tianming tidak otomatis mengetahui pelanggaran meta atau menerima catatan Hard Gate. NPC hanya dapat melaporkan tindakan yang mereka lihat/pahami; Ordo hanya dapat menyelidiki bila laporan dan bukti masuk ke mandatnya. Jika tindakan juga melanggar hukum setempat, gunakan otoritas lokal yang tepat. Jangan memanggil Ordo sekadar agar hukuman anti-cheat terasa lebih dramatis.
 
 ## Agensi pemain
 

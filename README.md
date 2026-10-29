@@ -24,7 +24,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ### ✦ READY-TO-COPY ROLEPLAY HASH ✦
 
-**Latest pinned source:** `d3ebec7`
+**Latest pinned source:** `4db3f61`
 
 </div>
 <!-- RP_SOURCE_END -->
@@ -211,9 +211,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ---
 
-- ✦ **Ordo Suci Tianming — Red Notice & Natural Enforcement**
-  Hash: ``3fe395a`` | Ver: ``Nightly-v3.0.23`` · ``Stable-v3.0.16``
-  Red Notice now drives natural in-world consequences: informed NPCs may avoid, refuse aid, or report sightings; Ordo dispatch, orientation/rehabilitation, imprisonment threat, and mandatory execution follow staged procedure. GM warnings stay separate, while detection and travel remain realistic.
+- ✦ **Ordo Suci Tianming — Red Notice Canon Alignment**
+  Hash: ``4db3f61`` | Ver: ``Nightly-v3.0.24`` · ``Stable-v3.0.16``
+  Clarified mandatory Red Notice/Ordo dispatch for confirmed mechanical violations, visible fear and avoidance among informed NPCs, realistic reports and travel, and staged orientation, prison threat, and execution. GM sanctions remain distinct; players cannot erase established Ordo decisions by meta request.
 
 - ✦ **Medicine Hall — Treatment and Emergency Rescue Rules Aligned**
   Hash: ``d79ae1a`` | Ver: ``Nightly-v3.0.20`` · ``Stable-v3.0.16``

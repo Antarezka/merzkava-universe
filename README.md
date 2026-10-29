@@ -24,7 +24,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ### ✦ READY-TO-COPY ROLEPLAY HASH ✦
 
-**Latest pinned source:** `11dea49`
+**Latest pinned source:** `7826370`
 
 </div>
 <!-- RP_SOURCE_END -->
@@ -216,8 +216,8 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
   `Yes` requires exactly three A/B/C options; `No` disables them, and unresolved `Yes/No` defaults to none.
 
 - ✦ **Thinker Hard Gate & T.Focus Field Rules**
-  Hash: ``2f5503f`` | Ver: ``Nightly-v3.0.30`` · ``Stable-v3.0.16``
-  T.Focus is mandatory in the profile, uses verified assessment and classification formatting, and remains separate from Thinker Grade.
+  Hash: ``7826370`` | Ver: ``Nightly-v3.0.30`` · ``Stable-v3.0.16``
+  All six registered player snapshots now include the mandatory T.Focus field, kept separate from Thinker Grade and formatted as a classification label.
 
 - ✦ **Artificial Artifact Condition Formula**
   Hash: ``44649ab`` | Ver: ``Nightly-v3.0.27`` · ``Stable-v3.0.16``

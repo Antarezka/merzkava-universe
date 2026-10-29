@@ -68,7 +68,7 @@ New entries may be added when the owner defines them or gameplay establishes a d
 ## 4. Artifact Record Template
 
 ```markdown
-### ART-XXX — [Known name, or `*Unknown* *membutuhkan appraisal untuk lebih pastinya*` if unidentified]
+### ART-XXX — [Known name, or ``Unknown`` **membutuhkan appraisal untuk lebih pastinya** if unidentified]
 - **Category:** [Relic / Ancient Artifact / Artificial Artifact / Unclassified]
 - **Tier:** [Official canon/appraisal tier; otherwise GM provisional prediction with score/evidence or “Tier belum ditetapkan — appraisal diperlukan”]
 - **Origin / provenance:** [Verified evidence or ???]
@@ -91,7 +91,7 @@ New entries may be added when the owner defines them or gameplay establishes a d
 - Do not assign an effect merely because an item is rare, old, divine in origin, or high-tier.
 - An artifact's tier alone is not a universal combat multiplier.
 - Ownership, possession, access, activation, and mastery are different states.
-- If the artifact/relic's identity or exact item details have not yet been established by canon or the GM, display its player-facing item entry as `*Unknown* *membutuhkan appraisal untuk lebih pastinya*`. Do not use `???` as the displayed item label. Keep unknown properties, hidden functions, provenance, and tier unresolved until supported by evidence or appraisal; a missing/uncertain tier follows the universal assessment and MAA appraisal procedure. Do not silently convert a GM estimate into canon.
+- If the artifact/relic's identity or exact item details have not yet been established by canon or the GM, display its player-facing item entry as ``Unknown`` **membutuhkan appraisal untuk lebih pastinya**. Do not use `???` as the displayed item label. Keep unknown properties, hidden functions, provenance, and tier unresolved until supported by evidence or appraisal; a missing/uncertain tier follows the universal assessment and MAA appraisal procedure. Do not silently convert a GM estimate into canon.
 
 ## 6. Relationship to Other Systems
 

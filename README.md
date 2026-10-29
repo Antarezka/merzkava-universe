@@ -22,7 +22,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ![RP SOURCE](https://img.shields.io/badge/RP_SOURCE-PINNED_COMMIT-151515?style=for-the-badge&labelColor=FFB36B)
 
-### ✦ READY-TO-COPY ROLEPLAY HASH ✦
+### ✦ LATEST SNAPSHOT REFERENCE · MAINTENANCE ONLY ✦
 
 **Latest pinned source:** `6a5fa7b`
 
@@ -210,6 +210,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 *Recent world and system updates*
 
 ---
+
+- ✦ **Bootstrap Authority — INDEX → Authority Order**
+  Hash: ``6a5fa7b`` | Ver: ``Nightly-v3.0.25`` · ``Stable-v3.0.16``
+  Gameplay bootstrap must start at `INDEX.md`, then read `templates/AUTHORITY_ORDER.md`. README is limited to changelog, version, and pin maintenance; it cannot bootstrap gameplay, define rules, or serve as fallback.
 
 - ✦ **Ordo Suci Tianming — Red Notice Canon Alignment**
   Hash: ``4db3f61`` | Ver: ``Nightly-v3.0.24`` · ``Stable-v3.0.16``

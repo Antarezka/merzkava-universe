@@ -3,7 +3,7 @@
 ## Known-good rollback baseline
 
 - **Label:** SAFE VERSION v4.0.10
-- **Protected branch:** `SAFE-VERSION-v4.0.10`
+- **Preserved rollback branch:** `SAFE-VERSION-v4.0.10`
 - **Pinned commit:** `429a48b75cc290e7b720689d38a84eacbff438d9`
 - **Short hash:** `429a48b`
 - **Version:** `Nightly-v4.0.10` (the verified version associated with this snapshot)
@@ -38,7 +38,7 @@ The repository's own `INDEX.md` and authority hierarchy determine the exact modu
 
 ## Preservation policy
 
-- Keep this branch unchanged as a recovery point.
+- Keep this branch unchanged as a recovery point. It is preserved by repository workflow; GitHub branch-protection enforcement is not enabled on this branch.
 - Do not use it as the development branch.
 - Do not move its branch pointer to a newer commit.
 - Do not delete it while it is the designated Safe Version.

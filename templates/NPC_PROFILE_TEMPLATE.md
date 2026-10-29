@@ -32,7 +32,8 @@ Use the official numbered form `Spirit Realm N — Spirit [tier], [stage] Stage`
 - Martial Soul:
 - Spirit Rings and abilities (if applicable):
 - Techniques / combat style:
-- Thinker Grade / specialties (if applicable):
+- Thinker Grade (if unknown, write exactly `???`):
+- Thinker specialties (if applicable; unknown specialties may remain Not established):
 - Equipment:
 - Known limitations:
 - Source module for mechanics:

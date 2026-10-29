@@ -45,7 +45,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 *Three powers. One world. Countless paths.*
 
-![Blurred Merzkava Universe world map teaser — open the panel below to reveal the full map](assets/map-teaser-blur.svg?v=1)
+[![Blurred Merzkava Universe world map teaser — click to open the full map](assets/map-teaser-blur.svg?v=1)](assets/Untitled77_20261029054536.png)
 
 <sub>The full map stays concealed until you open the panel below.</sub>
 

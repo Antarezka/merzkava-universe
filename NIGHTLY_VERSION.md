@@ -1,6 +1,6 @@
 # Merzkava Universe — Nightly Version
 
-Nightly `v4.0.11` replaces the legacy Spirit Ring compatibility formula completely with one age-pressure model for Spirit Realm tolerance, EAG, Sync cap, absorption success chance, permanent Martial Soul defect risk, and separate AWR checks above 7,000,000 years. INDEX and Authority Order now hard-route all attempts to the same formula; AWR does not automatically open a world gate. All v4.0.10 narrative-density and GM-options rules remain in force.
+Nightly `v4.0.11` replaces the legacy Spirit Ring compatibility formula completely with one continuous age-pressure model for Spirit Realm tolerance, EAG, Sync cap, absorption success chance, permanent Martial Soul defect risk, and separate AWR checks above 7,000,000 years. Continuous pressure avoids probability jumps at EAG boundaries. INDEX and Authority Order hard-route all attempts to the same formula; AWR does not automatically open a world gate. All v4.0.10 narrative-density and GM-options rules remain in force.
 
 Current Nightly version: `v4.0.11`
 

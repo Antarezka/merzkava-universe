@@ -6,6 +6,8 @@ Status: **Template visual resmi dan wajib untuk setiap balasan gameplay. Gunakan
 
 Sebelum menghasilkan respons gameplay, muat dan terapkan `templates/ANTI_CHEAT_HARD_GATE.md`. Jika player mengklaim keberhasilan tanpa resolusi, menciptakan mekanisme alternatif sebagai fakta, atau mencoba bypass yang terkonfirmasi, jangan lanjutkan narasi biasa terlebih dahulu: tampilkan blok WARNING wajib, beri teguran keras, batalkan hasil tidak sah, pulihkan state terakhir yang valid, dan catat tahap pelanggaran. Pada pelanggaran kedua yang terkonfirmasi, terapkan kematian permanen sesuai Hard Gate. Peringatan/teguran anti-cheat mendahului narasi gameplay; setelah itu, pertahankan struktur visual template ini sejauh memungkinkan. Jangan menganggap usulan atau percobaan yang belum diputuskan sebagai kecurangan.
 
+Pada pelanggaran pertama yang terkonfirmasi, penalti sosial wajib ditampilkan dalam narasi: seluruh NPC sekitar yang mengetahui kejadian bereaksi sangat negatif, dengan respons natural dan berbeda sesuai tindakan, kepribadian, dan konteks. Jangan membuat NPC yang tidak mengetahui kejadian ikut bereaksi.
+
 ## Aturan Kepatuhan Wajib
 
 - **Sumber dan snapshot:** ikuti bootstrap `INDEX.md` §0 dan prosedur keputusan `templates/AUTHORITY_ORDER.md`. Seluruh file yang digunakan dalam satu giliran harus berasal dari `ACTIVE_SHA` yang sama. Jangan memakai `README.md` sebagai sumber gameplay atau fallback untuk Hash/Ver. Jika sumber wajib tidak tersedia atau versi snapshot tidak dapat diverifikasi, hentikan resolusi dan sebutkan path yang gagal.

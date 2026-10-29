@@ -273,11 +273,28 @@ Passing the required Initiate standard grants eligibility to attempt the Apprent
 - Candidates attempt Artificial Artifact production, normally in the Tier 1–3 range as the actual examination permits. Assessment covers learned theory, formulation, engraving precision, focus, endurance, materials, tool suitability, time, and valid production mechanics.
 - A candidate who passes the Apprentice Examination receives official Thinker Grade 1. A candidate who fails receives no Grade 1 certification; any retake follows established institute rules.
 
-### 13.4 Grade 1–10 official advancement
+### 13.4 Grade 1–10 official advancement and examination standards
 
 For every advancement, the candidate must register with the appropriate institute or recognized branch, pay the applicable established registration fee, satisfy all eligibility requirements, take the examination for the target Grade, and pass it. Passing the Grade N examination grants official Thinker Grade N.
 
-Examinations become progressively more demanding in accordance with the target Grade, artifact Tier, formulation complexity, precision, quality, and any explicit prerequisites. A higher Grade is never awarded automatically because the candidate can produce one artifact, owns a powerful tool, or receives a recommendation.
+**Grades 2–6 use the Grade 1 examination format, with the target Artificial Artifact Tier raised to match the target Grade.** The candidate must complete the required production examination; from Grade 2 onward, the condition of the produced Artificial Artifact is a mandatory assessed requirement, calculated using §14. The candidate must not receive a pass merely for successful production if the condition requirement is not met. Grade 1 does not require the §14 condition score as a separate advancement prerequisite, although production success and all other stated examination requirements still apply.
+
+| Target examination | Required examination artifact | Maximum pass count / competition rule |
+|---|---|---|
+| Grade 1 | Artificial Artifact Tier 1; Apprentice Examination format | Apply the official Grade 1 assessment; no quota is established here |
+| Grade 2 | Artificial Artifact Tier 2; condition assessment mandatory | No numerical quota established |
+| Grade 3 | Artificial Artifact Tier 3; condition assessment mandatory | Up to 35 successful candidates per 40 participants |
+| Grade 4 | Artificial Artifact Tier 4; condition assessment mandatory | Up to 30 successful candidates per 40 participants |
+| Grade 5 | Artificial Artifact Tier 5; condition and output-quantity comparison mandatory | Up to 20 successful candidates per 40 participants |
+| Grade 6 | Artificial Artifact Tier 6; condition and output-quantity comparison mandatory | Up to 15 successful candidates per 40 participants |
+| Grade 7 | Tier and condition requirements under the Grade 7 examination; personal-designed engraver mandatory | Up to 10 successful candidates from the actual participant pool |
+| Grade 8–10 | Apply the distinct prerequisites and examination rules in §§13.5–13.9 and any established Grade-specific rules | Do not extend the Grade 3–7 quotas to Grades 8–10 |
+
+For Grades 3–6, the listed number is a maximum, not a guarantee that the quota must be filled. If fewer candidates satisfy the actual standard, fewer pass. The participant denominator is the number of candidates who actually participate in that examination session, not the number registered but absent. For Grade 3 and Grade 4, ranking is used only if more candidates meet the standard than the stated pass cap.
+
+**Competitive ranking begins at Grade 5.** A Grade 5 or Grade 6 candidate can satisfy the basic production, condition, and eligibility requirements and still fail if a competing candidate in the same session produces both (a) a better condition result and (b) a greater quantity of qualifying Artificial Artifacts. Apply the same comparison to Grade 7 alongside its cap of 10 successful participants. The candidate's own artifacts must meet the target-Tier requirement and any stated eligibility requirements; borrowed, purchased, gifted, inherited, or other non-candidate-made artifacts never count. Do not invent a fixed minimum batch quantity where the examination notice or another canonical rule has not established one. Record each candidate's output count and condition results, and document the ranking evidence. A candidate who meets the basic standard but loses this competition is recorded as failed and receives no Grade promotion.
+
+The Grade 3–7 pass caps are independent of production success chance. They limit the number of candidates who can pass; they do not change the Thinker Grade × target Tier chance matrix or the §14 condition formula. If a competition has no qualifying comparison evidence, do not fabricate an opponent's result or automatically fail the candidate.
 
 Upon officially obtaining Grade 1, a Thinker becomes eligible to obtain a personal engraver through a qualified teacher or by purchasing one from the institute, subject to availability and the applicable price. An ordinary purchased or borrowed engraver does not satisfy the personal-design prerequisite for Grade 7 and above.
 
@@ -350,13 +367,46 @@ Eligible institutions may exchange points for approved scarce resources, includi
 
 Contribution points do not directly increase a student's Grade, guarantee examination success, or waive any eligibility requirement.
 
-### 13.11 Time, Satiety, and production resolution
+### 13.11 Training duration, Satiety costs, and production time — mandatory schedule
 
-Every production attempt must check the Thinker's verified Grade, target Tier and type, formulation, baseline success chance, materials, patterns, tool suitability, focus, mental ability, stamina, Satiety, available time, applicable action-duration limit, interruptions, and other supported conditions. Apply only officially authorized modifiers.
+The following schedule establishes standard minimum guided-training hours and baseline production work time. These values govern ordinary Thinker training and controlled workshop conditions; they do not guarantee mastery or production success. The actual teacher/institution must assess the student at every stage, and real interruptions, material problems, tool limitations, or environmental conditions may extend the duration when supported by the scene.
 
-Follow the official time and Satiety modules. Ordinary actions may advance no more than three hours per turn, except for explicit official exceptions; longer processes must be divided into valid actions and recorded progress. Engraving consumes stamina/endurance, represented through Satiety where the official mechanic applies.
+**Mental-focus training stages**
 
-The exact time and Satiety costs for the training stages and higher-Tier production are not established by this protocol. Do not turn provisional examples or suggested ranges into mandatory numerical rules until formally approved and reconciled with the official Satiety system. Do not invent Tier 2–10 multipliers, costs, thresholds, or duration values.
+| Stage | Minimum guided practice | Standard schedule at up to 3 hours/day | Baseline Satiety cost for a Mortal |
+|---|---:|---:|---:|
+| Pemula | 12 active hours | 4 training days | 87.5 |
+| Initiate | 24 active hours | 8 training days | 175.0 |
+| Beginner | 40 active hours | 14 training days (last day may be partial) | 291.7 |
+| Ordinary | 60 active hours | 20 training days | 437.5 |
+| Ahli | 90 active hours | 30 training days | 656.3 |
+| Expert | 120 active hours | 40 training days | 875.0 |
+
+The stage schedule assumes up to three hours of focused practice per training day. It is a minimum active-practice requirement, not a promise that the stage is passed when the hours are complete. Progression requires a real assessment by the qualified teacher/institution. A candidate may need additional practice if the demonstrated standard has not been met. These durations do not include foundational theory lessons, travel, examination waiting time, or recovery breaks unless the scene explicitly includes them.
+
+**Artificial Artifact production baseline**
+
+| Target Artificial Artifact Tier | Standard focused workshop time | Baseline Satiety cost for a Mortal |
+|---:|---:|---:|
+| Tier 1 | 1 hour | 7.3 |
+| Tier 2 | 2 hours | 14.6 |
+| Tier 3 | 3 hours | 21.9 |
+| Tier 4 | 4 hours | 29.2 |
+| Tier 5 | 6 hours | 43.8 |
+| Tier 6 | 8 hours | 58.3 |
+| Tier 7 | 12 hours | 87.5 |
+| Tier 8 | 18 hours | 131.3 |
+| Tier 9 | 24 hours | 175.0 |
+| Tier 10 | 36 hours | 262.5 |
+
+**How baseline Satiety is calculated:** production and focused Thinker practice count as **Sedang (A ×1.75)** under the official Hunger and Metabolism module. For a Mortal with normal body condition, no missed meal windows, and no special modifier, the cost is active work hours × (100 ÷ 24) × 1.75 = approximately **7.2917 Satiety per active hour**, displayed to one decimal place. The costs in both tables are reference totals across the stated work hours, not a single-turn deduction and not a claim that Satiety can go below zero. Food consumed during a multi-day process restores Satiety under the official food rules. For other Spirit Realms, body conditions, missed meal windows, or valid special modifiers, recalculate each actual awake-time interval using the official Satiety formula rather than copying the Mortal reference total.
+
+**Mandatory action and continuity rules**
+- An ordinary action advances no more than 3 hours per turn. Split longer work into sequential valid actions, record progress, and account for actual interruptions and meals; do not narrate 8–36 hours as one ordinary turn.
+- Protected night sleep does not reduce Satiety. Awake rest uses the official Resting multiplier; do not charge full focused-work Satiety for time actually spent resting.
+- The tables state standard work time, not automatic success. A production attempt still uses the official Thinker Grade × target Tier baseline chance and the authorized resolution procedure. A failed or interrupted attempt does not automatically refund time or Satiety already spent; apply only costs actually incurred and consequences established by the scene, and do not invent extra material-loss fees.
+- For examinations, use the relevant target-Tier production time as the standard focused-work allowance unless the official examination notice defines a different allowance. The ordinary 3-hour-per-turn action limit still applies to the candidate's actual sequence of actions.
+- These baseline durations and costs do not define registration fees, material prices, retake rules, contribution points, or numerical success modifiers. Use the economy and institute rules for established values; never invent a fee.
 
 ### 13.12 Mandatory GM enforcement and records
 

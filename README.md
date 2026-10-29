@@ -186,7 +186,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" alt="GitHub" />
 
-[![SAFE VERSION](https://img.shields.io/badge/SAFE_VERSION-v4.0.9-2E7D32?style=for-the-badge&labelColor=151515)](https://github.com/Antarezka/merzkava-universe/tree/backup/nightly-v4.0.9-latest)
+[![SAFE VERSION](https://img.shields.io/badge/SAFE_VERSION-v4.0.10-2E7D32?style=for-the-badge&labelColor=151515)](https://github.com/Antarezka/merzkava-universe/tree/SAFE-VERSION-v4.0.10)
+
+[Rollback instructions](SAFE_VERSION.md)
 
 <sub><span style="color:#D4AF37"><strong>v4.0.9</strong></span></sub>
 
@@ -223,6 +225,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ---
 
+- ✦ **Safe Version & Rollback Baseline Locked**
+  Hash: ``32babe3`` | Ver: ``Nightly-v4.0.10`` · ``Stable-v4.0.1``
+  Preserves the accepted v4.0.10 snapshot on `SAFE-VERSION-v4.0.10` and documents the protected repo structure and recovery procedure in `SAFE_VERSION.md`.
+
 - ✦ **Narrative Density & Mandatory Contextual GM Options**
   Hash: ``09fc0b3`` | Ver: ``Nightly-v4.0.10`` · ``Stable-v4.0.1``
   Raises concrete Merzkava detail frequency throughout substantive scenes and hard-gates three distinct GM options when enabled, including a relevant in-world conversation/social topic or contextual observation alternative.
@@ -238,10 +244,6 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **Gameplay Template · Merzkava Narrative Gate**
   Hash: ``33408f1`` | Ver: ``Nightly-v4.0.6`` · ``Stable-v4.0.1``
   Streamlines repeated rules and strengthens causal Merzkava identity, bounded GM improvisation, concrete timestamps, and final validation while preserving all required panels, ledger, NPC, Thinker, and anti-cheat gates.
-
-- ✦ **GM Bootstrap & Narrative Gate Optimization**
-  Hash: ``395c77e`` | Ver: ``Nightly-v4.0.5`` · ``Stable-v4.0.1``
-  Shortens bootstrap and narrative gates; lets the GM develop plausible unestablished scene details and choose a concrete session year while protecting canon, mechanics, player agency, and persistent state.
 
 - ✦ **Classification Label Alignment · Plain Double-Backtick Text**
   Hash: ``a9548b2`` | Ver: ``Nightly-v4.0.4`` · ``Stable-v4.0.1``

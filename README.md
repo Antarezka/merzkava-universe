@@ -212,7 +212,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 ---
 
 - ✦ **Authority Hierarchy & Living Merzkava Narrative**
-  Hash: ``c271cf4`` | Ver: ``Nightly-v4.0.9`` · ``Stable-v4.0.1``
+  Hash: ``af2c709`` | Ver: ``Nightly-v4.0.9`` · ``Stable-v4.0.1``
   Tightens GM decision precedence and makes Narrative Dynamics the single operational narrative gate: everyday Merzkava life, ahli Spirit Realm, Thinker institutes, and canon-bound power scaling are mandatory in context without forced exposition.
 
 - ✦ **Gameplay Response Template · Merzkava-First Narrative**

@@ -188,7 +188,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![STABLE](assets/stable-version.svg?v=2)
 
-<sub><span style="color:#D4AF37"><strong>v4.0.0</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v4.0.2</strong></span></sub>
 
 </td>
 <td align="center">
@@ -211,9 +211,13 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ---
 
+- ✦ **Canonical Gameplay Output Restoration**
+  Hash: ``089b5df`` | Ver: ``Nightly-v4.0.2`` · ``Stable-v4.0.1``
+  Enforces the complete gameplay template on every turn, blocks bootstrap preambles and meta closing questions, protects player-character agency, rejects unsupported scene details, and defaults GM options off when `Yes/No` remains unresolved.
+
 - ✦ **Double-Backtick Classification Labels · 4.x Stable Promotion**
   Hash: ``cd5a4a7`` | Ver: ``Nightly-v4.0.1`` · ``Stable-v4.0.0``
-  Removes asterisks from classification labels so only the label text sits inside double backticks; promotes the tested Stable line to 4.x and keeps Nightly one patch above Stable.
+  Removes asterisks from classification labels so only the label text sits inside double backticks; establishes the 4.x release line.
 
 - ✦ **Ledger, Satiety & Merzkava Narrative Hardening**
   Hash: ``0f6f063`` | Ver: ``Nightly-v3.0.36`` · ``Stable-v3.0.16``
@@ -230,10 +234,6 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **Narrative-Aligned Opening Gate**
   Hash: ``a5c706d`` | Ver: ``Nightly-v3.0.33`` · ``Stable-v3.0.16``
   Connects flat backgrounds to concrete Merzkava cultivation/Thinker life while preserving canon, continuity, pacing, character agency, and all narrative limits.
-
-- ✦ **Thinker Hard Gate & T.Focus Field Rules**
-  Hash: ``9cae9d3`` | Ver: ``Nightly-v3.0.30`` · ``Stable-v3.0.16``
-  All six player snapshots include the required T.Focus field; Thinker Grade and T.Focus remain separate and must be verified independently.
 </div>
 
 

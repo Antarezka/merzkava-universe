@@ -9,7 +9,7 @@ Modul ini adalah satu-satunya sumber angka untuk Hunger dan Metabolism. Jangan m
 
 ### Konsumsi item yang belum teridentifikasi
 
-Jika item yang dikonsumsi belum memiliki identitas/jenis pasti atau detail relevan yang ditetapkan oleh kanon/GM, sebut item itu dengan label persis `*Unknown* *membutuhkan appraisal untuk lebih pastinya*` dalam laporan konsumsi dan ledger. Jangan menebak efek nutrisi, tier, atau nilai Satiety dari label tersebut. Konsumsi hanya boleh diproses jika konteks mendukung bahwa benda itu memang layak dimakan; jika tidak, identitas dan efeknya tetap belum diketahui sampai diperiksa/appraised secara sah. Makanan sehari-hari yang sudah jelas tetap mengikuti aturan konsumsi rutin dan tidak perlu appraisal.
+Jika item yang dikonsumsi belum memiliki identitas/jenis pasti atau detail relevan yang ditetapkan oleh kanon/GM, sebut item itu dengan label persis ``Unknown`` **membutuhkan appraisal untuk lebih pastinya** dalam laporan konsumsi dan ledger. Jangan menebak efek nutrisi, tier, atau nilai Satiety dari label tersebut. Konsumsi hanya boleh diproses jika konteks mendukung bahwa benda itu memang layak dimakan; jika tidak, identitas dan efeknya tetap belum diketahui sampai diperiksa/appraised secara sah. Makanan sehari-hari yang sudah jelas tetap mengikuti aturan konsumsi rutin dan tidak perlu appraisal.
 
 
 Format stat wajib:

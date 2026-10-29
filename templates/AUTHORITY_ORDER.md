@@ -33,6 +33,7 @@ Across all player-facing gameplay output and profile/item records, whenever an i
 - Player menetapkan mode dengan menyisakan hanya `(Yes)` atau `(No)` di footer. Dalam sesi berlanjut/recall, pertahankan pilihan tunggal terakhir yang terverifikasi sampai player mengubahnya. Jika pilihan terakhir tidak dapat diverifikasi dan footer tidak memuat pilihan tunggal, gunakan default tanpa opsi; jangan menebak atau mengambil preferensi dari percakapan lain.
 - Setiap opsi wajib lolos pemeriksaan canon, prasyarat, akses, biaya, risiko, waktu, sumber daya, pengetahuan karakter, dan kontinuitas. Jangan menawarkan tindakan sebagai pasti tersedia jika belum terverifikasi; jika relevan, nyatakan ketidakpastiannya dengan jelas.
 - Mode GM options hanya mengatur rekomendasi tindakan. Mode ini tidak mengubah kewajiban narasi, otonomi NPC, agensi player, maupun konsekuensi dunia.
+
 ### Gerbang wajib format gameplay — prioritas sebelum narasi
 
 - Ikuti urutan `INDEX.md` → `templates/AUTHORITY_ORDER.md` → template/state kanonis yang relevan. Jangan melewati salah satu pengendali atau menulis narasi sebelum memeriksa syarat aksi.

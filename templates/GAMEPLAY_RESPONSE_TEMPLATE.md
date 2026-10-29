@@ -87,7 +87,7 @@ NARASI
 ╭─ LEDGER LOG · #[ID]
 │ Peristiwa/Aksi: [aksi/peristiwa penyebab perubahan]
 │ [Waktu] · [Berhasil/Gagal/Dibatalkan]
-│ 🝰 Item/Equipment/Loot/Aset: [MASUK/KELUAR · nama · ×jumlah · ⧟ ``**tier/grade/rarity/quality/Unknown**`` [keterangan jika relevan] · awal → perubahan → akhir]
+│ 🝰 Item/Equipment/Loot/Aset: [MASUK/KELUAR · nama · ×jumlah · ⧟ ``tier/grade/rarity/quality/Unknown`` [keterangan jika relevan] · awal → perubahan → akhir]
 │ 🝰 Uang: [MASUK/KELUAR · sumber/penerima · jumlah · saldo awal → perubahan bersih → saldo akhir · kembalian jika ada]
 │ Satiety: [awal → ±perubahan → akhir · penyebab/kategori/durasi jika relevan]
 ╰─

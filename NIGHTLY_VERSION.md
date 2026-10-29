@@ -1,6 +1,8 @@
 # Merzkava Universe — Nightly Version
 
-Current Nightly version: `v4.0.5`
+Current Nightly version: `v4.0.6`
+
+Nightly `v4.0.6` streamlines the gameplay response template's repeated narrative gates while strengthening Merzkava-specific cause-and-effect, bounded GM improvisation, concrete session timestamps, and pre-output validation; all required profile panels, ledger rules, NPC/Thinker gates, anti-cheat, and visual dividers remain mandatory.
 
 Nightly `v4.0.5` condenses INDEX bootstrap and Authority Order into short mandatory gates, streamlines Narrative Dynamics, explicitly permits bounded scene-level GM improvisation, requires a concrete GM-selected session year, and preserves exact item-label, Spirit Ring social, NPC, anti-cheat, and continuity gates. Canon, mechanics, player agency, state continuity, and persistent-world approval remain protected.
 

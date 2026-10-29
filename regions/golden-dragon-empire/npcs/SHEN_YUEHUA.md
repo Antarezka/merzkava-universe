@@ -31,7 +31,8 @@
 - **Martial Soul:** Heavenly Crane — Myth
 - **Spirit Rings and abilities:** Belum ditetapkan
 - **Techniques / combat style:** Belum ditetapkan
-- **Thinker Grade / specialties:** Her personal grade and specialties are not established. The Shen family maintains its own advanced Thinkers.
+- **Thinker Grade:** ???
+- **Thinker specialties:** Her personal specialties are not established. The Shen family maintains its own advanced Thinkers.
 - **Equipment:** Belum ditetapkan
 - **Known limitations:** Belum ditetapkan
 - **Source module for mechanics:** `core/MARTIAL_SOUL.md` and relevant cultivation/combat modules.

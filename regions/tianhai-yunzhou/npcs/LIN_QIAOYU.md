@@ -31,7 +31,8 @@
 - **Martial Soul:** Not established.
 - **Spirit Rings and abilities:** Not established.
 - **Techniques / combat style:** Not established.
-- **Thinker Grade / specialties:** Grade and formal specialization not established; interest in Thinker study is established.
+- **Thinker Grade:** ???
+- **Thinker specialties:** Formal specialization not established; interest in Thinker study is established.
 - **Equipment:** Not established.
 - **Known limitations:** Interest and study do not establish grade, certification, or artifact-making competence.
 - **Source module for mechanics:** `core/THINKER_AND_FORMULATION.md`; other abilities follow relevant official modules.

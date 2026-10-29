@@ -24,7 +24,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ### ✦ READY-TO-COPY ROLEPLAY HASH ✦
 
-**Latest pinned source:** `60f3616`
+**Latest pinned source:** `0ec920d`
 
 </div>
 <!-- RP_SOURCE_END -->
@@ -211,9 +211,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ---
 
-- ✦ **Canonical Gameplay Output Restoration**
-  Hash: ``089b5df`` | Ver: ``Nightly-v4.0.2`` · ``Stable-v4.0.1``
-  Enforces the complete gameplay template on every turn, blocks bootstrap preambles and meta closing questions, protects player-character agency, rejects unsupported scene details, and defaults GM options off when `Yes/No` remains unresolved.
+- ✦ **Mechanics-Driven Narrative Integration**
+  Hash: ``0ec920d`` | Ver: ``Nightly-v4.0.3`` · ``Stable-v4.0.1``
+  Strengthens causal scene-level use of cultivation, Spirit Realm/PowerScale, Martial Soul, Spirit Ring age and compatibility, Thinker progression, personal-blueprint engravers, and Artificial Artifact provenance/series codes—without inventing canon or forcing every topic into every scene.
 
 - ✦ **Double-Backtick Classification Labels · 4.x Stable Promotion**
   Hash: ``cd5a4a7`` | Ver: ``Nightly-v4.0.1`` · ``Stable-v4.0.0``

@@ -235,15 +235,15 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 *Recent world and system updates*
 
 ---
-- ✦ **Investigation Board — Visual Refinement**
-  Hash: ``ad4bab0`` / ``abc53da`` | Ver: ``Nightly-v4.0.27`` / ``Nightly-v4.0.26`` · ``Stable-v4.0.1``
-  Combines compact header typography with fine, varied evidence threads for a cleaner, fully legible investigation board.
-- ✦ **Merzkava World Archive Wall Rebuilt**
-  Hash: ``894f4b2`` | Ver: ``Nightly-v4.0.21`` · ``Stable-v4.0.1``
-  Rebuilds the archive as a broad investigation wall connecting the three powers, geography, characters, factions, history, Spirit systems, travel, economy, and institutions.
-- ✦ **Arcanistry Investigation Wall Expanded**
-  Hash: ``192de0e`` | Ver: ``Nightly-v4.0.18`` · ``Stable-v4.0.1``
-  Consolidates the academies, institute, focus stages, Grade progression, examination gates, engraver requirements, research scope, and artifact history.
+- ✦ **World Map — Geographic Reveal Preview**
+  Hash: ``faf0af8`` | Ver: ``Nightly-v4.0.27``
+  Replaces the navigation-tree teaser with a blurred geographic silhouette, layered coastal shelves and deep-sea bathymetry, plus a click-to-reveal presentation.
+- ✦ **Investigation Board — Full Archive Redesign**
+  Hash: ``ad4bab0`` | Ver: ``Nightly-v4.0.27``
+  Rebuilds the board around regional maps, character records, Spirit systems, doctrines, history, factions and maritime routes; the latest pass reduces oversized headers and refines evidence threads.
+- ✦ **Energy-Bearing Ores — Dual-Path Resource Economy**
+  Hash: ``55b7a7b`` | Ver: ``Nightly-v4.0.27``
+  Establishes separate raw-material demand for specialist Spirit Realm study and Tianhai's industrial refining chain, clarifying supply dependence and strategic leverage without inventing mechanics or prices.
 </div>
 
 

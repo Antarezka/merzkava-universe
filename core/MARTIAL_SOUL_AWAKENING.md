@@ -5,6 +5,9 @@ Cakupan: undian rarity Martial Soul, penilaian kualitas inheren yang berdiri sen
 
 Modul ini adalah sumber mekanik utama untuk proses awakening dan mutasi Martial Soul. **Format hasil untuk pemain:** bungkus setiap hasil final undian rarity, chance mutasi, hasil mutasi, dan nilai yang dihasilkan formula dengan empat tanda bintang di kedua sisi (`****<hasil final>****`), baik hasil berhasil maupun gagal. Format setiap label rarity/klasifikasi dengan pola ``<istilah>`` di dalam double backtick; penjelasan tetap di luar backtick. `core/MARTIAL_SOUL.md` tetap menjadi sumber karakteristik, lore, serta interpretasi umum Martial Soul. Jika ada pertentangan mengenai peluang atau prosedur awakening, modul ini yang berlaku untuk bagian tersebut.
 
+
+**Tradition boundary:** Awakening and mutation are mechanical processes, not automatic proof of Soul-Nyuma or Soul-Zoun affiliation. Their doctrine-level interpretation is governed by `core/SPIRIT_REALM_TRADITIONS.md`; all probabilities and procedures in this file remain authoritative and unchanged.
+
 ---
 
 ## 1. Prinsip Dasar

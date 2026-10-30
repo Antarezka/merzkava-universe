@@ -1,6 +1,12 @@
 # MERZKAVA UNIVERSE — ARCANISTRY & FORMULATION SYSTEM
 
-**Terminology:** Arcanistry is the complete field of study and practice, covering foundational theory, research, teaching, formulation, engineering, and application. An Arcanist is a practitioner. Arcanist Grade and Arcanist Focus are the official progression measures. These terms do not create or alter any tradition classification.
+**Binding terminology:**
+- **Arcanist** means a person who practices the discipline. Use it for individuals, occupations, professional roles, credentials, and the official progression labels **Arcanist Grade** and **Arcanist Focus**.
+- **Arcanistry** means the complete discipline and practice: foundational study, research, teaching, formulation, engineering, and application. Use it for the field, its institutions, education, knowledge traditions, and applied work.
+- **Arcanism** means the underlying principles, theoretical models, and explanatory doctrines that describe how arcane patterns, formulations, and their interactions function. Use it only when the specific subject is that body of theory or doctrine.
+- **Relationship:** Arcanism is the theoretical body of knowledge studied within Arcanistry; it is not a separate profession, institution, progression track, or fifth tradition. An Arcanist studies and applies Arcanistry, including Arcanism where relevant.
+
+Use each term according to its referent. Do not use Arcanist as the name of the discipline, Arcanistry as a person's title, or Arcanism as a synonym for the entire field. Arcanist Grade and Arcanist Focus remain the only official progression labels; these terms do not create or alter any tradition classification.
 
 **Status:** Mandatory Arcanist progression and certification protocol integrated. Artificial Artifact condition scoring is formally defined in §14. Production success chance remains separate from the quality score; random-resolution procedure, situational success modifiers, numerical training costs, and other unresolved production parameters remain undefined until formally approved.
 

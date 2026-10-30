@@ -61,7 +61,7 @@ The Tianlan Supreme Academy is the leading academy overall; that reputation does
 
 ## 4. Tianhai Arcanist Institute — exclusive high-level research institution
 
-The **Tianhai Arcanist Institute** is Tianhai Yunzhou's exclusive high-level institution devoted to research across the Arcanistry. It is the world's sole institution established at this level and breadth of specialization; other regions may still have individual Arcanists, workshops, schools, or research groups, but no second institution of equivalent scope is established in canon.
+The **Tianhai Arcanist Institute** is Tianhai Yunzhou's exclusive high-level institution devoted to research across the field of Arcanistry. It is the world's sole institution established at this level and breadth of specialization; other regions may still have individual Arcanists, workshops, schools, or research groups, but no second institution of equivalent scope is established in canon.
 
 Its remit includes:
 
@@ -69,7 +69,7 @@ Its remit includes:
 - **Materials research:** testing, classifying, preparing, processing, and evaluating materials used in formulations and artifact construction.
 - **Formulation and mixing methods:** research into compatible combinations, formulation procedures, repeatability, stability, and ways to reduce avoidable production errors.
 - **Complex formation engraving for Tier 6 and above:** specialist research and technical work on complex engraving patterns required for high-tier Artificial Artifacts. Such work remains limited by the Arcanist's actual Grade, knowledge, materials, tools, and the official production mechanics.
-- **Technique optimization for Tier 5 and below:** developing and refining methods that make formation engraving and artifact production more practical, efficient, consistent, and accessible at lower tiers. Optimization is not a guarantee of success and does not raise a Arcanist's Grade or remove the mechanics' limits.
+- **Technique optimization for Tier 5 and below:** developing and refining methods that make formation engraving and artifact production more practical, efficient, consistent, and accessible at lower tiers. Optimization is not a guarantee of success and does not raise an Arcanist's Grade or remove the mechanics' limits.
 - **Testing and quality assurance:** controlled trials, failure analysis, material provenance, documented results, safety procedures, and review of artifact performance.
 - **Education and standards:** advanced study, specialist assessment, credential records, and dissemination of approved knowledge where access permits.
 
@@ -77,7 +77,7 @@ The institute is a research and standards center, not a magical source of automa
 
 ### Relationship to the four academies
 
-The four academies provide broad cultivator education and may identify students suited to further Arcanist study. The Tianhai Arcanist Institute provides advanced specialist research, training pathways, assessment, and technical standards. Admission to an academy does not automatically grant admission to the institute, access to restricted research, the title of Formation Engraver, or a Arcanist Grade.
+The four academies provide broad cultivator education and may identify students suited to further Arcanist study. The Tianhai Arcanist Institute provides advanced specialist research, training pathways, assessment, and technical standards. Admission to an academy does not automatically grant admission to the institute, access to restricted research, the title of Formation Engraver, or an Arcanist Grade.
 
 The Tianhai Arcanist Institute and its existing roster of officials remain governed by `../regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`. Its previously established directorates for formulation examination, materials and provenance, applied research, artifact quality inspection, workshop safety, and credentials are interpreted as parts of this expanded mandate; this document does not create extra officeholders or assign new Arcanist Grades.
 

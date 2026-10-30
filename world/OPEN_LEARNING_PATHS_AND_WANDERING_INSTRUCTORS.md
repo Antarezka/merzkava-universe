@@ -175,7 +175,7 @@ Use a virtual d100:
 - **11–30:** a non-teacher traveller, merchant, worker, hunter, courier, pilgrim, or other ordinary encounter may occur.
 - **31–100:** no notable new encounter is required; continue the scene normally.
 
-This is a narrative encounter table, not a guarantee of contact or recruitment. On 01–10, randomly select one of the applicable categories—Spirit Realm, Arcanist, dual-path, or support—weighted by local activity and known regional fit. Do not force a category that the location cannot plausibly support. A Arcanist is more plausible near workshops, markets, ports, research centers, trade routes, or scholarly facilities; a Spirit Realm instructor is more plausible near dojos, academies, hunting routes, martial communities, or travel corridors. Either can appear elsewhere if a credible reason exists.
+This is a narrative encounter table, not a guarantee of contact or recruitment. On 01–10, randomly select one of the applicable categories—Spirit Realm, Arcanist, dual-path, or support—weighted by local activity and known regional fit. Do not force a category that the location cannot plausibly support. An Arcanist is more plausible near workshops, markets, ports, research centers, trade routes, or scholarly facilities; a Spirit Realm instructor is more plausible near dojos, academies, hunting routes, martial communities, or travel corridors. Either can appear elsewhere if a credible reason exists.
 
 **Location and continuity constraints:**
 - Do not teleport an NPC into a sealed room, private residence, secure compound, inaccessible floating island, remote peak, ruin interior, Dead Zone, hostile territory, or dangerous wilderness without a plausible route and survival reason.

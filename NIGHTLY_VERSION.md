@@ -1,8 +1,8 @@
 # Merzkava Universe — Nightly Version
 
-Nightly `v4.0.11` replaces the legacy Spirit Ring compatibility formula completely with one continuous age-pressure model for Spirit Realm tolerance, EAG, Sync cap, absorption success chance, permanent Martial Soul defect risk, and separate AWR checks above 7,000,000 years. Continuous pressure avoids probability jumps at EAG boundaries. INDEX and Authority Order hard-route all attempts to the same formula; AWR does not automatically open a world gate. All v4.0.10 narrative-density and GM-options rules remain in force.
+Nightly `v4.0.12` aligns the terminology across the Arcanist profession, the complete field of Arcanistry, and the theoretical body of Arcanism. It defines their hierarchy in the canonical mechanics module, corrects contextual usage and article grammar in historical, educational, and institutional records, and preserves all existing progression and artifact mechanics. Nightly `v4.0.11` replaces the legacy Spirit Ring compatibility formula completely with one continuous age-pressure model for Spirit Realm tolerance, EAG, Sync cap, absorption success chance, permanent Martial Soul defect risk, and separate AWR checks above 7,000,000 years. Continuous pressure avoids probability jumps at EAG boundaries. INDEX and Authority Order hard-route all attempts to the same formula; AWR does not automatically open a world gate. All v4.0.10 narrative-density and GM-options rules remain in force.
 
-Current Nightly version: `v4.0.11`
+Current Nightly version: `v4.0.12`
 
 Nightly `v4.0.7` shortens repeated gameplay-template prompts and makes Merzkava-specific cause-and-effect, bounded GM improvisation, NPC autonomy, timestamp/Satiety continuity, and final validation easier to scan; all visual panels, ledger rules, domain mechanics, anti-cheat, and dividers remain mandatory.
 

@@ -236,7 +236,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ---
 - ✦ **Soul-Nyuma & Soul-Zoun — Three-Discipline Canon Established**
-  Hash: ``8c250f3`` | Ver: ``Nightly-v4.0.13`` · ``Stable-v4.0.1``
+  Hash: ``a4b16fd`` | Ver: ``Nightly-v4.0.13`` · ``Stable-v4.0.1``
   Establishes Arcanistry as independent, defines Soul-Nyuma and Soul-Zoun across the shared Spirit Realm domain, retires the former global four-label taxonomy, and separates Aberration from morality and the ancient apocalypse.
 
 - ✦ **Arcanist, Arcanistry & Arcanism Context Aligned**

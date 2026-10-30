@@ -3,7 +3,7 @@ MERZKAVA UNIVERSE — WORLD LORE & POLITICAL ATLAS
 «Document Type: Core Worldbuilding
 Status: Canon Foundation
 Scope: World Powers, Territories, Factions, Political Relations, Medicine Hall Society, Population, and Ruling Powers
-Related Modules: "world/MAP_AND_REGIONS.md", "world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md", "world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md", "world/FACTIONS.md", "world/ANCIENT_SHAMANISM_AND_BUDDHIST_CLANS.md", "world/HISTORY.md", "world/ARTIFACTS_AND_RELICS.md", "world/ARTIFICIAL_ARTIFACTS.md", "world/SOCIAL_STRATIFICATION.md", "world/WEALTH_DISTRIBUTION.md", "world/GEOGRAPHY_AND_TRAVEL.md", "world/WANLUO_SACRED_EXPANSE.md", "world/INTELLIGENT_PEOPLES.md", "core/CULTIVATION_SYSTEM.md", "core/MARTIAL_SOUL.md", "core/SPIRIT_RING_RULES.md", "bestiary/SPIRIT_BEAST_RULES.md". WORLD.md remains the primary source for established world lore; each related module handles its stated scope. A listed path does not override the module itself or turn provisional details into confirmed canon.»
+Related Modules: "world/MAP_AND_REGIONS.md", "world/GOLDEN_DRAGON_EMPIRE_GOVERNANCE.md", "world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md", "world/FACTIONS.md", "world/ANCIENT_SHAMANISM_AND_BUDDHIST_CLANS.md", "world/HISTORY.md", "world/ARTIFACTS_AND_RELICS.md", "world/ARTIFICIAL_ARTIFACTS.md", "world/SOCIAL_STRATIFICATION.md", "world/WEALTH_DISTRIBUTION.md", "world/GEOGRAPHY_AND_TRAVEL.md", "world/WANLUO_SACRED_EXPANSE.md", "world/INTELLIGENT_PEOPLES.md", "core/CULTIVATION_SYSTEM.md", "core/MARTIAL_SOUL.md", "core/SPIRIT_RING_RULES.md", "core/SPIRIT_REALM_TRADITIONS.md", "bestiary/SPIRIT_BEAST_RULES.md". WORLD.md remains the primary source for established world lore; each related module handles its stated scope. A listed path does not override the module itself or turn provisional details into confirmed canon.»
 
 ---
 
@@ -14,6 +14,9 @@ Merzkava Universe adalah dunia kultivasi luas yang kekuatannya ditentukan oleh M
 **Standar istilah kanonis:** tingkat kultivasi bernomor 1–9 selalu disebut **Spirit Realm**. Jangan menyingkatnya menjadi `Realm` atau menggantinya dengan `Cultivation Realm`. `Mortal` adalah status dasar sebelum sembilan Spirit Realm, bukan Spirit Realm 0. Istilah proper lain seperti `Heaven Realm` tetap digunakan bila merujuk pada konsep lore yang berbeda.
 
 Sistem kultivasi memiliki sembilan Spirit Realm dengan urutan resmi: Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, dan Spirit Primordial. Setiap Spirit Realm memiliki empat Stage: Early, Middle, Late, dan Peak. Setiap Spirit Realm membuka satu slot Spirit Ring tambahan.
+
+
+**Tiga disiplin keilmuan utama:** Arcanistry adalah disiplin independen para Arcanist. Ranah Spirit Realm memiliki dua tradisi komprehensif: **Soul-Nyuma**, yang memahami dan mengembangkan sifat intrinsik serta keteraturan alami seluruh fenomena Martial Soul; dan **Soul-Zoun**, yang mengkaji Aberration atau penyimpangan dari keteraturan tersebut. Keduanya mempelajari domain yang sama—Martial Soul, Spirit Beast, Spirit Ring, Spirit Ability, kompatibilitas, sinkronisasi, evolusi, mutasi, dan kultivasi—tetapi memakai paradigma berbeda. Soul-Zoun bukan label moral atau sinonim kejahatan/larangan. Definisi dan batas klasifikasi ada di `core/SPIRIT_REALM_TRADITIONS.md`; mekanik tetap berada di modul mekanik masing-masing.
 
 Dunia ini memiliki tiga kekuasaan utama:
 
@@ -29,7 +32,7 @@ Selain kekuasaan politik dan kelompok kultivasi, Medicine Hall Society memiliki 
 
 Dunia ini tidak memiliki satu kekuatan yang mampu mengendalikan semua pihak. Perjanjian dapat berubah, wilayah dapat diperebutkan, dan keseimbangan politik dapat bergeser mengikuti kepentingan serta kemampuan pihak-pihak yang terlibat.
 
-Manusia bukan satu-satunya kaum berakal di Merzkava Universe. Beragam kaum dan garis keturunan hidup di dunia ini, termasuk manusia berfitur rubah, wyvern, laut, sayap kupu-kupu, unsur api, dan banyak bentuk lain. Sebagian menghadapi diskriminasi atau eksploitasi, sementara kelompok ortodoks, heterodoks, demonic, maupun independen tertentu dapat menerima atau melindungi mereka. Rincian kaum dan perlakuan sosial mengikuti `world/INTELLIGENT_PEOPLES.md`.
+Manusia bukan satu-satunya kaum berakal di Merzkava Universe. Beragam kaum dan garis keturunan hidup di dunia ini, termasuk manusia berfitur rubah, wyvern, laut, sayap kupu-kupu, unsur api, dan banyak bentuk lain. Sebagian menghadapi diskriminasi atau eksploitasi, sementara kelompok dengan tradisi, hukum, atau kepentingan berbeda—termasuk kelompok demonic maupun independen—dapat menerima atau melindungi mereka. Rincian kaum dan perlakuan sosial mengikuti `world/INTELLIGENT_PEOPLES.md`.
 
 Bentang alam luas di antara kekuasaan utama mencakup hutan, pegunungan, jurang, lembah, dan puncak-puncak yang menembus lautan awan. Reruntuhan masa lampau dapat tersebar di daratan maupun palung samudra. Orientasi dunia, habitat liar, dan transportasi mengikuti `world/GEOGRAPHY_AND_TRAVEL.md` serta `world/MAP_AND_REGIONS.md`. Dua kelompok tersembunyi juga tinggal di puncak terpencil di atas lautan awan: klan/sekte Ancient Shamanism dan klan Buddhis yang terpisah. Hierarki, Martial Soul, filosofi, dan batas pengetahuan mereka ditetapkan dalam `world/ANCIENT_SHAMANISM_AND_BUDDHIST_CLANS.md`; jangan mengarang koordinat atau hubungan politik mereka.
 

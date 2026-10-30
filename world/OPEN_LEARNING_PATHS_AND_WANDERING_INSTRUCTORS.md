@@ -217,6 +217,16 @@ Finding a teacher is only the start. Resolve whether the teacher notices the pla
 
 The teacher may offer only a first lesson, a basic manual, a referral, a practice task, or a chance to observe. The player can decline, leave, negotiate, or seek another route. No NPC may decide that the player's character accepts an apprenticeship or joins a faction.
 
+## 7. Spirit Realm Traditions in Teaching and Mentorship
+
+A teacher, academy, dojo, clan, sect, or independent learning route may teach Soul-Nyuma, Soul-Zoun, comparative study, or shared foundational Spirit Realm instruction. The actual curriculum and teacher's competence must support the classification; unfamiliar techniques, regional identity, reputation, or an institution's name are not enough.
+
+A teacher's tradition can shape how they explain soul continuity and Spirit Beast soul treatment; how they teach Spirit Ring formation and absorption theory; whether they favor natural development or aberrant intervention; how they interpret Spirit Ability characteristics and Qi efficiency; and which historical achievements, risks, and criticisms they emphasize.
+
+Teachers and institutions may hold strong local opinions about the opposing tradition. A Soul-Nyuma instructor may condemn soul weakening or sealing; a Soul-Zoun instructor may criticize Nyuma as overly conservative. These are perspectives belonging to the speaker or institution, not objective world narration. Students may agree, disagree, question, or eventually leave the teaching route.
+
+Do not grant a student an ability, tradition mastery, absorption advantage, Sync increase, or special Qi efficiency merely for attending a lesson. Apply official training, time, Satiety, costs, progression, Spirit Ring, and Qi rules. For the binding doctrine and GM distinction between fact, teaching, and local perspective, use `core/SPIRIT_REALM_TRADITIONS.md`.
+
 ## 6. GM Operating Checklist
 
 Before presenting a learning opportunity:

@@ -24,7 +24,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ### ✦ READY-TO-COPY ROLEPLAY HASH ✦
 
-**Latest pinned source:** `a07cdfc`
+**Latest pinned source:** `d1a4841`
 
 </div>
 <!-- RP_SOURCE_END -->
@@ -222,7 +222,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![NIGHTLY](assets/nightly-version.svg?v=14)
 
-<sub><span style="color:#D4AF37"><strong>v4.0.13</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v4.0.14</strong></span></sub>
 
 </td>
 </tr>
@@ -235,6 +235,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 *Recent world and system updates*
 
 ---
+- ✦ **Soul-Nyuma & Soul-Zoun — Doctrine and Education Expanded**
+  Hash: ``d1a4841`` | Ver: ``Nightly-v4.0.14`` · ``Stable-v4.0.1``
+  Defines soul processing through Spirit Ring formation/absorption, natural versus aberrant Spirit Ability expression, Qi-efficiency trade-offs, institutional curricula and local perspectives, and the historical Nyuma-only 100% Sync-cap achievement. Existing mechanics remain unchanged.
+
 - ✦ **Soul-Nyuma & Soul-Zoun — Three-Discipline Canon Established**
   Hash: ``a4b16fd`` | Ver: ``Nightly-v4.0.13`` · ``Stable-v4.0.1``
   Establishes Arcanistry as independent, defines Soul-Nyuma and Soul-Zoun across the shared Spirit Realm domain, retires the former global four-label taxonomy, and separates Aberration from morality and the ancient apocalypse.
@@ -255,10 +259,6 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **Stable Version GitHub Mark Restored**
   Hash: ``e41e912`` | Ver: ``Nightly-v4.0.10`` · ``Stable-v4.0.1``
   Restores the GitHub symbol above the Stable badge, matching the Nightly version cell without changing version assets or layout.
-
-- ✦ **Safe Version & Rollback Baseline Locked**
-  Hash: ``32babe3`` | Ver: ``Nightly-v4.0.10`` · ``Stable-v4.0.1``
-  Preserves the accepted v4.0.10 snapshot on `SAFE-VERSION-v4.0.10` and documents the preserved repo structure and recovery procedure in `SAFE_VERSION.md`.
 
 
 </div>

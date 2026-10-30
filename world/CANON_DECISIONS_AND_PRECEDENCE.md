@@ -104,16 +104,21 @@ All seven `world/REGION_*.md` modules must remain consistent with the atlas. Whe
 
 ### 2.9 Three Knowledge Disciplines and Spirit Realm Traditions — Binding Canon
 
-Merzkava's three principal knowledge disciplines are **Arcanistry**, **Spirit Realm — Soul-Nyuma**, and **Spirit Realm — Soul-Zoun**. Arcanistry remains an independent discipline governed by `core/ARCANISTRY_AND_FORMULATION.md`; it is not a third Spirit Realm doctrine. Soul-Nyuma and Soul-Zoun are the two comprehensive traditions within the same Spirit Realm domain and study the same full range of Martial Soul and related phenomena.
+Merzkava's three principal knowledge disciplines are **Arcanistry**, **Spirit Realm — Soul-Nyuma**, and **Spirit Realm — Soul-Zoun**. Arcanistry remains independent and is governed by `core/ARCANISTRY_AND_FORMULATION.md`; it is not a third Spirit Realm doctrine.
 
-- **Soul-Nyuma** is the straight/natural tradition: it studies and develops the intrinsic nature and natural order of Martial Soul, Spirit Beast, Spirit Ring, Spirit Ability, compatibility, synchronization, evolution, mutation, and cultivation.
-- **Soul-Zoun** is the Aberration-oriented tradition: it studies departures from ordinary/natural order, their causes, properties, limits, containment, redirection, integration, and possible applications.
-- Aberration is descriptive, not moral. Soul-Zoun is not inherently evil, forbidden, demonic, criminal, destructive, or apocalyptic. Local law and social judgment apply to actual methods and consequences, not to the name alone.
-- Both traditions cover the same domain. Neither has a separate cultivation scale, independent ring rules, alternative awakening, or permission to bypass existing mechanics.
-- Do not classify a faction, school, person, or region without evidence of its actual doctrine. If uncertain, retain the general category Spirit Realm instruction.
-- The former global four-part taxonomy Orthodox / Unbound / Forbidden / Supremacy is retired. Any surviving use must be explicitly local, historical, legal, religious, or factional—not a global tradition category. Do not mechanically map the four old labels onto the two new traditions.
-- The ancient world calamity involved catastrophic anomalies, but the calamity is not the definition of Soul-Zoun and no causal responsibility is assigned to Soul-Zoun or its practitioners unless a separate canonical source establishes it.
-- `core/SPIRIT_REALM_TRADITIONS.md` owns doctrine and classification. `core/CULTIVATION_SYSTEM.md`, `core/MARTIAL_SOUL.md`, `core/MARTIAL_SOUL_AWAKENING.md`, `core/SPIRIT_RING_RULES.md`, and `bestiary/SPIRIT_BEAST_RULES.md` retain exclusive authority over their respective mechanics.
+Soul-Nyuma and Soul-Zoun study the same complete Spirit Realm domain. Their defining difference is how they treat and process the soul:
+
+- **Soul-Nyuma** respects the soul's continuity and intrinsic nature. It does not deliberately shorten the process, weaken or seal the soul for convenience, and allows the ordinary Spirit Ring formation process to complete before absorption. Resulting abilities tend to preserve the Spirit Beast's default characteristics and use Qi more efficiently and consistently.
+- **Soul-Zoun** intervenes in the soul's process through methods such as process compression, weakening, sealing, suspension, or reconstruction. It may produce aberrant Spirit Ability characteristics that depart from the Beast's default nature and tend to require additional Qi for formation, maintenance, stabilization, or control.
+- The two traditions are not moral categories. Soul-Zoun is not automatically evil, criminal, forbidden, demonic, or responsible for the ancient calamity. Soul-Nyuma is not automatically virtuous, infallible, or superior in every situation.
+- Their methods do not create separate absorption rules or bypasses. A sealed, weakened, or suspended soul is not automatically a completed Spirit Ring; absorption requires a formed ring and must follow `core/SPIRIT_RING_RULES.md`.
+- Institutions may teach either tradition, both comparatively, or shared foundational instruction. Their affiliation must be supported by actual curriculum, methods, records, or declared doctrine. Their judgments of the opposing tradition are local perspectives, not universal facts; members may disagree internally.
+- The only recorded achievement in Merzkava's history of a Spirit Ring with full potential and a **100% Sync cap** was attained by an ahli Spirit Realm of Soul-Nyuma. This historical fact grants no automatic bonus or guarantee to Nyuma practitioners and does not permanently bar Soul-Zoun from future achievement.
+- Illustrative 12%/19% Qi costs are examples, not a universal table. No fixed Qi multiplier, aberration tier, structural-collapse threshold, or tradition-based absorption modifier is established here.
+- The former global four-part taxonomy Orthodox / Unbound / Forbidden / Supremacy is retired; do not map those labels onto the two traditions. Their surviving use must be explicitly local, historical, legal, religious, or factional.
+- The ancient calamity involved catastrophic anomalies, but it is not the definition of Soul-Zoun and no causal responsibility is assigned to Soul-Zoun or its practitioners without separate canon evidence.
+
+`core/SPIRIT_REALM_TRADITIONS.md` owns doctrine and classification. `core/CULTIVATION_SYSTEM.md`, `core/MARTIAL_SOUL.md`, `core/MARTIAL_SOUL_AWAKENING.md`, `core/SPIRIT_RING_RULES.md`, and `bestiary/SPIRIT_BEAST_RULES.md` retain exclusive authority over their respective mechanics.
 
 ## 3. Updating Canon Safely
 

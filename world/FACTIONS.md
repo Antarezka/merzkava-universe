@@ -101,7 +101,7 @@ The current clan heads are listed in `../regions/tianhai-yunzhou/npcs/POWER_STRU
 
 ### Cultivator Academies and Arcanist Institute
 
-Tianhai Yunzhou has four Cultivator Academies, one in each cardinal area. Tianlan Supreme Academy in the South is the most outstanding. All four teach foundational Martial Soul, Spirit Realm, Spirit Ring, Spirit Beast, and related cultivator subjects, using more flexible methods than the Golden Dragon Empire's orthodox central academies. Their exact admissions and curricula remain undefined.
+Tianhai Yunzhou has four Cultivator Academies, one in each cardinal area. Tianlan Supreme Academy in the South is the most outstanding. All four teach foundational Martial Soul, Spirit Realm, Spirit Ring, Spirit Beast, and related cultivator subjects, using more flexible methods than the Golden Dragon Empire's established central academies. This does not by itself establish Soul-Nyuma or Soul-Zoun affiliation. Their exact admissions and curricula remain undefined.
 
 The Tianhai Arcanist Institute is the world's sole established high-level institution with this breadth of Arcanist research. It specializes in Formation Engraver development, materials, formulation/mixing methods, complex formation engraving for Tier 6 and above, and optimization for Tier 5 and below. See `world/TIANHAI_ACADEMIES_AND_ARCANIST_INSTITUTE.md`; official production mechanics remain in `core/ARCANISTRY_AND_FORMULATION.md`.
 
@@ -161,13 +161,13 @@ Lawless Territories are not a single faction or unified state. The following gro
 
 ### Black Tide Expanse
 - **Dreadtide Sect:** Combat and cultivation adapted to maritime conditions, pressure, and surprise attacks.
-- **Abyssal Moon Sect:** Dark-energy techniques and methods considered heterodox by orthodox schools.
+- **Abyssal Moon Sect:** Dark-energy techniques regarded as outside accepted methods by some established schools; this reputation alone does not establish Soul-Zoun affiliation.
 - **Sea of Graves Hall:** Expeditions, dangerous sea routes, ruins, and trade in exploration finds.
 - **Crimson Keel Brotherhood:** Sailors and cultivators involved in smuggling, piracy, and illegal escort work; not every cell has identical goals.
 - **Crimson Sovereign Court (赤尊宫 · Chì Zūn Gōng):** A concealed power group operating above Crimson Keel Brotherhood. Its hidden leader is Ying Wuxin (嬴无心), Spirit Realm 9 — Spirit Primordial, Martial Soul Asura — Myth. The Court's influence from the shadows is comparable in reach to an empire, but it is not a fourth major power or a government of the Lawless Territories. Its membership, bases, chain of command, and control over individual Brotherhood cells remain unknown. See `world/NPC_YING_WUXIN.md` and `world/REGION_BLACK_TIDE_EXPANSE.md`.
 
 ### Nine Frost Wastes
-- **Frozen Blood Sect:** Cold-energy and blood-based cultivation methods considered dangerous by many orthodox groups.
+- **Frozen Blood Sect:** Cold-energy and blood-based cultivation methods regarded as dangerous by some groups; this judgment alone does not establish Soul-Zoun affiliation.
 - **Black Frost Palace:** Fortified organization associated with freezing techniques, strong defense, and secrecy.
 - **Corpse Lantern Sect:** Study of corpses, death energy, and remains of life; practices are taboo in many places.
 - **Silent Maw Hall:** A discreet broker network connecting clients with independent assassins affiliated with the Hall. The Hall itself is an intermediary, not an organization whose members are automatically the assassins carrying out contracts. Its service follows a code of ethics; the standard revenue split is 60% to the intermediary and 40% to the contracted assassin. Individual assassin identities, contract details, and code enforcement remain compartmentalized. Concealment and low-profile operations support its brokerage work.

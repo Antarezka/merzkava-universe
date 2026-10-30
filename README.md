@@ -235,6 +235,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 *Recent world and system updates*
 
 ---
+- ✦ **Arcanistry Terminology Unified**
+  Hash: ``7314255`` | Ver: ``Nightly-v4.0.11`` · ``Stable-v4.0.1``
+  Replaces legacy Thinker terminology with Arcanist and Arcanistry across progression, Focus, Grade, institutional lore, world history, regional records, NPC profiles, templates, and the noticeboard while preserving established mechanics.
+
 
 - ✦ **Unified Spirit Ring Absorption & AWR Calibration**
   Hash: ``07cae10`` | Ver: ``Nightly-v4.0.11`` · ``Stable-v4.0.1``

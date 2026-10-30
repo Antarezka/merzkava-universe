@@ -24,7 +24,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ### ✦ READY-TO-COPY ROLEPLAY HASH ✦
 
-**Latest pinned source:** `d1a4841`
+**Latest pinned source:** `d2092ef`
 
 </div>
 <!-- RP_SOURCE_END -->
@@ -236,7 +236,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ---
 - ✦ **Soul-Nyuma & Soul-Zoun — Doctrine and Education Expanded**
-  Hash: ``d1a4841`` | Ver: ``Nightly-v4.0.14`` · ``Stable-v4.0.1``
+  Hash: ``d2092ef`` | Ver: ``Nightly-v4.0.14`` · ``Stable-v4.0.1``
   Defines soul processing through Spirit Ring formation/absorption, natural versus aberrant Spirit Ability expression, Qi-efficiency trade-offs, institutional curricula and local perspectives, and the historical Nyuma-only 100% Sync-cap achievement. Existing mechanics remain unchanged.
 
 - ✦ **Soul-Nyuma & Soul-Zoun — Three-Discipline Canon Established**

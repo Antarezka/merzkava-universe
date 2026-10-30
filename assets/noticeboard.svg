@@ -1,237 +1,250 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1040" viewBox="0 0 1200 1040" role="img" aria-labelledby="title desc">
-<title id="title">Merzkava Universe — Investigation Board</title>
-<desc id="desc">A detective-style cork investigation board with photographs, dossiers, maps, handwritten notes, evidence tags and red strings. The investigation is divided evenly between Spirit Realm and Arcanistry, with verified connections across Merzkava's history, powers, institutions, artifacts and mysteries.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1560" viewBox="0 0 1440 1560" role="img" aria-labelledby="title desc">
+<title id="title">Merzkava Universe — The Arcanistry Investigation Wall</title>
+<desc id="desc">An antique, layered investigation wall inspired by Reverse: 1999, with scattered archival photographs, academy dossiers, research notes, maps, pinned papers, and extremely fine pale-blue and red evidence threads. It presents the canon education route, four Tianhai academies, the exclusive Tianhai Arcanist Institute, Arcanist progression, formation engraving, research fields, and established historical evidence.</desc>
 <defs>
- <pattern id="cork" width="38" height="38" patternUnits="userSpaceOnUse"><rect width="38" height="38" fill="#98704D"/><circle cx="7" cy="9" r="1.4" fill="#6D4B35" opacity=".35"/><circle cx="27" cy="22" r="1.8" fill="#D3AA79" opacity=".32"/><path d="M2 30l8-2m13-22l6 2m-5 27l7-3" stroke="#684832" stroke-width="1" opacity=".25"/></pattern>
- <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur in="SourceAlpha" stdDeviation="4"/><feOffset dx="4" dy="6"/><feComponentTransfer><feFuncA type="linear" slope=".38"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
- <pattern id="photo" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#343431"/><path d="M0 8L8 0" stroke="#77736A" stroke-width=".6" opacity=".35"/></pattern>
+ <linearGradient id="wood" x2="0" y2="1"><stop stop-color="#51463D"/><stop offset=".48" stop-color="#292B2B"/><stop offset="1" stop-color="#171C20"/></linearGradient>
+ <linearGradient id="inner" x2="1" y2="1"><stop stop-color="#263B42"/><stop offset=".5" stop-color="#34464A"/><stop offset="1" stop-color="#1D3037"/></linearGradient>
+ <linearGradient id="paper" x2=".9" y2="1"><stop stop-color="#F4EBD8"/><stop offset="1" stop-color="#D9CBB2"/></linearGradient>
+ <linearGradient id="photo" x2="0" y2="1"><stop stop-color="#66777A"/><stop offset="1" stop-color="#27343A"/></linearGradient>
+ <pattern id="cloth" width="28" height="28" patternUnits="userSpaceOnUse"><rect width="28" height="28" fill="#304249"/><path d="M0 5H28M0 19H28M6 0V28M20 0V28" stroke="#829397" stroke-width=".45" opacity=".16"/><circle cx="4" cy="23" r=".8" fill="#B7C3BC" opacity=".12"/></pattern>
+ <pattern id="grain" width="34" height="34" patternUnits="userSpaceOnUse"><rect width="34" height="34" fill="none"/><path d="M2 8l8-2m9 17l11-3M4 31l6-2M24 5l7 1" stroke="#E4D7C1" stroke-width=".7" opacity=".12"/><circle cx="16" cy="9" r=".8" fill="#E4D7C1" opacity=".16"/></pattern>
+ <filter id="lift" x="-35%" y="-35%" width="170%" height="180%"><feGaussianBlur in="SourceAlpha" stdDeviation="5"/><feOffset dx="4" dy="7"/><feComponentTransfer><feFuncA type="linear" slope=".42"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <filter id="soft"><feGaussianBlur stdDeviation="1.2"/></filter>
+ <g id="pin"><circle r="8" fill="#20292C" stroke="#B9B6A8" stroke-width="1.2"/><circle cy="-1.5" r="3.2" fill="#D6C7A9"/><path d="M-2 5L0 11L2 5" stroke="#A8A79C" stroke-width="1"/></g>
+ <g id="tape"><path d="M0 0L82 -3L86 18L3 21Z" fill="#D9D0B9" opacity=".72" stroke="#9C927D" stroke-width=".6"/></g>
 </defs>
-<!-- frame and cork -->
-<rect width="1200" height="1040" fill="#171716"/>
-<rect x="17" y="17" width="1166" height="1006" rx="8" fill="#38291F" stroke="#0D0D0C" stroke-width="8"/>
-<rect x="34" y="34" width="1132" height="972" rx="4" fill="url(#cork)" stroke="#D2B18A" stroke-width="3"/>
-<path d="M600 145V984" stroke="#3E2D20" stroke-width="3" stroke-dasharray="7 9" opacity=".55"/>
-<!-- header -->
-<g filter="url(#shadow)">
- <path d="M63 54L1136 48L1142 145L57 151Z" fill="#E8DDC8" stroke="#211D19" stroke-width="4"/>
- <text x="83" y="82" font-family="monospace" font-size="13" font-weight="bold" letter-spacing="3" fill="#8A342C">WORLD KNOWLEDGE / UNOFFICIAL CASE WALL</text>
- <text x="81" y="124" font-family="Georgia,serif" font-size="36" font-weight="bold" letter-spacing="2" fill="#201D19">MERZKAVA: THE THREADS BENEATH THE WORLD</text>
- <g transform="rotate(4 1055 96)"><rect x="1003" y="63" width="105" height="46" fill="#B33C32" stroke="#201D19" stroke-width="2"/><text x="1055" y="82" text-anchor="middle" font-family="monospace" font-size="10" font-weight="bold" fill="#FFF4DF">CASE FILE</text><text x="1055" y="99" text-anchor="middle" font-family="monospace" font-size="15" font-weight="bold" fill="#FFF4DF">001 / OPEN</text></g>
+<!-- antique frame and deep fabric board -->
+<rect width="1440" height="1560" fill="#111719"/>
+<rect x="18" y="18" width="1404" height="1524" rx="12" fill="url(#wood)" stroke="#0B1012" stroke-width="10"/>
+<rect x="37" y="37" width="1366" height="1486" rx="5" fill="#18272C" stroke="#A38B6B" stroke-width="3"/>
+<rect x="52" y="52" width="1336" height="1456" fill="url(#inner)" stroke="#10191D" stroke-width="9"/>
+<rect x="62" y="62" width="1316" height="1436" fill="url(#cloth)" opacity=".96"/>
+<rect x="62" y="62" width="1316" height="1436" fill="url(#grain)"/>
+<!-- faint ruled archival marks -->
+<g stroke="#AFC2C0" opacity=".10" fill="none"><path d="M86 250H1355M86 1120H1355M86 1460H1355"/><path d="M705 270V1418" stroke-dasharray="2 14"/></g>
+<!-- header: skewed paper title and archive stamp -->
+<g filter="url(#lift)" transform="rotate(-.7 710 135)">
+ <path d="M100 83L1339 72L1347 209L91 221Z" fill="url(#paper)" stroke="#8F806B" stroke-width="2"/>
+ <path d="M111 95L1327 85" stroke="#9E8F79" stroke-width="1"/>
+ <text x="132" y="122" font-family="monospace" font-size="15" letter-spacing="4" fill="#9B4448">TIANHAI ARCHIVE / RESEARCH DOSSIER 04</text>
+ <text x="127" y="172" font-family="Georgia,serif" font-size="43" font-weight="bold" letter-spacing="1.3" fill="#263238">THE ARCANISTRY PAPERS</text>
+ <text x="130" y="199" font-family="Georgia,serif" font-size="14" font-style="italic" fill="#58666A">Knowledge is built, tested, recorded — never simply bestowed.</text>
+ <g transform="rotate(8 1224 145)"><rect x="1154" y="103" width="132" height="66" fill="#A8434A" stroke="#71343B" stroke-width="2"/><text x="1220" y="127" text-anchor="middle" font-family="monospace" font-size="11" letter-spacing="2" fill="#F7ECDD">RESTRICTED</text><text x="1220" y="151" text-anchor="middle" font-family="Georgia,serif" font-size="20" font-weight="bold" fill="#FFF0DD">CASE 04</text></g>
 </g>
-<!-- section headers -->
-<g filter="url(#shadow)">
- <path d="M57 174L579 169L585 218L55 222Z" fill="#E9D9B8" stroke="#28221B" stroke-width="3"/>
- <text x="79" y="204" font-family="Arial,sans-serif" font-size="25" font-weight="900" letter-spacing="3" fill="#29231D">A / SPIRIT REALM</text>
- <path d="M620 169L1144 174L1140 222L615 218Z" fill="#F1B56E" stroke="#28221B" stroke-width="3"/>
- <text x="645" y="204" font-family="Arial,sans-serif" font-size="25" font-weight="900" letter-spacing="3" fill="#29231D">B / ARCANISTRY</text>
+<!-- fine evidence threads: pale blue and restrained red, deliberately hairline -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+ <g stroke="#A8D9E6" stroke-width="1.05" opacity=".9">
+  <path d="M184 355L426 292L674 385L928 278L1244 376"/>
+  <path d="M184 355L300 612L570 720L790 553L1085 672L1244 376"/>
+  <path d="M426 292L462 880L790 553L954 1045L1240 1192"/>
+  <path d="M674 385L600 1110L953 1045L1100 1360"/>
+  <path d="M928 278L1085 672L954 1045L1240 1192"/>
+  <path d="M300 612L184 1055L462 880L600 1110L360 1320"/>
+  <path d="M1244 376L1290 850L1240 1192L1100 1360"/>
+ </g>
+ <g stroke="#C85A61" stroke-width=".95" opacity=".92">
+  <path d="M184 355L570 720L462 880L184 1055"/>
+  <path d="M426 292L790 553L1085 672L1290 850"/>
+  <path d="M674 385L928 278L1085 672L954 1045"/>
+  <path d="M300 612L600 1110L954 1045L1240 1192"/>
+  <path d="M790 553L462 880L360 1320"/>
+  <path d="M1085 672L1100 1360"/>
+ </g>
 </g>
-<!-- evidence cards begin; red threads are layered above the evidence -->
-<!-- LEFT: three powers dossier -->
-<g filter="url(#shadow)" transform="rotate(-1.2 180 315)">
- <rect x="66" y="242" width="226" height="159" fill="#E7DCC5" stroke="#28231D" stroke-width="3"/>
- <text x="82" y="265" font-family="monospace" font-size="11" font-weight="bold" fill="#9C332B">POLITICAL BALANCE / 03</text>
- <text x="82" y="292" font-family="Arial" font-size="18" font-weight="900" fill="#24211C">THREE POWERS</text>
- <text x="82" y="319" font-family="Arial" font-size="13" fill="#24211C">Golden Dragon Empire · East</text>
- <text x="82" y="341" font-family="Arial" font-size="13" fill="#24211C">Tianhai Yunzhou · Maritime</text>
- <text x="82" y="363" font-family="Arial" font-size="13" fill="#24211C">Beiming Gu · North</text>
- <text x="82" y="385" font-family="monospace" font-size="10" fill="#8B302A">POWER ≠ SAME ADVANTAGE</text>
- <path d="M175 236l-5 13" stroke="#B52E2B" stroke-width="4"/>
+<!-- top left: four academies, irregular pinned dossier -->
+<g filter="url(#lift)" transform="rotate(-2.2 270 405)">
+ <path d="M91 267L460 254L474 556L103 568Z" fill="url(#paper)" stroke="#897B66" stroke-width="2"/>
+ <path d="M112 288L444 278" stroke="#A99B83"/>
+ <text x="121" y="313" font-family="monospace" font-size="12" letter-spacing="2" fill="#A4484D">EDUCATION / FOUR DIRECTIONS</text>
+ <text x="119" y="350" font-family="Georgia,serif" font-size="25" font-weight="bold" fill="#27343A">THE FOUR ACADEMIES</text>
+ <path d="M119 366L440 355" stroke="#B5A58A"/>
+ <text x="121" y="397" font-family="Arial" font-size="16" font-weight="bold" fill="#2A3437">NORTH · BEICHEN</text>
+ <text x="121" y="418" font-family="Arial" font-size="13" fill="#455257">Readiness · defense · threat awareness</text>
+ <text x="121" y="451" font-family="Arial" font-size="16" font-weight="bold" fill="#2A3437">SOUTH · TIANLAN SUPREME</text>
+ <text x="121" y="472" font-family="Arial" font-size="13" fill="#455257">Most prestigious · broad and flexible study</text>
+ <text x="121" y="505" font-family="Arial" font-size="16" font-weight="bold" fill="#2A3437">WEST · CANGFAN MARITIME</text>
+ <text x="121" y="526" font-family="Arial" font-size="13" fill="#455257">Navigation · teamwork · travel preparation</text>
+ <text x="121" y="551" font-family="Arial" font-size="16" font-weight="bold" fill="#2A3437">EAST · HAIYUE</text>
+ <text x="290" y="551" font-family="Arial" font-size="13" fill="#455257">Trade · resources · applied problem-solving</text>
+ <use href="#pin" x="111" y="275"/>
 </g>
-<!-- LEFT portrait: Beiming Han -->
-<g filter="url(#shadow)" transform="rotate(2 380 310)">
- <rect x="327" y="242" width="174" height="166" fill="#E9E3D7" stroke="#29231D" stroke-width="3"/>
- <rect x="337" y="252" width="91" height="111" fill="url(#photo)" stroke="#24211C" stroke-width="2"/>
- <circle cx="382" cy="291" r="22" fill="#B9B3A7"/><path d="M350 355Q351 316 382 316Q414 316 415 355Z" fill="#B9B3A7"/>
- <path d="M350 280Q380 244 414 279" fill="none" stroke="#D8D1C4" stroke-width="7"/>
- <text x="438" y="276" font-family="monospace" font-size="9" fill="#A3352E">SUBJECT</text>
- <text x="438" y="297" font-family="Arial" font-size="13" font-weight="bold" fill="#211E1A">BEIMING</text>
- <text x="438" y="314" font-family="Arial" font-size="13" font-weight="bold" fill="#211E1A">HAN</text>
- <text x="438" y="337" font-family="monospace" font-size="9" fill="#51483D">SPIRIT</text>
- <text x="438" y="350" font-family="monospace" font-size="9" fill="#51483D">PRIMORDIAL</text>
- <text x="340" y="389" font-family="monospace" font-size="10" font-weight="bold" fill="#8C3029">BLUE-FLAME SILVER TIGER</text>
+<!-- small photo: academy facade / architectural study -->
+<g filter="url(#lift)" transform="rotate(3.6 565 347)">
+ <rect x="500" y="263" width="171" height="173" fill="#E8DDC9" stroke="#827664" stroke-width="2"/>
+ <rect x="511" y="274" width="149" height="126" fill="url(#photo)"/>
+ <path d="M520 366L585 300L650 366M535 366V330H638V366M548 330V309H625V330" fill="none" stroke="#D7CDBA" stroke-width="5"/>
+ <path d="M516 378H655" stroke="#C7B99F" stroke-width="2"/>
+ <text x="518" y="418" font-family="monospace" font-size="10" letter-spacing="1" fill="#46565A">SOUTH / STUDY HALL</text>
+ <use href="#pin" x="648" y="272"/>
 </g>
-<!-- LEFT traditions note -->
-<g filter="url(#shadow)" transform="rotate(-2 165 494)">
- <rect x="67" y="430" width="235" height="144" fill="#F0E4C9" stroke="#2A241E" stroke-width="3"/>
- <text x="83" y="454" font-family="monospace" font-size="11" font-weight="bold" fill="#9C332B">DOCTRINAL SPLIT</text>
- <text x="83" y="482" font-family="Arial" font-size="18" font-weight="900" fill="#26221D">SOUL-NYUMA</text>
- <text x="83" y="503" font-family="Arial" font-size="12" fill="#29241E">Continuity · natural traits</text>
- <path d="M83 514H280" stroke="#9D8B70" stroke-width="1"/>
- <text x="83" y="540" font-family="Arial" font-size="18" font-weight="900" fill="#26221D">SOUL-ZOUN</text>
- <text x="83" y="559" font-family="Arial" font-size="12" fill="#29241E">Intervention · reconstruction</text>
+<!-- focus progression slip -->
+<g filter="url(#lift)" transform="rotate(1.4 245 738)">
+ <path d="M92 606L408 595L421 865L104 879Z" fill="#E7DCC7" stroke="#8A7C68" stroke-width="2"/>
+ <text x="117" y="637" font-family="monospace" font-size="11" letter-spacing="1.5" fill="#A0444A">STUDENT RECORD / FOCUS TRAINING</text>
+ <text x="117" y="674" font-family="Georgia,serif" font-size="22" font-weight="bold" fill="#29363B">SIX ASSESSED STAGES</text>
+ <g font-family="Arial" font-size="15" fill="#354247">
+  <text x="123" y="713">01  Pemula</text><text x="123" y="744">02  Initiate</text>
+  <text x="123" y="775">03  Beginner</text><text x="123" y="806">04  Ordinary</text>
+  <text x="123" y="837">05  Ahli</text><text x="266" y="837">06  Expert</text>
+ </g>
+ <path d="M112 692L385 682M112 850L385 840" stroke="#B5A58D"/>
+ <text x="116" y="867" font-family="monospace" font-size="9" fill="#A0444A">TEACHER ASSESSMENT REQUIRED</text>
+ <use href="#pin" x="397" y="611"/>
 </g>
-<!-- LEFT war evidence -->
-<g filter="url(#shadow)" transform="rotate(1.1 405 492)">
- <rect x="333" y="433" width="249" height="143" fill="#E8D8B9" stroke="#29231D" stroke-width="3"/>
- <text x="350" y="456" font-family="monospace" font-size="11" font-weight="bold" fill="#A1342D">HIST-001 / CONFIRMED</text>
- <text x="350" y="485" font-family="Arial" font-size="19" font-weight="900" fill="#24201C">THE GREAT</text>
- <text x="350" y="507" font-family="Arial" font-size="19" font-weight="900" fill="#24201C">TIANHAI WAR</text>
- <text x="350" y="535" font-family="Arial" font-size="12" fill="#29231D">Otherworld gates · Tier 7–9</text>
- <text x="350" y="553" font-family="Arial" font-size="12" fill="#29231D">Demonic Beast incursion</text>
- <g transform="rotate(-7 546 454)"><rect x="518" y="440" width="52" height="18" fill="#B43B32"/><text x="544" y="453" text-anchor="middle" font-family="monospace" font-size="8" font-weight="bold" fill="#FFF1D9">VERIFIED</text></g>
+<!-- right large institute file -->
+<g filter="url(#lift)" transform="rotate(-1.1 1074 425)">
+ <path d="M852 257L1317 267L1305 604L840 591Z" fill="#EDE3D0" stroke="#8B7D68" stroke-width="2.5"/>
+ <path d="M852 257L1044 262L1060 280L849 277Z" fill="#B8A88E"/>
+ <text x="881" y="307" font-family="monospace" font-size="12" letter-spacing="2" fill="#A1454A">EXCLUSIVE HIGH-LEVEL INSTITUTION</text>
+ <text x="878" y="347" font-family="Georgia,serif" font-size="27" font-weight="bold" fill="#26363C">TIANHAI ARCANIST</text>
+ <text x="878" y="379" font-family="Georgia,serif" font-size="27" font-weight="bold" fill="#26363C">INSTITUTE</text>
+ <path d="M879 394L1280 405" stroke="#A9997F"/>
+ <text x="880" y="426" font-family="Arial" font-size="14" fill="#39494D">The world's sole institution at this level and breadth</text>
+ <text x="880" y="446" font-family="Arial" font-size="14" fill="#39494D">of Arcanistry specialization. Not the only place where</text>
+ <text x="880" y="466" font-family="Arial" font-size="14" fill="#39494D">Arcanists, workshops or research groups exist.</text>
+ <g font-family="Arial" font-size="13" fill="#39494D">
+  <text x="884" y="501">• Official Grade examinations & credentials</text>
+  <text x="884" y="522">• Research, advanced study & technical standards</text>
+  <text x="884" y="543">• Artifact inspection, provenance & quality review</text>
+  <text x="884" y="564">• Safety, materials and formulation research</text>
+ </g>
+ <g transform="rotate(6 1265 300)"><rect x="1212" y="280" width="92" height="28" fill="#A84950"/><text x="1258" y="299" text-anchor="middle" font-family="monospace" font-size="10" font-weight="bold" fill="#FFF1DE">CENTRAL</text></g>
+ <use href="#pin" x="1295" y="279"/>
 </g>
-<!-- LEFT lower mystery map -->
-<g filter="url(#shadow)" transform="rotate(-1 250 714)">
- <rect x="68" y="615" width="340" height="190" fill="#D8C7A7" stroke="#29231D" stroke-width="3"/>
- <text x="87" y="641" font-family="monospace" font-size="11" font-weight="bold" fill="#98332D">FIELD MAP / NORTHERN INTERIOR</text>
- <path d="M92 674Q144 635 190 674T290 672T381 674M91 715Q142 680 191 715T290 714T382 714M92 758Q142 721 190 758T290 757T381 757" fill="none" stroke="#756B59" stroke-width="2"/>
- <path d="M230 660L248 691L227 717L264 749L245 781" fill="none" stroke="#496A72" stroke-width="4"/>
- <ellipse cx="245" cy="731" rx="43" ry="25" fill="#6C8C91" opacity=".75" stroke="#344F55" stroke-width="2"/>
- <text x="245" y="735" text-anchor="middle" font-family="monospace" font-size="9" font-weight="bold" fill="#F6EAD2">AZERION</text>
- <text x="285" y="690" font-family="Arial" font-size="11" font-weight="bold" fill="#28231D">DEAD ZONE</text>
- <text x="285" y="705" font-family="Arial" font-size="10" fill="#28231D">Inner / core</text>
- <text x="87" y="789" font-family="monospace" font-size="10" fill="#8F302A">HEAVENLY BEAST · 7,290,422 YEARS</text>
+<!-- archival photo of precision engraver -->
+<g filter="url(#lift)" transform="rotate(-4 738 746)">
+ <rect x="646" y="637" width="190" height="227" fill="#E9DFCC" stroke="#817563" stroke-width="2"/>
+ <rect x="658" y="649" width="166" height="166" fill="#29383D"/>
+ <path d="M705 680L742 713L755 752L741 783L728 803" fill="none" stroke="#D2C6B2" stroke-width="11" stroke-linecap="round"/>
+ <path d="M696 672L714 656L752 695L734 712Z" fill="#9B9B8C" stroke="#E5D8C2" stroke-width="2"/>
+ <path d="M728 803L720 824" stroke="#C7B9A2" stroke-width="2"/>
+ <text x="659" y="839" font-family="monospace" font-size="10" fill="#48565A">FORMATION ENGRAVER</text>
+ <text x="659" y="853" font-family="monospace" font-size="8" fill="#A0444A">PRECISION TOOL / STUDY</text>
+ <use href="#pin" x="822" y="650"/>
 </g>
-<!-- LEFT Beiming family / guild small note -->
-<g filter="url(#shadow)" transform="rotate(2 480 704)">
- <rect x="431" y="614" width="150" height="174" fill="#F1E6D0" stroke="#29231D" stroke-width="3"/>
- <text x="445" y="638" font-family="monospace" font-size="9" font-weight="bold" fill="#9A302A">PERSONS OF NOTE</text>
- <text x="445" y="665" font-family="Arial" font-size="13" font-weight="bold" fill="#25211D">BEIMING</text>
- <text x="445" y="681" font-family="Arial" font-size="13" font-weight="bold" fill="#25211D">NERVA</text>
- <text x="445" y="701" font-family="Arial" font-size="11" fill="#29231D">Grade 9 Arcanist</text>
- <path d="M445 713H565" stroke="#A38E70"/>
- <text x="445" y="738" font-family="Arial" font-size="12" font-weight="bold" fill="#25211D">SPIRIT HUNTERS</text>
- <text x="445" y="754" font-family="Arial" font-size="12" font-weight="bold" fill="#25211D">GUILD</text>
- <text x="445" y="775" font-family="monospace" font-size="9" fill="#8B302A">CONTRACT NETWORK</text>
+<!-- research remit on narrow torn sheet -->
+<g filter="url(#lift)" transform="rotate(2.1 1070 760)">
+ <path d="M877 634L1302 621L1315 885L888 900Z" fill="#DCD1BC" stroke="#8C7D68" stroke-width="2"/>
+ <text x="904" y="669" font-family="monospace" font-size="11" letter-spacing="1.5" fill="#A0444A">INSTITUTE / ACTIVE RESEARCH AREAS</text>
+ <text x="902" y="705" font-family="Georgia,serif" font-size="23" font-weight="bold" fill="#29383C">WHAT THEY STUDY</text>
+ <g font-family="Arial" font-size="14" fill="#3B494D">
+  <text x="906" y="740">01  Formation Engraver design & precision methods</text>
+  <text x="906" y="768">02  Material testing, classification & preparation</text>
+  <text x="906" y="796">03  Formulation, mixing & repeatability</text>
+  <text x="906" y="824">04  Complex engraving for Tier 6 and above</text>
+  <text x="906" y="852">05  Technique optimization for Tier 5 and below</text>
+  <text x="906" y="880">06  Testing, failure analysis, provenance & safety</text>
+ </g>
+ <use href="#pin" x="1290" y="638"/>
 </g>
-<!-- RIGHT portrait Bai Xuanyin -->
-<g filter="url(#shadow)" transform="rotate(-1.4 760 310)">
- <rect x="641" y="241" width="224" height="168" fill="#F2E7D2" stroke="#2B241E" stroke-width="3"/>
- <rect x="652" y="252" width="102" height="116" fill="url(#photo)" stroke="#28221D" stroke-width="2"/>
- <circle cx="703" cy="289" r="22" fill="#D0C4B1"/><path d="M669 360Q671 314 703 314Q736 314 739 360Z" fill="#D0C4B1"/>
- <path d="M670 278Q701 245 738 279" fill="none" stroke="#E6D8C1" stroke-width="8"/>
- <text x="766" y="272" font-family="monospace" font-size="9" fill="#A3352E">LEGACY / DECEASED</text>
- <text x="766" y="296" font-family="Arial" font-size="15" font-weight="900" fill="#211E1A">BAI XUANYIN</text>
- <text x="766" y="319" font-family="Arial" font-size="12" fill="#29231D">Arcanist Grade 10</text>
- <text x="766" y="338" font-family="Arial" font-size="12" fill="#29231D">War heroine</text>
- <text x="766" y="357" font-family="Arial" font-size="12" fill="#29231D">Artifact creator</text>
- <text x="655" y="391" font-family="monospace" font-size="10" font-weight="bold" fill="#8F302A">DESIGN FRAMEWORK → TIER 8 DEVICE</text>
+<!-- center: grade ladder on a clipped sheet -->
+<g filter="url(#lift)" transform="rotate(-1.6 498 1070)">
+ <path d="M431 900L836 910L823 1264L418 1251Z" fill="url(#paper)" stroke="#8C7D69" stroke-width="2"/>
+ <path d="M447 920L818 930" stroke="#A99A82"/>
+ <text x="458" y="954" font-family="monospace" font-size="11" letter-spacing="2" fill="#A0444A">CERTIFICATION / TEN GRADES</text>
+ <text x="456" y="991" font-family="Georgia,serif" font-size="25" font-weight="bold" fill="#26363B">THE ARCANIST PATH</text>
+ <g font-family="Arial" font-size="14" fill="#354348">
+  <text x="460" y="1027">Foundational theory with a qualified teacher</text>
+  <text x="460" y="1053">Focus stages → Apprentice Examination</text>
+  <text x="460" y="1079">Pass the exam → Arcanist Grade 1</text>
+  <text x="460" y="1117" font-size="17" font-weight="bold">GRADE 1  ─────────────  GRADE 10</text>
+  <text x="460" y="1147">Every Grade requires official examination</text>
+  <text x="460" y="1173">Eligibility ≠ certification; production ≠ Grade</text>
+  <text x="460" y="1207">Independent from Spirit Realm progression</text>
+ </g>
+ <path d="M456 1220L795 1230" stroke="#A99A82"/>
+ <text x="460" y="1243" font-family="monospace" font-size="9" fill="#A0444A">NO SELF-DECLARED GRADES / NO SHORTCUTS</text>
+ <use href="#pin" x="818" y="923"/>
 </g>
-<!-- RIGHT institute note -->
-<g filter="url(#shadow)" transform="rotate(1.2 1000 316)">
- <rect x="890" y="244" width="245" height="152" fill="#E7D9BD" stroke="#2A241E" stroke-width="3"/>
- <text x="908" y="267" font-family="monospace" font-size="10" font-weight="bold" fill="#9B342D">RESEARCH NODE / TIANHAI</text>
- <text x="908" y="296" font-family="Arial" font-size="18" font-weight="900" fill="#26211C">TIANHAI ARCANIST</text>
- <text x="908" y="318" font-family="Arial" font-size="18" font-weight="900" fill="#26211C">INSTITUTE</text>
- <text x="908" y="346" font-family="Arial" font-size="12" fill="#2C261F">Formation Engravers</text>
- <text x="908" y="364" font-family="Arial" font-size="12" fill="#2C261F">Materials · formulations</text>
- <text x="908" y="382" font-family="monospace" font-size="9" fill="#8E302A">TIER 6+ COMPLEX ENGRAVING</text>
+<!-- left middle: academy to institute bridge -->
+<g filter="url(#lift)" transform="rotate(2.7 250 1090)">
+ <rect x="93" y="932" width="292" height="267" fill="#E5DAC5" stroke="#8A7C68" stroke-width="2"/>
+ <text x="117" y="966" font-family="monospace" font-size="11" letter-spacing="1.3" fill="#A0444A">PATHWAY / NOT AN AUTOMATIC PROMOTION</text>
+ <text x="116" y="1002" font-family="Georgia,serif" font-size="22" font-weight="bold" fill="#29383C">FROM ACADEMY</text>
+ <text x="116" y="1028" font-family="Georgia,serif" font-size="22" font-weight="bold" fill="#29383C">TO SPECIALIST STUDY</text>
+ <g font-family="Arial" font-size="14" fill="#3B494D">
+  <text x="119" y="1070">• Academies teach broad cultivator</text>
+  <text x="132" y="1091">foundations and may spot aptitude.</text>
+  <text x="119" y="1124">• They may connect students to real</text>
+  <text x="132" y="1145">foundational Arcanistry instruction.</text>
+  <text x="119" y="1178">• Neither admission nor recommendation</text>
+  <text x="132" y="1197">grants Grade or restricted access.</text>
+ </g>
+ <use href="#pin" x="111" y="947"/>
 </g>
-<!-- RIGHT artifact evidence -->
-<g filter="url(#shadow)" transform="rotate(-1.5 752 500)">
- <rect x="642" y="440" width="251" height="145" fill="#F0E5D0" stroke="#2B241E" stroke-width="3"/>
- <text x="660" y="464" font-family="monospace" font-size="10" font-weight="bold" fill="#9B342D">ARTIFACT CHAIN / WARTIME</text>
- <text x="660" y="492" font-family="Arial" font-size="18" font-weight="900" fill="#25211D">TIER 8</text>
- <text x="660" y="514" font-family="Arial" font-size="14" font-weight="bold" fill="#25211D">ONE-USE CONCEALMENT</text>
- <text x="660" y="538" font-family="Arial" font-size="12" fill="#29231D">Copied from Bai Xuanyin's</text>
- <text x="660" y="555" font-family="Arial" font-size="12" fill="#29231D">design framework imperfectly</text>
- <text x="660" y="574" font-family="monospace" font-size="9" fill="#8E302A">GLOBAL ARCANIST DEPLOYMENT</text>
+<!-- lower right: high grade gate memo -->
+<g filter="url(#lift)" transform="rotate(-2.4 1085 1090)">
+ <path d="M880 934L1307 924L1320 1219L892 1230Z" fill="#E9DEC9" stroke="#8D7D68" stroke-width="2"/>
+ <text x="907" y="970" font-family="monospace" font-size="11" letter-spacing="1.4" fill="#A0444A">ADVANCED CREDENTIAL GATES</text>
+ <text x="906" y="1006" font-family="Georgia,serif" font-size="23" font-weight="bold" fill="#29383C">GRADE 7–10 / PERSONAL TOOL</text>
+ <g font-family="Arial" font-size="14" fill="#3B494D">
+  <text x="910" y="1042">Candidate designs and authors own blueprint.</text>
+  <text x="910" y="1067">Qualified forger makes that exact design.</text>
+  <text x="910" y="1092">Candidate owns and presents it for verification.</text>
+  <path d="M910 1110L1287 1110" stroke="#B3A48D"/>
+  <text x="910" y="1142" font-weight="bold">GRADE 8–10</text>
+  <text x="910" y="1165">Candidate-made artifact, condition, Tier, type,</text>
+  <text x="910" y="1187">series code and current ownership are checked.</text>
+  <text x="910" y="1210">Grade 10 also needs genuine senior recognition.</text>
+ </g>
+ <use href="#pin" x="1295" y="941"/>
 </g>
-<!-- RIGHT floating island -->
-<g filter="url(#shadow)" transform="rotate(1.3 1012 500)">
- <rect x="918" y="433" width="216" height="151" fill="#F4E6C8" stroke="#2A241E" stroke-width="3"/>
- <text x="936" y="456" font-family="monospace" font-size="10" font-weight="bold" fill="#9B342D">STRATEGIC INFRASTRUCTURE</text>
- <text x="936" y="484" font-family="Arial" font-size="17" font-weight="900" fill="#24201B">TIANHAI YUNZHOU</text>
- <text x="936" y="507" font-family="Arial" font-size="12" fill="#29231D">Tier 9 Artificial Artifact</text>
- <text x="936" y="525" font-family="Arial" font-size="12" fill="#29231D">sustains floating island</text>
- <path d="M936 539H1116" stroke="#A48F70"/>
- <text x="936" y="559" font-family="monospace" font-size="10" fill="#8C302A">REFINED LIQUEFIED ENERGY</text>
- <text x="936" y="574" font-family="monospace" font-size="9" fill="#51483D">RAW ORE ≠ MONOPOLY</text>
+<!-- lower left: material and tool facts -->
+<g filter="url(#lift)" transform="rotate(-1.2 251 1340)">
+ <rect x="91" y="1240" width="300" height="190" fill="#DCD1BC" stroke="#8B7D68" stroke-width="2"/>
+ <text x="113" y="1274" font-family="monospace" font-size="10" letter-spacing="1.3" fill="#A0444A">WORKSHOP NOTE / TOOL REQUIREMENT</text>
+ <text x="111" y="1310" font-family="Georgia,serif" font-size="21" font-weight="bold" fill="#29383C">THE ENGRAVER</text>
+ <text x="113" y="1342" font-family="Arial" font-size="14" fill="#3B494D">Scalpel-like precision tool; its fine tip</text>
+ <text x="113" y="1364" font-family="Arial" font-size="14" fill="#3B494D">cuts intricate formation patterns.</text>
+ <text x="113" y="1396" font-family="Arial" font-size="14" fill="#3B494D">Its maker needs Spirit Realm 5+ and</text>
+ <text x="113" y="1418" font-family="Arial" font-size="14" fill="#3B494D">relevant forging ability. Not a guarantee.</text>
+ <use href="#pin" x="373" y="1254"/>
 </g>
-<!-- CENTER crossing evidence -->
-<g filter="url(#shadow)" transform="rotate(-.7 600 700)">
- <rect x="610" y="617" width="276" height="174" fill="#E9DCC3" stroke="#29231D" stroke-width="3"/>
- <text x="629" y="641" font-family="monospace" font-size="10" font-weight="bold" fill="#9A302A">CROSS-CASE CONNECTION</text>
- <text x="629" y="669" font-family="Arial" font-size="17" font-weight="900" fill="#24201B">WORLD KNOWLEDGE</text>
- <text x="629" y="691" font-family="Arial" font-size="17" font-weight="900" fill="#24201B">TOWER</text>
- <text x="629" y="716" font-family="Arial" font-size="12" fill="#29231D">Ordo Suci Tianming</text>
- <text x="629" y="735" font-family="Arial" font-size="12" fill="#29231D">Ruined Archiver branch</text>
- <text x="629" y="760" font-family="Arial" font-size="11" fill="#29231D">Golden Age Ruins → verified maps</text>
- <text x="629" y="778" font-family="monospace" font-size="9" fill="#8F302A">ANOMALY EARLY-WARNING</text>
+<!-- historical portrait/photo: Bai Xuanyin -->
+<g filter="url(#lift)" transform="rotate(3.2 563 1370)">
+ <rect x="435" y="1292" width="179" height="169" fill="#E9DFCC" stroke="#897B67" stroke-width="2"/>
+ <rect x="447" y="1304" width="155" height="111" fill="url(#photo)"/>
+ <circle cx="523" cy="1340" r="23" fill="#B9B6A8"/><path d="M482 1407Q484 1365 523 1365Q562 1365 564 1407Z" fill="#B9B6A8"/>
+ <path d="M480 1333Q521 1287 567 1332" fill="none" stroke="#D8D0C1" stroke-width="7"/>
+ <text x="449" y="1435" font-family="monospace" font-size="10" fill="#A0444A">ARCHIVAL PORTRAIT</text>
+ <text x="449" y="1451" font-family="Arial" font-size="13" font-weight="bold" fill="#344247">BAI XUANYIN</text>
+ <use href="#pin" x="601" y="1305"/>
 </g>
-<!-- lower right secret file -->
-<g filter="url(#shadow)" transform="rotate(1.5 1017 716)">
- <rect x="914" y="620" width="224" height="178" fill="#E6D8C0" stroke="#29231D" stroke-width="3"/>
- <text x="932" y="644" font-family="monospace" font-size="10" font-weight="bold" fill="#A3322B">RESTRICTED / UNRESOLVED</text>
- <text x="932" y="674" font-family="Arial" font-size="18" font-weight="900" fill="#24201C">MEGA COLOSSAL</text>
- <text x="932" y="697" font-family="Arial" font-size="18" font-weight="900" fill="#24201C">LABYRINTH</text>
- <text x="932" y="724" font-family="Arial" font-size="12" fill="#29231D">Azerion's unexplored ruin</text>
- <text x="932" y="743" font-family="Arial" font-size="12" fill="#29231D">deep lake / mutated seabed</text>
- <text x="932" y="769" font-family="monospace" font-size="10" fill="#8E302A">ACCESS &amp; KNOWLEDGE LIMITED</text>
- <g transform="rotate(-8 1081 636)"><rect x="1061" y="627" width="61" height="18" fill="#B33C32"/><text x="1091" y="640" text-anchor="middle" font-family="monospace" font-size="8" font-weight="bold" fill="#FFF0D9">SEALED</text></g>
+<!-- artifact history note -->
+<g filter="url(#lift)" transform="rotate(1.4 778 1370)">
+ <path d="M651 1286L865 1277L877 1462L661 1470Z" fill="#E7DCC7" stroke="#8B7C68" stroke-width="2"/>
+ <text x="675" y="1320" font-family="monospace" font-size="10" letter-spacing="1" fill="#A0444A">HISTORICAL EVIDENCE</text>
+ <text x="673" y="1355" font-family="Georgia,serif" font-size="21" font-weight="bold" fill="#29383C">BAI XUANYIN</text>
+ <text x="675" y="1383" font-family="Arial" font-size="14" fill="#3B494D">Deceased · Arcanist Grade 10</text>
+ <text x="675" y="1406" font-family="Arial" font-size="14" fill="#3B494D">War heroine · artifact creator</text>
+ <text x="675" y="1437" font-family="Arial" font-size="13" fill="#3B494D">Her blueprint informed Tier 8</text>
+ <text x="675" y="1457" font-family="Arial" font-size="13" fill="#3B494D">one-use concealment devices.</text>
+ <use href="#pin" x="855" y="1293"/>
 </g>
-<!-- bottom strip: names and unresolved questions -->
-<g filter="url(#shadow)">
- <path d="M65 835L1138 829L1141 970L61 975Z" fill="#E5D7BD" stroke="#29231D" stroke-width="3"/>
- <text x="87" y="862" font-family="monospace" font-size="11" font-weight="bold" fill="#9B332C">CONNECTED NAMES / FOLLOW THE THREADS</text>
- <text x="87" y="895" font-family="Arial" font-size="15" font-weight="bold" fill="#24201C">JI HAOYUAN</text><text x="87" y="914" font-family="Arial" font-size="11" fill="#29231D">Maharaja · Tower member</text>
- <text x="286" y="895" font-family="Arial" font-size="15" font-weight="bold" fill="#24201C">JUN HAOTIAN</text><text x="286" y="914" font-family="Arial" font-size="11" fill="#29231D">Golden Dragon Emperor</text>
- <text x="490" y="895" font-family="Arial" font-size="15" font-weight="bold" fill="#24201C">SHEN YUEHUA</text><text x="490" y="914" font-family="Arial" font-size="11" fill="#29231D">Shen family · intelligence</text>
- <text x="694" y="895" font-family="Arial" font-size="15" font-weight="bold" fill="#24201C">YING WUXIN</text><text x="694" y="914" font-family="Arial" font-size="11" fill="#29231D">Crimson Sovereign Court</text>
- <text x="895" y="895" font-family="Arial" font-size="15" font-weight="bold" fill="#24201C">MEDICINE HALL</text><text x="895" y="914" font-family="Arial" font-size="11" fill="#29231D">Neutral medical network</text>
- <path d="M87 929H1115" stroke="#A28D70" stroke-width="1"/>
- <text x="87" y="953" font-family="monospace" font-size="10" font-weight="bold" fill="#8F302A">RULE: VERIFIED FACT ≠ RUMOR ≠ HYPOTHESIS. UNKNOWN DETAILS STAY UNKNOWN.</text>
+<!-- three artifacts note -->
+<g filter="url(#lift)" transform="rotate(-2 1090 1355)">
+ <rect x="914" y="1270" width="394" height="192" fill="#E3D8C3" stroke="#8C7D69" stroke-width="2"/>
+ <text x="938" y="1305" font-family="monospace" font-size="10" letter-spacing="1.4" fill="#A0444A">ARCHIVE CLASSIFICATION / ORIGIN</text>
+ <text x="937" y="1342" font-family="Georgia,serif" font-size="22" font-weight="bold" fill="#29383C">THREE DISTINCT ORIGINS</text>
+ <g font-family="Arial" font-size="14" fill="#3B494D">
+  <text x="940" y="1375"><tspan font-weight="bold">RELIC</tspan> — inheritance or object left by a deity</text>
+  <text x="940" y="1405"><tspan font-weight="bold">ANCIENT ARTIFACT</tspan> — golden-age origin</text>
+  <text x="940" y="1435"><tspan font-weight="bold">ARTIFICIAL ARTIFACT</tspan> — made by an Arcanist</text>
+ </g>
+ <use href="#pin" x="1295" y="1286"/>
 </g>
-<!-- loose pinned scraps -->
-<g filter="url(#shadow)" transform="rotate(5 533 846)"><rect x="470" y="807" width="126" height="34" fill="#E9B75E" stroke="#28221D" stroke-width="2"/><text x="533" y="829" text-anchor="middle" font-family="monospace" font-size="10" font-weight="bold" fill="#2B241D">DO NOT ASSUME</text></g>
-<g filter="url(#shadow)" transform="rotate(-4 1080 185)"><rect x="1044" y="160" width="74" height="28" fill="#B33C32" stroke="#28221D" stroke-width="2"/><text x="1081" y="179" text-anchor="middle" font-family="monospace" font-size="9" font-weight="bold" fill="#FFF0DA">EVIDENCE</text></g>
-<!-- string legend -->
-<g><path d="M78 990H1118" stroke="#3B2A20" stroke-width="2"/><circle cx="88" cy="990" r="4" fill="#B52E2B"/><text x="101" y="995" font-family="monospace" font-size="9" fill="#F1DFC4">RED THREADS = DOCUMENTED RELATIONSHIPS / NOT PROOF OF A SINGLE CONSPIRACY</text><text x="1115" y="995" text-anchor="end" font-family="monospace" font-size="9" fill="#F1DFC4">MERZKAVA ARCHIVE // 01</text></g>
-
-<!-- OVERHEAD RED THREADS: fine, taut evidence strings inspired by Reverse: 1999 relation networks -->
-<g fill="none" stroke="#9E2025" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" opacity=".94">
- <!-- Primary links: taut runs between pinned evidence points -->
- <path d="M180 315 L414 315"/>
- <path d="M180 315 L457 500"/>
- <path d="M185 500 L457 500"/>
- <path d="M414 315 L750 315"/>
- <path d="M414 315 L760 510"/>
- <path d="M457 500 L760 510"/>
- <path d="M457 500 L748 700"/>
- <path d="M245 710 L505 700"/>
- <path d="M505 700 L748 700"/>
- <path d="M750 315 L1000 315"/>
- <path d="M750 315 L1020 510"/>
- <path d="M760 510 L1020 510"/>
- <path d="M760 510 L1025 710"/>
- <path d="M748 700 L1025 710"/>
- <!-- Secondary cross-links: slightly angled, tightly drawn and intentionally overlapping -->
- <path d="M180 315 L760 510"/>
- <path d="M185 500 L750 315"/>
- <path d="M245 710 L457 500"/>
- <path d="M414 315 L505 700"/>
- <path d="M457 500 L1000 315"/>
- <path d="M505 700 L760 510"/>
- <path d="M750 315 L748 700"/>
- <path d="M760 510 L1000 315"/>
- <path d="M1000 315 L1025 710"/>
- <path d="M1020 510 L748 700"/>
- <!-- Short slack segments near knots, not broad decorative loops -->
- <path d="M180 315 Q166 308 158 298"/>
- <path d="M414 315 Q425 307 435 298"/>
- <path d="M457 500 Q469 493 479 483"/>
- <path d="M760 510 Q772 502 783 492"/>
- <path d="M1020 510 Q1032 502 1042 492"/>
- <path d="M245 710 Q233 719 223 729"/>
- <path d="M1025 710 Q1038 719 1049 729"/>
+<!-- loose marginal notes and tape -->
+<g filter="url(#lift)" transform="rotate(7 785 302)"><rect x="734" y="244" width="115" height="49" fill="#D7C9AF" stroke="#8C806E" stroke-width="1.5"/><text x="791" y="264" text-anchor="middle" font-family="monospace" font-size="9" fill="#A0444A">FIELD NOTE</text><text x="791" y="280" text-anchor="middle" font-family="Georgia,serif" font-size="12" font-style="italic" fill="#36464B">follow the method</text><use href="#pin" x="744" y="251"/></g>
+<g transform="rotate(-6 621 592)"><use href="#tape" x="575" y="581"/></g>
+<g filter="url(#lift)" transform="rotate(5 413 895)"><path d="M365 864L477 869L472 930L360 924Z" fill="#D8C7A8" stroke="#94836C"/><text x="418" y="891" text-anchor="middle" font-family="monospace" font-size="10" fill="#9D4449">CHECK THE</text><text x="418" y="908" text-anchor="middle" font-family="monospace" font-size="10" fill="#9D4449">PROVENANCE</text></g>
+<!-- fine visible pinheads where thread meets evidence -->
+<g fill="#C9DCE0" stroke="#34454B" stroke-width="1">
+ <circle cx="184" cy="355" r="3.2"/><circle cx="426" cy="292" r="3.2"/><circle cx="674" cy="385" r="3.2"/><circle cx="928" cy="278" r="3.2"/><circle cx="1244" cy="376" r="3.2"/>
+ <circle cx="300" cy="612" r="3.2"/><circle cx="570" cy="720" r="3.2"/><circle cx="790" cy="553" r="3.2"/><circle cx="1085" cy="672" r="3.2"/>
+ <circle cx="462" cy="880" r="3.2"/><circle cx="954" cy="1045" r="3.2"/><circle cx="1240" cy="1192" r="3.2"/><circle cx="360" cy="1320" r="3.2"/><circle cx="1100" cy="1360" r="3.2"/>
 </g>
-<!-- Small pinheads and restrained wraps; strings remain visibly thinner than card borders -->
-<g fill="#CBB48F" stroke="#761C20" stroke-width="1.5">
- <circle cx="180" cy="315" r="4.2"/><circle cx="414" cy="315" r="4.2"/>
- <circle cx="185" cy="500" r="4.2"/><circle cx="457" cy="500" r="4.2"/>
- <circle cx="245" cy="710" r="4.2"/><circle cx="505" cy="700" r="4.2"/>
- <circle cx="750" cy="315" r="4.2"/><circle cx="1000" cy="315" r="4.2"/>
- <circle cx="760" cy="510" r="4.2"/><circle cx="1020" cy="510" r="4.2"/>
- <circle cx="748" cy="700" r="4.2"/><circle cx="1025" cy="710" r="4.2"/>
-</g>
-<!-- Frayed ends: only a few short tails to suggest hurried re-pinning -->
-<g fill="none" stroke="#A3262A" stroke-width="1.35" stroke-linecap="round" opacity=".9">
- <path d="M180 315 L151 293 L142 278"/>
- <path d="M414 315 L439 292 L451 278"/>
- <path d="M457 500 L482 478 L493 464"/>
- <path d="M760 510 L784 488 L796 474"/>
- <path d="M245 710 L218 731 L205 747"/>
- <path d="M1025 710 L1052 730 L1065 747"/>
-</g>
-
+<!-- footer engraved into frame -->
+<path d="M93 1480H1348" stroke="#A78D6A" stroke-width="1" opacity=".8"/>
+<text x="105" y="1502" font-family="monospace" font-size="10" letter-spacing="1.5" fill="#D6C6AA">MERZKAVA UNIVERSE / THE ARCHIVE IS NOT THE WHOLE WORLD</text>
+<text x="1340" y="1502" text-anchor="end" font-family="monospace" font-size="10" letter-spacing="1.2" fill="#A8D9E6">THREADS MARK LINKS · NOT AUTOMATIC PROOF</text>
 </svg>

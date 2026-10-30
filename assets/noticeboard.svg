@@ -26,7 +26,7 @@
 <!-- header strip, deliberately crooked -->
 <g transform="rotate(-.8 1280 125)"><path d="M85 62L2490 76L2480 207L74 192Z" fill="url(#aged)" stroke="#8E7C63" stroke-width="3"/>
 <path d="M103 79L2460 93" stroke="#B7A58A" stroke-width="2"/><text x="125" y="111" font-family="serif" font-size="17" letter-spacing="4" fill="#9D3F43">MERZKAVA · EASTERN FIELD ARCHIVE</text>
-<text x="120" y="148" font-family="Georgia,serif" font-size="34" font-weight="bold" letter-spacing="1.4" fill="#28363B">THE INVESTIGATION BOARD</text>
+<text x="120" y="148" font-family="Georgia,serif" font-size="31" font-weight="bold" letter-spacing="1.1" fill="#28363B">THE INVESTIGATION BOARD</text>
 <text x="126" y="177" font-family="serif" font-size="12" font-style="italic" fill="#59666A">Land · Sea · Spirit · Memory</text>
 <g transform="rotate(8 2350 135)"><rect x="2255" y="90" width="185" height="75" fill="#A9474D" stroke="#6F3439" stroke-width="3"/><text x="2348" y="120" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="2" fill="#FFF0DA">CASE FILE</text><text x="2348" y="148" text-anchor="middle" font-family="Georgia,serif" font-size="24" font-weight="bold" fill="#FFF0DA">NO. 07</text></g></g>
 <!-- MAIN LAND/SEA CHART: torn folded cartographic sheet -->
@@ -187,9 +187,10 @@
 <g fill="#D6E9E8" stroke="#263C43" stroke-width="1.5"><circle cx="180" cy="310" r="5"/><circle cx="510" cy="250" r="5"/><circle cx="830" cy="380" r="5"/><circle cx="1190" cy="265" r="5"/><circle cx="1510" cy="365" r="5"/><circle cx="1870" cy="260" r="5"/><circle cx="2310" cy="370" r="5"/><circle cx="370" cy="690" r="5"/><circle cx="735" cy="575" r="5"/><circle cx="1030" cy="780" r="5"/><circle cx="1390" cy="575" r="5"/><circle cx="1720" cy="745" r="5"/><circle cx="2110" cy="620" r="5"/><circle cx="230" cy="1160" r="5"/><circle cx="640" cy="1330" r="5"/><circle cx="1170" cy="1180" r="5"/><circle cx="1510" cy="960" r="5"/><circle cx="1870" cy="1120" r="5"/><circle cx="2290" cy="1330" r="5"/><circle cx="900" cy="1570" r="5"/><circle cx="1510" cy="1410" r="5"/><circle cx="1990" cy="1560" r="5"/></g>
 <path d="M90 1695L2505 1695" stroke="#A58D6D" stroke-width="2"/><text x="105" y="1730" font-family="monospace" font-size="13" letter-spacing="2" fill="#D7C7A9">MERZKAVA UNIVERSE / EASTERN FIELD ARCHIVE / LAND, SEA, SPIRIT &amp; MEMORY</text><text x="2490" y="1730" text-anchor="end" font-family="monospace" font-size="12" fill="#9EDCF1">PULLED THREADS / MULTIPLE LEADS / VERIFY THE CANON</text>
 
-<!-- FINAL TOPMOST THREAD LAYER: taut red and blue cords cross every evidence surface -->
+<!-- FINAL TOPMOST THREAD LAYER: fine, varied taut evidence threads -->
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
- <g stroke="#17272D" stroke-width="10" opacity=".88">
+ <!-- faint contact shadow keeps the hair-thin cords legible without looking like cables -->
+ <g stroke="#10191D" stroke-width="1.9" opacity=".24">
   <path d="M180 310L510 250L735 575L900 1320L1170 1180L1510 960L1870 1120L2290 1330"/>
   <path d="M260 530L370 690L735 575L1030 780L1390 575L1720 745L1990 1320L2290 1330"/>
   <path d="M510 250L610 1030L735 1310L900 1370L1090 1290L1510 1410L1990 1560"/>
@@ -199,17 +200,38 @@
   <path d="M370 690L230 1160L640 1330L900 1570"/>
   <path d="M890 300L1030 780L1320 1030L1510 1410L1990 1560"/>
  </g>
- <g stroke="#168FC2" stroke-width="5.5">
-  <path d="M180 310L510 250L735 575L900 1320L1170 1180L1510 960L1870 1120L2290 1330"/>
-  <path d="M260 530L370 690L735 575L1030 780L1390 575L1720 745L1990 1320L2290 1330"/>
-  <path d="M510 250L610 1030L735 1310L900 1370L1090 1290L1510 1410L1990 1560"/>
-  <path d="M830 380L1030 780L1170 1180L1510 960L1870 1120L2110 620"/>
+ <!-- blue silk: mostly fine, with a few slightly stronger anchor runs -->
+ <g stroke="#168FC2">
+  <path d="M180 310L510 250L735 575L900 1320L1170 1180L1510 960L1870 1120L2290 1330" stroke-width="1.05" opacity=".94"/>
+  <path d="M260 530L370 690L735 575L1030 780L1390 575L1720 745L1990 1320L2290 1330" stroke-width=".72" opacity=".9"/>
+  <path d="M510 250L610 1030L735 1310L900 1370L1090 1290L1510 1410L1990 1560" stroke-width="1.3" opacity=".96"/>
+  <path d="M830 380L1030 780L1170 1180L1510 960L1870 1120L2110 620" stroke-width=".82" opacity=".88"/>
+  <path d="M1510 365L1720 745L1990 1320L2290 1330" stroke-width=".62" opacity=".82"/>
  </g>
- <g stroke="#C93648" stroke-width="5.5">
-  <path d="M510 250L1030 780L1390 575L1870 260L2110 620L2290 1330"/>
-  <path d="M180 310L735 575L610 1030L230 1160L640 1330L1170 1180L1870 1120"/>
-  <path d="M830 380L1190 265L1510 365L1720 745L1510 960L1990 1560"/>
-  <path d="M370 690L735 1310L900 1370L1090 1290L1510 1410L2290 1330"/>
+ <!-- vermilion silk: offset crossings create a hand-built investigation web -->
+ <g stroke="#C93648">
+  <path d="M510 250L1030 780L1390 575L1870 260L2110 620L2290 1330" stroke-width=".9" opacity=".95"/>
+  <path d="M180 310L735 575L610 1030L230 1160L640 1330L1170 1180L1870 1120" stroke-width="1.25" opacity=".94"/>
+  <path d="M830 380L1190 265L1510 365L1720 745L1510 960L1990 1560" stroke-width=".68" opacity=".9"/>
+  <path d="M370 690L735 1310L900 1370L1090 1290L1510 1410L2290 1330" stroke-width="1.05" opacity=".92"/>
+  <path d="M1030 780L1320 1030L1510 1410" stroke-width=".58" opacity=".85"/>
  </g>
+ <!-- a few finer cross-links, like deliberately tied leads -->
+ <g stroke-width=".62" opacity=".88">
+  <path d="M370 690L890 300L1190 265L1510 365" stroke="#168FC2"/>
+  <path d="M610 1030L990 1510L1170 1180L1390 575" stroke="#C93648"/>
+  <path d="M1390 575L1720 745L2020 980L2320 930" stroke="#168FC2"/>
+  <path d="M570 890L1030 780L1510 960L2020 1450" stroke="#C93648"/>
+ </g>
+</g>
+<!-- tiny lacquered pin tips sit above the threads -->
+<g fill="#D6E9E8" stroke="#263C43" stroke-width=".8">
+ <circle cx="180" cy="310" r="2.7"/><circle cx="510" cy="250" r="2.7"/><circle cx="830" cy="380" r="2.7"/>
+ <circle cx="1190" cy="265" r="2.7"/><circle cx="1510" cy="365" r="2.7"/><circle cx="1870" cy="260" r="2.7"/>
+ <circle cx="370" cy="690" r="2.7"/><circle cx="735" cy="575" r="2.7"/><circle cx="1030" cy="780" r="2.7"/>
+ <circle cx="1390" cy="575" r="2.7"/><circle cx="1720" cy="745" r="2.7"/><circle cx="2110" cy="620" r="2.7"/>
+ <circle cx="230" cy="1160" r="2.7"/><circle cx="640" cy="1330" r="2.7"/><circle cx="1170" cy="1180" r="2.7"/>
+ <circle cx="1510" cy="960" r="2.7"/><circle cx="1870" cy="1120" r="2.7"/><circle cx="2290" cy="1330" r="2.7"/>
+ <circle cx="900" cy="1570" r="2.7"/><circle cx="1510" cy="1410" r="2.7"/><circle cx="1990" cy="1560" r="2.7"/>
 </g>
 </svg>

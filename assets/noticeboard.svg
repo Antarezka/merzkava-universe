@@ -178,38 +178,60 @@
 <!-- string legend -->
 <g><path d="M78 990H1118" stroke="#3B2A20" stroke-width="2"/><circle cx="88" cy="990" r="4" fill="#B52E2B"/><text x="101" y="995" font-family="monospace" font-size="9" fill="#F1DFC4">RED THREADS = DOCUMENTED RELATIONSHIPS / NOT PROOF OF A SINGLE CONSPIRACY</text><text x="1115" y="995" text-anchor="end" font-family="monospace" font-size="9" fill="#F1DFC4">MERZKAVA ARCHIVE // 01</text></g>
 
-<!-- OVERHEAD RED THREADS: tangled, visible connections between established evidence nodes -->
-<g fill="none" stroke="#A91F25" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round" opacity=".96">
- <path d="M180 315 C260 210 330 220 414 315 S540 405 457 500 S300 585 245 710"/>
- <path d="M180 315 C300 370 350 430 457 500 C560 555 640 605 748 700"/>
- <path d="M414 315 C470 250 600 225 750 315 S910 385 1020 510"/>
- <path d="M414 315 C520 370 600 420 760 510 C850 555 930 625 1025 710"/>
- <path d="M185 500 C280 445 370 430 457 500 C570 575 620 650 505 700"/>
- <path d="M245 710 C340 650 390 640 505 700 C590 750 660 740 748 700"/>
- <path d="M750 315 C700 400 700 450 760 510 C800 590 790 650 748 700"/>
- <path d="M1000 315 C920 400 850 440 760 510 C850 620 930 660 1025 710"/>
- <path d="M1020 510 C930 475 850 465 760 510 C650 540 560 540 457 500"/>
- <path d="M505 700 C590 625 650 590 760 510 C850 430 930 390 1000 315"/>
- <path d="M414 315 C570 260 690 265 750 315 C850 245 930 235 1000 315"/>
+<!-- OVERHEAD RED THREADS: fine, taut evidence strings inspired by Reverse: 1999 relation networks -->
+<g fill="none" stroke="#9E2025" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" opacity=".94">
+ <!-- Primary links: taut runs between pinned evidence points -->
+ <path d="M180 315 L414 315"/>
+ <path d="M180 315 L457 500"/>
+ <path d="M185 500 L457 500"/>
+ <path d="M414 315 L750 315"/>
+ <path d="M414 315 L760 510"/>
+ <path d="M457 500 L760 510"/>
+ <path d="M457 500 L748 700"/>
+ <path d="M245 710 L505 700"/>
+ <path d="M505 700 L748 700"/>
+ <path d="M750 315 L1000 315"/>
+ <path d="M750 315 L1020 510"/>
+ <path d="M760 510 L1020 510"/>
+ <path d="M760 510 L1025 710"/>
+ <path d="M748 700 L1025 710"/>
+ <!-- Secondary cross-links: slightly angled, tightly drawn and intentionally overlapping -->
+ <path d="M180 315 L760 510"/>
+ <path d="M185 500 L750 315"/>
+ <path d="M245 710 L457 500"/>
+ <path d="M414 315 L505 700"/>
+ <path d="M457 500 L1000 315"/>
+ <path d="M505 700 L760 510"/>
+ <path d="M750 315 L748 700"/>
+ <path d="M760 510 L1000 315"/>
+ <path d="M1000 315 L1025 710"/>
+ <path d="M1020 510 L748 700"/>
+ <!-- Short slack segments near knots, not broad decorative loops -->
+ <path d="M180 315 Q166 308 158 298"/>
+ <path d="M414 315 Q425 307 435 298"/>
+ <path d="M457 500 Q469 493 479 483"/>
+ <path d="M760 510 Q772 502 783 492"/>
+ <path d="M1020 510 Q1032 502 1042 492"/>
+ <path d="M245 710 Q233 719 223 729"/>
+ <path d="M1025 710 Q1038 719 1049 729"/>
 </g>
-<!-- Exposed knots and pin heads sit on top of both cards and cords -->
-<g fill="#D9C6A4" stroke="#761C20" stroke-width="2.5">
- <circle cx="180" cy="315" r="7"/><circle cx="414" cy="315" r="7"/>
- <circle cx="185" cy="500" r="7"/><circle cx="457" cy="500" r="7"/>
- <circle cx="245" cy="710" r="7"/><circle cx="505" cy="700" r="7"/>
- <circle cx="750" cy="315" r="7"/><circle cx="1000" cy="315" r="7"/>
- <circle cx="760" cy="510" r="7"/><circle cx="1020" cy="510" r="7"/>
- <circle cx="748" cy="700" r="7"/><circle cx="1025" cy="710" r="7"/>
- 
+<!-- Small pinheads and restrained wraps; strings remain visibly thinner than card borders -->
+<g fill="#CBB48F" stroke="#761C20" stroke-width="1.5">
+ <circle cx="180" cy="315" r="4.2"/><circle cx="414" cy="315" r="4.2"/>
+ <circle cx="185" cy="500" r="4.2"/><circle cx="457" cy="500" r="4.2"/>
+ <circle cx="245" cy="710" r="4.2"/><circle cx="505" cy="700" r="4.2"/>
+ <circle cx="750" cy="315" r="4.2"/><circle cx="1000" cy="315" r="4.2"/>
+ <circle cx="760" cy="510" r="4.2"/><circle cx="1020" cy="510" r="4.2"/>
+ <circle cx="748" cy="700" r="4.2"/><circle cx="1025" cy="710" r="4.2"/>
 </g>
-<!-- Loose thread tails and crossed knots for a lived-in investigation wall -->
-<g fill="none" stroke="#B52A2B" stroke-width="3" stroke-linecap="round" opacity=".9">
- <path d="M180 315 Q125 280 145 240 T205 205"/>
- <path d="M414 315 Q455 270 430 235 T470 205"/>
- <path d="M760 510 Q705 475 720 445 T690 415"/>
- <path d="M1020 510 Q1080 475 1065 440 T1100 410"/>
- <path d="M245 710 Q185 755 205 795 T170 825"/>
- <path d="M1025 710 Q1090 735 1075 780 T1110 810"/>
+<!-- Frayed ends: only a few short tails to suggest hurried re-pinning -->
+<g fill="none" stroke="#A3262A" stroke-width="1.35" stroke-linecap="round" opacity=".9">
+ <path d="M180 315 L151 293 L142 278"/>
+ <path d="M414 315 L439 292 L451 278"/>
+ <path d="M457 500 L482 478 L493 464"/>
+ <path d="M760 510 L784 488 L796 474"/>
+ <path d="M245 710 L218 731 L205 747"/>
+ <path d="M1025 710 L1052 730 L1065 747"/>
 </g>
 
 </svg>

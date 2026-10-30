@@ -259,9 +259,6 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
   Hash: ``d2092ef`` | Ver: ``Nightly-v4.0.14`` · ``Stable-v4.0.1``
   Defines soul processing through Spirit Ring formation/absorption, natural versus aberrant Spirit Ability expression, Qi-efficiency trade-offs, institutional curricula and local perspectives, and the historical Nyuma-only 100% Sync-cap achievement. Existing mechanics remain unchanged.
 
-- ✦ **Soul-Nyuma & Soul-Zoun — Three-Discipline Canon Established**
-  Hash: ``a4b16fd`` | Ver: ``Nightly-v4.0.13`` · ``Stable-v4.0.1``
-  Establishes Arcanistry as independent, defines Soul-Nyuma and Soul-Zoun across the shared Spirit Realm domain, retires the former global four-label taxonomy, and separates Aberration from morality and the ancient apocalypse.
 
 
 </div>

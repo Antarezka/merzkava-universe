@@ -1,4 +1,5 @@
 # Merzkava Universe — Factions and Organizations
+
 **Spirit Realm doctrine classification:** Faction descriptions, regional reputations, and terms such as orthodox, heterodox, forbidden, demonic, or unconventional do not by themselves classify a group as Soul-Nyuma or Soul-Zoun. Apply the evidence-based criteria in `core/SPIRIT_REALM_TRADITIONS.md`; do not infer a tradition from a faction's name, region, legality, or reputation.
 
 

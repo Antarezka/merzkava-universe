@@ -33,7 +33,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ![THE NOTICEBOARD](https://img.shields.io/badge/THE_NOTICEBOARD-FFFFFF?style=for-the-badge&labelColor=151515)
 
-![Merzkava Universe noticeboard introducing its three powers, hidden territories, consequential choices, Arcanists and Artificial Artifacts, a living world, and rumors versus facts](assets/noticeboard.svg?v=9)
+![Merzkava Universe antique Arcanistry investigation wall with four Tianhai academies, the exclusive Tianhai Arcanist Institute, Grade progression, research fields, artifact engraving, and historical evidence](assets/noticeboard.svg?v=10)
 
 ---
 
@@ -220,9 +220,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" alt="GitHub" />
 
-![NIGHTLY](assets/nightly-version.svg?v=16)
+![NIGHTLY](assets/nightly-version.svg?v=17)
 
-<sub><span style="color:#D4AF37"><strong>v4.0.17</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v4.0.18</strong></span></sub>
 
 </td>
 </tr>
@@ -235,6 +235,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 *Recent world and system updates*
 
 ---
+- ✦ **Arcanistry Investigation Wall Expanded**
+  Hash: ``192de0e`` | Ver: ``Nightly-v4.0.18`` · ``Stable-v4.0.1``
+  Rebuilds the noticeboard as a layered Reverse: 1999-inspired archival wall; expands the four academies, Tianhai Arcanist Institute, focus stages, Grade progression, advanced credential gates, research remit, Formation Engraver, and artifact history. Adds hairline pale-blue and red evidence threads.
+
 - ✦ **Noticeboard Restored to fac63a8 Design**
   Hash: ``cc57a2a`` | Ver: ``Nightly-v4.0.17`` · ``Stable-v4.0.1``
   Restores the noticeboard SVG from commit `fac63a8`; removes the replacement artwork and refreshes the README image cache reference.
@@ -254,15 +258,6 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **Soul-Nyuma & Soul-Zoun — Three-Discipline Canon Established**
   Hash: ``a4b16fd`` | Ver: ``Nightly-v4.0.13`` · ``Stable-v4.0.1``
   Establishes Arcanistry as independent, defines Soul-Nyuma and Soul-Zoun across the shared Spirit Realm domain, retires the former global four-label taxonomy, and separates Aberration from morality and the ancient apocalypse.
-
-- ✦ **Arcanist, Arcanistry & Arcanism Context Aligned**
-  Hash: ``d952d9a`` | Ver: ``Nightly-v4.0.12`` · ``Stable-v4.0.1``
-  Defines Arcanist as the practitioner, Arcanistry as the complete discipline, and Arcanism as its theoretical principles; corrects contextual wording without changing progression or artifact mechanics.
-
-- ✦ **Arcanistry Terminology Unified**
-  Hash: ``e34188d`` | Ver: ``Nightly-v4.0.11`` · ``Stable-v4.0.1``
-  Replaces previous practitioner terminology with Arcanist and Arcanistry across progression, Focus, Grade, institutional lore, world history, regional records, NPC profiles, templates, and the noticeboard while preserving established mechanics.
-
 
 
 </div>

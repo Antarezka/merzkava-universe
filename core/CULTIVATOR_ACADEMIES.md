@@ -6,7 +6,7 @@
 
 Cultivator Academies provide foundational education for people pursuing cultivation. They teach basic theory, physical preparation, and practical knowledge relevant to Martial Souls, Spirit Rings, combat, the world's history, and the development of Artificial Artifacts.
 
-An academy is a broad educational route; it is not automatically a sect, a dojo, a Arcanist institution, or a guarantee of advancement. Individual institutions may differ in resources, teaching quality, specialization, and access, but specific differences must be established by canon or events.
+An academy is a broad educational route; it is not automatically a sect, a dojo, an Arcanist institution, or a guarantee of advancement. Individual institutions may differ in resources, teaching quality, specialization, and access, but specific differences must be established by canon or events.
 
 ## 2. FOUNDATIONAL SUBJECTS
 
@@ -53,7 +53,7 @@ The exact syllabus, disputed accounts, and the knowledge available to a particul
 - The ways this technology influenced society, knowledge exchange, and warfare.
 - The distinction between learning about Artificial Artifacts and having the specialist knowledge, materials, tools, or Arcanist Grade required to formulate and manufacture them.
 
-Foundational history lessons do not automatically qualify a student as a Arcanist or provide practical formulation skill. Detailed Arcanist and production mechanics are governed by `core/ARCANISTRY_AND_FORMULATION.md`.
+Foundational history lessons do not automatically qualify a student as an Arcanist or provide practical formulation skill. Detailed Arcanist and production mechanics are governed by `core/ARCANISTRY_AND_FORMULATION.md`.
 
 ### 2.7 Other Relevant Knowledge
 Depending on the established curriculum, foundational education may also include geography, Spirit Beast awareness, major factions, travel, and other knowledge relevant to life as a cultivator. Whether a particular academy offers a subject must be established rather than assumed.

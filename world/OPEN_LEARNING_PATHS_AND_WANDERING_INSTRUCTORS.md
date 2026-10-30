@@ -28,7 +28,7 @@ Every listed school or instructor must be classified according to its establishe
 | **Dual-path** | Both categories, taught by separate qualified instructors or by a person whose expertise in each is established. Teaching both does not merge the systems or waive their separate requirements. |
 | **Support / trade** | Relevant practical knowledge—medicine, materials, navigation, appraisal, logistics, survival, or research—that can support either path but does not itself count as Spirit Realm or Arcanist progression. |
 
-A school can host guest teachers from another category without changing its primary identity. A combat dojo is not automatically a Arcanist school; a workshop is not automatically qualified to teach Spirit Realm progression; a religious house is not automatically a cultivation academy. Classify only what the canon and teacher's evidence support.
+A school can host guest teachers from another category without changing its primary identity. A combat dojo is not automatically an Arcanist school; a workshop is not automatically qualified to teach Spirit Realm progression; a religious house is not automatically a cultivation academy. Classify only what the canon and teacher's evidence support.
 
 ## 3. Existing Institutions: Assign Material by Established Fit
 
@@ -84,7 +84,7 @@ The imperial institutions above are not automatically open to every applicant. A
 | Deepwater Dojo | **Spirit Realm** | Durability and techniques adapted to aquatic conditions. |
 | Haiyue Merchants' Association | Support | Commerce, commodity-quality disputes, and bulk-order coordination. |
 | Cangqiong Shipowners and Freight Union | Support | Freight, cargo-handling, and shipping-risk knowledge. |
-| Linggong Artisans' Trade Association | Support; possible **Arcanist** workshops led by qualified practitioners | Craft procurement and repair coordination; association membership alone does not grant engraving competence or a Arcanist Grade. |
+| Linggong Artisans' Trade Association | Support; possible **Arcanist** workshops led by qualified practitioners | Craft procurement and repair coordination; association membership alone does not grant engraving competence or an Arcanist Grade. |
 | Misty Shoals Fishers and Pilots Association | Support | Fishing-market knowledge, pilot availability, and local-weather observation. |
 
 Tianhai's historical and institutional advantage in Arcanist research does **not** make it the only place where Arcanists may exist or learn. It is the established high-level center, not a global monopoly on all Arcanistry knowledge.

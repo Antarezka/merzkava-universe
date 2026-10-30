@@ -8,7 +8,7 @@
 
 ## 1. Canon rules for the roster
 
-- **Arcanist requirement:** Every newly named recurring or major officeholder in this roster is already a Arcanist. The default band is **Arcanist Grade 3–7**. Arcanist Grades 8–10 exist only among a very small elite.
+- **Arcanist requirement:** Every newly named recurring or major officeholder in this roster is already an Arcanist. The default band is **Arcanist Grade 3–7**. Arcanist Grades 8–10 exist only among a very small elite.
 - **Separate progression:** Arcanist Grade and Spirit Realm are independent. Neither determines the other, and neither guarantees victory or success at artifact production.
 - **Spirit Realm benchmark:** Use the same practical band as the Golden Dragon Empire's named civil administration: ordinary administrators and officeholders generally Spirit Realm 3–6. Senior military, security, and high-risk command roles may reach Spirit Realm 7. Spirit Realm 8–9 is not assigned to ordinary officeholders; the Maharaja's established Spirit Realm 9 remains an exceptional ruler-level case.
 - **Stages:** Every named character's Stage is included where assigned. The listed realm is the character's current established capability, not an automatic promotion from office.

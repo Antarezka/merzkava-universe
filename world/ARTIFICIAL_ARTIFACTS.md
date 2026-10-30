@@ -5,7 +5,7 @@
 
 ## 1. Definition
 
-An Artificial Artifact is manufactured by a Arcanist using suitable materials, patterns, and formulations. Artificial Artifacts are distinct from Relics and Ancient Artifacts, which are categorized by their origins.
+An Artificial Artifact is manufactured by an Arcanist using suitable materials, patterns, and formulations. Artificial Artifacts are distinct from Relics and Ancient Artifacts, which are categorized by their origins.
 
 An artifact's tier is not a Spirit Realm or Spirit Ring tier. A high tier does not automatically mean an artifact is universally useful in combat; the documented function, conditions, limitations, ownership, and actual availability determine its use. If an artifact's tier is missing or disputed, use `core/TIER_ASSESSMENT_AND_APPRAISAL.md`: MAA's completed ruling is authoritative for the examined item when canon was uncertain; any GM estimate remains labeled provisional until then.
 
@@ -54,7 +54,7 @@ Only the support function and Tier 9 classification are established. Do not assu
 - **Historical context:** Deployed during the ancient world-calamity incursion when Demonic Beasts of tiers 7–9 descended across the world.
 - **Documented function:** Once activated, it conceals a vast area and disguises the life within it, reducing the chance that invading Demonic Beasts will identify and target that area. It did not guarantee protection, and many areas remained exposed to attacks.
 - **Activation and lifespan:** One use only. The artifact destroys itself after activation and cannot be reused; this defect is part of its historical design.
-- **Design origin:** The design framework originated with Bai Xuanyin, the late wife of Maharaja Ji Haoyuan and a Arcanist Grade 10. A different Arcanist Grade 10 in Tianhai Yunzhou copied that framework imperfectly. The mass-produced artifacts were several tiers lower in quality than a perfect reproduction of Bai Xuanyin's framework would have been. No perfect reproduction was achieved.
+- **Design origin:** The design framework originated with Bai Xuanyin, the late wife of Maharaja Ji Haoyuan and an Arcanist Grade 10. A different Arcanist Grade 10 in Tianhai Yunzhou copied that framework imperfectly. The mass-produced artifacts were several tiers lower in quality than a perfect reproduction of Bai Xuanyin's framework would have been. No perfect reproduction was achieved.
 - **Deployment:** The devices were produced at scale. Arcanists from across the world, including most of Tianhai Yunzhou's Arcanists, traveled to many regions to activate them. Their effort saved many populated areas, but not every area was protected from the rampage of Tier 8–9 Demonic Beasts.
 - **Historical legacy:** The artifact and its deployment are taught in academies as part of the world-calamity history, with Bai Xuanyin remembered as one of the great heroes who died during the catastrophe.
 - **Unknown details:** Original framework's tier, the identity of the Tianhai Arcanist Grade 10 who copied it, the number of artifacts made and activated, the exact radius and duration, materials, activation method, and complete technical formulation remain unspecified.

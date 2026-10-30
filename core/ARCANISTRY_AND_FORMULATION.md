@@ -1,6 +1,6 @@
 # MERZKAVA UNIVERSE — ARCANISTRY & FORMULATION SYSTEM
 
-**Terminology:** Arcanistry is the complete field of study and practice, covering foundational theory, research, teaching, formulation, engineering, and application. Arcanism refers specifically to the theoretical principles within Arcanistry. An Arcanist is a practitioner. Arcanist Grade and Arcanist Focus are the official progression measures. These terms do not create or alter any tradition classification.
+**Terminology:** Arcanistry is the complete field of study and practice, covering foundational theory, research, teaching, formulation, engineering, and application. An Arcanist is a practitioner. Arcanist Grade and Arcanist Focus are the official progression measures. These terms do not create or alter any tradition classification.
 
 **Status:** Mandatory Arcanist progression and certification protocol integrated. Artificial Artifact condition scoring is formally defined in §14. Production success chance remains separate from the quality score; random-resolution procedure, situational success modifiers, numerical training costs, and other unresolved production parameters remain undefined until formally approved.
 

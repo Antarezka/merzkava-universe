@@ -15,7 +15,7 @@
 - Recurring visits / travel pattern: No recurring trips or cover locations are established. As a member of the ruling family, she generally remains at her established residence once canonically located; do not assume she is currently at Yunxiao Terrace.
 
 ## 2. Public Profile
-Ji Zhaoning is the elder twin daughter of Maharaja Ji Haoyuan and the late Bai Xuanyin. She has extraordinary intelligence. She has not undergone Martial Soul Awakening because she has been busy developing her Arcanist Grade and abilities as a Arcanist.
+Ji Zhaoning is the elder twin daughter of Maharaja Ji Haoyuan and the late Bai Xuanyin. She has extraordinary intelligence. She has not undergone Martial Soul Awakening because she has been busy developing her Arcanist Grade and abilities as an Arcanist.
 
 ## 3. Capabilities
 - Spirit Realm: None established; she has not undergone awakening.
@@ -28,7 +28,7 @@ Ji Zhaoning is the elder twin daughter of Maharaja Ji Haoyuan and the late Bai X
 ## 4. Motivations and Agency
 - Current priority: Arcanist development.
 - Specific project, grade target, long-term goal, fears, and personal boundaries: Not established.
-- Do not assume she neglects every other responsibility or assign her a Arcanist Grade without confirmation.
+- Do not assume she neglects every other responsibility or assign her an Arcanist Grade without confirmation.
 
 ## 5. Knowledge Boundaries
 Her specific knowledge, mistaken beliefs, and secrets are not established. Her knowledge depends on her own studies and information received.

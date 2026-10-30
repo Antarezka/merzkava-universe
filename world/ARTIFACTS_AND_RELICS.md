@@ -16,7 +16,7 @@ An Ancient Artifact originated during the golden age of civilization. Its creato
 An object found in a ruin is not automatically an Ancient Artifact. Provenance requires supporting evidence.
 
 ### 1.3 Artificial Artifact
-An Artificial Artifact is manufactured by a Arcanist using materials, patterns, and formulations. Its production system and success-chance matrix are defined in `core/ARCANISTRY_AND_FORMULATION.md`.
+An Artificial Artifact is manufactured by an Arcanist using materials, patterns, and formulations. Its production system and success-chance matrix are defined in `core/ARCANISTRY_AND_FORMULATION.md`.
 
 These categories are distinguished by origin, not merely appearance or strength. A Relic is not automatically an Ancient Artifact or an Artificial Artifact.
 

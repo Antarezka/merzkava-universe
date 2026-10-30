@@ -24,7 +24,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ### ✦ READY-TO-COPY ROLEPLAY HASH ✦
 
-**Latest pinned source:** `b934bd6`
+**Latest pinned source:** `0305060`
 
 </div>
 <!-- RP_SOURCE_END -->
@@ -33,7 +33,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ![THE NOTICEBOARD](https://img.shields.io/badge/THE_NOTICEBOARD-FFFFFF?style=for-the-badge&labelColor=151515)
 
-![Merzkava Universe antique Arcanistry investigation wall with four Tianhai academies, the exclusive Tianhai Arcanist Institute, Grade progression, research fields, artifact engraving, and historical evidence](assets/noticeboard.svg?v=11)
+![Merzkava Universe antique Arcanistry investigation wall with four Tianhai academies, the exclusive Tianhai Arcanist Institute, Grade progression, research fields, artifact engraving, and historical evidence](assets/noticeboard.svg?v=12)
 
 ---
 
@@ -199,7 +199,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 [Rollback instructions](SAFE_VERSION.md)
 
-<sub><span style="color:#D4AF37"><strong>v4.0.10</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v4.0.20</strong></span></sub>
 
 </td>
 </tr>
@@ -220,7 +220,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" alt="GitHub" />
 
-![NIGHTLY](assets/nightly-version.svg?v=18)
+![NIGHTLY](assets/nightly-version.svg?v=19)
 
 <sub><span style="color:#D4AF37"><strong>v4.0.19</strong></span></sub>
 
@@ -235,10 +235,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 *Recent world and system updates*
 
 ---
-- ✦ **Noticeboard SVG XML Rendering Fixed**
-  Hash: ``20367a3`` | Ver: ``Nightly-v4.0.19`` · ``Stable-v4.0.1``
-  Escapes all seven unencoded ampersands in SVG text, fixing invalid XML that caused GitHub to display a broken/fragmented image. Refreshes the pinned source and image cache.
-
+- ✦ **Noticeboard SVG Compatibility Rebuilt**
+  Hash: ``0305060`` | Ver: ``Nightly-v4.0.20`` · ``Stable-v4.0.1``
+  Removes SVG filters and reusable symbol references that may be stripped by GitHub's renderer; keeps the full layered board using basic SVG shapes and paths. Refreshes the image cache and pinned source.
 - ✦ **Arcanistry Investigation Wall Expanded**
   Hash: ``192de0e`` | Ver: ``Nightly-v4.0.18`` · ``Stable-v4.0.1``
   Rebuilds the noticeboard as a layered Reverse: 1999-inspired archival wall; expands the four academies, Tianhai Arcanist Institute, focus stages, Grade progression, advanced credential gates, research remit, Formation Engraver, and artifact history. Adds hairline pale-blue and red evidence threads.

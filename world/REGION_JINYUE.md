@@ -83,7 +83,7 @@ Only 2 villages are part of the Golden Dragon Empire's official thirteen-village
 - Risiko: bijih ilegal, sertifikat palsu, muatan dicuri, runtuhnya terowongan, kecelakaan disembunyikan.
 
 
-## 6. Cultivation, Martial Souls, Spirit Beasts, and Thinkers
+## 6. Cultivation, Martial Souls, Spirit Beasts, and Arcanists
 
 - Lokasi eksplorasi: lorong tambang disegel setelah retakan, jembatan gantung tua, stasiun timbang terbengkalai, dan jalur karavan yang ditinggalkan setelah longsor.
 - Gas tambang, batu rapuh, debu, dan runtuhan adalah bahaya; barang temuan harus diperiksa, bukan dianggap hadiah.
@@ -140,7 +140,7 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPC
 - [ ] Add local authority and factions
 - [ ] Add NPC profiles and links
 - [ ] Add daily life, economy, and resources
-- [ ] Add local cultivation / Spirit Beast / Thinker details
+- [ ] Add local cultivation / Spirit Beast / Arcanist details
 - [ ] Reconcile confirmed additions with `world/MAP_AND_REGIONS.md`, `world/WORLD.md`, and `INDEX.md`
 
 

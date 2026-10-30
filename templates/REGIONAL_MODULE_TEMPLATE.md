@@ -38,10 +38,10 @@
 - Markets and services:
 - Economic details still unconfirmed:
 
-## 6. Martial Soul, Cultivation, and Thinker Context
+## 6. Martial Soul, Cultivation, and Arcanist Context
 - Local cultivation traditions:
 - Academies / dojos / training:
-- Thinker knowledge and workshops:
+- Arcanistry knowledge and workshops:
 - Spirit Beast habitats:
 - Local limitations or notable conditions:
 - Details still unconfirmed:
@@ -87,7 +87,7 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPC
 
 ## Regional module standard — revised
 
-For new and revised regional content, keep this sequence consistent: identity; geography and boundaries; administrative context; settlements and local daily life; economy/resources and dependencies; cultivation, Spirit Beasts, and Thinkers; factions and authorities; regional NPC registry; conflicts/events; route network and GM guidance. Existing detailed canon may stay in place if moving it risks losing facts, but add cross-references and use the standard sequence for new sections.
+For new and revised regional content, keep this sequence consistent: identity; geography and boundaries; administrative context; settlements and local daily life; economy/resources and dependencies; cultivation, Spirit Beasts, and Arcanists; factions and authorities; regional NPC registry; conflicts/events; route network and GM guidance. Existing detailed canon may stay in place if moving it risks losing facts, but add cross-references and use the standard sequence for new sections.
 
 Settlement records should explain local function, everyday life, resources/skills, needs/imports, actual services and limits, authority, and source. Do not invent precise population counts or assume every village has a market, school, healer, or advanced workshop.
 

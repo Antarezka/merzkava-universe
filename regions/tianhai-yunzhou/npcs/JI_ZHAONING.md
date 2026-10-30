@@ -15,20 +15,20 @@
 - Recurring visits / travel pattern: No recurring trips or cover locations are established. As a member of the ruling family, she generally remains at her established residence once canonically located; do not assume she is currently at Yunxiao Terrace.
 
 ## 2. Public Profile
-Ji Zhaoning is the elder twin daughter of Maharaja Ji Haoyuan and the late Bai Xuanyin. She has extraordinary intelligence. She has not undergone Martial Soul Awakening because she has been busy developing her Thinker Grade and abilities as a Thinker.
+Ji Zhaoning is the elder twin daughter of Maharaja Ji Haoyuan and the late Bai Xuanyin. She has extraordinary intelligence. She has not undergone Martial Soul Awakening because she has been busy developing her Arcanist Grade and abilities as a Arcanist.
 
 ## 3. Capabilities
 - Spirit Realm: None established; she has not undergone awakening.
 - Martial Soul: Not yet awakened or established.
 - Spirit Rings and techniques: None established.
-- Thinker Grade: ???. Her focus on Thinker development does not itself determine her current grade.
+- Arcanist Grade: ???. Her focus on Arcanist development does not itself determine her current grade.
 - Equipment and limitations beyond her unawakened status: Not established.
-- Mechanics sources: core/THINKER_AND_FORMULATION.md; core/MARTIAL_SOUL_AWAKENING.md; core/CULTIVATION_SYSTEM.md.
+- Mechanics sources: core/ARCANIST_AND_FORMULATION.md; core/MARTIAL_SOUL_AWAKENING.md; core/CULTIVATION_SYSTEM.md.
 
 ## 4. Motivations and Agency
-- Current priority: Thinker development.
+- Current priority: Arcanist development.
 - Specific project, grade target, long-term goal, fears, and personal boundaries: Not established.
-- Do not assume she neglects every other responsibility or assign her a Thinker Grade without confirmation.
+- Do not assume she neglects every other responsibility or assign her a Arcanist Grade without confirmation.
 
 ## 5. Knowledge Boundaries
 Her specific knowledge, mistaken beliefs, and secrets are not established. Her knowledge depends on her own studies and information received.
@@ -44,8 +44,8 @@ Her specific knowledge, mistaken beliefs, and secrets are not established. Her k
 
 ## 7. State and Continuity
 - Current status: Living; unawakened.
-- Current activity: Thinker development; specific work not established.
+- Current activity: Arcanist development; specific work not established.
 - Injuries, possessions, last appearance, and last interaction: Not established.
 
 ## 8. Canon Check
-Approved facts are recorded here and in world/REGION_TIANHAI_YUNZHOU.md. Future Martial Soul, awakening date, Thinker Grade, and project details remain unestablished.
+Approved facts are recorded here and in world/REGION_TIANHAI_YUNZHOU.md. Future Martial Soul, awakening date, Arcanist Grade, and project details remain unestablished.

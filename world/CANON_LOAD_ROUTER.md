@@ -36,8 +36,8 @@ The three major powers are **Golden Dragon Empire, Tianhai Yunzhou, and Beiming 
 ### Tianhai Yunzhou
 - Tianhai Yunzhou — `world/REGION_TIANHAI_YUNZHOU.md`
 - Tianhai Yunzhou Spirit Hunters Guild offices, independent trade associations, and Medicine Hall Society service points — `world/REGION_TIANHAI_YUNZHOU.md` and `world/FACTIONS.md`
-- Four cardinal areas, twelve clan placements, four Cultivator Academies, and the exclusive high-level Thinker Institute — `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md`
-- Tianhai Yunzhou court, civil/military officials, district administrators, clan heads, dojo masters, Thinker institutions — `regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`
+- Four cardinal areas, twelve clan placements, four Cultivator Academies, and the exclusive high-level Arcanist Institute — `world/TIANHAI_ACADEMIES_AND_ARCANIST_INSTITUTE.md`
+- Tianhai Yunzhou court, civil/military officials, district administrators, clan heads, dojo masters, Arcanist institutions — `regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`
 - Maharaja Ji Haoyuan — `regions/tianhai-yunzhou/npcs/JI_HAOYUAN.md`
 - Bai Xuanyin, revered Tianhai Yunzhou heroine — `regions/tianhai-yunzhou/npcs/BAI_XUANYIN.md`
 - Ji Zhaoning, elder twin princess — `regions/tianhai-yunzhou/npcs/JI_ZHAONING.md`
@@ -124,5 +124,5 @@ Canon tetap: **13 desa resmi bernama** dan **21 hamlet/permukiman lokal bernama 
 ## 4. Standar pemeliharaan canon
 
 - NPC utama/berulang memiliki satu profil penuh canonical yang ditautkan registry; periksa roster sebelum membuat pejabat atau anggota faksi. NPC biasa/temporer mengikuti `world/NPC_MANAGEMENT.md`.
-- Data regional baru mengikuti urutan: identitas → geografi → permukiman/kehidupan → ekonomi/sumber daya → kultivasi/Spirit Beast/Thinker → faksi/otoritas → NPC → konflik/event → rute/panduan GM. Referensikan sumber bersama, jangan menduplikasinya.
+- Data regional baru mengikuti urutan: identitas → geografi → permukiman/kehidupan → ekonomi/sumber daya → kultivasi/Spirit Beast/Arcanist → faksi/otoritas → NPC → konflik/event → rute/panduan GM. Referensikan sumber bersama, jangan menduplikasinya.
 - Jangan mengklaim event/proposal telah menjadi canon atau tersimpan tanpa persetujuan dan perubahan repo terverifikasi.

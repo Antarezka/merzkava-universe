@@ -1,8 +1,8 @@
 # Tianhai Yunzhou — Four Academies and the Arcanist Institute
 
-**Status:** Canon established from the owner's regional direction. Arcanist progression and production mechanics are centrally governed by `core/THINKER_AND_FORMULATION.md`.
+**Status:** Canon established from the owner's regional direction. Arcanist progression and production mechanics are centrally governed by `core/ARCANIST_AND_FORMULATION.md`.
 **Scope:** Cardinal geography of the giant floating island, placement of its twelve clans, four Cultivator Academies, and the exclusive high-level Arcanist research institution.
-**Related sources:** `world/REGION_TIANHAI_YUNZHOU.md`, `../regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`, `world/FACTIONS.md`, `core/CULTIVATOR_ACADEMIES.md`, `core/THINKER_AND_FORMULATION.md`.
+**Related sources:** `world/REGION_TIANHAI_YUNZHOU.md`, `../regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`, `world/FACTIONS.md`, `core/CULTIVATOR_ACADEMIES.md`, `core/ARCANIST_AND_FORMULATION.md`.
 
 ## 1. Four cardinal areas of the floating island
 
@@ -87,22 +87,22 @@ The Tianhai Arcanist Institute and its existing roster of officials remain gover
 - Exact internal geography, named campus buildings, academy admissions and fees, academy rankings below the overall top position, and inter-academy rivalries are not established.
 - The clan's principal area is not equivalent to exclusive ownership or district control.
 - The institute is unique in **institutional scope and level**, not proof that no Arcanist research occurs anywhere else.
-- Use `core/CULTIVATOR_ACADEMIES.md` for general education boundaries and `core/THINKER_AND_FORMULATION.md` for the mechanics of Arcanist Grade, engraving, and Artificial Artifact production.
+- Use `core/CULTIVATOR_ACADEMIES.md` for general education boundaries and `core/ARCANIST_AND_FORMULATION.md` for the mechanics of Arcanist Grade, engraving, and Artificial Artifact production.
 - Route and travel claims must be verified through `world/LOCATION_AND_ROUTE_NETWORK.md`, `world/GEOGRAPHY_AND_TRAVEL.md`, and the relevant regional modules.
 
 
 ## 6. Mandatory Arcanist certification and contribution administration
 
-**Administrative implementation only — not a second progression ruleset.** The binding route, stage sequence, production chance, Artificial Artifact condition formula, Grade prerequisites, and GM enforcement are defined solely in `core/THINKER_AND_FORMULATION.md`. This section describes the Institute's role and recordkeeping. If wording here appears inconsistent with the core module, the core module governs and this section must be reconciled; neither the Institute nor another institution may waive a mandatory gate.
+**Administrative implementation only — not a second progression ruleset.** The binding route, stage sequence, production chance, Artificial Artifact condition formula, Grade prerequisites, and GM enforcement are defined solely in `core/ARCANIST_AND_FORMULATION.md`. This section describes the Institute's role and recordkeeping. If wording here appears inconsistent with the core module, the core module governs and this section must be reconciled; neither the Institute nor another institution may waive a mandatory gate.
 The Tianhai Arcanist Institute is the central authority for official Arcanist Grade examinations, certification, and credential verification. Its research role does not replace its standards and credentialing role.
 
 Its mandatory administrative duties are:
 
-- Register candidates, confirm eligibility against `core/THINKER_AND_FORMULATION.md`, administer or formally authorize the applicable examination, and record pass/fail results and official Grade changes.
+- Register candidates, confirm eligibility against `core/ARCANIST_AND_FORMULATION.md`, administer or formally authorize the applicable examination, and record pass/fail results and official Grade changes.
 - Verify training/stage records, target-Grade prerequisites, personal engraver blueprint authorship and qualified manufacture for Grades 7–10, and every qualifying Artificial Artifact's maker, series code, Tier, type, condition, and current ownership.
 - Verify Grade 10 recognition against genuine issuer authorization, issuer identity and Grade; a city branch may process a token request but cannot manufacture recognition or replace the issuer's consent.
 - Record institutional contribution-point awards and redemptions, plus registrations, examinations, verification outcomes, and other official changes through the repository's state/event procedures.
-- Apply the five-condition label scale and the numeric Condition Score rules from §14 of `core/THINKER_AND_FORMULATION.md`; do not create an alternate scoring method.
+- Apply the five-condition label scale and the numeric Condition Score rules from §14 of `core/ARCANIST_AND_FORMULATION.md`; do not create an alternate scoring method.
 
 The detailed progression order, mandatory training stages, all Grade prerequisites, production chance matrix, Artificial Artifact Condition Score, and GM enforcement rules belong to the core module. This file is an administrative and regional reference only; it must not duplicate or override the core mechanics.
 ### 6.1 Contribution points for educational institutions
@@ -115,4 +115,4 @@ The exact point reward per Grade, exchange rates, stock, prices, and restriction
 
 The institute must keep verifiable records of registration, eligibility, examination outcomes, official Grade changes, artifact verification, recognition tokens, and contribution-point awards/redemptions according to the repository's state and event procedures. Tokens may be ordered through any city branch using the established process, but branches cannot fabricate recognition or override the issuer's authorization. Administrative access is not automatic approval.
 
-All examination and production procedures follow the single mandatory path in `core/THINKER_AND_FORMULATION.md`, plus the official time and Satiety rules, economy system, and repository authority and anti-cheat rules. This institute module does not create alternate routes or numeric mechanics.
+All examination and production procedures follow the single mandatory path in `core/ARCANIST_AND_FORMULATION.md`, plus the official time and Satiety rules, economy system, and repository authority and anti-cheat rules. This institute module does not create alternate routes or numeric mechanics.

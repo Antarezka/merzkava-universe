@@ -86,7 +86,7 @@ Only 2 villages are part of the Golden Dragon Empire's official thirteen-village
 - Risiko: timbangan palsu, pengoplosan gabah, pemerasan dermaga, monopoli gudang, sabotase tanggul.
 
 
-## 6. Cultivation, Martial Souls, Spirit Beasts, and Thinkers
+## 6. Cultivation, Martial Souls, Spirit Beasts, and Arcanists
 
 - Lokasi eksplorasi: gudang gabah tua di jalur banjir, kanal tertutup di balik Three Reeds, tanggul runtuh antara Lotus Weir dan Rice Bell, serta dermaga karam yang terlihat saat surut.
 - Arus, lumpur, kabut, dan jembatan bambu rapuh adalah bahaya; spesies Spirit Beast harus mengikuti bestiary.
@@ -144,7 +144,7 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPC
 - [ ] Add local authority and factions
 - [ ] Add NPC profiles and links
 - [ ] Add daily life, economy, and resources
-- [ ] Add local cultivation / Spirit Beast / Thinker details
+- [ ] Add local cultivation / Spirit Beast / Arcanist details
 - [ ] Reconcile confirmed additions with `world/MAP_AND_REGIONS.md`, `world/WORLD.md`, and `INDEX.md`
 
 

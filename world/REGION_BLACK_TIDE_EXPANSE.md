@@ -38,11 +38,11 @@ For each settlement or site, fill in details only when confirmed:
 - Known resources: Belum ditetapkan
 - Markets, prices, and trade flows: Refer to `core/10_ECONOMY_SYSTEM.md`; regional specifics pending
 
-## 6. Cultivation, Martial Souls, Spirit Beasts, and Thinkers
+## 6. Cultivation, Martial Souls, Spirit Beasts, and Arcanists
 - Local traditions / institutions: Belum ditetapkan
 - Academies, dojos, or training locations: Belum ditetapkan
 - Spirit Beast habitats and confirmed species: Refer to `bestiary/SPIRIT_BEAST_RULES.md`; regional entries pending
-- Thinker workshops / artifact facilities: Belum ditetapkan
+- Arcanist workshops / artifact facilities: Belum ditetapkan
 - Do not invent local power rankings, special rules, or rare abilities.
 
 ## 7.1 Crimson Sovereign Court — Hidden Authority
@@ -101,7 +101,7 @@ Shared details for the underground economy, Silent Maw Hall's assassin brokerage
 - [ ] Add local authority and factions
 - [ ] Add NPC profiles and links
 - [ ] Add daily life, economy, and resources
-- [ ] Add local cultivation / Spirit Beast / Thinker details
+- [ ] Add local cultivation / Spirit Beast / Arcanist details
 - [ ] Reconcile confirmed additions with `world/MAP_AND_REGIONS.md`, `world/WORLD.md`, and `INDEX.md`
 
 

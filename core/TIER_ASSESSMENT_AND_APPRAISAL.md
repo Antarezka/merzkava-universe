@@ -41,7 +41,7 @@ Use a total from **0–134 points**. Score each of the nine dimensions from **0�
 - If fewer than three dimensions have reliable evidence, do not issue a numerical prediction. If a special classification is needed, mark **Tier belum ditetapkan — bukti belum cukup; appraisal diperlukan**. Do not use this fallback for ordinary goods that can be priced through the routine economic categories.
 - Do not double-count one feat across several dimensions. Record the evidence behind each score.
 - For beasts, assess demonstrated capability, threat, defenses, range, behavior, and special abilities; the name/category alone does not determine a score. For items, assess actual function, effectiveness, construction, stability, operation, and verified properties.
-- This score is a fallback classification aid, not a combat formula, economic price formula, Martial Soul tier, Spirit Realm, Spirit Ring tier, Thinker Grade, age rating, or rarity/quantity rating.
+- This score is a fallback classification aid, not a combat formula, economic price formula, Martial Soul tier, Spirit Realm, Spirit Ring tier, Arcanist Grade, age rating, or rarity/quantity rating.
 
 ## 3. Tier Bands
 

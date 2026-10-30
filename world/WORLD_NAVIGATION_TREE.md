@@ -78,7 +78,7 @@ MERZKAVA UNIVERSE
 │   │   ├── Linggong District — crafts, engineering, manufacturing
 │   │   ├── Xuanchao Ward — defense and maritime security
 │   │   └── Misty Shoals — outer maritime zone and exploration
-│   ├── Institutions: world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md
+│   ├── Institutions: world/TIANHAI_ACADEMIES_AND_ARCANIST_INSTITUTE.md
 │   ├── NPC power structure: regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md
 │   ├── Established local anchors (full route graph in §§12–14)
 │   │   ├── Yunxiao Terrace — Court Steps
@@ -146,7 +146,7 @@ These regions contribute **12 named settlements and 13 associated organizations*
 | Power / branch | Primary regional source | Administrative / supplementary authority | NPC ↔ Map path |
 |---|---|---|---|
 | Golden Dragon Empire | The matching `world/REGION_<REGION>.md` file for the scene | `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`; governance, officials, and population-services files as needed | NPC → profile → map; or map → local NPC entries → plausible profiles |
-| Tianhai Yunzhou | `world/REGION_TIANHAI_YUNZHOU.md` | `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md`; NPC power structure; local routes and service networks in §§12–14 of the regional module | NPC → profile → map; or map → local NPC entries → plausible profiles |
+| Tianhai Yunzhou | `world/REGION_TIANHAI_YUNZHOU.md` | `world/TIANHAI_ACADEMIES_AND_ARCANIST_INSTITUTE.md`; NPC power structure; local routes and service networks in §§12–14 of the regional module | NPC → profile → map; or map → local NPC entries → plausible profiles |
 | Beiming Gu | `world/REGION_BEIMING_GU.md` (all seven districts) | The consolidated module is the source for district-level confirmed facts; unspecified settlements and routes remain unspecified | NPC → profile → map; or map → local NPC entries → plausible profiles |
 
 ### Golden Dragon Empire administrative hierarchy

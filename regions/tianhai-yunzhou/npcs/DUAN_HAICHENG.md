@@ -31,11 +31,11 @@
 - **Martial Soul:** Not established.
 - **Spirit Rings and abilities:** Not established.
 - **Techniques / combat style:** Not established.
-- **Thinker Grade:** ???
-- **Thinker specialties:** Not established.
+- **Arcanist Grade:** ???
+- **Arcanist specialties:** Not established.
 - **Equipment:** Not established.
-- **Known limitations:** Commercial experience does not establish Thinker certification, artifact craftsmanship, or combat skill.
-- **Source module for mechanics:** `core/THINKER_AND_FORMULATION.md`; other capabilities follow relevant official modules.
+- **Known limitations:** Commercial experience does not establish Arcanist certification, artifact craftsmanship, or combat skill.
+- **Source module for mechanics:** `core/ARCANIST_AND_FORMULATION.md`; other capabilities follow relevant official modules.
 
 ## 4. Motivations and Agency
 - **Immediate goal:** Find promising products and suppliers before competitors do.
@@ -75,5 +75,5 @@
 ## 8. Canon and Privacy Check
 - **Canon facts and source:** This profile is an owner-approved addition to the recurring NPC roster.
 - **GM estimates:** No capability, grade, or current-presence estimates are canon.
-- **Provisional details awaiting owner approval:** Exact merchant guild, workshop, Thinker Grade, and abilities remain unspecified.
+- **Provisional details awaiting owner approval:** Exact merchant guild, workshop, Arcanist Grade, and abilities remain unspecified.
 - **Contradictions to resolve:** None known.

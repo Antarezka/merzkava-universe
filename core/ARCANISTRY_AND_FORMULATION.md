@@ -1,11 +1,13 @@
-# MERZKAVA UNIVERSE — THINKER & FORMULATION SYSTEM
+# MERZKAVA UNIVERSE — ARCANISTRY & FORMULATION SYSTEM
+
+**Terminology:** Arcanistry is the complete field of study and practice, covering foundational theory, research, teaching, formulation, engineering, and application. Arcanism refers specifically to the theoretical principles within Arcanistry. An Arcanist is a practitioner. Arcanist Grade and Arcanist Focus are the official progression measures. These terms do not create or alter any tradition classification.
 
 **Status:** Mandatory Arcanist progression and certification protocol integrated. Artificial Artifact condition scoring is formally defined in §14. Production success chance remains separate from the quality score; random-resolution procedure, situational success modifiers, numerical training costs, and other unresolved production parameters remain undefined until formally approved.
 
 
-## MANDATORY THINKER PATH — SINGLE CANONICAL ROUTE
+## MANDATORY ARCANISTRY PATH — SINGLE CANONICAL ROUTE
 
-**This path is binding for every player character and NPC.** `core/THINKER_AND_FORMULATION.md` is the single authority for Arcanist progression, production chances, Artificial Artifact condition, and related maker requirements. Supporting files may explain institutional administration, regional lore, or catalogued artifacts, but may not create alternate progression routes or override this module.
+**This path is binding for every player character and NPC.** `core/ARCANISTRY_AND_FORMULATION.md` is the single authority for Arcanist progression, production chances, Artificial Artifact condition, and related maker requirements. Supporting files may explain institutional administration, regional lore, or catalogued artifacts, but may not create alternate progression routes or override this module.
 
 1. **Foundational instruction:** learn Arcanistry theory from a real, qualified teacher or recognized educational source that genuinely teaches it. Self-study alone, talent, wealth, cultivation, possession of artifacts, or narrative declaration cannot replace instruction.
 2. **Mandatory focus training:** complete the assessed stages in order: Pemula → Initiate → Beginner → Ordinary → Ahli → Expert. A stage is awarded only after the actual teacher/institution assesses the student's demonstrated progress.
@@ -18,7 +20,7 @@
 
 **Unspecified values stay unspecified.** Do not invent training duration or Satiety costs, examination fees, Grade 2–6 rubrics, success-roll mechanics, situational modifiers, production failure costs, contribution-point amounts, or other numerical values that have not been approved. If a required rule is unresolved, state the limitation and do not simulate a fictional official roll or grant an unearned result.
 
-## 1. THINKER: INDEPENDENT PROGRESSION
+## 1. ARCANIST: INDEPENDENT PROGRESSION
 
 **Player-facing result formatting:** every resolved formulation chance, roll, production outcome, and formula-derived final value must be displayed as `****<hasil final>****`, whether successful or failed. Any displayed tier, grade, quality, status, or similar classification label must use the universal ``<istilah>`` label format inside double backticks.
 
@@ -38,7 +40,7 @@ An inheritance or object left by a deity. Further properties are unknown unless 
 An artifact originating from the golden age of civilization.
 
 ### Artificial Artifact
-An artifact manufactured by a Arcanist using materials, patterns, and formulations.
+An artifact manufactured by an Arcanist using materials, patterns, and formulations.
 
 These categories are distinct by origin and must not be treated as interchangeable. An Artificial Artifact is not automatically a Relic or an Ancient Artifact, and vice versa.
 
@@ -73,28 +75,28 @@ Producing an Artificial Artifact requires:
 - Mental ability to understand, construct, and maintain complex formulation patterns.
 - Sufficient stamina/energy to continue working.
 - Suitable materials and applicable patterns.
-- A Arcanist Grade capable of handling the target artifact under the normal tier limits.
+- An Arcanist Grade capable of handling the target artifact under the normal tier limits.
 
 Arcanist Grade limits the artifact tier that can normally be produced. Meeting the tier requirement does not automatically guarantee success.
 
 A successful formulation does not mean the process is free of cost, energy consumption, time, or consequences. Apply only costs and consequences defined by official mechanics. Do not improvise numerical stamina costs, durations, or thresholds.
 
-## 5. BASE SUCCESS-CHANCE MATRIX — THINKER TIERS 1–10
+## 5. BASE SUCCESS-CHANCE MATRIX — ARCANIST GRADES 1–10
 
 The baseline chance is determined by the difference between Arcanist Grade and target Artificial Artifact tier. All values below are percentages, before any situational adjustment that is explicitly authorized by official rules.
 
-| Arcanist / Artifact | T1 | T2 | T3 | T4 | T5 | T6 | T7 | T8 | T9 | T10 |
+| Arcanist Grade / Artifact Tier | T1 | T2 | T3 | T4 | T5 | T6 | T7 | T8 | T9 | T10 |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| **Arcanist G1** | 80% | 30% | 10% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |
-| **Arcanist G2** | 100% | 80% | 30% | 10% | 0% | 0% | 0% | 0% | 0% | 0% |
-| **Arcanist G3** | 100% | 100% | 80% | 30% | 10% | 0% | 0% | 0% | 0% | 0% |
-| **Arcanist G4** | 100% | 100% | 100% | 80% | 30% | 10% | 0% | 0% | 0% | 0% |
-| **Arcanist G5** | 100% | 100% | 100% | 100% | 80% | 30% | 10% | 0% | 0% | 0% |
-| **Arcanist G6** | 100% | 100% | 100% | 100% | 100% | 80% | 30% | 10% | 0% | 0% |
-| **Arcanist G7** | 100% | 100% | 100% | 100% | 100% | 100% | 80% | 30% | 10% | 0% |
-| **Arcanist G8** | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 80% | 30% | 10% |
-| **Arcanist G9** | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 80% | 30% |
-| **Arcanist G10** | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 80% |
+| **Arcanist Grade 1** | 80% | 30% | 10% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |
+| **Arcanist Grade 2** | 100% | 80% | 30% | 10% | 0% | 0% | 0% | 0% | 0% | 0% |
+| **Arcanist Grade 3** | 100% | 100% | 80% | 30% | 10% | 0% | 0% | 0% | 0% | 0% |
+| **Arcanist Grade 4** | 100% | 100% | 100% | 80% | 30% | 10% | 0% | 0% | 0% | 0% |
+| **Arcanist Grade 5** | 100% | 100% | 100% | 100% | 80% | 30% | 10% | 0% | 0% | 0% |
+| **Arcanist Grade 6** | 100% | 100% | 100% | 100% | 100% | 80% | 30% | 10% | 0% | 0% |
+| **Arcanist Grade 7** | 100% | 100% | 100% | 100% | 100% | 100% | 80% | 30% | 10% | 0% |
+| **Arcanist Grade 8** | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 80% | 30% | 10% |
+| **Arcanist Grade 9** | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 80% | 30% |
+| **Arcanist Grade 10** | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 80% |
 
 Equivalent tier-difference rule:
 
@@ -168,7 +170,7 @@ Artificial Artifact technology may advance through:
 - Mastery of more complex patterns.
 - New production methods, only after they are established as official lore.
 
-Knowledge exchange between Tianhai Yunzhou and the Golden Dragon Empire may open paths for scientific development. Ancient materials in the North may support research and formation engraving. Knowledge spreading does not automatically make all civilizations equally capable; Arcanist skill, materials, and formulation mastery remain limiting factors.
+Knowledge exchange between Tianhai Yunzhou and the Golden Dragon Empire may open paths for scientific development. Ancient materials in the North may support research and formation engraving. Knowledge spreading does not automatically make all civilizations equally capable; Arcanistry skill, materials, and formulation mastery remain limiting factors.
 
 Mechanics for refining formulations, breakthroughs, or technologies beyond normal limits must be documented before the GM treats them as canon.
 
@@ -200,13 +202,13 @@ Combat resolution is governed by `gameplay/COMBAT_SYSTEM.md`, not by the product
 During combat, the GM may use an Artificial Artifact only if ownership/access, tier, condition, and the relevant function are established. Apply documented artifact functions to the relevant combat step. The tier comparison modifier in the combat module applies only when two Artificial Artifacts contest a comparable function; it does not grant a universal bonus against every opponent. Do not invent unknown functions, energy sources, charges, range, durability, or weaknesses.
 
 
-## 12. FORMATION ENGRAVER — ESSENTIAL THINKER TOOL
+## 12. FORMATION ENGRAVER — ESSENTIAL ARCANIST TOOL
 
 The Formation Engraver is a specialized precision tool used to carve intricate formation patterns into the base materials of an Artificial Artifact.
 
 ### 12.1 Form and Purpose
 - Its general form resembles a surgical scalpel, but its working tip is exceptionally fine, with a very small diameter.
-- The fine tip allows a Arcanist to engrave tiny, precise, and complex formation lines into artifact materials.
+- The fine tip allows an Arcanist to engrave tiny, precise, and complex formation lines into artifact materials.
 - Its purpose is precision engraving; it is not merely an ordinary knife or a general-purpose carving tool.
 - The analogy is similar to semiconductor and computer-chip fabrication: as patterns become smaller and more densely arranged, the required precision and technical sophistication increase. This is an analogy for precision and complexity, not a claim that Artificial Artifacts use modern computer-chip technology.
 
@@ -238,7 +240,7 @@ Every aspiring Arcanist must complete the same binding progression route in §13
 - Do not invent exact prices, dimensions, quality tiers, production times, or special effects before they are defined.
 
 
-## 13. MANDATORY THINKER EDUCATION, CERTIFICATION, AND GRADE PROGRESSION
+## 13. MANDATORY ARCANIST EDUCATION, CERTIFICATION, AND GRADE PROGRESSION
 
 **Status: MANDATORY CANON RULE.** This section governs all players and NPCs and must be applied together with the official formulation mechanics, institute rules, time rules, Satiety rules, economy, and repository authority hierarchy.
 
@@ -296,7 +298,7 @@ For Grades 3–6, the stated quotas are based on an examination cohort of 40 act
 
 The Grade 3–7 pass caps are independent of production success chance. They limit the number of candidates who can pass; they do not change the Arcanist Grade × target Tier chance matrix or the §14 condition formula. If a competition has no qualifying comparison evidence, do not fabricate an opponent's result or automatically fail the candidate.
 
-Upon officially obtaining Grade 1, a Arcanist becomes eligible to obtain a personal engraver through a qualified teacher or by purchasing one from the institute, subject to availability and the applicable price. An ordinary purchased or borrowed engraver does not satisfy the personal-design prerequisite for Grade 7 and above.
+Upon officially obtaining Grade 1, an Arcanist becomes eligible to obtain a personal engraver through a qualified teacher or by purchasing one from the institute, subject to availability and the applicable price. An ordinary purchased or borrowed engraver does not satisfy the personal-design prerequisite for Grade 7 and above.
 
 ### 13.5 Mandatory personal-designed engraver for Grade 7–10
 
@@ -343,7 +345,7 @@ These are prerequisites to register for the relevant examination, not automatic 
 
 ### 13.9 Arcanist tokens and Grade 10 recognition
 
-A Arcanist token is a professional identity credential, comparable in social function to a formal business card. It identifies its holder and can evidence an authorized professional relationship. It is not merely a collectible, an ordinary recommendation, or an item that can be purchased to replace trust.
+An Arcanist token is a professional identity credential, comparable in social function to a formal business card. It identifies its holder and can evidence an authorized professional relationship. It is not merely a collectible, an ordinary recommendation, or an item that can be purchased to replace trust.
 
 For Grade 10 examination eligibility, the candidate must obtain either:
 - Recognition from at least one officially recognized Arcanist Grade 10; or

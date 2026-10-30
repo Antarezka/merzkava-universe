@@ -95,11 +95,11 @@ When the combatants differ by **one Spirit Realm level**, a damaging hit from th
 
 Tactics and technique may contribute, but do not silently replace all three conditions. If the evidence is incomplete, apply at least a light injury and scale severity to the actual event. For all combat, use these cues rather than fixed HP thresholds: superficial bruising/abrasion or mild strain may support Class I; a deep wound, moderate sprain/burn, or tissue tear may support Class II; a clearly established fracture, dislocation, or major tendon/ligament damage supports Class III; a life-threatening wound, severe internal bleeding, organ damage, or severe poisoning supports Class IV only when the event supports that conclusion. If evidence is insufficient, mark the injury unclassified rather than inventing a diagnosis. For combos, assess each hit and their cumulative consequences; a later hit may worsen an existing injury or create another injury only when its mechanism supports that result. Do not infer injury class from damage numbers alone. Do not extrapolate the one Spirit Realm rule into an invented universal multiplier for larger Spirit Realm gaps.
 
-## 7. PowerScale, Spirit Rings, and Thinker
+## 7. PowerScale, Spirit Rings, and Arcanist
 
 - PowerScale comes only from `core/SPIRIT_RING_RULES.md`; it already includes total Spirit Ring age and overall ring compatibility. Do not multiply those factors again.
 - A Spirit Ring ability affects combat only through its established ability and actual use.
-- The production chance matrix in `core/THINKER_AND_FORMULATION.md` governs artifact creation, **not** attack accuracy.
+- The production chance matrix in `core/ARCANIST_AND_FORMULATION.md` governs artifact creation, **not** attack accuracy.
 - Before applying an Artificial Artifact, confirm ownership/access, tier, documented function, limitations, and whether that function applies to the current action. Relics, Ancient Artifacts, and Artificial Artifacts remain distinct categories.
 - If artifact effects or other required values are undefined, mark them unknown instead of making up a number.
 

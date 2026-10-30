@@ -26,10 +26,10 @@
 - Martial Soul: Silverfang Snow Tiger.
 - Spirit Rings and specific abilities: Not established; do not invent ring ages, colors, or named ring abilities.
 - Techniques / combat style: pemeriksaan material sederhana untuk pelindung dan perlengkapan latihan; exact named techniques remain unestablished.
-- Thinker Grade / specialties: Thinker Grade 2; pemeriksaan material sederhana untuk pelindung dan perlengkapan latihan.
+- Arcanist Grade / specialties: Arcanist Grade 2; pemeriksaan material sederhana untuk pelindung dan perlengkapan latihan.
 - Equipment: Practical northern clothing; named weapons, artifacts, and possessions are not established.
 - Known limitations: No special immunity, automatic success, or unlisted ability is established. Apply the official mechanics.
-- Source modules: `core/CULTIVATION_SYSTEM.md`, `core/MARTIAL_SOUL.md`, `core/THINKER_AND_FORMULATION.md`.
+- Source modules: `core/CULTIVATION_SYSTEM.md`, `core/MARTIAL_SOUL.md`, `core/ARCANIST_AND_FORMULATION.md`.
 
 ## 4. Motivations and Agency
 - Immediate goal: Fulfil current responsibilities for their clan or dojo; exact active task is not established.
@@ -63,6 +63,6 @@
 
 ## 8. Canon and Privacy Check
 - Do not infer family trees, clan alliances, dojo ownership, political loyalties, exact routes, or secret relationships from the role alone.
-- Thinker Grade and Spirit Realm are independent progression systems.
-- The stated specialty is a practical focus, not a new formal Thinker-variant classification.
+- Arcanist Grade and Spirit Realm are independent progression systems.
+- The stated specialty is a practical focus, not a new formal Arcanist-variant classification.
 - All unlisted personal details remain unestablished.

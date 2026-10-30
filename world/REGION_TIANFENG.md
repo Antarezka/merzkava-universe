@@ -84,7 +84,7 @@ Only 2 villages are part of the Golden Dragon Empire's official thirteen-village
 - Risiko: ijazah palsu, pencurian manuskrip, perdagangan jawaban ujian, dan murid terjerat utang sponsor.
 
 
-## 6. Cultivation, Martial Souls, Spirit Beasts, and Thinkers
+## 6. Cultivation, Martial Souls, Spirit Beasts, and Arcanists
 
 - Lokasi eksplorasi: observatorium lama di Cloud Ladder, perpustakaan cabang tertutup dekat Wenchuan, jalur batu berprasasti rusak, dan rumah singgah yang menyimpan peta tua.
 - Kabut, tebing, jembatan tali, serta dokumen palsu adalah bahaya; temuan naskah perlu autentikasi.
@@ -142,7 +142,7 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPC
 - [ ] Add local authority and factions
 - [ ] Add NPC profiles and links
 - [ ] Add daily life, economy, and resources
-- [ ] Add local cultivation / Spirit Beast / Thinker details
+- [ ] Add local cultivation / Spirit Beast / Arcanist details
 - [ ] Reconcile confirmed additions with `world/MAP_AND_REGIONS.md`, `world/WORLD.md`, and `INDEX.md`
 
 

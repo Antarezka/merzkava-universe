@@ -103,7 +103,7 @@ Only 1 village is part of the Golden Dragon Empire's official thirteen-village r
 - Risiko: monopoli dermaga, manifes palsu, penyelundupan, pembajakan oportunis, dan mutiara palsu.
 
 
-## 6. Cultivation, Martial Souls, Spirit Beasts, and Thinkers
+## 6. Cultivation, Martial Souls, Spirit Beasts, and Arcanists
 
 - Lokasi eksplorasi: mercusuar tua dekat Tideglass, kapal karam dekat Pearl Shoal, gua pasang yang terbuka saat surut, dan gudang bea lama di luar Chaoguan.
 - Arus balik, karang, badai, kabut, dan klaim kepemilikan atas barang karam membuat ekspedisi berisiko.
@@ -162,7 +162,7 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPC
 - [ ] Add local authority and factions
 - [ ] Add NPC profiles and links
 - [ ] Add daily life, economy, and resources
-- [ ] Add local cultivation / Spirit Beast / Thinker details
+- [ ] Add local cultivation / Spirit Beast / Arcanist details
 - [ ] Reconcile confirmed additions with `world/MAP_AND_REGIONS.md`, `world/WORLD.md`, and `INDEX.md`
 
 

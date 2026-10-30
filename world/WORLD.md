@@ -166,7 +166,7 @@ The currently established imperial family consists of Emperor Jun Haotian, Empre
 
 **Confirmed family relationships:** Jun Haotian is married to Shen Yuehua. Jun Ruiyuan is their eldest child and heir to the throne; Jun Yuejin is their second child. Both children are established as inheriting their mother's intelligence and beauty. Their individual personalities, Spirit Realm and Stage, Spirit Rings, techniques, and other abilities remain unestablished unless another official source records them.
 
-**Shen family background through the Empress:** Shen Yuehua belongs to the main branch of the Shen family. The family is known for producing outstanding strategists, maintains hundreds of elite tea-pavilion establishments that serve as gathering places for influential people, and has a specialized intelligence branch as well as its own advanced Thinkers. The Shen family is one of several major parties entrusted with rights and responsibilities in administering the World Knowledge Tower. The Tower is an ancient divine relic from the Early Golden Age and is **not owned by the Shen family**.
+**Shen family background through the Empress:** Shen Yuehua belongs to the main branch of the Shen family. The family is known for producing outstanding strategists, maintains hundreds of elite tea-pavilion establishments that serve as gathering places for influential people, and has a specialized intelligence branch as well as its own advanced Arcanists. The Shen family is one of several major parties entrusted with rights and responsibilities in administering the World Knowledge Tower. The Tower is an ancient divine relic from the Early Golden Age and is **not owned by the Shen family**.
 
 The family ages above are the currently selected character ages. The reported childbirth ages for Shen Yuehua (approximately 16 at the birth of Jun Ruiyuan and approximately 17 at the birth of Jun Yuejin) are approximate backstory chronology; exact birthdays and year-by-year age transitions have not been specified.
 
@@ -183,7 +183,7 @@ Artefak tersebut adalah hasil rekayasa, bukan otomatis peninggalan peradaban kun
 
 Kekuasaan Tianhai Yunzhou berpusat pada Maharaja dan struktur pemerintahan yang menopang pelayaran, perdagangan, pertahanan, serta pengelolaan wilayah pulau.
 
-Posisi maritim memberikan akses ke perdagangan laut dan sumber daya kepulauan. Kota-kota intinya memiliki karakter modern dengan kereta otomatis dan utilitas yang digerakkan Artificial Artifact menggunakan energi cair hasil pemurnian khusus. Tianhai Yunzhou menukar energi olahan, keahlian Thinker, layanan logistik, dan teknologi dengan batu/logam pembawa energi dari kekuasaan lain. Karena itu, keamanan jalur pelayaran, pasokan bahan mentah, fasilitas pemurnian, serta pemeliharaan artefak merupakan kepentingan strategis.
+Posisi maritim memberikan akses ke perdagangan laut dan sumber daya kepulauan. Kota-kota intinya memiliki karakter modern dengan kereta otomatis dan utilitas yang digerakkan Artificial Artifact menggunakan energi cair hasil pemurnian khusus. Tianhai Yunzhou menukar energi olahan, keahlian Arcanist, layanan logistik, dan teknologi dengan batu/logam pembawa energi dari kekuasaan lain. Karena itu, keamanan jalur pelayaran, pasokan bahan mentah, fasilitas pemurnian, serta pemeliharaan artefak merupakan kepentingan strategis.
 
 4.2 Major Districts
 
@@ -241,7 +241,7 @@ Leiyu Clan| Teknik tempur dan kekuatan ofensif
 4. Azure Sail Dojo — pergerakan, koordinasi, dan teknik yang berkaitan dengan pelayaran.
 5. Deepwater Dojo — ketahanan dan teknik yang menyesuaikan kondisi perairan.
 
-4.5 Empat Area Pulau, Akademi, dan Institusi Thinker
+4.5 Empat Area Pulau, Akademi, dan Institusi Arcanist
 
 Pulau utama Tianhai Yunzhou dibagi secara regional menjadi empat area besar: Utara, Selatan, Barat, dan Timur. Pembagian arah ini merupakan lapisan geografis, bukan empat negara atau pengganti tujuh distrik. Tianji Core berada di pusat pulau, sementara Misty Shoals membentuk sabuk maritim luar.
 
@@ -254,37 +254,37 @@ Basis utama tidak berarti kepemilikan eksklusif atas seluruh area. Rincian batas
 
 Tianhai Yunzhou memiliki empat Cultivator Academies:
 1. **Beichen Cultivator Academy** — Utara; kesiapan, kewaspadaan ancaman, dan latihan pertahanan.
-2. **Tianlan Supreme Academy** — Selatan; akademi paling unggul dan prestisius di Tianhai Yunzhou, dengan pengajaran fleksibel, pembelajaran praktis intensif, serta jalur kuat menuju pendidikan Thinker tingkat lanjut.
+2. **Tianlan Supreme Academy** — Selatan; akademi paling unggul dan prestisius di Tianhai Yunzhou, dengan pengajaran fleksibel, pembelajaran praktis intensif, serta jalur kuat menuju pendidikan Arcanist tingkat lanjut.
 3. **Cangfan Maritime Academy** — Barat; navigasi, kehidupan maritim, kerja tim, dan persiapan perjalanan.
 4. **Haiyue Academy** — Timur; pemecahan masalah terapan, literasi perdagangan, sumber daya, dan kerajinan khusus.
 
 Keempatnya tetap mengajarkan dasar Martial Soul, Spirit Realm, Spirit Ring, Spirit Beast, persiapan praktik, dan pengetahuan kultivator lain. Metode mereka lebih fleksibel dibandingkan akademi pusat Golden Dragon Empire yang ortodoks, tetapi fleksibilitas tidak menghapus persyaratan mekanik atau menjamin hasil kultivasi. Rincian penerimaan dan kurikulum penuh belum ditetapkan.
 
-**Tianhai Thinker Institute** adalah satu-satunya institusi tingkat tinggi yang diketahui memiliki cakupan riset Thinker seluas ini. Institusi ini meneliti pengembangan Formation Engraver, bahan, metode formulasi dan pencampuran, ukiran formasi rumit untuk Artificial Artifact Tier 6 ke atas, serta optimasi teknik pengukiran dan produksi untuk Tier 5 ke bawah. Keberadaan institut tidak menjamin keberhasilan pengerjaan dan tidak menggantikan mekanik resmi Thinker. Detail kanon: `world/TIANHAI_ACADEMIES_AND_THINKER_INSTITUTE.md`.
+**Tianhai Arcanist Institute** adalah satu-satunya institusi tingkat tinggi yang diketahui memiliki cakupan riset Arcanist seluas ini. Institusi ini meneliti pengembangan Formation Engraver, bahan, metode formulasi dan pencampuran, ukiran formasi rumit untuk Artificial Artifact Tier 6 ke atas, serta optimasi teknik pengukiran dan produksi untuk Tier 5 ke bawah. Keberadaan institut tidak menjamin keberhasilan pengerjaan dan tidak menggantikan mekanik resmi Arcanist. Detail kanon: `world/TIANHAI_ACADEMIES_AND_ARCANIST_INSTITUTE.md`.
 
 4.6 Maharaja and Ruling Family
 
 The Maharaja is **Ji Haoyuan**, a visionary leader. His canonical profile is maintained in `regions/tianhai-yunzhou/npcs/JI_HAOYUAN.md`.
 - Martial Soul: Heavenly Sky Whale.
 - Spirit Realm 9 — Spirit Primordial, Early Stage.
-- Thinker Grade 10.
+- Arcanist Grade 10.
 - The Tier 9 Artificial Artifact supporting the floating island was created by one of his ancestors, not by Ji Haoyuan himself.
 
-His wife, **Bai Xuanyin**, was a Thinker Grade 10 and Spirit Realm 7 — Spirit Emperor. She died during the Great Tianhai War, a major front of the ancient world-calamity incursion, when extreme anomalies opened gates to other worlds and Demonic Beasts of tiers 7–9 descended across the world. Three Tier 9 Demonic Beasts specifically sought to invade and devastate Tianhai Yunzhou. Ji Haoyuan was away serving as an active World Knowledge Tower member. After learning of Bai Xuanyin's death while still on duty, he resolved to end active service but remained until the immediate threat was suppressed and the surviving Demonic Beasts had become scattered across the world, then returned to Tianhai Yunzhou. Bai Xuanyin is revered as a great heroine. Her weapon-type Artificial Artifact is described as the strongest of its type in the world; she also created Artificial Artifact armor still used by Tianhai Yunzhou soldiers and contributed to the giant protective dome shielding Tianhai Yunzhou. Her full profile is `regions/tianhai-yunzhou/npcs/BAI_XUANYIN.md`. Names and specifications of these artifacts, the identities of the three beasts, and the exact chronology of the war remain unspecified.
+His wife, **Bai Xuanyin**, was a Arcanist Grade 10 and Spirit Realm 7 — Spirit Emperor. She died during the Great Tianhai War, a major front of the ancient world-calamity incursion, when extreme anomalies opened gates to other worlds and Demonic Beasts of tiers 7–9 descended across the world. Three Tier 9 Demonic Beasts specifically sought to invade and devastate Tianhai Yunzhou. Ji Haoyuan was away serving as an active World Knowledge Tower member. After learning of Bai Xuanyin's death while still on duty, he resolved to end active service but remained until the immediate threat was suppressed and the surviving Demonic Beasts had become scattered across the world, then returned to Tianhai Yunzhou. Bai Xuanyin is revered as a great heroine. Her weapon-type Artificial Artifact is described as the strongest of its type in the world; she also created Artificial Artifact armor still used by Tianhai Yunzhou soldiers and contributed to the giant protective dome shielding Tianhai Yunzhou. Her full profile is `regions/tianhai-yunzhou/npcs/BAI_XUANYIN.md`. Names and specifications of these artifacts, the identities of the three beasts, and the exact chronology of the war remain unspecified.
 
 Their twin daughters are **Ji Zhaoning** and **Ji Ningzhao**, both 16, golden-eyed, and exceptionally intelligent.
-- Ji Zhaoning, the elder twin, has not undergone Martial Soul Awakening because she has focused on developing her Thinker Grade and Thinker abilities. Her actual Thinker Grade is not yet established. Profile: `regions/tianhai-yunzhou/npcs/JI_ZHAONING.md`.
+- Ji Zhaoning, the elder twin, has not undergone Martial Soul Awakening because she has focused on developing her Arcanist Grade and Arcanist abilities. Her actual Arcanist Grade is not yet established. Profile: `regions/tianhai-yunzhou/npcs/JI_ZHAONING.md`.
 - Ji Ningzhao, the younger twin, has awakened and reached Spirit Realm 3 — Spirit Elder, Early Stage. Her Martial Soul is **Canglan Shenhua (沧澜神花), Bunga Ilahi Ombak Biru**. Its specific powers and rarity are not established. Profile: `regions/tianhai-yunzhou/npcs/JI_NINGZHAO.md`.
 
 The regional module `world/REGION_TIANHAI_YUNZHOU.md` records the canonical family details and the known boundaries of the Great Tianhai War. Do not infer unstated artifact specifications, war chronology, hidden motives, or abilities.
 
-The canonical Tianhai Yunzhou court, civil administration, military/security, district administrators, clan heads, dojo masters, and Thinker institution roster is maintained in `regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`. Its roster establishes role-appropriate Spirit Realm levels and requires named recurring/major officeholders to be Thinkers, normally Grade 3–7; Thinker Grade 8+ remains exceptional. This roster does not imply that every resident is a Thinker.
+The canonical Tianhai Yunzhou court, civil administration, military/security, district administrators, clan heads, dojo masters, and Arcanist institution roster is maintained in `regions/tianhai-yunzhou/npcs/POWER_STRUCTURE.md`. Its roster establishes role-appropriate Spirit Realm levels and requires named recurring/major officeholders to be Arcanists, normally Grade 3–7; Arcanist Grade 8+ remains exceptional. This roster does not imply that every resident is a Arcanist.
 
-**Canonical Thinker Grade distribution currently established:**
-- Tianhai Yunzhou: four Thinker Grade 10 individuals, including Ji Haoyuan.
-- Golden Dragon Empire: one Thinker Grade 9 and six Thinker Grade 8 individuals; other grade counts are not established.
-- Beiming Gu: two Thinker Grade 9 individuals; other Thinkers are described as Grade 4 and Grade 5, but exact counts are not established.
-- Lawless Territories: at least one known Thinker Grade 9; total count and distribution remain unknown.
+**Canonical Arcanist Grade distribution currently established:**
+- Tianhai Yunzhou: four Arcanist Grade 10 individuals, including Ji Haoyuan.
+- Golden Dragon Empire: one Arcanist Grade 9 and six Arcanist Grade 8 individuals; other grade counts are not established.
+- Beiming Gu: two Arcanist Grade 9 individuals; other Arcanists are described as Grade 4 and Grade 5, but exact counts are not established.
+- Lawless Territories: at least one known Arcanist Grade 9; total count and distribution remain unknown.
 
 
 
@@ -748,21 +748,21 @@ Catatan yang tidak lengkap harus tetap dianggap tidak lengkap. Dugaan, legenda, 
 
 
 
-XII-A. THINKER, KNOWLEDGE EXCHANGE, AND ARTIFICIAL ARTIFACTS
+XII-A. ARCANIST, KNOWLEDGE EXCHANGE, AND ARTIFICIAL ARTIFACTS
 
-Thinker adalah jalur kemajuan independen yang berfokus pada pengetahuan, material, pola, formulasi, dan pembuatan Artificial Artifact. Thinker memiliki sepuluh tingkatan dan tidak identik dengan sistem Spirit Realm. Tingkat kultivasi tinggi tidak otomatis menjadikan seseorang Thinker hebat; tingkat Thinker tinggi juga tidak otomatis menjadikan seseorang kultivator kuat. Tingkat Thinker menentukan kemampuan dasar dan batas formulasi normal, tetapi tidak menjamin keberhasilan setiap pengerjaan.
+Arcanist adalah jalur kemajuan independen yang berfokus pada pengetahuan, material, pola, formulasi, dan pembuatan Artificial Artifact. Arcanist memiliki sepuluh tingkatan dan tidak identik dengan sistem Spirit Realm. Tingkat kultivasi tinggi tidak otomatis menjadikan seseorang Arcanist hebat; tingkat Arcanist tinggi juga tidak otomatis menjadikan seseorang kultivator kuat. Tingkat Arcanist menentukan kemampuan dasar dan batas formulasi normal, tetapi tidak menjamin keberhasilan setiap pengerjaan.
 
-Thinker pertama berasal dari Tianhai Yunzhou. Tianhai Yunzhou menjadi pusat keunggulan pengetahuan Thinker; pengaruhnya mencakup ilmu, budaya, diplomasi, dan persaingan antarkekuatan, bukan hanya kekuatan tempur. Maharaja Tianhai Yunzhou dapat bersaing melalui pengetahuan luar biasa, bukan semata-mata kekuatan pribadi.
+Arcanist pertama berasal dari Tianhai Yunzhou. Tianhai Yunzhou menjadi pusat keunggulan pengetahuan Arcanist; pengaruhnya mencakup ilmu, budaya, diplomasi, dan persaingan antarkekuatan, bukan hanya kekuatan tempur. Maharaja Tianhai Yunzhou dapat bersaing melalui pengetahuan luar biasa, bukan semata-mata kekuatan pribadi.
 
-Golden Dragon Empire relatif terbuka terhadap pertukaran pengetahuan dan interaksi dengan pihak luar. Pertukaran Tianhai Yunzhou–Golden Dragon Empire dapat menyebarkan ilmu dan memengaruhi hubungan budaya maupun politik. Namun, penyebaran pengetahuan tidak otomatis menyamakan kemampuan produksi: tingkat Thinker, ketersediaan material, dan penguasaan formulasi tetap membatasi hasil.
+Golden Dragon Empire relatif terbuka terhadap pertukaran pengetahuan dan interaksi dengan pihak luar. Pertukaran Tianhai Yunzhou–Golden Dragon Empire dapat menyebarkan ilmu dan memengaruhi hubungan budaya maupun politik. Namun, penyebaran pengetahuan tidak otomatis menyamakan kemampuan produksi: tingkat Arcanist, ketersediaan material, dan penguasaan formulasi tetap membatasi hasil.
 
 Beiming Gu dan wilayah utara relatif terisolasi. Iklim dingin membantu mempertahankan material kuno. Eksplorasi utara berpotensi menemukan sumber daya yang sangat lengkap, terutama material untuk pengukiran formasi Artificial Artifact. Material ini strategis bagi perkembangan teknologi, tetapi ketersediaannya tidak menjamin keberhasilan tanpa pengetahuan, formulasi yang sesuai, dan kemampuan pengolahan.
 
-Tiga kategori artefak dibedakan berdasarkan asal-usulnya: Relic adalah peninggalan dewa; Ancient Artifact berasal dari masa keemasan peradaban; Artificial Artifact dibuat Thinker melalui material, pola, dan formulasi. Ketiganya tidak boleh disamakan secara otomatis. Contoh skala teknologi yang telah ditetapkan adalah sebuah pulau raksasa yang ditenagai Artificial Artifact Tier 9. Pencipta, bahan rinci, sumber energi, mekanisme, perawatan, dan kelemahannya belum ditetapkan kecuali ditambahkan secara resmi.
+Tiga kategori artefak dibedakan berdasarkan asal-usulnya: Relic adalah peninggalan dewa; Ancient Artifact berasal dari masa keemasan peradaban; Artificial Artifact dibuat Arcanist melalui material, pola, dan formulasi. Ketiganya tidak boleh disamakan secara otomatis. Contoh skala teknologi yang telah ditetapkan adalah sebuah pulau raksasa yang ditenagai Artificial Artifact Tier 9. Pencipta, bahan rinci, sumber energi, mekanisme, perawatan, dan kelemahannya belum ditetapkan kecuali ditambahkan secara resmi.
 
-Pembuatan Artificial Artifact membutuhkan formulasi yang dipahami Thinker, fokus dan konsentrasi, kemampuan mental untuk menyusun serta mempertahankan pola, tenaga yang memadai, material yang sesuai, pola yang dapat diterapkan, dan tingkat Thinker yang mampu menangani target. Biaya tenaga, durasi, ambang batas, dan konsekuensi produksi hanya boleh digunakan jika ditetapkan oleh mekanik resmi.
+Pembuatan Artificial Artifact membutuhkan formulasi yang dipahami Arcanist, fokus dan konsentrasi, kemampuan mental untuk menyusun serta mempertahankan pola, tenaga yang memadai, material yang sesuai, pola yang dapat diterapkan, dan tingkat Arcanist yang mampu menangani target. Biaya tenaga, durasi, ambang batas, dan konsekuensi produksi hanya boleh digunakan jika ditetapkan oleh mekanik resmi.
 
-Aturan operasional Thinker Tier 1–10, matriks peluang dasar, faktor pengerjaan, dan prosedur resolusi berada di `core/THINKER_AND_FORMULATION.md`. Matriks tersebut menetapkan peluang dasar, bukan jaminan mutlak. Modifikasi numerik situasional, efek bakat, dan metode resolusi yang belum disahkan tidak boleh dikarang GM.
+Aturan operasional Arcanist Tier 1–10, matriks peluang dasar, faktor pengerjaan, dan prosedur resolusi berada di `core/ARCANIST_AND_FORMULATION.md`. Matriks tersebut menetapkan peluang dasar, bukan jaminan mutlak. Modifikasi numerik situasional, efek bakat, dan metode resolusi yang belum disahkan tidak boleh dikarang GM.
 
 XIII. ATURAN KONSISTENSI KANON
 

@@ -21,7 +21,7 @@
 ## 2. Public Profile
 - **Appearance:** Described in established family canon as beautiful; other specific details are not established.
 - **Public personality:** Belum ditetapkan
-- **Publicly known background:** Belongs to the main branch of the Shen family, known for strategic talent and its elite tea-pavilion, intelligence, and Thinker networks.
+- **Publicly known background:** Belongs to the main branch of the Shen family, known for strategic talent and its elite tea-pavilion, intelligence, and Arcanist networks.
 - **Speech / mannerisms:** Belum ditetapkan
 - **Public reputation:** The Shen family is known for producing outstanding strategists; her individual public reputation is not yet specified.
 - **First-contact circumstances:** Belum ditetapkan
@@ -31,8 +31,8 @@
 - **Martial Soul:** Heavenly Crane — Myth
 - **Spirit Rings and abilities:** Belum ditetapkan
 - **Techniques / combat style:** Belum ditetapkan
-- **Thinker Grade:** ???
-- **Thinker specialties:** Her personal specialties are not established. The Shen family maintains its own advanced Thinkers.
+- **Arcanist Grade:** ???
+- **Arcanist specialties:** Her personal specialties are not established. The Shen family maintains its own advanced Arcanists.
 - **Equipment:** Belum ditetapkan
 - **Known limitations:** Belum ditetapkan
 - **Source module for mechanics:** `core/MARTIAL_SOUL.md` and relevant cultivation/combat modules.
@@ -75,7 +75,7 @@
 
 ## 8. Canon and Privacy Check
 - **Canon facts and source:** Name, age, title, family branch, Martial Soul, tier, and relationships are owner-established.
-- **Shen family background:** The family produces outstanding strategists; has hundreds of elite tea-pavilion establishments, a specialized high-level intelligence branch, and its own advanced Thinkers. It is one of several major parties entrusted with administration of the World Knowledge Tower. The Tower is an ancient divine relic from the Early Golden Age and is not owned by the Shen family.
+- **Shen family background:** The family produces outstanding strategists; has hundreds of elite tea-pavilion establishments, a specialized high-level intelligence branch, and its own advanced Arcanists. It is one of several major parties entrusted with administration of the World Knowledge Tower. The Tower is an ancient divine relic from the Early Golden Age and is not owned by the Shen family.
 - **GM estimates:** None added.
 - **Provisional details awaiting owner approval:** Personal cultivation, rings, techniques, temperament, and private motivations remain unestablished.
 - **Contradictions to resolve:** Exact family timeline and birthdays remain unspecified; childbirth ages are approximate.

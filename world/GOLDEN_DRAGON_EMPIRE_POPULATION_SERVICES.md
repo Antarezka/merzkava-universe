@@ -202,7 +202,7 @@ The two named academies in Huanglongcheng are the Golden Dragon Empire's only es
 - Introductory Spirit Beast identification, habitat awareness, danger signs, and basic Spirit Ring theory.
 - General physical preparation and safe training principles.
 - Basic history, geography, civic knowledge, and the difference between theory and demonstrated skill.
-- Introductory Thinker concepts and Artificial Artifact awareness; this does **not** qualify a student as a Thinker or authorize formulation/manufacturing.
+- Introductory Arcanist concepts and Artificial Artifact awareness; this does **not** qualify a student as a Arcanist or authorize formulation/manufacturing.
 
 A particular lesson or advanced course must be established from the academy's actual curriculum and official rules. No exclusive technique, rare curriculum, guaranteed breakthrough, or advanced restricted knowledge is implied.
 
@@ -228,7 +228,7 @@ The basic collection is designed for the general public, including commoners and
 2. **Martial Soul awakening:** the general concept of Martial Souls, the usual awakening age of four or later, what an awakening ceremony can reveal, and the distinction between awakening and obtaining a Spirit Ring.
 3. **Nine Spirit Realms:** the canonical order—Spirit Initiate, Spirit Adept, Spirit Elder, Spirit Monarch, Spirit King, Spirit Ancestor, Spirit Emperor, Spirit Sovereign, Spirit Primordial—and the fact that each Spirit Realm has Early, Middle, Late, and Peak stages. The collection explains the terms; it does not teach secret breakthrough methods.
 4. **Spirit Rings:** basic role, broad color/age categories where officially published, the need for compatibility and preparation, and the danger of attempted absorption. It does not promise a successful ring or reveal a specific beast's hidden capabilities.
-5. **Thinkers:** a general introduction to Thinkers, Thinker Grades as a separate measure from Spirit Realm, and the social use of Artificial Artifacts. It does not grant a Thinker Grade, formulation skill, or access to restricted production patterns.
+5. **Arcanists:** a general introduction to Arcanists, Arcanist Grades as a separate measure from Spirit Realm, and the social use of Artificial Artifacts. It does not grant a Arcanist Grade, formulation skill, or access to restricted production patterns.
 6. **Public safety and civic life:** how to seek help, recognize common hazards, find local public services, and distinguish verified information from rumor.
 
 ### 7.2 Access and knowledge boundaries
@@ -237,7 +237,7 @@ The basic collection is designed for the general public, including commoners and
 - Copying manuscripts, borrowing rare books, specialist instruction, and restricted collections may follow local rules. This file does not establish a universal fee schedule or unrestricted take-home borrowing.
 - Public collections contain **general knowledge, not omniscience**. They may be incomplete, regionally outdated, or wrong on a disputed topic; catalogue date and provenance matter.
 - Advanced cultivation methods, restricted Spirit Beast research, private family techniques, sensitive military information, dangerous formulations, and confidential Ordo threat reports are not part of the ordinary public collection.
-- The libraries teach concepts, not automatic abilities. Reading about a Spirit Beast does not make a reader able to defeat it; learning the names of the Spirit Realms does not grant cultivation; reading Thinker theory does not confer Thinker expertise.
+- The libraries teach concepts, not automatic abilities. Reading about a Spirit Beast does not make a reader able to defeat it; learning the names of the Spirit Realms does not grant cultivation; reading Arcanist theory does not confer Arcanist expertise.
 - The Ordo's religious authority does not give it ownership of local civil administration or of the World Knowledge Tower.
 
 ## 8. Grand Martial Soul Awakening Hall — public service note
@@ -258,7 +258,7 @@ The Grand Martial Soul Awakening Hall is a centralized imperial institution, not
 3. A listed branch is a known service point, not proof that it is fully staffed, well-funded, safe, open at the moment of a scene, or able to fulfil every request.
 4. The bank, Exchange, and Medicine Hall Society lists use prefecture seats as service hubs. Only two academies and three Ordo public libraries are specifically established in this register; it does not claim that those institutions exist in every prefecture, city, town, or village.
 5. Branch managers, academy principals, librarians, physicians, prices, admission rules, branch capacity, and local controversies may be established later through owner-approved NPC profiles or gameplay.
-7. For public knowledge, use `core/CULTIVATION_SYSTEM.md`, `core/MARTIAL_SOUL_AWAKENING.md`, `bestiary/SPIRIT_BEAST_RULES.md`, and `core/THINKER_AND_FORMULATION.md`. If a detail is absent or restricted in those sources, do not invent it as authoritative textbook content.
+7. For public knowledge, use `core/CULTIVATION_SYSTEM.md`, `core/MARTIAL_SOUL_AWAKENING.md`, `bestiary/SPIRIT_BEAST_RULES.md`, and `core/ARCANIST_AND_FORMULATION.md`. If a detail is absent or restricted in those sources, do not invent it as authoritative textbook content.
 
 ## 11. Related sources
 
@@ -268,5 +268,5 @@ The Grand Martial Soul Awakening Hall is a centralized imperial institution, not
 - Foundational academy concept: `core/CULTIVATOR_ACADEMIES.md`
 - Spirit Realms and awakening: `core/CULTIVATION_SYSTEM.md`, `core/MARTIAL_SOUL_AWAKENING.md`
 - Spirit Beast rules: `bestiary/SPIRIT_BEAST_RULES.md`
-- Thinker basics and limits: `core/THINKER_AND_FORMULATION.md`
+- Arcanist basics and limits: `core/ARCANIST_AND_FORMULATION.md`
 - Official public settlement/jurisdiction register: `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`

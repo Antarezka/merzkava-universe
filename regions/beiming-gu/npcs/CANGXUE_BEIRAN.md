@@ -31,8 +31,8 @@
 - **Martial Soul:** Not established.
 - **Spirit Rings and abilities:** Not established.
 - **Techniques / combat style:** No formal technique established; practical familiarity does not establish combat proficiency.
-- **Thinker Grade:** ???
-- **Thinker specialties:** Not established.
+- **Arcanist Grade:** ???
+- **Arcanist specialties:** Not established.
 - **Equipment:** Not established.
 - **Known limitations:** A survival-minded attitude does not guarantee accurate judgment or exceptional ability.
 - **Source module for mechanics:** Follow the official cultivation and regional sources.

@@ -20,7 +20,7 @@ Ji Ningzhao is the younger twin daughter of Maharaja Ji Haoyuan and the late Bai
 ## 3. Capabilities
 - Spirit Realm: Spirit Realm 3 — Spirit Elder, Early Stage.
 - Martial Soul: **Canglan Shenhua (沧澜神花), Bunga Ilahi Ombak Biru**. Its selected concept is a beautiful celestial water-lily/flower associated with blue tides and luminous petals.
-- Spirit Rings, specific powers, techniques, rarity, Thinker Grade, and equipment: Not established.
+- Spirit Rings, specific powers, techniques, rarity, Arcanist Grade, and equipment: Not established.
 - Do not infer a rare classification, special bloodline, guaranteed power, or Spirit Ring from this description.
 - Mechanics sources: core/MARTIAL_SOUL.md; core/MARTIAL_SOUL_AWAKENING.md; core/CULTIVATION_SYSTEM.md; core/SPIRIT_RING_RULES.md.
 
@@ -37,7 +37,7 @@ Her specific knowledge, mistaken beliefs, and secrets are not established. Her k
 |---|---|---|
 | Ji Haoyuan | Father | Living; Maharaja of Tianhai Yunzhou |
 | Bai Xuanyin | Mother | Deceased; revered Tianhai Yunzhou heroine |
-| Ji Zhaoning | Elder twin sister | Living; age 16; not awakened and focused on Thinker development |
+| Ji Zhaoning | Elder twin sister | Living; age 16; not awakened and focused on Arcanist development |
 
 ## 7. State and Continuity
 - Current status: Living; awakened; Spirit Realm 3 — Spirit Elder, Early Stage.

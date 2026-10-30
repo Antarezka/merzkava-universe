@@ -85,10 +85,10 @@ Only 2 villages are part of the Golden Dragon Empire's official thirteen-village
 - Risiko: pungutan liar, dokumen palsu, penipuan kontrak, pencurian barang mewah.
 
 
-## 6. Cultivation, Martial Souls, Spirit Beasts, and Thinkers
+## 6. Cultivation, Martial Souls, Spirit Beasts, and Arcanists
 
 - Lokasi eksplorasi: gudang kanal terbengkalai dekat Foxbridge, jalur kurir lama antara Guanhe dan Stone Mill, lorong air di kebun tua Plum Lantern. Tidak ada artefak langka yang dijamin.
-- Layanan Thinker dan penyalin kontrak terkonsentrasi di kota; jangan otomatis menempatkan fasilitas kelas tinggi di desa.
+- Layanan Arcanist dan penyalin kontrak terkonsentrasi di kota; jangan otomatis menempatkan fasilitas kelas tinggi di desa.
 
 
 ## 7. Factions and Local Authority
@@ -119,7 +119,7 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPC
 | Qin Zhongyi | Longyuan; exact assignment unconfirmed | Regional consolidation officer (former White Stag Prefecture) |Spirit Realm 5 — Spirit King, Middle Stage; tegas terhadap korupsi, kompromistis secara politik; Orientasi rakyat: tinggi; penegakan hukum 3/5 — moderat dan prosedural| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
 | Yue Qinghe | Longyuan; exact assignment unconfirmed | Imperial Heartland Circuit liaison officer |Spirit Realm 3 — Spirit Elder, Late Stage; berorientasi pada pertahanan wilayah; Orientasi rakyat: tinggi; penegakan hukum 3/5 — moderat dan prosedural| [Canonical roster/profile](GOLDEN_DRAGON_EMPIRE_OFFICIALS.md) |
 | Jun Haotian (君昊天) | Longyuan; exact residence unconfirmed | Emperor of the Golden Dragon Empire | Golden Heavenly Dragon, Myth; Spirit Realm 9 — Spirit Primordial, Middle Stage; age 42 | [Canonical roster/profile](../regions/golden-dragon-empire/npcs/JUN_HAOTIAN.md) |
-| Shen Yuehua (沈月华) | Longyuan; exact residence unconfirmed | Empress; main-branch member of the Shen family | Heavenly Crane, Myth; age 33; noted for her family's strategic tea-pavilion, intelligence, and Thinker traditions | [Canonical roster/profile](../regions/golden-dragon-empire/npcs/SHEN_YUEHUA.md) |
+| Shen Yuehua (沈月华) | Longyuan; exact residence unconfirmed | Empress; main-branch member of the Shen family | Heavenly Crane, Myth; age 33; noted for her family's strategic tea-pavilion, intelligence, and Arcanistry traditions | [Canonical roster/profile](../regions/golden-dragon-empire/npcs/SHEN_YUEHUA.md) |
 | Jun Ruiyuan (君睿渊) | Longyuan; exact residence unconfirmed | Crown Prince; eldest child | Golden Heavenly Qilin, Myth; age 17 | [Canonical roster/profile](../regions/golden-dragon-empire/npcs/JUN_RUIYUAN.md) |
 | Jun Yuejin (君月瑾) | Longyuan; exact residence unconfirmed | Imperial Princess; second child | Golden Celestial Crane, Myth; age 16 | [Canonical roster/profile](../regions/golden-dragon-empire/npcs/JUN_YUEJIN.md) |
 | Ying Wuxin | Huanglongcheng; exact pavilion location unconfirmed | Owner of an elite clothing pavilion | Public life: indulgent father; concealed identity is GM-only and must not be disclosed without credible discovery | [Canonical profile](NPC_YING_WUXIN.md) |
@@ -150,7 +150,7 @@ Use `templates/NPC_PROFILE_TEMPLATE.md` for full profiles of major recurring NPC
 - [ ] Add local authority and factions
 - [ ] Add NPC profiles and links
 - [ ] Add daily life, economy, and resources
-- [ ] Add local cultivation / Spirit Beast / Thinker details
+- [ ] Add local cultivation / Spirit Beast / Arcanist details
 - [ ] Reconcile confirmed additions with `world/MAP_AND_REGIONS.md`, `world/WORLD.md`, and `INDEX.md`
 
 

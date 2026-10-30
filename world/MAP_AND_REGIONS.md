@@ -91,7 +91,7 @@ The atlas currently names **13 rural villages across the seven regions** as role
 
 ## 3. Tianhai Yunzhou — Maritime Power
 
-Tianhai Yunzhou is centered on a giant floating island sustained by a Tier 9 Artificial Artifact. Its power depends on maritime governance, navigation, trade, defense, and advanced Thinker knowledge.
+Tianhai Yunzhou is centered on a giant floating island sustained by a Tier 9 Artificial Artifact. Its power depends on maritime governance, navigation, trade, defense, and advanced Arcanistry knowledge.
 
 The following regional and clan information is established in `world/WORLD.md`:
 

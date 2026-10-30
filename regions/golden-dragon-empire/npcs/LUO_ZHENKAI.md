@@ -31,8 +31,8 @@
 - **Martial Soul:** Not established.
 - **Spirit Rings and abilities:** Not established.
 - **Techniques / combat style:** Not established.
-- **Thinker Grade:** ???
-- **Thinker specialties:** Not established.
+- **Arcanist Grade:** ???
+- **Arcanist specialties:** Not established.
 - **Equipment:** Not established.
 - **Known limitations:** Commercial access does not imply political authority, combat skill, or verified knowledge.
 - **Source module for mechanics:** Follow the relevant official core modules.

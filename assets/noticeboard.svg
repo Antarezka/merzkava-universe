@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="1120" viewBox="0 0 960 1120" role="img" aria-labelledby="title desc">
 <title id="title">Merzkava Universe — The Noticeboard</title>
-<desc id="desc">Six dossier-style paper files introducing Merzkava's powers, hidden territories, consequential choices, Thinkers, a living world, and rumors versus facts. The original reading order and panel arrangement are preserved.</desc>
+<desc id="desc">Six dossier-style paper files introducing Merzkava's powers, hidden territories, consequential choices, Arcanists, a living world, and rumors versus facts. The original reading order and panel arrangement are preserved.</desc>
 <rect width="960" height="1120" fill="#F5F1E8"/>
 <path d="M0 0H960V1120H0Z" fill="none" stroke="#151515" stroke-width="12"/>
 <path d="M22 0L960 0V22L22 22Z" fill="#FFB36B"/>
@@ -66,9 +66,9 @@
     <rect x="41" y="628" width="892" height="156" fill="#C9C1B3" opacity=".75"/>
     <rect x="34" y="619" width="892" height="156" fill="#FFFFFF" stroke="#151515" stroke-width="4"/>
     <rect x="34" y="619" width="892" height="43" fill="#FFB36B"/>
-    <text x="58" y="647" fill="#151515" font-size="17" font-weight="900" letter-spacing="1.2">04 / THINKERS &amp; ARTIFICIAL ARTIFACTS</text>
+    <text x="58" y="647" fill="#151515" font-size="17" font-weight="900" letter-spacing="1.2">04 / ARCANISTS &amp; ARTIFICIAL ARTIFACTS</text>
     <text x="58" y="706" fill="#151515" font-size="27" font-weight="900">NOT EVERY PATH TO POWER BEGINS WITH CULTIVATION.</text>
-    <text x="58" y="744" fill="#514B45" font-size="18">Thinkers shape knowledge, formulations, and artifacts through skill.</text>
+    <text x="58" y="744" fill="#514B45" font-size="18">Arcanists shape knowledge, formulations, and artifacts through skill.</text>
     <g transform="rotate(5 861 642)">
       <rect x="819" y="627" width="84" height="23" fill="#F25C54" stroke="#151515" stroke-width="1.5"/>
       <text x="861" y="642" text-anchor="middle" fill="#151515" font-family="monospace" font-size="9" font-weight="900">RESEARCH</text>

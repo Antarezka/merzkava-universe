@@ -17,8 +17,8 @@
 - [Beiming Han](npcs/BEIMING_HAN.md)
 - [Beiming Xenhwa](npcs/BEIMING_XENHWA.md)
 - [Beiming Jingheng](npcs/BEIMING_JINGHENG.md)
-- [Beiming Nerva — Beiming Han's older sister; Thinker Grade 9](npcs/BEIMING_NERVA.md)
-- [Beiming Xuanyu — Beiming Clan head, Thinker Grade 9](npcs/BEIMING_XUANYU.md)
+- [Beiming Nerva — Beiming Han's older sister; Arcanist Grade 9](npcs/BEIMING_NERVA.md)
+- [Beiming Xuanyu — Beiming Clan head, Arcanist Grade 9](npcs/BEIMING_XUANYU.md)
 - [Xuanbing Yue — youth circle](npcs/XUANBING_YUE.md)
 - [Cangxue Beiran — youth circle](npcs/CANGXUE_BEIRAN.md)
 

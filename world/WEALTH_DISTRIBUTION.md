@@ -26,7 +26,7 @@ Shares follow the requested priority: Golden Dragon Empire, Tianhai Yunzhou, Bei
 **Total: 400.463.763.789.849 xg (100%).**
 
 - **Golden Dragon Empire — 45%:** largest concentrated economy, supported by its population, administration, agriculture, inland commerce, industry, clans, and dojos.
-- **Tianhai Yunzhou — 27%:** maritime trade, shipping, sea resources, advanced Thinker knowledge, and cross-regional exchange.
+- **Tianhai Yunzhou — 27%:** maritime trade, shipping, sea resources, advanced Arcanistry knowledge, and cross-regional exchange.
 - **Beiming Gu — 18%:** northern resources, mining, rare materials preserved by the cold, and difficult trade routes. Its smaller economic share does not negate its ruler's exceptional individual combat strength.
 - **Lawless Territories — 10%:** dispersed wealth in independent settlements, criminal organizations, smuggling, dangerous expeditions, hidden caches, and unregulated trade. This wealth is fragmented and not controlled by one ruler or unified faction.
 

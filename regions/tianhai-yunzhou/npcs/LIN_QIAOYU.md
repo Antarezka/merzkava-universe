@@ -11,17 +11,17 @@
 - **Species / people:** Human
 - **Age:** 16
 - **Home / usual residence:** Tianhai Yunzhou; exact district and residence unconfirmed.
-- **Usual base / duty location:** Thinker education and research environment; specific academy or institution not established.
+- **Usual base / duty location:** Arcanist education and research environment; specific academy or institution not established.
 - **Last confirmed location / current whereabouts:** Tianhai Yunzhou affiliation; current physical presence unconfirmed.
 - **Recurring visits / cover locations:** None established.
-- **Occupation / role:** Aspiring elite Thinker student.
+- **Occupation / role:** Aspiring elite Arcanist student.
 - **Affiliation:** Tianhai Yunzhou; exact institution unconfirmed.
 - **Social status:** Student from a non-ruling household; family standing not established.
 
 ## 2. Public Profile
 - **Appearance:** Not established.
 - **Public personality:** Curious, methodical, and willing to question accepted answers.
-- **Publicly known background:** Pursues Thinker knowledge and values reproducible results. No Thinker Grade or formal enrollment is established.
+- **Publicly known background:** Pursues Arcanistry knowledge and values reproducible results. No Arcanist Grade or formal enrollment is established.
 - **Speech / mannerisms:** Asks precise follow-up questions and dislikes unsupported claims.
 - **Public reputation:** A serious student among peers; broader reputation not established.
 - **First-contact circumstances:** A study discussion, public demonstration, or institutional event is plausible when supported by the scene.
@@ -31,11 +31,11 @@
 - **Martial Soul:** Not established.
 - **Spirit Rings and abilities:** Not established.
 - **Techniques / combat style:** Not established.
-- **Thinker Grade:** ???
-- **Thinker specialties:** Formal specialization not established; interest in Thinker study is established.
+- **Arcanist Grade:** ???
+- **Arcanist specialties:** Formal specialization not established; interest in Arcanist study is established.
 - **Equipment:** Not established.
 - **Known limitations:** Interest and study do not establish grade, certification, or artifact-making competence.
-- **Source module for mechanics:** `core/THINKER_AND_FORMULATION.md`; other abilities follow relevant official modules.
+- **Source module for mechanics:** `core/ARCANIST_AND_FORMULATION.md`; other abilities follow relevant official modules.
 
 ## 4. Motivations and Agency
 - **Immediate goal:** Find a reliable way to test and compare competing technical explanations.
@@ -57,9 +57,9 @@
 ## 6. Relationships
 | Person / group | Relationship | Disposition | Current status | Basis / event |
 |---|---|---|---|---|
-| Ji Zhaoning | Respects her commitment to Thinker development and is interested in exchanging ideas; does not presume personal access | Supportive / respectful | Established for this circle; actual meeting is not implied | Owner-approved youth-circle design |
+| Ji Zhaoning | Respects her commitment to Arcanist development and is interested in exchanging ideas; does not presume personal access | Supportive / respectful | Established for this circle; actual meeting is not implied | Owner-approved youth-circle design |
 | Duan Haicheng | Disputes his tendency to prioritize marketability over verification | Intellectual rivalry / contra on methods | Established for this circle | Owner-approved youth-circle design |
-| Tianhai Yunzhou Thinker tradition | Cultural and educational interest, not automatic institutional membership | Supportive | Established | Profile background |
+| Tianhai Yunzhou Arcanistry tradition | Cultural and educational interest, not automatic institutional membership | Supportive | Established | Profile background |
 
 ## 7. State and Continuity
 - **Current status:** Active recurring NPC.
@@ -75,5 +75,5 @@
 ## 8. Canon and Privacy Check
 - **Canon facts and source:** This profile is an owner-approved addition to the recurring NPC roster.
 - **GM estimates:** No capability, grade, or current-presence estimates are canon.
-- **Provisional details awaiting owner approval:** Exact institution, Thinker Grade, technical specialty, and capabilities remain unspecified.
+- **Provisional details awaiting owner approval:** Exact institution, Arcanist Grade, technical specialty, and capabilities remain unspecified.
 - **Contradictions to resolve:** None known.

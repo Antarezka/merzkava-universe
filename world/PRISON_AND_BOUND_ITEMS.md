@@ -6,7 +6,7 @@
 
 ## 1. Core principle
 
-A prison restraint is a **bound item**: an object attached to, worn by, or bound to a detainee to restrict movement, power, access, or behavior. It may be a traditional restraint, an Artificial Artifact manufactured by a Thinker, an Ancient Artifact, or a Relic. These origins are not interchangeable. An item is not automatically an Artificial Artifact merely because it uses formations, nor is it automatically a Relic because its effects seem mysterious.
+A prison restraint is a **bound item**: an object attached to, worn by, or bound to a detainee to restrict movement, power, access, or behavior. It may be a traditional restraint, an Artificial Artifact manufactured by a Arcanist, an Ancient Artifact, or a Relic. These origins are not interchangeable. An item is not automatically an Artificial Artifact merely because it uses formations, nor is it automatically a Relic because its effects seem mysterious.
 
 Restraints can be combined when their functions are compatible. They are not universally interchangeable: a device that suppresses Martial Soul activation does not necessarily suppress physical strength, and a boundary seal does not necessarily prevent speech, thought, or escape through every possible method.
 
@@ -131,7 +131,7 @@ A prison may be lawful, corrupt, faction-run, military, secret, or privately ope
 
 ## 6. Appraisal, records, and unknown effects
 
-For unidentified or disputed items, follow `core/TIER_ASSESSMENT_AND_APPRAISAL.md`. For manufactured restraints, follow `core/THINKER_AND_FORMULATION.md` and `world/ARTIFICIAL_ARTIFACTS.md`. For Ancient Artifacts and Relics, follow `world/ARTIFACTS_AND_RELICS.md`.
+For unidentified or disputed items, follow `core/TIER_ASSESSMENT_AND_APPRAISAL.md`. For manufactured restraints, follow `core/ARCANIST_AND_FORMULATION.md` and `world/ARTIFICIAL_ARTIFACTS.md`. For Ancient Artifacts and Relics, follow `world/ARTIFACTS_AND_RELICS.md`.
 
 Do not invent an artifact tier, maker, price, activation condition, duration, escape difficulty, or penalty. Use the canonical unknown-item label where required. Once an item is properly identified and recorded, its specific description governs.
 

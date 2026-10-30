@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="2600" height="1840" viewBox="0 0 2600 1840" role="img" aria-labelledby="title desc">
-<title id="title">Merzkava Universe — Tangled World Investigation Board</title>
-<desc id="desc">A broad, chaotic archival evidence wall with taut multicolored blue and red threads, curled and folded photographs, character silhouettes, miniature land and sea charts, Spirit Realm lore, factions, history, Arcanistry and regional records.</desc>
+<title id="title">Merzkava Universe — Eastern Field Investigation Board</title>
+<desc id="desc">An eastern-inspired lacquered investigation board with layered field photographs, character portraits, land and sea charts, pinned papers, and taut blue-red evidence threads.</desc>
 <defs>
- <linearGradient id="frame" x2="0" y2="1"><stop stop-color="#62503D"/><stop offset=".45" stop-color="#282827"/><stop offset="1" stop-color="#14191C"/></linearGradient>
- <linearGradient id="board" x2="1" y2="1"><stop stop-color="#263E46"/><stop offset=".55" stop-color="#34484C"/><stop offset="1" stop-color="#1C2D33"/></linearGradient>
+ <linearGradient id="frame" x2="0" y2="1"><stop stop-color="#9A6B3E"/><stop offset=".22" stop-color="#493126"/><stop offset=".62" stop-color="#241D19"/><stop offset="1" stop-color="#120F0D"/></linearGradient>
+ <linearGradient id="board" x2="1" y2="1"><stop stop-color="#263D3B"/><stop offset=".55" stop-color="#344943"/><stop offset="1" stop-color="#1B302D"/></linearGradient>
  <linearGradient id="aged" x2=".8" y2="1"><stop stop-color="#F6EEDC"/><stop offset=".55" stop-color="#E8DCC5"/><stop offset="1" stop-color="#CBBBA0"/></linearGradient>
  <linearGradient id="photo" x2="0" y2="1"><stop stop-color="#78898A"/><stop offset=".5" stop-color="#42585D"/><stop offset="1" stop-color="#1E2D34"/></linearGradient>
  <linearGradient id="sea" x2="1" y2="1"><stop stop-color="#547E89"/><stop offset="1" stop-color="#1D3B48"/></linearGradient>
@@ -12,14 +12,22 @@
 </defs>
 <rect width="2600" height="1840" fill="#0D1316"/>
 <rect x="14" y="14" width="2572" height="1812" rx="15" fill="url(#frame)" stroke="#0A0D0F" stroke-width="12"/>
+<path d="M35 70L70 35H2530L2565 70V1770L2530 1805H70L35 1770Z" fill="none" stroke="#C49A58" stroke-width="5" opacity=".85"/>
+<path d="M48 92Q130 42 212 92T376 92M2224 92Q2306 42 2388 92T2550 92M48 1750Q130 1800 212 1750T376 1750M2224 1750Q2306 1800 2388 1750T2550 1750" fill="none" stroke="#C49A58" stroke-width="3" opacity=".65"/>
 <rect x="38" y="38" width="2524" height="1764" fill="#18272C" stroke="#A58D6D" stroke-width="4"/>
 <rect x="55" y="55" width="2490" height="1730" fill="url(#board)" stroke="#10191D" stroke-width="9"/>
 <rect x="55" y="55" width="2490" height="1730" fill="url(#cloth)"/><rect x="55" y="55" width="2490" height="1730" fill="url(#dust)"/>
+<!-- restrained eastern cloud-scroll ornaments and lacquer details -->
+<g fill="none" stroke="#C49A58" stroke-width="3" opacity=".34">
+ <path d="M82 220Q110 190 138 220Q166 250 194 220Q222 190 250 220M2350 1640Q2378 1610 2406 1640Q2434 1670 2462 1640Q2490 1610 2518 1640"/>
+ <path d="M82 1640Q110 1610 138 1640Q166 1670 194 1640Q222 1610 250 1640M2350 220Q2378 190 2406 220Q2434 250 2462 220Q2490 190 2518 220"/>
+</g>
+<g fill="#B98B4B" stroke="#E0BD78" stroke-width="2"><circle cx="72" cy="72" r="9"/><circle cx="2528" cy="72" r="9"/><circle cx="72" cy="1768" r="9"/><circle cx="2528" cy="1768" r="9"/></g>
 <!-- header strip, deliberately crooked -->
 <g transform="rotate(-.8 1280 125)"><path d="M85 62L2490 76L2480 207L74 192Z" fill="url(#aged)" stroke="#8E7C63" stroke-width="3"/>
-<path d="M103 79L2460 93" stroke="#B7A58A" stroke-width="2"/><text x="125" y="112" font-family="monospace" font-size="17" letter-spacing="5" fill="#A4484D">MERZKAVA / FIELD ARCHIVE / UNSORTED INVESTIGATION WALL 07</text>
-<text x="120" y="163" font-family="Georgia,serif" font-size="51" font-weight="bold" letter-spacing="2" fill="#28363B">A WORLD OF THREADS, TENSIONS &amp; HIDDEN HISTORY</text>
-<text x="126" y="188" font-family="Georgia,serif" font-size="15" font-style="italic" fill="#59666A">Some leads are connected. Some are wrong. Some have not yet been found.</text>
+<path d="M103 79L2460 93" stroke="#B7A58A" stroke-width="2"/><text x="125" y="111" font-family="serif" font-size="17" letter-spacing="4" fill="#9D3F43">MERZKAVA · EASTERN FIELD ARCHIVE</text>
+<text x="120" y="163" font-family="Georgia,serif" font-size="57" font-weight="bold" letter-spacing="3" fill="#28363B">THE INVESTIGATION BOARD</text>
+<text x="126" y="188" font-family="serif" font-size="15" font-style="italic" fill="#59666A">Land · Sea · Spirit · Memory</text>
 <g transform="rotate(8 2350 135)"><rect x="2255" y="90" width="185" height="75" fill="#A9474D" stroke="#6F3439" stroke-width="3"/><text x="2348" y="120" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="2" fill="#FFF0DA">CASE FILE</text><text x="2348" y="148" text-anchor="middle" font-family="Georgia,serif" font-size="24" font-weight="bold" fill="#FFF0DA">NO. 07</text></g></g>
 <!-- Taut investigation strings. Each path is a straight, pulled segment between visible pins. -->
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -159,7 +167,32 @@
 <g transform="rotate(8 1130 680)"><rect x="1075" y="650" width="122" height="58" fill="#CDBB9B" stroke="#796A55" stroke-width="2"/><text x="1136" y="675" text-anchor="middle" font-family="monospace" font-size="10" fill="#A4484D">CHECK SOURCE</text><text x="1136" y="694" text-anchor="middle" font-family="Georgia,serif" font-size="12" fill="#35454A">not hearsay</text></g>
 <g transform="rotate(-7 1990 565)"><path d="M1940 530L2050 535L2040 594L1935 588Z" fill="#D8C9AD" stroke="#82715C" stroke-width="2"/><text x="1990" y="555" text-anchor="middle" font-family="monospace" font-size="10" fill="#A4484D">FIELD WARNING</text><text x="1990" y="576" text-anchor="middle" font-family="Georgia,serif" font-size="12" fill="#35454A">deep water</text></g>
 <g transform="rotate(4 710 1100)"><path d="M660 1065L770 1070L760 1125L650 1118Z" fill="#E6D9C2" stroke="#82715C" stroke-width="2"/><text x="710" y="1090" text-anchor="middle" font-family="monospace" font-size="10" fill="#A4484D">WHO WROTE THIS?</text><text x="710" y="1110" text-anchor="middle" font-family="Georgia,serif" font-size="12" fill="#35454A">compare accounts</text></g>
+<!-- additional character field photographs: distinct faces, not more generic documents -->
+<g transform="rotate(5 735 1370)">
+ <rect x="635" y="1190" width="178" height="245" fill="#E9DDC6" stroke="#806D52" stroke-width="4"/>
+ <rect x="647" y="1202" width="154" height="183" fill="#34494A"/>
+ <path d="M660 1368Q666 1305 704 1290Q685 1260 701 1238Q724 1212 748 1238Q770 1260 753 1291Q789 1310 790 1368Z" fill="#202C2D"/>
+ <path d="M696 1260Q710 1222 749 1241L761 1270L739 1260L722 1245L706 1277Z" fill="#D6C7A9"/>
+ <path d="M678 1320L660 1368H790L767 1314L730 1300Z" fill="#9B7861"/>
+ <text x="649" y="1408" font-family="monospace" font-size="10" fill="#9D3F43">PORTRAIT / EASTERN FILE</text>
+</g>
+<g transform="rotate(-6 900 1430)">
+ <rect x="820" y="1240" width="190" height="260" fill="#E8DCC5" stroke="#806D52" stroke-width="4"/>
+ <rect x="832" y="1252" width="166" height="194" fill="#293E45"/>
+ <path d="M844 1430Q849 1360 890 1340Q870 1310 890 1279Q916 1250 945 1280Q966 1310 945 1340Q988 1364 986 1430Z" fill="#18282F"/>
+ <path d="M880 1304Q899 1257 944 1280L962 1316L938 1305L914 1284L894 1324Z" fill="#D7C9B2"/>
+ <path d="M855 1380L845 1430H986L972 1375L930 1352Z" fill="#667E7C"/>
+ <text x="837" y="1470" font-family="monospace" font-size="10" fill="#9D3F43">PORTRAIT / LOST WITNESS</text>
+</g>
+<g transform="rotate(3 1050 1340)">
+ <rect x="1015" y="1190" width="150" height="210" fill="#E9DDC6" stroke="#806D52" stroke-width="4"/>
+ <rect x="1026" y="1201" width="128" height="151" fill="#3D5353"/>
+ <circle cx="1090" cy="1250" r="26" fill="#C9B99D"/>
+ <path d="M1040 1340Q1043 1284 1090 1282Q1138 1284 1141 1340Z" fill="#A1A18D"/>
+ <path d="M1060 1234Q1073 1200 1104 1218L1120 1244L1099 1237L1083 1221Z" fill="#252D2C"/>
+ <text x="1027" y="1378" font-family="monospace" font-size="9" fill="#9D3F43">ARCHIVE / UNKNOWN</text>
+</g>
 <!-- pinheads exactly at taut-line junctions -->
 <g fill="#D6E9E8" stroke="#263C43" stroke-width="1.5"><circle cx="180" cy="310" r="5"/><circle cx="510" cy="250" r="5"/><circle cx="830" cy="380" r="5"/><circle cx="1190" cy="265" r="5"/><circle cx="1510" cy="365" r="5"/><circle cx="1870" cy="260" r="5"/><circle cx="2310" cy="370" r="5"/><circle cx="370" cy="690" r="5"/><circle cx="735" cy="575" r="5"/><circle cx="1030" cy="780" r="5"/><circle cx="1390" cy="575" r="5"/><circle cx="1720" cy="745" r="5"/><circle cx="2110" cy="620" r="5"/><circle cx="230" cy="1160" r="5"/><circle cx="640" cy="1330" r="5"/><circle cx="1170" cy="1180" r="5"/><circle cx="1510" cy="960" r="5"/><circle cx="1870" cy="1120" r="5"/><circle cx="2290" cy="1330" r="5"/><circle cx="900" cy="1570" r="5"/><circle cx="1510" cy="1410" r="5"/><circle cx="1990" cy="1560" r="5"/></g>
-<path d="M90 1695L2505 1695" stroke="#A58D6D" stroke-width="2"/><text x="105" y="1730" font-family="monospace" font-size="13" letter-spacing="2" fill="#D7C7A9">MERZKAVA UNIVERSE / UNFINISHED INVESTIGATION / LAND, SEA, SPIRIT &amp; MEMORY</text><text x="2490" y="1730" text-anchor="end" font-family="monospace" font-size="12" fill="#9EDCF1">PULLED THREADS / MULTIPLE LEADS / VERIFY THE CANON</text>
+<path d="M90 1695L2505 1695" stroke="#A58D6D" stroke-width="2"/><text x="105" y="1730" font-family="monospace" font-size="13" letter-spacing="2" fill="#D7C7A9">MERZKAVA UNIVERSE / EASTERN FIELD ARCHIVE / LAND, SEA, SPIRIT &amp; MEMORY</text><text x="2490" y="1730" text-anchor="end" font-family="monospace" font-size="12" fill="#9EDCF1">PULLED THREADS / MULTIPLE LEADS / VERIFY THE CANON</text>
 </svg>

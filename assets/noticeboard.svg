@@ -103,9 +103,9 @@
  <text x="880" y="446" font-family="Arial" font-size="14" fill="#39494D">of Arcanistry specialization. Not the only place where</text>
  <text x="880" y="466" font-family="Arial" font-size="14" fill="#39494D">Arcanists, workshops or research groups exist.</text>
  <g font-family="Arial" font-size="13" fill="#39494D">
-  <text x="884" y="501">• Official Grade examinations & credentials</text>
-  <text x="884" y="522">• Research, advanced study & technical standards</text>
-  <text x="884" y="543">• Artifact inspection, provenance & quality review</text>
+  <text x="884" y="501">• Official Grade examinations &amp; credentials</text>
+  <text x="884" y="522">• Research, advanced study &amp; technical standards</text>
+  <text x="884" y="543">• Artifact inspection, provenance &amp; quality review</text>
   <text x="884" y="564">• Safety, materials and formulation research</text>
  </g>
  <g transform="rotate(6 1265 300)"><rect x="1212" y="280" width="92" height="28" fill="#A84950"/><text x="1258" y="299" text-anchor="middle" font-family="monospace" font-size="10" font-weight="bold" fill="#FFF1DE">CENTRAL</text></g>
@@ -128,12 +128,12 @@
  <text x="904" y="669" font-family="monospace" font-size="11" letter-spacing="1.5" fill="#A0444A">INSTITUTE / ACTIVE RESEARCH AREAS</text>
  <text x="902" y="705" font-family="Georgia,serif" font-size="23" font-weight="bold" fill="#29383C">WHAT THEY STUDY</text>
  <g font-family="Arial" font-size="14" fill="#3B494D">
-  <text x="906" y="740">01  Formation Engraver design & precision methods</text>
-  <text x="906" y="768">02  Material testing, classification & preparation</text>
-  <text x="906" y="796">03  Formulation, mixing & repeatability</text>
+  <text x="906" y="740">01  Formation Engraver design &amp; precision methods</text>
+  <text x="906" y="768">02  Material testing, classification &amp; preparation</text>
+  <text x="906" y="796">03  Formulation, mixing &amp; repeatability</text>
   <text x="906" y="824">04  Complex engraving for Tier 6 and above</text>
   <text x="906" y="852">05  Technique optimization for Tier 5 and below</text>
-  <text x="906" y="880">06  Testing, failure analysis, provenance & safety</text>
+  <text x="906" y="880">06  Testing, failure analysis, provenance &amp; safety</text>
  </g>
  <use href="#pin" x="1290" y="638"/>
 </g>

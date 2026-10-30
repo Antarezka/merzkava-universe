@@ -19,7 +19,7 @@ Regional association does not by itself prove that an organization owns or contr
 
 - **Poor agricultural soil:** Much of the established Lawless Territories has poor soil for crops and similar cultivation. Food is scarce compared with well-supported farming regions, and ordinary food quality tends to be low. Better food can exist where imported, traded, specially cultivated, or reserved for wealthier patrons; it is not universally unavailable.
 - **Uneven livelihoods:** Residents may be ordinary farmers, fishers, hunters, craftspeople, traders, transporters, innkeepers, smugglers, fixers, independent cultivators, bounty hunters, or criminals. A person's residence here does not prove guilt or violent intent.
-- **Small entertainment houses:** Modest houses of entertainment cater to criminals, heterodox Spirit Realm experts, travelers, and other NPCs. They are local services, not automatically elite establishments or faction headquarters. Specific names, services, fees, and staff remain unestablished until recorded.
+- **Small entertainment houses:** Modest houses of entertainment cater to criminals, independent or unconventional Spirit Realm experts, travelers, and other NPCs. They are local services, not automatically elite establishments or faction headquarters. Specific names, services, fees, and staff remain unestablished until recorded.
 - **Risk and opportunity:** Lack of one central authority creates room for independent trade, unusual services, black markets, exploitation, and local protection arrangements. It does not mean every transaction is fraudulent or every encounter is hostile.
 
 ## 2.1 Concealed Shadow Authority — Crimson Sovereign Court
@@ -61,7 +61,7 @@ Some venues associated with Hollow Fang Alliance run illegal sparring arenas wit
 
 ### 3.4 Elite underground auctions
 
-Several Lawless Territories organizations sponsor or cooperate in elite auctions for high-level criminal organizations, wealthy underworld patrons, and heterodox Spirit Realm experts. No single organization is established as owning every auction.
+Several Lawless Territories organizations sponsor or cooperate in elite auctions for high-level criminal organizations, wealthy underworld patrons, and independent or unconventional Spirit Realm experts. No single organization is established as owning every auction.
 
 Known or plausible catalogue categories explicitly established by this canon include:
 - Rare half-beast individuals/lineages, including rare variants, traded illicitly as people rather than ordinary goods.

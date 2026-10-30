@@ -26,8 +26,8 @@
 <!-- header strip, deliberately crooked -->
 <g transform="rotate(-.8 1280 125)"><path d="M85 62L2490 76L2480 207L74 192Z" fill="url(#aged)" stroke="#8E7C63" stroke-width="3"/>
 <path d="M103 79L2460 93" stroke="#B7A58A" stroke-width="2"/><text x="125" y="111" font-family="serif" font-size="17" letter-spacing="4" fill="#9D3F43">MERZKAVA · EASTERN FIELD ARCHIVE</text>
-<text x="120" y="151" font-family="Georgia,serif" font-size="39" font-weight="bold" letter-spacing="2" fill="#28363B">THE INVESTIGATION BOARD</text>
-<text x="126" y="179" font-family="serif" font-size="13" font-style="italic" fill="#59666A">Land · Sea · Spirit · Memory</text>
+<text x="120" y="148" font-family="Georgia,serif" font-size="34" font-weight="bold" letter-spacing="1.4" fill="#28363B">THE INVESTIGATION BOARD</text>
+<text x="126" y="177" font-family="serif" font-size="12" font-style="italic" fill="#59666A">Land · Sea · Spirit · Memory</text>
 <g transform="rotate(8 2350 135)"><rect x="2255" y="90" width="185" height="75" fill="#A9474D" stroke="#6F3439" stroke-width="3"/><text x="2348" y="120" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="2" fill="#FFF0DA">CASE FILE</text><text x="2348" y="148" text-anchor="middle" font-family="Georgia,serif" font-size="24" font-weight="bold" fill="#FFF0DA">NO. 07</text></g></g>
 <!-- MAIN LAND/SEA CHART: torn folded cartographic sheet -->
 <g transform="rotate(-3.1 330 450)">
@@ -183,31 +183,33 @@
  <path d="M1060 1234Q1073 1200 1104 1218L1120 1244L1099 1237L1083 1221Z" fill="#252D2C"/>
  <text x="1027" y="1378" font-family="monospace" font-size="9" fill="#9D3F43">ARCHIVE / UNKNOWN</text>
 </g>
-<!-- Taut investigation strings. Each path is a straight, pulled segment between visible pins. -->
-<g fill="none" stroke-linecap="round" stroke-linejoin="round">
- <g stroke-width="1.7">
-  <g stroke="#9EDCF1"><path d="M180 310L510 250L830 380L1190 265L1510 365L1870 260L2310 370"/><path d="M180 310L370 690L735 575L1030 780L1390 575L1720 745L2110 620L2310 370"/><path d="M510 250L610 1030L1030 780L1170 1180L1510 960L1870 1120L2290 1330"/><path d="M830 380L735 575L640 1330L990 1510L1170 1180L1510 1410"/><path d="M1190 265L1390 575L1510 960L1720 745L1870 1120L2110 620"/><path d="M1510 365L1720 745L1870 1120L2290 1330"/><path d="M370 690L230 1160L640 1330L900 1570"/><path d="M2110 620L2320 930L2290 1330L1990 1560"/></g>
-  <g stroke="#79B6D6"><path d="M260 530L735 575L890 300L1390 575L1610 300L2110 620"/><path d="M610 1030L1030 780L1320 1030L1720 745L2020 980L2320 930"/><path d="M230 1160L570 890L990 1510L1390 575"/><path d="M1510 960L1870 1120L2020 1450L2290 1330"/></g>
-  <g stroke="#C65A62"><path d="M180 310L735 575L610 1030L230 1160"/><path d="M510 250L1030 780L1390 575L1870 260"/><path d="M830 380L1190 265L1510 365L1720 745L1510 960"/><path d="M370 690L640 1330L1170 1180L1870 1120"/><path d="M1030 780L900 1570"/><path d="M1720 745L1990 1560"/><path d="M1390 575L1170 1180L1510 1410L2290 1330"/></g>
-  <g stroke="#E28B8E"><path d="M260 530L370 690L890 300L1190 265"/><path d="M890 300L1030 780L1320 1030L1510 960"/><path d="M1610 300L1720 745L2020 980L2110 620"/><path d="M570 890L610 1030L990 1510L1510 1410"/></g>
- </g>
-</g>
-<!-- cross-links intentionally pass OVER portrait prints and evidence papers -->
-<g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.1">
- <g stroke="#C65A62">
-  <path d="M510 250L735 575L900 1320L1170 1180L1510 960L2110 620"/>
-  <path d="M640 1330L735 1310L900 1370L1090 1290L1170 1180"/>
-  <path d="M1030 780L900 1320L1510 1410L1990 1560"/>
-  <path d="M1390 575L1720 745L1990 1320L2290 1330"/>
- </g>
- <g stroke="#79B6D6">
-  <path d="M370 690L735 575L900 1320L1170 1180L1510 960"/>
-  <path d="M610 1030L735 1310L900 1370L1090 1290L1510 1410"/>
-  <path d="M830 380L1030 780L1170 1180L1510 960L1870 1120"/>
-  <path d="M1510 365L1720 745L1990 1320L2290 1330"/>
- </g>
-</g>
 <!-- pinheads exactly at taut-line junctions -->
 <g fill="#D6E9E8" stroke="#263C43" stroke-width="1.5"><circle cx="180" cy="310" r="5"/><circle cx="510" cy="250" r="5"/><circle cx="830" cy="380" r="5"/><circle cx="1190" cy="265" r="5"/><circle cx="1510" cy="365" r="5"/><circle cx="1870" cy="260" r="5"/><circle cx="2310" cy="370" r="5"/><circle cx="370" cy="690" r="5"/><circle cx="735" cy="575" r="5"/><circle cx="1030" cy="780" r="5"/><circle cx="1390" cy="575" r="5"/><circle cx="1720" cy="745" r="5"/><circle cx="2110" cy="620" r="5"/><circle cx="230" cy="1160" r="5"/><circle cx="640" cy="1330" r="5"/><circle cx="1170" cy="1180" r="5"/><circle cx="1510" cy="960" r="5"/><circle cx="1870" cy="1120" r="5"/><circle cx="2290" cy="1330" r="5"/><circle cx="900" cy="1570" r="5"/><circle cx="1510" cy="1410" r="5"/><circle cx="1990" cy="1560" r="5"/></g>
 <path d="M90 1695L2505 1695" stroke="#A58D6D" stroke-width="2"/><text x="105" y="1730" font-family="monospace" font-size="13" letter-spacing="2" fill="#D7C7A9">MERZKAVA UNIVERSE / EASTERN FIELD ARCHIVE / LAND, SEA, SPIRIT &amp; MEMORY</text><text x="2490" y="1730" text-anchor="end" font-family="monospace" font-size="12" fill="#9EDCF1">PULLED THREADS / MULTIPLE LEADS / VERIFY THE CANON</text>
+
+<!-- FINAL TOPMOST THREAD LAYER: taut red and blue cords cross every evidence surface -->
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+ <g stroke="#17272D" stroke-width="10" opacity=".88">
+  <path d="M180 310L510 250L735 575L900 1320L1170 1180L1510 960L1870 1120L2290 1330"/>
+  <path d="M260 530L370 690L735 575L1030 780L1390 575L1720 745L1990 1320L2290 1330"/>
+  <path d="M510 250L610 1030L735 1310L900 1370L1090 1290L1510 1410L1990 1560"/>
+  <path d="M830 380L1030 780L1170 1180L1510 960L1870 1120L2110 620"/>
+  <path d="M1190 265L1390 575L1510 960L1720 745L1870 1120L2290 1330"/>
+  <path d="M1510 365L1720 745L1990 1320L2290 1330"/>
+  <path d="M370 690L230 1160L640 1330L900 1570"/>
+  <path d="M890 300L1030 780L1320 1030L1510 1410L1990 1560"/>
+ </g>
+ <g stroke="#168FC2" stroke-width="5.5">
+  <path d="M180 310L510 250L735 575L900 1320L1170 1180L1510 960L1870 1120L2290 1330"/>
+  <path d="M260 530L370 690L735 575L1030 780L1390 575L1720 745L1990 1320L2290 1330"/>
+  <path d="M510 250L610 1030L735 1310L900 1370L1090 1290L1510 1410L1990 1560"/>
+  <path d="M830 380L1030 780L1170 1180L1510 960L1870 1120L2110 620"/>
+ </g>
+ <g stroke="#C93648" stroke-width="5.5">
+  <path d="M510 250L1030 780L1390 575L1870 260L2110 620L2290 1330"/>
+  <path d="M180 310L735 575L610 1030L230 1160L640 1330L1170 1180L1870 1120"/>
+  <path d="M830 380L1190 265L1510 365L1720 745L1510 960L1990 1560"/>
+  <path d="M370 690L735 1310L900 1370L1090 1290L1510 1410L2290 1330"/>
+ </g>
+</g>
 </svg>

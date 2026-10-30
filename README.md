@@ -24,7 +24,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ### ✦ READY-TO-COPY ROLEPLAY HASH ✦
 
-**Latest pinned source:** `2649245`
+**Latest pinned source:** `5a7de66`
 
 </div>
 <!-- RP_SOURCE_END -->
@@ -260,9 +260,6 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
   Hash: ``07cae10`` | Ver: ``Nightly-v4.0.11`` · ``Stable-v4.0.1``
   Consolidates all numeric absorption formulas in §6.1, removes conflicting legacy voluntary-sync wording, separates permanent-defect chance from the §5 deviation variable, and keeps INDEX/Authority Order routed to one source.
 
-- ✦ **Stable Version GitHub Mark Restored**
-  Hash: ``e41e912`` | Ver: ``Nightly-v4.0.10`` · ``Stable-v4.0.1``
-  Restores the GitHub symbol above the Stable badge, matching the Nightly version cell without changing version assets or layout.
 
 
 </div>

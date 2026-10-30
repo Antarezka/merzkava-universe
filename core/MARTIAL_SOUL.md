@@ -5,6 +5,9 @@ Cakupan: peran Martial Soul, awakening, pencatatan karakteristik, dan batas inte
 
 Modul ini hanya mengunci hal yang sudah ditetapkan dalam canon proyek. Rincian yang belum disepakati ditandai sebagai belum ditetapkan, bukan diisi dengan mekanik rekaan.
 
+
+**Tradition boundary:** Martial Soul may be studied through both Soul-Nyuma and Soul-Zoun, which share the same complete Spirit Realm domain but approach its natural order and aberrations differently. This doctrine does not change Martial Soul mechanics or grant abilities. See `core/SPIRIT_REALM_TRADITIONS.md`.
+
 ---
 
 ## 1. Peran Martial Soul

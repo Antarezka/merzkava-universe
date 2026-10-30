@@ -8,11 +8,7 @@
  <linearGradient id="photo" x2="0" y2="1"><stop stop-color="#66777A"/><stop offset="1" stop-color="#27343A"/></linearGradient>
  <pattern id="cloth" width="28" height="28" patternUnits="userSpaceOnUse"><rect width="28" height="28" fill="#304249"/><path d="M0 5H28M0 19H28M6 0V28M20 0V28" stroke="#829397" stroke-width=".45" opacity=".16"/><circle cx="4" cy="23" r=".8" fill="#B7C3BC" opacity=".12"/></pattern>
  <pattern id="grain" width="34" height="34" patternUnits="userSpaceOnUse"><rect width="34" height="34" fill="none"/><path d="M2 8l8-2m9 17l11-3M4 31l6-2M24 5l7 1" stroke="#E4D7C1" stroke-width=".7" opacity=".12"/><circle cx="16" cy="9" r=".8" fill="#E4D7C1" opacity=".16"/></pattern>
- <filter id="lift" x="-35%" y="-35%" width="170%" height="180%"><feGaussianBlur in="SourceAlpha" stdDeviation="5"/><feOffset dx="4" dy="7"/><feComponentTransfer><feFuncA type="linear" slope=".42"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
- <filter id="soft"><feGaussianBlur stdDeviation="1.2"/></filter>
- <g id="pin"><circle r="8" fill="#20292C" stroke="#B9B6A8" stroke-width="1.2"/><circle cy="-1.5" r="3.2" fill="#D6C7A9"/><path d="M-2 5L0 11L2 5" stroke="#A8A79C" stroke-width="1"/></g>
- <g id="tape"><path d="M0 0L82 -3L86 18L3 21Z" fill="#D9D0B9" opacity=".72" stroke="#9C927D" stroke-width=".6"/></g>
-</defs>
+ </defs>
 <!-- antique frame and deep fabric board -->
 <rect width="1440" height="1560" fill="#111719"/>
 <rect x="18" y="18" width="1404" height="1524" rx="12" fill="url(#wood)" stroke="#0B1012" stroke-width="10"/>
@@ -23,7 +19,7 @@
 <!-- faint ruled archival marks -->
 <g stroke="#AFC2C0" opacity=".10" fill="none"><path d="M86 250H1355M86 1120H1355M86 1460H1355"/><path d="M705 270V1418" stroke-dasharray="2 14"/></g>
 <!-- header: skewed paper title and archive stamp -->
-<g filter="url(#lift)" transform="rotate(-.7 710 135)">
+<g transform="rotate(-.7 710 135)">
  <path d="M100 83L1339 72L1347 209L91 221Z" fill="url(#paper)" stroke="#8F806B" stroke-width="2"/>
  <path d="M111 95L1327 85" stroke="#9E8F79" stroke-width="1"/>
  <text x="132" y="122" font-family="monospace" font-size="15" letter-spacing="4" fill="#9B4448">TIANHAI ARCHIVE / RESEARCH DOSSIER 04</text>
@@ -52,7 +48,7 @@
  </g>
 </g>
 <!-- top left: four academies, irregular pinned dossier -->
-<g filter="url(#lift)" transform="rotate(-2.2 270 405)">
+<g transform="rotate(-2.2 270 405)">
  <path d="M91 267L460 254L474 556L103 568Z" fill="url(#paper)" stroke="#897B66" stroke-width="2"/>
  <path d="M112 288L444 278" stroke="#A99B83"/>
  <text x="121" y="313" font-family="monospace" font-size="12" letter-spacing="2" fill="#A4484D">EDUCATION / FOUR DIRECTIONS</text>
@@ -66,19 +62,19 @@
  <text x="121" y="526" font-family="Arial" font-size="13" fill="#455257">Navigation · teamwork · travel preparation</text>
  <text x="121" y="551" font-family="Arial" font-size="16" font-weight="bold" fill="#2A3437">EAST · HAIYUE</text>
  <text x="290" y="551" font-family="Arial" font-size="13" fill="#455257">Trade · resources · applied problem-solving</text>
- <use href="#pin" x="111" y="275"/>
+ 
 </g>
 <!-- small photo: academy facade / architectural study -->
-<g filter="url(#lift)" transform="rotate(3.6 565 347)">
+<g transform="rotate(3.6 565 347)">
  <rect x="500" y="263" width="171" height="173" fill="#E8DDC9" stroke="#827664" stroke-width="2"/>
  <rect x="511" y="274" width="149" height="126" fill="url(#photo)"/>
  <path d="M520 366L585 300L650 366M535 366V330H638V366M548 330V309H625V330" fill="none" stroke="#D7CDBA" stroke-width="5"/>
  <path d="M516 378H655" stroke="#C7B99F" stroke-width="2"/>
  <text x="518" y="418" font-family="monospace" font-size="10" letter-spacing="1" fill="#46565A">SOUTH / STUDY HALL</text>
- <use href="#pin" x="648" y="272"/>
+ 
 </g>
 <!-- focus progression slip -->
-<g filter="url(#lift)" transform="rotate(1.4 245 738)">
+<g transform="rotate(1.4 245 738)">
  <path d="M92 606L408 595L421 865L104 879Z" fill="#E7DCC7" stroke="#8A7C68" stroke-width="2"/>
  <text x="117" y="637" font-family="monospace" font-size="11" letter-spacing="1.5" fill="#A0444A">STUDENT RECORD / FOCUS TRAINING</text>
  <text x="117" y="674" font-family="Georgia,serif" font-size="22" font-weight="bold" fill="#29363B">SIX ASSESSED STAGES</text>
@@ -89,10 +85,10 @@
  </g>
  <path d="M112 692L385 682M112 850L385 840" stroke="#B5A58D"/>
  <text x="116" y="867" font-family="monospace" font-size="9" fill="#A0444A">TEACHER ASSESSMENT REQUIRED</text>
- <use href="#pin" x="397" y="611"/>
+ 
 </g>
 <!-- right large institute file -->
-<g filter="url(#lift)" transform="rotate(-1.1 1074 425)">
+<g transform="rotate(-1.1 1074 425)">
  <path d="M852 257L1317 267L1305 604L840 591Z" fill="#EDE3D0" stroke="#8B7D68" stroke-width="2.5"/>
  <path d="M852 257L1044 262L1060 280L849 277Z" fill="#B8A88E"/>
  <text x="881" y="307" font-family="monospace" font-size="12" letter-spacing="2" fill="#A1454A">EXCLUSIVE HIGH-LEVEL INSTITUTION</text>
@@ -109,10 +105,10 @@
   <text x="884" y="564">• Safety, materials and formulation research</text>
  </g>
  <g transform="rotate(6 1265 300)"><rect x="1212" y="280" width="92" height="28" fill="#A84950"/><text x="1258" y="299" text-anchor="middle" font-family="monospace" font-size="10" font-weight="bold" fill="#FFF1DE">CENTRAL</text></g>
- <use href="#pin" x="1295" y="279"/>
+ 
 </g>
 <!-- archival photo of precision engraver -->
-<g filter="url(#lift)" transform="rotate(-4 738 746)">
+<g transform="rotate(-4 738 746)">
  <rect x="646" y="637" width="190" height="227" fill="#E9DFCC" stroke="#817563" stroke-width="2"/>
  <rect x="658" y="649" width="166" height="166" fill="#29383D"/>
  <path d="M705 680L742 713L755 752L741 783L728 803" fill="none" stroke="#D2C6B2" stroke-width="11" stroke-linecap="round"/>
@@ -120,10 +116,10 @@
  <path d="M728 803L720 824" stroke="#C7B9A2" stroke-width="2"/>
  <text x="659" y="839" font-family="monospace" font-size="10" fill="#48565A">FORMATION ENGRAVER</text>
  <text x="659" y="853" font-family="monospace" font-size="8" fill="#A0444A">PRECISION TOOL / STUDY</text>
- <use href="#pin" x="822" y="650"/>
+ 
 </g>
 <!-- research remit on narrow torn sheet -->
-<g filter="url(#lift)" transform="rotate(2.1 1070 760)">
+<g transform="rotate(2.1 1070 760)">
  <path d="M877 634L1302 621L1315 885L888 900Z" fill="#DCD1BC" stroke="#8C7D68" stroke-width="2"/>
  <text x="904" y="669" font-family="monospace" font-size="11" letter-spacing="1.5" fill="#A0444A">INSTITUTE / ACTIVE RESEARCH AREAS</text>
  <text x="902" y="705" font-family="Georgia,serif" font-size="23" font-weight="bold" fill="#29383C">WHAT THEY STUDY</text>
@@ -135,10 +131,10 @@
   <text x="906" y="852">05  Technique optimization for Tier 5 and below</text>
   <text x="906" y="880">06  Testing, failure analysis, provenance &amp; safety</text>
  </g>
- <use href="#pin" x="1290" y="638"/>
+ 
 </g>
 <!-- center: grade ladder on a clipped sheet -->
-<g filter="url(#lift)" transform="rotate(-1.6 498 1070)">
+<g transform="rotate(-1.6 498 1070)">
  <path d="M431 900L836 910L823 1264L418 1251Z" fill="url(#paper)" stroke="#8C7D69" stroke-width="2"/>
  <path d="M447 920L818 930" stroke="#A99A82"/>
  <text x="458" y="954" font-family="monospace" font-size="11" letter-spacing="2" fill="#A0444A">CERTIFICATION / TEN GRADES</text>
@@ -154,10 +150,10 @@
  </g>
  <path d="M456 1220L795 1230" stroke="#A99A82"/>
  <text x="460" y="1243" font-family="monospace" font-size="9" fill="#A0444A">NO SELF-DECLARED GRADES / NO SHORTCUTS</text>
- <use href="#pin" x="818" y="923"/>
+ 
 </g>
 <!-- left middle: academy to institute bridge -->
-<g filter="url(#lift)" transform="rotate(2.7 250 1090)">
+<g transform="rotate(2.7 250 1090)">
  <rect x="93" y="932" width="292" height="267" fill="#E5DAC5" stroke="#8A7C68" stroke-width="2"/>
  <text x="117" y="966" font-family="monospace" font-size="11" letter-spacing="1.3" fill="#A0444A">PATHWAY / NOT AN AUTOMATIC PROMOTION</text>
  <text x="116" y="1002" font-family="Georgia,serif" font-size="22" font-weight="bold" fill="#29383C">FROM ACADEMY</text>
@@ -170,10 +166,10 @@
   <text x="119" y="1178">• Neither admission nor recommendation</text>
   <text x="132" y="1197">grants Grade or restricted access.</text>
  </g>
- <use href="#pin" x="111" y="947"/>
+ 
 </g>
 <!-- lower right: high grade gate memo -->
-<g filter="url(#lift)" transform="rotate(-2.4 1085 1090)">
+<g transform="rotate(-2.4 1085 1090)">
  <path d="M880 934L1307 924L1320 1219L892 1230Z" fill="#E9DEC9" stroke="#8D7D68" stroke-width="2"/>
  <text x="907" y="970" font-family="monospace" font-size="11" letter-spacing="1.4" fill="#A0444A">ADVANCED CREDENTIAL GATES</text>
  <text x="906" y="1006" font-family="Georgia,serif" font-size="23" font-weight="bold" fill="#29383C">GRADE 7–10 / PERSONAL TOOL</text>
@@ -187,10 +183,10 @@
   <text x="910" y="1187">series code and current ownership are checked.</text>
   <text x="910" y="1210">Grade 10 also needs genuine senior recognition.</text>
  </g>
- <use href="#pin" x="1295" y="941"/>
+ 
 </g>
 <!-- lower left: material and tool facts -->
-<g filter="url(#lift)" transform="rotate(-1.2 251 1340)">
+<g transform="rotate(-1.2 251 1340)">
  <rect x="91" y="1240" width="300" height="190" fill="#DCD1BC" stroke="#8B7D68" stroke-width="2"/>
  <text x="113" y="1274" font-family="monospace" font-size="10" letter-spacing="1.3" fill="#A0444A">WORKSHOP NOTE / TOOL REQUIREMENT</text>
  <text x="111" y="1310" font-family="Georgia,serif" font-size="21" font-weight="bold" fill="#29383C">THE ENGRAVER</text>
@@ -198,20 +194,20 @@
  <text x="113" y="1364" font-family="Arial" font-size="14" fill="#3B494D">cuts intricate formation patterns.</text>
  <text x="113" y="1396" font-family="Arial" font-size="14" fill="#3B494D">Its maker needs Spirit Realm 5+ and</text>
  <text x="113" y="1418" font-family="Arial" font-size="14" fill="#3B494D">relevant forging ability. Not a guarantee.</text>
- <use href="#pin" x="373" y="1254"/>
+ 
 </g>
 <!-- historical portrait/photo: Bai Xuanyin -->
-<g filter="url(#lift)" transform="rotate(3.2 563 1370)">
+<g transform="rotate(3.2 563 1370)">
  <rect x="435" y="1292" width="179" height="169" fill="#E9DFCC" stroke="#897B67" stroke-width="2"/>
  <rect x="447" y="1304" width="155" height="111" fill="url(#photo)"/>
  <circle cx="523" cy="1340" r="23" fill="#B9B6A8"/><path d="M482 1407Q484 1365 523 1365Q562 1365 564 1407Z" fill="#B9B6A8"/>
  <path d="M480 1333Q521 1287 567 1332" fill="none" stroke="#D8D0C1" stroke-width="7"/>
  <text x="449" y="1435" font-family="monospace" font-size="10" fill="#A0444A">ARCHIVAL PORTRAIT</text>
  <text x="449" y="1451" font-family="Arial" font-size="13" font-weight="bold" fill="#344247">BAI XUANYIN</text>
- <use href="#pin" x="601" y="1305"/>
+ 
 </g>
 <!-- artifact history note -->
-<g filter="url(#lift)" transform="rotate(1.4 778 1370)">
+<g transform="rotate(1.4 778 1370)">
  <path d="M651 1286L865 1277L877 1462L661 1470Z" fill="#E7DCC7" stroke="#8B7C68" stroke-width="2"/>
  <text x="675" y="1320" font-family="monospace" font-size="10" letter-spacing="1" fill="#A0444A">HISTORICAL EVIDENCE</text>
  <text x="673" y="1355" font-family="Georgia,serif" font-size="21" font-weight="bold" fill="#29383C">BAI XUANYIN</text>
@@ -219,10 +215,10 @@
  <text x="675" y="1406" font-family="Arial" font-size="14" fill="#3B494D">War heroine · artifact creator</text>
  <text x="675" y="1437" font-family="Arial" font-size="13" fill="#3B494D">Her blueprint informed Tier 8</text>
  <text x="675" y="1457" font-family="Arial" font-size="13" fill="#3B494D">one-use concealment devices.</text>
- <use href="#pin" x="855" y="1293"/>
+ 
 </g>
 <!-- three artifacts note -->
-<g filter="url(#lift)" transform="rotate(-2 1090 1355)">
+<g transform="rotate(-2 1090 1355)">
  <rect x="914" y="1270" width="394" height="192" fill="#E3D8C3" stroke="#8C7D69" stroke-width="2"/>
  <text x="938" y="1305" font-family="monospace" font-size="10" letter-spacing="1.4" fill="#A0444A">ARCHIVE CLASSIFICATION / ORIGIN</text>
  <text x="937" y="1342" font-family="Georgia,serif" font-size="22" font-weight="bold" fill="#29383C">THREE DISTINCT ORIGINS</text>
@@ -231,12 +227,12 @@
   <text x="940" y="1405"><tspan font-weight="bold">ANCIENT ARTIFACT</tspan> — golden-age origin</text>
   <text x="940" y="1435"><tspan font-weight="bold">ARTIFICIAL ARTIFACT</tspan> — made by an Arcanist</text>
  </g>
- <use href="#pin" x="1295" y="1286"/>
+ 
 </g>
 <!-- loose marginal notes and tape -->
-<g filter="url(#lift)" transform="rotate(7 785 302)"><rect x="734" y="244" width="115" height="49" fill="#D7C9AF" stroke="#8C806E" stroke-width="1.5"/><text x="791" y="264" text-anchor="middle" font-family="monospace" font-size="9" fill="#A0444A">FIELD NOTE</text><text x="791" y="280" text-anchor="middle" font-family="Georgia,serif" font-size="12" font-style="italic" fill="#36464B">follow the method</text><use href="#pin" x="744" y="251"/></g>
-<g transform="rotate(-6 621 592)"><use href="#tape" x="575" y="581"/></g>
-<g filter="url(#lift)" transform="rotate(5 413 895)"><path d="M365 864L477 869L472 930L360 924Z" fill="#D8C7A8" stroke="#94836C"/><text x="418" y="891" text-anchor="middle" font-family="monospace" font-size="10" fill="#9D4449">CHECK THE</text><text x="418" y="908" text-anchor="middle" font-family="monospace" font-size="10" fill="#9D4449">PROVENANCE</text></g>
+<g transform="rotate(7 785 302)"><rect x="734" y="244" width="115" height="49" fill="#D7C9AF" stroke="#8C806E" stroke-width="1.5"/><text x="791" y="264" text-anchor="middle" font-family="monospace" font-size="9" fill="#A0444A">FIELD NOTE</text><text x="791" y="280" text-anchor="middle" font-family="Georgia,serif" font-size="12" font-style="italic" fill="#36464B">follow the method</text></g>
+<g transform="rotate(-6 621 592)"></g>
+<g transform="rotate(5 413 895)"><path d="M365 864L477 869L472 930L360 924Z" fill="#D8C7A8" stroke="#94836C"/><text x="418" y="891" text-anchor="middle" font-family="monospace" font-size="10" fill="#9D4449">CHECK THE</text><text x="418" y="908" text-anchor="middle" font-family="monospace" font-size="10" fill="#9D4449">PROVENANCE</text></g>
 <!-- fine visible pinheads where thread meets evidence -->
 <g fill="#C9DCE0" stroke="#34454B" stroke-width="1">
  <circle cx="184" cy="355" r="3.2"/><circle cx="426" cy="292" r="3.2"/><circle cx="674" cy="385" r="3.2"/><circle cx="928" cy="278" r="3.2"/><circle cx="1244" cy="376" r="3.2"/>

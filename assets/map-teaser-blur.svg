@@ -15,6 +15,36 @@
 </defs>
 <rect width="1200" height="675" fill="url(#ocean)"/>
 <g clip-path="url(#clip)">
+  <!-- Bathymetry: shallow coastal shelves, deeper open basins; schematic, not surveyed -->
+  <g opacity=".98">
+    <rect x="18" y="18" width="1164" height="639" fill="#142d3b"/>
+    <path d="M18 18 H1182 V180 Q1080 210 1000 178 T820 178 Q760 142 680 160 T520 150 Q430 185 340 150 T18 190Z" fill="#1d4050"/>
+    <path d="M18 18 H1182 V105 Q1080 130 980 105 T790 112 Q690 85 580 108 T390 100 Q240 130 18 115Z" fill="#244d5b" opacity=".8"/>
+    <path d="M880 150 Q1020 130 1182 175 V480 Q1090 455 1030 420 Q960 380 925 320 Q880 250 880 150Z" fill="#102b3c"/>
+    <path d="M900 215 Q1030 190 1182 230 V410 Q1090 395 1035 360 Q965 325 940 275Z" fill="#193d4d"/>
+    <path d="M310 355 Q390 365 455 410 Q520 455 620 470 Q740 490 830 450 Q920 420 1010 470 L1120 657 H300 Q360 585 330 520 Q290 445 310 355Z" fill="#102b3d"/>
+    <path d="M360 440 Q440 435 510 475 Q600 520 700 505 Q805 485 900 500 Q970 525 1015 585 L980 657 H420 Q475 590 420 535Z" fill="#173b4b"/>
+    <path d="M18 390 Q100 410 170 430 Q245 455 330 450 Q390 450 445 490 L500 657 H18Z" fill="#173848"/>
+    <path d="M18 480 Q115 475 210 500 Q300 520 365 555 L410 657 H18Z" fill="#214654"/>
+    <!-- Distinct southern deep ocean beyond the ordinary Black Tide waters -->
+    <path d="M400 560 Q550 530 700 565 Q850 590 1000 555 Q1100 535 1182 560 V657 H390Z" fill="#091d30"/>
+    <path d="M540 595 Q700 570 830 600 T1120 590 L1182 657 H500Z" fill="#102b43"/>
+    <!-- Shallow continental shelves: broad, irregular pale bands hugging the coasts -->
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M370 55 L455 42 510 68 574 48 635 73 690 66 735 105 798 112 824 160 875 183 889 235 862 276 885 317 850 356 819 394 783 422 750 469 704 478 664 455 619 475 570 453 531 471 490 439 449 423 413 382 379 357 355 311 323 274 335 229 312 193 335 151 345 105Z" stroke="#6aa6a0" stroke-width="66" opacity=".24"/>
+      <path d="M125 276 L185 237 246 248 287 283 301 330 273 368 240 403 185 411 136 383 104 337Z" stroke="#6aa6a0" stroke-width="48" opacity=".22"/>
+      <path d="M370 55 L455 42 510 68 574 48 635 73 690 66 735 105 798 112 824 160 875 183 889 235 862 276 885 317 850 356 819 394 783 422 750 469 704 478 664 455 619 475 570 453 531 471 490 439 449 423 413 382 379 357 355 311 323 274 335 229 312 193 335 151 345 105Z" stroke="#a0c8b3" stroke-width="24" opacity=".22"/>
+      <path d="M125 276 L185 237 246 248 287 283 301 330 273 368 240 403 185 411 136 383 104 337Z" stroke="#a0c8b3" stroke-width="18" opacity=".2"/>
+    </g>
+    <!-- Bathymetric contours and shelf breaks -->
+    <g fill="none" stroke="#83b7b5" stroke-width="3" opacity=".2">
+      <path d="M40 210 Q180 170 300 215 T520 210"/>
+      <path d="M930 155 Q1030 125 1160 170"/>
+      <path d="M875 440 Q980 410 1130 455"/>
+      <path d="M455 540 Q600 510 740 545 T1060 540"/>
+      <path d="M500 620 Q700 590 900 625 T1180 615"/>
+    </g>
+  </g>
   <!-- Geographic landmasses: relative placement only, not a surveyed coastline -->
   <g filter="url(#mapblur)">
     <!-- Main continent -->

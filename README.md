@@ -220,9 +220,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" alt="GitHub" />
 
-![NIGHTLY](assets/nightly-version.svg?v=14)
+![NIGHTLY](assets/nightly-version.svg?v=15)
 
-<sub><span style="color:#D4AF37"><strong>v4.0.14</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v4.0.15</strong></span></sub>
 
 </td>
 </tr>
@@ -235,6 +235,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 *Recent world and system updates*
 
 ---
+- ✦ **Canonical GM Options Layout Enforced**
+  Hash: ``907b64b`` | Ver: ``Nightly-v4.0.15`` · ``Stable-v4.0.1``
+  Aligns INDEX, Authority Order, and the gameplay template on the exact framed `PILIHAN AKSI GM` block. Numbered lists, plain bullets, and alternate headings are explicitly invalid; all other visual panels and mechanics remain unchanged.
+
 - ✦ **Soul-Nyuma & Soul-Zoun — Doctrine and Education Expanded**
   Hash: ``d2092ef`` | Ver: ``Nightly-v4.0.14`` · ``Stable-v4.0.1``
   Defines soul processing through Spirit Ring formation/absorption, natural versus aberrant Spirit Ability expression, Qi-efficiency trade-offs, institutional curricula and local perspectives, and the historical Nyuma-only 100% Sync-cap achievement. Existing mechanics remain unchanged.

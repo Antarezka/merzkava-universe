@@ -6,7 +6,7 @@ Cakupan: usia dan warna Spirit Ring, kemunculan ring, penyerapan, sinkronisasi, 
 Aturan dalam modul ini harus dipertahankan secara konsisten. Jangan menghapus atau mengganti mekanik yang telah disepakati hanya karena rinciannya tidak tertulis di WORLD.md. Untuk tingkat kultivasi, gunakan istilah kanonis **Spirit Realm** sebagaimana ditetapkan dalam `core/CULTIVATION_SYSTEM.md`; jangan gunakan `Realm` atau `Cultivation Realm` sebagai istilah singkatan untuk tingkat kultivasi.
 
 
-**Tradition boundary:** Soul-Nyuma and Soul-Zoun may interpret or investigate Spirit Ring phenomena through different principles, but neither has a separate absorption formula or exemption. All Spirit Ring mechanics in this file remain binding; doctrine is defined in `core/SPIRIT_REALM_TRADITIONS.md`.
+**Tradition boundary:** Soul-Nyuma and Soul-Zoun may process or interpret the Spirit Beast soul differently before and during Spirit Ring formation, and their resulting abilities may express natural or aberrant characteristics. Neither tradition has a separate absorption formula, exemption, Sync bonus, or bypass. A sealed, weakened, or suspended soul is not automatically a completed Spirit Ring; a formed ring must still pass every official eligibility and absorption rule in this file. Qi costs and all numerical outcomes remain governed by the existing mechanics. Doctrine is defined in `core/SPIRIT_REALM_TRADITIONS.md`.
 
 ---
 

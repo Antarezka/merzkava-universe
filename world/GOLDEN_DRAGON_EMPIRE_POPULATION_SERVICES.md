@@ -258,7 +258,7 @@ The Grand Martial Soul Awakening Hall is a centralized imperial institution, not
 3. A listed branch is a known service point, not proof that it is fully staffed, well-funded, safe, open at the moment of a scene, or able to fulfil every request.
 4. The bank, Exchange, and Medicine Hall Society lists use prefecture seats as service hubs. Only two academies and three Ordo public libraries are specifically established in this register; it does not claim that those institutions exist in every prefecture, city, town, or village.
 5. Branch managers, academy principals, librarians, physicians, prices, admission rules, branch capacity, and local controversies may be established later through owner-approved NPC profiles or gameplay.
-7. For public knowledge, use `core/CULTIVATION_SYSTEM.md`, `core/MARTIAL_SOUL_AWAKENING.md`, `bestiary/SPIRIT_BEAST_RULES.md`, and `core/ARCANIST_AND_FORMULATION.md`. If a detail is absent or restricted in those sources, do not invent it as authoritative textbook content.
+7. For public knowledge, use `core/CULTIVATION_SYSTEM.md`, `core/MARTIAL_SOUL_AWAKENING.md`, `bestiary/SPIRIT_BEAST_RULES.md`, and `core/ARCANISTRY_AND_FORMULATION.md`. If a detail is absent or restricted in those sources, do not invent it as authoritative textbook content.
 
 ## 11. Related sources
 
@@ -268,5 +268,5 @@ The Grand Martial Soul Awakening Hall is a centralized imperial institution, not
 - Foundational academy concept: `core/CULTIVATOR_ACADEMIES.md`
 - Spirit Realms and awakening: `core/CULTIVATION_SYSTEM.md`, `core/MARTIAL_SOUL_AWAKENING.md`
 - Spirit Beast rules: `bestiary/SPIRIT_BEAST_RULES.md`
-- Arcanist basics and limits: `core/ARCANIST_AND_FORMULATION.md`
+- Arcanist basics and limits: `core/ARCANISTRY_AND_FORMULATION.md`
 - Official public settlement/jurisdiction register: `world/GOLDEN_DRAGON_EMPIRE_ADMINISTRATIVE_ATLAS.md`

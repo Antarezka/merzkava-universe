@@ -99,7 +99,7 @@ Tactics and technique may contribute, but do not silently replace all three cond
 
 - PowerScale comes only from `core/SPIRIT_RING_RULES.md`; it already includes total Spirit Ring age and overall ring compatibility. Do not multiply those factors again.
 - A Spirit Ring ability affects combat only through its established ability and actual use.
-- The production chance matrix in `core/ARCANIST_AND_FORMULATION.md` governs artifact creation, **not** attack accuracy.
+- The production chance matrix in `core/ARCANISTRY_AND_FORMULATION.md` governs artifact creation, **not** attack accuracy.
 - Before applying an Artificial Artifact, confirm ownership/access, tier, documented function, limitations, and whether that function applies to the current action. Relics, Ancient Artifacts, and Artificial Artifacts remain distinct categories.
 - If artifact effects or other required values are undefined, mark them unknown instead of making up a number.
 

@@ -762,7 +762,7 @@ Tiga kategori artefak dibedakan berdasarkan asal-usulnya: Relic adalah peninggal
 
 Pembuatan Artificial Artifact membutuhkan formulasi yang dipahami Arcanist, fokus dan konsentrasi, kemampuan mental untuk menyusun serta mempertahankan pola, tenaga yang memadai, material yang sesuai, pola yang dapat diterapkan, dan tingkat Arcanist yang mampu menangani target. Biaya tenaga, durasi, ambang batas, dan konsekuensi produksi hanya boleh digunakan jika ditetapkan oleh mekanik resmi.
 
-Aturan operasional Arcanist Tier 1–10, matriks peluang dasar, faktor pengerjaan, dan prosedur resolusi berada di `core/ARCANIST_AND_FORMULATION.md`. Matriks tersebut menetapkan peluang dasar, bukan jaminan mutlak. Modifikasi numerik situasional, efek bakat, dan metode resolusi yang belum disahkan tidak boleh dikarang GM.
+Aturan operasional Arcanist Tier 1–10, matriks peluang dasar, faktor pengerjaan, dan prosedur resolusi berada di `core/ARCANISTRY_AND_FORMULATION.md`. Matriks tersebut menetapkan peluang dasar, bukan jaminan mutlak. Modifikasi numerik situasional, efek bakat, dan metode resolusi yang belum disahkan tidak boleh dikarang GM.
 
 XIII. ATURAN KONSISTENSI KANON
 

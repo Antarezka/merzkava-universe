@@ -1,111 +1,196 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1120" viewBox="0 0 960 1120" role="img" aria-labelledby="title desc">
-<title id="title">Merzkava Universe — The Noticeboard</title>
-<desc id="desc">Six dossier-style paper files introducing Merzkava's powers, hidden territories, consequential choices, Arcanists, a living world, and rumors versus facts. The original reading order and panel arrangement are preserved.</desc>
-<rect width="960" height="1120" fill="#F5F1E8"/>
-<path d="M0 0H960V1120H0Z" fill="none" stroke="#151515" stroke-width="12"/>
-<path d="M22 0L960 0V22L22 22Z" fill="#FFB36B"/>
-<g font-family="Arial, Helvetica, sans-serif">
-  <g transform="rotate(-.8 480 75)">
-    <rect x="40" y="37" width="892" height="94" fill="#C9C1B3" opacity=".65"/>
-    <rect x="34" y="28" width="892" height="94" fill="#FFFFFF" stroke="#151515" stroke-width="4"/>
-    <path d="M34 28H926V122H34Z" fill="none" stroke="#F25C54" stroke-width="3" stroke-dasharray="8 5"/>
-    <text x="62" y="61" fill="#625B52" font-size="15" font-weight="800" letter-spacing="3">MERZKAVA UNIVERSE / FIELD NOTES</text>
-    <text x="60" y="99" fill="#151515" font-size="32" font-weight="900" letter-spacing="1">THE NOTICEBOARD</text>
-    <g transform="rotate(-9 65 33)">
-      <rect x="43" y="13" width="69" height="30" rx="5" fill="#D9D6CF" stroke="#151515" stroke-width="2"/>
-      <rect x="65" y="8" width="24" height="40" rx="4" fill="#FFFFFF" stroke="#151515" stroke-width="2"/>
-      <path d="M71 14V42M77 14V42M83 14V42" stroke="#A6A29A" stroke-width="1.2"/>
-    </g>
-    <g transform="rotate(7 864 92)">
-      <rect x="824" y="83" width="78" height="24" fill="#FFE066" stroke="#151515" stroke-width="2"/>
-      <text x="863" y="99" text-anchor="middle" fill="#151515" font-family="monospace" font-size="9" font-weight="900">INDEX 01</text>
-    </g>
-  </g>
-
-  <g transform="rotate(.45 480 257)">
-    <rect x="42" y="154" width="892" height="224" fill="#C9C1B3" opacity=".75"/>
-    <rect x="34" y="145" width="892" height="224" fill="#FFB36B" stroke="#151515" stroke-width="4"/>
-    <rect x="34" y="145" width="892" height="48" fill="#151515"/>
-    <path d="M52 202L52 353" stroke="#F25C54" stroke-width="5"/>
-    <text x="58" y="176" fill="#FFFFFF" font-size="18" font-weight="800" letter-spacing="1.5">01 / THREE GREAT POWERS</text>
-    <text x="60" y="235" fill="#151515" font-size="34" font-weight="900">THREE POWERS.</text>
-    <text x="60" y="276" fill="#151515" font-size="34" font-weight="900">THREE WAYS TO RISE.</text>
-    <text x="60" y="322" fill="#151515" font-size="19">Martial Souls, Spirit Rings, and rival ambitions shape the world.</text>
-    <g transform="rotate(7 852 333)">
-      <rect x="794" y="319" width="112" height="28" fill="#F25C54" stroke="#151515" stroke-width="2"/>
-      <text x="850" y="338" text-anchor="middle" fill="#151515" font-family="monospace" font-size="10" font-weight="900">KEY EVIDENCE</text>
-    </g>
-  </g>
-
-  <g transform="rotate(-1.1 247 494)">
-    <rect x="41" y="402" width="426" height="202" fill="#C9C1B3" opacity=".75"/>
-    <rect x="34" y="393" width="426" height="202" fill="#FFE066" stroke="#151515" stroke-width="4"/>
-    <rect x="34" y="393" width="426" height="44" fill="#151515"/>
-    <text x="54" y="422" fill="#FFFFFF" font-size="15" font-weight="800" letter-spacing=".8">02 / BEYOND THE KNOWN WORLD</text>
-    <text x="56" y="476" fill="#151515" font-size="23" font-weight="900">RUINS KEEP</text>
-    <text x="56" y="505" fill="#151515" font-size="23" font-weight="900">OLD SECRETS.</text>
-    <text x="56" y="548" fill="#151515" font-size="16">Hidden factions. Dangerous routes. Uncharted places.</text>
-    <path d="M411 451L444 451L444 484" fill="none" stroke="#F25C54" stroke-width="5"/>
-  </g>
-
-  <g transform="rotate(.8 704 494)">
-    <rect x="489" y="402" width="444" height="202" fill="#C9C1B3" opacity=".75"/>
-    <rect x="482" y="393" width="444" height="202" fill="#F25C54" stroke="#151515" stroke-width="4"/>
-    <rect x="482" y="393" width="444" height="44" fill="#151515"/>
-    <text x="502" y="422" fill="#FFFFFF" font-size="15" font-weight="800" letter-spacing=".6">03 / CHOICES HAVE CONSEQUENCES</text>
-    <text x="504" y="476" fill="#151515" font-size="25" font-weight="900">POWER CAN</text>
-    <text x="504" y="506" fill="#151515" font-size="25" font-weight="900">COST YOU.</text>
-    <text x="504" y="548" fill="#151515" font-size="16">Your strength won't erase every consequence.</text>
-    <g transform="rotate(-8 884 572)">
-      <rect x="837" y="552" width="65" height="24" fill="#FFE066" stroke="#151515" stroke-width="1.5"/>
-      <text x="869" y="568" text-anchor="middle" fill="#151515" font-family="monospace" font-size="9" font-weight="900">CAUTION</text>
-    </g>
-  </g>
-
-  <g transform="rotate(-.35 480 697)">
-    <rect x="41" y="628" width="892" height="156" fill="#C9C1B3" opacity=".75"/>
-    <rect x="34" y="619" width="892" height="156" fill="#FFFFFF" stroke="#151515" stroke-width="4"/>
-    <rect x="34" y="619" width="892" height="43" fill="#FFB36B"/>
-    <text x="58" y="647" fill="#151515" font-size="17" font-weight="900" letter-spacing="1.2">04 / ARCANISTS &amp; ARTIFICIAL ARTIFACTS</text>
-    <text x="58" y="706" fill="#151515" font-size="27" font-weight="900">SPIRIT REALM IS NOT THE ONLY PATH TO POWER.</text>
-    <text x="58" y="744" fill="#514B45" font-size="18">Arcanistry advances through knowledge, research, formulations, and skill.</text>
-    <g transform="rotate(5 861 642)">
-      <rect x="819" y="627" width="84" height="23" fill="#F25C54" stroke="#151515" stroke-width="1.5"/>
-      <text x="861" y="642" text-anchor="middle" fill="#151515" font-family="monospace" font-size="9" font-weight="900">RESEARCH</text>
-    </g>
-  </g>
-
-  <g transform="rotate(.65 307 890)">
-    <rect x="41" y="808" width="546" height="182" fill="#C9C1B3" opacity=".75"/>
-    <rect x="34" y="799" width="546" height="182" fill="#FFB36B" stroke="#151515" stroke-width="4"/>
-    <rect x="34" y="799" width="546" height="43" fill="#151515"/>
-    <text x="56" y="827" fill="#FFFFFF" font-size="16" font-weight="800" letter-spacing="1">05 / A LIVING WORLD</text>
-    <text x="56" y="881" fill="#151515" font-size="26" font-weight="900">THE WORLD</text>
-    <text x="56" y="912" fill="#151515" font-size="26" font-weight="900">KEEPS MOVING.</text>
-    <text x="56" y="950" fill="#151515" font-size="16">Trade, festivals, NPC agendas, and rivalries move on.</text>
-  </g>
-
-  <g transform="rotate(-.7 764 890)">
-    <rect x="609" y="808" width="324" height="182" fill="#C9C1B3" opacity=".75"/>
-    <rect x="602" y="799" width="324" height="182" fill="#FFE066" stroke="#151515" stroke-width="4"/>
-    <rect x="602" y="799" width="324" height="43" fill="#151515"/>
-    <text x="622" y="827" fill="#FFFFFF" font-size="15" font-weight="800" letter-spacing=".5">06 / FOLLOW THE EVIDENCE</text>
-    <text x="622" y="881" fill="#151515" font-size="26" font-weight="900">RUMORS</text>
-    <text x="622" y="912" fill="#151515" font-size="26" font-weight="900">AREN'T FACTS</text>
-    <text x="622" y="950" fill="#151515" font-size="16">Discover the truth; don't assume it.</text>
-    <path d="M886 857L908 857L908 882" fill="none" stroke="#F25C54" stroke-width="4"/>
-  </g>
-
-  <g transform="rotate(.5 480 1046)">
-    <rect x="41" y="1014" width="892" height="83" fill="#C9C1B3" opacity=".75"/>
-    <rect x="34" y="1005" width="892" height="83" fill="#151515" stroke="#F25C54" stroke-width="4"/>
-    <text x="58" y="1040" fill="#FFE066" font-size="17" font-weight="800" letter-spacing="2">LOOK CLOSER</text>
-    <text x="58" y="1067" fill="#FFFFFF" font-size="20" font-weight="900">YOUR NEXT CLUE IS IN THE WORLD ARCHIVE →</text>
-    <g transform="rotate(8 870 1046)">
-      <rect x="831" y="1020" width="70" height="44" fill="#F25C54" stroke="#FFFFFF" stroke-width="1.5"/>
-      <text x="866" y="1038" text-anchor="middle" fill="#151515" font-size="9" font-weight="900">CASE</text>
-      <text x="866" y="1053" text-anchor="middle" fill="#151515" font-size="13" font-weight="900">CLOSED?</text>
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1040" viewBox="0 0 1200 1040" role="img" aria-labelledby="title desc">
+<title id="title">Merzkava Universe — Investigation Board</title>
+<desc id="desc">A detective-style cork investigation board with photographs, dossiers, maps, handwritten notes, evidence tags and red strings. The investigation is divided evenly between Spirit Realm and Arcanistry, with verified connections across Merzkava's history, powers, institutions, artifacts and mysteries.</desc>
+<defs>
+ <pattern id="cork" width="38" height="38" patternUnits="userSpaceOnUse"><rect width="38" height="38" fill="#98704D"/><circle cx="7" cy="9" r="1.4" fill="#6D4B35" opacity=".35"/><circle cx="27" cy="22" r="1.8" fill="#D3AA79" opacity=".32"/><path d="M2 30l8-2m13-22l6 2m-5 27l7-3" stroke="#684832" stroke-width="1" opacity=".25"/></pattern>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur in="SourceAlpha" stdDeviation="4"/><feOffset dx="4" dy="6"/><feComponentTransfer><feFuncA type="linear" slope=".38"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="photo" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#343431"/><path d="M0 8L8 0" stroke="#77736A" stroke-width=".6" opacity=".35"/></pattern>
+</defs>
+<!-- frame and cork -->
+<rect width="1200" height="1040" fill="#171716"/>
+<rect x="17" y="17" width="1166" height="1006" rx="8" fill="#38291F" stroke="#0D0D0C" stroke-width="8"/>
+<rect x="34" y="34" width="1132" height="972" rx="4" fill="url(#cork)" stroke="#D2B18A" stroke-width="3"/>
+<path d="M600 145V984" stroke="#3E2D20" stroke-width="3" stroke-dasharray="7 9" opacity=".55"/>
+<!-- header -->
+<g filter="url(#shadow)">
+ <path d="M63 54L1136 48L1142 145L57 151Z" fill="#E8DDC8" stroke="#211D19" stroke-width="4"/>
+ <text x="83" y="82" font-family="monospace" font-size="13" font-weight="bold" letter-spacing="3" fill="#8A342C">WORLD KNOWLEDGE / UNOFFICIAL CASE WALL</text>
+ <text x="81" y="124" font-family="Georgia,serif" font-size="36" font-weight="bold" letter-spacing="2" fill="#201D19">MERZKAVA: THE THREADS BENEATH THE WORLD</text>
+ <g transform="rotate(4 1055 96)"><rect x="1003" y="63" width="105" height="46" fill="#B33C32" stroke="#201D19" stroke-width="2"/><text x="1055" y="82" text-anchor="middle" font-family="monospace" font-size="10" font-weight="bold" fill="#FFF4DF">CASE FILE</text><text x="1055" y="99" text-anchor="middle" font-family="monospace" font-size="15" font-weight="bold" fill="#FFF4DF">001 / OPEN</text></g>
 </g>
+<!-- section headers -->
+<g filter="url(#shadow)">
+ <path d="M57 174L579 169L585 218L55 222Z" fill="#E9D9B8" stroke="#28221B" stroke-width="3"/>
+ <text x="79" y="204" font-family="Arial,sans-serif" font-size="25" font-weight="900" letter-spacing="3" fill="#29231D">A / SPIRIT REALM</text>
+ <path d="M620 169L1144 174L1140 222L615 218Z" fill="#F1B56E" stroke="#28221B" stroke-width="3"/>
+ <text x="645" y="204" font-family="Arial,sans-serif" font-size="25" font-weight="900" letter-spacing="3" fill="#29231D">B / ARCANISTRY</text>
+</g>
+<!-- red strings behind evidence -->
+<g fill="none" stroke="#B52E2B" stroke-width="3.5" stroke-linecap="round" opacity=".92">
+ <path d="M286 315C350 270 427 273 506 322S670 362 744 305"/>
+ <path d="M286 315C220 365 189 428 245 496S330 606 421 670"/>
+ <path d="M506 322C473 407 470 495 421 670"/>
+ <path d="M744 305C816 257 916 257 1001 322S1045 440 1007 506"/>
+ <path d="M744 305C711 415 738 512 820 580S940 673 1017 755"/>
+ <path d="M421 670C530 733 612 743 700 682S851 612 1007 506"/>
+ <path d="M245 496C354 478 510 465 626 500S844 480 1007 506"/>
+ <path d="M506 322C598 378 614 435 626 500"/>
+ <path d="M820 580C746 682 691 778 700 882"/>
+ <path d="M1007 506C1082 575 1083 663 1017 755"/>
+ <path d="M245 496C162 572 158 680 232 766"/>
+ <path d="M421 670C356 761 344 827 404 900"/>
+</g>
+<!-- pins -->
+<g fill="#D7C9AE" stroke="#4C2D22" stroke-width="2"><circle cx="286" cy="315" r="6"/><circle cx="506" cy="322" r="6"/><circle cx="744" cy="305" r="6"/><circle cx="1007" cy="506" r="6"/><circle cx="245" cy="496" r="6"/><circle cx="421" cy="670" r="6"/><circle cx="626" cy="500" r="6"/><circle cx="820" cy="580" r="6"/><circle cx="1017" cy="755" r="6"/><circle cx="700" cy="882" r="6"/></g>
+<!-- LEFT: three powers dossier -->
+<g filter="url(#shadow)" transform="rotate(-1.2 180 315)">
+ <rect x="66" y="242" width="226" height="159" fill="#E7DCC5" stroke="#28231D" stroke-width="3"/>
+ <text x="82" y="265" font-family="monospace" font-size="11" font-weight="bold" fill="#9C332B">POLITICAL BALANCE / 03</text>
+ <text x="82" y="292" font-family="Arial" font-size="18" font-weight="900" fill="#24211C">THREE POWERS</text>
+ <text x="82" y="319" font-family="Arial" font-size="13" fill="#24211C">Golden Dragon Empire · East</text>
+ <text x="82" y="341" font-family="Arial" font-size="13" fill="#24211C">Tianhai Yunzhou · Maritime</text>
+ <text x="82" y="363" font-family="Arial" font-size="13" fill="#24211C">Beiming Gu · North</text>
+ <text x="82" y="385" font-family="monospace" font-size="10" fill="#8B302A">POWER ≠ SAME ADVANTAGE</text>
+ <path d="M175 236l-5 13" stroke="#B52E2B" stroke-width="4"/>
+</g>
+<!-- LEFT portrait: Beiming Han -->
+<g filter="url(#shadow)" transform="rotate(2 380 310)">
+ <rect x="327" y="242" width="174" height="166" fill="#E9E3D7" stroke="#29231D" stroke-width="3"/>
+ <rect x="337" y="252" width="91" height="111" fill="url(#photo)" stroke="#24211C" stroke-width="2"/>
+ <circle cx="382" cy="291" r="22" fill="#B9B3A7"/><path d="M350 355Q351 316 382 316Q414 316 415 355Z" fill="#B9B3A7"/>
+ <path d="M350 280Q380 244 414 279" fill="none" stroke="#D8D1C4" stroke-width="7"/>
+ <text x="438" y="276" font-family="monospace" font-size="9" fill="#A3352E">SUBJECT</text>
+ <text x="438" y="297" font-family="Arial" font-size="13" font-weight="bold" fill="#211E1A">BEIMING</text>
+ <text x="438" y="314" font-family="Arial" font-size="13" font-weight="bold" fill="#211E1A">HAN</text>
+ <text x="438" y="337" font-family="monospace" font-size="9" fill="#51483D">SPIRIT</text>
+ <text x="438" y="350" font-family="monospace" font-size="9" fill="#51483D">PRIMORDIAL</text>
+ <text x="340" y="389" font-family="monospace" font-size="10" font-weight="bold" fill="#8C3029">BLUE-FLAME SILVER TIGER</text>
+</g>
+<!-- LEFT traditions note -->
+<g filter="url(#shadow)" transform="rotate(-2 165 494)">
+ <rect x="67" y="430" width="235" height="144" fill="#F0E4C9" stroke="#2A241E" stroke-width="3"/>
+ <text x="83" y="454" font-family="monospace" font-size="11" font-weight="bold" fill="#9C332B">DOCTRINAL SPLIT</text>
+ <text x="83" y="482" font-family="Arial" font-size="18" font-weight="900" fill="#26221D">SOUL-NYUMA</text>
+ <text x="83" y="503" font-family="Arial" font-size="12" fill="#29241E">Continuity · natural traits</text>
+ <path d="M83 514H280" stroke="#9D8B70" stroke-width="1"/>
+ <text x="83" y="540" font-family="Arial" font-size="18" font-weight="900" fill="#26221D">SOUL-ZOUN</text>
+ <text x="83" y="559" font-family="Arial" font-size="12" fill="#29241E">Intervention · reconstruction</text>
+</g>
+<!-- LEFT war evidence -->
+<g filter="url(#shadow)" transform="rotate(1.1 405 492)">
+ <rect x="333" y="433" width="249" height="143" fill="#E8D8B9" stroke="#29231D" stroke-width="3"/>
+ <text x="350" y="456" font-family="monospace" font-size="11" font-weight="bold" fill="#A1342D">HIST-001 / CONFIRMED</text>
+ <text x="350" y="485" font-family="Arial" font-size="19" font-weight="900" fill="#24201C">THE GREAT</text>
+ <text x="350" y="507" font-family="Arial" font-size="19" font-weight="900" fill="#24201C">TIANHAI WAR</text>
+ <text x="350" y="535" font-family="Arial" font-size="12" fill="#29231D">Otherworld gates · Tier 7–9</text>
+ <text x="350" y="553" font-family="Arial" font-size="12" fill="#29231D">Demonic Beast incursion</text>
+ <g transform="rotate(-7 546 454)"><rect x="518" y="440" width="52" height="18" fill="#B43B32"/><text x="544" y="453" text-anchor="middle" font-family="monospace" font-size="8" font-weight="bold" fill="#FFF1D9">VERIFIED</text></g>
+</g>
+<!-- LEFT lower mystery map -->
+<g filter="url(#shadow)" transform="rotate(-1 250 714)">
+ <rect x="68" y="615" width="340" height="190" fill="#D8C7A7" stroke="#29231D" stroke-width="3"/>
+ <text x="87" y="641" font-family="monospace" font-size="11" font-weight="bold" fill="#98332D">FIELD MAP / NORTHERN INTERIOR</text>
+ <path d="M92 674Q144 635 190 674T290 672T381 674M91 715Q142 680 191 715T290 714T382 714M92 758Q142 721 190 758T290 757T381 757" fill="none" stroke="#756B59" stroke-width="2"/>
+ <path d="M230 660L248 691L227 717L264 749L245 781" fill="none" stroke="#496A72" stroke-width="4"/>
+ <ellipse cx="245" cy="731" rx="43" ry="25" fill="#6C8C91" opacity=".75" stroke="#344F55" stroke-width="2"/>
+ <text x="245" y="735" text-anchor="middle" font-family="monospace" font-size="9" font-weight="bold" fill="#F6EAD2">AZERION</text>
+ <text x="285" y="690" font-family="Arial" font-size="11" font-weight="bold" fill="#28231D">DEAD ZONE</text>
+ <text x="285" y="705" font-family="Arial" font-size="10" fill="#28231D">Inner / core</text>
+ <text x="87" y="789" font-family="monospace" font-size="10" fill="#8F302A">HEAVENLY BEAST · 7,290,422 YEARS</text>
+</g>
+<!-- LEFT Beiming family / guild small note -->
+<g filter="url(#shadow)" transform="rotate(2 480 704)">
+ <rect x="431" y="614" width="150" height="174" fill="#F1E6D0" stroke="#29231D" stroke-width="3"/>
+ <text x="445" y="638" font-family="monospace" font-size="9" font-weight="bold" fill="#9A302A">PERSONS OF NOTE</text>
+ <text x="445" y="665" font-family="Arial" font-size="13" font-weight="bold" fill="#25211D">BEIMING</text>
+ <text x="445" y="681" font-family="Arial" font-size="13" font-weight="bold" fill="#25211D">NERVA</text>
+ <text x="445" y="701" font-family="Arial" font-size="11" fill="#29231D">Grade 9 Arcanist</text>
+ <path d="M445 713H565" stroke="#A38E70"/>
+ <text x="445" y="738" font-family="Arial" font-size="12" font-weight="bold" fill="#25211D">SPIRIT HUNTERS</text>
+ <text x="445" y="754" font-family="Arial" font-size="12" font-weight="bold" fill="#25211D">GUILD</text>
+ <text x="445" y="775" font-family="monospace" font-size="9" fill="#8B302A">CONTRACT NETWORK</text>
+</g>
+<!-- RIGHT portrait Bai Xuanyin -->
+<g filter="url(#shadow)" transform="rotate(-1.4 760 310)">
+ <rect x="641" y="241" width="224" height="168" fill="#F2E7D2" stroke="#2B241E" stroke-width="3"/>
+ <rect x="652" y="252" width="102" height="116" fill="url(#photo)" stroke="#28221D" stroke-width="2"/>
+ <circle cx="703" cy="289" r="22" fill="#D0C4B1"/><path d="M669 360Q671 314 703 314Q736 314 739 360Z" fill="#D0C4B1"/>
+ <path d="M670 278Q701 245 738 279" fill="none" stroke="#E6D8C1" stroke-width="8"/>
+ <text x="766" y="272" font-family="monospace" font-size="9" fill="#A3352E">LEGACY / DECEASED</text>
+ <text x="766" y="296" font-family="Arial" font-size="15" font-weight="900" fill="#211E1A">BAI XUANYIN</text>
+ <text x="766" y="319" font-family="Arial" font-size="12" fill="#29231D">Arcanist Grade 10</text>
+ <text x="766" y="338" font-family="Arial" font-size="12" fill="#29231D">War heroine</text>
+ <text x="766" y="357" font-family="Arial" font-size="12" fill="#29231D">Artifact creator</text>
+ <text x="655" y="391" font-family="monospace" font-size="10" font-weight="bold" fill="#8F302A">DESIGN FRAMEWORK → TIER 8 DEVICE</text>
+</g>
+<!-- RIGHT institute note -->
+<g filter="url(#shadow)" transform="rotate(1.2 1000 316)">
+ <rect x="890" y="244" width="245" height="152" fill="#E7D9BD" stroke="#2A241E" stroke-width="3"/>
+ <text x="908" y="267" font-family="monospace" font-size="10" font-weight="bold" fill="#9B342D">RESEARCH NODE / TIANHAI</text>
+ <text x="908" y="296" font-family="Arial" font-size="18" font-weight="900" fill="#26211C">TIANHAI ARCANIST</text>
+ <text x="908" y="318" font-family="Arial" font-size="18" font-weight="900" fill="#26211C">INSTITUTE</text>
+ <text x="908" y="346" font-family="Arial" font-size="12" fill="#2C261F">Formation Engravers</text>
+ <text x="908" y="364" font-family="Arial" font-size="12" fill="#2C261F">Materials · formulations</text>
+ <text x="908" y="382" font-family="monospace" font-size="9" fill="#8E302A">TIER 6+ COMPLEX ENGRAVING</text>
+</g>
+<!-- RIGHT artifact evidence -->
+<g filter="url(#shadow)" transform="rotate(-1.5 752 500)">
+ <rect x="642" y="440" width="251" height="145" fill="#F0E5D0" stroke="#2B241E" stroke-width="3"/>
+ <text x="660" y="464" font-family="monospace" font-size="10" font-weight="bold" fill="#9B342D">ARTIFACT CHAIN / WARTIME</text>
+ <text x="660" y="492" font-family="Arial" font-size="18" font-weight="900" fill="#25211D">TIER 8</text>
+ <text x="660" y="514" font-family="Arial" font-size="14" font-weight="bold" fill="#25211D">ONE-USE CONCEALMENT</text>
+ <text x="660" y="538" font-family="Arial" font-size="12" fill="#29231D">Copied from Bai Xuanyin's</text>
+ <text x="660" y="555" font-family="Arial" font-size="12" fill="#29231D">design framework imperfectly</text>
+ <text x="660" y="574" font-family="monospace" font-size="9" fill="#8E302A">GLOBAL ARCANIST DEPLOYMENT</text>
+</g>
+<!-- RIGHT floating island -->
+<g filter="url(#shadow)" transform="rotate(1.3 1012 500)">
+ <rect x="918" y="433" width="216" height="151" fill="#F4E6C8" stroke="#2A241E" stroke-width="3"/>
+ <text x="936" y="456" font-family="monospace" font-size="10" font-weight="bold" fill="#9B342D">STRATEGIC INFRASTRUCTURE</text>
+ <text x="936" y="484" font-family="Arial" font-size="17" font-weight="900" fill="#24201B">TIANHAI YUNZHOU</text>
+ <text x="936" y="507" font-family="Arial" font-size="12" fill="#29231D">Tier 9 Artificial Artifact</text>
+ <text x="936" y="525" font-family="Arial" font-size="12" fill="#29231D">sustains floating island</text>
+ <path d="M936 539H1116" stroke="#A48F70"/>
+ <text x="936" y="559" font-family="monospace" font-size="10" fill="#8C302A">REFINED LIQUEFIED ENERGY</text>
+ <text x="936" y="574" font-family="monospace" font-size="9" fill="#51483D">RAW ORE ≠ MONOPOLY</text>
+</g>
+<!-- CENTER crossing evidence -->
+<g filter="url(#shadow)" transform="rotate(-.7 600 700)">
+ <rect x="610" y="617" width="276" height="174" fill="#E9DCC3" stroke="#29231D" stroke-width="3"/>
+ <text x="629" y="641" font-family="monospace" font-size="10" font-weight="bold" fill="#9A302A">CROSS-CASE CONNECTION</text>
+ <text x="629" y="669" font-family="Arial" font-size="17" font-weight="900" fill="#24201B">WORLD KNOWLEDGE</text>
+ <text x="629" y="691" font-family="Arial" font-size="17" font-weight="900" fill="#24201B">TOWER</text>
+ <text x="629" y="716" font-family="Arial" font-size="12" fill="#29231D">Ordo Suci Tianming</text>
+ <text x="629" y="735" font-family="Arial" font-size="12" fill="#29231D">Ruined Archiver branch</text>
+ <text x="629" y="760" font-family="Arial" font-size="11" fill="#29231D">Golden Age Ruins → verified maps</text>
+ <text x="629" y="778" font-family="monospace" font-size="9" fill="#8F302A">ANOMALY EARLY-WARNING</text>
+</g>
+<!-- lower right secret file -->
+<g filter="url(#shadow)" transform="rotate(1.5 1017 716)">
+ <rect x="914" y="620" width="224" height="178" fill="#E6D8C0" stroke="#29231D" stroke-width="3"/>
+ <text x="932" y="644" font-family="monospace" font-size="10" font-weight="bold" fill="#A3322B">RESTRICTED / UNRESOLVED</text>
+ <text x="932" y="674" font-family="Arial" font-size="18" font-weight="900" fill="#24201C">MEGA COLOSSAL</text>
+ <text x="932" y="697" font-family="Arial" font-size="18" font-weight="900" fill="#24201C">LABYRINTH</text>
+ <text x="932" y="724" font-family="Arial" font-size="12" fill="#29231D">Azerion's unexplored ruin</text>
+ <text x="932" y="743" font-family="Arial" font-size="12" fill="#29231D">deep lake / mutated seabed</text>
+ <text x="932" y="769" font-family="monospace" font-size="10" fill="#8E302A">ACCESS & KNOWLEDGE LIMITED</text>
+ <g transform="rotate(-8 1081 636)"><rect x="1061" y="627" width="61" height="18" fill="#B33C32"/><text x="1091" y="640" text-anchor="middle" font-family="monospace" font-size="8" font-weight="bold" fill="#FFF0D9">SEALED</text></g>
+</g>
+<!-- bottom strip: names and unresolved questions -->
+<g filter="url(#shadow)">
+ <path d="M65 835L1138 829L1141 970L61 975Z" fill="#E5D7BD" stroke="#29231D" stroke-width="3"/>
+ <text x="87" y="862" font-family="monospace" font-size="11" font-weight="bold" fill="#9B332C">CONNECTED NAMES / FOLLOW THE THREADS</text>
+ <text x="87" y="895" font-family="Arial" font-size="15" font-weight="bold" fill="#24201C">JI HAOYUAN</text><text x="87" y="914" font-family="Arial" font-size="11" fill="#29231D">Maharaja · Tower member</text>
+ <text x="286" y="895" font-family="Arial" font-size="15" font-weight="bold" fill="#24201C">JUN HAOTIAN</text><text x="286" y="914" font-family="Arial" font-size="11" fill="#29231D">Golden Dragon Emperor</text>
+ <text x="490" y="895" font-family="Arial" font-size="15" font-weight="bold" fill="#24201C">SHEN YUEHUA</text><text x="490" y="914" font-family="Arial" font-size="11" fill="#29231D">Shen family · intelligence</text>
+ <text x="694" y="895" font-family="Arial" font-size="15" font-weight="bold" fill="#24201C">YING WUXIN</text><text x="694" y="914" font-family="Arial" font-size="11" fill="#29231D">Crimson Sovereign Court</text>
+ <text x="895" y="895" font-family="Arial" font-size="15" font-weight="bold" fill="#24201C">MEDICINE HALL</text><text x="895" y="914" font-family="Arial" font-size="11" fill="#29231D">Neutral medical network</text>
+ <path d="M87 929H1115" stroke="#A28D70" stroke-width="1"/>
+ <text x="87" y="953" font-family="monospace" font-size="10" font-weight="bold" fill="#8F302A">RULE: VERIFIED FACT ≠ RUMOR ≠ HYPOTHESIS. UNKNOWN DETAILS STAY UNKNOWN.</text>
+</g>
+<!-- loose pinned scraps -->
+<g filter="url(#shadow)" transform="rotate(5 533 846)"><rect x="470" y="807" width="126" height="34" fill="#E9B75E" stroke="#28221D" stroke-width="2"/><text x="533" y="829" text-anchor="middle" font-family="monospace" font-size="10" font-weight="bold" fill="#2B241D">DO NOT ASSUME</text></g>
+<g filter="url(#shadow)" transform="rotate(-4 1080 185)"><rect x="1044" y="160" width="74" height="28" fill="#B33C32" stroke="#28221D" stroke-width="2"/><text x="1081" y="179" text-anchor="middle" font-family="monospace" font-size="9" font-weight="bold" fill="#FFF0DA">EVIDENCE</text></g>
+<!-- string legend -->
+<g><path d="M78 990H1118" stroke="#3B2A20" stroke-width="2"/><circle cx="88" cy="990" r="4" fill="#B52E2B"/><text x="101" y="995" font-family="monospace" font-size="9" fill="#F1DFC4">RED THREADS = DOCUMENTED RELATIONSHIPS / NOT PROOF OF A SINGLE CONSPIRACY</text><text x="1115" y="995" text-anchor="end" font-family="monospace" font-size="9" fill="#F1DFC4">MERZKAVA ARCHIVE // 01</text></g>
 </svg>

@@ -15,6 +15,16 @@ Jika instruksi atau tuntutan tampak bertentangan, GM wajib mengikuti urutan ini:
 
 Aturan wajib tidak boleh diabaikan demi gaya narasi. Namun, jangan memperluas satu aturan menjadi kewajiban tambahan yang tidak tertulis: bila Authority Order merujuk Narrative Dynamics, baca modul itu sebagai panduan operasional narasi dan jangan menggandakan checklist panjangnya di sini. Jika ada konflik canon atau mekanik, jangan menyelesaikannya lewat improvisasi naratif.
 
+
+### HARD GATE TRADISI SPIRIT REALM — SOUL-NYUMA / SOUL-ZOUN
+
+- Untuk klasifikasi filosofi, sekolah, metode, atau ajaran Spirit Realm, gunakan `core/SPIRIT_REALM_TRADITIONS.md`.
+- Bedakan **Soul-Nyuma** (pendekatan lurus yang memahami dan mengembangkan sifat intrinsik serta keteraturan alami) dari **Soul-Zoun** (pendekatan Aberration yang mengkaji penyimpangan dari keteraturan tersebut). Keduanya mencakup seluruh domain Martial Soul dan fenomena terkait; bukan dua sistem mekanik terpisah.
+- Jangan mengklasifikasikan seseorang atau institusi berdasarkan wilayah, spesies, reputasi, gaya bertarung, atau penilaian moral. Jika bukti ajaran tidak cukup, gunakan kategori umum **Spirit Realm instruction** dan biarkan afiliasi tradisinya tidak ditentukan.
+- Soul-Zoun tidak otomatis jahat, terlarang, demonic, kriminal, atau penyebab Apocalypse. Aberration adalah deskripsi fenomena/pendekatan; legalitas, risiko, dan akibat harus ditentukan dari metode nyata, hukum lokal, dan bukti.
+- Jangan gunakan lagi Orthodox, Unbound, Forbidden, dan Supremacy sebagai taksonomi global empat aliran. Istilah tersebut hanya boleh muncul sebagai istilah lokal/historis yang konteksnya jelas.
+- Doktrin tidak mengubah mekanik. Awakening, Spirit Realm, Spirit Ring, kompatibilitas, Sync, mutasi, Spirit Beast, kemampuan, combat, dan Arcanistry tetap tunduk pada modul otoritatif masing-masing.
+
 ### HARD GATE PENYERAPAN SPIRIT RING — SATU FORMULA RESMI
 
 - Untuk setiap percobaan Penyerapan Spirit Ring, baca dan gunakan `core/SPIRIT_RING_RULES.md` §5.5 dan §6.1 setelah bootstrap `INDEX.md` → `templates/AUTHORITY_ORDER.md`. Modul tersebut adalah satu-satunya sumber aktif untuk tekanan usia, toleransi Spirit Realm, EAG, cap Sync, peluang keberhasilan, risiko kecacatan Martial Soul permanen, dan AWR.

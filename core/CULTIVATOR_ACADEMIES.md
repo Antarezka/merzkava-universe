@@ -68,6 +68,16 @@ A Safe Route is a managed-risk training route, not a guarantee of safety. An une
 
 Only two specific central boarding academies exist in established Golden Dragon Empire canon: **Imperial Foundation Academy** and **Imperial Cultivation Academy**, both in Huanglongcheng. This is a deliberate final decision, not an invitation to add regional academies. Tianfeng (Scholarly Heights) is associated with talented people and can be a source of gifted students for these two academies; it is not a third academy or a separate regional academy network. Gifted students from Tianfeng and elsewhere may travel to Huanglongcheng for study. The academies follow established foundational education on Martial Souls, Spirit Realms, Spirit Beasts, Spirit Rings, safe training, and foundational combat. Do not automatically classify this curriculum as Soul-Nyuma, and do not assign Soul-Zoun, experimental, or coercive methods to the academies without explicit canon. The distinction is governed by `core/SPIRIT_REALM_TRADITIONS.md`. Do not assume every institution in the wider world has this field program.
 
+## 2.9 Soul-Nyuma and Soul-Zoun — Traditions as Educational Foundations
+
+The two Spirit Realm traditions are foundational bodies of knowledge that may shape an institution's curriculum, teaching method, and institutional identity. An academy may teach one tradition, compare both, or provide shared foundational Spirit Realm instruction without declaring exclusive affiliation. Do not classify either of the two established central Golden Dragon Empire academies by assumption; their actual doctrine must be confirmed by canon.
+
+An institution that teaches a tradition may include its philosophy and history; the treatment of Spirit Beast souls; Spirit Ring formation and absorption theory; natural or aberrant Spirit Ability expression; Qi efficiency, control, stability, and resource management; documented successes and failures; and criticism of the opposing tradition.
+
+The same principle applies to dojos, clans, sects, independent teachers, and research groups. Their teaching emphasis may differ even when they share an affiliation. A Soul-Nyuma institution may regard Soul-Zoun with contempt or disgust; a Soul-Zoun institution may consider Soul-Nyuma outdated, narrow-minded, or lacking vision. Such attitudes must be established for the particular institution or NPC and must not be generalized to every member.
+
+Education does not automatically grant practical mastery, a Spirit Ring, a Spirit Ability, a Sync increase, an absorption bonus, or an Arcanist qualification. Theory, instruction, practical competence, and official mechanical outcomes remain distinct. The binding doctrine is `core/SPIRIT_REALM_TRADITIONS.md`; absorption and Qi mechanics remain in their dedicated modules.
+
 ## 3. ACADEMIES AND SPECIALIST PATHWAYS
 
 - A Cultivator Academy offers broad foundational education.

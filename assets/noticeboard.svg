@@ -173,7 +173,7 @@
  <text x="932" y="697" font-family="Arial" font-size="18" font-weight="900" fill="#24201C">LABYRINTH</text>
  <text x="932" y="724" font-family="Arial" font-size="12" fill="#29231D">Azerion's unexplored ruin</text>
  <text x="932" y="743" font-family="Arial" font-size="12" fill="#29231D">deep lake / mutated seabed</text>
- <text x="932" y="769" font-family="monospace" font-size="10" fill="#8E302A">ACCESS & KNOWLEDGE LIMITED</text>
+ <text x="932" y="769" font-family="monospace" font-size="10" fill="#8E302A">ACCESS &amp; KNOWLEDGE LIMITED</text>
  <g transform="rotate(-8 1081 636)"><rect x="1061" y="627" width="61" height="18" fill="#B33C32"/><text x="1091" y="640" text-anchor="middle" font-family="monospace" font-size="8" font-weight="bold" fill="#FFF0D9">SEALED</text></g>
 </g>
 <!-- bottom strip: names and unresolved questions -->

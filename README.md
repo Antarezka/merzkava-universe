@@ -199,7 +199,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 [Rollback instructions](SAFE_VERSION.md)
 
-<sub><span style="color:#D4AF37"><strong>v4.0.9</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v4.0.10</strong></span></sub>
 
 </td>
 </tr>

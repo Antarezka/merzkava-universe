@@ -30,6 +30,7 @@ Pilih sumber berdasarkan aksi dan lokasi; jika beberapa sistem terdampak, baca s
 | Anti-cheat, bypass, warning wajib, rollback, eskalasi sanksi, dan pengecualian kematian permanen | `templates/ANTI_CHEAT_HARD_GATE.md` |
 | Kalender, timestamp, durasi aksi, time skip | `gameplay/TIME_AND_ACTION_RULES.md` |
 | Encounter perjalanan, ambush terpisah, dan pertolongan darurat tabib pengembara Medicine Hall Society | `gameplay/TRAVEL_ENCOUNTER_AMBUSH_RESCUE.md` |
+| Tradisi Spirit Realm: definisi Soul-Nyuma/Soul-Zoun, klasifikasi sekolah, dan batas doktrin | `core/SPIRIT_REALM_TRADITIONS.md` (otoritas doktrin; mekanik tetap di modul masing-masing) |
 | Spirit Realm, Stage, Sync, bottleneck, breakthrough | `core/CULTIVATION_SYSTEM.md` |
 | Akademi kultivator dan pendidikan dasar | `core/CULTIVATOR_ACADEMIES.md` |
 | Keputusan canon final, prioritas sumber, dan aturan sinkronisasi file lama/baru | `world/CANON_DECISIONS_AND_PRECEDENCE.md` |

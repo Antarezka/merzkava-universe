@@ -30,15 +30,15 @@ This acceptance is often transactional. A person may be treated as an asset, wea
 
 ### 4. Golden Dragon Empire — Accepted, Yet Considered Impure
 
-The Golden Dragon Empire follows orthodox traditions that place high value on perceived purity. Half-beast people are nevertheless accepted as members of society and are not categorically excluded from living within the Golden Dragon Empire.
+Some Golden Dragon Empire communities and institutions follow conservative traditions that place high value on perceived purity. Half-beast people are nevertheless accepted as members of society and are not categorically excluded from living within the Golden Dragon Empire.
 
-However, prejudice remains common in some communities and institutions. They may face racism, social exclusion, unequal treatment, or suspicion because their lineage is considered impure by orthodox-minded people. Legal or social acceptance does not guarantee equal treatment.
+However, prejudice remains common in some communities and institutions. They may face racism, social exclusion, unequal treatment, or suspicion because their lineage is considered impure by some purity-focused traditionalists. Legal or social acceptance does not guarantee equal treatment.
 
 ## Limits and Exceptions
 
 - These rankings describe general tendencies; they do not determine every person's attitude or every local law.
 - Individual communities, clans, sects, employers, and officials may behave differently from the broader regional pattern.
-- Some orthodox, heterodox, demonic, and independent factions may welcome, protect, recruit, or exploit half-beast people for different reasons.
+- Some conservative, unconventional, demonic, and independent factions may welcome, protect, recruit, or exploit half-beast people for different reasons. These social descriptors do not establish Soul-Nyuma or Soul-Zoun affiliation; use `core/SPIRIT_REALM_TRADITIONS.md` only when an actual Spirit Realm doctrine is evidenced.
 - Prejudice and exploitation can occur in any region, even where general tolerance is high.
 - Do not assume that every half-beast person has the same experience, status, abilities, or social opportunities.
 - Do not invent universal legal rights, formal bans, population figures, or detailed biological rules unless they are established in canon.

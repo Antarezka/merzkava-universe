@@ -24,7 +24,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ### ✦ READY-TO-COPY ROLEPLAY HASH ✦
 
-**Latest pinned source:** `a00dc3b`
+**Latest pinned source:** `fac63a8`
 
 </div>
 <!-- RP_SOURCE_END -->
@@ -33,7 +33,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ![THE NOTICEBOARD](https://img.shields.io/badge/THE_NOTICEBOARD-FFFFFF?style=for-the-badge&labelColor=151515)
 
-![Merzkava Universe noticeboard introducing its three powers, hidden territories, consequential choices, Arcanists and Artificial Artifacts, a living world, and rumors versus facts](assets/noticeboard.svg?v=7)
+![Merzkava Universe noticeboard introducing its three powers, hidden territories, consequential choices, Arcanists and Artificial Artifacts, a living world, and rumors versus facts](assets/noticeboard.svg?v=8)
 
 ---
 
@@ -222,7 +222,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![NIGHTLY](assets/nightly-version.svg?v=15)
 
-<sub><span style="color:#D4AF37"><strong>v4.0.15</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v4.0.16</strong></span></sub>
 
 </td>
 </tr>
@@ -235,6 +235,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 *Recent world and system updates*
 
 ---
+- ✦ **Noticeboard Evidence Threads Reworked**
+  Hash: ``fac63a8`` | Ver: ``Nightly-v4.0.16`` · ``Stable-v4.0.1``
+  Replaces thick decorative cords with finer, taut, intersecting evidence strings; adds restrained pin wraps and short loose ends, following the Reverse: 1999 relation-board visual language.
+
 - ✦ **Canonical GM Options Layout Enforced**
   Hash: ``907b64b`` | Ver: ``Nightly-v4.0.15`` · ``Stable-v4.0.1``
   Aligns INDEX, Authority Order, and the gameplay template on the exact framed `PILIHAN AKSI GM` block. Numbered lists, plain bullets, and alternate headings are explicitly invalid; all other visual panels and mechanics remain unchanged.
@@ -254,11 +258,6 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **Arcanistry Terminology Unified**
   Hash: ``e34188d`` | Ver: ``Nightly-v4.0.11`` · ``Stable-v4.0.1``
   Replaces previous practitioner terminology with Arcanist and Arcanistry across progression, Focus, Grade, institutional lore, world history, regional records, NPC profiles, templates, and the noticeboard while preserving established mechanics.
-
-
-- ✦ **Unified Spirit Ring Absorption & AWR Calibration**
-  Hash: ``07cae10`` | Ver: ``Nightly-v4.0.11`` · ``Stable-v4.0.1``
-  Consolidates all numeric absorption formulas in §6.1, removes conflicting legacy voluntary-sync wording, separates permanent-defect chance from the §5 deviation variable, and keeps INDEX/Authority Order routed to one source.
 
 
 

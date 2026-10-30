@@ -33,7 +33,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ![THE NOTICEBOARD](https://img.shields.io/badge/THE_NOTICEBOARD-FFFFFF?style=for-the-badge&labelColor=151515)
 
-![Eastern-inspired Merzkava investigation board with multiple character portrait photographs, land and sea maps, layered evidence, lacquered wood, cloud ornaments and taut blue-red threads](assets/noticeboard.svg?v=15)
+![Eastern-inspired Merzkava investigation board with multiple character portrait photographs, land and sea maps, layered evidence, lacquered wood, cloud ornaments and taut blue-red threads](assets/noticeboard.svg?v=16)
 
 ---
 
@@ -235,9 +235,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 *Recent world and system updates*
 
 ---
-- ✦ **Eastern Investigation Board — Character Portraits & Lacquered Frame**
-  Hash: ``dddfd46`` | Ver: ``Nightly-v4.0.23`` · ``Stable-v4.0.1``
-  Adds multiple character portrait prints and gives the board an eastern archival identity: dark lacquer framing, aged brass details, cloud-scroll ornaments, and a shorter header. Keeps the tangled blue-red evidence threads and mixed world records.
+- ✦ **Investigation Board — Header Fit & Overlaid Evidence Threads**
+  Hash: ``b677b0d`` | Ver: ``Nightly-v4.0.24`` · ``Stable-v4.0.1``
+  Shrinks and repositions the header to stay within its paper. Moves taut red-blue threads above portraits, maps and documents, adding cross-links through the evidence layers.
 - ✦ **Merzkava World Archive Wall Rebuilt**
   Hash: ``894f4b2`` | Ver: ``Nightly-v4.0.21`` · ``Stable-v4.0.1``
   Replaces the narrow Arcanistry-focused board with a wide, densely layered world investigation wall: Spirit Realm, three powers, geography, characters, Spirit Beasts and Rings, doctrine, history, factions, Azerion, travel, economy, festivals, academies and Arcanistry.

@@ -3,6 +3,8 @@
 Status: Modul mekanik resmi.
 Cakupan: Ordinary Beast, Spirit Beast, Supreme Beast, Demonic Beast, Heavenly Beast, sifat tambahan, perilaku, persyaratan penyerapan Spirit Ring, dan item khusus.
 
+**Tradition boundary:** Spirit Beast species, categories, behavior, age, and mechanics do not determine whether an observer or school follows Soul-Nyuma or Soul-Zoun. Both traditions study the same Spirit Realm domain; classification requires evidence of actual doctrine. See `core/SPIRIT_REALM_TRADITIONS.md`.
+
 ## 1. Kategori, Klasifikasi, dan Perilaku Beast
 
 Gunakan klasifikasi berikut sebagai satu sistem terpadu. Kategori utama menjelaskan jenis dan watak dasar Beast; umur, kondisi khusus, serta hasil appraisal tetap dicatat secara terpisah.

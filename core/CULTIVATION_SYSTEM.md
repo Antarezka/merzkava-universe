@@ -12,6 +12,9 @@ Modul ini hanya menetapkan aturan yang telah disepakati. Angka pertumbuhan kekua
 - **Mortal** adalah status dasar sebelum memasuki sembilan Spirit Realm, bukan Spirit Realm 0 dan bukan nama Realm tambahan.
 - Aturan penamaan ini tidak mengubah nama proper lain yang memakai kata *Realm* dalam arti berbeda, misalnya **Heaven Realm** dalam lore sejarah.
 
+
+**Tradition boundary:** This module governs Spirit Realm progression mechanics, not the philosophy of its schools. Soul-Nyuma and Soul-Zoun are defined in `core/SPIRIT_REALM_TRADITIONS.md`; neither tradition changes the nine-level progression, Stage, Sync, bottleneck, breakthrough, or Spirit Ring slot rules below.
+
 ---
 
 ## 1. Sembilan Spirit Realm

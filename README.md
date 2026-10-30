@@ -235,25 +235,15 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 *Recent world and system updates*
 
 ---
-- ✦ **Investigation Board — Header Typography Reduced**
-  Hash: ``ad4bab0`` | Ver: ``Nightly-v4.0.27`` · ``Stable-v4.0.1``
-  Reduces oversized section labels and paper titles, including Soul-Nyuma / Soul-Zoun, so headers fit their paper panels. Leaves all other artwork and content unchanged.
-- ✦ **Investigation Board — Fine Varied Investigation Threads**
-  Hash: ``abc53da`` | Ver: ``Nightly-v4.0.26`` · ``Stable-v4.0.1``
-  Replaces heavy cords with varied hair-thin red and blue silk lines, subtle shadows and small pin tips. Keeps lettering within the board and header strip.
+- ✦ **Investigation Board — Visual Refinement**
+  Hash: ``ad4bab0`` / ``abc53da`` | Ver: ``Nightly-v4.0.27`` / ``Nightly-v4.0.26`` · ``Stable-v4.0.1``
+  Combines compact header typography with fine, varied evidence threads for a cleaner, fully legible investigation board.
 - ✦ **Merzkava World Archive Wall Rebuilt**
   Hash: ``894f4b2`` | Ver: ``Nightly-v4.0.21`` · ``Stable-v4.0.1``
-  Replaces the narrow Arcanistry-focused board with a wide, densely layered world investigation wall: Spirit Realm, three powers, geography, characters, Spirit Beasts and Rings, doctrine, history, factions, Azerion, travel, economy, festivals, academies and Arcanistry.
-- ✦ **Noticeboard SVG Compatibility Rebuilt**
-  Hash: ``0305060`` | Ver: ``Nightly-v4.0.20`` · ``Stable-v4.0.1``
-  Removes SVG filters and reusable symbol references that may be stripped by GitHub's renderer; keeps the layered board using basic SVG shapes and paths.
+  Rebuilds the archive as a broad investigation wall connecting the three powers, geography, characters, factions, history, Spirit systems, travel, economy, and institutions.
 - ✦ **Arcanistry Investigation Wall Expanded**
   Hash: ``192de0e`` | Ver: ``Nightly-v4.0.18`` · ``Stable-v4.0.1``
-  Expands the four academies, Tianhai Arcanist Institute, focus stages, Grade progression, advanced credential gates, research remit, Formation Engraver, and artifact history.
-- ✦ **Noticeboard Restored to fac63a8 Design**
-  Hash: ``cc57a2a`` | Ver: ``Nightly-v4.0.17`` · ``Stable-v4.0.1``
-  Restores the noticeboard SVG from commit `fac63a8`; removes the replacement artwork and refreshes the README image cache reference.
-
+  Consolidates the academies, institute, focus stages, Grade progression, examination gates, engraver requirements, research scope, and artifact history.
 </div>
 
 

@@ -37,7 +37,7 @@ The Golden Dragon Empire has **exactly two named central boarding Cultivator Aca
 
 Do not add regional academies, prefectural academies, or village academies as established institutions unless the owner explicitly changes this decision. **Tianfeng (Scholarly Heights) is a place associated with the birth and cultivation of talented people and a source of gifted students for the two academies; it is not a third academy and does not imply a separate regional academy network.** Talented people from Tianfeng and other regions may travel to Huanglongcheng to receive education at the two central academies. Local tutoring, family instruction, mentors, dojos, and self-study are possible learning routes, but must not be mislabeled as additional Cultivator Academies.
 
-The two academies follow orthodox, established cultivation education. They prioritize formal knowledge and accepted methods concerning Martial Souls, Spirit Realms, Spirit Beasts, Spirit Rings, safe training, and foundational combat. Do not make extreme, unorthodox, experimental, or coercive methods their default curriculum without explicit canon.
+The two academies follow established foundational cultivation education. They prioritize formal knowledge and accepted methods concerning Martial Souls, Spirit Realms, Spirit Beasts, Spirit Rings, safe training, and foundational combat. This institutional curriculum must not be automatically classified as Soul-Nyuma unless its doctrine is explicitly established; nor should Soul-Zoun, experimental, or coercive methods be assigned to them without explicit canon.
 
 ### 2.2 Grand Martial Soul Awakening Hall and Public Awakening
 
@@ -100,6 +100,20 @@ All seven `world/REGION_*.md` modules must remain consistent with the atlas. Whe
 - AWR is separate from the recipient's Spirit Ring rejection, absorption success, Sync cap, and permanent Martial Soul defect. Recipient preparation and voluntary handover do not erase AWR; age, Spirit Beast aggressiveness, and the calculated rejection level determine its probability under the official formula.
 - AWR triggering does not automatically open a gate to another world. Any gate-opening event must be resolved as a separate anomaly escalation consistent with the established world-calamity history. Do not invent a gate-opening probability unless the owner establishes one.
 - This decision does not establish that Spirit Beasts above seven million years are common. They remain exceptional stress cases; the 7,290,422-year Heavenly Beast in Azerion is a known example, not a population baseline.
+
+
+### 2.9 Three Knowledge Disciplines and Spirit Realm Traditions — Binding Canon
+
+Merzkava's three principal knowledge disciplines are **Arcanistry**, **Spirit Realm — Soul-Nyuma**, and **Spirit Realm — Soul-Zoun**. Arcanistry remains an independent discipline governed by `core/ARCANISTRY_AND_FORMULATION.md`; it is not a third Spirit Realm doctrine. Soul-Nyuma and Soul-Zoun are the two comprehensive traditions within the same Spirit Realm domain and study the same full range of Martial Soul and related phenomena.
+
+- **Soul-Nyuma** is the straight/natural tradition: it studies and develops the intrinsic nature and natural order of Martial Soul, Spirit Beast, Spirit Ring, Spirit Ability, compatibility, synchronization, evolution, mutation, and cultivation.
+- **Soul-Zoun** is the Aberration-oriented tradition: it studies departures from ordinary/natural order, their causes, properties, limits, containment, redirection, integration, and possible applications.
+- Aberration is descriptive, not moral. Soul-Zoun is not inherently evil, forbidden, demonic, criminal, destructive, or apocalyptic. Local law and social judgment apply to actual methods and consequences, not to the name alone.
+- Both traditions cover the same domain. Neither has a separate cultivation scale, independent ring rules, alternative awakening, or permission to bypass existing mechanics.
+- Do not classify a faction, school, person, or region without evidence of its actual doctrine. If uncertain, retain the general category Spirit Realm instruction.
+- The former global four-part taxonomy Orthodox / Unbound / Forbidden / Supremacy is retired. Any surviving use must be explicitly local, historical, legal, religious, or factional—not a global tradition category. Do not mechanically map the four old labels onto the two new traditions.
+- The ancient world calamity involved catastrophic anomalies, but the calamity is not the definition of Soul-Zoun and no causal responsibility is assigned to Soul-Zoun or its practitioners unless a separate canonical source establishes it.
+- `core/SPIRIT_REALM_TRADITIONS.md` owns doctrine and classification. `core/CULTIVATION_SYSTEM.md`, `core/MARTIAL_SOUL.md`, `core/MARTIAL_SOUL_AWAKENING.md`, `core/SPIRIT_RING_RULES.md`, and `bestiary/SPIRIT_BEAST_RULES.md` retain exclusive authority over their respective mechanics.
 
 ## 3. Updating Canon Safely
 

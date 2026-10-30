@@ -222,7 +222,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![NIGHTLY](assets/nightly-version.svg?v=14)
 
-<sub><span style="color:#D4AF37"><strong>v4.0.12</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v4.0.13</strong></span></sub>
 
 </td>
 </tr>
@@ -235,6 +235,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 *Recent world and system updates*
 
 ---
+- ✦ **Soul-Nyuma & Soul-Zoun — Three-Discipline Canon Established**
+  Hash: ``8c250f3`` | Ver: ``Nightly-v4.0.13`` · ``Stable-v4.0.1``
+  Establishes Arcanistry as independent, defines Soul-Nyuma and Soul-Zoun across the shared Spirit Realm domain, retires the former global four-label taxonomy, and separates Aberration from morality and the ancient apocalypse.
+
 - ✦ **Arcanist, Arcanistry & Arcanism Context Aligned**
   Hash: ``d952d9a`` | Ver: ``Nightly-v4.0.12`` · ``Stable-v4.0.1``
   Defines Arcanist as the practitioner, Arcanistry as the complete discipline, and Arcanism as its theoretical principles; corrects contextual wording without changing progression or artifact mechanics.
@@ -256,9 +260,6 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
   Hash: ``32babe3`` | Ver: ``Nightly-v4.0.10`` · ``Stable-v4.0.1``
   Preserves the accepted v4.0.10 snapshot on `SAFE-VERSION-v4.0.10` and documents the preserved repo structure and recovery procedure in `SAFE_VERSION.md`.
 
-- ✦ **Narrative Density & Mandatory Contextual GM Options**
-  Hash: ``09fc0b3`` | Ver: ``Nightly-v4.0.10`` · ``Stable-v4.0.1``
-  Raises concrete Merzkava detail frequency throughout substantive scenes and hard-gates three distinct GM options when enabled, including a relevant in-world conversation/social topic or contextual observation alternative.
 
 </div>
 

@@ -30,6 +30,9 @@ Every listed school or instructor must be classified according to its establishe
 
 A school can host guest teachers from another category without changing its primary identity. A combat dojo is not automatically an Arcanist school; a workshop is not automatically qualified to teach Spirit Realm progression; a religious house is not automatically a cultivation academy. Classify only what the canon and teacher's evidence support.
 
+
+**Spirit Realm tradition classification:** Spirit Realm instruction may teach shared foundations or be associated with **Soul-Nyuma** or **Soul-Zoun** when the actual teacher, curriculum, method, or institutional doctrine supports that classification. Soul-Nyuma studies the intrinsic/natural order; Soul-Zoun studies aberration and departures from that order. These are not regional labels, moral alignments, or separate mechanical progression systems. Do not infer a school's tradition from its region or reputation. When uncertain, leave it as general Spirit Realm instruction. Full doctrine: `core/SPIRIT_REALM_TRADITIONS.md`.
+
 ## 3. Existing Institutions: Assign Material by Established Fit
 
 The following curriculum map uses already established organizations and their known spheres of influence. It defines the likely material they can offer, not a new guarantee of admission, a new facility, a named instructor, or an exclusive monopoly.
@@ -118,15 +121,15 @@ Northern material should reflect cold, difficult routes, local resources, and de
 | Existing group or institution | Default category | Suitable student material and limits |
 |---|---|---|
 | Blood Vow Sect | **Spirit Realm** | Blood-oath practices, contracts, and high-risk cultivation methods; instruction can be dangerous and ethically contested. |
-| Ashen Bone Hall | **Spirit Realm** | Body techniques and unconventional cultivation; dangerous experimentation is not a safe default. |
+| Ashen Bone Hall | **Spirit Realm** | Body techniques and unconventional cultivation; dangerous experimentation is not a safe default. Unconventional practice alone does not establish Soul-Zoun affiliation. |
 | Black Scripture Sect | Support; restricted knowledge | Text collection, forbidden/restricted records, and appraisal practice. A text may be incomplete, dangerous, or wrong; access is not guaranteed. |
 | Hollow Fang Alliance | **Spirit Realm** | Practical combat, bounty work, and arena experience where a particular member actually teaches. It is a shifting alliance, not a standardized academy. |
 | Dreadtide Sect | **Spirit Realm** | Maritime combat, pressure adaptation, and surprise attacks. |
-| Abyssal Moon Sect | **Spirit Realm** | Dark-energy and heterodox cultivation methods; risk and local hostility vary. |
+| Abyssal Moon Sect | **Spirit Realm** | Dark-energy cultivation methods; risk and local hostility vary. Do not assign Soul-Zoun without evidence that its doctrine investigates aberration. |
 | Sea of Graves Hall | Support; possible dual-path expedition instruction with qualified guides | Expedition practice, dangerous sea routes, ruins, and handling exploration finds. |
 | Crimson Keel Brotherhood | Support; possible Spirit Realm instruction with evidence | Seamanship, smuggling, piracy, and illegal escort practices; never present criminal instruction as safe or universally available. |
 | Crimson Sovereign Court | **Spirit Realm** where a qualified teacher is actually accessible | Concealed high-level influence; its hidden structure and access restrictions remain intact. Do not make its instruction casually available. |
-| Frozen Blood Sect | **Spirit Realm** | Cold-energy and blood-based cultivation considered dangerous by many orthodox groups. |
+| Frozen Blood Sect | **Spirit Realm** | Cold-energy and blood-based cultivation regarded as dangerous by some local groups; this social judgment does not establish a Soul-Zoun affiliation. |
 | Black Frost Palace | **Spirit Realm** | Freezing techniques, defense, and secrecy. |
 | Corpse Lantern Sect | **Spirit Realm** | Death-energy and corpse-related study, taboo or restricted in many places. |
 | Silent Maw Hall | Support | Discreet brokerage and risk awareness, not automatic assassin training or guaranteed access to contracts. |

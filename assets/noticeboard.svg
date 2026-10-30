@@ -179,7 +179,7 @@
 <g><path d="M78 990H1118" stroke="#3B2A20" stroke-width="2"/><circle cx="88" cy="990" r="4" fill="#B52E2B"/><text x="101" y="995" font-family="monospace" font-size="9" fill="#F1DFC4">RED THREADS = DOCUMENTED RELATIONSHIPS / NOT PROOF OF A SINGLE CONSPIRACY</text><text x="1115" y="995" text-anchor="end" font-family="monospace" font-size="9" fill="#F1DFC4">MERZKAVA ARCHIVE // 01</text></g>
 
 <!-- OVERHEAD RED THREADS: tangled, visible connections between established evidence nodes -->
-<g fill="none" stroke="#A91F25" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round" opacity=".96" filter="url(#shadow)">
+<g fill="none" stroke="#A91F25" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round" opacity=".96">
  <path d="M180 315 C260 210 330 220 414 315 S540 405 457 500 S300 585 245 710"/>
  <path d="M180 315 C300 370 350 430 457 500 C560 555 640 605 748 700"/>
  <path d="M414 315 C470 250 600 225 750 315 S910 385 1020 510"/>

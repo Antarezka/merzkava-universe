@@ -140,3 +140,16 @@ When new information is added:
 - The two central academies and educational limits: `core/CULTIVATOR_ACADEMIES.md`
 - Guild contract scope and operating rules: `world/SPIRIT_HUNTERS_GUILD.md`
 - Organization overview: `world/FACTIONS.md`
+
+
+## 5. Binding Decisions — Spirit Realm Traditions and Education
+
+1. **Two traditions, one shared domain.** Soul-Nyuma and Soul-Zoun are the two comprehensive traditions for the same Spirit Realm domain. Soul-Nyuma respects soul continuity and intrinsic characteristics; Soul-Zoun intervenes in the soul's process and may produce aberrant characteristics.
+2. **Spirit Ring process remains mechanically unified.** Their methods may differ before and during Spirit Ring formation and in the resulting manifestation, but neither tradition has a separate absorption formula, automatic success, Sync bonus, exemption, or bypass. `core/SPIRIT_RING_RULES.md` remains the sole mechanics authority.
+3. **Power expression and Qi trade-off.** Nyuma abilities tend to preserve the Spirit Beast's default characteristics and use Qi more efficiently; Zoun abilities may deviate from those characteristics and tend to require additional Qi for aberrant formation, maintenance, stabilization, or control. These are qualitative tendencies, not universal numerical modifiers. The illustrative 12%/19% costs are not a global table.
+4. **Institutions shape interpretation.** Academies, dojos, clans, sects, teachers, and research groups may adopt either tradition, compare both, or teach shared foundations. Their affiliation requires actual evidence in curriculum, methods, records, or declared doctrine. Their opinions of the opposing tradition are local perspectives and may include contempt, disgust, criticism, or claims of backwardness; they are not universal facts and do not make every member think alike.
+5. **Historical Sync achievement.** The only recorded achievement of a Spirit Ring with full potential and a 100% Sync cap in Merzkava's history was attained by an ahli Spirit Realm of Soul-Nyuma. This is historical canon, not a mechanical bonus, universal guarantee, or permanent prohibition against future Soul-Zoun achievement.
+6. **No invented numerical boundaries.** No universal aberration levels, structural-collapse thresholds, Qi multiplier, or tradition-based absorption modifier are established by this decision. Add them only through explicit owner approval and updates to the relevant mechanical authority.
+7. **No retroactive faction assignment.** Do not assign existing academies, clans, dojos, sects, or named NPCs to either tradition merely because a new example resembles their name, region, reputation, or combat style. Illustrative names such as White Cloud Clan and Peerless Mountain Clan do not create new canon institutions.
+
+The doctrine authority is `core/SPIRIT_REALM_TRADITIONS.md`. Education references are `core/CULTIVATOR_ACADEMIES.md` and `world/OPEN_LEARNING_PATHS_AND_WANDERING_INSTRUCTORS.md`. Mechanical authorities remain the dedicated Spirit Realm, Spirit Ring, Spirit Beast, Qi, and combat modules.

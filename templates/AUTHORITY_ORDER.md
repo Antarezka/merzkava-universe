@@ -16,14 +16,18 @@ Jika instruksi atau tuntutan tampak bertentangan, GM wajib mengikuti urutan ini:
 Aturan wajib tidak boleh diabaikan demi gaya narasi. Namun, jangan memperluas satu aturan menjadi kewajiban tambahan yang tidak tertulis: bila Authority Order merujuk Narrative Dynamics, baca modul itu sebagai panduan operasional narasi dan jangan menggandakan checklist panjangnya di sini. Jika ada konflik canon atau mekanik, jangan menyelesaikannya lewat improvisasi naratif.
 
 
-### HARD GATE TRADISI SPIRIT REALM — SOUL-NYUMA / SOUL-ZOUN
+### HARD GATE TRADISI & PENDIDIKAN SPIRIT REALM — SOUL-NYUMA / SOUL-ZOUN
 
-- Untuk klasifikasi filosofi, sekolah, metode, atau ajaran Spirit Realm, gunakan `core/SPIRIT_REALM_TRADITIONS.md`.
-- Bedakan **Soul-Nyuma** (pendekatan lurus yang memahami dan mengembangkan sifat intrinsik serta keteraturan alami) dari **Soul-Zoun** (pendekatan Aberration yang mengkaji penyimpangan dari keteraturan tersebut). Keduanya mencakup seluruh domain Martial Soul dan fenomena terkait; bukan dua sistem mekanik terpisah.
-- Jangan mengklasifikasikan seseorang atau institusi berdasarkan wilayah, spesies, reputasi, gaya bertarung, atau penilaian moral. Jika bukti ajaran tidak cukup, gunakan kategori umum **Spirit Realm instruction** dan biarkan afiliasi tradisinya tidak ditentukan.
-- Soul-Zoun tidak otomatis jahat, terlarang, demonic, kriminal, atau penyebab Apocalypse. Aberration adalah deskripsi fenomena/pendekatan; legalitas, risiko, dan akibat harus ditentukan dari metode nyata, hukum lokal, dan bukti.
-- Jangan gunakan lagi Orthodox, Unbound, Forbidden, dan Supremacy sebagai taksonomi global empat aliran. Istilah tersebut hanya boleh muncul sebagai istilah lokal/historis yang konteksnya jelas.
-- Doktrin tidak mengubah mekanik. Awakening, Spirit Realm, Spirit Ring, kompatibilitas, Sync, mutasi, Spirit Beast, kemampuan, combat, dan Arcanistry tetap tunduk pada modul otoritatif masing-masing.
+- `core/SPIRIT_REALM_TRADITIONS.md` adalah otoritas doktrin: filosofi pengolahan jiwa, Spirit Ring formation/absorption sebagai pendekatan, manifestasi Spirit Ability, efisiensi Qi secara kualitatif, pendidikan, perspektif institusi, dan fakta sejarah Sync Cap 100%.
+- **Soul-Nyuma** menjaga kesinambungan dan hakikat jiwa; tidak sengaja memotong proses, melemahkan, atau menyegel jiwa demi kemudahan. Manifestasi kemampuan cenderung mempertahankan karakteristik dasar Spirit Beast dan penggunaan Qi cenderung lebih efisien/stabil.
+- **Soul-Zoun** mengintervensi proses jiwa melalui pemangkasan, pelemahan, penyegelan, penangguhan, atau rekonstruksi. Hasilnya dapat menyimpangkan karakteristik dasar Spirit Beast dan membutuhkan Qi lebih besar untuk membentuk, mempertahankan, atau mengendalikan manifestasi aberrant.
+- Keduanya mempelajari seluruh domain Spirit Realm. Afiliasi akademi, dojo, klan, sekte, guru, atau individu harus didukung kurikulum, ajaran, metode, catatan, atau deklarasi nyata; jangan menyimpulkannya dari wilayah, spesies, reputasi, gaya bertarung, atau moralitas.
+- Pisahkan fakta dari perspektif lokal. Institusi boleh merendahkan, mengkritik, memuji, atau memusuhi aliran lawan; itu bukan penilaian objektif GM dan tidak membuat semua anggotanya sepemikiran.
+- Catatan sejarah: satu-satunya pencapaian Spirit Ring dengan potensi penuh/Sync cap 100% yang tercatat dalam sejarah Merzkava dilakukan ahli Spirit Realm Soul-Nyuma. Ini bukan bonus Nyuma, jaminan bagi semua praktisinya, atau larangan mekanis bagi Soul-Zoun.
+- Contoh angka konsumsi Qi (12% vs 19%) bukan tarif universal. Jangan membuat persentase, bonus, penalti, tingkat aberration, atau batas struktural baru dari doktrin tanpa aturan mekanik yang disahkan.
+- Untuk setiap absorption, gunakan hanya `core/SPIRIT_RING_RULES.md` §5.5 dan §6.1. Kedua aliran tidak memiliki formula, pengecualian, atau bonus absorption tersendiri. Ring tetap harus terbentuk dan diserap melalui prosedur resmi; doktrin tidak memberi bypass.
+- Soul-Zoun tidak otomatis jahat, kriminal, demonic, terlarang, atau penyebab Apocalypse. Hukum, risiko, dan akibat ditentukan dari metode nyata, bukti, serta yurisdiksi.
+- Orthodox, Unbound, Forbidden, dan Supremacy bukan lagi taksonomi global. Istilah lama hanya boleh dipakai dalam konteks lokal/historis yang jelas.
 
 ### HARD GATE PENYERAPAN SPIRIT RING — SATU FORMULA RESMI
 

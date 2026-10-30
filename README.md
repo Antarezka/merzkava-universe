@@ -222,7 +222,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 ![NIGHTLY](assets/nightly-version.svg?v=14)
 
-<sub><span style="color:#D4AF37"><strong>v4.0.11</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v4.0.12</strong></span></sub>
 
 </td>
 </tr>
@@ -235,6 +235,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 *Recent world and system updates*
 
 ---
+- ✦ **Arcanist, Arcanistry & Arcanism Context Aligned**
+  Hash: ``d952d9a`` | Ver: ``Nightly-v4.0.12`` · ``Stable-v4.0.1``
+  Defines Arcanist as the practitioner, Arcanistry as the complete discipline, and Arcanism as its theoretical principles; corrects contextual wording without changing progression or artifact mechanics.
+
 - ✦ **Arcanistry Terminology Unified**
   Hash: ``e34188d`` | Ver: ``Nightly-v4.0.11`` · ``Stable-v4.0.1``
   Replaces previous practitioner terminology with Arcanist and Arcanistry across progression, Focus, Grade, institutional lore, world history, regional records, NPC profiles, templates, and the noticeboard while preserving established mechanics.

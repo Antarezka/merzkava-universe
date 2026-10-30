@@ -35,7 +35,7 @@
 - **Arcanist specialties:** Not established.
 - **Equipment:** Not established.
 - **Known limitations:** Commercial experience does not establish Arcanist certification, artifact craftsmanship, or combat skill.
-- **Source module for mechanics:** `core/ARCANIST_AND_FORMULATION.md`; other capabilities follow relevant official modules.
+- **Source module for mechanics:** `core/ARCANISTRY_AND_FORMULATION.md`; other capabilities follow relevant official modules.
 
 ## 4. Motivations and Agency
 - **Immediate goal:** Find promising products and suppliers before competitors do.

@@ -35,7 +35,7 @@
 - **Arcanist specialties:** Formal specialization not established; interest in Arcanist study is established.
 - **Equipment:** Not established.
 - **Known limitations:** Interest and study do not establish grade, certification, or artifact-making competence.
-- **Source module for mechanics:** `core/ARCANIST_AND_FORMULATION.md`; other abilities follow relevant official modules.
+- **Source module for mechanics:** `core/ARCANISTRY_AND_FORMULATION.md`; other abilities follow relevant official modules.
 
 ## 4. Motivations and Agency
 - **Immediate goal:** Find a reliable way to test and compare competing technical explanations.

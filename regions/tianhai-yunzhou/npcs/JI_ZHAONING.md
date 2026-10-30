@@ -23,7 +23,7 @@ Ji Zhaoning is the elder twin daughter of Maharaja Ji Haoyuan and the late Bai X
 - Spirit Rings and techniques: None established.
 - Arcanist Grade: ???. Her focus on Arcanist development does not itself determine her current grade.
 - Equipment and limitations beyond her unawakened status: Not established.
-- Mechanics sources: core/ARCANIST_AND_FORMULATION.md; core/MARTIAL_SOUL_AWAKENING.md; core/CULTIVATION_SYSTEM.md.
+- Mechanics sources: core/ARCANISTRY_AND_FORMULATION.md; core/MARTIAL_SOUL_AWAKENING.md; core/CULTIVATION_SYSTEM.md.
 
 ## 4. Motivations and Agency
 - Current priority: Arcanist development.

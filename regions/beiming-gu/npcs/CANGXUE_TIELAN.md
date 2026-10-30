@@ -29,7 +29,7 @@
 - Arcanist Grade / specialties: Arcanist Grade 2; pemrosesan awal bahan mentah dan pengujian ketahanan.
 - Equipment: Practical northern clothing; named weapons, artifacts, and possessions are not established.
 - Known limitations: No special immunity, automatic success, or unlisted ability is established. Apply the official mechanics.
-- Source modules: `core/CULTIVATION_SYSTEM.md`, `core/MARTIAL_SOUL.md`, `core/ARCANIST_AND_FORMULATION.md`.
+- Source modules: `core/CULTIVATION_SYSTEM.md`, `core/MARTIAL_SOUL.md`, `core/ARCANISTRY_AND_FORMULATION.md`.
 
 ## 4. Motivations and Agency
 - Immediate goal: Fulfil current responsibilities for their clan or dojo; exact active task is not established.

@@ -28,7 +28,7 @@
 <!-- evidence cards begin; red threads are layered above the evidence -->
 <!-- LEFT: three powers dossier -->
 <g filter="url(#shadow)" transform="rotate(-1.2 180 315)">
- <rect x="66" y="242" width="226" height="159" fill="#E7DCC5" stroke="#28231D" stroke-width="3"/>
+ <rect x="66" y="242" width="226" height="159" fill="#E7DCC5" stroke="#28221D" stroke-width="3"/>
  <text x="82" y="265" font-family="monospace" font-size="11" font-weight="bold" fill="#9C332B">POLITICAL BALANCE / 03</text>
  <text x="82" y="292" font-family="Arial" font-size="18" font-weight="900" fill="#24211C">THREE POWERS</text>
  <text x="82" y="319" font-family="Arial" font-size="13" fill="#24211C">Golden Dragon Empire · East</text>

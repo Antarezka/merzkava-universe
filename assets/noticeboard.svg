@@ -26,7 +26,7 @@
 <!-- header strip, deliberately crooked -->
 <g transform="rotate(-.8 1280 125)"><path d="M85 62L2490 76L2480 207L74 192Z" fill="url(#aged)" stroke="#8E7C63" stroke-width="3"/>
 <path d="M103 79L2460 93" stroke="#B7A58A" stroke-width="2"/><text x="125" y="111" font-family="serif" font-size="17" letter-spacing="4" fill="#9D3F43">MERZKAVA · EASTERN FIELD ARCHIVE</text>
-<text x="120" y="148" font-family="Georgia,serif" font-size="31" font-weight="bold" letter-spacing="1.1" fill="#28363B">THE INVESTIGATION BOARD</text>
+<text x="120" y="148" font-family="Georgia,serif" font-size="25" font-weight="bold" letter-spacing="0.8" fill="#28363B">THE INVESTIGATION BOARD</text>
 <text x="126" y="177" font-family="serif" font-size="12" font-style="italic" fill="#59666A">Land · Sea · Spirit · Memory</text>
 <g transform="rotate(8 2350 135)"><rect x="2255" y="90" width="185" height="75" fill="#A9474D" stroke="#6F3439" stroke-width="3"/><text x="2348" y="120" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="2" fill="#FFF0DA">CASE FILE</text><text x="2348" y="148" text-anchor="middle" font-family="Georgia,serif" font-size="24" font-weight="bold" fill="#FFF0DA">NO. 07</text></g></g>
 <!-- MAIN LAND/SEA CHART: torn folded cartographic sheet -->
@@ -51,8 +51,8 @@
 </g>
 <!-- Spirit Realm ripped notebook page -->
 <g transform="rotate(1.6 1110 435)"><path d="M865 235L1355 247L1340 637L1308 630L1276 642L1236 630L1190 643L1150 629L1102 642L1060 628L1010 641L960 628L915 640L878 626Z" fill="url(#aged)" stroke="#8A7A63" stroke-width="3"/>
- <path d="M885 253L1335 264" stroke="#B4A388" stroke-width="2"/><text x="900" y="291" font-family="monospace" font-size="14" letter-spacing="2" fill="#A4484D">CULTIVATION FIELD NOTES / PAGE 09</text>
- <text x="897" y="333" font-family="Georgia,serif" font-size="31" font-weight="bold" fill="#29373C">THE NINE SPIRIT REALMS</text>
+ <path d="M885 253L1335 264" stroke="#B4A388" stroke-width="2"/><text x="900" y="291" font-family="monospace" font-size="11" letter-spacing="1.4" fill="#A4484D">CULTIVATION FIELD NOTES / PAGE 09</text>
+ <text x="897" y="333" font-family="Georgia,serif" font-size="22" font-weight="bold" fill="#29373C">THE NINE SPIRIT REALMS</text>
  <g font-family="Arial" font-size="17" fill="#35464A"><text x="905" y="373">1 Spirit Initiate</text><text x="905" y="401">2 Spirit Adept</text><text x="905" y="429">3 Spirit Elder</text><text x="905" y="457">4 Spirit Monarch</text><text x="905" y="485">5 Spirit King</text><text x="1110" y="373">6 Spirit Ancestor</text><text x="1110" y="401">7 Spirit Emperor</text><text x="1110" y="429">8 Spirit Sovereign</text><text x="1110" y="457">9 Spirit Primordial</text></g>
  <path d="M900 510L1308 510" stroke="#B4A388"/><text x="904" y="542" font-family="Arial" font-size="15" fill="#39494D">Four stages each: Early · Middle · Late · Peak</text><text x="904" y="570" font-family="Arial" font-size="15" fill="#39494D">One additional Spirit Ring slot per Spirit Realm.</text><text x="904" y="607" font-family="monospace" font-size="11" fill="#A4484D">MORTAL IS BEFORE SPIRIT REALM 1 — NOT ZERO</text>
  <path d="M1290 247L1355 249L1335 310L1312 292Z" fill="#C6B594"/><path d="M1312 292L1335 310" stroke="#8C7A60" stroke-width="2"/>
@@ -68,8 +68,8 @@
 </g>
 <!-- ring color sample strip, irregular pinned swatches -->
 <g transform="rotate(3 1890 450)"><path d="M1760 250L2295 235L2310 530L1770 548Z" fill="#D8CBB4" stroke="#877760" stroke-width="3"/>
- <text x="1790" y="290" font-family="monospace" font-size="13" letter-spacing="2" fill="#A4484D">BESTIARY / RING AGE COLOUR STUDY</text>
- <text x="1787" y="328" font-family="Georgia,serif" font-size="27" font-weight="bold" fill="#29373C">SPIRIT RING ARCHIVE</text>
+ <text x="1790" y="290" font-family="monospace" font-size="10.5" letter-spacing="1.2" fill="#A4484D">BESTIARY / RING AGE COLOUR STUDY</text>
+ <text x="1787" y="328" font-family="Georgia,serif" font-size="20" font-weight="bold" fill="#29373C">SPIRIT RING ARCHIVE</text>
  <g stroke="#655A4C" stroke-width="2"><path d="M1800 354L1855 354L1850 410L1797 410Z" fill="#722E3D"/><path d="M1880 354L1935 354L1930 410L1877 410Z" fill="#B48A2F"/><path d="M1960 354L2015 354L2010 410L1957 410Z" fill="#694A8C"/><path d="M2040 354L2095 354L2090 410L2037 410Z" fill="#D28C9B"/><path d="M2120 354L2175 354L2170 410L2117 410Z" fill="#342D3B"/></g>
  <g font-family="Arial" font-size="12" fill="#3B494D"><text x="1790" y="434">~500k</text><text x="1875" y="434">~1M</text><text x="1955" y="434">~2M</text><text x="2035" y="434">~4M</text><text x="2110" y="434">7–15M</text></g>
  <text x="1790" y="472" font-family="Arial" font-size="14" fill="#39494D">Maroon · Gold · Purple · Pink · Dark Vienna</text><text x="1790" y="500" font-family="Arial" font-size="14" fill="#39494D">Compatibility depends on tier, age gap and encounter.</text>
@@ -95,7 +95,7 @@
 </g>
 <!-- Soul Nyuma/Zoun folded note -->
 <g transform="rotate(-2.6 930 870)"><path d="M730 680L1140 694L1128 1080L1090 1066L1050 1082L1000 1066L950 1080L910 1065L860 1080L810 1065L750 1080Z" fill="url(#aged)" stroke="#8A7A63" stroke-width="3"/>
- <text x="760" y="727" font-family="monospace" font-size="13" letter-spacing="2" fill="#A4484D">DOCTRINE / CLASSROOM DISPUTE</text><text x="755" y="770" font-family="Georgia,serif" font-size="30" font-weight="bold" fill="#29373C">SOUL-NYUMA / SOUL-ZOUN</text>
+ <text x="760" y="727" font-family="monospace" font-size="10.5" letter-spacing="1.2" fill="#A4484D">DOCTRINE / CLASSROOM DISPUTE</text><text x="755" y="770" font-family="Georgia,serif" font-size="21" font-weight="bold" fill="#29373C">SOUL-NYUMA / SOUL-ZOUN</text>
  <g font-family="Arial" font-size="16" fill="#39494D"><text x="766" y="814" font-weight="bold">NYUMA</text><text x="766" y="840">Preserves ring formation continuity;</text><text x="766" y="865">supports natural Spirit Beast expression.</text><text x="766" y="913" font-weight="bold">ZOUN</text><text x="766" y="939">Intervenes in the soul process: cuts,</text><text x="766" y="964">seals, suspends or reconstructs.</text><text x="766" y="1011">Institutions teach their own perspective.</text><text x="766" y="1037">Rival doctrines may despise one another.</text></g>
  <path d="M1105 694L1140 694L1120 750L1101 732Z" fill="#C7B898"/><path d="M1101 732L1120 750" stroke="#87765D" stroke-width="2"/>
 </g>
@@ -109,19 +109,19 @@
 </g>
 <!-- history and relic slip -->
 <g transform="rotate(-1.2 1740 850)"><path d="M1550 665L1975 680L1960 1070L1920 1055L1880 1073L1830 1058L1780 1073L1730 1056L1680 1072L1630 1056L1570 1070Z" fill="#D8CBB4" stroke="#86755E" stroke-width="3"/>
- <text x="1580" y="712" font-family="monospace" font-size="13" letter-spacing="2" fill="#A4484D">HISTORY / FRAGMENTED TESTIMONY</text><text x="1575" y="754" font-family="Georgia,serif" font-size="28" font-weight="bold" fill="#29373C">THE WORLD-GATE CRISIS</text>
+ <text x="1580" y="712" font-family="monospace" font-size="10.5" letter-spacing="1.2" fill="#A4484D">HISTORY / FRAGMENTED TESTIMONY</text><text x="1575" y="754" font-family="Georgia,serif" font-size="21" font-weight="bold" fill="#29373C">THE WORLD-GATE CRISIS</text>
  <g font-family="Arial" font-size="15" fill="#39494D"><text x="1585" y="797">Tier 7–9 demonic beasts crossed the gate.</text><text x="1585" y="825">Mass concealment used one-use artificial</text><text x="1585" y="850">Tier 8 devices based on a late maharani's</text><text x="1585" y="875">blueprint. Records disagree on the cost.</text><text x="1585" y="923" font-weight="bold">ARTIFACT ORIGINS</text><text x="1585" y="950">Relic — divine inheritance / object</text><text x="1585" y="977">Ancient Artifact — golden-age origin</text><text x="1585" y="1004">Artificial Artifact — made by Arcanist</text><text x="1585" y="1040" font-family="monospace" font-size="11" fill="#A4484D">WITNESS ≠ RUMOUR ≠ VERIFIED RECORD</text></g>
  <path d="M1930 680L1975 681L1956 741L1937 725Z" fill="#C5B594"/>
 </g>
 <!-- land region fragments -->
 <g transform="rotate(2.8 2200 850)"><path d="M2010 675L2440 660L2452 1085L2022 1100Z" fill="#D8CBB4" stroke="#86755E" stroke-width="3"/>
- <text x="2040" y="715" font-family="monospace" font-size="13" letter-spacing="2" fill="#A4484D">LAND / REGIONAL INDEX</text><text x="2038" y="756" font-family="Georgia,serif" font-size="27" font-weight="bold" fill="#29373C">THE MAINLAND</text>
+ <text x="2040" y="715" font-family="monospace" font-size="10.5" letter-spacing="1.2" fill="#A4484D">LAND / REGIONAL INDEX</text><text x="2038" y="756" font-family="Georgia,serif" font-size="20" font-weight="bold" fill="#29373C">THE MAINLAND</text>
  <g font-family="Arial" font-size="15" fill="#39494D"><text x="2045" y="797" font-weight="bold">GOLDEN DRAGON EMPIRE / EAST</text><text x="2045" y="823">Longyuan · Canglan · Jinyue</text><text x="2045" y="847">Tianfeng · Yanling · Baiyue · Xingluo</text><text x="2045" y="885" font-weight="bold">BEIMING GU / NORTH</text><text x="2045" y="911">Cold mountain frontier, rare metals</text><text x="2045" y="949" font-weight="bold">LAWLESS TERRITORIES / WEST-SOUTHWEST</text><text x="2045" y="975">Independent settlements and shadow markets</text><text x="2045" y="1014">The floating Tianhai island lies over</text><text x="2045" y="1039">Yunmeng Sea in the southwest.</text></g>
  <path d="M2400 661L2450 661L2428 720L2406 705Z" fill="#F2E8D5"/>
 </g>
 <!-- sea chart notes -->
 <g transform="rotate(-4 480 1330)"><rect x="105" y="1160" width="500" height="360" fill="#D4C7B0" stroke="#81715A" stroke-width="3"/>
- <text x="135" y="1204" font-family="monospace" font-size="13" letter-spacing="2" fill="#A4484D">MARITIME ROUTE / NAVIGATOR'S SCRAP</text><text x="130" y="1245" font-family="Georgia,serif" font-size="27" font-weight="bold" fill="#29373C">SIX NAMED WATERS</text>
+ <text x="135" y="1204" font-family="monospace" font-size="10.5" letter-spacing="1.2" fill="#A4484D">MARITIME ROUTE / NAVIGATOR'S SCRAP</text><text x="130" y="1245" font-family="Georgia,serif" font-size="20" font-weight="bold" fill="#29373C">SIX NAMED WATERS</text>
  <g font-family="Arial" font-size="15" fill="#39494D"><text x="140" y="1286">Frostmirror Sea — northern coast</text><text x="140" y="1314">Eastern Azure Sea — eastern shipping lane</text><text x="140" y="1342">Yunmeng Sea — Tianhai home waters</text><text x="140" y="1370">Wufeng Sea — windless basin</text><text x="140" y="1398">Black Tide Sea — ordinary southern waters</text><text x="140" y="1426">Guixu Canghai — far-southern polar ocean</text></g>
  <path d="M135 1450L565 1450" stroke="#AA9A7E"/><text x="140" y="1482" font-family="Arial" font-size="14" fill="#39494D">Wufeng: still water, no wind, wave or current.</text><text x="140" y="1507" font-family="Arial" font-size="14" fill="#39494D">Guixu: depth, pressure and danger intensify southward.</text>
 </g>
@@ -136,13 +136,13 @@
 </g>
 <!-- faction card, not a plain rectangle -->
 <g transform="rotate(1.8 1370 1320)"><path d="M1165 1160L1570 1170L1555 1515L1520 1500L1485 1518L1445 1503L1405 1518L1365 1501L1325 1518L1285 1501L1245 1517L1180 1500Z" fill="url(#aged)" stroke="#88775F" stroke-width="3"/>
- <text x="1200" y="1208" font-family="monospace" font-size="13" letter-spacing="2" fill="#A4484D">FACTIONS / RUIN EXPLORATION</text><text x="1195" y="1250" font-family="Georgia,serif" font-size="27" font-weight="bold" fill="#29373C">WHO RECORDS THE UNKNOWN?</text>
+ <text x="1200" y="1208" font-family="monospace" font-size="10.5" letter-spacing="1.2" fill="#A4484D">FACTIONS / RUIN EXPLORATION</text><text x="1195" y="1250" font-family="Georgia,serif" font-size="20" font-weight="bold" fill="#29373C">WHO RECORDS THE UNKNOWN?</text>
  <g font-family="Arial" font-size="15" fill="#39494D"><text x="1205" y="1292" font-weight="bold">WORLD KNOWLEDGE TOWER</text><text x="1205" y="1318">Anomaly detection and world knowledge.</text><text x="1205" y="1360" font-weight="bold">ORDO / RUINED ARCHIVER</text><text x="1205" y="1386">An Ordo branch; maps ruins, verifies findings</text><text x="1205" y="1412">and rewards reliable exploration records.</text><text x="1205" y="1455" font-weight="bold">AZERION MEGA-LABYRINTH</text><text x="1205" y="1481">Unexplored deep-sea ruin. Dead-zone risk.</text></g>
  <path d="M1520 1170L1570 1170L1545 1230L1528 1210Z" fill="#C7B798"/>
 </g>
 <!-- Arcanistry notebook -->
 <g transform="rotate(-2.8 1810 1340)"><path d="M1600 1155L2040 1168L2025 1520L1985 1506L1945 1525L1905 1507L1865 1525L1825 1507L1785 1525L1745 1507L1705 1524L1640 1507L1610 1520Z" fill="#D9CDB7" stroke="#82715A" stroke-width="3"/>
- <text x="1635" y="1202" font-family="monospace" font-size="13" letter-spacing="2" fill="#A4484D">CRAFT / THINKER STUDIES</text><text x="1630" y="1245" font-family="Georgia,serif" font-size="28" font-weight="bold" fill="#29373C">ARCANISTRY / A SEPARATE PATH</text>
+ <text x="1635" y="1202" font-family="monospace" font-size="10.5" letter-spacing="1.2" fill="#A4484D">CRAFT / THINKER STUDIES</text><text x="1630" y="1245" font-family="Georgia,serif" font-size="21" font-weight="bold" fill="#29373C">ARCANISTRY / A SEPARATE PATH</text>
  <g font-family="Arial" font-size="15" fill="#39494D"><text x="1640" y="1287">Thinker progression is independent of Spirit Realm.</text><text x="1640" y="1315">Engravers, formulations and Artificial Artifacts.</text><text x="1640" y="1355" font-weight="bold">TIANHAI ARCANIST INSTITUTE</text><text x="1640" y="1381">Sole institution of its breadth and level — not</text><text x="1640" y="1407">the only workshop or practicing Arcanist.</text><text x="1640" y="1447">Grade 1–10 requires official examination.</text><text x="1640" y="1480">Formation Engraver: precision tool for patterns.</text></g>
  <path d="M1988 1168L2040 1168L2018 1232L1994 1214Z" fill="#F2E8D5"/>
 </g>

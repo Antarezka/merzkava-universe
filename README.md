@@ -33,7 +33,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ![THE NOTICEBOARD](https://img.shields.io/badge/THE_NOTICEBOARD-FFFFFF?style=for-the-badge&labelColor=151515)
 
-![Eastern-inspired Merzkava investigation board with multiple character portrait photographs, land and sea maps, layered evidence, lacquered wood, cloud ornaments and taut blue-red threads](assets/noticeboard.svg?v=18)
+![Eastern-inspired Merzkava investigation board with multiple character portrait photographs, land and sea maps, layered evidence, lacquered wood, cloud ornaments and taut blue-red threads](assets/noticeboard.svg?v=19)
 
 ---
 
@@ -220,9 +220,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" alt="GitHub" />
 
-![NIGHTLY](assets/nightly-version.svg?v=22)
+![NIGHTLY](assets/nightly-version.svg?v=23)
 
-<sub><span style="color:#D4AF37"><strong>v4.0.23</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v4.0.27</strong></span></sub>
 
 </td>
 </tr>
@@ -235,6 +235,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 *Recent world and system updates*
 
 ---
+- ✦ **Investigation Board — Header Typography Reduced**
+  Hash: ``ad4bab0`` | Ver: ``Nightly-v4.0.27`` · ``Stable-v4.0.1``
+  Reduces oversized section labels and paper titles, including Soul-Nyuma / Soul-Zoun, so headers fit their paper panels. Leaves all other artwork and content unchanged.
 - ✦ **Investigation Board — Fine Varied Investigation Threads**
   Hash: ``abc53da`` | Ver: ``Nightly-v4.0.26`` · ``Stable-v4.0.1``
   Replaces heavy cords with varied hair-thin red and blue silk lines, subtle shadows and small pin tips. Keeps lettering within the board and header strip.
@@ -250,10 +253,6 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 - ✦ **Noticeboard Restored to fac63a8 Design**
   Hash: ``cc57a2a`` | Ver: ``Nightly-v4.0.17`` · ``Stable-v4.0.1``
   Restores the noticeboard SVG from commit `fac63a8`; removes the replacement artwork and refreshes the README image cache reference.
-- ✦ **Noticeboard Evidence Threads Reworked**
-  Hash: ``fac63a8`` | Ver: ``Nightly-v4.0.16`` · ``Stable-v4.0.1``
-  Replaces thick decorative cords with finer, taut, intersecting evidence strings; adds restrained pin wraps and short loose ends, following the Reverse: 1999 relation-board visual language.
-
 
 </div>
 

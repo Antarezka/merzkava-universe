@@ -190,6 +190,18 @@ This fact does **not** mean:
 
 The actual Sync cap for each absorption attempt remains calculated exclusively under `core/SPIRIT_RING_RULES.md`. This is a historical record, not a mechanical modifier or prediction about the future. No individual identity, date, location, or additional event is established by this statement unless another canon source records it.
 
+## 10A. Aberration and the Ancient Calamity
+
+The ancient world-spanning calamity involved anomalies that exceeded safe limits, opened gates to other worlds, and allowed Tier 7–9 Demonic Beasts to descend. It is a historical example of catastrophic aberrant phenomena, but it is **not the definition of Soul-Zoun** and is not established as having been caused by Soul-Zoun or its practitioners.
+
+Not every aberration opens a gate, attracts a Demonic Beast, or escalates into an apocalypse. AWR checks, anomalies, gate openings, and world-scale incursions remain distinct events governed by their dedicated mechanics and historical canon. The calamity may shape research ethics, public fear, institutional safeguards, historical memory, and political policy toward aberrant phenomena; responses vary by institution and region.
+
+## 10B. Retired Global Classification
+
+The former four-part global classification—**Orthodox, Unbound, Forbidden, and Supremacy**—is retired and must not be used as the world's formal taxonomy of Spirit Realm traditions. Do not mechanically map the old labels onto Soul-Nyuma or Soul-Zoun.
+
+Those words may survive only as contextual local, historical, legal, religious, or factional descriptions. For example, “forbidden” describes a restriction imposed by an authority, not an inherent property of Soul-Zoun; “orthodox” may describe a local institution's established custom, not a universal Spirit Realm tradition. Such usage must not recreate the retired global system.
+
 ## 11. Classification and GM Application
 
 When a tradition matters to a scene, GM must:

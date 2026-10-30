@@ -33,7 +33,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ![THE NOTICEBOARD](https://img.shields.io/badge/THE_NOTICEBOARD-FFFFFF?style=for-the-badge&labelColor=151515)
 
-![Merzkava Universe wide Reverse 1999-inspired world archive wall covering Spirit Realm, three powers, geography, characters, Spirit Beasts and Rings, history, factions, travel, economy, education and Arcanistry](assets/noticeboard.svg?v=13)
+![Merzkava Universe chaotic Reverse 1999-inspired evidence wall with folded photographs, character silhouettes, miniature land and sea maps, Spirit Realm notes, Spirit Beasts, factions, regional lore and taut blue-red threads](assets/noticeboard.svg?v=14)
 
 ---
 
@@ -199,7 +199,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 [Rollback instructions](SAFE_VERSION.md)
 
-<sub><span style="color:#D4AF37"><strong>v4.0.21</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v4.0.22</strong></span></sub>
 
 </td>
 </tr>
@@ -220,7 +220,7 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" alt="GitHub" />
 
-![NIGHTLY](assets/nightly-version.svg?v=20)
+![NIGHTLY](assets/nightly-version.svg?v=21)
 
 <sub><span style="color:#D4AF37"><strong>v4.0.21</strong></span></sub>
 
@@ -235,24 +235,24 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 *Recent world and system updates*
 
 ---
+- ✦ **World Investigation Wall — Tangled Archive Collage**
+  Hash: ``4447b6d`` | Ver: ``Nightly-v4.0.22`` · ``Stable-v4.0.1``
+  Reworks the noticeboard with taut multicolored blue-red evidence threads, crooked and folded photo prints, character silhouettes, separate miniature mainland and sea charts, Spirit Realm, Spirit Beast, doctrine, history, regional and faction files, Azerion, and Arcanistry. Refreshes README pin and image cache.
 - ✦ **Merzkava World Archive Wall Rebuilt**
   Hash: ``894f4b2`` | Ver: ``Nightly-v4.0.21`` · ``Stable-v4.0.1``
-  Replaces the narrow Arcanistry-focused board with a wide, densely layered world investigation wall: Spirit Realm, three powers, geography, characters, Spirit Beasts and Rings, doctrine, history, factions, Azerion, travel, economy, festivals, academies and Arcanistry. Adds scattered tilted evidence, archival imagery, and fine blue-red threads.
+  Replaces the narrow Arcanistry-focused board with a wide, densely layered world investigation wall: Spirit Realm, three powers, geography, characters, Spirit Beasts and Rings, doctrine, history, factions, Azerion, travel, economy, festivals, academies and Arcanistry.
 - ✦ **Noticeboard SVG Compatibility Rebuilt**
   Hash: ``0305060`` | Ver: ``Nightly-v4.0.20`` · ``Stable-v4.0.1``
-  Removes SVG filters and reusable symbol references that may be stripped by GitHub's renderer; keeps the full layered board using basic SVG shapes and paths. Refreshes the image cache and pinned source.
+  Removes SVG filters and reusable symbol references that may be stripped by GitHub's renderer; keeps the layered board using basic SVG shapes and paths.
 - ✦ **Arcanistry Investigation Wall Expanded**
   Hash: ``192de0e`` | Ver: ``Nightly-v4.0.18`` · ``Stable-v4.0.1``
-  Rebuilds the noticeboard as a layered Reverse: 1999-inspired archival wall; expands the four academies, Tianhai Arcanist Institute, focus stages, Grade progression, advanced credential gates, research remit, Formation Engraver, and artifact history. Adds hairline pale-blue and red evidence threads.
+  Expands the four academies, Tianhai Arcanist Institute, focus stages, Grade progression, advanced credential gates, research remit, Formation Engraver, and artifact history.
 - ✦ **Noticeboard Restored to fac63a8 Design**
   Hash: ``cc57a2a`` | Ver: ``Nightly-v4.0.17`` · ``Stable-v4.0.1``
   Restores the noticeboard SVG from commit `fac63a8`; removes the replacement artwork and refreshes the README image cache reference.
 - ✦ **Noticeboard Evidence Threads Reworked**
   Hash: ``fac63a8`` | Ver: ``Nightly-v4.0.16`` · ``Stable-v4.0.1``
   Replaces thick decorative cords with finer, taut, intersecting evidence strings; adds restrained pin wraps and short loose ends, following the Reverse: 1999 relation-board visual language.
-- ✦ **Canonical GM Options Layout Enforced**
-  Hash: ``907b64b`` | Ver: ``Nightly-v4.0.15`` · ``Stable-v4.0.1``
-  Aligns INDEX, Authority Order, and the gameplay template on the exact framed `PILIHAN AKSI GM` block. Numbered lists, plain bullets, and alternate headings are explicitly invalid; all other visual panels and mechanics remain unchanged.
 
 
 </div>

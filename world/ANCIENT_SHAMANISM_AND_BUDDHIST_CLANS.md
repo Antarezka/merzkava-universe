@@ -95,6 +95,9 @@ The specific mudras, named techniques, range, damage, costs, speed, and combat m
 6. Their established lore does not override cultivation, Martial Soul, combat, injury, or time mechanics. Use the relevant mechanics modules when resolving actions.
 7. If an encounter requires an unspecified detail, keep it unknown or establish only the minimum provisional detail needed for that scene; do not silently convert improvisation into permanent world canon.
 
+
+**Spirit Realm tradition boundary:** These two groups retain their separately established identities, beliefs, and philosophies. Do not classify either as Soul-Nyuma or Soul-Zoun merely from its shamanic, Buddhist, religious, or hidden identity. Apply `core/SPIRIT_REALM_TRADITIONS.md` only if its actual teachings or methods establish that affiliation.
+
 ---
 
 **Canon boundary:** This file records the owner's established concepts and the explicitly stated hierarchy. Unknown names, exact membership, geography, techniques, rituals, and relationships remain open for future decisions.

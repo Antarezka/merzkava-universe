@@ -8,6 +8,8 @@
 
 Use each term according to its referent. Do not use Arcanist as the name of the discipline, Arcanistry as a person's title, or Arcanism as a synonym for the entire field. Arcanist Grade and Arcanist Focus remain the only official progression labels; these terms do not create or alter any tradition classification.
 
+**Relationship to Spirit Realm traditions:** Arcanistry is independent of both Spirit Realm — Soul-Nyuma and Spirit Realm — Soul-Zoun. Arcanists may research, document, formulate, or engineer applications relevant to either tradition, but Arcanistry is not a third Spirit Realm doctrine and does not merge with either one. Spirit Realm tradition doctrine is defined in `core/SPIRIT_REALM_TRADITIONS.md`; Arcanist progression remains separate.
+
 **Status:** Mandatory Arcanist progression and certification protocol integrated. Artificial Artifact condition scoring is formally defined in §14. Production success chance remains separate from the quality score; random-resolution procedure, situational success modifiers, numerical training costs, and other unresolved production parameters remain undefined until formally approved.
 
 

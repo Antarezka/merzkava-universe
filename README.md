@@ -33,7 +33,7 @@ Accents: warm yellow #FFE066 and coral #F25C54. Teasers only; deep lore stays in
 
 ![THE NOTICEBOARD](https://img.shields.io/badge/THE_NOTICEBOARD-FFFFFF?style=for-the-badge&labelColor=151515)
 
-![Merzkava Universe antique Arcanistry investigation wall with four Tianhai academies, the exclusive Tianhai Arcanist Institute, Grade progression, research fields, artifact engraving, and historical evidence](assets/noticeboard.svg?v=10)
+![Merzkava Universe antique Arcanistry investigation wall with four Tianhai academies, the exclusive Tianhai Arcanist Institute, Grade progression, research fields, artifact engraving, and historical evidence](assets/noticeboard.svg?v=11)
 
 ---
 
@@ -220,9 +220,9 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" alt="GitHub" />
 
-![NIGHTLY](assets/nightly-version.svg?v=17)
+![NIGHTLY](assets/nightly-version.svg?v=18)
 
-<sub><span style="color:#D4AF37"><strong>v4.0.18</strong></span></sub>
+<sub><span style="color:#D4AF37"><strong>v4.0.19</strong></span></sub>
 
 </td>
 </tr>
@@ -235,6 +235,10 @@ NPCs have their own priorities; trade, festivals, rivalries, and political tensi
 *Recent world and system updates*
 
 ---
+- ✦ **Noticeboard SVG XML Rendering Fixed**
+  Hash: ``20367a3`` | Ver: ``Nightly-v4.0.19`` · ``Stable-v4.0.1``
+  Escapes all seven unencoded ampersands in SVG text, fixing invalid XML that caused GitHub to display a broken/fragmented image. Refreshes the pinned source and image cache.
+
 - ✦ **Arcanistry Investigation Wall Expanded**
   Hash: ``192de0e`` | Ver: ``Nightly-v4.0.18`` · ``Stable-v4.0.1``
   Rebuilds the noticeboard as a layered Reverse: 1999-inspired archival wall; expands the four academies, Tianhai Arcanist Institute, focus stages, Grade progression, advanced credential gates, research remit, Formation Engraver, and artifact history. Adds hairline pale-blue and red evidence threads.

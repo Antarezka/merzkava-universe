@@ -190,14 +190,7 @@
  <path d="M1000 315 C920 400 850 440 760 510 C850 620 930 660 1025 710"/>
  <path d="M1020 510 C930 475 850 465 760 510 C650 540 560 540 457 500"/>
  <path d="M505 700 C590 625 650 590 760 510 C850 430 930 390 1000 315"/>
- <path d="M245 710 C210 800 300 850 470 875 S760 900 900 875"/>
- <path d="M748 700 C730 790 810 835 900 875 S1040 865 1060 890"/>
- <path d="M457 500 C390 600 360 770 470 875"/>
- <path d="M760 510 C690 620 690 770 748 875"/>
- <path d="M180 315 C120 420 115 560 245 710 C350 810 400 840 470 875"/>
  <path d="M414 315 C570 260 690 265 750 315 C850 245 930 235 1000 315"/>
- <path d="M185 500 C300 540 380 570 505 700 C620 800 700 835 748 875"/>
- <path d="M1025 710 C1085 760 1090 820 1060 890"/>
 </g>
 <!-- Exposed knots and pin heads sit on top of both cards and cords -->
 <g fill="#D9C6A4" stroke="#761C20" stroke-width="2.5">
@@ -207,7 +200,7 @@
  <circle cx="750" cy="315" r="7"/><circle cx="1000" cy="315" r="7"/>
  <circle cx="760" cy="510" r="7"/><circle cx="1020" cy="510" r="7"/>
  <circle cx="748" cy="700" r="7"/><circle cx="1025" cy="710" r="7"/>
- <circle cx="470" cy="875" r="6"/><circle cx="748" cy="875" r="6"/><circle cx="900" cy="875" r="6"/>
+ 
 </g>
 <!-- Loose thread tails and crossed knots for a lived-in investigation wall -->
 <g fill="none" stroke="#B52A2B" stroke-width="3" stroke-linecap="round" opacity=".9">

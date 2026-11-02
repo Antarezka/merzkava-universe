@@ -24,7 +24,11 @@ jobs:
 
       - name: Fetch every branch and tag
         run: |
-          git fetch origin '+refs/heads/*:refs/heads/*' --tags --prune
+          git fetch origin '+refs/heads/*:refs/remotes/origin/*' --tags --prune
+          while read -r sha ref; do
+            branch="${ref#refs/remotes/origin/}"
+            git update-ref "refs/heads/backup/${branch}" "$sha"
+          done < <(git for-each-ref --format='%(objectname) %(refname)' refs/remotes/origin)
           git show-ref | sort > refs.txt
 
       - name: Create and verify complete Git bundle
@@ -37,9 +41,9 @@ jobs:
         shell: bash
         run: |
           REPO="${GITHUB_REPOSITORY##*/}"
-          git archive --format=zip --output="backup/${REPO}-main-source.zip" refs/heads/main
-          if git show-ref --verify --quiet refs/heads/feature/archive-experience; then
-            git archive --format=zip --output="backup/${REPO}-feature-archive-experience.zip" refs/heads/feature/archive-experience
+          git archive --format=zip --output="backup/${REPO}-main-source.zip" refs/remotes/origin/main
+          if git show-ref --verify --quiet refs/remotes/origin/feature/archive-experience; then
+            git archive --format=zip --output="backup/${REPO}-feature-archive-experience.zip" refs/remotes/origin/feature/archive-experience
           fi
           cp refs.txt "backup/${REPO}-git-refs.txt"
           cat > "backup/RESTORE-INSTRUCTIONS.txt" <<'EOF'

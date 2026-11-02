@@ -1,0 +1,72 @@
+name: Full Repository Backup
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: full-repository-backup
+  cancel-in-progress: false
+
+jobs:
+  backup:
+    name: Package all branches, tags and history
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fetch every branch and tag
+        run: |
+          git fetch origin '+refs/heads/*:refs/heads/*' --tags --prune
+          git show-ref | sort > refs.txt
+
+      - name: Create and verify complete Git bundle
+        run: |
+          mkdir -p backup
+          git bundle create "backup/${GITHUB_REPOSITORY##*/}-full-history.bundle" --all
+          git bundle verify "backup/${GITHUB_REPOSITORY##*/}-full-history.bundle"
+
+      - name: Create easy-to-open source snapshots
+        shell: bash
+        run: |
+          REPO="${GITHUB_REPOSITORY##*/}"
+          git archive --format=zip --output="backup/${REPO}-main-source.zip" refs/heads/main
+          if git show-ref --verify --quiet refs/heads/feature/archive-experience; then
+            git archive --format=zip --output="backup/${REPO}-feature-archive-experience.zip" refs/heads/feature/archive-experience
+          fi
+          cp refs.txt "backup/${REPO}-git-refs.txt"
+          cat > "backup/RESTORE-INSTRUCTIONS.txt" <<'EOF'
+          COMPLETE RESTORE:
+          1. Install Git on your computer.
+          2. Run: git clone <repository-name>-full-history.bundle restored-project
+          3. Run: cd restored-project
+          4. Run: git branch -a
+          The bundle contains the fetched branch refs, tags, and reachable commit history.
+          
+          QUICK SOURCE VIEW:
+          Extract the *-main-source.zip file. For Merzkava APK, the
+          *-feature-archive-experience.zip file is the active development snapshot.
+          Source ZIP files do not contain Git history; use the .bundle for full recovery.
+          EOF
+          sha256sum backup/* > backup/SHA256SUMS.txt
+
+      - name: Publish permanent backup release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: repo-backup-${{ github.run_id }}
+          name: Full repository backup ${{ github.run_id }}
+          target_commitish: main
+          generate_release_notes: false
+          body: |
+            Automated backup containing a verified Git bundle (branches, tags and reachable history), source ZIP snapshots, refs list, restore instructions and SHA-256 checksums.
+            Download all assets and keep a copy outside GitHub.
+          files: backup/*
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

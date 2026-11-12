@@ -326,4 +326,20 @@ MERZKAVA UNIVERSE · ROADMAP
 
 *Cultivate. Create. Explore. Choose—and live with what follows.*
 
+---
+
+<div align="center">
+
+![COPYRIGHT](https://img.shields.io/badge/COPYRIGHT-MERZKAVA_IP-151515?style=for-the-badge&labelColor=FFB36B)
+
+### © 2026 Kōrzova
+
+**ALL RIGHTS RESERVED**
+
+<sub>MERZKAVA POCKET · MERZKAVA UNIVERSE</sub>
+
+<sub>An intellectual property associated with Erzfia Atelier Works.</sub>
+
+</div>
+
 </div>
